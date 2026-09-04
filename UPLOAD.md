@@ -1,39 +1,42 @@
-# HCU Reader Recovery v0.5.3
+# README Purpose Update v0.6
 
-The latest deployment succeeded, but the deployed web folder lost two essential files:
+The GitHub connector can read the organization repositories, but direct writes to
+the organization currently return:
 
-- `web/assets/app.js`
-- `web/assets/styles.css`
+`403 Resource not accessible by integration`
 
-GitHub Actions confirmed this with:
+So this package contains the prepared README replacements.
 
-`Asset versions: app=missing, css=missing`
+## Repository 1 — human-centered-universe
 
-This recovery package restores both files and places the Turkish-localization
-helpers directly inside `app.js`, so the reader no longer depends on a separate
-runtime patch file.
+Copy:
 
-## Upload
+- `human-centered-universe/README.md` → repo root `README.md`
+- `human-centered-universe/README.tr.md` → repo root `README.tr.md`
 
-Copy the contents of this package into the root of the existing
-`human-centered-universe` repository and choose **Replace**.
+Suggested commit:
 
-Commit message:
+`Clarify HCU purpose and open imagination`
 
-`Restore reader assets and Turkish localization`
+## Repository 2 — human-centered-computing/.github
 
-Push to `main`.
+Copy:
 
-After deployment, the build log should say:
+- `.github/profile/README.md` → `profile/README.md`
 
-`Asset versions: app=<hash>, css=<hash>`
+Suggested commit:
 
-—not `missing`.
+`Add Human-Centered Universe to organization mission`
 
-Test:
+## Main conceptual additions
 
-https://human-centered-computing.github.io/human-centered-universe/
-
-Turkish:
-
-https://human-centered-computing.github.io/human-centered-universe/?mode=explore&story=COM-0001&lang=tr
+- HCU is defined as an open thought laboratory as well as a book.
+- Ideas can be imagined freely in branches and forks.
+- Creative freedom is separated from canon governance.
+- Light is not automatically good; Darkness is not automatically evil.
+- Harmful/dark ideas may be explored without endorsement.
+- The goal is to identify valuable human needs inside harmful forms and transform
+  them without reproducing the harm.
+- HCU is positioned as the speculative/narrative layer of Human-Centered Computing.
+- Real projects such as Tapetum Sentinel may appear in the fictional universe only
+  with a clear boundary between present capability and science-fiction speculation.
