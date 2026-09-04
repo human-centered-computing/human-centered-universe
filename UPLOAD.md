@@ -1,16 +1,26 @@
-# BRG-0002 Upload
+# Upload Interactive Reader v0.1
 
-Copy these paths into the root of the existing `human-centered-universe` repository:
+Copy the following folders/files into the root of the existing `human-centered-universe` repository:
 
 ```text
-stories/bridges/BRG-0002/
-graph/universe.mmd
+.github/workflows/deploy-pages.yml
+scripts/build_reader.py
+web/
+docs/INTERACTIVE_READER.md
+locales/en.json
+locales/tr.json
 ```
 
-Then commit with:
+Do not delete the existing story, universe, graph, validation, or canon files.
 
-`Add BRG-0002 First Vibration canon story`
+Commit message:
 
-Push to `main`.
+`Add GitHub Pages interactive reader`
 
-After pushing, the existing validation workflow should validate BRG-0002 together with the existing live story nodes.
+Then push to `main`.
+
+After pushing, on GitHub:
+
+**Settings → Pages → Build and deployment → Source → GitHub Actions**
+
+Then open the **Actions** tab and check **Deploy Interactive Reader**.
