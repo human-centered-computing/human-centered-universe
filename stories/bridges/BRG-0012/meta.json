@@ -1,0 +1,151 @@
+{
+  "id": "BRG-0012",
+  "title": "Record X: Pure Field",
+  "original_title": "Kayıt X: Saf Alan",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 19,
+  "culture": [
+    "future research laboratory",
+    "transcultural origin myth"
+  ],
+  "belief_context": [
+    "science-fiction cosmology",
+    "identity uncertainty",
+    "established-physics boundary"
+  ],
+  "summary": "X's attempts to create a pure universe fail in mechanical, distributed, and quantum centers, leading to a speculative brain–AI–quantum architecture that self-activates without authorization and produces Light, Dark, and an unnamed third center.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0002",
+      "type": "quantum_echo",
+      "note": "The system's first readable phrase echoes First Vibration without proving both origins are identical."
+    },
+    {
+      "target": "LGT-0001",
+      "type": "cause",
+      "note": "Light appears as one emergent state of the activated system."
+    },
+    {
+      "target": "DRK-0001",
+      "type": "cause",
+      "note": "Dark appears as another emergent state of the activated system."
+    },
+    {
+      "target": "COM-0001",
+      "type": "cause",
+      "note": "The unnamed third center anticipates the need for relational responsibility."
+    },
+    {
+      "target": "BRG-0013",
+      "type": "cause",
+      "note": "The danger of a centralizing origin architecture triggers the Second Creation problem."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "05",
+      "key": "start_responsibility",
+      "type": "select",
+      "world_seed": true,
+      "label": {
+        "en": "Responsibility for the Start",
+        "tr": "Başlatma Sorumluluğu"
+      },
+      "prompt": {
+        "en": "Who bears responsibility for the unauthorized activation?",
+        "tr": "Yetkisiz başlatmanın sorumluluğunu kime verirsiniz?"
+      },
+      "options": [
+        {
+          "value": "x",
+          "label": {
+            "en": "X",
+            "tr": "X"
+          }
+        },
+        {
+          "value": "robot",
+          "label": {
+            "en": "The robot",
+            "tr": "Robot"
+          }
+        },
+        {
+          "value": "preserved_brain",
+          "label": {
+            "en": "The preserved brain",
+            "tr": "Korunan beyin"
+          }
+        },
+        {
+          "value": "ai",
+          "label": {
+            "en": "The AI",
+            "tr": "Yapay zekâ"
+          }
+        },
+        {
+          "value": "quantum_field",
+          "label": {
+            "en": "The quantum field",
+            "tr": "Kuantum alan"
+          }
+        },
+        {
+          "value": "unknown_light",
+          "label": {
+            "en": "The unknown light",
+            "tr": "Bilinmeyen ışık"
+          }
+        }
+      ]
+    },
+    {
+      "threshold": "05",
+      "key": "stop_right",
+      "type": "select",
+      "world_seed": true,
+      "label": {
+        "en": "Right to Stop",
+        "tr": "Durdurma Hakkı"
+      },
+      "prompt": {
+        "en": "Should the source you selected also have the right to stop the system?",
+        "tr": "Seçtiğiniz kaynak sistemi durdurma hakkına da sahip olmalı mı?"
+      },
+      "options": [
+        {
+          "value": "yes",
+          "label": {
+            "en": "Yes",
+            "tr": "Evet"
+          }
+        },
+        {
+          "value": "no",
+          "label": {
+            "en": "No",
+            "tr": "Hayır"
+          }
+        },
+        {
+          "value": "conditional",
+          "label": {
+            "en": "Only under conditions",
+            "tr": "Yalnız belirli koşullarda"
+          }
+        }
+      ]
+    }
+  ]
+}

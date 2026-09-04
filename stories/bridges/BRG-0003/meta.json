@@ -1,0 +1,45 @@
+{
+  "id": "BRG-0003",
+  "title": "Riha",
+  "original_title": "Riha",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 2,
+  "culture": [
+    "Riha / Şanlıurfa local memory",
+    "Kurdish and Turkish linguistic memory",
+    "multicultural research network"
+  ],
+  "belief_context": [
+    "plural interpretation",
+    "ancestral memory",
+    "dream narrative"
+  ],
+  "summary": "Maran returns from Berlin to Riha after an impossible archival signal connects family memory, Göbekli Tepe, multiple languages, and the unfinished question of what kind of body can carry a shared spirit.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0004",
+      "type": "cause",
+      "note": "The shared anomaly at 17:25 leads the group to compare their different experiences."
+    },
+    {
+      "target": "BRG-0001",
+      "type": "place",
+      "note": "The underground opening at Xerawreş becomes the threshold of the Stone Network."
+    },
+    {
+      "target": "COM-0001",
+      "type": "echo",
+      "note": "The dream's image of different hands forming one shape anticipates a relational Common Center."
+    }
+  ]
+}

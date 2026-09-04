@@ -33,5 +33,17 @@
   "no_results": "Eşleşen hikâye bulunamadı.",
   "resume": "Devam et",
   "story_connections": "Hikâye bağlantıları",
-  "reader_mode": "Okuma modu"
+  "reader_mode": "Okuma modu",
+  "world_seed": "Dünya Tohumu",
+  "your_world_seed": "Dünya Tohumunuz",
+  "world_seed_intro": "Cevaplarınız bir Dünya Tohumu oluşturur. Bu sürüm tohumu tarayıcınızda saklar; gelecekteki dallar bu tohumu farklı yollar ve dünyalar üretmek için kullanabilir.",
+  "world_seed_empty": "Dünya Tohumunuz henüz boş. Deneyim Eşikleri seçimlerinizi buraya ekler.",
+  "experience_threshold": "Deneyim Eşiği",
+  "stored_locally": "Yalnızca bu tarayıcıda saklanır",
+  "save_choice": "Dünya Tohumuna Kaydet",
+  "choose": "Seçin…",
+  "reset_world_seed": "Dünya Tohumunu Sıfırla",
+  "reset_world_seed_confirm": "Bu tarayıcıda saklanan tüm Dünya Tohumu seçimleri silinsin mi?",
+  "github_production_space": "GitHub evrenin üretim alanıdır. Commit'ler katkı geçmişini, branch'ler ihtimalleri korur; fork'lar bağımsız evrenlere dönüşebilir.",
+  "translation_adaptation_note": "Çeviriler aynı hikâye kimliğini korur. Kültürel yeniden yorumlar ise evrene bağlanan yeni hikâye düğümleri olur."
 }

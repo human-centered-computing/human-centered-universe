@@ -1,18 +1,22 @@
 {
   "id": "BRG-0001",
   "title": "The Stone Network",
+  "original_title": "Taş Ağ",
   "core": "BRIDGE",
   "status": "canon",
   "source_language": "en",
+  "book_order": 4,
   "culture": [
-    "Mesopotamia",
+    "Göbekli Tepe / Riha archaeological landscape",
+    "local place-name memory",
     "multicultural research network"
   ],
   "belief_context": [
-    "local narratives",
-    "plural interpretation"
+    "archaeological interpretation",
+    "narrative analogy",
+    "epistemic caution"
   ],
-  "summary": "Excavated underground structures around Göbekli Tepe reveal a distributed network topology when all surfaces are digitized as one system.",
+  "summary": "High-resolution scans of underground structures around Göbekli Tepe reveal a distributed topology of rooms, passages, gates, seven subnetworks, and a mathematically missing node rather than evidence of ancient electronics.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -23,19 +27,24 @@
   },
   "links": [
     {
+      "target": "BRG-0005",
+      "type": "cause",
+      "note": "The network's seven paths make Kawa's Shahmaran narrative newly relevant without proving it historically."
+    },
+    {
       "target": "LGT-0001",
       "type": "quantum_echo",
-      "note": "Structured topology echoes Light."
+      "note": "Its legible structure and desire for a center echo Light."
     },
     {
       "target": "DRK-0001",
       "type": "quantum_echo",
-      "note": "Missing nodes and discontinuities echo Dark."
+      "note": "Its gaps, missing node, and discontinuities echo Dark."
     },
     {
       "target": "COM-0001",
       "type": "quantum_echo",
-      "note": "The shifting, distributed center echoes Common."
+      "note": "Its center shifts with the route, echoing a relational rather than sovereign center."
     }
   ]
 }

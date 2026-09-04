@@ -1,0 +1,44 @@
+{
+  "id": "COM-0003",
+  "title": "Alpha One",
+  "original_title": "Alfa Bir",
+  "core": "COMMON",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 7,
+  "culture": [
+    "global multicultural network",
+    "local-language preservation"
+  ],
+  "belief_context": [
+    "plural interpretation",
+    "scientific uncertainty",
+    "consent"
+  ],
+  "summary": "Hundreds of people who encounter the call form a privacy-preserving, distributed research network that separates observation, inference, and narrative while refusing to centralize vulnerable human data.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "COM-0002",
+      "type": "memory",
+      "note": "Alpha One grows from the M1 anomaly and its warning."
+    },
+    {
+      "target": "BRG-0006",
+      "type": "cause",
+      "note": "The network's patterns converge on four labels: M1, X1, A1, and K1."
+    },
+    {
+      "target": "COM-0004",
+      "type": "future",
+      "note": "Its distributed validation architecture becomes the precursor of the Open Architects Network."
+    }
+  ]
+}

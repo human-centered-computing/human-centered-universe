@@ -1,0 +1,83 @@
+{
+  "id": "BRG-0008",
+  "title": "Before Measurement",
+  "original_title": "Ölçümden Önce",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 10,
+  "culture": [
+    "scientific research network",
+    "cross-cultural narrative analogy"
+  ],
+  "belief_context": [
+    "established physics",
+    "philosophical interpretation",
+    "science-fiction boundary"
+  ],
+  "summary": "Maran encounters superposition, measurement, decoherence, and entanglement as physical concepts while learning that their human-centered relevance lies in how measurement frameworks constrain what can be seen.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0009",
+      "type": "cause",
+      "note": "The limits of measurement open the next question: how finite beings relate to infinity."
+    },
+    {
+      "target": "LGT-0001",
+      "type": "contrast",
+      "note": "Light seeks one stable and legible result."
+    },
+    {
+      "target": "DRK-0001",
+      "type": "contrast",
+      "note": "Dark resists any result becoming permanently stable."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "Ψ",
+      "key": "first_measurement",
+      "type": "select",
+      "world_seed": true,
+      "label": {
+        "en": "Measurement",
+        "tr": "Ölçüm"
+      },
+      "prompt": {
+        "en": "Which question would you ask first about the same person?",
+        "tr": "Aynı insan hakkında önce hangi soruyu sorardınız?"
+      },
+      "options": [
+        {
+          "value": "risk",
+          "label": {
+            "en": "How risky are they?",
+            "tr": "Ne kadar riskli?"
+          }
+        },
+        {
+          "value": "need",
+          "label": {
+            "en": "What do they need?",
+            "tr": "Neye ihtiyaç duyuyor?"
+          }
+        },
+        {
+          "value": "change",
+          "label": {
+            "en": "What can they change?",
+            "tr": "Neyi değiştirebilir?"
+          }
+        }
+      ]
+    }
+  ]
+}

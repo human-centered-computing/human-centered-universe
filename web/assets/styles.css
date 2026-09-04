@@ -333,3 +333,86 @@ footer {
   .create-grid { grid-template-columns: 1fr; }
   .explore-head { align-items: stretch; flex-direction: column; }
 }
+
+
+/* World Seed / Experience Thresholds */
+.world-seed-card {
+  margin-top: 38px;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: linear-gradient(145deg, rgba(159,176,201,.08), rgba(116,216,177,.04));
+}
+.world-seed-card h2,
+.world-seed-overview h2 {
+  margin: 8px 0 0;
+}
+.world-seed-card > p,
+.world-seed-overview > p {
+  color: var(--muted);
+}
+.seed-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+.seed-head small {
+  color: var(--muted);
+}
+.seed-form {
+  display: grid;
+  gap: 16px;
+  margin-top: 18px;
+}
+.seed-field {
+  display: grid;
+  gap: 7px;
+}
+.seed-field > span {
+  color: var(--muted);
+  font-size: 14px;
+}
+.seed-field input,
+.seed-field textarea,
+.seed-field select {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--bg);
+  color: var(--text);
+  padding: 11px 12px;
+  resize: vertical;
+}
+.seed-field input:focus,
+.seed-field textarea:focus,
+.seed-field select:focus {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+.seed-summary {
+  display: grid;
+  gap: 8px;
+  margin-top: 14px;
+}
+.seed-summary-row {
+  display: grid;
+  grid-template-columns: minmax(110px, .8fr) minmax(120px, 1.2fr) auto;
+  gap: 10px;
+  align-items: baseline;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+}
+.seed-summary-row span,
+.seed-summary-row small {
+  color: var(--muted);
+}
+.seed-summary-row small {
+  font-size: 11px;
+}
+.seed-empty {
+  color: var(--muted);
+}
+.create-grid {
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+}

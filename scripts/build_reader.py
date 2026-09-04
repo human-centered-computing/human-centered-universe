@@ -15,7 +15,9 @@ shutil.copytree(WEB, SITE)
 (SITE / ".nojekyll").write_text("", encoding="utf-8")
 
 canon_order = {}
-canon_path = ROOT / "universe" / "canon-map.v0.1.json"
+canon_path = ROOT / "universe" / "canon-map.v0.2.json"
+if not canon_path.exists():
+    canon_path = ROOT / "universe" / "canon-map.v0.1.json"
 if canon_path.exists():
     canon = json.loads(canon_path.read_text(encoding="utf-8"))
     for chapter in canon.get("chapters", []):

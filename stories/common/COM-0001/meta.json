@@ -1,16 +1,20 @@
 {
   "id": "COM-0001",
   "title": "Turning the Battlefield into a Home",
+  "original_title": "Savaş Alanını Eve Çevirmek",
   "core": "COMMON",
   "status": "canon",
   "source_language": "en",
+  "book_order": 15,
   "culture": [
-    "multicultural"
+    "Şahmaran narrative echo",
+    "global human network"
   ],
   "belief_context": [
-    "plural"
+    "plural interpretation",
+    "relational ethics"
   ],
-  "summary": "The third field becomes a Common Center through dignity, responsibility, consent, contestability and repair.",
+  "summary": "Light and Dark try to turn the third field into their battlefield until Shahmaran reframes knowledge, power, and responsibility and Maran opens the Common Center with responsibility as its key.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -23,17 +27,42 @@
     {
       "target": "LGT-0001",
       "type": "contrast",
-      "note": "Light cannot decide alone."
+      "note": "Light cannot define the shared world alone."
     },
     {
       "target": "DRK-0001",
       "type": "contrast",
-      "note": "Dark cannot decide alone."
+      "note": "Dark cannot define the shared world alone."
     },
     {
-      "target": "BRG-0001",
-      "type": "quantum_echo",
-      "note": "The distributed Stone Network echoes the relational architecture of the Common Center."
+      "target": "COM-0004",
+      "type": "cause",
+      "note": "The Common Center becomes institutionalized as an open distributed network."
+    },
+    {
+      "target": "COM-0005",
+      "type": "cause",
+      "note": "Its values require explicit non-negotiable and adaptable rules."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "03",
+      "key": "third_rule",
+      "type": "textarea",
+      "world_seed": true,
+      "label": {
+        "en": "The Third Rule",
+        "tr": "Üçüncü Kural"
+      },
+      "prompt": {
+        "en": "Write a third option that limits both powers while preserving what is valuable in each.",
+        "tr": "Her iki gücü sınırlayan, fakat ikisinin de değerli yanını koruyan üçüncü bir kural yazın."
+      },
+      "placeholder": {
+        "en": "Your relational rule…",
+        "tr": "İlişkisel kuralınız…"
+      }
     }
   ]
 }

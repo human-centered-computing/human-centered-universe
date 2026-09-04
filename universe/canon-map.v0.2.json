@@ -1,0 +1,156 @@
+{
+  "version": "0.2",
+  "project": "Human-Centered Universe",
+  "canonical_language": "en",
+  "mapping_status": "live_canon",
+  "reader": "https://human-centered-computing.github.io/human-centered-universe/",
+  "chapters": [
+    {
+      "order": 1,
+      "id": "BRG-0002",
+      "title": "First Vibration",
+      "original_title": "İlk Titreşim",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 2,
+      "id": "BRG-0003",
+      "title": "Riha",
+      "original_title": "Riha",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 3,
+      "id": "BRG-0004",
+      "title": "The Seven Witnesses of the Dream",
+      "original_title": "Rüyanın Yedi Tanığı",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 4,
+      "id": "BRG-0001",
+      "title": "The Stone Network",
+      "original_title": "Taş Ağ",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 5,
+      "id": "BRG-0005",
+      "title": "Shahmaran's Silence",
+      "original_title": "Şahmaran'ın Sessizliği",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 6,
+      "id": "COM-0002",
+      "title": "M1",
+      "original_title": "M1",
+      "core": "COMMON"
+    },
+    {
+      "order": 7,
+      "id": "COM-0003",
+      "title": "Alpha One",
+      "original_title": "Alfa Bir",
+      "core": "COMMON"
+    },
+    {
+      "order": 8,
+      "id": "BRG-0006",
+      "title": "Four Names",
+      "original_title": "Dört İsim",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 9,
+      "id": "BRG-0007",
+      "title": "17:25",
+      "original_title": "Saat 17.25",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 10,
+      "id": "BRG-0008",
+      "title": "Before Measurement",
+      "original_title": "Ölçümden Önce",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 11,
+      "id": "BRG-0009",
+      "title": "The Mathematics of Infinity",
+      "original_title": "Sonsuzluğun Matematiği",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 12,
+      "id": "BRG-0010",
+      "title": "Where the Golden Ratio Broke",
+      "original_title": "Altın Oranın Kırıldığı Yer",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 13,
+      "id": "LGT-0001",
+      "title": "The Promise of Light",
+      "original_title": "Aydınlığın Vaadi",
+      "core": "LIGHT"
+    },
+    {
+      "order": 14,
+      "id": "DRK-0001",
+      "title": "The Gift of Darkness",
+      "original_title": "Karanlığın Hediyesi",
+      "core": "DARK"
+    },
+    {
+      "order": 15,
+      "id": "COM-0001",
+      "title": "Turning the Battlefield into a Home",
+      "original_title": "Savaş Alanını Eve Çevirmek",
+      "core": "COMMON"
+    },
+    {
+      "order": 16,
+      "id": "COM-0004",
+      "title": "The Open Architects Network",
+      "original_title": "Açık Mimarlar Ağı",
+      "core": "COMMON"
+    },
+    {
+      "order": 17,
+      "id": "COM-0005",
+      "title": "Golden and Variable Rules",
+      "original_title": "Altın ve Değişken Kurallar",
+      "core": "COMMON"
+    },
+    {
+      "order": 18,
+      "id": "BRG-0011",
+      "title": "The Rih Bridge",
+      "original_title": "Rih Köprüsü",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 19,
+      "id": "BRG-0012",
+      "title": "Record X: Pure Field",
+      "original_title": "Kayıt X: Saf Alan",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 20,
+      "id": "BRG-0013",
+      "title": "The Second Creation",
+      "original_title": "İkinci Yaratılış",
+      "core": "BRIDGE"
+    },
+    {
+      "order": 21,
+      "id": "COM-0006",
+      "title": "Creation Is Unfinished",
+      "original_title": "Yaratılış Tamamlanmadı",
+      "core": "COMMON"
+    }
+  ]
+}

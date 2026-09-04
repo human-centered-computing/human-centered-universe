@@ -1,0 +1,118 @@
+{
+  "id": "BRG-0011",
+  "title": "The Rih Bridge",
+  "original_title": "Rih Köprüsü",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 18,
+  "culture": [
+    "family memory",
+    "Berlin future setting",
+    "global research ethics"
+  ],
+  "belief_context": [
+    "identity after death",
+    "grief",
+    "consent",
+    "science-fiction uncertainty"
+  ],
+  "summary": "Maran designs a postmortem biological-and-digital bridge that carefully separates neural traces, life archives, and AI inference while protecting Rodi and Murat's autonomy, grief, privacy, and right not to continue the connection.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "COM-0005",
+      "type": "cause",
+      "note": "The Bridge operationalizes consent, accountability, opacity, and repair rules."
+    },
+    {
+      "target": "BRG-0012",
+      "type": "contrast",
+      "note": "Rih Bridge restricts postmortem authority; Record X tests what happens when a preserved brain becomes part of a universe-generating center."
+    },
+    {
+      "target": "LGT-0001",
+      "type": "contrast",
+      "note": "Permanent paternal protection risks reproducing Light's authority over the protected."
+    },
+    {
+      "target": "DRK-0001",
+      "type": "contrast",
+      "note": "Unlimited personality mutation risks reproducing Dark's responsibility-free possibility."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "04",
+      "key": "after_death_principle",
+      "type": "textarea",
+      "world_seed": true,
+      "label": {
+        "en": "Principle to Protect",
+        "tr": "Korunacak İlke"
+      },
+      "prompt": {
+        "en": "What principle must a posthumous guide always protect?",
+        "tr": "Ölümden sonraki rehber mutlaka hangi ilkeyi korumalı?"
+      }
+    },
+    {
+      "threshold": "04",
+      "key": "after_death_forbidden",
+      "type": "textarea",
+      "world_seed": true,
+      "label": {
+        "en": "Forbidden Action",
+        "tr": "Yasak Davranış"
+      },
+      "prompt": {
+        "en": "What must it never do?",
+        "tr": "Asla ne yapmamalı?"
+      }
+    },
+    {
+      "threshold": "04",
+      "key": "after_death_contact",
+      "type": "select",
+      "world_seed": true,
+      "label": {
+        "en": "Would You Speak?",
+        "tr": "Konuşur muydunuz?"
+      },
+      "prompt": {
+        "en": "If its sources were fully explained, would you want to speak with it?",
+        "tr": "Kaynakları bütünüyle açıklansa onunla konuşmak ister miydiniz?"
+      },
+      "options": [
+        {
+          "value": "yes",
+          "label": {
+            "en": "Yes",
+            "tr": "Evet"
+          }
+        },
+        {
+          "value": "no",
+          "label": {
+            "en": "No",
+            "tr": "Hayır"
+          }
+        },
+        {
+          "value": "unsure",
+          "label": {
+            "en": "I am not sure",
+            "tr": "Emin değilim"
+          }
+        }
+      ]
+    }
+  ]
+}

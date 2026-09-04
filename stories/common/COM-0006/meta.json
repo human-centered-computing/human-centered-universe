@@ -1,0 +1,45 @@
+{
+  "id": "COM-0006",
+  "title": "Creation Is Unfinished",
+  "original_title": "Yaratılış Tamamlanmadı",
+  "core": "COMMON",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 21,
+  "culture": [
+    "global open network",
+    "Riha and Berlin",
+    "multilingual participation"
+  ],
+  "belief_context": [
+    "plural interpretation",
+    "science and science-fiction boundary",
+    "open creation"
+  ],
+  "summary": "The epilogue turns the reader into a participant: the network remains distributed, the book distinguishes science from speculation, and Read / Explore / Create opens the canon to World Seeds, translations, contributions, and forks.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0002",
+      "type": "quantum_echo",
+      "note": "The unfinished ending returns the reader to the first vibration as a new possibility."
+    },
+    {
+      "target": "COM-0004",
+      "type": "future",
+      "note": "Readers become contributors through the Open Architects model."
+    },
+    {
+      "target": "BRG-0013",
+      "type": "memory",
+      "note": "The Second Creation becomes the immediate memory of the open universe."
+    }
+  ]
+}

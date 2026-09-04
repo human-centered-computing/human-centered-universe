@@ -1,0 +1,89 @@
+{
+  "id": "COM-0002",
+  "title": "M1",
+  "original_title": "M1",
+  "core": "COMMON",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 6,
+  "culture": [
+    "Riha personal memory",
+    "Berlin diaspora experience"
+  ],
+  "belief_context": [
+    "faith and doubt",
+    "ethical self-examination"
+  ],
+  "summary": "Maran confronts faith, doubt, memory, and an impossible personal archive as M1 identifies him as a node suited for connection and a future recording warns him not to build the center.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "COM-0003",
+      "type": "cause",
+      "note": "The personal M1 signal expands into the distributed Alpha One network."
+    },
+    {
+      "target": "BRG-0006",
+      "type": "future",
+      "note": "M1 later becomes one of the four identity labels in the Creation Protocol."
+    },
+    {
+      "target": "COM-0005",
+      "type": "future",
+      "note": "Questions of goodness, forgiveness, and responsibility later become explicit rules."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "01",
+      "key": "darkness_value",
+      "type": "select",
+      "world_seed": true,
+      "label": {
+        "en": "Darkness",
+        "tr": "Karanlık"
+      },
+      "prompt": {
+        "en": "What did darkness feel most like?",
+        "tr": "Karanlık size en çok neyi hissettirdi?"
+      },
+      "options": [
+        {
+          "value": "fear",
+          "label": {
+            "en": "Fear",
+            "tr": "Korku"
+          }
+        },
+        {
+          "value": "protection",
+          "label": {
+            "en": "Protection",
+            "tr": "Korunma"
+          }
+        },
+        {
+          "value": "uncertainty",
+          "label": {
+            "en": "Uncertainty",
+            "tr": "Belirsizlik"
+          }
+        },
+        {
+          "value": "freedom",
+          "label": {
+            "en": "Freedom",
+            "tr": "Özgürlük"
+          }
+        }
+      ]
+    }
+  ]
+}

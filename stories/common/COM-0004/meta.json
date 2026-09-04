@@ -1,0 +1,44 @@
+{
+  "id": "COM-0004",
+  "title": "The Open Architects Network",
+  "original_title": "Açık Mimarlar Ağı",
+  "core": "COMMON",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 16,
+  "culture": [
+    "global multicultural network",
+    "local autonomy"
+  ],
+  "belief_context": [
+    "open governance",
+    "plurality",
+    "human-centered transformation"
+  ],
+  "summary": "The Common Center becomes a distributed network where local communities define problems, publish methods openly, preserve contribution history, and treat branches, forks, and pull requests as structured possibilities rather than a single sovereign center.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "COM-0005",
+      "type": "cause",
+      "note": "Distributed contribution needs shared constraints that local variation cannot override."
+    },
+    {
+      "target": "BRG-0011",
+      "type": "future",
+      "note": "The network later governs the Rih Bridge as a high-stakes continuity experiment."
+    },
+    {
+      "target": "BRG-0013",
+      "type": "future",
+      "note": "Its distributed architecture becomes a model for the Second Creation."
+    }
+  ]
+}

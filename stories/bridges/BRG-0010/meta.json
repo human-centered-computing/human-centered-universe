@@ -1,0 +1,75 @@
+{
+  "id": "BRG-0010",
+  "title": "Where the Golden Ratio Broke",
+  "original_title": "Altın Oranın Kırıldığı Yer",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 12,
+  "culture": [
+    "mathematical history",
+    "Riha oral memory"
+  ],
+  "belief_context": [
+    "pattern interpretation",
+    "epistemic caution"
+  ],
+  "summary": "The golden ratio becomes a lesson in mathematical relation rather than universal perfection: meaning appears where living systems preserve relationship while allowing historically meaningful deviation.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "LGT-0001",
+      "type": "contrast",
+      "note": "Perfected repetition anticipates Light's temptation to eliminate deviation."
+    },
+    {
+      "target": "DRK-0001",
+      "type": "contrast",
+      "note": "Unlimited variation anticipates Dark's temptation to dissolve distinguishable structure."
+    },
+    {
+      "target": "COM-0001",
+      "type": "echo",
+      "note": "Relational proportion with room for difference anticipates Common."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "φ",
+      "key": "harmony_model",
+      "type": "select",
+      "world_seed": true,
+      "label": {
+        "en": "Broken Harmony",
+        "tr": "Bozulan Uyum"
+      },
+      "prompt": {
+        "en": "What protects harmony in your world?",
+        "tr": "Dünyanızda uyumu koruyan şey nedir?"
+      },
+      "options": [
+        {
+          "value": "perfect_repetition",
+          "label": {
+            "en": "Perfect repetition",
+            "tr": "Kusursuz tekrar"
+          }
+        },
+        {
+          "value": "right_to_differ",
+          "label": {
+            "en": "The right to differ without destroying the whole",
+            "tr": "Bütünü yıkmadan farklılaşabilme hakkı"
+          }
+        }
+      ]
+    }
+  ]
+}

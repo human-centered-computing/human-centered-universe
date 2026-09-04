@@ -1,0 +1,100 @@
+{
+  "id": "BRG-0007",
+  "title": "17:25",
+  "original_title": "Saat 17.25",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 9,
+  "culture": [
+    "global signal network"
+  ],
+  "belief_context": [
+    "plural source interpretations",
+    "science-fiction ambiguity"
+  ],
+  "summary": "At 17:25 the Creation Protocol opens a field containing Light, Dark, and an undecided third space, while a future voice warns Maran that both poles can turn the human into an instrument.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0008",
+      "type": "cause",
+      "note": "The cracked white field leads directly into the problem of measurement."
+    },
+    {
+      "target": "LGT-0001",
+      "type": "future",
+      "note": "The Light Center first identifies itself here before Maran enters its world."
+    },
+    {
+      "target": "DRK-0001",
+      "type": "future",
+      "note": "The Dark Center first identifies itself here before Maran enters its world."
+    },
+    {
+      "target": "BRG-0012",
+      "type": "quantum_echo",
+      "note": "The same undecidable origin signal returns in Record X."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "02",
+      "key": "call_source",
+      "type": "select",
+      "world_seed": true,
+      "label": {
+        "en": "Source of the Call",
+        "tr": "Çağrının Kaynağı"
+      },
+      "prompt": {
+        "en": "Which explanation feels closest to you for the source of the call?",
+        "tr": "Çağrının kaynağı için hangi açıklama size daha yakın geliyor?"
+      },
+      "options": [
+        {
+          "value": "divine_call",
+          "label": {
+            "en": "Divine call",
+            "tr": "İlahi çağrı"
+          }
+        },
+        {
+          "value": "human_mind",
+          "label": {
+            "en": "Human mind",
+            "tr": "İnsan zihni"
+          }
+        },
+        {
+          "value": "extraterrestrial_intelligence",
+          "label": {
+            "en": "Extraterrestrial intelligence",
+            "tr": "Dünya dışı bir zihin"
+          }
+        },
+        {
+          "value": "future_technology",
+          "label": {
+            "en": "Future technology",
+            "tr": "Gelecekteki teknoloji"
+          }
+        },
+        {
+          "value": "other",
+          "label": {
+            "en": "Another / unnamed source",
+            "tr": "Başka / henüz adlandırılmamış kaynak"
+          }
+        }
+      ]
+    }
+  ]
+}

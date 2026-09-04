@@ -1,0 +1,44 @@
+{
+  "id": "COM-0005",
+  "title": "Golden and Variable Rules",
+  "original_title": "Altın ve Değişken Kurallar",
+  "core": "COMMON",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 17,
+  "culture": [
+    "global governance",
+    "local contextual adaptation"
+  ],
+  "belief_context": [
+    "human-centered ethics",
+    "plurality",
+    "accountability"
+  ],
+  "summary": "Eight Golden Rules protect dignity, contestability, accountability, revocable consent, repair, plurality, and the right not to be fully known, while Variable Rules adapt implementation to local contexts.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0011",
+      "type": "cause",
+      "note": "The Rih Bridge is designed under these constraints."
+    },
+    {
+      "target": "BRG-0013",
+      "type": "future",
+      "note": "The Second Creation inherits accountability and relational limits."
+    },
+    {
+      "target": "COM-0001",
+      "type": "memory",
+      "note": "The rules formalize values first discovered in the Common Center."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "BRG-0005",
+  "title": "Shahmaran's Silence",
+  "original_title": "Şahmaran'ın Sessizliği",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 5,
+  "culture": [
+    "Şahmaran narrative tradition",
+    "Riha / Mesopotamian local memory"
+  ],
+  "belief_context": [
+    "mythic narrative",
+    "plural interpretation",
+    "epistemic caution"
+  ],
+  "summary": "Kawa places the Stone Network beside a Shahmaran narrative about knowledge, poison, healing, trust, and responsibility while the research team keeps mythic memory distinct from archaeological proof.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0001",
+      "type": "memory",
+      "note": "The story interprets the seven-path motif beside the Stone Network without turning myth into proof."
+    },
+    {
+      "target": "COM-0001",
+      "type": "echo",
+      "note": "Poison and medicine emerging from the same knowledge anticipates the rejection of simple Light/Dark moral binaries."
+    },
+    {
+      "target": "BRG-0011",
+      "type": "memory",
+      "note": "Its concern with what survives a body returns in the Rih Bridge."
+    }
+  ]
+}

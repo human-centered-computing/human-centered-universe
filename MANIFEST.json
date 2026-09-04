@@ -1,0 +1,13 @@
+{
+  "package": "hcu-full-book-canon-v0.2",
+  "type": "delta",
+  "target_repository": "human-centered-computing/human-centered-universe",
+  "canonical_language": "en",
+  "reviewed_translation": "tr",
+  "expected_live_nodes": 21,
+  "new_or_replaced_nodes": 20,
+  "existing_node_not_repackaged": "BRG-0002",
+  "world_seed_fields": 14,
+  "reader": "https://human-centered-computing.github.io/human-centered-universe/",
+  "commit_message": "Migrate full book canon and World Seed interactions"
+}

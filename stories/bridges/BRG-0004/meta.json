@@ -1,0 +1,64 @@
+{
+  "id": "BRG-0004",
+  "title": "The Seven Witnesses of the Dream",
+  "original_title": "Rüyanın Yedi Tanığı",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 3,
+  "culture": [
+    "multicultural research network",
+    "Riha / Şanlıurfa local memory"
+  ],
+  "belief_context": [
+    "plural interpretation",
+    "dream reports",
+    "epistemic humility"
+  ],
+  "summary": "Seven witnesses approach the same anomaly through archaeology, neuroscience, acoustics, narrative, HCI, systems ecology, and local memory without forcing their accounts into one explanation.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0001",
+      "type": "cause",
+      "note": "The seven perspectives converge on the underground network without becoming one account."
+    },
+    {
+      "target": "COM-0003",
+      "type": "echo",
+      "note": "The evidence-sharing method anticipates Alpha One's distributed validation model."
+    },
+    {
+      "target": "COM-0001",
+      "type": "echo",
+      "note": "Different stories remaining around one question anticipates the Common Center."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "00",
+      "key": "riha_completion",
+      "type": "text",
+      "world_seed": true,
+      "label": {
+        "en": "The Missing Completion",
+        "tr": "Kayıp Tamlayan"
+      },
+      "prompt": {
+        "en": "Riha is the spirit of what? Write the first word that comes to mind.",
+        "tr": "Riha neyin ruhu? İlk aklınıza gelen tamamlayıcıyı yazın."
+      },
+      "placeholder": {
+        "en": "earth, humanity, memory, time, future…",
+        "tr": "toprak, insanlık, hafıza, zaman, gelecek…"
+      }
+    }
+  ]
+}

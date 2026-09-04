@@ -1,0 +1,44 @@
+{
+  "id": "BRG-0006",
+  "title": "Four Names",
+  "original_title": "Dört İsim",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 8,
+  "culture": [
+    "Riha linguistic memory",
+    "multicultural collective memory"
+  ],
+  "belief_context": [
+    "identity",
+    "collective memory",
+    "plural interpretation"
+  ],
+  "summary": "The Stone Network produces four labels—M1, X1, A1, and K1—that question whether identity is individual, analytic, relational, collective, or some temporary organization of all four.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "COM-0003",
+      "type": "character",
+      "note": "The four labels draw on patterns contributed through Alpha One."
+    },
+    {
+      "target": "BRG-0007",
+      "type": "cause",
+      "note": "Their simultaneous activation opens the Creation Protocol and the 17:25 countdown."
+    },
+    {
+      "target": "COM-0001",
+      "type": "future",
+      "note": "Their later coexistence informs the relational architecture of the Common Center."
+    }
+  ]
+}

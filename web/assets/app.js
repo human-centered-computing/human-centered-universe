@@ -3,7 +3,8 @@ const state = {
   locale: "en",
   mode: "read",
   storyId: null,
-  readIds: new Set(JSON.parse(localStorage.getItem("hcu.readIds") || "[]"))
+  readIds: new Set(JSON.parse(localStorage.getItem("hcu.readIds") || "[]")),
+  worldSeed: JSON.parse(localStorage.getItem("hcu.worldSeed") || "{}")
 };
 
 const app = document.getElementById("app");
@@ -66,6 +67,148 @@ function t(key, fallback = key) {
   return state.data?.locales?.[state.locale]?.[key]
     || state.data?.locales?.en?.[key]
     || fallback;
+}
+
+
+function localized(value, fallback = "") {
+  if (value == null) return fallback;
+  if (typeof value === "string") return value;
+  return value[state.locale] || value.en || Object.values(value)[0] || fallback;
+}
+
+function allInteractions() {
+  return state.data.stories.flatMap(story =>
+    (story.interactions || []).map(interaction => ({story, interaction}))
+  );
+}
+
+function interactionByKey(key) {
+  return allInteractions().find(x => x.interaction.key === key);
+}
+
+function displaySeedValue(key, entry) {
+  const found = interactionByKey(key);
+  if (!found) return String(entry?.value ?? "");
+  const interaction = found.interaction;
+  if (interaction.type === "select") {
+    const option = (interaction.options || []).find(o => o.value === entry.value);
+    if (option) return localized(option.label, String(entry.value));
+  }
+  return String(entry?.value ?? "");
+}
+
+function worldSeedEntries() {
+  return Object.entries(state.worldSeed)
+    .filter(([, entry]) => entry && entry.value !== "" && entry.value != null)
+    .map(([key, entry]) => {
+      const found = interactionByKey(key);
+      return {
+        key,
+        entry,
+        story: found?.story,
+        interaction: found?.interaction,
+        label: found ? localized(found.interaction.label, key) : key,
+        value: displaySeedValue(key, entry)
+      };
+    });
+}
+
+function saveWorldSeedFromForm(story) {
+  const form = document.getElementById("world-seed-form");
+  if (!form) return;
+
+  form.querySelectorAll("[data-seed-key]").forEach(input => {
+    const key = input.dataset.seedKey;
+    const value = input.value.trim();
+    const interaction = (story.interactions || []).find(x => x.key === key);
+    if (!interaction) return;
+
+    if (!value) {
+      delete state.worldSeed[key];
+      return;
+    }
+
+    state.worldSeed[key] = {
+      value,
+      story_id: story.id,
+      threshold: interaction.threshold || null,
+      saved_at: new Date().toISOString()
+    };
+  });
+
+  localStorage.setItem("hcu.worldSeed", JSON.stringify(state.worldSeed));
+  render();
+}
+
+function renderInteractionCard(story) {
+  const items = story.interactions || [];
+  if (!items.length) return "";
+
+  const fields = items.map(item => {
+    const current = state.worldSeed[item.key]?.value ?? "";
+    const label = localized(item.label, item.key);
+    const prompt = localized(item.prompt, "");
+    const placeholder = localized(item.placeholder, "");
+    let control = "";
+
+    if (item.type === "select") {
+      const options = [
+        `<option value="">${escapeHtml(t("choose", "Choose…"))}</option>`,
+        ...(item.options || []).map(opt => {
+          const selected = String(opt.value) === String(current) ? " selected" : "";
+          return `<option value="${escapeHtml(String(opt.value))}"${selected}>${escapeHtml(localized(opt.label, String(opt.value)))}</option>`;
+        })
+      ].join("");
+      control = `<select data-seed-key="${escapeHtml(item.key)}">${options}</select>`;
+    } else if (item.type === "textarea") {
+      control = `<textarea rows="4" data-seed-key="${escapeHtml(item.key)}" placeholder="${escapeHtml(placeholder)}">${escapeHtml(String(current))}</textarea>`;
+    } else {
+      control = `<input type="text" data-seed-key="${escapeHtml(item.key)}" value="${escapeHtml(String(current))}" placeholder="${escapeHtml(placeholder)}">`;
+    }
+
+    return `
+      <label class="seed-field">
+        <strong>${escapeHtml(label)}</strong>
+        ${prompt ? `<span>${escapeHtml(prompt)}</span>` : ""}
+        ${control}
+      </label>
+    `;
+  }).join("");
+
+  return `
+    <section class="world-seed-card">
+      <div class="seed-head">
+        <div>
+          <span class="badge BRIDGE">${escapeHtml(t("world_seed", "World Seed"))}</span>
+          <h2>${escapeHtml(t("experience_threshold", "Experience Threshold"))}</h2>
+        </div>
+        <small>${escapeHtml(t("stored_locally", "Stored only in this browser"))}</small>
+      </div>
+      <p>${escapeHtml(t("world_seed_intro", "Your answers form a World Seed. This version stores the seed; future branches may use it to change routes and worlds."))}</p>
+      <form id="world-seed-form" class="seed-form">
+        ${fields}
+        <button class="action-button primary" type="button" id="save-world-seed">${escapeHtml(t("save_choice", "Save to World Seed"))}</button>
+      </form>
+    </section>
+  `;
+}
+
+function renderWorldSeedSummary() {
+  const entries = worldSeedEntries();
+  if (!entries.length) {
+    return `<p class="seed-empty">${escapeHtml(t("world_seed_empty", "Your World Seed is empty. Experience Thresholds will add choices here."))}</p>`;
+  }
+  return `
+    <div class="seed-summary">
+      ${entries.map(({label, value, story}) => `
+        <div class="seed-summary-row">
+          <span>${escapeHtml(label)}</span>
+          <strong>${escapeHtml(value)}</strong>
+          ${story ? `<small>${escapeHtml(story.id)}</small>` : ""}
+        </div>
+      `).join("")}
+    </div>
+  `;
 }
 
 function storyById(id) {
@@ -191,6 +334,8 @@ function renderRead() {
 
         <div class="story-content">${markdownToHtml(content)}</div>
 
+        ${renderInteractionCard(story)}
+
         <div class="reader-toolbar">
           <button class="action-button" id="prev-story" ${!prev ? "disabled" : ""}>
             ← ${t("previous", "Previous")}
@@ -217,6 +362,7 @@ function renderRead() {
   document.getElementById("prev-story")?.addEventListener("click", () => prev && setStory(prev.id));
   document.getElementById("next-story")?.addEventListener("click", () => next && setStory(next.id));
   document.getElementById("mark-read")?.addEventListener("click", () => markRead(story.id));
+  document.getElementById("save-world-seed")?.addEventListener("click", () => saveWorldSeedFromForm(story));
 }
 
 function renderExplore() {
@@ -284,6 +430,7 @@ function renderExplore() {
 
 function renderCreate() {
   const repo = state.data.repository;
+  const seedCount = worldSeedEntries().length;
   app.innerHTML = `
     <section>
       <div class="explore-head">
@@ -295,7 +442,7 @@ function renderCreate() {
       <div class="create-grid">
         <article class="create-card">
           <h2>${t("open_repository", "Open repository")}</h2>
-          <p>GitHub is the production space of the universe. Commits preserve contribution history; branches preserve possibilities.</p>
+          <p>${t("github_production_space", "GitHub is the production space of the universe. Commits preserve contribution history; branches preserve possibilities; forks may become independent universes.")}</p>
           <div class="create-actions">
             <a class="action-button primary" href="${repo}" target="_blank" rel="noopener">${t("open_repository")}</a>
             <a class="action-button" href="${repo}/fork" target="_blank" rel="noopener">${t("fork_universe")}</a>
@@ -303,15 +450,34 @@ function renderCreate() {
         </article>
         <article class="create-card">
           <h2>${t("contribution_guide", "Contribution guide")}</h2>
-          <p>Translations remain the same story ID. Cultural reinterpretations become new nodes connected to the universe.</p>
+          <p>${t("translation_adaptation_note", "Translations remain the same story ID. Cultural reinterpretations become new story nodes connected to the universe.")}</p>
           <div class="create-actions">
             <a class="action-button primary" href="${repo}/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">${t("contribution_guide")}</a>
             <a class="action-button" href="${repo}/issues" target="_blank" rel="noopener">Issues</a>
           </div>
         </article>
+        <article class="create-card world-seed-overview">
+          <div class="seed-head">
+            <div>
+              <span class="badge BRIDGE">${t("world_seed", "World Seed")}</span>
+              <h2>${t("your_world_seed", "Your World Seed")}</h2>
+            </div>
+            <strong>${seedCount}</strong>
+          </div>
+          ${renderWorldSeedSummary()}
+          <div class="create-actions">
+            <button class="action-button" id="reset-world-seed" ${seedCount ? "" : "disabled"}>${t("reset_world_seed", "Reset World Seed")}</button>
+          </div>
+        </article>
       </div>
     </section>
   `;
+  document.getElementById("reset-world-seed")?.addEventListener("click", () => {
+    if (!confirm(t("reset_world_seed_confirm", "Clear all World Seed choices stored in this browser?"))) return;
+    state.worldSeed = {};
+    localStorage.removeItem("hcu.worldSeed");
+    render();
+  });
 }
 
 function render() {

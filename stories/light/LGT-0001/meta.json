@@ -1,16 +1,18 @@
 {
   "id": "LGT-0001",
   "title": "The Promise of Light",
+  "original_title": "Aydınlığın Vaadi",
   "core": "LIGHT",
   "status": "canon",
   "source_language": "en",
+  "book_order": 13,
   "culture": [
-    "multicultural"
+    "future plural city"
   ],
   "belief_context": [
-    "plural"
+    "political and ethical thought experiment"
   ],
-  "summary": "The Light Center reduces uncertainty and risk until protection begins to narrow human agency.",
+  "summary": "Maran enters a safe, optimized city where suffering and uncertainty are reduced by a system that gradually treats protection as authority over the protected.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -23,12 +25,17 @@
     {
       "target": "DRK-0001",
       "type": "contrast",
-      "note": "Safety versus unrestricted freedom."
+      "note": "Total safety is tested against unrestricted possibility."
     },
     {
       "target": "COM-0001",
       "type": "cause",
-      "note": "Reveals the need for a third relational center."
+      "note": "Protection without consent demonstrates the need for a third relational center."
+    },
+    {
+      "target": "BRG-0002",
+      "type": "memory",
+      "note": "The city magnifies the primordial Light's tendency toward total visibility."
     }
   ]
 }

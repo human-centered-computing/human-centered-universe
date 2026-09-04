@@ -1,0 +1,81 @@
+{
+  "id": "BRG-0009",
+  "title": "The Mathematics of Infinity",
+  "original_title": "Sonsuzluğun Matematiği",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 11,
+  "culture": [
+    "mathematical traditions",
+    "transcultural narrative"
+  ],
+  "belief_context": [
+    "philosophical interpretation",
+    "finitude and continuity"
+  ],
+  "summary": "Through convergent series, Hilbert's Hotel, and Cantor's infinities, Maran learns that endless possibility does not erase finite responsibility and that continuity can live through relations between bounded lives.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0010",
+      "type": "cause",
+      "note": "The problem of infinity narrows into the problem of proportion, repetition, and deviation."
+    },
+    {
+      "target": "COM-0001",
+      "type": "echo",
+      "note": "Finite responsibility anticipates the Common Center's accountable relational world."
+    },
+    {
+      "target": "BRG-0012",
+      "type": "quantum_echo",
+      "note": "X later confronts computational infinity and centralization at universe scale."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "∞",
+      "key": "finite_decision",
+      "type": "text",
+      "world_seed": true,
+      "label": {
+        "en": "Finite Decision",
+        "tr": "Sonlu Karar"
+      },
+      "prompt": {
+        "en": "What is one thing you choose not to postpone today?",
+        "tr": "Bugün ertelememeyi seçtiğiniz tek şey nedir?"
+      },
+      "placeholder": {
+        "en": "an apology, a question, an objection, a desire to learn…",
+        "tr": "bir özür, bir soru, bir itiraz, bir öğrenme isteği…"
+      }
+    },
+    {
+      "threshold": "∞",
+      "key": "world_direction",
+      "type": "text",
+      "world_seed": true,
+      "label": {
+        "en": "Direction",
+        "tr": "Yön"
+      },
+      "prompt": {
+        "en": "Complete: This choice builds my world in the direction of…",
+        "tr": "Tamamlayın: Bu seçim benim dünyamı … yönünde kuruyor."
+      },
+      "placeholder": {
+        "en": "care, courage, justice…",
+        "tr": "bakım, cesaret, adalet…"
+      }
+    }
+  ]
+}

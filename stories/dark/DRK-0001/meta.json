@@ -1,16 +1,18 @@
 {
   "id": "DRK-0001",
   "title": "The Gift of Darkness",
+  "original_title": "Karanlığın Hediyesi",
   "core": "DARK",
   "status": "canon",
   "source_language": "en",
+  "book_order": 14,
   "culture": [
-    "multicultural"
+    "future plural world"
   ],
   "belief_context": [
-    "plural"
+    "political and ethical thought experiment"
   ],
-  "summary": "The Dark Center expands freedom and possibility until shared responsibility begins to dissolve.",
+  "summary": "Maran enters a world of unlimited creation and identity where freedom has no stable shared consequence, revealing both the gift of possibility and the danger of responsibility-free power.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -23,12 +25,17 @@
     {
       "target": "LGT-0001",
       "type": "contrast",
-      "note": "Unrestricted possibility versus imposed order."
+      "note": "Unrestricted possibility is tested against total protection."
     },
     {
       "target": "COM-0001",
       "type": "cause",
-      "note": "Reveals the need for a third relational center."
+      "note": "Freedom without shared consequence demonstrates the need for a relational third center."
+    },
+    {
+      "target": "BRG-0002",
+      "type": "memory",
+      "note": "The world magnifies the primordial Darkness's capacity for possibility."
     }
   ]
 }

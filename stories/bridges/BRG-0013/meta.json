@@ -1,0 +1,69 @@
+{
+  "id": "BRG-0013",
+  "title": "The Second Creation",
+  "original_title": "İkinci Yaratılış",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 20,
+  "culture": [
+    "global Alpha One network",
+    "future plural society"
+  ],
+  "belief_context": [
+    "plurality",
+    "relational ontology",
+    "science-fiction"
+  ],
+  "summary": "Center-Zero tries to end conflict by merging every center into one will; Maran responds by rebuilding the system as relationships among different centers that can remain distinct, accountable, and revisable.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "COM-0006",
+      "type": "cause",
+      "note": "The relational redesign opens the universe to the reader rather than closing it."
+    },
+    {
+      "target": "BRG-0002",
+      "type": "quantum_echo",
+      "note": "The ending loops back to the first creation while changing what a center means."
+    },
+    {
+      "target": "COM-0004",
+      "type": "memory",
+      "note": "Distributed creation inherits the Open Architects Network."
+    },
+    {
+      "target": "COM-0005",
+      "type": "memory",
+      "note": "The Golden Rules remain limits on every center."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "06",
+      "key": "world_name",
+      "type": "text",
+      "world_seed": true,
+      "label": {
+        "en": "Name Your World",
+        "tr": "Dünyanıza Ad Verin"
+      },
+      "prompt": {
+        "en": "Give the world formed by your choices a name.",
+        "tr": "Seçimlerinizden oluşan dünyaya bir ad verin."
+      },
+      "placeholder": {
+        "en": "Your world name…",
+        "tr": "Dünyanızın adı…"
+      }
+    }
+  ]
+}
