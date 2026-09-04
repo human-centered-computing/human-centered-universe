@@ -5,20 +5,31 @@ graph TD
   LIGHT --- COMMON
   DARK --- COMMON
   LIGHT --- DARK
+
   BRG_0001["BRG-0001 · The Stone Network"]
+  COM_0001["COM-0001 · Turning the Battlefield into a Home"]
+  DRK_0001["DRK-0001 · The Gift of Darkness"]
+  LGT_0001["LGT-0001 · The Promise of Light"]
+  BRG_0002["BRG-0002 · First Vibration"]
+
+  COM_0001 --> COMMON
+  DRK_0001 --> DARK
+  LGT_0001 --> LIGHT
+
   BRG_0001 -- "quantum_echo" --> LGT_0001
   BRG_0001 -- "quantum_echo" --> DRK_0001
   BRG_0001 -- "quantum_echo" --> COM_0001
-  COM_0001["COM-0001 · Turning the Battlefield into a Home"]
-  COM_0001 --> COMMON
+
   COM_0001 -- "contrast" --> LGT_0001
   COM_0001 -- "contrast" --> DRK_0001
   COM_0001 -- "quantum_echo" --> BRG_0001
-  DRK_0001["DRK-0001 · The Gift of Darkness"]
-  DRK_0001 --> DARK
+
   DRK_0001 -- "contrast" --> LGT_0001
   DRK_0001 -- "cause" --> COM_0001
-  LGT_0001["LGT-0001 · The Promise of Light"]
-  LGT_0001 --> LIGHT
+
   LGT_0001 -- "contrast" --> DRK_0001
   LGT_0001 -- "cause" --> COM_0001
+
+  BRG_0002 -- "quantum_echo" --> LGT_0001
+  BRG_0002 -- "quantum_echo" --> DRK_0001
+  BRG_0002 -- "echo" --> COM_0001

@@ -1,0 +1,43 @@
+{
+  "id": "BRG-0002",
+  "title": "First Vibration",
+  "original_title": "İlk Titreşim",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 1,
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "plural creation interpretations",
+    "philosophical",
+    "science-fiction"
+  ],
+  "summary": "Before time begins, Light and Darkness emerge through a first vibration. Emotions arise as relational forces whose moral direction is not fixed, and humanity appears as the possibility of turning conflict into relationship.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "LGT-0001",
+      "type": "quantum_echo",
+      "note": "The primordial Light anticipates the later Light Center without making the two strictly identical."
+    },
+    {
+      "target": "DRK-0001",
+      "type": "quantum_echo",
+      "note": "The primordial Darkness anticipates the later Dark Center without making the two strictly identical."
+    },
+    {
+      "target": "COM-0001",
+      "type": "echo",
+      "note": "Humanity first appears as the possibility of transforming conflict into relationship, anticipating the Common Center."
+    }
+  ]
+}
