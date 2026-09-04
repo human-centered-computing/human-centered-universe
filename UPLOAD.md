@@ -1,19 +1,29 @@
-# HCU Turkish Localization v0.5.1
+# HCU Runtime Hotfix v0.5.2
 
-Copy all files/folders into the existing `human-centered-universe` repository root and choose **Replace**.
+The previous Turkish-localization deployment validated and deployed successfully,
+but the browser application crashed at runtime because `app.js` calls localization
+helpers that were not actually included in the deployed JavaScript bundle.
+
+This hotfix defines the missing helpers before `app.js` executes.
+
+Copy all files/folders from this package into the root of the existing
+`human-centered-universe` repository and choose **Replace**.
 
 Commit message:
 
-`Fix Turkish localization across interactive reader`
+`Fix reader runtime localization crash`
 
-Push to `main`.
+Then push to `main`.
 
-Test:
+Expected test URLs:
+
+https://human-centered-computing.github.io/human-centered-universe/
+
 https://human-centered-computing.github.io/human-centered-universe/?mode=explore&story=COM-0001&lang=tr
 
-Expected:
+The Turkish Explore page should display:
 - İnsan Merkezli Evren
 - Keşfet
 - Savaş Alanını Eve Çevirin
-- Turkish summaries and connection notes
+- Turkish story summaries
 - Aydınlık Merkez / Karanlık Merkez / Ortak Merkez
