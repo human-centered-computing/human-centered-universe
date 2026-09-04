@@ -1,29 +1,39 @@
-# HCU Runtime Hotfix v0.5.2
+# HCU Reader Recovery v0.5.3
 
-The previous Turkish-localization deployment validated and deployed successfully,
-but the browser application crashed at runtime because `app.js` calls localization
-helpers that were not actually included in the deployed JavaScript bundle.
+The latest deployment succeeded, but the deployed web folder lost two essential files:
 
-This hotfix defines the missing helpers before `app.js` executes.
+- `web/assets/app.js`
+- `web/assets/styles.css`
 
-Copy all files/folders from this package into the root of the existing
+GitHub Actions confirmed this with:
+
+`Asset versions: app=missing, css=missing`
+
+This recovery package restores both files and places the Turkish-localization
+helpers directly inside `app.js`, so the reader no longer depends on a separate
+runtime patch file.
+
+## Upload
+
+Copy the contents of this package into the root of the existing
 `human-centered-universe` repository and choose **Replace**.
 
 Commit message:
 
-`Fix reader runtime localization crash`
+`Restore reader assets and Turkish localization`
 
-Then push to `main`.
+Push to `main`.
 
-Expected test URLs:
+After deployment, the build log should say:
+
+`Asset versions: app=<hash>, css=<hash>`
+
+—not `missing`.
+
+Test:
 
 https://human-centered-computing.github.io/human-centered-universe/
 
-https://human-centered-computing.github.io/human-centered-universe/?mode=explore&story=COM-0001&lang=tr
+Turkish:
 
-The Turkish Explore page should display:
-- İnsan Merkezli Evren
-- Keşfet
-- Savaş Alanını Eve Çevirin
-- Turkish story summaries
-- Aydınlık Merkez / Karanlık Merkez / Ortak Merkez
+https://human-centered-computing.github.io/human-centered-universe/?mode=explore&story=COM-0001&lang=tr
