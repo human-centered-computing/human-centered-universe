@@ -10,7 +10,7 @@ Amara, Maran'a sistemden uzaklaşmasını söyledi. Elena boşluğun üstünü g
 
 Saat 17.24 olduğunda Maran'ın gelecekteki sesine ait kayıt yeniden açıldı.
 
-"M1, merkezi kurma."
+"Maran, merkezi kurma."
 
 Bu kez kayıt devam etti.
 
@@ -36,7 +36,7 @@ Arkasında ikinci bir ses duyuldu. Beyazlığın içinden daha parlak bir insan 
 
 İki şeklin arasında üçüncü bir alan açıldı. Orası ne siyah ne beyazdı. Rengi yoktu; çünkü henüz hiçbir karar verilmemişti.
 
-X1, A1 ve K1 Maran'ın yanında belirdi.
+Luka, Ayo ve Rojin Maran'ın yanında belirdi.
 
 "Tarafını seç," dedi iki merkez aynı anda.
 

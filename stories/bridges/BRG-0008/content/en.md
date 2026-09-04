@@ -2,7 +2,7 @@
 
 When the white field cracked, Maran found himself standing in three places at the same time. In one, he was walking toward the Light Center. In another, he was holding the hand of the Dark Center. In the third, he had turned his back on them both. Each Maran could see the others; none could say which was the original.
 
-X1 drew a classical bit in the air:
+Luka drew a classical bit in the air:
 
 0 / 1
 
@@ -12,7 +12,7 @@ Then erased it and wrote:
 
 |α|² + |β|² = 1
 
-“A classical bit is zero or one,” X1 said. “Before measurement, a qubit carries amplitudes for both states. This does not mean there is a hidden answer we simply do not know. The physical state itself is a superposition.”
+“A classical bit is zero or one,” Luka said. “Before measurement, a qubit carries amplitudes for both states. This does not mean there is a hidden answer we simply do not know. The physical state itself is a superposition.”
 
 “When we measure, do we choose reality?”
 
@@ -22,7 +22,7 @@ Amara’s voice answered:
 
 Maran looked at his three bodies. Even seeing them was a form of interaction with the field. After every glance the images faded slightly, while the surrounding white space seemed to retain traces of them.
 
-“As the environment carries information, phase relations become inaccessible,” X1 said. “Decoherence. The possibilities do not all cease to exist, but at your scale they can no longer behave together. That is why a shared world appears stable.”
+“As the environment carries information, phase relations become inaccessible,” Luka said. “Decoherence. The possibilities do not all cease to exist, but at your scale they can no longer behave together. That is why a shared world appears stable.”
 
 Maran stepped forward. The body walking toward Light became sharper and the others turned into shadows. He withdrew at once. This time the body moving toward Dark grew heavy.
 
@@ -42,7 +42,7 @@ Kawa’s voice came from the darkness:
 
 The field became an experiment. Light from a source passed through two slits and produced an interference pattern on a wall. When the system left information about which slit the light had passed through, the pattern changed. Maran watched individual points accumulate until a wave-like structure appeared.
 
-“Particle or wave?” A1 asked.
+“Particle or wave?” Ayo asked.
 
 “It shows properties of both, depending on the question the experiment asks.”
 
@@ -62,7 +62,7 @@ A new record appeared on the wall:
 
 QUANTUM / UNCERTAINTY IS NOT IGNORANCE / MEASUREMENT IS NOT NEUTRAL
 
-“Then which one is reality?” A1 asked.
+“Then which one is reality?” Ayo asked.
 
 Maran looked at the three versions of himself.
 

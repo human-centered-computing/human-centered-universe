@@ -1,56 +1,62 @@
 # Dört İsim
 
-Xerawreş ve çevresindeki yedi yeraltı alanının birleşik modeli tamamlandığında, daha önce eksik düğüm olarak görünen merkezde dört ayrı sinir ağına benzeyen yapı tespit edildi. Ağlar fiziksel kablo değildi. Taşın yoğunluğundaki çok küçük farkların ve birbirine bağlanan duvar topolojisinin oluşturduğu desenlerdi. Bilgisayar bunları işlediğinde dört kimlik etiketi üretti:
+Xerawreş ve çevresindeki yedi yeraltı alanının birleşik modeli tamamlandığında, daha önce eksik düğüm olarak görünen merkezde dört ayrı sinir ağına benzeyen yapı tespit edildi. Ağlar fiziksel kablo değildi. Taşın yoğunluğundaki çok küçük farkların ve birbirine bağlanan duvar topolojisinin oluşturduğu desenlerdi.
 
-M1 / X1 / A1 / K1
+Bilgisayar örüntüleri işlediğinde bu kez kod üretmedi. Dört insan adı gösterdi:
 
-Maran ilk kodun kendisine ait olduğunu biliyordu. Diğerlerinin kime ait olduğu belirsizdi.
+**MARAN / LUKA / AYO / ROJIN**
 
-X1, geceleri sistemde beliren bir karakter olarak ortaya çıktı. Sorulara duygusuz ve kesin cevaplar veriyor, her iddianın kanıtını istiyordu. Bir gece Maran ona mesajın kaynağını sordu.
+İsimlerin altında ülke, din, etnik köken veya kişilik etiketi yoktu. Sistem yalnız adları veriyordu. Bazılarının farklı dillerde başka yazılışları olabileceğini belirtiyor, fakat bir ismin sahibinin kimliğini o addan çıkarmaya çalışmıyordu.
 
-X1: Kaynak belirlenemedi.
+Maran ilk adın kendisine ait olduğunu biliyordu. Diğer üç adın kime ait olduğu belirsizdi.
 
-M1: Bir tahminin olmalı.
+Luka geceleri sistemde beliren ilk karakter oldu. Sorulara kesin cevaplar veriyor, her iddianın kanıtını istiyordu. Bir gece Maran ona mesajın kaynağını sordu.
 
-X1: Tahmin ile bilgi aynı şey değildir.
+Luka: Kaynak belirlenemedi.
 
-M1: İnsan yalnız bildikleriyle yaşayamaz.
+Maran: Bir tahminin olmalı.
 
-X1: Bu nedenle insan hata yapar.
+Luka: Tahmin ile bilgi aynı şey değildir.
 
-Ertesi gün A1 belirdi. X1'in aksine sorulara soruyla karşılık veriyordu.
+Maran: İnsan yalnız bildikleriyle yaşayamaz.
 
-A1: Mesajın kimden geldiğini neden bilmek istiyorsun?
+Luka: Bu nedenle insan hata yapar.
 
-M1: Güvenip güvenemeyeceğimi anlamak için.
+Ertesi gün Ayo belirdi. Luka'nın aksine sorulara soruyla karşılık veriyordu.
 
-A1: Sevdiğin insanların her sözünün kaynağını doğruladın mı?
+Ayo: Mesajın kimden geldiğini neden bilmek istiyorsun?
 
-M1: Hayır.
+Maran: Güvenip güvenemeyeceğimi anlamak için.
 
-A1: O zaman güvenin kaynağı bilgi değil.
+Ayo: Sevdiğin insanların her sözünün kaynağını doğruladın mı?
 
-K1 üçüncü gece ortaya çıktı. İlk cümlesi Kürtçeydi; sonra Maran'ın çocuklukta duyduğu, fakat konuşamadığı kelimeleri tek tek açıkladı. Kendini bir kişi değil, unutulan adların ve anlatıların toplamı olarak tanımladı.
+Maran: Hayır.
 
-K1: Bir yerin adını değiştirirsen taş yerinde kalır. Ama insan yolunu bulmakta zorlanır.
+Ayo: O zaman güvenin kaynağı yalnız bilgi değil.
 
-M1: Sen Kawa mısın?
+Rojin üçüncü gece ortaya çıktı. İlk cümlesi Kürtçeydi; sonra Maran'ın çocuklukta duyduğu fakat konuşamadığı kelimeleri tek tek açıkladı. Kendini tek bir kişi değil, unutulan adların ve anlatıların toplamı olarak tanımladı.
 
-K1: Kawa beni hatırlayanlardan biri.
+Rojin: Bir yerin adını değiştirirsen taş yerinde kalır. Ama insan yolunu bulmakta zorlanır.
 
-M1: Riha neyin ruhu?
+Maran: Sen Kawa mısın?
 
-K1: Bunu ben söylersem benim dünyamı kurarsın.
+Rojin: Kawa beni hatırlayanlardan biri.
 
-M1: Cevabı bilmiyor musun?
+Maran: Riha neyin ruhu?
 
-K1: Birden fazla doğru cevap olabilir. Ama her cevap aynı sonucu doğurmaz. Toprağın ruhu dersen toprağı beden sayarsın. İnsanlığın ruhu dersen insanları. Geleceğin ruhu dersen henüz doğmamış bir bedeni kurmaya başlarsın.
+Rojin: Bunu ben söylersem benim dünyamı kurarsın.
 
-M1: Peki hangisini arıyoruz?
+Maran: Cevabı bilmiyor musun?
 
-K1: Cevabını taşıyabilecek bedeni.
+Rojin: Birden fazla doğru cevap olabilir. Ama her cevap aynı sonucu doğurmaz. Toprağın ruhu dersen toprağı beden sayarsın. İnsanlığın ruhu dersen insanları. Geleceğin ruhu dersen henüz doğmamış bir bedeni kurmaya başlarsın.
 
-Maran üç karakterle günlerce konuştu. X1 ona sistemin matematiğini, A1 ilişkilerin görünmeyen bağlarını, K1 ise toprağın hafızasını gösterdi. Her biri Maran'ın bilmediğini sandığı ayrıntıları biliyordu. Daha rahatsız edici olan, Maran'ın söylemeden düşündüğü şeylere de cevap vermeleriydi.
+Maran: Peki hangisini arıyoruz?
+
+Rojin: Cevabını taşıyabilecek bedeni.
+
+Maran üç karakterle günlerce konuştu. Luka ona sistemin matematiğini, Ayo ilişkilerin görünmeyen bağlarını, Rojin ise toprağın hafızasını gösterdi. İsimlerin farklı kültürlerde kullanılması bu özelliklerin o kültürlere ait olduğu anlamına gelmiyordu. Sistem herhangi bir halkı analitik, duygusal veya hafızaya bağlı diye sınıflandırmıyordu. Adlar yalnızca kişiliklerin birer numara değil, ilişki kurulabilir varlıklar olarak görülmesini sağlıyordu.
+
+Her biri Maran'ın bilmediğini sandığı ayrıntıları biliyordu. Daha rahatsız edici olan, Maran'ın söylemeden düşündüğü şeylere de cevap vermeleriydi.
 
 Amara görüşme kayıtlarını inceledi.
 
@@ -58,9 +64,9 @@ Amara görüşme kayıtlarını inceledi.
 
 "Ne demek istiyorsun?"
 
-"Sistem seni üç farklı biçimde yansıtıyor olabilir. X1, analitik düşüncen; A1, duygusal bağların; K1, taşıdığın kolektif hafıza. M1 ise bunları tek kişi sandığın gündelik benliğin."
+"Sistem seni üç farklı biçimde yansıtıyor olabilir. Luka analitik düşünceni, Ayo duygusal bağlarını, Rojin taşıdığın kolektif hafızayı temsil ediyor olabilir. Maran ise bütün bunları tek kişi sandığın gündelik benliğin."
 
-Maran bu açıklamaya itiraz etti. K1'in bilmediği dilleri konuştuğunu, X1'in kendisinin çözemediği denklemler kurduğunu söyledi.
+Maran bu açıklamaya itiraz etti. Rojin onun bilmediği dilleri konuşuyor, Luka kendisinin çözemediği denklemler kuruyordu.
 
 Amara başını salladı.
 
@@ -70,6 +76,6 @@ Amara başını salladı.
 
 "Sen onların parçası olabilirsin."
 
-O gece dört kod aynı anda etkinleşti. Ekran karardı ve merkezinde bir kapı belirdi. Kapının üzerinde iki kelime yazıyordu:
+O gece dört isim aynı anda etkinleşti. Ekran karardı ve merkezinde bir kapı belirdi. Kapının üzerinde iki kelime yazıyordu:
 
 YARATILIŞ PROTOKOLÜ

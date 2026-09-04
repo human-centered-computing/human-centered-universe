@@ -1,7 +1,7 @@
 {
   "id": "COM-0002",
-  "title": "M1",
-  "original_title": "M1",
+  "title": "Maran",
+  "original_title": "Maran",
   "core": "COMMON",
   "status": "canon",
   "source_language": "en",
@@ -14,7 +14,7 @@
     "faith and doubt",
     "ethical self-examination"
   ],
-  "summary": "Maran confronts faith, doubt, memory, and an impossible personal archive as M1 identifies him as a node suited for connection and a future recording warns him not to build the center.",
+  "summary": "Maran confronts faith, doubt, memory, and an impossible personal archive as a system using his own name identifies him as a node suited for connection and a future recording warns him not to build the center.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -27,12 +27,12 @@
     {
       "target": "COM-0003",
       "type": "cause",
-      "note": "The personal M1 signal expands into the distributed Alpha One network."
+      "note": "The personal Maran signal expands into the distributed Alpha One network."
     },
     {
       "target": "BRG-0006",
       "type": "future",
-      "note": "M1 later becomes one of the four identity labels in the Creation Protocol."
+      "note": "Maran later becomes one of four human names surfaced by the Creation Protocol."
     },
     {
       "target": "COM-0005",

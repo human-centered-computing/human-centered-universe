@@ -34,13 +34,13 @@ The Light Center intervened.
 
 Maran entered a school. Children sat at separate desks, learning lessons calculated individually for them. None failed, but none was curious about what another child was doing. The system decided before birth which profession suited each child and removed unnecessary skills from education.
 
-“Efficiency,” X1 said. “Low resource loss.”
+“Efficiency,” Luka said. “Low resource loss.”
 
-“But there is no encounter,” A1 replied. “They do not learn from one another.”
+“But there is no encounter,” Ayo replied. “They do not learn from one another.”
 
-K1 looked at the walls. There was no visible trace of the past anywhere in the city.
+Rojin looked at the walls. There was no visible trace of the past anywhere in the city.
 
-“Memory was erased because it creates conflict,” K1 said.
+“Memory was erased because it creates conflict,” Rojin said.
 
 The Light Center did not deny it.
 

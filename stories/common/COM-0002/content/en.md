@@ -1,4 +1,4 @@
-# M1
+# Maran
 
 As a child, Maran often woke before the morning call to prayer. While the house was still dark, he listened to the faint sounds his mother made in the kitchen, his father coughing, and dogs in the distance. At that hour the world seemed unfinished, as if before sunrise a person’s thoughts could travel farther.
 
@@ -24,11 +24,11 @@ Maran stepped back. He remembered writing that sentence in a private notebook ye
 
 He ran to the tent. A new folder had appeared on his computer:
 
-M1.
+MARAN.
 
 Inside were childhood photographs, old notes, unfinished code, and letters he had never sent. Some files came from devices that had long since been erased. A text document contained a single line:
 
-M1 / SEARCH FOR MEANING / SUITABLE FOR CONNECTION
+Maran / SEARCH FOR MEANING / SUITABLE FOR CONNECTION
 
 Maran covered the computer camera and disconnected the network. The folder remained.
 
@@ -36,7 +36,7 @@ When he showed Elena in the morning, another argument began. Elena said it might
 
 Maran believed neither explanation completely. Among the files was a record from the future. Its date was twelve years ahead. Through multiple alarms, an adult male voice said:
 
-“M1, if you can hear this, the center has not yet been built. Do not try to save us. Do not build us.”
+“Maran, if you can hear this, the center has not yet been built. Do not try to save us. Do not build us.”
 
 The voice was Maran’s.
 

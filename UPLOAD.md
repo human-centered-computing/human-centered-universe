@@ -1,19 +1,27 @@
-# Upload Story Update v0.3
+# Upload Local Names v0.4
 
-Copy every file and folder from this package into the root of the existing `human-centered-universe` repository.
-
-Choose **Replace** for same-name files. Do not delete unrelated repository files.
+Copy all files and folders inside this package into the root of the existing
+`human-centered-universe` repository and choose **Replace** for same-name files.
 
 Commit message:
 
-`Integrate Tapetum Sentinel into Stone Network and fix child ages`
+`Replace coded character labels with local human names`
 
 Then push to `main`.
 
-Expected automation:
+Canonical character-name migration:
 
+- M1 → Maran
+- X1 → Luka
+- A1 → Ayo
+- K1 → Rojin
+- anonymous human figure inside `Record X` → Nadir
+
+`Record X`, `Protocol X`, GitHub story IDs such as `COM-0002`, and system/network
+names such as `Alpha One` and `Center-Zero` remain technical identifiers rather
+than human character names.
+
+Expected:
 - `Validate Universe` → success
 - `Deploy Interactive Reader` → success
-- reader → 21 live canon nodes
-
-This package also includes the reader cache-busting build script so the latest story assets are not hidden by stale browser/CDN cache.
+- 21 live canon nodes

@@ -4,7 +4,7 @@ The white field did not break apart. Inside every crack a thinner copy of itself
 
 A corridor formed before his feet. The first door was marked 1, the second 2, the third 3. Doors continued beyond sight. Maran searched for the last one, but behind every door he thought was final, another appeared.
 
-X1 stood beside him.
+Luka stood beside him.
 
 “Infinity is not the largest number,” it said. “Whatever number you name, you can add one.”
 
@@ -20,21 +20,21 @@ Maran thought of crossing a room as a child. If he first crossed half the remain
 
 “So not everything that never ends is unbounded,” he said.
 
-“And not everything that appears bounded is simple,” X1 replied.
+“And not everything that appears bounded is simple,” Luka replied.
 
-A1 appeared at the other end of the corridor holding one of Maran’s childhood photographs. Inside the photograph was a smaller photograph, and inside that another. The faces became too small to distinguish, but they did not disappear.
+Ayo appeared at the other end of the corridor holding one of Maran’s childhood photographs. Inside the photograph was a smaller photograph, and inside that another. The faces became too small to distinguish, but they did not disappear.
 
 “Is it possible to remember someone forever?” Maran asked.
 
-“If you repeat the same memory forever without allowing it to change, you do not preserve it,” A1 said. “You imprison it somewhere it can no longer move.”
+“If you repeat the same memory forever without allowing it to change, you do not preserve it,” Ayo said. “You imprison it somewhere it can no longer move.”
 
 “And if I change it?”
 
 “Then you may no longer know how much belongs to them and how much belongs to you.”
 
-K1 opened one of the doors. Behind it was a hotel in which every room was occupied. The clerk said there was no place for a new traveler. K1 asked every guest to move to the next room: the guest in room 1 to room 2, room 2 to room 3, every guest in room n to room n+1. Although all the rooms had been full, room 1 became free.
+Rojin opened one of the doors. Behind it was a hotel in which every room was occupied. The clerk said there was no place for a new traveler. Rojin asked every guest to move to the next room: the guest in room 1 to room 2, room 2 to room 3, every guest in room n to room n+1. Although all the rooms had been full, room 1 became free.
 
-“An infinite collection can be full and still accept another member,” X1 said.
+“An infinite collection can be full and still accept another member,” Luka said.
 
 “That is a contradiction,” Maran replied.
 
@@ -46,7 +46,7 @@ Two sets appeared on the wall:
 
 |N| < |R|
 
-“Not all infinities have the same size,” X1 said. “There are countable infinities. There are also infinities that cannot fit into any complete list.”
+“Not all infinities have the same size,” Luka said. “There are countable infinities. There are also infinities that cannot fit into any complete list.”
 
 Maran remembered Cantor’s proof from years earlier. At the time he had thought of it as a victory of mathematics over human intuition. Now he saw something else: the mind had learned to distinguish between two boundlessnesses it once called by the same name. Perhaps there was a mathematical echo here of the need not to confine people, beliefs, and worlds within one category.
 
@@ -88,9 +88,9 @@ Maran shook his head.
 
 “That is why human choices have weight. If I had infinite time, I could postpone apology, love, and justice forever. Being finite is not only my limitation. It is the beginning of my responsibility.”
 
-K1 placed a hand on a dark surface that resembled soil.
+Rojin placed a hand on a dark surface that resembled soil.
 
-“Your ancestors did not finish the story,” K1 said. “Every teller changed a part of it. The story lived not because it stretched to infinity, but because it formed a relationship as it moved from one body to another.”
+“Your ancestors did not finish the story,” Rojin said. “Every teller changed a part of it. The story lived not because it stretched to infinity, but because it formed a relationship as it moved from one body to another.”
 
 The incomplete phrase from the dream opened before Maran:
 

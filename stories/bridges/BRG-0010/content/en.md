@@ -28,7 +28,7 @@ Maran opened the system’s older records. Each pulse Kenji had captured at 17:2
 
 “Does nature do this because it aims for the golden ratio?” Maran asked.
 
-X1 answered:
+Luka answered:
 
 “There is no need to infer purpose. Some growth rules may approach this distribution because it reduces overlap. A similar result does not imply the same intention.”
 

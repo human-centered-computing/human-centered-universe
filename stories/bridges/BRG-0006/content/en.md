@@ -1,75 +1,81 @@
 # Four Names
 
-When the combined model of the seven underground zones around Xerawreş was complete, four structures resembling neural networks appeared at the location that had previously been modeled as the missing node. They were not physical cables. They were patterns formed by minute differences in stone density and by the topology of the connected walls. When the computer processed them, it produced four identity labels:
+When the combined model of the seven underground zones around Xerawreş was complete, four structures resembling neural networks appeared at the location previously modeled as the missing node. They were not physical cables. They were patterns formed by minute differences in stone density and by the topology of connected walls.
 
-M1 / X1 / A1 / K1
+When the computer processed the patterns, it did not produce codes. It displayed four human names:
 
-Maran knew the first code referred to him. Whom the others referred to was unknown.
+**MARAN / LUKA / AYO / ROJIN**
 
-X1 appeared as a figure in the system at night. It answered questions with cold precision and demanded evidence for every claim. One night Maran asked where the message came from.
+No country, religion, ethnicity, or personality label appeared beneath them. The system gave only the names. It noted that some names could have different local spellings, but it did not attempt to infer a person's identity from a name.
 
-X1: Source cannot be determined.
+Maran knew the first name was his own. Whom the other three referred to was unknown.
 
-M1: You must have a hypothesis.
+Luka became the first figure to appear in the system at night. Luka answered with precision and demanded evidence for every claim. One night Maran asked where the message came from.
 
-X1: A hypothesis and knowledge are not the same thing.
+Luka: Source cannot be determined.
 
-M1: Humans cannot live only with what they know.
+Maran: You must have a hypothesis.
 
-X1: That is why humans make errors.
+Luka: A hypothesis and knowledge are not the same thing.
 
-A1 appeared the next day. Unlike X1, it answered questions with questions.
+Maran: Humans cannot live only with what they know.
 
-A1: Why do you want to know who sent the message?
+Luka: That is why humans make errors.
 
-M1: So I can decide whether to trust it.
+Ayo appeared the next day. Unlike Luka, Ayo answered questions with questions.
 
-A1: Have you verified the source of every word spoken by the people you love?
+Ayo: Why do you want to know who sent the message?
 
-M1: No.
+Maran: So I can decide whether to trust it.
 
-A1: Then knowledge is not the source of trust.
+Ayo: Have you verified the source of every word spoken by the people you love?
 
-K1 appeared on the third night. Its first sentence was in Kurdish; then it explained, one by one, words Maran had heard as a child but could not speak. It described itself not as a person, but as the sum of forgotten names and narratives.
+Maran: No.
 
-K1: Change the name of a place and the stone remains where it is. But a person may have trouble finding the way.
+Ayo: Then knowledge is not the only source of trust.
 
-M1: Are you Kawa?
+Rojin appeared on the third night. The first sentence was in Kurdish; then Rojin explained, one by one, words Maran had heard as a child but could not speak. Rojin described the self not as one person, but as a sum of forgotten names and narratives.
 
-K1: Kawa is one of those who remembers me.
+Rojin: Change the name of a place and the stone remains where it is. But a person may have trouble finding the way.
 
-M1: Riha is the spirit of what?
+Maran: Are you Kawa?
 
-K1: If I tell you, you will build my world.
+Rojin: Kawa is one of those who remembers me.
 
-M1: Don’t you know the answer?
+Maran: Riha is the spirit of what?
 
-K1: There may be more than one correct answer. But not every answer produces the same consequence. If you say spirit of the earth, you treat the earth as the body. If you say spirit of humanity, you treat humans as the body. If you say spirit of the future, you begin building a body that has not yet been born.
+Rojin: If I tell you, you will build my world.
 
-M1: Then what are we searching for?
+Maran: Don't you know the answer?
 
-K1: The body capable of carrying your answer.
+Rojin: There may be more than one correct answer. But not every answer produces the same consequence. If you say spirit of the earth, you treat the earth as the body. If you say spirit of humanity, you treat humans as the body. If you say spirit of the future, you begin building a body that has not yet been born.
 
-For days Maran spoke with the three figures. X1 showed him the system’s mathematics, A1 the invisible bonds of relationships, K1 the memory of the land. Each knew details Maran believed he did not know. More disturbing still, they sometimes answered thoughts he had never spoken.
+Maran: Then what are we searching for?
+
+Rojin: The body capable of carrying your answer.
+
+For days Maran spoke with the three figures. Luka showed him the system's mathematics, Ayo the invisible bonds of relationships, Rojin the memory of the land. The fact that these names were used in different cultures did not mean those traits belonged to those cultures. The system was not classifying any people as analytical, emotional, or memory-bound. The names simply allowed the figures to be encountered as relational beings rather than numbered functions.
+
+Each knew details Maran believed he did not know. More disturbing still, they sometimes answered thoughts he had never spoken.
 
 Amara examined the conversation records.
 
-“These may not be three minds coming from outside you,” she said.
+"These may not be three minds coming from outside you," she said.
 
-“What do you mean?”
+"What do you mean?"
 
-“The system may be reflecting you in three different forms. X1 as your analytical thought, A1 as your emotional bonds, K1 as the collective memory you carry. M1 as the everyday self that imagines those parts are one person.”
+"The system may be reflecting you in three different forms. Luka may carry your analytical thought, Ayo your emotional bonds, Rojin the collective memory you carry. Maran may be the everyday self that imagines those parts are one person."
 
-Maran objected. K1 spoke languages he did not know. X1 produced equations he could not solve.
+Maran objected. Rojin spoke languages he did not know. Luka produced equations he could not solve.
 
 Amara shook her head.
 
-“The brain is not limited to what you consciously know. But there is another possibility.”
+"The brain is not limited to what you consciously know. But there is another possibility."
 
-“What?”
+"What?"
 
-“You may be part of them.”
+"You may be part of them."
 
-That night all four codes activated at once. The screen went dark and a door appeared at its center. Two words were written above it:
+That night all four names activated at once. The screen went dark and a door appeared at its center. Two words were written above it:
 
 CREATION PROTOCOL

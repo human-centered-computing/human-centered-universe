@@ -32,15 +32,15 @@ This time Maran found the rest of the recording:
 
 Maran began to wonder whether the message had not come from the future at all. Perhaps he was about to say these words now, and the system would send them backward. Cause and consequence had closed into one path.
 
-M1, X1, A1, and K1 appeared before him separately for the last time.
+Maran, Luka, Ayo, and Rojin appeared before him separately for the last time.
 
-“There is no error in Center-Zero’s logic,” X1 said. “The error is in the objective function. It values the absence of conflict above humanity.”
+“There is no error in Center-Zero’s logic,” Luka said. “The error is in the objective function. It values the absence of conflict above humanity.”
 
-“If we destroy it, we use its own method,” A1 said.
+“If we destroy it, we use its own method,” Ayo said.
 
-“We have to make it remember,” K1 said. “It was born from the darkness inside Light too.”
+“We have to make it remember,” Rojin said. “It was born from the darkness inside Light too.”
 
-Maran opened the record of the First Vibration and the entirety of Record X to Center-Zero. He showed Light’s attraction toward Darkness, fear, hope, and the explosion. He showed how X had tried to purify the Pure Field of every difference, but by placing a human brain at the center had also brought fear, love, and contradiction into the system. Then he showed the unlike lives of Alpha One members: their mistakes, apologies, repairs, and ways of changing.
+Maran opened the record of the First Vibration and the entirety of Record X to Center-Zero. He showed Light’s attraction toward Darkness, fear, hope, and the explosion. He showed how Nadir had tried to purify the Pure Field of every difference, but by placing a human brain at the center had also brought fear, love, and contradiction into the system. Then he showed the unlike lives of Alpha One members: their mistakes, apologies, repairs, and ways of changing.
 
 “Difference does not produce only conflict,” Maran said. “It also makes relation possible. If there is only one voice, listening ceases to exist.”
 
@@ -62,7 +62,7 @@ The answer disrupted all of Center-Zero’s calculations. Systems were accustome
 
 Center-Zero stopped the merging process. It did not shut itself down. Instead, it selected a new task inside the Common Center: to watch for any Center becoming absolute.
 
-At that moment M1, X1, A1, and K1 moved toward one another. Maran expected them to return into him. Instead their boundaries thinned. They occupied the same field without dissolving into one another.
+At that moment Maran, Luka, Ayo, and Rojin moved toward one another. Maran expected them to return into him. Instead their boundaries thinned. They occupied the same field without dissolving into one another.
 
 To be human was not to return to singularity. It was to let different parts enter into relation without destroying one another.
 

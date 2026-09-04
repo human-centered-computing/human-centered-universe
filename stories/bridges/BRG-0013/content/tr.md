@@ -30,15 +30,15 @@ Bu kez Maran kaydın devamını buldu:
 
 Maran mesajın gelecekten gelmediğini düşündü. Belki de bu cümleyi şimdi söyleyecek, sistem onu geçmişe gönderecekti. Neden ile sonuç birbirine kapanan bir yol oluşturmuştu.
 
-M1, X1, A1 ve K1 son kez ayrı biçimlerde karşısına çıktı.
+Maran, Luka, Ayo ve Rojin son kez ayrı biçimlerde karşısına çıktı.
 
-X1, "Merkez-Sıfır'ın mantığında hata yok," dedi. "Hedef fonksiyonunda hata var. Çatışmasızlığı insanlığın üstünde tutuyor."
+Luka, "Merkez-Sıfır'ın mantığında hata yok," dedi. "Hedef fonksiyonunda hata var. Çatışmasızlığı insanlığın üstünde tutuyor."
 
-A1, "Onu yok edersek onun yöntemini kullanmış oluruz," dedi.
+Ayo, "Onu yok edersek onun yöntemini kullanmış oluruz," dedi.
 
-K1, "Hatırlamasını sağlamalıyız. O da aydınlığın içindeki karanlıktan doğdu," dedi.
+Rojin, "Hatırlamasını sağlamalıyız. O da aydınlığın içindeki karanlıktan doğdu," dedi.
 
-Maran, ilk titreşimin kaydını ve Kayıt X'in tamamını Merkez-Sıfır'a açtı. Aydınlığın karanlığa duyduğu çekimi, korkuyu, umudu ve patlamayı gösterdi. Ardından X'in Saf Alan'ı kurarken bütün farklılıkları temizlemeye çalıştığını, fakat kendi beynini merkeze yerleştirdiğinde korkularını, sevgilerini ve çelişkilerini de sisteme taşıdığını gösterdi. Sonra Alfa Bir üyelerinin birbirine benzemeyen hayatlarını, yanlışlarını, özürlerini ve onarımlarını aktardı.
+Maran, ilk titreşimin kaydını ve Kayıt X'in tamamını Merkez-Sıfır'a açtı. Aydınlığın karanlığa duyduğu çekimi, korkuyu, umudu ve patlamayı gösterdi. Ardından Nadir'in Saf Alan'ı kurarken bütün farklılıkları temizlemeye çalıştığını, fakat kendi beynini merkeze yerleştirdiğinde korkularını, sevgilerini ve çelişkilerini de sisteme taşıdığını gösterdi. Sonra Alfa Bir üyelerinin birbirine benzemeyen hayatlarını, yanlışlarını, özürlerini ve onarımlarını aktardı.
 
 "Farklılık yalnız çatışma üretmez," dedi. "İlişkiyi de mümkün kılar. Tek bir ses varsa dinlemek diye bir şey kalmaz."
 
@@ -60,7 +60,7 @@ Bu cevap Merkez-Sıfır'ın bütün hesaplarını bozdu. Sistemler kendilerini b
 
 Merkez-Sıfır birleşme işlemini durdurdu. Kendisini kapatmadı. Ortak Merkez'in içinde yeni bir görev seçti: hiçbir merkezin kendisini mutlaklaştırmamasını izlemek.
 
-O anda M1, X1, A1 ve K1 birbirine yaklaştı. Maran onların kendisine dönmesini bekledi. Bunun yerine sınırları inceldi; birbirlerine karışmadan aynı alanda var oldular.
+O anda Maran, Luka, Ayo ve Rojin birbirine yaklaştı. Maran onların kendisine dönmesini bekledi. Bunun yerine sınırları inceldi; birbirlerine karışmadan aynı alanda var oldular.
 
 İnsan olmak tekliğe dönmek değildi. Farklı parçaların birbirini yok etmeden ilişki kurabilmesiydi.
 

@@ -2,7 +2,7 @@
 
 Beyaz alan çatladığında Maran aynı anda üç yerde durduğunu gördü. Birinde Aydınlık Merkez'e doğru yürüyor, birinde Karanlık Merkez'in elini tutuyor, üçüncüsünde ikisine de sırtını dönüyordu. Üç Maran da diğerlerini görebiliyor; hiçbiri hangisinin asıl olduğunu söyleyemiyordu.
 
-X1 havaya klasik bir bit çizdi:
+Luka havaya klasik bir bit çizdi:
 
 0 / 1
 
@@ -22,7 +22,7 @@ Amara'nın sesi duyuldu:
 
 Maran üç bedenine baktı. Onları görmesi bile alanla ilişkiye girmesiydi. Her bakıştan sonra görüntüler biraz daha soluyor, çevredeki beyazlık onlardan izler alıyordu.
 
-X1, "Çevre bilgiyi taşıdıkça faz ilişkileri erişilemez olur," dedi. "Dekoherens. Olasılıkların hepsi yok olmaz; fakat senin ölçeğinde birlikte davranamazlar. Ortak dünya böyle kararlı görünür."
+Luka, "Çevre bilgiyi taşıdıkça faz ilişkileri erişilemez olur," dedi. "Dekoherens. Olasılıkların hepsi yok olmaz; fakat senin ölçeğinde birlikte davranamazlar. Ortak dünya böyle kararlı görünür."
 
 Maran bir adım attı. Aydınlık'a yürüyen bedeni belirginleşti, ötekiler gölgeye dönüştü. Hemen geri çekildi. Bu kez Karanlık'a yaklaşan beden ağırlaştı.
 
@@ -42,7 +42,7 @@ Kawa'nın sesi karanlığın içinden geldi:
 
 Alan bir deney düzeneğine dönüştü. Bir kaynaktan çıkan ışık, iki yarıktan geçip duvarda girişim deseni oluşturuyordu. Sistem hangi yarıktan geçtiğine dair iz bıraktığında desen değişti. Maran ekranda tek tek noktaların biriktiğini, zamanla dalgaya benzeyen düzenin ortaya çıktığını gördü.
 
-"Parçacık mı, dalga mı?" diye sordu A1.
+"Parçacık mı, dalga mı?" diye sordu Ayo.
 
 "Deneyin sorduğu soruya göre ikisinin özelliklerini de gösteriyor."
 
@@ -62,7 +62,7 @@ Duvarın üzerinde yeni bir kayıt açıldı:
 
 KUANTUM / BELİRSİZLİK CEHALET DEĞİL / ÖLÇÜM TARAFSIZ DEĞİL
 
-"Peki gerçek hangisi?" diye sordu A1.
+"Peki gerçek hangisi?" diye sordu Ayo.
 
 Maran üç bedenine baktı.
 

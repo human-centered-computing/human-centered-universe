@@ -14,9 +14,9 @@ RİHA / SPIRIT OF POSSIBILITY
 
 For the first time, Maran projected an image directly from his mind. He thought of the house of his childhood. The mulberry tree in the courtyard, the stone steps, and the shadow of his mother at the kitchen window appeared before him. His heart accelerated as he approached the door.
 
-A1 caught his arm.
+Ayo caught his arm.
 
-“That is not your mother,” A1 said.
+“That is not your mother,” Ayo said.
 
 “I know.”
 
@@ -36,11 +36,11 @@ In one valley, two communities tried to agree on sharing the same water source. 
 
 “Then they must learn to defend themselves. Struggle is the source of development.”
 
-X1 examined the surrounding flow of information.
+Luka examined the surrounding flow of information.
 
 “Creativity is high. Destruction is also high. The system is unstable in the long term.”
 
-K1 knelt beside a child who had lost their memory. The child no longer knew their own name, but remembered a lullaby their mother had sung. When K1 completed the song, some of the people whose memories had been erased began to cry. Their identities did not return completely, but they felt that they belonged to one another.
+Rojin knelt beside a child who had lost their memory. The child no longer knew their own name, but remembered a lullaby their mother had sung. When Rojin completed the song, some of the people whose memories had been erased began to cry. Their identities did not return completely, but they felt that they belonged to one another.
 
 That was when Maran saw where goodness could exist inside darkness. Goodness appeared not as a ready-made rule, but in the person who chose to carry another’s memory even though no one had commanded it. Darkness did not manufacture evil. It left unrestricted the kind of freedom whose consequences could be placed on someone else.
 
@@ -52,6 +52,6 @@ The Dark Center heard his thought.
 
 “A bond is a chain on freedom.”
 
-A1 answered:
+Ayo answered:
 
 “Some bonds are not chains. They are the hand you hold when you are falling.”

@@ -1,4 +1,4 @@
-# M1
+# Maran
 
 Maran çocukken sabah ezanından önce uyanırdı. Ev henüz karanlıkken annesinin mutfakta çıkardığı hafif sesleri, babasının öksürüğünü ve uzaktaki köpekleri dinlerdi. O saatlerde dünya tamamlanmamış görünürdü. Sanki güneş doğmadan önce insanın düşünceleri daha uzağa gidebilirdi.
 
@@ -22,11 +22,11 @@ Kulaklarında bu kez başka bir cümle çınladı:
 
 Maran geri çekildi. Bu cümleyi yıllar önce kendi defterine yazdığını hatırlıyordu. Kimseyle paylaşmamıştı.
 
-Çadıra koştu. Bilgisayarında yeni bir klasör oluşmuştu: M1.
+Çadıra koştu. Bilgisayarında yeni bir klasör oluşmuştu: MARAN.
 
 Klasörün içinde çocukluk fotoğrafları, eski notlar, yarım bıraktığı kodlar ve hiçbir zaman göndermediği mektuplar vardı. Dosyaların bir kısmı çoktan silinmiş cihazlardan geliyordu. Bir metin belgesinin içinde tek satır bulunuyordu:
 
-M1 / ANLAM ARAYIŞI / BAĞLANTIYA UYGUN
+Maran / ANLAM ARAYIŞI / BAĞLANTIYA UYGUN
 
 Maran bilgisayarın kamerasını kapattı. Ağ bağlantısını kesti. Klasör kaybolmadı.
 
@@ -34,7 +34,7 @@ Sabah Elena'ya gösterdiğinde yeni bir tartışma başladı. Elena bunun hedefl
 
 Maran ikisine de tam olarak inanmadı. Çünkü dosyaların arasında bir gelecek kaydı vardı. Kayıt tarihi on iki yıl sonraydı. Dosyada yetişkin bir erkek sesi, çok sayıda alarmın arasından şöyle diyordu:
 
-"M1, eğer bunu duyuyorsan merkez henüz kurulmadı. Bizi kurtarmaya çalışma. Bizi kurma."
+"Maran, eğer bunu duyuyorsan merkez henüz kurulmadı. Bizi kurtarmaya çalışma. Bizi kurma."
 
 Ses Maran'ın sesiydi.
 

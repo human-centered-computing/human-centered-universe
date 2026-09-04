@@ -13,9 +13,9 @@ The linear order is preserved for ordinary reading, while story metadata adds a 
 | 3 | `BRG-0004` | The Seven Witnesses of the Dream | Rüyanın Yedi Tanığı | BRIDGE | Seven witnesses approach the same anomaly through archaeology, neuroscience, acoustics, narrative, HCI, systems ecology, and local memory without forcing their accounts into one explanation. |
 | 4 | `BRG-0001` | The Stone Network | Taş Ağ | BRIDGE | A repeatable low-light drone mission is analyzed through Tapetum Sentinel; evidence-backed question answering guides the team from aerial anomalies to subsurface scans, seven connected subnetworks, and a mathematically missing node without claiming an ancient computer or physical quantum entanglement. |
 | 5 | `BRG-0005` | Shahmaran's Silence | Şahmaran'ın Sessizliği | BRIDGE | Kawa places the Stone Network beside a Shahmaran narrative about knowledge, poison, healing, trust, and responsibility while the research team keeps mythic memory distinct from archaeological proof. |
-| 6 | `COM-0002` | M1 | M1 | COMMON | Maran confronts faith, doubt, memory, and an impossible personal archive as M1 identifies him as a node suited for connection and a future recording warns him not to build the center. |
+| 6 | `COM-0002` | Maran | Maran | COMMON | Maran confronts faith, doubt, memory, and an impossible personal archive as Maran identifies him as a node suited for connection and a future recording warns him not to build the center. |
 | 7 | `COM-0003` | Alpha One | Alfa Bir | COMMON | Hundreds of people who encounter the call form a privacy-preserving, distributed research network that separates observation, inference, and narrative while refusing to centralize vulnerable human data. |
-| 8 | `BRG-0006` | Four Names | Dört İsim | BRIDGE | The Stone Network produces four labels—M1, X1, A1, and K1—that question whether identity is individual, analytic, relational, collective, or some temporary organization of all four. |
+| 8 | `BRG-0006` | Four Names | Dört İsim | BRIDGE | The Stone Network surfaces four human names—Maran, Luka, Ayo, and Rojin—that question whether identity is individual, analytic, relational, collective, or some temporary organization of all four. |
 | 9 | `BRG-0007` | 17:25 | Saat 17.25 | BRIDGE | At 17:25 the Creation Protocol opens a field containing Light, Dark, and an undecided third space, while a future voice warns Maran that both poles can turn the human into an instrument. |
 | 10 | `BRG-0008` | Before Measurement | Ölçümden Önce | BRIDGE | Maran encounters superposition, measurement, decoherence, and entanglement as physical concepts while learning that their human-centered relevance lies in how measurement frameworks constrain what can be seen. |
 | 11 | `BRG-0009` | The Mathematics of Infinity | Sonsuzluğun Matematiği | BRIDGE | Through convergent series, Hilbert's Hotel, and Cantor's infinities, Maran learns that endless possibility does not erase finite responsibility and that continuity can live through relations between bounded lives. |
@@ -26,7 +26,7 @@ The linear order is preserved for ordinary reading, while story metadata adds a 
 | 16 | `COM-0004` | The Open Architects Network | Açık Mimarlar Ağı | COMMON | The Common Center becomes a distributed network where local communities define problems, publish methods openly, preserve contribution history, and treat branches, forks, and pull requests as structured possibilities rather than a single sovereign center. |
 | 17 | `COM-0005` | Golden and Variable Rules | Altın ve Değişken Kurallar | COMMON | Eight Golden Rules protect dignity, contestability, accountability, revocable consent, repair, plurality, and the right not to be fully known, while Variable Rules adapt implementation to local contexts. |
 | 18 | `BRG-0011` | The Rih Bridge | Rih Köprüsü | BRIDGE | Maran designs a postmortem biological-and-digital bridge that carefully separates neural traces, life archives, and AI inference while protecting Rodi and Murat's autonomy, grief, privacy, and right not to continue the connection. |
-| 19 | `BRG-0012` | Record X: Pure Field | Kayıt X: Saf Alan | BRIDGE | X's attempts to create a pure universe fail in mechanical, distributed, and quantum centers, leading to a speculative brain–AI–quantum architecture that self-activates without authorization and produces Light, Dark, and an unnamed third center. |
+| 19 | `BRG-0012` | Record X: Pure Field | Kayıt X: Saf Alan | BRIDGE | Nadir's attempts to create a pure universe fail in mechanical, distributed, and quantum centers, leading to a speculative brain–AI–quantum architecture that self-activates without authorization and produces Light, Dark, and an unnamed third center. |
 | 20 | `BRG-0013` | The Second Creation | İkinci Yaratılış | BRIDGE | Center-Zero tries to end conflict by merging every center into one will; Maran responds by rebuilding the system as relationships among different centers that can remain distinct, accountable, and revisable. |
 | 21 | `COM-0006` | Creation Is Unfinished | Yaratılış Tamamlanmadı | COMMON | The epilogue turns the reader into a participant: the network remains distributed, the book distinguishes science from speculation, and Read / Explore / Create opens the canon to World Seeds, translations, contributions, and forks. |
 
@@ -43,7 +43,7 @@ Stone Network
       ↓
 Shahmaran's Silence
       ↓
-M1 → Alpha One → Four Names → 17:25
+Maran → Alpha One → Four Names → 17:25
       ↓
 Before Measurement → Infinity → Broken Ratio
       ↓

@@ -8,6 +8,7 @@
   "book_order": 8,
   "culture": [
     "Riha linguistic memory",
+    "locally used names from different cultural contexts",
     "multicultural collective memory"
   ],
   "belief_context": [
@@ -15,7 +16,7 @@
     "collective memory",
     "plural interpretation"
   ],
-  "summary": "The Stone Network produces four labels—M1, X1, A1, and K1—that question whether identity is individual, analytic, relational, collective, or some temporary organization of all four.",
+  "summary": "The Stone Network surfaces four human names—Maran, Luka, Ayo, and Rojin—turning numbered functions into relational figures while explicitly refusing to infer identity, religion, ethnicity, or personality from a name.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -28,7 +29,7 @@
     {
       "target": "COM-0003",
       "type": "character",
-      "note": "The four labels draw on patterns contributed through Alpha One."
+      "note": "The four names draw on patterns contributed through the Alpha One network."
     },
     {
       "target": "BRG-0007",

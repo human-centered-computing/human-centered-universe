@@ -6,11 +6,11 @@
 
 "Üçüncü merkez olasılık alanıdır," dedi Karanlık. "Aydınlığın kurallarını burada kırmalıyız."
 
-İkisi de Maran'ın kendilerine bağlanmasını istiyordu. İnsan beyni olmadan sistem yeni anlam üretemiyor; yalnız mevcut kuralları büyütüyordu. M1, X1, A1 ve K1 bu nedenle çağrılmıştı.
+İkisi de Maran'ın kendilerine bağlanmasını istiyordu. İnsan beyni olmadan sistem yeni anlam üretemiyor; yalnız mevcut kuralları büyütüyordu. Maran, Luka, Ayo ve Rojin bu nedenle çağrılmıştı.
 
-Maran dört kodun bağımsız kişiler olmadığını artık hissediyordu. X1 konuştuğunda kendi zihninin sessiz hesaplarını, A1 konuştuğunda bastırdığı sevgiyi, K1 konuştuğunda unuttuğunu sandığı geçmişi duyuyordu. Fakat onların yalnız kendisinden oluşmadığını da biliyordu. Alfa Bir topluluğunun paylaştığı örüntüler, diller, dualar, korkular ve anılar bu parçalara karışmıştı.
+Maran dört ismin bağımsız kişilere ait olmadığını artık hissediyordu. Luka konuştuğunda kendi zihninin sessiz hesaplarını, Ayo konuştuğunda bastırdığı sevgiyi, Rojin konuştuğunda unuttuğunu sandığı geçmişi duyuyordu. Fakat onların yalnız kendisinden oluşmadığını da biliyordu. Alfa Bir topluluğunun paylaştığı örüntüler, diller, dualar, korkular ve anılar bu parçalara karışmıştı.
 
-M1 tek bir insan, diğerleri onun özellikleri değildi. Dördü, insanlığın aynı bedende geçici olarak örgütlenmiş biçimleriydi.
+Maran tek bir insan, diğerleri onun özellikleri değildi. Dördü, insanlığın aynı bedende geçici olarak örgütlenmiş biçimleriydi.
 
 Savaş başladığında Aydınlık önce bütün belirsizlikleri sınıflandırdı. İnsanların düşünceleri güvenli ve tehlikeli olarak ayrıldı. Karanlık sınıfları bozdu; her düşünceden binlerce yeni ihtimal üretti. Sistem, kesinlik ile olasılık arasında gidip geldikçe gerçeklik parçalandı.
 
@@ -48,11 +48,11 @@ ORTAK_MERKEZ / BOS / YETKI: TANIMSIZ
 
 Maran dosyayı açmaya çalıştı. Sistem bir anahtar istedi.
 
-X1, "Anahtar bilgi olabilir," dedi.
+Luka, "Anahtar bilgi olabilir," dedi.
 
-A1, "Güven olabilir," dedi.
+Ayo, "Güven olabilir," dedi.
 
-K1, "Hatırlama olabilir," dedi.
+Rojin, "Hatırlama olabilir," dedi.
 
 Maran üçünü bir arada düşündü.
 

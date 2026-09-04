@@ -94,11 +94,11 @@ Sekiz: Bağımsız bir kurul, acı, bağımlılık, manipülasyon veya kimlik bo
 
 Dokuz: Çocukların unutma, yas tutma ve babalarından farklı bir insan olma hakkı korunacaktı.
 
-K1 dokuzuncu kuralı uzun süre ekranda tuttu.
+Rojin dokuzuncu kuralı uzun süre ekranda tuttu.
 
 "İnsan sevdiğini unutmaktan korkuyor," dedi Maran.
 
-"Bazen de onu hatırlamak adına değişmesine izin vermiyor," dedi K1.
+"Bazen de onu hatırlamak adına değişmesine izin vermiyor," dedi Rojin.
 
 Sistem, protokolün sonuçlarını göstermek için olası bir gelecek oluşturdu. Bu gelecek bir kehanet değildi; Maran'ın kayıtları, çocukların bugünkü davranışları ve ağın varsayımlarıyla üretilmiş bir sınamaydı.
 
@@ -144,7 +144,7 @@ Gelecek görüntüsü kapandığında Maran odada tek başına değildi. Amara, 
 
 Maran, Riha için aradıkları kayıp tamamlayıcıyı düşündü. Eğer beyin bedenin bir parçasıysa, hafıza onun izi, yapay zekâ da o izi dile çeviren araçsa rih hangisindeydi? Korunan dokuda mı, çocukların hatırlamasında mı, aralarında kurulan ilişkide mi; yoksa bunların hiçbirinde mi?
 
-K1 boşluğu yeniden açtı:
+Rojin boşluğu yeniden açtı:
 
 RİHÊ ______
 

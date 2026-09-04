@@ -26,7 +26,7 @@ The current linear reading order remains valid, while the graph adds alternative
 | 3 | `BRG-0004` | The Seven Witnesses of the Dream | BRIDGE |
 | 4 | `BRG-0005` | Shahmaran's Silence | BRIDGE |
 | 5 | `BRG-0001` | The Stone Network | BRIDGE |
-| 6 | `COM-0002` | M1 | COMMON |
+| 6 | `COM-0002` | Maran | COMMON |
 | 7 | `COM-0003` | Alpha One | COMMON |
 | 8 | `BRG-0006` | Four Names | BRIDGE |
 | 9 | `BRG-0007` | 17:25 | BRIDGE |

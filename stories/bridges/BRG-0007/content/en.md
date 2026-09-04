@@ -10,7 +10,7 @@ Amara told Maran to step away from the system. Elena tried to seal the ground ab
 
 At 17:24, the recording containing Maran’s future voice opened again.
 
-“M1, do not build the center.”
+“Maran, do not build the center.”
 
 This time the recording continued.
 
@@ -38,7 +38,7 @@ A second voice came from behind him. A brighter human shape separated from the w
 
 A third space opened between the two forms. It was neither black nor white. It had no color because no decision had yet been made there.
 
-X1, A1, and K1 appeared beside Maran.
+Luka, Ayo, and Rojin appeared beside Maran.
 
 “Choose your side,” the two Centers said at the same time.
 

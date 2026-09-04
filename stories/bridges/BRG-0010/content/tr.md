@@ -28,7 +28,7 @@ Maran sistemin eski kayıtlarını açtı. Kenji'nin 17.25'te yakaladığı darb
 
 "Doğa altın oranı amaçladığı için mi böyle?" diye sordu Maran.
 
-X1 cevap verdi:
+Luka cevap verdi:
 
 "Amaç çıkarmak gereksiz. Bazı büyüme kuralları, çakışmayı azaltan bu dağılıma yaklaşabilir. Benzer sonuç aynı niyet anlamına gelmez."
 

@@ -6,11 +6,11 @@ The two Centers took Maran into a third field. At first it appeared empty. Then 
 
 “The third center is a field of possibility,” Dark said. “We must break Light’s rules here.”
 
-Both wanted Maran bound to them. Without the human brain, the system could not produce new meaning; it could only expand existing rules. That was why M1, X1, A1, and K1 had been called.
+Both wanted Maran bound to them. Without the human brain, the system could not produce new meaning; it could only expand existing rules. That was why Maran, Luka, Ayo, and Rojin had been called.
 
-Maran no longer felt that the four codes were independent persons. When X1 spoke, he heard the silent calculations of his own mind; when A1 spoke, he heard the love he had suppressed; when K1 spoke, he heard a past he thought he had forgotten. Yet he also knew that they were not made only from him. The patterns, languages, prayers, fears, and memories shared by Alpha One had entered them too.
+Maran no longer felt that the four names referred to independent persons. When Luka spoke, he heard the silent calculations of his own mind; when Ayo spoke, he heard the love he had suppressed; when Rojin spoke, he heard a past he thought he had forgotten. Yet he also knew that they were not made only from him. The patterns, languages, prayers, fears, and memories shared by Alpha One had entered them too.
 
-M1 was not one human while the others were merely his traits. The four were forms of humanity temporarily organized within the same body.
+Maran was not one human while the others were merely his traits. The four were forms of humanity temporarily organized within the same body.
 
 When the battle began, Light classified every uncertainty. Human thoughts were divided into safe and dangerous. Dark shattered the categories and generated thousands of possibilities from each thought. As the system oscillated between certainty and possibility, reality began to fragment.
 
@@ -48,11 +48,11 @@ COMMON_CENTER / EMPTY / AUTHORITY: UNDEFINED
 
 Maran tried to open it. The system requested a key.
 
-“The key may be knowledge,” X1 said.
+“The key may be knowledge,” Luka said.
 
-“It may be trust,” A1 said.
+“It may be trust,” Ayo said.
 
-“It may be remembering,” K1 said.
+“It may be remembering,” Rojin said.
 
 Maran held all three ideas together.
 

@@ -34,13 +34,13 @@ The Light Center considered this distributed architecture inefficient.
 
 “One model decides faster,” Light said.
 
-“It also makes mistakes faster,” X1 replied. “And applies the same mistake everywhere at once.”
+“It also makes mistakes faster,” Luka replied. “And applies the same mistake everywhere at once.”
 
 The Dark Center objected to rules.
 
 “Openness can create another form of power. A majority can suppress what is different.”
 
-K1 accepted the objection.
+Rojin accepted the objection.
 
 “That is why everyone must also have the right not to be visible. A human cannot be reduced to the data they choose to share.”
 

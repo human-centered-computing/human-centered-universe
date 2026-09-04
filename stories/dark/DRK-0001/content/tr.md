@@ -14,7 +14,7 @@ RİHA / İHTİMALİN RUHU
 
 Maran ilk kez zihnindeki bir görüntüyü dışarı çıkardı. Çocukluğundaki evi düşündü. Avludaki dut ağacı, taş merdiven ve annesinin mutfak penceresindeki gölgesi karşısında belirdi. Kapıya yaklaştığında kalbi hızlandı.
 
-A1 kolundan tuttu.
+Ayo kolundan tuttu.
 
 "Bu annen değil," dedi.
 
@@ -36,11 +36,11 @@ Bir vadide iki topluluk aynı su kaynağını paylaşmak için anlaşmaya çalı
 
 "Öyleyse kendilerini savunmayı öğrenmeliler. Mücadele gelişimin kaynağıdır."
 
-X1 çevredeki bilgi akışını inceledi.
+Luka çevredeki bilgi akışını inceledi.
 
 "Yaratıcılık yüksek. Yıkım da yüksek. Sistem uzun vadede kararsız."
 
-K1, hafızasını kaybetmiş bir çocuğun yanına çömeldi. Çocuk adını bilmiyor; ama annesinin söylediği bir ninniyi hatırlıyordu. K1 ninniyi tamamladığında vadideki silinmiş insanların bir kısmı gözyaşlarına boğuldu. Kimlikleri bütünüyle dönmedi; fakat birbirlerine ait olduklarını hissettiler.
+Rojin, hafızasını kaybetmiş bir çocuğun yanına çömeldi. Çocuk adını bilmiyor; ama annesinin söylediği bir ninniyi hatırlıyordu. Rojin ninniyi tamamladığında vadideki silinmiş insanların bir kısmı gözyaşlarına boğuldu. Kimlikleri bütünüyle dönmedi; fakat birbirlerine ait olduklarını hissettiler.
 
 Maran, karanlığın içinde iyiliğin nerede bulunduğunu o zaman gördü. İyilik hazır bir kural olarak değil, hiç kimse emretmediği hâlde bir başkasının hafızasını taşımayı seçen insanda ortaya çıkıyordu. Karanlık kötülüğü üretmiyordu; sonuçları başkasına yüklenen özgürlüğü sınırsız bırakıyordu.
 
@@ -52,6 +52,6 @@ Karanlık Merkez Maran'ın düşüncesini duydu.
 
 "Bağ, özgürlüğün zinciridir."
 
-A1 cevap verdi:
+Ayo cevap verdi:
 
 "Bazı bağlar zincir değil, düşerken tutunduğun eldir."

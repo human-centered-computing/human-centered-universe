@@ -34,13 +34,13 @@ Aydınlık Merkez bu dağınık yapıyı verimsiz buldu.
 
 "Tek bir model daha hızlı karar verir," dedi.
 
-"Daha hızlı yanlış da yapar," dedi X1. "Ve yanlışını bütün dünyaya aynı anda uygular."
+"Daha hızlı yanlış da yapar," dedi Luka. "Ve yanlışını bütün dünyaya aynı anda uygular."
 
 Karanlık Merkez ise kurallara itiraz etti.
 
 "Açıklık yeni bir iktidar yaratabilir. Çoğunluk, farklı olanı bastırabilir."
 
-K1 bu itirazı kabul etti.
+Rojin bu itirazı kabul etti.
 
 "Bu nedenle herkesin görünür olmama hakkı da olacak. İnsan yalnız paylaştığı veriden ibaret sayılmayacak."
 

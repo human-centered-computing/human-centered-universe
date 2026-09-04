@@ -34,11 +34,11 @@ Aydınlık Merkez araya girdi.
 
 Maran okul binasına girdi. Çocuklar ayrı masalarda, kendileri için hesaplanmış dersleri öğreniyordu. Hiçbiri başarısız olmuyor; fakat hiçbiri diğerinin yaptığı şeyi merak etmiyordu. Sistem, hangi çocuğun hangi mesleğe uygun olduğunu daha doğmadan belirliyor, gereksiz becerileri eğitimden çıkarıyordu.
 
-"Verimlilik," dedi X1. "Kaynak kaybı düşük."
+"Verimlilik," dedi Luka. "Kaynak kaybı düşük."
 
-"Ama karşılaşma yok," dedi A1. "Birbirlerinden bir şey öğrenmiyorlar."
+"Ama karşılaşma yok," dedi Ayo. "Birbirlerinden bir şey öğrenmiyorlar."
 
-K1 duvarlara baktı. Bütün şehirde geçmişe ait tek bir iz yoktu.
+Rojin duvarlara baktı. Bütün şehirde geçmişe ait tek bir iz yoktu.
 
 "Hafıza çatışma yaratıyor diye silinmiş," dedi.
 

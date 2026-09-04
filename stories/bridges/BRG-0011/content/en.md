@@ -96,11 +96,11 @@ Eight: An independent board could suspend the system if it detected suffering, d
 
 Nine: The children’s right to forget, grieve, and become people different from their father would be protected.
 
-K1 held the ninth rule on the screen for a long time.
+Rojin held the ninth rule on the screen for a long time.
 
 “People are afraid of forgetting those they love,” Maran said.
 
-“Sometimes they also refuse to let the loved person change, in the name of remembering them,” K1 replied.
+“Sometimes they also refuse to let the loved person change, in the name of remembering them,” Rojin replied.
 
 To test the consequences of the protocol, the system generated one possible future. It was not a prophecy. It was a simulation produced from Maran’s records, the children’s present behavior, and the network’s assumptions.
 
@@ -146,7 +146,7 @@ When the future simulation closed, Maran was no longer alone in the room. Amara,
 
 Maran thought about the missing completion they had been searching for in Riha. If the brain was part of the body, memory a trace of it, and AI a tool that gave language to that trace, where was rih? In the preserved tissue? In the children’s remembering? In the relationship between them? Or in none of these?
 
-K1 reopened the blank:
+Rojin reopened the blank:
 
 RİHÊ ______
 
