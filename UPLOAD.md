@@ -1,45 +1,22 @@
-# Upload Full Book Canon v0.2
+# HCU Reader Cache-Busting Patch v0.2.1
 
-This is a **delta package** for the existing repository:
+The latest GitHub Pages deployment contains 21 canon nodes, but browsers/CDNs
+can continue showing an older JavaScript/CSS asset because the asset URLs did
+not change between deployments.
 
-`human-centered-computing/human-centered-universe`
+Copy the contents of this package into the existing repository root and replace:
 
-It assumes `BRG-0002 — First Vibration` and the GitHub Pages reader are already present.
+`scripts/build_reader.py`
 
-## Upload
+Commit:
 
-1. Extract this ZIP.
-2. Open the local `human-centered-universe` repository folder.
-3. Copy **all files and folders inside this package** into the repository root.
-4. Choose **Replace** for same-name files.
-5. Do **not** delete existing files that are not in this package.
-6. Open GitHub Desktop.
-7. Review the changes.
-8. Commit with:
+`Fix stale GitHub Pages reader cache`
 
-   `Migrate full book canon and World Seed interactions`
+Push to `main`.
 
-9. Push to `main`.
+After deployment, the generated `index.html` will reference fingerprinted assets such as:
 
-## Expected automation
+`app.js?v=<hash>`
+`styles.css?v=<hash>`
 
-After the push:
-
-- `Validate Universe` should report **21 story nodes validated**.
-- `Deploy Interactive Reader` should rebuild the GitHub Pages site.
-- The live reader should show all 21 canon nodes.
-
-Live reader:
-
-`https://human-centered-computing.github.io/human-centered-universe/`
-
-## What is replaced
-
-The short placeholder versions of these existing nodes are replaced by full manuscript-derived canon:
-
-- `BRG-0001 — The Stone Network`
-- `LGT-0001 — The Promise of Light`
-- `DRK-0001 — The Gift of Darkness`
-- `COM-0001 — Turning the Battlefield into a Home`
-
-`BRG-0002 — First Vibration` is not included because its full live version already exists in the repository.
+so new reader features are not hidden by stale cached assets.
