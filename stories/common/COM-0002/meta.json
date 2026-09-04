@@ -85,5 +85,16 @@
         }
       ]
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Maran: Kendi Sesinden Gelen Uyarı",
+      "summary": "Maran inanç, kuşku, hafıza ve imkânsız bir kişisel arşivle yüzleşir. Kendi adını kullanan sistem onu bağlantıya uygun bir düğüm olarak tanımlar; gelecekten geldiği görünen kendi sesi ise merkezi kurmaması için onu uyarır.",
+      "link_notes": {
+        "COM-0003": "Maran'a gelen kişisel sinyal dağıtık Çağrıyı Duyanlar ağına genişler.",
+        "BRG-0006": "Maran daha sonra Yaratılış Protokolü'nün görünür kıldığı dört insan adından biri olur.",
+        "COM-0005": "İyilik, bağışlama ve sorumluluk soruları daha sonra açık kurallara dönüşür."
+      }
+    }
+  }
 }

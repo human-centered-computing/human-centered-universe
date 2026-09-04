@@ -48,5 +48,17 @@
       "type": "quantum_echo",
       "note": "Its center shifts with the route, echoing a relational rather than sovereign center."
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Taş Ağ: Taşların Cevap Verdiği Yer",
+      "summary": "Tekrarlanabilir düşük ışık drone görevi Tapetum Sentinel ile analiz edilir. Kanıta dayalı yerel soru-cevap sistemi ekibi hava görüntülerindeki anomalilerden yeraltı taramalarına, yedi parçalı dağıtık taş topolojisine ve matematiksel olarak eksik bir düğüme yönlendirir; ancak antik bir bilgisayar veya fiziksel kuantum dolanıklık iddiasında bulunmaz.",
+      "link_notes": {
+        "BRG-0005": "Ağın yedi yolu, bunu tarihsel olarak kanıtlamadan Kawa'nın Şahmaran anlatısını yeniden anlamlı hâle getirir.",
+        "LGT-0001": "Okunabilir yapısı ve merkez arayışı Aydınlık'ı yankılar.",
+        "DRK-0001": "Boşlukları, eksik düğümü ve süreksizlikleri Karanlık'ı yankılar.",
+        "COM-0001": "Merkezi rotaya göre değişir; egemen değil ilişkisel bir merkezi yankılar."
+      }
+    }
+  }
 }

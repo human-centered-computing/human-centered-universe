@@ -12,5 +12,22 @@
     "irresponsible limitlessness",
     "fragmentation",
     "escape from consequences"
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "name": "Karanlık Merkez",
+      "principles": [
+        "ihtimal",
+        "özgürlük",
+        "belirsizlik",
+        "yaratım",
+        "itiraz"
+      ],
+      "shadow": [
+        "sorumsuz sınırsızlık",
+        "parçalanma",
+        "sonuçlardan kaçış"
+      ]
+    }
+  }
 }

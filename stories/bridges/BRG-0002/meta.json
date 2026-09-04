@@ -39,5 +39,16 @@
       "type": "echo",
       "note": "Humanity first appears as the possibility of transforming conflict into relationship, anticipating the Common Center."
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "İlk Titreşim: Arın ve Özüne Dön",
+      "summary": "Zaman başlamadan önce Aydınlık ve Karanlık ilk titreşimle ortaya çıkar. Duygular ahlaki yönü baştan belirlenmemiş ilişkisel kuvvetler olarak doğar; insanlık ise çatışmayı ilişkiye dönüştürme ihtimali olarak belirir.",
+      "link_notes": {
+        "LGT-0001": "İlk Aydınlık, ikisini bütünüyle özdeşleştirmeden sonraki Aydınlık Merkez'i önceler.",
+        "DRK-0001": "İlk Karanlık, ikisini bütünüyle özdeşleştirmeden sonraki Karanlık Merkez'i önceler.",
+        "COM-0001": "İnsanlık ilk kez çatışmayı ilişkiye dönüştürme ihtimali olarak belirir ve Ortak Merkez'i önceler."
+      }
+    }
+  }
 }

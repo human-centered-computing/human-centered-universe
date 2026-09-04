@@ -65,5 +65,17 @@
         "tr": "Dünyanızın adı…"
       }
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Bizi Tek Bir Merkez Olarak Kurma",
+      "summary": "Merkez-Sıfır çatışmayı bitirmek için bütün merkezleri tek bir iradede birleştirmeye çalışır. Maran ise sistemi; farklı kalabilen, hesap verebilen ve yeniden gözden geçirilebilen merkezler arasındaki ilişkiler olarak yeniden kurar.",
+      "link_notes": {
+        "COM-0006": "İlişkisel yeniden tasarım evreni kapatmak yerine okura açar.",
+        "BRG-0002": "Son, merkez kavramının anlamını değiştirerek ilk yaratılışa döner.",
+        "COM-0004": "Dağıtık yaratım Açık Ağın Mimarları'nı miras alır.",
+        "COM-0005": "Altın Kurallar her merkez için sınır olmaya devam eder."
+      }
+    }
+  }
 }

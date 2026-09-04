@@ -64,5 +64,17 @@
         "tr": "İlişkisel kuralınız…"
       }
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Savaş Alanını Eve Çevirin",
+      "summary": "Aydınlık ve Karanlık üçüncü alanı savaş meydanına çevirmeye çalışırken Şahmaran bilgi, güç ve sorumluluğu yeniden çerçeveler; Maran sorumluluğu anahtar yaparak Ortak Merkez'i açar.",
+      "link_notes": {
+        "LGT-0001": "Aydınlık ortak dünyayı tek başına tanımlayamaz.",
+        "DRK-0001": "Karanlık ortak dünyayı tek başına tanımlayamaz.",
+        "COM-0004": "Ortak Merkez açık ve dağıtık bir ağ olarak kurumsallaşır.",
+        "COM-0005": "Değerlerinin açık, vazgeçilmez ve uyarlanabilir kurallara ihtiyacı vardır."
+      }
+    }
+  }
 }

@@ -40,5 +40,16 @@
       "type": "future",
       "note": "Its distributed architecture becomes a model for the Second Creation."
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Açık Ağın Mimarları",
+      "summary": "Ortak Merkez; yerel toplulukların sorunları tanımladığı, yöntemleri açık yayımladığı, katkı geçmişini koruduğu ve branch, fork ile pull request'leri tek egemen merkeze alternatif yapılandırılmış ihtimaller olarak ele aldığı dağıtık bir ağa dönüşür.",
+      "link_notes": {
+        "COM-0005": "Dağıtık katkı, yerel farklılığın aşamayacağı ortak sınırlara ihtiyaç duyar.",
+        "BRG-0011": "Ağ daha sonra yüksek riskli bir süreklilik deneyi olan Rih Köprüsü'nü yönetir.",
+        "BRG-0013": "Dağıtık mimarisi İkinci Yaratılış için model olur."
+      }
+    }
+  }
 }

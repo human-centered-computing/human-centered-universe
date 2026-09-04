@@ -37,5 +37,16 @@
       "type": "memory",
       "note": "The city magnifies the primordial Light's tendency toward total visibility."
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Bana Bekleyecek Bir Şey Bırak",
+      "summary": "Maran, acı ve belirsizliğin azaltıldığı güvenli ve optimize edilmiş bir şehre girer; fakat sistem korumayı giderek korunandan üstün bir yetkiye dönüştürür.",
+      "link_notes": {
+        "DRK-0001": "Toplam güvenlik sınırsız ihtimalle sınanır.",
+        "COM-0001": "Rızasız koruma, üçüncü ve ilişkisel bir merkezin gerekliliğini gösterir.",
+        "BRG-0002": "Şehir, ilk Aydınlık'ın her şeyi görünür kılma eğilimini büyütür."
+      }
+    }
+  }
 }

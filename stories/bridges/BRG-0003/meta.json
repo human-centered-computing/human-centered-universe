@@ -41,5 +41,16 @@
       "type": "echo",
       "note": "The dream's image of different hands forming one shape anticipates a relational Common Center."
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Riha: Ad Bir Kapıdır",
+      "summary": "İmkânsız görünen bir arşiv sinyali aile hafızasını, Göbekli Tepe'yi, farklı dilleri ve ortak bir ruhu hangi bedenin taşıyabileceği sorusunu birbirine bağlayınca Maran Berlin'den Riha'ya döner.",
+      "link_notes": {
+        "BRG-0004": "17.25'teki ortak anomali, grubun farklı deneyimlerini karşılaştırmasına yol açar.",
+        "BRG-0001": "Xerawreş'teki yeraltı boşluğu Taş Ağ'ın eşiğine dönüşür.",
+        "COM-0001": "Rüyada farklı ellerin tek şekil oluşturması ilişkisel Ortak Merkez'i önceler."
+      }
+    }
+  }
 }

@@ -96,5 +96,17 @@
         }
       ]
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "17.25 — Seçmiyorum",
+      "summary": "Saat 17.25'te Yaratılış Protokolü Aydınlık, Karanlık ve henüz karar verilmemiş üçüncü bir alan açar. Gelecekten gelen bir ses, iki kutbun da insanı araca dönüştürebileceği konusunda Maran'ı uyarır.",
+      "link_notes": {
+        "BRG-0008": "Çatlayan beyaz alan doğrudan ölçüm problemine açılır.",
+        "LGT-0001": "Maran onun dünyasına girmeden önce Aydınlık Merkez kendini ilk kez burada tanımlar.",
+        "DRK-0001": "Maran onun dünyasına girmeden önce Karanlık Merkez kendini ilk kez burada tanımlar.",
+        "BRG-0012": "Aynı kararsız köken sinyali Kayıt X'te yeniden ortaya çıkar."
+      }
+    }
+  }
 }

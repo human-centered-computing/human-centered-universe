@@ -40,5 +40,16 @@
       "type": "memory",
       "note": "The rules formalize values first discovered in the Common Center."
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "İnsan Hiçbir Sistemin Hammaddesi Değildir",
+      "summary": "Sekiz Altın Kural; insan onurunu, itiraz edilebilirliği, hesap verebilirliği, geri çekilebilir rızayı, onarımı, çoğulluğu ve bütünüyle bilinmeme hakkını korur. Değişken Kurallar uygulamanın yerel koşullara uyarlanmasını sağlar.",
+      "link_notes": {
+        "BRG-0011": "Rih Köprüsü bu sınırlar altında tasarlanır.",
+        "BRG-0013": "İkinci Yaratılış hesap verebilirliği ve ilişkisel sınırları devralır.",
+        "COM-0001": "Kurallar, Ortak Merkez'de ilk kez keşfedilen değerleri resmileştirir."
+      }
+    }
+  }
 }

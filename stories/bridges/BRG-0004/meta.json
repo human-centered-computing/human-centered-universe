@@ -60,5 +60,16 @@
         "tr": "toprak, insanlık, hafıza, zaman, gelecek…"
       }
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Yedi Tanık, Tek Soru",
+      "summary": "Yedi tanık aynı anomaliye arkeoloji, nörobilim, akustik, anlatı, insan-bilgisayar etkileşimi, sistem ekolojisi ve yerel hafıza üzerinden yaklaşır; farklı anlatımları tek bir açıklamaya zorlamaz.",
+      "link_notes": {
+        "BRG-0001": "Yedi farklı bakış tek bir anlatıya dönüşmeden yeraltı ağı üzerinde buluşur.",
+        "COM-0003": "Kanıt paylaşım yöntemi Çağrıyı Duyanlar'ın dağıtık doğrulama modelini önceler.",
+        "COM-0001": "Farklı hikâyelerin aynı soru çevresinde kalabilmesi Ortak Merkez'i önceler."
+      }
+    }
+  }
 }

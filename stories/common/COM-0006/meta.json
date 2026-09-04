@@ -41,5 +41,16 @@
       "type": "memory",
       "note": "The Second Creation becomes the immediate memory of the open universe."
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Yaratılış Tamamlanmadı: Birinci Okur Bağlandı",
+      "summary": "Epilog okuru katılımcıya dönüştürür: ağ dağıtık kalır, kitap bilim ile spekülasyonu ayırır ve Oku / Keşfet / Oluştur yapısı canon'u Dünya Tohumlarına, çevirilere, katkılara ve fork'lara açar.",
+      "link_notes": {
+        "BRG-0002": "Tamamlanmamış son, okuru yeni bir ihtimal olarak İlk Titreşim'e geri götürür.",
+        "COM-0004": "Okurlar Açık Ağın Mimarları modeli üzerinden katkıcıya dönüşür.",
+        "BRG-0013": "İkinci Yaratılış açık evrenin hemen önceki hafızasına dönüşür."
+      }
+    }
+  }
 }

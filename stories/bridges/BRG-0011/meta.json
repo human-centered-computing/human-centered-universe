@@ -114,5 +114,17 @@
         }
       ]
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Rih Köprüsü: Babanın Yerine Konuşma",
+      "summary": "Maran, sinirsel izleri, yaşam arşivini ve yapay zekâ çıkarımını açıkça ayıran ölüm sonrası biyolojik-dijital bir köprü tasarlar; Murat ve Rodi'nin özerkliğini, yasını, mahremiyetini ve bağlantıyı sürdürmeme hakkını korur.",
+      "link_notes": {
+        "COM-0005": "Köprü rıza, hesap verebilirlik, bilinmeme ve onarım kurallarını uygulamaya geçirir.",
+        "BRG-0012": "Rih Köprüsü ölüm sonrası yetkiyi sınırlar; Kayıt X ise korunmuş bir beynin evren üreten merkezin parçası olması hâlinde ne olacağını sınar.",
+        "LGT-0001": "Kalıcı babasal koruma, Aydınlık'ın korunan üzerindeki yetkisini yeniden üretebilir.",
+        "DRK-0001": "Sınırsız kişilik değişimi, Karanlık'ın sorumluluktan bağımsız ihtimalini yeniden üretebilir."
+      }
+    }
+  }
 }

@@ -37,5 +37,16 @@
       "type": "memory",
       "note": "The world magnifies the primordial Darkness's capacity for possibility."
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Düşerken Tutunduğun El",
+      "summary": "Maran sınırsız yaratım ve kimlik özgürlüğünün olduğu bir dünyaya girer. Ortak sonuç ve sorumluluk olmayınca ihtimalin armağanı, sonuçlardan kaçabilen gücün tehlikesine dönüşür.",
+      "link_notes": {
+        "LGT-0001": "Sınırsız ihtimal toplam korumayla sınanır.",
+        "COM-0001": "Ortak sonucu olmayan özgürlük, ilişkisel üçüncü merkezin gerekliliğini gösterir.",
+        "BRG-0002": "Bu dünya, ilk Karanlık'ın ihtimal üretme kapasitesini büyütür."
+      }
+    }
+  }
 }

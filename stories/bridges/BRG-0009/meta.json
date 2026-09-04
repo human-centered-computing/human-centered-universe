@@ -77,5 +77,16 @@
         "tr": "bakım, cesaret, adalet…"
       }
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Sonsuzluk Yaşanmaz",
+      "summary": "Yakınsak seriler, Hilbert'in Oteli ve Cantor'un sonsuzlukları üzerinden Maran, sonsuz ihtimalin sonlu sorumluluğu ortadan kaldırmadığını ve sürekliliğin sınırlı hayatlar arasındaki ilişkilerde yaşayabileceğini öğrenir.",
+      "link_notes": {
+        "BRG-0010": "Sonsuzluk problemi oran, tekrar ve sapma problemine daralır.",
+        "COM-0001": "Sonlu sorumluluk Ortak Merkez'in hesap verebilir ilişkisel dünyasını önceler.",
+        "BRG-0012": "Nadir daha sonra hesaplama sonsuzluğu ve merkezileşme sorunuyla evren ölçeğinde karşılaşır."
+      }
+    }
+  }
 }

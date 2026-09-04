@@ -40,5 +40,16 @@
       "type": "future",
       "note": "Its distributed validation architecture becomes the precursor of the Open Architects Network."
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Çağrıyı Duyanlar",
+      "summary": "Çağrıyla karşılaşan yüzlerce kişi, gözlem, çıkarım ve anlatıyı birbirinden ayıran; hassas insan verilerini merkezileştirmeyi reddeden, mahremiyet odaklı dağıtık bir araştırma ağı kurar.",
+      "link_notes": {
+        "COM-0002": "Çağrıyı Duyanlar ağı Maran anomalisi ve uyarısından büyür.",
+        "BRG-0006": "Ağın örüntüleri dört insan adında birleşir: Maran, Luka, Ayo ve Rojin.",
+        "COM-0004": "Dağıtık doğrulama mimarisi Açık Ağın Mimarları'nın öncülü olur."
+      }
+    }
+  }
 }

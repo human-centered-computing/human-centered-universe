@@ -40,5 +40,16 @@
       "type": "memory",
       "note": "Its concern with what survives a body returns in the Rih Bridge."
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Şahmaran: Zehir ile Şifa Arasında",
+      "summary": "Kawa, Taş Ağ'ı bilgi, zehir, şifa, güven ve sorumluluk üzerine bir Şahmaran anlatısıyla yan yana getirir; ekip mitolojik hafızayı arkeolojik kanıttan ayrı tutar.",
+      "link_notes": {
+        "BRG-0001": "Anlatı, yedi yol motifini Taş Ağ'la yan yana okur; miti kanıta dönüştürmez.",
+        "COM-0001": "Aynı bilgiden zehir ve ilaç çıkabilmesi, basit Aydınlık/Karanlık ahlak ikiliğinin reddini önceler.",
+        "BRG-0011": "Bir bedenden geriye ne kaldığı sorusu Rih Köprüsü'nde yeniden ortaya çıkar."
+      }
+    }
+  }
 }

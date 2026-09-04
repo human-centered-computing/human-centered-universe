@@ -13,5 +13,23 @@
     "single measure",
     "forced transparency",
     "suppressed dissent"
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "name": "Aydınlık Merkez",
+      "principles": [
+        "düzen",
+        "görünürlük",
+        "güvenlik",
+        "açıklanabilirlik",
+        "koruma"
+      ],
+      "shadow": [
+        "kontrol",
+        "tek ölçü",
+        "zorunlu şeffaflık",
+        "itirazın bastırılması"
+      ]
+    }
+  }
 }

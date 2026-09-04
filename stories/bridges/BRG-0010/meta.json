@@ -71,5 +71,16 @@
         }
       ]
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Kusursuz Olan Büyümez",
+      "summary": "Altın oran evrensel kusursuzluğun değil, matematiksel ilişkinin dersi hâline gelir: anlam, yaşayan yapıların ilişkiyi korurken tarih taşıyan sapmalara da yer açtığı noktada ortaya çıkar.",
+      "link_notes": {
+        "LGT-0001": "Kusursuzlaştırılmış tekrar, Aydınlık'ın sapmayı ortadan kaldırma eğilimini önceler.",
+        "DRK-0001": "Sınırsız çeşitlilik, Karanlık'ın ayırt edilebilir yapıyı çözme eğilimini önceler.",
+        "COM-0001": "Farklılığa yer açan ilişkisel oran Ortak Merkez'i önceler."
+      }
+    }
+  }
 }

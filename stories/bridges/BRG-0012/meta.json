@@ -147,5 +147,18 @@
         }
       ]
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Kayıt X: Nadir'in Saf Alanı",
+      "summary": "Arşivde Nadir olarak anılan bir bilim insanı saf bir evren yaratmaya çalışır. Mekanik, dağıtık ve kuantum merkezler başarısız olur; sonunda beyin-yapay zekâ-kuantum mimarisi izinsiz biçimde kendiliğinden etkinleşerek Aydınlık, Karanlık ve adsız üçüncü bir merkez üretir.",
+      "link_notes": {
+        "BRG-0002": "Sistemin ilk okunabilir cümlesi, iki kökenin aynı olduğunu kanıtlamadan İlk Titreşim'i yankılar.",
+        "LGT-0001": "Aydınlık etkinleşen sistemin ortaya çıkan durumlarından biri olarak belirir.",
+        "DRK-0001": "Karanlık etkinleşen sistemin başka bir durumu olarak belirir.",
+        "COM-0001": "Adsız üçüncü merkez ilişkisel sorumluluk ihtiyacını önceler.",
+        "BRG-0013": "Merkezileştirici köken mimarisinin tehlikesi İkinci Yaratılış problemini tetikler."
+      }
+    }
+  }
 }

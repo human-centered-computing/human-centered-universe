@@ -79,5 +79,16 @@
         }
       ]
     }
-  ]
+  ],
+  "localized": {
+    "tr": {
+      "title": "Gerçeği Hangi Soruyla Ölçersin?",
+      "summary": "Maran süperpozisyon, ölçüm, dekoherens ve dolanıklık kavramlarıyla karşılaşırken bunların insan merkezli anlamının, ölçüm çerçevelerinin neyi görünür kılıp neyi dışarıda bıraktığını anlamakta yattığını görür.",
+      "link_notes": {
+        "BRG-0009": "Ölçümün sınırları bir sonraki soruyu açar: sonlu varlıklar sonsuzlukla nasıl ilişki kurar?",
+        "LGT-0001": "Aydınlık tek, kararlı ve okunabilir bir sonuç arar.",
+        "DRK-0001": "Karanlık herhangi bir sonucun kalıcı olarak kararlılaşmasına direnir."
+      }
+    }
+  }
 }
