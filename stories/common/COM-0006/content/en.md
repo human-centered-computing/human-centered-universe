@@ -22,11 +22,11 @@ In the months that followed, the Alpha One network grew. People came together no
 
 Elena returned to Bologna, Amara to London, Kenji to Kyoto, Lucía to Bogotá, Priya to Kochi, and Aroha to Aotearoa. Kawa remained in Riha. Amina established a local circle in Dakar, Mateo in Cusco, Lejla in Sarajevo, Nergüi in Ulaanbaatar. Maran moved back to Berlin, but he no longer understood return as separation. People working around the same question did not have to live in one center, govern one another from a distance, or become the same in order to build something together.
 
-Rodi and Murat hung the ninth rule of the Rih Bridge on the wall of Maran’s study:
+Seven-year-old Murat wrote the ninth rule of the Rih Bridge in large letters with Maran and hung it on the wall of the study:
 
 “Children have the right to forget, grieve, and become people different from their father.”
 
-Every morning, as Maran passed the sentence, he remembered that the project was not meant to carry him into the future. It was meant to allow the future to remain free from him.
+Three-year-old Rodi drew two small figures beneath the sentence, standing apart but with their hands touching. Every morning, as Maran passed that wall, he remembered that the project was not meant to carry him into the future. It was meant to allow the future to remain free from him.
 
 The network did not turn itself into one institution. In one city a group worked on education; elsewhere on justice, agriculture, disaster management, or health. Each began from a local problem and tried to share its method universally.
 
@@ -79,6 +79,9 @@ This time, you were there.
 This first version brings mythic narratives, questions of belief, human-centered design principles, mathematics, quantum physics, and fictional technologies into the same world. The narrative is organized around four movements: superposition, entanglement, measurement, and decoherence. Some structures described in the text are possible today; some remain at early research or design stages; some work only within the rules of this fictional universe.
 
 Similarities among religions and cultures in the story are not claims that all beliefs historically derive from one source or teach the same doctrine. Similar motifs may arise independently, influence one another, or respond differently to common problems of human life. The novel does not attempt to resolve theological differences. It asks how different answers might remain around the same human question without erasing one another.
+
+
+The **Tapetum Sentinel** used in *The Stone Network* is a story-world advanced field deployment based on the intended architecture of the real open-source project. The project is designed to combine drone and field imagery, Retinex Tapetum low-light enhancement, task-specific detection, tracking and mission metadata, an evidence index, and local question answering within one architecture: https://github.com/human-centered-computing/tapetum-sentinel. The archaeological mission in the novel fictionalizes a later, field-adapted form of that architecture. Visual patterns flagged by the system are not treated as archaeological conclusions; raw data, enhanced imagery, inference, and uncertainty remain separate.
 
 Quantum concepts are not presented as evidence that human consciousness can create the universe according to desire. Entanglement is not faster-than-light communication, uncertainty is not mere ignorance, and observation is not reduced to a human looking at something. The book deliberately keeps a boundary between established physics, philosophical interpretation, and science-fiction extension. It does not claim that those layers are identical.
 

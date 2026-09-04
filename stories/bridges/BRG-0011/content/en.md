@@ -1,14 +1,18 @@
 # The Rih Bridge
 
-Three weeks after the Common Center was established, Maran was speaking with Rodi and Murat from his home in Berlin. Throughout the call, Murat turned one of his grandfather’s old cassette tapes over in his hands. On its label were the crooked letters Maran had written as a child.
+Three weeks after the Common Center was established, Maran was sitting in the living room of his Berlin home with seven-year-old Murat and three-year-old Rodi. Murat turned one of his grandfather’s old cassette tapes over in his hands while Rodi watched the reels inside it. On its label were the crooked letters Maran had written as a child.
 
 “When you die, will your voice stay inside this too?” Murat asked.
 
-Before Maran could answer, Rodi spoke.
+Before Maran could answer, Rodi pointed at the cassette.
 
-“His voice staying does not mean he stays.”
+“Will you be inside it too?”
 
-“Then where does he stay?”
+Maran took the cassette in his hand. “No,” he said. “A voice remaining does not mean the person remains.”
+
+Rodi thought for a moment.
+
+“Then where will you go?”
 
 For the first time, all the questions Maran had spent years directing toward other people returned to him inside his own home. A person’s data could be preserved. Their writing, images, decisions, and voice could be combined in a model. But such a model might only be an organized imitation of the traces they had left behind. For it to appear before his children and call itself their father could be a lie, even if the intention were good.
 
@@ -48,7 +52,7 @@ These three layers would never be presented as one. If there were no biological 
 
 Maran began the preparation protocol on himself while alive. He did not train the AI only on his favorite foods, political views, or frequently used phrases. He recorded the moments when he changed his mind, the cases in which he had been wrong, his apologies, fears, and questions for which he had no answer. A digital inheritance trained only on certainties would preserve not a person’s wisdom, he thought, but their arrogance.
 
-In the first trial, Rodi asked the system:
+In the first trial, Murat asked the system:
 
 “What will you do if I choose a life you would disapprove of when I grow up?”
 
@@ -76,7 +80,7 @@ Nine limits were written for the Rih Bridge.
 
 One: Consent given by Maran while alive would not create unlimited authority after his death.
 
-Two: Rodi and Murat could end the connection at any time without providing a reason to family, government, or company.
+Two: Murat and Rodi could end the connection at any time without providing a reason to family, government, or company.
 
 Three: The system would never call itself “your father.” It would describe itself as “a guide operating through biological and digital traces left by Maran.”
 
@@ -100,15 +104,15 @@ K1 held the ninth rule on the screen for a long time.
 
 To test the consequences of the protocol, the system generated one possible future. It was not a prophecy. It was a simulation produced from Maran’s records, the children’s present behavior, and the network’s assumptions.
 
-In the image, Maran had died. Rodi was thirty-two and Murat twenty-eight. The Rih Bridge operated in a small underground life-support chamber outside Berlin. The opaque vessel at the center displayed no body to visitors. A screen beside it showed only system status, source contributions, and uncertainty.
+In the image, Maran had died. Murat was thirty-two and Rodi twenty-eight. The Rih Bridge operated in a small underground life-support chamber outside Berlin. The opaque vessel at the center displayed no body to visitors. A screen beside it showed only system status, source contributions, and uncertainty.
 
-Rodi asked whether to accept a position that would take her to another continent for years.
+Murat asked whether to accept a position that would take him to another continent for years.
 
 RESPONSE SOURCE / Biological trace: weak / Life archive: strong / AI inference: medium
 
 UNCERTAINTY: High
 
-AUTHORITY: Advisory; decision belongs to Rodi.
+AUTHORITY: Advisory; decision belongs to Murat.
 
 The system did not say, “Go.” It opened a letter Maran had written to his mother when he moved to Rotterdam. Then it displayed a sentence he had recorded for his children:
 
@@ -118,7 +122,7 @@ Then the AI explicitly marked its own contribution:
 
 “Based on these records, I estimate that Maran might have supported your accepting the position. But this is not an answer he is giving now.”
 
-Rodi did not thank the screen. She cried for a while and then ended the connection. The next day she made her decision after speaking with living friends and colleagues.
+Murat did not thank the screen. He remained silent for a while and then ended the connection. The next day she made her decision after speaking with living friends and colleagues.
 
 Murat’s question was shorter.
 
@@ -130,7 +134,7 @@ The screen displayed only:
 
 “Biological and archival signals are consistent with a strong emotional bond. Calling this love is a human interpretation. I cannot speak in your father’s place. But the explicit answer he left while alive is this: Yes.”
 
-Murat placed his hand on the screen.
+Rodi placed her hand on the screen.
 
 “Are you him?”
 
@@ -150,7 +154,7 @@ Beneath it appeared a second question:
 
 “If a structure left by a person continues to speak after that person has died, to whom does the spirit of that structure belong?”
 
-Maran signed the consent document for preparation while alive, but he did not leave the activation decision to himself. The final word would belong to Rodi and Murat. The wish to speak after death belonged to him; the right not to listen belonged to his children.
+Maran signed the consent document for preparation while alive, but he did not leave the activation decision to himself. The final word would belong to Murat and Rodi. The wish to speak after death belonged to him; the right not to listen belonged to his children.
 
 ## EXPERIENCE THRESHOLD 04 — THE VOICE AFTER DEATH
 

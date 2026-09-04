@@ -1,22 +1,19 @@
-# HCU Reader Cache-Busting Patch v0.2.1
+# Upload Story Update v0.3
 
-The latest GitHub Pages deployment contains 21 canon nodes, but browsers/CDNs
-can continue showing an older JavaScript/CSS asset because the asset URLs did
-not change between deployments.
+Copy every file and folder from this package into the root of the existing `human-centered-universe` repository.
 
-Copy the contents of this package into the existing repository root and replace:
+Choose **Replace** for same-name files. Do not delete unrelated repository files.
 
-`scripts/build_reader.py`
+Commit message:
 
-Commit:
+`Integrate Tapetum Sentinel into Stone Network and fix child ages`
 
-`Fix stale GitHub Pages reader cache`
+Then push to `main`.
 
-Push to `main`.
+Expected automation:
 
-After deployment, the generated `index.html` will reference fingerprinted assets such as:
+- `Validate Universe` → success
+- `Deploy Interactive Reader` → success
+- reader → 21 live canon nodes
 
-`app.js?v=<hash>`
-`styles.css?v=<hash>`
-
-so new reader features are not hidden by stale cached assets.
+This package also includes the reader cache-busting build script so the latest story assets are not hidden by stale browser/CDN cache.

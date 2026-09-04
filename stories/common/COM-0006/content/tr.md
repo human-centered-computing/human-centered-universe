@@ -22,7 +22,7 @@ Alfa Bir ağı sonraki aylarda büyüdü. İnsanlar yalnız mesajın kaynağın�
 
 Elena Bologna'ya, Amara Londra'ya, Kenji Kyoto'ya, Lucía Bogotá'ya, Priya Kochi'ye, Aroha Aotearoa'ya döndü. Kawa Riha'da kaldı. Amina Dakar'da, Mateo Cusco'da, Lejla Saraybosna'da, Nergüi Ulaanbaatar'da kendi yerel halkalarını kurdu. Maran yeniden Berlin'e taşındı; fakat artık dönüşü bir ayrılık saymıyordu. Aynı sorunun çevresinde çalışan insanlar tek bir merkezde yaşamıyor, birbirlerinin hayatını uzaktan yönetmiyor ve yine de ortak bir yapı kurabiliyordu.
 
-Rodi ve Murat, Maran'ın çalışma odasındaki duvara Rih Köprüsü'nün dokuzuncu kuralını astı: "Çocukların unutma, yas tutma ve babalarından farklı bir insan olma hakkı vardır." Maran her sabah o cümlenin önünden geçerken projenin kendisini geleceğe taşımak için değil, geleceğin kendisinden özgür kalabilmesi için kurulması gerektiğini hatırlıyordu.
+Yedi yaşındaki Murat, Maran'la birlikte Rih Köprüsü'nün dokuzuncu kuralını büyük harflerle yazıp çalışma odasının duvarına astı: "Çocukların unutma, yas tutma ve babalarından farklı bir insan olma hakkı vardır." Üç yaşındaki Rodi cümlenin altına birbirinden ayrı duran ama elleri birbirine değen iki küçük insan çizdi. Maran her sabah o duvarın önünden geçerken projenin kendisini geleceğe taşımak için değil, geleceğin kendisinden özgür kalabilmesi için kurulması gerektiğini hatırlıyordu.
 
 Ağ kendisini tek bir kuruma dönüştürmedi. Bir şehirde eğitim, başka yerde adalet, tarım, afet yönetimi veya sağlık üzerinde çalışan topluluklar kuruldu. Her biri yerel bir sorundan başlıyor, yöntemini evrensel olarak paylaşmaya çalışıyordu.
 
@@ -69,6 +69,9 @@ Bu kez orada siz vardınız.
 Bu ilk sürüm, mitolojik anlatıları, inanç sorularını, insan merkezli tasarım ilkelerini, matematiği, kuantum fiziğini ve kurgu teknolojilerini aynı dünyada buluşturur. Anlatının dört ana hareketi süperpozisyon, dolanıklık, ölçüm ve dekoherens üzerine kuruludur. Metindeki bazı yapılar bugün mümkündür; bazıları erken araştırma veya tasarım aşamasındadır; bazıları ise yalnızca bu evrenin kuralları içinde çalışır.
 
 Metindeki dinler ve kültürler arasındaki benzerlikler, bütün inançların tarihsel olarak tek bir kaynaktan geldiği veya aynı öğretiyi söylediği iddiası değildir. Benzer motifler bağımsız biçimde doğabilir, birbirinden etkilenebilir veya yalnızca insan hayatındaki ortak sorunlara verilen farklı cevaplar olabilir. Roman, teolojik farkları çözmeye değil; farklı cevapların birbirini yok etmeden aynı insanlık sorusu çevresinde nasıl ilişki kurabileceğini araştırmaya çalışır.
+
+
+Taş Ağ bölümünde kullanılan **Tapetum Sentinel**, gerçek açık kaynak projenin amaçlanan mimarisine dayanan hikâye içi gelişmiş bir saha sürümüdür. Proje; drone ve saha görüntülerini, Retinex Tapetum tabanlı düşük ışık iyileştirmeyi, görev odaklı nesne tespitini, takip ve görev metadatasını, kanıt indeksini ve yerel soru-cevap katmanını aynı mimaride birleştirmeyi hedefler: https://github.com/human-centered-computing/tapetum-sentinel. Romandaki arkeoloji görevi, bu mimarinin gelecekte olgunlaşmış ve saha için uyarlanmış kullanımını kurgular. Sistem tarafından işaretlenen görsel örüntüler arkeolojik sonuç sayılmaz; ham veri, iyileştirilmiş görüntü, çıkarım ve belirsizlik ayrı tutulur.
 
 Kuantum kavramları insan bilincinin evreni istediği gibi yarattığına kanıt sayılmaz. Dolanıklık ışık hızından hızlı haberleşme, belirsizlik bilgisizlik, gözlem de yalnızca bir insanın bakışı olarak kullanılmaz. Kitap, yerleşik fizik ile onun felsefi yorumları ve bilimkurgu uzantıları arasındaki sınırı özellikle açık bırakır; fakat bu sınırların aynı şey olduğunu ileri sürmez.
 

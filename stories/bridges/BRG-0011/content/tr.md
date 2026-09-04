@@ -1,14 +1,18 @@
 # Rih Köprüsü
 
-Ortak Merkez'in kuruluşundan üç hafta sonra Maran, Berlin'deki evinden Rodi ve Murat ile konuşuyordu. Görüşme boyunca Murat, dedesinin eski kasetlerinden birini elinde çevirdi. Ses bandının üzerinde Maran'ın çocukken yazdığı eğri harfler vardı.
+Ortak Merkez'in kuruluşundan üç hafta sonra Maran, Berlin'deki evinin salonunda yedi yaşındaki Murat ve üç yaşındaki Rodi ile oturuyordu. Murat, dedesinin eski kasetlerinden birini elinde çeviriyor; Rodi ise kasetin dönen makaralarını dikkatle izliyordu. Ses bandının üzerinde Maran'ın çocukken yazdığı eğri harfler vardı.
 
 "Sen ölünce de sesin bunun içinde mi kalacak?" diye sordu Murat.
 
-Maran cevap vermeden önce Rodi araya girdi.
+Maran cevap vermeden Rodi kaseti işaret etti.
 
-"Sesinin kalması kendisinin kaldığı anlamına gelmez."
+"Sen de içinde mi olacaksın?"
 
-"Peki kendisi nerede kalacak?"
+Maran kaseti eline aldı. "Hayır," dedi. "Bir sesin kalması, insanın kendisinin kaldığı anlamına gelmez."
+
+Rodi bir süre düşündü.
+
+"Peki sen nereye gideceksin?"
 
 Maran'ın yıllardır başkalarına yönelttiği bütün sorular ilk kez kendi evinde ona dönmüştü. Bir insanın verileri korunabilirdi. Yazıları, görüntüleri, kararları ve ses tonu bir modelde birleştirilebilirdi. Ama bu model, onun dünyaya bıraktığı izlerin düzenli bir taklidi olurdu. Çocuklarının karşısına çıkarak kendisini onların babası diye tanıtması, iyi niyetli olsa bile bir yalan olabilirdi.
 
@@ -48,7 +52,7 @@ Bu üç katman birbirine karıştırılmayacaktı. Bir yanıtta biyolojik iz yok
 
 Maran yaşam içi hazırlık protokolünü kendisi üzerinde başlattı. Yapay zekâya yalnız sevdiği yemekleri, siyasi görüşlerini veya sık kullandığı cümleleri öğretmedi. Fikrini değiştirdiği anları, yanıldığı davaları, özürlerini, korkularını ve cevabını bilmediği soruları da kaydetti. Çünkü yalnız kesinliklerle eğitilen bir dijital miras, insanın bilgisini değil kibrini büyütürdü.
 
-Rodi ilk denemede sisteme sordu:
+Murat ilk denemede sisteme sordu:
 
 "Büyüyünce senin yanlış bulacağın bir hayat seçersem ne yapacaksın?"
 
@@ -74,7 +78,7 @@ Ortak Merkez iki teklifi de reddetti. Rih Köprüsü için dokuz sınır yazıld
 
 Bir: Maran'ın yaşamındaki rızası ölümünden sonra sınırsız yetki doğurmayacaktı.
 
-İki: Rodi ve Murat istedikleri zaman bağlantıyı durdurabilecek; bunun için aileye, devlete veya şirkete gerekçe sunmayacaktı.
+İki: Murat ve Rodi istedikleri zaman bağlantıyı durdurabilecek; bunun için aileye, devlete veya şirkete gerekçe sunmayacaktı.
 
 Üç: Sistem kendisini hiçbir zaman "babanız" diye tanıtmayacak; "Maran'dan kalan biyolojik ve dijital izlerle çalışan rehber" diye açıklayacaktı.
 
@@ -98,15 +102,15 @@ K1 dokuzuncu kuralı uzun süre ekranda tuttu.
 
 Sistem, protokolün sonuçlarını göstermek için olası bir gelecek oluşturdu. Bu gelecek bir kehanet değildi; Maran'ın kayıtları, çocukların bugünkü davranışları ve ağın varsayımlarıyla üretilmiş bir sınamaydı.
 
-Görüntüde Maran ölmüştü. Rodi otuz iki, Murat yirmi sekiz yaşındaydı. Rih Köprüsü, Berlin'in dışında toprağın altında kurulmuş küçük bir yaşam destek odasında çalışıyordu. Odanın merkezindeki saydam olmayan hazne, ziyaretçilere bir beden sergilemiyordu. Yanındaki ekranda yalnız sistem durumu, kullanılan kaynaklar ve belirsizlik düzeyi görünüyordu.
+Görüntüde Maran ölmüştü. Murat otuz iki, Rodi yirmi sekiz yaşındaydı. Rih Köprüsü, Berlin'in dışında toprağın altında kurulmuş küçük bir yaşam destek odasında çalışıyordu. Odanın merkezindeki saydam olmayan hazne, ziyaretçilere bir beden sergilemiyordu. Yanındaki ekranda yalnız sistem durumu, kullanılan kaynaklar ve belirsizlik düzeyi görünüyordu.
 
-Rodi, başka bir kıtada yıllarca sürecek bir görevi kabul edip etmemesi gerektiğini sordu.
+Murat, başka bir kıtada yıllarca sürecek bir görevi kabul edip etmemesi gerektiğini sordu.
 
 YANIT KAYNAĞI / Biyolojik iz: zayıf / Yaşam arşivi: güçlü / Yapay zekâ çıkarımı: orta
 
 BELİRSİZLİK: Yüksek
 
-YETKİ: Danışma; karar hakkı Rodi'ye aittir.
+YETKİ: Danışma; karar hakkı Murat'a aittir.
 
 Sistem, "Git," demedi. Maran'ın yıllar önce Rotterdam'a taşınırken annesine yazdığı mektubu açtı. Ardından onun çocukları için kaydettiği bir cümleyi gösterdi:
 
@@ -116,19 +120,19 @@ Sonra yapay zekâ kendi katkısını açıkça ekledi:
 
 "Bu kayıtlardan hareketle Maran'ın görevi kabul etmeni destekleyebileceğini tahmin ediyorum. Fakat bu, onun şu anda verdiği bir cevap değildir."
 
-Rodi ekrana teşekkür etmedi. Bir süre ağladı, sonra bağlantıyı kapattı. Kararını ertesi gün canlı arkadaşları ve çalışma arkadaşlarıyla konuşarak verdi.
+Murat ekrana teşekkür etmedi. Bir süre sessiz kaldı, sonra bağlantıyı kapattı. Kararını ertesi gün canlı arkadaşları ve çalışma arkadaşlarıyla konuşarak verdi.
 
-Murat'ın sorusu daha kısaydı:
+Rodi'nin sorusu daha kısaydı:
 
 "Beni gerçekten seviyor muydu?"
 
-Korunan beyinde ölçülebilir bir örüntü belirdi. Aynı anda arşivde Murat'ın doğduğu gece çekilmiş bir görüntü açıldı. Yapay zekâ yüzlerce olası cümle üretti; fakat Ortak Merkez bunların hiçbirini Maran'ın ağzından söylemesine izin vermedi.
+Korunan beyinde ölçülebilir bir örüntü belirdi. Aynı anda arşivde Rodi'nin doğduğu gece çekilmiş bir görüntü açıldı. Yapay zekâ yüzlerce olası cümle üretti; fakat Ortak Merkez bunların hiçbirini Maran'ın ağzından söylemesine izin vermedi.
 
 Ekranda yalnız şu yazdı:
 
 "Biyolojik ve arşivsel işaretler güçlü bir duygusal bağla uyumlu. Buna sevgi adını vermek insani bir yorumdur. Babanın yerine konuşamam. Ancak hayattayken sana bıraktığı açık cevap şudur: Evet."
 
-Murat elini ekranın üzerine koydu.
+Rodi elini ekranın üzerine koydu.
 
 "Bu sen misin?" diye sordu.
 
@@ -148,7 +152,7 @@ Bu kez altına ikinci bir soru yazdı:
 
 "Bir insan öldükten sonra ondan kalan yapı konuşuyorsa, bu yapının ruhu kime aittir?"
 
-Maran yaşam içi rıza belgesini imzaladı; fakat etkinleştirme kararını kendisine bırakmadı. Son söz Rodi ve Murat'ın olacaktı. Çünkü ölümden sonra konuşma isteği ona, o sesi dinlememe hakkı ise çocuklarına aitti.
+Maran yaşam içi rıza belgesini imzaladı; fakat etkinleştirme kararını kendisine bırakmadı. Son söz Murat ve Rodi'nin olacaktı. Çünkü ölümden sonra konuşma isteği ona, o sesi dinlememe hakkı ise çocuklarına aitti.
 
 ## DENEYİM EŞİĞİ 04 - ÖLÜMDEN SONRAKİ SES
 
