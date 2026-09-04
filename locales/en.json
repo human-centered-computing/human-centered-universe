@@ -1,0 +1,14 @@
+{
+  "language_name": "English",
+  "read": "Read",
+  "explore": "Explore",
+  "create": "Create",
+  "light_center": "Light Center",
+  "dark_center": "Dark Center",
+  "common_center": "Common Center",
+  "follow_echo": "Follow the Echo",
+  "canonical": "Canonical",
+  "reviewed_translation": "Reviewed Translation",
+  "community_translation": "Community Translation",
+  "translation_unavailable": "Translation unavailable. Showing the English canonical version."
+}

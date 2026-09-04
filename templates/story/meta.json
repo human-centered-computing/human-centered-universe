@@ -1,0 +1,22 @@
+{
+  "id": "BRG-0000",
+  "title": "New Story",
+  "core": "BRIDGE",
+  "status": "experimental",
+  "source_language": "en",
+  "culture": [],
+  "belief_context": [],
+  "summary": "Short summary.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    }
+  },
+  "links": [
+    {
+      "target": "COM-0001",
+      "type": "echo",
+      "note": "Explain why these stories are connected."
+    }
+  ]
+}

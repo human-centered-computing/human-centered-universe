@@ -1,0 +1,7 @@
+protected_terms:
+  - term: Riha
+    policy: preserve
+  - term: Rih
+    policy: preserve_and_gloss
+  - term: Şahmaran
+    policy: preserve

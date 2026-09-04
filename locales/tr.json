@@ -1,0 +1,14 @@
+{
+  "language_name": "Türkçe",
+  "read": "Oku",
+  "explore": "Keşfet",
+  "create": "Oluştur",
+  "light_center": "Aydınlık Merkez",
+  "dark_center": "Karanlık Merkez",
+  "common_center": "Ortak Merkez",
+  "follow_echo": "Yankıyı Takip Et",
+  "canonical": "Canonical",
+  "reviewed_translation": "Kontrol Edilmiş Çeviri",
+  "community_translation": "Topluluk Çevirisi",
+  "translation_unavailable": "Çeviri henüz yok. İngilizce canonical sürüm gösteriliyor."
+}

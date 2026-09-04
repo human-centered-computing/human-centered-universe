@@ -1,0 +1,39 @@
+{
+  "id": "COM-0001",
+  "title": "Turning the Battlefield into a Home",
+  "core": "COMMON",
+  "status": "canon",
+  "source_language": "en",
+  "culture": [
+    "multicultural"
+  ],
+  "belief_context": [
+    "plural"
+  ],
+  "summary": "The third field becomes a Common Center through dignity, responsibility, consent, contestability and repair.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "LGT-0001",
+      "type": "contrast",
+      "note": "Light cannot decide alone."
+    },
+    {
+      "target": "DRK-0001",
+      "type": "contrast",
+      "note": "Dark cannot decide alone."
+    },
+    {
+      "target": "BRG-0001",
+      "type": "quantum_echo",
+      "note": "The distributed Stone Network echoes the relational architecture of the Common Center."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "DRK-0001",
+  "title": "The Gift of Darkness",
+  "core": "DARK",
+  "status": "canon",
+  "source_language": "en",
+  "culture": [
+    "multicultural"
+  ],
+  "belief_context": [
+    "plural"
+  ],
+  "summary": "The Dark Center expands freedom and possibility until shared responsibility begins to dissolve.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "LGT-0001",
+      "type": "contrast",
+      "note": "Unrestricted possibility versus imposed order."
+    },
+    {
+      "target": "COM-0001",
+      "type": "cause",
+      "note": "Reveals the need for a third relational center."
+    }
+  ]
+}

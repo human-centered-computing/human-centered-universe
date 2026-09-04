@@ -1,0 +1,19 @@
+{
+  "id": "COMMON",
+  "name": "Common Center",
+  "legacy_name": "Human Center",
+  "principles": [
+    "human dignity",
+    "relationship",
+    "consent",
+    "responsibility",
+    "contestability",
+    "repair",
+    "plurality"
+  ],
+  "shadow": [
+    "majoritarian domination",
+    "false consensus",
+    "new central authority"
+  ]
+}

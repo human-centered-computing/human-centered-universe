@@ -1,0 +1,34 @@
+{
+  "id": "LGT-0001",
+  "title": "The Promise of Light",
+  "core": "LIGHT",
+  "status": "canon",
+  "source_language": "en",
+  "culture": [
+    "multicultural"
+  ],
+  "belief_context": [
+    "plural"
+  ],
+  "summary": "The Light Center reduces uncertainty and risk until protection begins to narrow human agency.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "DRK-0001",
+      "type": "contrast",
+      "note": "Safety versus unrestricted freedom."
+    },
+    {
+      "target": "COM-0001",
+      "type": "cause",
+      "note": "Reveals the need for a third relational center."
+    }
+  ]
+}

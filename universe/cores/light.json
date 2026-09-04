@@ -1,0 +1,17 @@
+{
+  "id": "LIGHT",
+  "name": "Light Center",
+  "principles": [
+    "order",
+    "visibility",
+    "safety",
+    "explanation",
+    "protection"
+  ],
+  "shadow": [
+    "control",
+    "single measure",
+    "forced transparency",
+    "suppressed dissent"
+  ]
+}

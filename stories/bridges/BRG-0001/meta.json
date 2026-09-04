@@ -1,0 +1,41 @@
+{
+  "id": "BRG-0001",
+  "title": "The Stone Network",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "culture": [
+    "Mesopotamia",
+    "multicultural research network"
+  ],
+  "belief_context": [
+    "local narratives",
+    "plural interpretation"
+  ],
+  "summary": "Excavated underground structures around Göbekli Tepe reveal a distributed network topology when all surfaces are digitized as one system.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "links": [
+    {
+      "target": "LGT-0001",
+      "type": "quantum_echo",
+      "note": "Structured topology echoes Light."
+    },
+    {
+      "target": "DRK-0001",
+      "type": "quantum_echo",
+      "note": "Missing nodes and discontinuities echo Dark."
+    },
+    {
+      "target": "COM-0001",
+      "type": "quantum_echo",
+      "note": "The shifting, distributed center echoes Common."
+    }
+  ]
+}
