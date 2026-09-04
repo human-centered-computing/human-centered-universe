@@ -1,4 +1,4 @@
-# Shahmaran's Silence
+# Shahmaran: Between Poison and Healing
 
 Kawa did not smile when he saw the map. He served the excavation as an adviser on local memory. He held no university title, but he knew which stone was known by which name in which village, and which lament had been sung after which migration.
 

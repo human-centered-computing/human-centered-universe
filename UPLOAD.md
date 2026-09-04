@@ -1,27 +1,11 @@
-# Upload Local Names v0.4
+# HCU Story Titles v0.5 — cumulative GitHub update
 
-Copy all files and folders inside this package into the root of the existing
-`human-centered-universe` repository and choose **Replace** for same-name files.
+This package is cumulative from the last confirmed full-book migration. It includes the Stone Network / Tapetum Sentinel update, Murat (7) and Rodi (3), local human names, Nadir in Record X, cache-busting build logic, and the new narrative titles.
+
+Copy all files and folders into the existing `human-centered-universe` repository root and choose **Replace** for same-name files. Do not delete unrelated files.
 
 Commit message:
 
-`Replace coded character labels with local human names`
+`Rewrite story titles from narrative content`
 
 Then push to `main`.
-
-Canonical character-name migration:
-
-- M1 → Maran
-- X1 → Luka
-- A1 → Ayo
-- K1 → Rojin
-- anonymous human figure inside `Record X` → Nadir
-
-`Record X`, `Protocol X`, GitHub story IDs such as `COM-0002`, and system/network
-names such as `Alpha One` and `Center-Zero` remain technical identifiers rather
-than human character names.
-
-Expected:
-- `Validate Universe` → success
-- `Deploy Interactive Reader` → success
-- 21 live canon nodes

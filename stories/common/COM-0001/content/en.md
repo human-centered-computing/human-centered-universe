@@ -1,4 +1,4 @@
-# Turning the Battlefield into a Home
+# Turn the Battlefield into a Home
 
 The two Centers took Maran into a third field. At first it appeared empty. Then every conflict from the white city and the dark valley began to overlap. On one side were people suppressed in the name of safety; on the other, communities shattered in the name of freedom.
 

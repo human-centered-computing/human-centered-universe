@@ -1,4 +1,4 @@
-# Yaratılış Tamamlanmadı
+# Yaratılış Tamamlanmadı: Birinci Okur Bağlandı
 
 Maran uyandığında gün doğuyordu. Kazı alanındaki insanlar sessizce gökyüzüne bakıyordu. Kimse ne kadar zaman geçtiğini bilmiyordu. Cihazlara göre bağlantı yalnız üç saniye sürmüştü. Maran ise yıllarca başka dünyalarda yaşamış gibi yorgundu.
 

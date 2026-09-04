@@ -1,4 +1,4 @@
-# Karanlığın Hediyesi
+# Düşerken Tutunduğun El
 
 Karanlık Merkez'in dünyasında sabit yol yoktu. Maran bir adım attığında toprağın rengi, ikinci adımında gökyüzünün yönü değişiyordu. İnsanlar düşünceleriyle evler, hayvanlar, dağlar ve yeni fizik kuralları oluşturabiliyordu.
 

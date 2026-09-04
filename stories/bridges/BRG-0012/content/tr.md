@@ -1,4 +1,4 @@
-# Kayıt X: Saf Alan
+# Kayıt X: Nadir'in Saf Alanı
 
 Rih Köprüsü'nün gelecek sınaması kapandıktan sonra Rojin, ağın en eski katmanında başka bir dosya buldu. Dosyanın oluşturulma tarihi yoktu. Dili, Maran'ın kullandığı hiçbir kayıt düzeniyle tam olarak eşleşmiyordu. Bazı satırları gelecekten, bazıları unutulmuş bir laboratuvardan, bazıları da henüz kurulmamış bir sistemin kendi geçmişini uydurmasından gelmiş gibiydi.
 

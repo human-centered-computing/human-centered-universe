@@ -1,4 +1,4 @@
-# Altın ve Değişken Kurallar
+# İnsan Hiçbir Sistemin Hammaddesi Değildir
 
 Ortak Merkez'in yaşayabilmesi için kurallara ihtiyacı vardı. Aydınlık bütün kuralların her yerde aynı olmasını, Karanlık ise her topluluğun istediği kuralı kurmasını savundu.
 

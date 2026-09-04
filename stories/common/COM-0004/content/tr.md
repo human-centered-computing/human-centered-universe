@@ -1,4 +1,4 @@
-# Açık Mimarlar Ağı
+# Açık Ağın Mimarları
 
 Ortak Merkez açıldığında sistem yeni bir emir bekledi. Maran emir vermedi. Bunun yerine Alfa Bir üyelerinin cihazlarına bir davet gönderdi. Davet, hiçbir kişisel veriyi merkeze taşımıyor; yalnızca insanların kendi yerel alanlarında çalışabilecekleri açık bir protokol sunuyordu.
 

@@ -1,4 +1,4 @@
-# Altın Oranın Kırıldığı Yer
+# Kusursuz Olan Büyümez
 
 Sonsuz koridor kapandığında geriye tek bir dikdörtgen kaldı. Uzun kenarı kısaya bölündüğünde, bütünü büyük parçaya bölen oranla aynı değer ortaya çıkıyordu. Şekil kendisinden bir kare çıkarıldığında geride yine kendisine benzeyen daha küçük bir dikdörtgen bırakıyordu.
 

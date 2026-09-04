@@ -1,4 +1,4 @@
-# Maran
+# Maran: Kendi Sesinden Gelen Uyarı
 
 Maran çocukken sabah ezanından önce uyanırdı. Ev henüz karanlıkken annesinin mutfakta çıkardığı hafif sesleri, babasının öksürüğünü ve uzaktaki köpekleri dinlerdi. O saatlerde dünya tamamlanmamış görünürdü. Sanki güneş doğmadan önce insanın düşünceleri daha uzağa gidebilirdi.
 

@@ -1,4 +1,4 @@
-# Şahmaran'ın Sessizliği
+# Şahmaran: Zehir ile Şifa Arasında
 
 Kawa, bu haritayı gördüğünde gülmedi. Kazının yerel hafıza danışmanıydı. Üniversite unvanı yoktu; ama hangi taşın hangi köyde ne adla anıldığını, hangi ağıdın hangi göçten sonra yakıldığını biliyordu.
 

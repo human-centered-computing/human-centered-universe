@@ -1,4 +1,4 @@
-# Golden and Variable Rules
+# Human Beings Are Not Raw Material
 
 For the Common Center to survive, it needed rules. Light argued that every rule should be the same everywhere. Dark argued that every community should be free to invent any rule it wanted.
 

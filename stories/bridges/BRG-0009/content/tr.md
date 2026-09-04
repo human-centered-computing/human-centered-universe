@@ -1,4 +1,4 @@
-# Sonsuzluğun Matematiği
+# Sonsuzluk Yaşanmaz
 
 Beyaz alan parçalanmadı. Her çatlağın içinde kendisinin daha ince bir kopyası belirdi. Maran bir çizgiye yaklaştığında çizgi ikiye, sonra dörde, sonra sekize ayrıldı. Bölünme hızlandıkça alan küçülmek yerine derinleşti.
 

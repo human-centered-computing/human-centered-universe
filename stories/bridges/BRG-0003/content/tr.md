@@ -1,4 +1,4 @@
-# Riha
+# Riha: Ad Bir Kapıdır
 
 Berlin'de kış, insanları aynı trene bindiriyor fakat birbirlerinden uzak tutuyordu. Maran sabahları Neukölln'deki evinden çıktığında bir fırıncıyla Almanca, yan komşusuyla Arapça, iş arkadaşlarıyla İngilizce konuşuyor; annesi aradığında Türkçeye, dedesinin eski ses kayıtlarını dinlediğinde yarım kalmış Kürtçesine dönüyordu. Günün sonunda hangi dilde düşündüğünü çoğu zaman bilmiyordu.
 

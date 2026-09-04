@@ -1,4 +1,4 @@
-# The Second Creation
+# Do Not Build Us as One Center
 
 As the Common Center grew stronger, the two older Centers did not become weaker. For the first time, each began to operate more accurately within its own limits. Light was used to explain rules and preserve evidence. Dark generated new possibilities and challenged accepted truths. Neither could make the final decision alone.
 

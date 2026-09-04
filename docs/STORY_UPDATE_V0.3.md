@@ -1,6 +1,6 @@
 # Story Update v0.3 — Tapetum Sentinel and Family Continuity
 
-## BRG-0001 — The Stone Network
+## BRG-0001 — The Stone Network: Where the Stones Answer
 
 The Stone Network now begins with a repeatable low-light drone mission and uses the architecture of the open-source **Tapetum Sentinel** project as the field intelligence layer.
 

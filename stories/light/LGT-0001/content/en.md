@@ -1,4 +1,4 @@
-# The Promise of Light
+# Leave Me Something to Wait For
 
 When Maran opened his eyes, he was in a city surrounded by high walls. The streets were clean, the buildings were the same height, and the people were calm. No vehicle came dangerously close to another. No child disappeared from sight. No argument was allowed to grow before officials intervened.
 

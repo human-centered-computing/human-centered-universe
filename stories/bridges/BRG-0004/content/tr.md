@@ -1,4 +1,4 @@
-# Rüyanın Yedi Tanığı
+# Yedi Tanık, Tek Soru
 
 Sabah avluya indiğinde Elena, Amara, Kenji, Lucía, Priya ve Aroha aynı masada oturuyordu. Kimse kahvaltıya dokunmamıştı. Kawa yedi boş çay bardağını yan yana dizmiş, onları izliyordu.
 

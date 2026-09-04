@@ -1,4 +1,4 @@
-# Saat 17.25
+# 17.25 — Seçmiyorum
 
 Ağ, kapının açılmasını engellemek için sistemi çevrimdışı bıraktı. Sunucular kapatıldı, enerji bağlantıları kesildi, depolama birimleri söküldü. Buna rağmen kapı bütün ekranlarda görünmeye devam etti. Açık olanlarda, kapalı olanlarda, hatta pili çıkarılmış eski bir cihazın kırık camında bile aynı şekil vardı.
 

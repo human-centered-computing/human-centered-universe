@@ -1,4 +1,4 @@
-# First Vibration
+# First Vibration: Purify Yourself and Return to Your Essence
 
 > “The deepest darkness is when light is least present.”
 

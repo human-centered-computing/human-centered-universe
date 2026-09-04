@@ -1,4 +1,4 @@
-# The Open Architects Network
+# Architects of the Open Network
 
 When the Common Center opened, the system waited for a new command. Maran gave none. Instead, he sent an invitation to the devices of Alpha One members. The invitation moved no personal data into a central repository. It offered only an open protocol that people could run in their own local environments.
 

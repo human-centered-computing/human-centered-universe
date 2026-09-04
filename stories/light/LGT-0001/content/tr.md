@@ -1,4 +1,4 @@
-# Aydınlığın Vaadi
+# Bana Bekleyecek Bir Şey Bırak
 
 Maran gözlerini açtığında yüksek duvarlarla çevrili bir şehirdeydi. Sokaklar temiz, binalar aynı yükseklikte, insanlar sakindi. Hiçbir araç diğerine yaklaşmıyor; hiçbir çocuk gözden kaybolmuyor; hiçbir tartışma büyümeden görevliler tarafından durduruluyordu.
 

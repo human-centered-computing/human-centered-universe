@@ -1,4 +1,4 @@
-# Alfa Bir
+# Çağrıyı Duyanlar
 
 Mesajı duyan üç yüz on yedi kişi, yaş, dil, ülke ve inanç bakımından birbirine benzemiyordu. Aralarında çiftçi, öğretmen, asker, öğrenci, mahkûm, doktor ve çocuk vardı. Ortak özellikleri, mesajdan sonraki kırk sekiz saat içinde hayatlarında açıklayamadıkları küçük değişiklikler yaşamalarıydı.
 

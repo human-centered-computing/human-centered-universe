@@ -1,4 +1,4 @@
-# The Stone Network
+# The Stone Network: Where the Stones Answer
 
 When the excavation team failed to find a physical entrance to the underground void, Maran proposed reading the surface again before opening more earth. Daytime aerial surveys had been useful, but the faint lines between the stones disappeared as the sun rose. This time the drone mission would take place just after sunset, during the short interval in which natural light was rapidly fading.
 

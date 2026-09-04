@@ -1,4 +1,4 @@
-# İlk Titreşim
+# İlk Titreşim: Arın ve Özüne Dön
 
 > “En yoğun karanlık, ışığın en az bulunduğu zamanlardır.”
 

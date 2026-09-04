@@ -1,55 +1,32 @@
 # Interactive Reader
 
-The Human-Centered Universe is read through **GitHub Pages**:
+The Human-Centered Universe is read through **GitHub Pages**.
 
-https://human-centered-computing.github.io/human-centered-universe/
+The GitHub repository is the source of truth. The public reader is generated automatically from live canon story folders.
 
-The GitHub repository remains the source of truth. The public reader is generated automatically from live canon story folders.
+## Reader modes
 
-## READ
+### READ
 
-- canonical English or selected translation
-- previous / next canon navigation
-- reading progress stored locally in the browser
-- resume from the last opened story
-- clickable story connections and Quantum Echoes
-- Experience Threshold forms
-- World Seed storage in the reader's browser
+- English canonical source or selected translation
+- Previous / next canon story
+- Reading progress stored locally in the browser
+- Resume from the last opened story
+- Clickable story connections and Quantum Echoes
 
-## EXPLORE
+### EXPLORE
 
 - Light, Dark and Common core overview
 - Bridge story layer
-- searchable live story nodes
-- clicking a node opens it in Reader mode
+- Searchable live story nodes
+- Clicking a node opens it in Reader mode
 
-## CREATE
+### CREATE
 
-- open the GitHub repository
-- fork the universe
-- read the contribution guide
-- inspect the reader's current World Seed
-- move from reader to contributor
-
-## World Seed
-
-Stories may define optional `interactions` in `meta.json`.
-
-Each interaction contains a stable key and may be a:
-
-- `text`
-- `textarea`
-- `select`
-
-Answers marked `world_seed: true` are stored in browser `localStorage` under:
-
-`hcu.worldSeed`
-
-The current version **stores and displays** the World Seed. It does not yet claim that every answer changes later scenes.
-
-Future versions may use the stored seed to influence branches, world-state visuals, or story routes.
-
-The seed is local to the browser and is not automatically uploaded to GitHub or a server.
+- Open the GitHub repository
+- Fork the universe
+- Read the contribution guide
+- Move from reader to contributor
 
 ## Language behavior
 
@@ -64,16 +41,23 @@ Language preference is stored in the browser.
 The workflow `.github/workflows/deploy-pages.yml`:
 
 1. validates the universe,
-2. builds the reader data from live story files,
+2. builds `site/data/universe.json` from the live story files,
 3. packages the `web/` application,
 4. deploys the generated static site to GitHub Pages.
 
-Every push to `main` rebuilds the reader.
+Every push to `main` automatically rebuilds the reader.
 
-## Canon
+## One-time GitHub setting
 
-The current first-book order is defined in:
+After pushing these files:
 
-`universe/canon-map.v0.2.json`
+1. Open the repository on GitHub.
+2. Go to **Settings → Pages**.
+3. Under **Build and deployment → Source**, select **GitHub Actions**.
+4. Open **Actions** and confirm that **Deploy Interactive Reader** succeeds.
 
-The reader remains non-linear because every story can also be entered through its graph connections.
+The expected project-site address is:
+
+`https://human-centered-computing.github.io/human-centered-universe/`
+
+GitHub shows the exact deployed URL in the workflow and Pages settings.

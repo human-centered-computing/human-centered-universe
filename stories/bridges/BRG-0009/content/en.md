@@ -1,4 +1,4 @@
-# The Mathematics of Infinity
+# Infinity Cannot Be Lived
 
 The white field did not break apart. Inside every crack a thinner copy of itself appeared. When Maran approached one line, it divided into two, then four, then eight. As the division accelerated, the field became deeper rather than smaller.
 

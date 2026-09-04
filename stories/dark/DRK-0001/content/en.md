@@ -1,4 +1,4 @@
-# The Gift of Darkness
+# The Hand You Hold While Falling
 
 There were no fixed roads in the world of the Dark Center. When Maran took one step, the color of the ground changed; with the second, the direction of the sky changed. People could create houses, animals, mountains, and even new physical rules through thought.
 

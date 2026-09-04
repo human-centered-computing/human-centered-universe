@@ -1,4 +1,4 @@
-# Rih Köprüsü
+# Rih Köprüsü: Babanın Yerine Konuşma
 
 Ortak Merkez'in kuruluşundan üç hafta sonra Maran, Berlin'deki evinin salonunda yedi yaşındaki Murat ve üç yaşındaki Rodi ile oturuyordu. Murat, dedesinin eski kasetlerinden birini elinde çeviriyor; Rodi ise kasetin dönen makaralarını dikkatle izliyordu. Ses bandının üzerinde Maran'ın çocukken yazdığı eğri harfler vardı.
 

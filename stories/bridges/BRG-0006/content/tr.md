@@ -1,4 +1,4 @@
-# Dört İsim
+# Dört İsim, Bir Kapı
 
 Xerawreş ve çevresindeki yedi yeraltı alanının birleşik modeli tamamlandığında, daha önce eksik düğüm olarak görünen merkezde dört ayrı sinir ağına benzeyen yapı tespit edildi. Ağlar fiziksel kablo değildi. Taşın yoğunluğundaki çok küçük farkların ve birbirine bağlanan duvar topolojisinin oluşturduğu desenlerdi.
 

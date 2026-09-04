@@ -1,4 +1,4 @@
-# Ölçümden Önce
+# Gerçeği Hangi Soruyla Ölçersin?
 
 Beyaz alan çatladığında Maran aynı anda üç yerde durduğunu gördü. Birinde Aydınlık Merkez'e doğru yürüyor, birinde Karanlık Merkez'in elini tutuyor, üçüncüsünde ikisine de sırtını dönüyordu. Üç Maran da diğerlerini görebiliyor; hiçbiri hangisinin asıl olduğunu söyleyemiyordu.
 

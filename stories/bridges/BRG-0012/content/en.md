@@ -1,4 +1,4 @@
-# Record X: Pure Field
+# Record X: Nadir's Pure Field
 
 After the future test of the Rih Bridge closed, Rojin found another file in the oldest layer of the network. It had no creation date. Its language did not fully match any recording system Maran used. Some lines seemed to come from the future, some from a forgotten laboratory, others from a system not yet built inventing its own past.
 

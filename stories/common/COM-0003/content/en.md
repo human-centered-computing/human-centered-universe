@@ -1,4 +1,4 @@
-# Alpha One
+# Those Who Heard the Call
 
 The three hundred and seventeen people who heard the message were not alike in age, language, country, or belief. Among them were farmers, teachers, soldiers, students, prisoners, doctors, and children. What they shared was that within forty-eight hours of the message, each had experienced small changes in life they could not explain.
 

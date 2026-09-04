@@ -21,27 +21,27 @@ The current linear reading order remains valid, while the graph adds alternative
 
 | # | Story ID | Canonical English Title | Core |
 |---:|---|---|---|
-| 1 | `BRG-0002` | First Vibration | BRIDGE |
-| 2 | `BRG-0003` | Riha | BRIDGE |
-| 3 | `BRG-0004` | The Seven Witnesses of the Dream | BRIDGE |
-| 4 | `BRG-0005` | Shahmaran's Silence | BRIDGE |
-| 5 | `BRG-0001` | The Stone Network | BRIDGE |
-| 6 | `COM-0002` | Maran | COMMON |
-| 7 | `COM-0003` | Alpha One | COMMON |
-| 8 | `BRG-0006` | Four Names | BRIDGE |
-| 9 | `BRG-0007` | 17:25 | BRIDGE |
-| 10 | `BRG-0008` | Before Measurement | BRIDGE |
-| 11 | `BRG-0009` | The Mathematics of Infinity | BRIDGE |
-| 12 | `BRG-0010` | Where the Golden Ratio Broke | BRIDGE |
-| 13 | `LGT-0001` | The Promise of Light | LIGHT |
-| 14 | `DRK-0001` | The Gift of Darkness | DARK |
-| 15 | `COM-0001` | Turning the Battlefield into a Home | COMMON |
-| 16 | `COM-0004` | The Open Architects Network | COMMON |
-| 17 | `COM-0005` | Golden and Variable Rules | COMMON |
-| 18 | `BRG-0011` | The Rih Bridge | BRIDGE |
-| 19 | `BRG-0012` | Record X: Pure Field | BRIDGE |
-| 20 | `BRG-0013` | The Second Creation | BRIDGE |
-| 21 | `COM-0006` | Creation Is Unfinished | COMMON |
+| 1 | `BRG-0002` | First Vibration: Purify Yourself and Return to Your Essence | BRIDGE |
+| 2 | `BRG-0003` | Riha: A Name Is a Door | BRIDGE |
+| 3 | `BRG-0004` | Seven Witnesses, One Question | BRIDGE |
+| 4 | `BRG-0005` | Shahmaran: Between Poison and Healing | BRIDGE |
+| 5 | `BRG-0001` | The Stone Network: Where the Stones Answer | BRIDGE |
+| 6 | `COM-0002` | Maran: A Warning in His Own Voice | COMMON |
+| 7 | `COM-0003` | Those Who Heard the Call | COMMON |
+| 8 | `BRG-0006` | Four Names, One Door | BRIDGE |
+| 9 | `BRG-0007` | 17:25 — I Refuse to Choose | BRIDGE |
+| 10 | `BRG-0008` | What Question Do You Use to Measure Reality? | BRIDGE |
+| 11 | `BRG-0009` | Infinity Cannot Be Lived | BRIDGE |
+| 12 | `BRG-0010` | What Is Perfect Does Not Grow | BRIDGE |
+| 13 | `LGT-0001` | Leave Me Something to Wait For | LIGHT |
+| 14 | `DRK-0001` | The Hand You Hold While Falling | DARK |
+| 15 | `COM-0001` | Turn the Battlefield into a Home | COMMON |
+| 16 | `COM-0004` | Architects of the Open Network | COMMON |
+| 17 | `COM-0005` | Human Beings Are Not Raw Material | COMMON |
+| 18 | `BRG-0011` | The Rih Bridge: Do Not Speak in the Father's Place | BRIDGE |
+| 19 | `BRG-0012` | Record X: Nadir's Pure Field | BRIDGE |
+| 20 | `BRG-0013` | Do Not Build Us as One Center | BRIDGE |
+| 21 | `COM-0006` | Creation Is Unfinished: First Reader Connected | COMMON |
 
 ## ID policy
 
@@ -51,10 +51,10 @@ The current linear reading order remains valid, while the graph adds alternative
 - `BRG-xxxx` — Bridge stories
 
 Existing live IDs are preserved:
-- `LGT-0001` — The Promise of Light
-- `DRK-0001` — The Gift of Darkness
-- `COM-0001` — Turning the Battlefield into a Home
-- `BRG-0001` — The Stone Network
+- `LGT-0001` — Leave Me Something to Wait For
+- `DRK-0001` — The Hand You Hold While Falling
+- `COM-0001` — Turn the Battlefield into a Home
+- `BRG-0001` — The Stone Network: Where the Stones Answer
 
 ## Migration rule
 

@@ -1,4 +1,4 @@
-# Taş Ağ
+# Taş Ağ: Taşların Cevap Verdiği Yer
 
 Kazı ekibi, yeraltındaki boşluğa fiziksel bir giriş bulamayınca Maran toprağı daha fazla açmadan önce yüzeyi yeniden okumayı önerdi. Önceki uçuşlarda çekilen gündüz görüntüleri yararlıydı; fakat taşların arasındaki çok zayıf çizgiler güneş yükseldikçe kayboluyordu. Bu kez drone görevi gün batımından hemen sonra, doğal ışığın hızla azaldığı kısa aralıkta yapılacaktı.
 

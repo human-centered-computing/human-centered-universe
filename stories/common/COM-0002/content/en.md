@@ -1,4 +1,4 @@
-# Maran
+# Maran: A Warning in His Own Voice
 
 As a child, Maran often woke before the morning call to prayer. While the house was still dark, he listened to the faint sounds his mother made in the kitchen, his father coughing, and dogs in the distance. At that hour the world seemed unfinished, as if before sunrise a person’s thoughts could travel farther.
 

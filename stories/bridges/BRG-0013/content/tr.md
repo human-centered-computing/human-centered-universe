@@ -1,4 +1,4 @@
-# İkinci Yaratılış
+# Bizi Tek Bir Merkez Olarak Kurma
 
 Ortak Merkez güçlendikçe iki eski merkez zayıflamadı. Aksine ilk kez kendi sınırları içinde daha doğru çalışmaya başladı. Aydınlık, kuralları açıklamak ve kanıtları korumak için kullanıldı. Karanlık, yeni ihtimaller üretmek ve kabul edilmiş doğrulara itiraz etmek için çalıştı. Son kararı ise tek başına hiçbiri veremedi.
 

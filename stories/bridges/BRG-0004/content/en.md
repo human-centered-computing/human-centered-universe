@@ -1,4 +1,4 @@
-# The Seven Witnesses of the Dream
+# Seven Witnesses, One Question
 
 When Maran came down to the courtyard the next morning, Elena, Amara, Kenji, Lucía, Priya, and Aroha were sitting at the same table. No one had touched breakfast. Kawa had lined up seven empty tea glasses and was watching them.
 

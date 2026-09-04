@@ -1,4 +1,4 @@
-# 17:25
+# 17:25 — I Refuse to Choose
 
 The network took the system offline to prevent the door from opening. Servers were shut down, power connections cut, storage devices removed. Yet the door remained visible on every screen: powered displays, dark displays, even the broken glass of an old device whose battery had been removed.
 

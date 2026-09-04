@@ -1,4 +1,4 @@
-# Before Measurement
+# What Question Do You Use to Measure Reality?
 
 When the white field cracked, Maran found himself standing in three places at the same time. In one, he was walking toward the Light Center. In another, he was holding the hand of the Dark Center. In the third, he had turned his back on them both. Each Maran could see the others; none could say which was the original.
 

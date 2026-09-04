@@ -1,4 +1,4 @@
-# Where the Golden Ratio Broke
+# What Is Perfect Does Not Grow
 
 When the endless corridor closed, a single rectangle remained. Dividing its long side by its short side produced the same value as dividing the whole by the larger part. When a square was removed, the shape left behind a smaller rectangle similar to itself.
 

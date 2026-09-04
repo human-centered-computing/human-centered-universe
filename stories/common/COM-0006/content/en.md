@@ -1,4 +1,4 @@
-# Creation Is Unfinished
+# Creation Is Unfinished: First Reader Connected
 
 Maran woke at sunrise. People across the excavation site were silently watching the sky. No one knew how much time had passed. According to the devices, the connection had lasted only three seconds. Maran felt as if he had spent years living in other worlds.
 

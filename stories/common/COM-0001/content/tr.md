@@ -1,4 +1,4 @@
-# Savaş Alanını Eve Çevirmek
+# Savaş Alanını Eve Çevirin
 
 İki merkez Maran'ı üçüncü alana götürdü. Burası başlangıçta boş görünüyordu. Sonra beyaz şehir ile karanlık vadinin bütün çatışmaları üst üste binmeye başladı. Bir tarafta güvenlik adına bastırılan insanlar, diğer tarafta özgürlük adına parçalanan topluluklar vardı.
 

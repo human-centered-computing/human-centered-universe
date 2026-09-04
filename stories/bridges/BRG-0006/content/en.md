@@ -1,4 +1,4 @@
-# Four Names
+# Four Names, One Door
 
 When the combined model of the seven underground zones around Xerawreş was complete, four structures resembling neural networks appeared at the location previously modeled as the missing node. They were not physical cables. They were patterns formed by minute differences in stone density and by the topology of connected walls.
 
