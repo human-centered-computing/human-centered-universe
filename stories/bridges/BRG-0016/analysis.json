@@ -1,0 +1,18 @@
+{
+  "schema": "hcu-story-analysis",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 65,
+    "LIGHT": 30,
+    "DARK": 5
+  },
+  "classification": {
+    "method": "curated narrative classification based on human-rights primacy, evidence-driven policy learning and bounded algorithmic support",
+    "status": "reviewed-curation",
+    "note": "HUMAN dominates because rights, dignity, participation and responsibility remain the governing constraints. LIGHT represents evidence, explainability, measurement and public transparency. DARK remains a small but necessary space for uncertainty, failure and redesign."
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}
