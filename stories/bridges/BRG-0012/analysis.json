@@ -1,0 +1,18 @@
+{
+  "schema": "hcu-story-analysis",
+  "primary_center": "DARK",
+  "center_weights": {
+    "HUMAN": 20,
+    "LIGHT": 35,
+    "DARK": 45
+  },
+  "classification": {
+    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
+    "status": "reviewed-migration",
+    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}

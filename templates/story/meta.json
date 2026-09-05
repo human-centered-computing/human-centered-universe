@@ -1,22 +1,18 @@
 {
-  "id": "BRG-0000",
+  "id": "HUM-0000",
   "title": "New Story",
-  "core": "BRIDGE",
   "status": "experimental",
   "source_language": "en",
   "culture": [],
   "belief_context": [],
-  "summary": "Short summary.",
-  "translations": {
-    "en": {
-      "status": "canonical"
-    }
-  },
-  "links": [
-    {
-      "target": "COM-0001",
-      "type": "echo",
-      "note": "Explain why these stories are connected."
-    }
+  "summary": "Short English summary.",
+  "translations": {"en": {"status": "canonical"}},
+  "links": [],
+  "primary_center": "HUMAN",
+  "center_weights": {"HUMAN": 34, "LIGHT": 33, "DARK": 33},
+  "observer_choices": [
+    {"key":"human_direction","label":"Follow the human meaning and relationship.","effects":{"HUMAN":10,"LIGHT":2,"DARK":2}},
+    {"key":"light_direction","label":"Seek clarity, structure, and protection.","effects":{"HUMAN":2,"LIGHT":10,"DARK":2}},
+    {"key":"dark_direction","label":"Explore the unresolved possibility and transformation.","effects":{"HUMAN":2,"LIGHT":2,"DARK":10}}
   ]
 }

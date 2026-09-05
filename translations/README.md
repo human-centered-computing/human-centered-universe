@@ -1,13 +1,27 @@
 # Translation System
 
 ## Source of truth
-English (`en.md`) is the canonical source for every canon story.
+
+English (`content/en.md`) is the canonical source for every live story.
+
+## Multilingual layers
+
+Any language may be added as `content/<language-code>.md`. A translation preserves the same story ID.
 
 ## Fallback
-If the selected language is missing, readers should see the English canonical version with a clear notice.
 
-## Translation is not cultural adaptation
-A translation preserves the story. A cultural adaptation is a new story node with its own story ID and explicit connections.
+If the selected story language is unavailable, the reader displays English. If the selected language has story content but no interface locale, interface labels remain English.
 
-## Review flow
-English canonical → machine/community draft → language review → reviewed translation
+## Cultural adaptation
+
+A cultural adaptation is not a translation. It becomes a new story node with its own ID and explicit relationships.
+
+## Review states
+
+`canonical` → English source
+
+`reviewed` → human-reviewed translation
+
+`community` → contributed translation awaiting final review
+
+`machine_draft` → machine/AI draft, not authoritative

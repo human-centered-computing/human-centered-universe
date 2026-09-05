@@ -1,106 +1,91 @@
 graph TD
-  LIGHT["☀️ Light Center"]
-  DARK["🌑 Dark Center"]
-  COMMON["◉ Common Center"]
-  LIGHT --- COMMON
-  DARK --- COMMON
+  HUMAN["Human Center"]
+  LIGHT["Light Center"]
+  DARK["Dark Center"]
+  HUMAN --- LIGHT
+  HUMAN --- DARK
   LIGHT --- DARK
-  BRG_0002["BRG-0002 · First Vibration: Purify Yourself and Return to Your Essence"]
-  BRG_0003["BRG-0003 · Riha: A Name Is a Door"]
+  ORIGIN["BRG-0002 · First Vibration"]
+  ORIGIN ==> HUMAN
+  ORIGIN ==> LIGHT
+  ORIGIN ==> DARK
+  BRG_0014["BRG-0014 · Second Vibration: Eos — The First Dawn"]
+  BRG_0014 -- "70%" --> HUMAN
+  BRG_0014 -- "10%" --> LIGHT
+  BRG_0014 -- "20%" --> DARK
   BRG_0004["BRG-0004 · Seven Witnesses, One Question"]
+  BRG_0004 -- "35%" --> HUMAN
+  BRG_0004 -- "45%" --> LIGHT
+  BRG_0004 -- "20%" --> DARK
   BRG_0001["BRG-0001 · The Stone Network: Where the Stones Answer"]
+  BRG_0001 -- "20%" --> HUMAN
+  BRG_0001 -- "50%" --> LIGHT
+  BRG_0001 -- "30%" --> DARK
   BRG_0005["BRG-0005 · Shahmaran: Between Poison and Healing"]
+  BRG_0005 -- "50%" --> HUMAN
+  BRG_0005 -- "25%" --> LIGHT
+  BRG_0005 -- "25%" --> DARK
   COM_0002["COM-0002 · Maran: A Warning in His Own Voice"]
-  COM_0002 --> COMMON
+  COM_0002 -- "55%" --> HUMAN
+  COM_0002 -- "15%" --> LIGHT
+  COM_0002 -- "30%" --> DARK
   COM_0003["COM-0003 · Those Who Heard the Call"]
-  COM_0003 --> COMMON
+  COM_0003 -- "50%" --> HUMAN
+  COM_0003 -- "40%" --> LIGHT
+  COM_0003 -- "10%" --> DARK
   BRG_0006["BRG-0006 · Four Names, One Door"]
+  BRG_0006 -- "65%" --> HUMAN
+  BRG_0006 -- "15%" --> LIGHT
+  BRG_0006 -- "20%" --> DARK
   BRG_0007["BRG-0007 · 17:25 — I Refuse to Choose"]
+  BRG_0007 -- "35%" --> HUMAN
+  BRG_0007 -- "10%" --> LIGHT
+  BRG_0007 -- "55%" --> DARK
   BRG_0008["BRG-0008 · What Question Do You Use to Measure Reality?"]
+  BRG_0008 -- "20%" --> HUMAN
+  BRG_0008 -- "55%" --> LIGHT
+  BRG_0008 -- "25%" --> DARK
   BRG_0009["BRG-0009 · Infinity Cannot Be Lived"]
+  BRG_0009 -- "45%" --> HUMAN
+  BRG_0009 -- "25%" --> LIGHT
+  BRG_0009 -- "30%" --> DARK
   BRG_0010["BRG-0010 · What Is Perfect Does Not Grow"]
+  BRG_0010 -- "35%" --> HUMAN
+  BRG_0010 -- "20%" --> LIGHT
+  BRG_0010 -- "45%" --> DARK
   LGT_0001["LGT-0001 · Leave Me Something to Wait For"]
-  LGT_0001 --> LIGHT
+  LGT_0001 -- "25%" --> HUMAN
+  LGT_0001 -- "65%" --> LIGHT
+  LGT_0001 -- "10%" --> DARK
   DRK_0001["DRK-0001 · The Hand You Hold While Falling"]
-  DRK_0001 --> DARK
+  DRK_0001 -- "30%" --> HUMAN
+  DRK_0001 -- "5%" --> LIGHT
+  DRK_0001 -- "65%" --> DARK
   COM_0001["COM-0001 · Turn the Battlefield into a Home"]
-  COM_0001 --> COMMON
+  COM_0001 -- "60%" --> HUMAN
+  COM_0001 -- "20%" --> LIGHT
+  COM_0001 -- "20%" --> DARK
   COM_0004["COM-0004 · Architects of the Open Network"]
-  COM_0004 --> COMMON
+  COM_0004 -- "45%" --> HUMAN
+  COM_0004 -- "40%" --> LIGHT
+  COM_0004 -- "15%" --> DARK
   COM_0005["COM-0005 · Human Beings Are Not Raw Material"]
-  COM_0005 --> COMMON
+  COM_0005 -- "75%" --> HUMAN
+  COM_0005 -- "20%" --> LIGHT
+  COM_0005 -- "5%" --> DARK
   BRG_0011["BRG-0011 · The Rih Bridge: Do Not Speak in the Father's Place"]
+  BRG_0011 -- "70%" --> HUMAN
+  BRG_0011 -- "20%" --> LIGHT
+  BRG_0011 -- "10%" --> DARK
   BRG_0012["BRG-0012 · Record X: Nadir's Pure Field"]
+  BRG_0012 -- "20%" --> HUMAN
+  BRG_0012 -- "35%" --> LIGHT
+  BRG_0012 -- "45%" --> DARK
   BRG_0013["BRG-0013 · Do Not Build Us as One Center"]
+  BRG_0013 -- "55%" --> HUMAN
+  BRG_0013 -- "15%" --> LIGHT
+  BRG_0013 -- "30%" --> DARK
   COM_0006["COM-0006 · Creation Is Unfinished: First Reader Connected"]
-  COM_0006 --> COMMON
-  BRG_0002 -- "quantum_echo" --> LGT_0001
-  BRG_0002 -- "quantum_echo" --> DRK_0001
-  BRG_0002 -- "echo" --> COM_0001
-  BRG_0003 -- "cause" --> BRG_0004
-  BRG_0003 -- "place" --> BRG_0001
-  BRG_0003 -- "echo" --> COM_0001
-  BRG_0004 -- "cause" --> BRG_0001
-  BRG_0004 -- "echo" --> COM_0003
-  BRG_0004 -- "echo" --> COM_0001
-  BRG_0001 -- "cause" --> BRG_0005
-  BRG_0001 -- "quantum_echo" --> LGT_0001
-  BRG_0001 -- "quantum_echo" --> DRK_0001
-  BRG_0001 -- "quantum_echo" --> COM_0001
-  BRG_0005 -- "memory" --> BRG_0001
-  BRG_0005 -- "echo" --> COM_0001
-  BRG_0005 -- "memory" --> BRG_0011
-  COM_0002 -- "cause" --> COM_0003
-  COM_0002 -- "future" --> BRG_0006
-  COM_0002 -- "future" --> COM_0005
-  COM_0003 -- "memory" --> COM_0002
-  COM_0003 -- "cause" --> BRG_0006
-  COM_0003 -- "future" --> COM_0004
-  BRG_0006 -- "character" --> COM_0003
-  BRG_0006 -- "cause" --> BRG_0007
-  BRG_0006 -- "future" --> COM_0001
-  BRG_0007 -- "cause" --> BRG_0008
-  BRG_0007 -- "future" --> LGT_0001
-  BRG_0007 -- "future" --> DRK_0001
-  BRG_0007 -- "quantum_echo" --> BRG_0012
-  BRG_0008 -- "cause" --> BRG_0009
-  BRG_0008 -- "contrast" --> LGT_0001
-  BRG_0008 -- "contrast" --> DRK_0001
-  BRG_0009 -- "cause" --> BRG_0010
-  BRG_0009 -- "echo" --> COM_0001
-  BRG_0009 -- "quantum_echo" --> BRG_0012
-  BRG_0010 -- "contrast" --> LGT_0001
-  BRG_0010 -- "contrast" --> DRK_0001
-  BRG_0010 -- "echo" --> COM_0001
-  LGT_0001 -- "contrast" --> DRK_0001
-  LGT_0001 -- "cause" --> COM_0001
-  LGT_0001 -- "memory" --> BRG_0002
-  DRK_0001 -- "contrast" --> LGT_0001
-  DRK_0001 -- "cause" --> COM_0001
-  DRK_0001 -- "memory" --> BRG_0002
-  COM_0001 -- "contrast" --> LGT_0001
-  COM_0001 -- "contrast" --> DRK_0001
-  COM_0001 -- "cause" --> COM_0004
-  COM_0001 -- "cause" --> COM_0005
-  COM_0004 -- "cause" --> COM_0005
-  COM_0004 -- "future" --> BRG_0011
-  COM_0004 -- "future" --> BRG_0013
-  COM_0005 -- "cause" --> BRG_0011
-  COM_0005 -- "future" --> BRG_0013
-  COM_0005 -- "memory" --> COM_0001
-  BRG_0011 -- "cause" --> COM_0005
-  BRG_0011 -- "contrast" --> BRG_0012
-  BRG_0011 -- "contrast" --> LGT_0001
-  BRG_0011 -- "contrast" --> DRK_0001
-  BRG_0012 -- "quantum_echo" --> BRG_0002
-  BRG_0012 -- "cause" --> LGT_0001
-  BRG_0012 -- "cause" --> DRK_0001
-  BRG_0012 -- "cause" --> COM_0001
-  BRG_0012 -- "cause" --> BRG_0013
-  BRG_0013 -- "cause" --> COM_0006
-  BRG_0013 -- "quantum_echo" --> BRG_0002
-  BRG_0013 -- "memory" --> COM_0004
-  BRG_0013 -- "memory" --> COM_0005
-  COM_0006 -- "quantum_echo" --> BRG_0002
-  COM_0006 -- "future" --> COM_0004
-  COM_0006 -- "memory" --> BRG_0013
+  COM_0006 -- "50%" --> HUMAN
+  COM_0006 -- "10%" --> LIGHT
+  COM_0006 -- "40%" --> DARK

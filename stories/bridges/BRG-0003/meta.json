@@ -3,54 +3,18 @@
   "title": "Riha: A Name Is a Door",
   "original_title": "Riha: Ad Bir Kapıdır",
   "core": "BRIDGE",
-  "status": "canon",
+  "status": "experimental",
   "source_language": "en",
   "book_order": 2,
-  "culture": [
-    "Riha / Şanlıurfa local memory",
-    "Kurdish and Turkish linguistic memory",
-    "multicultural research network"
-  ],
-  "belief_context": [
-    "plural interpretation",
-    "ancestral memory",
-    "dream narrative"
-  ],
+  "culture": ["Riha / Şanlıurfa local memory", "Kurdish and Turkish linguistic memory", "multicultural research network"],
+  "belief_context": ["plural interpretation", "ancestral memory", "dream narrative"],
   "summary": "Maran returns from Berlin to Riha after an impossible archival signal connects family memory, Göbekli Tepe, multiple languages, and the unfinished question of what kind of body can carry a shared spirit.",
-  "translations": {
-    "en": {
-      "status": "canonical"
-    },
-    "tr": {
-      "status": "reviewed"
-    }
-  },
+  "translations": {"en":{"status":"canonical"},"tr":{"status":"reviewed"}},
   "links": [
-    {
-      "target": "BRG-0004",
-      "type": "cause",
-      "note": "The shared anomaly at 17:25 leads the group to compare their different experiences."
-    },
-    {
-      "target": "BRG-0001",
-      "type": "place",
-      "note": "The underground opening at Xerawreş becomes the threshold of the Stone Network."
-    },
-    {
-      "target": "COM-0001",
-      "type": "echo",
-      "note": "The dream's image of different hands forming one shape anticipates a relational Common Center."
-    }
+    {"target":"BRG-0004","type":"cause","note":"The shared anomaly at 17:25 leads the group to compare their different experiences."},
+    {"target":"BRG-0001","type":"place","note":"The underground opening at Xerawreş becomes the threshold of the Stone Network."},
+    {"target":"COM-0001","type":"echo","note":"The dream's image of different hands forming one shape anticipates a human-centered relational field."}
   ],
-  "localized": {
-    "tr": {
-      "title": "Riha: Ad Bir Kapıdır",
-      "summary": "İmkânsız görünen bir arşiv sinyali aile hafızasını, Göbekli Tepe'yi, farklı dilleri ve ortak bir ruhu hangi bedenin taşıyabileceği sorusunu birbirine bağlayınca Maran Berlin'den Riha'ya döner.",
-      "link_notes": {
-        "BRG-0004": "17.25'teki ortak anomali, grubun farklı deneyimlerini karşılaştırmasına yol açar.",
-        "BRG-0001": "Xerawreş'teki yeraltı boşluğu Taş Ağ'ın eşiğine dönüşür.",
-        "COM-0001": "Rüyada farklı ellerin tek şekil oluşturması ilişkisel Ortak Merkez'i önceler."
-      }
-    }
-  }
+  "localized": {"tr":{"title":"Riha: Ad Bir Kapıdır","summary":"İmkânsız görünen bir arşiv sinyali aile hafızasını, Göbekli Tepe'yi, farklı dilleri ve ortak bir ruhu hangi bedenin taşıyabileceği sorusunu birbirine bağlayınca Maran Berlin'den Riha'ya döner."}},
+  "deprecation_note": "Retained as an experimental historical node; excluded from the current 21-node live observation graph."
 }

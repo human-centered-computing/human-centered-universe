@@ -1,12 +1,14 @@
-# Story Title System — v0.5
+# Historical Document
 
-The public titles are now derived from the dramatic sentence, image, question, or ethical turning point inside each story rather than from a generic technical label.
+This file name is retained for repository and link continuity. Its earlier contents describe a previous HCU architecture.
 
-- `LGT-0001`: **Leave Me Something to Wait For**
-- `DRK-0001`: **The Hand You Hold While Falling**
-- `BRG-0009`: **Infinity Cannot Be Lived**
-- `BRG-0010`: **What Is Perfect Does Not Grow**
-- `COM-0001`: **Turn the Battlefield into a Home**
-- `BRG-0013`: **Do Not Build Us as One Center**
+The current model is defined by:
 
-Technical story IDs remain unchanged so links, translations, history, and GitHub references stay stable.
+- `README.md`
+- `universe/universe-map.json`
+- `universe/CORE_RULES.md`
+- `universe/CLASSIFICATION.md`
+- `universe/OBSERVER_MODEL.md`
+- `universe/QUANTUM_TIME.md`
+
+Git history preserves the previous version of this document.

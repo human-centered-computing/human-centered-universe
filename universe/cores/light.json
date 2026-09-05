@@ -1,35 +1,30 @@
 {
   "id": "LIGHT",
   "name": "Light Center",
+  "question": "How can this reality be understood, ordered, protected and verified?",
   "principles": [
-    "order",
-    "visibility",
-    "safety",
-    "explanation",
-    "protection"
+    "order and structure",
+    "knowledge, truth and evidence",
+    "visibility and explainability",
+    "measurement and standards",
+    "safety and protection",
+    "predictability and planning",
+    "rules and institutions",
+    "coordination and efficiency",
+    "continuity and preservation",
+    "verification and auditability"
   ],
   "shadow": [
-    "control",
-    "single measure",
+    "excessive control",
+    "surveillance",
     "forced transparency",
-    "suppressed dissent"
+    "rigid standardization",
+    "a single model imposed as reality"
   ],
   "localized": {
     "tr": {
-      "name": "Aydınlık Merkez",
-      "principles": [
-        "düzen",
-        "görünürlük",
-        "güvenlik",
-        "açıklanabilirlik",
-        "koruma"
-      ],
-      "shadow": [
-        "kontrol",
-        "tek ölçü",
-        "zorunlu şeffaflık",
-        "itirazın bastırılması"
-      ]
+      "name": "Aydınlık Merkezi",
+      "question": "Bu gerçeklik nasıl anlaşılır, düzenlenir, korunur ve doğrulanır?"
     }
   }
 }

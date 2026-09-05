@@ -1,38 +1,7 @@
 {
   "id": "COMMON",
-  "name": "Common Center",
-  "legacy_name": "Human Center",
-  "principles": [
-    "human dignity",
-    "relationship",
-    "consent",
-    "responsibility",
-    "contestability",
-    "repair",
-    "plurality"
-  ],
-  "shadow": [
-    "majoritarian domination",
-    "false consensus",
-    "new central authority"
-  ],
-  "localized": {
-    "tr": {
-      "name": "Ortak Merkez",
-      "principles": [
-        "insan onuru",
-        "ilişki",
-        "rıza",
-        "sorumluluk",
-        "itiraz edilebilirlik",
-        "onarım",
-        "çoğulluk"
-      ],
-      "shadow": [
-        "çoğunluk tahakkümü",
-        "sahte uzlaşma",
-        "yeni merkezî otorite"
-      ]
-    }
-  }
+  "name": "Legacy Common Center Alias",
+  "deprecated": true,
+  "maps_to": "HUMAN",
+  "note": "Kept only so historical references remain understandable. The current third center is HUMAN."
 }

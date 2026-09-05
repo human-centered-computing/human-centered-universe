@@ -1,0 +1,29 @@
+{
+  "id": "HUMAN",
+  "name": "Human Center",
+  "question": "What does this mean for the human being?",
+  "principles": [
+    "dignity and personhood",
+    "agency and choice",
+    "consent, privacy and boundaries",
+    "relationship, love and care",
+    "justice, rights and fairness",
+    "responsibility and repair",
+    "identity, belonging and culture",
+    "emotion and lived experience",
+    "meaning, memory and mortality",
+    "wellbeing and vulnerability"
+  ],
+  "shadow": [
+    "paternalism",
+    "loss of boundaries",
+    "anthropocentrism without responsibility",
+    "suppressing difficult truths in the name of harmony"
+  ],
+  "localized": {
+    "tr": {
+      "name": "İnsan Merkezi",
+      "question": "Bunun insan için anlamı nedir?"
+    }
+  }
+}

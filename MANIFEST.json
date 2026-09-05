@@ -1,13 +1,14 @@
 {
-  "package": "hcu-full-book-canon-v0.2",
-  "type": "delta",
+  "package": "hcu-current-universe",
+  "type": "source-update",
   "target_repository": "human-centered-computing/human-centered-universe",
   "canonical_language": "en",
-  "reviewed_translation": "tr",
-  "expected_live_nodes": 21,
-  "new_or_replaced_nodes": 20,
-  "existing_node_not_repackaged": "BRG-0002",
-  "world_seed_fields": 14,
-  "reader": "https://human-centered-computing.github.io/human-centered-universe/",
-  "commit_message": "Migrate full book canon and World Seed interactions"
+  "default_interface_language": "en",
+  "origin_node": "BRG-0002",
+  "centers": ["HUMAN", "LIGHT", "DARK"],
+  "live_nodes": 21,
+  "experimental_nodes": ["BRG-0003"],
+  "routing_model": "observer-dominant-center",
+  "classification_model": "30-criterion triangular state space",
+  "reader": "https://human-centered-computing.github.io/human-centered-universe/"
 }

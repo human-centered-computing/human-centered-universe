@@ -1,63 +1,31 @@
 # Interactive Reader
 
-The Human-Centered Universe is read through **GitHub Pages**.
+The Human-Centered Universe reader is generated from the live story files and deployed through GitHub Pages.
 
-The GitHub repository is the source of truth. The public reader is generated automatically from live canon story folders.
+## READ
 
-## Reader modes
+- Starts from `BRG-0002 — First Vibration` unless the observer resumes a previous valid node.
+- Displays the story's HUMAN / LIGHT / DARK profile.
+- Stores read state, Observer State, choices, and Quantum Path locally in the browser.
+- End-of-story choices modify the Observer State.
+- The strongest observer center determines the recommended unread story.
+- The observer can always choose another story.
 
-### READ
+## EXPLORE
 
-- English canonical source or selected translation
-- Previous / next canon story
-- Reading progress stored locally in the browser
-- Resume from the last opened story
-- Clickable story connections and Quantum Echoes
+- Shows the HUMAN / LIGHT / DARK triangular state space.
+- Places every live story in the triangle using its center weights.
+- Allows free search and direct access to any live node.
 
-### EXPLORE
+## CREATE
 
-- Light, Dark and Common core overview
-- Bridge story layer
-- Searchable live story nodes
-- Clicking a node opens it in Reader mode
+- Opens the Story Node Builder.
+- Links to the repository, contribution guide, issues, and fork flow.
 
-### CREATE
+## Languages
 
-- Open the GitHub repository
-- Fork the universe
-- Read the contribution guide
-- Move from reader to contributor
-
-## Language behavior
-
-English is canonical.
-
-If a selected translation does not exist, the reader displays the English canonical content and clearly shows a fallback notice.
-
-Language preference is stored in the browser.
+English is the canonical and default language. The reader lists every language found in live story content. If a UI translation file does not exist for a selected content language, interface labels fall back to English. If a story translation is missing, the story itself falls back to English.
 
 ## Publishing
 
-The workflow `.github/workflows/deploy-pages.yml`:
-
-1. validates the universe,
-2. builds `site/data/universe.json` from the live story files,
-3. packages the `web/` application,
-4. deploys the generated static site to GitHub Pages.
-
-Every push to `main` automatically rebuilds the reader.
-
-## One-time GitHub setting
-
-After pushing these files:
-
-1. Open the repository on GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment → Source**, select **GitHub Actions**.
-4. Open **Actions** and confirm that **Deploy Interactive Reader** succeeds.
-
-The expected project-site address is:
-
-`https://human-centered-computing.github.io/human-centered-universe/`
-
-GitHub shows the exact deployed URL in the workflow and Pages settings.
+`.github/workflows/deploy-pages.yml` validates the universe, builds `site/data/universe.json`, copies the `web/` application, and deploys the static site to GitHub Pages.

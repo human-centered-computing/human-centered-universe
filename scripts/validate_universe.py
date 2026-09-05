@@ -1,111 +1,137 @@
 from pathlib import Path
-import json, sys
+import json, sys, math
 
 ROOT = Path(__file__).resolve().parents[1]
-STORIES = ROOT / 'stories'
-
-required = {'id','title','core','status','source_language','culture','belief_context','summary','translations','links'}
-valid_cores = {'LIGHT','DARK','COMMON','BRIDGE'}
-valid_status = {'core','canon','experimental','fork'}
-valid_t = {'canonical','reviewed','community','machine_draft'}
-valid_links = {'quantum_echo','echo','contrast','cause','memory','future','character','place','artifact'}
+STORIES = ROOT / "stories"
+MAP_PATH = ROOT / "universe" / "universe-map.json"
+CENTERS = {"HUMAN", "LIGHT", "DARK"}
+VALID_STATUS = {"core", "canon", "experimental", "fork"}
+VALID_TRANSLATION_STATUS = {"canonical", "reviewed", "community", "machine_draft"}
+VALID_LINKS = {"quantum_echo", "echo", "contrast", "cause", "memory", "future", "character", "place", "artifact", "theme", "transformation", "parallel"}
+ORIGIN = "BRG-0002"
 
 errors = []
 all_ids = {}
+live_ids = set()
 
-for mp in STORIES.rglob('meta.json'):
+if not MAP_PATH.exists():
+    errors.append("universe/universe-map.json is required")
+    universe_map = {}
+else:
+    universe_map = json.loads(MAP_PATH.read_text(encoding="utf-8"))
+    if universe_map.get("origin_node") != ORIGIN:
+        errors.append(f"origin_node must be {ORIGIN}")
+    if set(universe_map.get("centers", [])) != CENTERS:
+        errors.append("universe map centers must be HUMAN, LIGHT and DARK")
+
+mapped = {n.get("id"): n for n in universe_map.get("nodes", [])}
+
+def valid_weights(weights, where):
+    if not isinstance(weights, dict) or set(weights) != CENTERS:
+        errors.append(f"{where}: center_weights must contain exactly HUMAN/LIGHT/DARK")
+        return
+    vals = []
+    for c in CENTERS:
+        v = weights.get(c)
+        if not isinstance(v, (int, float)) or not math.isfinite(v) or v < 0 or v > 100:
+            errors.append(f"{where}: invalid {c} weight")
+            return
+        vals.append(v)
+    if abs(sum(vals) - 100) > 1e-9:
+        errors.append(f"{where}: center_weights must sum to 100")
+
+for mp in STORIES.rglob("meta.json"):
     try:
-        d = json.loads(mp.read_text(encoding='utf-8'))
+        d = json.loads(mp.read_text(encoding="utf-8"))
     except Exception as e:
-        errors.append(f'{mp}: invalid JSON: {e}')
+        errors.append(f"{mp}: invalid JSON: {e}")
         continue
 
-    miss = required - d.keys()
-    if miss:
-        errors.append(f'{mp}: missing {sorted(miss)}')
+    for key in {"id","title","status","source_language","culture","belief_context","summary","translations","links"}:
+        if key not in d:
+            errors.append(f"{mp}: missing {key}")
+    if "id" not in d:
         continue
 
-    sid = d['id']
+    sid = d["id"]
     if sid in all_ids:
-        errors.append(f'{mp}: duplicate id {sid}')
+        errors.append(f"{mp}: duplicate id {sid}")
     all_ids[sid] = (mp, d)
 
-    if d['core'] not in valid_cores:
-        errors.append(f'{mp}: invalid core')
-    if d['status'] not in valid_status:
-        errors.append(f'{mp}: invalid status')
-    if d['source_language'] != 'en':
-        errors.append(f'{mp}: source_language must be en')
+    if d.get("status") not in VALID_STATUS:
+        errors.append(f"{mp}: invalid status")
+    if d.get("source_language") != "en":
+        errors.append(f"{mp}: source_language must be en for canonical metadata")
 
-    content_dir = mp.parent / 'content'
-    if not (content_dir / 'en.md').exists():
-        errors.append(f'{mp}: missing content/en.md')
+    content_dir = mp.parent / "content"
+    if not (content_dir / "en.md").exists():
+        errors.append(f"{mp}: missing content/en.md")
+    if d.get("translations", {}).get("en", {}).get("status") != "canonical":
+        errors.append(f"{mp}: en translation status must be canonical")
 
-    if d['translations'].get('en', {}).get('status') != 'canonical':
-        errors.append(f'{mp}: en must be canonical')
-
-    for lang, entry in d['translations'].items():
-        if entry.get('status') not in valid_t:
-            errors.append(f'{mp}: invalid translation status for {lang}')
-        if not (content_dir / f'{lang}.md').exists():
-            errors.append(f'{mp}: missing content/{lang}.md')
+    for lang, entry in d.get("translations", {}).items():
+        if entry.get("status") not in VALID_TRANSLATION_STATUS:
+            errors.append(f"{mp}: invalid translation status for {lang}")
+        if not (content_dir / f"{lang}.md").exists():
+            errors.append(f"{mp}: missing content/{lang}.md")
 
     if content_dir.exists():
-        for cf in content_dir.glob('*.md'):
-            if cf.stem not in d['translations']:
-                errors.append(f'{mp}: undeclared translation {cf.stem}')
+        for cf in content_dir.glob("*.md"):
+            if cf.stem not in d.get("translations", {}):
+                errors.append(f"{mp}: undeclared translation {cf.stem}")
 
-    for link in d['links']:
-        if link.get('type') not in valid_links:
-            errors.append(f'{mp}: invalid link type {link.get("type")}')
+    for link in d.get("links", []):
+        if link.get("type") not in VALID_LINKS:
+            errors.append(f"{mp}: invalid link type {link.get('type')}")
 
-    for item in d.get('interactions', []):
-        if not item.get('key'):
-            errors.append(f'{mp}: interaction missing key')
-        if item.get('type') not in {'text','textarea','select'}:
-            errors.append(f'{mp}: invalid interaction type {item.get("type")}')
-        if item.get('type') == 'select' and not item.get('options'):
-            errors.append(f'{mp}: select interaction requires options')
+    if d.get("status") in {"canon", "core"}:
+        live_ids.add(sid)
+        analysis_path = mp.parent / "analysis.json"
+        analysis = json.loads(analysis_path.read_text(encoding="utf-8")) if analysis_path.exists() else {}
+        node = mapped.get(sid, {})
+        primary = analysis.get("primary_center", node.get("primary_center", d.get("primary_center")))
+        weights = analysis.get("center_weights", node.get("center_weights", d.get("center_weights")))
+        if primary not in CENTERS:
+            errors.append(f"{mp}: live story requires primary_center HUMAN/LIGHT/DARK")
+        valid_weights(weights, str(mp))
+        if isinstance(weights, dict) and primary in CENTERS:
+            mx = max(weights.values())
+            if weights.get(primary) != mx:
+                errors.append(f"{mp}: primary_center must be one of the maximum center weights")
 
-for sid, (mp, d) in all_ids.items():
-    for link in d['links']:
-        if link.get('target') not in all_ids:
-            errors.append(f'{mp}: unknown target {link.get("target")}')
-
-def reachable_core_types(start_sid):
-    """Return non-BRIDGE core types reachable through story links.
-
-    Bridge stories are allowed to connect recursively. This avoids forcing every
-    bridge node to hang directly from Light/Dark/Common as a star graph.
-    """
-    seen = set()
-    stack = [start_sid]
-    cores = set()
-
-    while stack:
-        sid = stack.pop()
-        if sid in seen or sid not in all_ids:
-            continue
-        seen.add(sid)
-        _, data = all_ids[sid]
-        if sid != start_sid and data.get('core') in {'LIGHT','DARK','COMMON'}:
-            cores.add(data['core'])
-        for link in data.get('links', []):
-            target = link.get('target')
-            if target and target not in seen:
-                stack.append(target)
-    return cores
+        choices = d.get("observer_choices") or analysis.get("observer_choices") or []
+        for i, choice in enumerate(choices):
+            if not choice.get("key") or not choice.get("label"):
+                errors.append(f"{mp}: observer choice {i+1} missing key/label")
+            effects = choice.get("effects", {})
+            if set(effects) != CENTERS:
+                errors.append(f"{mp}: observer choice {i+1} effects must contain HUMAN/LIGHT/DARK")
+            else:
+                for c, v in effects.items():
+                    if not isinstance(v, (int,float)) or v < 0 or v > 10:
+                        errors.append(f"{mp}: observer choice {i+1} invalid {c} effect")
 
 for sid, (mp, d) in all_ids.items():
-    if d['core'] == 'BRIDGE':
-        cores = reachable_core_types(sid)
-        if len(cores) < 2:
-            errors.append(f'{mp}: BRIDGE must reach at least two cores through the story graph; reached {sorted(cores)}')
+    for link in d.get("links", []):
+        if link.get("target") not in all_ids:
+            errors.append(f"{mp}: unknown target {link.get('target')}")
+
+if ORIGIN not in live_ids:
+    errors.append(f"{ORIGIN} must be a live origin node")
+
+mapped_ids = set(mapped)
+if not mapped_ids.issubset(live_ids):
+    errors.append(f"universe map contains non-live nodes: {sorted(mapped_ids-live_ids)}")
+
+orders = [n.get("observation_order") for n in mapped.values()]
+if sorted(orders) != list(range(1, len(orders)+1)):
+    errors.append("observation_order must be a continuous 1..N sequence")
 
 if errors:
-    print('VALIDATION FAILED')
+    print("VALIDATION FAILED")
     for e in errors:
-        print('-', e)
+        print("-", e)
     sys.exit(1)
 
-print(f'OK: {len(all_ids)} story nodes validated.')
+print(f"OK: {len(all_ids)} total story nodes; {len(live_ids)} live nodes validated.")
+print(f"Origin: {ORIGIN}; centers: HUMAN / LIGHT / DARK")

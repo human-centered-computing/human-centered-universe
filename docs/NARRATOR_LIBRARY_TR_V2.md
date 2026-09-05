@@ -1,13 +1,13 @@
-# HCU Türkçe Anlatıcı Kütüphanesi v2
+# Historical Narrator Document
 
-Bu paket canlı canondaki 21 Türkçe bölümün tamamına 🎧 Anlatıcı Modu ekler.
+This filename is retained for repository continuity. The older Turkish-only narrator-library architecture is no longer active.
 
-- Dil: Türkçe
-- Anlatıcı stili: Fancy
-- Toplam bölüm: 21
-- Mevcut Hızlı Sesli Oku korunur.
-- Göbekli Tepe medya katmanı korunur.
-- `stories/`, `universe/`, `scripts/`, `.github/workflows/` değiştirilmez.
+Current narration is handled by the multilingual narration system with browser speech fallback. See:
 
-## Önemli
-Bu sürüm sesleri üretilen barındırılmış ses bağlantılarından oynatır. `narrator.v1.js/css` dosyaları repository'de kalabilir ancak `web/index.html` artık onları yüklemez; bunun yerine `narrator-library.v2.js/css` yüklenir. Böylece BRG-0002'de çift oynatıcı oluşmaz.
+- `docs/MULTILINGUAL_TTS.md`
+- `docs/NARRATOR_MODE.md`
+- `config/tts-voices.json`
+- `web/assets/narrator-multilingual.v5.js`
+- `web/assets/narrator-browser-fallback.v1.js`
+
+Git history preserves the earlier document.

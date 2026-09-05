@@ -268,7 +268,7 @@ hr{border:0;border-top:1px solid var(--line);margin:18px 0}
         <hr>
         <h3>Generated meta.json</h3>
         <pre id="metaPreview">{}</pre>
-        <p class="small muted">Compatibility note: until the repository validator accepts HUMAN as a native core, HUMAN-primary nodes use legacy <code>core: "COMMON"</code> while the actual model is stored in <code>primary_center</code> and <code>center_weights</code>.</p>
+        <p class="small muted">HUMAN, LIGHT, and DARK are native HCU centers. Historical story ID prefixes remain stable for continuity.</p>
       </div>
     </section>
   </div>
@@ -355,7 +355,6 @@ function computeWeights(analysis){
 }
 
 function dominant(weights){ return Object.keys(weights).sort((a,b)=>weights[b]-weights[a])[0]; }
-function compatibleCore(primary){ return primary==="HUMAN" ? "COMMON" : primary; }
 function prefixFor(primary){ return primary==="HUMAN" ? "HUM" : primary==="LIGHT" ? "LGT" : "DRK"; }
 function folderFor(primary){ return primary==="HUMAN" ? "human" : primary.toLowerCase(); }
 
@@ -645,7 +644,6 @@ function makeMeta(data,check,id){
   return {
     id,
     title:data.title,
-    core:compatibleCore(primary),
     status:$("statusSelect").value,
     source_language:"en",
     canonical_language:"en",
@@ -727,6 +725,7 @@ async function downloadZip(){
 
   zip.file(`${base}/analysis.json`,JSON.stringify({
     schema:"hcu-story-analysis",
+    primary_center:primary,
     analysis:data.analysis,
     center_raw_scores:processed.check.raw,
     center_weights:processed.check.weights,

@@ -1,33 +1,30 @@
 {
   "id": "DARK",
   "name": "Dark Center",
+  "question": "What else could become possible?",
   "principles": [
-    "possibility",
-    "freedom",
-    "uncertainty",
-    "creation",
-    "dissent"
+    "uncertainty and the unknown",
+    "freedom and alternatives",
+    "creativity and invention",
+    "exploration and experiment",
+    "dissent and resistance",
+    "rupture and disruption",
+    "transformation and change",
+    "risk and volatility",
+    "plurality and forking",
+    "emergence and surprise"
   ],
   "shadow": [
-    "irresponsible limitlessness",
+    "irresponsibility",
     "fragmentation",
+    "instability",
+    "destruction without repair",
     "escape from consequences"
   ],
   "localized": {
     "tr": {
-      "name": "Karanlık Merkez",
-      "principles": [
-        "ihtimal",
-        "özgürlük",
-        "belirsizlik",
-        "yaratım",
-        "itiraz"
-      ],
-      "shadow": [
-        "sorumsuz sınırsızlık",
-        "parçalanma",
-        "sonuçlardan kaçış"
-      ]
+      "name": "Karanlık Merkezi",
+      "question": "Başka ne mümkün olabilir?"
     }
   }
 }

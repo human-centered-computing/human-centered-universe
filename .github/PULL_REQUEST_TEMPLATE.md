@@ -1,25 +1,17 @@
-## Contribution type
-- [ ] New story
-- [ ] Translation
-- [ ] Story connection
-- [ ] Cultural review
-- [ ] Technical change
+## What reality does this change create?
 
-## Core
-- [ ] LIGHT
-- [ ] DARK
-- [ ] COMMON
-- [ ] BRIDGE
-- [ ] Not applicable
+Describe the story, relationship, translation, technical change, or reinterpretation introduced by this pull request.
 
-## Language
-Source/translation language:
+## HCU checks
 
-## Connections
-Which existing stories does this contribution connect to, and why?
+- [ ] English canonical content is present where required.
+- [ ] Other languages preserve the same story ID.
+- [ ] HUMAN / LIGHT / DARK weights are valid and sum to 100 where applicable.
+- [ ] The 30-criterion analysis or migration rationale is documented.
+- [ ] Important elements outside the ontology are flagged by a coverage audit.
+- [ ] Scientific claims are distinguishable from interpretation and fiction.
+- [ ] Cultural similarities do not erase differences or invent a single origin.
+- [ ] Human dignity, agency, consent, responsibility, and repair were considered.
+- [ ] I checked how this change may reinterpret existing nodes.
 
-## Cultural / belief context
-Explain any cultural, religious, philosophical or local narrative context used.
-
-## Canon impact
-What does this change add to or alter in the universe?
+> Commit creates reality. Connection transforms meaning.

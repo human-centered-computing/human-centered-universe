@@ -2,15 +2,21 @@ concepts:
   Human-Centered Universe:
     canonical: Human-Centered Universe
     tr: İnsan Merkezli Evren
+  Human Center:
+    canonical: Human Center
+    tr: İnsan Merkezi
   Light Center:
     canonical: Light Center
-    tr: Aydınlık Merkez
+    tr: Aydınlık Merkezi
   Dark Center:
     canonical: Dark Center
-    tr: Karanlık Merkez
-  Common Center:
-    canonical: Common Center
-    tr: Ortak Merkez
+    tr: Karanlık Merkezi
   quantum_echo:
     canonical: Quantum Echo
     tr: Kuantum Yankı
+  observer_state:
+    canonical: Observer State
+    tr: Gözlemci Durumu
+  quantum_path:
+    canonical: Quantum Path
+    tr: Kuantum Yolu

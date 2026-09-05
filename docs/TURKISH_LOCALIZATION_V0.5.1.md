@@ -1,13 +1,14 @@
-# Turkish Localization — v0.5.1
+# Historical Document
 
-When `lang=tr` is active, the reader now localizes:
-- story titles,
-- Explore summaries,
-- story connection notes,
-- core names and principles,
-- navigation labels,
-- project title and footer,
-- connection-type labels,
-- Turkish search terms.
+This file name is retained for repository and link continuity. Its earlier contents describe a previous HCU architecture.
 
-Story IDs remain unchanged. English remains canonical.
+The current model is defined by:
+
+- `README.md`
+- `universe/universe-map.json`
+- `universe/CORE_RULES.md`
+- `universe/CLASSIFICATION.md`
+- `universe/OBSERVER_MODEL.md`
+- `universe/QUANTUM_TIME.md`
+
+Git history preserves the previous version of this document.
