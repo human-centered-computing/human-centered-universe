@@ -7,7 +7,8 @@
   <title>Human-Centered Universe</title>
   <link rel="stylesheet" href="./assets/styles.css">
   <link rel="stylesheet" href="./assets/media.v1.css">
-  <link rel="stylesheet" href="./assets/narrator-multilingual.v5.css?v=5.3">
+  <link rel="stylesheet" href="./assets/narrator-multilingual.v5.css?v=5.4">
+  <link rel="stylesheet" href="./assets/narrator-browser-fallback.v1.css?v=1.0">
 </head>
 <body>
   <header class="topbar">
@@ -15,12 +16,16 @@
       <span class="brand-mark">HCU</span>
       <span><strong>Human-Centered Universe</strong><small id="live-status">Live canon</small></span>
     </a>
+
     <div class="top-actions">
       <label class="language-control">
         <span class="sr-only">Language</span>
         <select id="language-select" aria-label="Language"></select>
       </label>
-      <a id="github-link" class="github-link" target="_blank" rel="noopener">GitHub</a>
+
+      <a id="github-link" class="github-link" target="_blank" rel="noopener">
+        GitHub
+      </a>
     </div>
   </header>
 
@@ -42,7 +47,8 @@
 
   <script src="./assets/app.js" defer></script>
   <script src="./assets/media.v1.js" defer></script>
-  <script src="./assets/narrator-multilingual.v5.js?v=5.3" defer></script>
+  <script src="./assets/narrator-multilingual.v5.js?v=5.4" defer></script>
+  <script src="./assets/narrator-browser-fallback.v1.js?v=1.0" defer></script>
   <script src="./assets/copy-story.v1.js?v=1.0" defer></script>
 </body>
 </html>
