@@ -60,5 +60,9 @@
   "explore_triangle_intro": "HUMAN + LIGHT + DARK = 100. Her düğüm aynı üçgensel durum uzayında bir konuma sahiptir.",
   "story_builder_description": "Çok dilli bir hikâye paketi oluştur, 30 ölçüte göre HUMAN/LIGHT/DARK konumunu hesapla, çok dilli gözlemci seçimleri üret ve GitHub'a hazır dosyaları dışa aktar.",
   "git_narrative_description": "Git anlatı mimarisinin bir parçasıdır: commit gerçeklik yaratır; bağlantı anlamı dönüştürür.",
-  "language_policy_description": "İngilizce temel kaynak dildir; herhangi bir dil aynı hikâye kimliği altında kaynak veya çeviri katmanı olabilir."
+  "language_policy_description": "İngilizce temel kaynak dildir; herhangi bir dil aynı hikâye kimliği altında kaynak veya çeviri katmanı olabilir.",
+  "human_short": "İnsan",
+  "light_short": "Aydınlık",
+  "dark_short": "Karanlık",
+  "triangle_state_space": "HCU üçgensel durum uzayı"
 }

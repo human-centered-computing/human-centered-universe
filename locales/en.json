@@ -60,5 +60,9 @@
   "explore_triangle_intro": "HUMAN + LIGHT + DARK = 100. Every node occupies a position in the same triangular state space.",
   "story_builder_description": "Create a multilingual story package, calculate HUMAN/LIGHT/DARK position from 30 criteria, generate localized observer choices, and export GitHub-ready files.",
   "git_narrative_description": "Git is part of the narrative architecture: commit creates reality; connection transforms meaning.",
-  "language_policy_description": "English is the canonical source; any language can be a source or translation layer under the same story ID."
+  "language_policy_description": "English is the canonical source; any language can be a source or translation layer under the same story ID.",
+  "human_short": "Human",
+  "light_short": "Light",
+  "dark_short": "Dark",
+  "triangle_state_space": "HCU triangular state space"
 }
