@@ -1,0 +1,63 @@
+/* HCU real-world field photography layer. Kept separate from canon text styles. */
+.story-media-figure {
+  margin: 32px 0 36px;
+  padding: 0;
+}
+
+.story-media-link {
+  display: block;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: var(--panel-2);
+  text-decoration: none;
+}
+
+.story-media-link img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 720px;
+  object-fit: contain;
+  background: #080a0e;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.story-media-link:hover img {
+  transform: scale(1.006);
+  opacity: .98;
+}
+
+.story-media-figure figcaption {
+  display: grid;
+  gap: 7px;
+  padding: 11px 4px 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.story-media-label {
+  width: fit-content;
+  border: 1px solid rgba(159,176,201,.45);
+  border-radius: 999px;
+  padding: 3px 8px;
+  color: var(--bridge);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .08em;
+}
+
+.story-media-caption {
+  max-width: 72ch;
+}
+
+@media (max-width: 680px) {
+  .story-media-figure {
+    margin: 26px 0 30px;
+  }
+
+  .story-media-link {
+    border-radius: 12px;
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "collection": "gobekli-tepe-field-photos",
+  "source": "Original field photographs supplied by the project creator",
+  "notes": "These are real-world reference photographs. Their placement does not turn fictional narrative claims into archaeological evidence.",
+  "photos": {
+    "GT-01": {
+      "filename": "gobekli-tepe-01-hill-landscape.webp",
+      "original": "IMG_9188.HEIC",
+      "alt": {
+        "tr": "Göbekli Tepe çevresindeki kuru tepelerin ve ufkun geniş görünümü",
+        "en": "Wide view of the dry hills and horizon around Göbekli Tepe"
+      }
+    },
+    "GT-02": {
+      "filename": "gobekli-tepe-02-t-pillars-ensemble.webp",
+      "original": "IMG_9197.HEIC",
+      "alt": {
+        "tr": "Kazı alanında bir arada görülen T biçimli dikilitaşlar",
+        "en": "Group of T-shaped pillars visible in the excavation area"
+      }
+    },
+    "GT-03": {
+      "filename": "gobekli-tepe-03-central-pillars.webp",
+      "original": "IMG_9201.HEIC",
+      "alt": {
+        "tr": "Destek elemanlarıyla birlikte görülen büyük merkez dikilitaşları",
+        "en": "Large central pillars visible with modern support structures"
+      }
+    },
+    "GT-04": {
+      "filename": "gobekli-tepe-04-enclosure-overview.webp",
+      "original": "IMG_9203.HEIC",
+      "alt": {
+        "tr": "Göbekli Tepe kazı alanındaki taş duvar ve dikilitaşların geniş görünümü",
+        "en": "Wide view of stone walls and pillars in the Göbekli Tepe excavation area"
+      }
+    },
+    "GT-05": {
+      "filename": "gobekli-tepe-05-enclosure-wide.webp",
+      "original": "IMG_9218.HEIC",
+      "alt": {
+        "tr": "Dairesel taş düzenleri ve dikilitaşların yüksek açıdan geniş görünümü",
+        "en": "High-angle wide view of circular stone arrangements and pillars"
+      }
+    },
+    "GT-06": {
+      "filename": "gobekli-tepe-06-pillars-and-stone-layers.webp",
+      "original": "IMG_9221.HEIC",
+      "alt": {
+        "tr": "Dikilitaşlar, duvarlar ve taş katmanlarının yüksek açıdan görünümü",
+        "en": "High-angle view of pillars, walls, and stone layers"
+      }
+    },
+    "GT-07": {
+      "filename": "gobekli-tepe-07-central-enclosure-from-above.webp",
+      "original": "IMG_9224.HEIC",
+      "alt": {
+        "tr": "Merkezdeki dikilitaşların ve çevresindeki taş düzeninin yukarıdan görünümü",
+        "en": "Overhead view of central pillars and the surrounding stone arrangement"
+      }
+    },
+    "GT-08": {
+      "filename": "gobekli-tepe-08-stone-network-overview.webp",
+      "original": "IMG_9226.HEIC",
+      "alt": {
+        "tr": "Birbirine bağlanan taş duvarların ve dikilitaşların geniş üst görünümü",
+        "en": "Wide overhead view of interconnected stone walls and pillars"
+      }
+    },
+    "GT-09": {
+      "filename": "gobekli-tepe-09-outer-excavation-landscape.webp",
+      "original": "IMG_9228.HEIC",
+      "alt": {
+        "tr": "Kazı alanının dış kesiminde araziye yayılan düzenli taş izleri",
+        "en": "Regular stone traces extending across the outer excavation landscape"
+      }
+    },
+    "GT-10": {
+      "filename": "gobekli-tepe-10-protective-canopy.webp",
+      "original": "IMG_9234.HEIC",
+      "alt": {
+        "tr": "Göbekli Tepe kazı alanını örten modern koruyucu çatının dış görünümü",
+        "en": "Exterior view of the modern protective canopy over the Göbekli Tepe excavation"
+      }
+    }
+  },
+  "placements": {
+    "BRG-0003": {
+      "tr": [
+        {
+          "photo": "GT-01",
+          "after_text": "Ertesi sabah Göbekli Tepe'ye giden küçük bir gruba katıldı.",
+          "label": "GERÇEK SAHA FOTOĞRAFI",
+          "caption": "Göbekli Tepe / Riha çevresine gerçek saha bakışı. Fotoğraf, Maran'ın anlatısına gerçek bir coğrafi eşik oluşturur."
+        },
+        {
+          "photo": "GT-02",
+          "after_text": "T biçimli taşların arasında dolaşırken ilk olarak hayvan kabartmalarına baktı.",
+          "label": "GERÇEK SAHA FOTOĞRAFI",
+          "caption": "Kazı alanındaki T biçimli dikilitaşlar. Görsel gerçek alana aittir; metindeki algı ve olay örgüsü anlatı katmanıdır."
+        },
+        {
+          "photo": "GT-07",
+          "after_text": "Saat 17.25'te ziyaret alanındaki sesler bir anlığına uzaklaştı.",
+          "label": "GERÇEK SAHA FOTOĞRAFI",
+          "caption": "Merkez düzeninin yukarıdan görünümü. Fotoğrafta doğaüstü bir olay iddiası yoktur; 17.25 sahnesi kurgudur."
+        }
+      ],
+      "en": [
+        {
+          "photo": "GT-01",
+          "after_text": "The next morning he joined a small group heading to Göbekli Tepe.",
+          "label": "REAL FIELD PHOTOGRAPH",
+          "caption": "A real field view around Göbekli Tepe / Riha. The photograph anchors Maran's narrative in a real geographical threshold."
+        },
+        {
+          "photo": "GT-02",
+          "after_text": "As he walked among the T-shaped stones, he first looked at the animal reliefs.",
+          "label": "REAL FIELD PHOTOGRAPH",
+          "caption": "T-shaped pillars in the excavation area. The image belongs to the real site; Maran's perception and the events are narrative layers."
+        },
+        {
+          "photo": "GT-07",
+          "after_text": "At 17:25, the sounds of the site suddenly seemed to move away.",
+          "label": "REAL FIELD PHOTOGRAPH",
+          "caption": "Overhead view of the central arrangement. The photograph makes no supernatural claim; the 17:25 event is fictional."
+        }
+      ]
+    },
+    "BRG-0001": {
+      "tr": [
+        {
+          "photo": "GT-09",
+          "after_text": "Kazı ekibi, yeraltındaki boşluğa fiziksel bir giriş bulamayınca Maran toprağı daha fazla açmadan önce yüzeyi yeniden okumayı önerdi.",
+          "label": "GERÇEK SAHA REFERANSI",
+          "caption": "Gerçek arazi görünümü. Bu bölümdeki düşük ışık drone görevi, yedi bölge ve yeraltı ağ çözümlemesi bilimkurgu anlatısına aittir."
+        },
+        {
+          "photo": "GT-04",
+          "after_text": "Bu cevap kazının yönünü değiştirdi.",
+          "label": "GERÇEK SAHA REFERANSI",
+          "caption": "Göbekli Tepe'deki görünür taş düzenlerinden biri. Fotoğraf, bölümde anlatılan kurgusal yeni keşiflerin kanıtı değildir."
+        },
+        {
+          "photo": "GT-06",
+          "after_text": "Priya, plan çizimlerinin yeterli olmadığını söyledi.",
+          "label": "GERÇEK SAHA REFERANSI",
+          "caption": "Taş yüzeyleri, duvarlar ve dikilitaşların katmanlı görünümü; üç boyutlu düşünme fikrine görsel referans sağlar."
+        },
+        {
+          "photo": "GT-08",
+          "after_text": "Maran üç boyutlu modeli açtığında önce milyonlarca yüzey, taş sınırı ve boşluktan başka bir şey görmedi.",
+          "label": "GERÇEK SAHA REFERANSI",
+          "caption": "Üstten bakıldığında ilişkisel bir ağ hissi veren gerçek kazı görünümü. 'Taş Ağ' modeli anlatısal ve matematiksel bir yorumdur."
+        },
+        {
+          "photo": "GT-05",
+          "after_text": "Maran düğümlerin merkezilik ölçülerini hesapladı.",
+          "label": "GERÇEK SAHA REFERANSI",
+          "caption": "Dairesel düzenlerin geniş görünümü. Bölümdeki 'değişen merkez' ve 'eksik düğüm' sonuçları kurguya aittir."
+        }
+      ],
+      "en": [
+        {
+          "photo": "GT-09",
+          "after_text": "When the excavation team failed to find a physical entrance to the underground void, Maran proposed reading the surface again before opening more earth.",
+          "label": "REAL FIELD REFERENCE",
+          "caption": "A real view of the terrain. The low-light drone mission, seven regions, and underground-network analysis in this chapter belong to the science-fiction narrative."
+        },
+        {
+          "photo": "GT-04",
+          "after_text": "That answer changed the direction of the excavation.",
+          "label": "REAL FIELD REFERENCE",
+          "caption": "One visible stone arrangement at Göbekli Tepe. The photograph is not evidence for the fictional new discoveries described in the chapter."
+        },
+        {
+          "photo": "GT-06",
+          "after_text": "Priya argued that floor plans were no longer sufficient.",
+          "label": "REAL FIELD REFERENCE",
+          "caption": "Layered view of stone surfaces, walls, and pillars, used as a visual reference for thinking in three dimensions."
+        },
+        {
+          "photo": "GT-08",
+          "after_text": "When Maran opened the three-dimensional model, at first he saw nothing but millions of surfaces, stone boundaries, and voids.",
+          "label": "REAL FIELD REFERENCE",
+          "caption": "A real excavation view that can evoke a relational network from above. The 'Stone Network' model is a narrative and mathematical interpretation."
+        },
+        {
+          "photo": "GT-05",
+          "after_text": "Maran calculated several forms of graph centrality.",
+          "label": "REAL FIELD REFERENCE",
+          "caption": "Wide view of circular arrangements. The chapter's 'moving center' and 'missing node' results are fictional."
+        }
+      ]
+    }
+  }
+}
