@@ -1,0 +1,85 @@
+name: Generate Multilingual Narration
+
+on:
+  workflow_dispatch:
+    inputs:
+      language:
+        description: "Language code (tr, en, de, fr, es, it) or all"
+        required: true
+        default: "all"
+      story_id:
+        description: "Story ID (e.g. BRG-0002) or all"
+        required: true
+        default: "all"
+  push:
+    branches:
+      - main
+    paths:
+      - "stories/**/content/*.md"
+      - "config/tts-voices.json"
+      - "scripts/generate_multilingual_narration.py"
+      - ".github/workflows/generate-multilingual-narration.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hcu-multilingual-narration-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install system audio tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Piper TTS
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install "piper-tts>=1.5,<2"
+
+      - name: Cache voice models
+        uses: actions/cache@v4
+        with:
+          path: .cache/piper
+          key: hcu-piper-${{ hashFiles('config/tts-voices.json') }}
+          restore-keys: |
+            hcu-piper-
+
+      - name: Generate narration
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python scripts/generate_multilingual_narration.py \
+              --language "${{ inputs.language }}" \
+              --story "${{ inputs.story_id }}"
+          else
+            python scripts/generate_multilingual_narration.py \
+              --changed-from "${{ github.event.before }}"
+          fi
+
+      - name: Commit generated audio
+        run: |
+          git config user.name "HCU Narration Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add web/assets/audio
+          if git diff --cached --quiet; then
+            echo "No narration changes."
+          else
+            git commit -m "Generate multilingual narration audio [skip ci]"
+            git push
+          fi
