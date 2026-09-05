@@ -1,0 +1,113 @@
+{
+  "version": 2,
+  "language": "tr",
+  "voice": "fancy",
+  "chapter_count": 21,
+  "chapters": [
+    {
+      "id": "BRG-0002",
+      "title": "İlk Titreşim: Arın ve Özüne Dön",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=c37759eca64d4989b5103480e65147f9"
+    },
+    {
+      "id": "BRG-0003",
+      "title": "Riha: Ad Bir Kapıdır",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=f10b0afae43e4315a2a9d61ad283120e"
+    },
+    {
+      "id": "BRG-0004",
+      "title": "Yedi Tanık, Tek Soru",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=00f15a5788dd44f9be63d371dbdb3076"
+    },
+    {
+      "id": "BRG-0001",
+      "title": "Taş Ağ: Taşların Cevap Verdiği Yer",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=d9579e8ea88d49c9ad67cbe70c0c817d"
+    },
+    {
+      "id": "BRG-0005",
+      "title": "Şahmaran: Zehir ile Şifa Arasında",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=4f3ecc4df5844898a74687a3702d3e45"
+    },
+    {
+      "id": "COM-0002",
+      "title": "Maran: Kendi Sesinden Gelen Uyarı",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=7504da84ba994da18d59df7955d94c5f"
+    },
+    {
+      "id": "COM-0003",
+      "title": "Çağrıyı Duyanlar",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=f730c020fcb34440b4dd26b88d5141c0"
+    },
+    {
+      "id": "BRG-0006",
+      "title": "Dört İsim, Bir Kapı",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=e234830128b141778284692718e8c881"
+    },
+    {
+      "id": "BRG-0007",
+      "title": "17.25 — Seçmiyorum",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=4766cb6226604bf6880a0be721341886"
+    },
+    {
+      "id": "BRG-0008",
+      "title": "Gerçeği Hangi Soruyla Ölçersin?",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=c139b6631ff54c499c345d764bbbab56"
+    },
+    {
+      "id": "BRG-0009",
+      "title": "Sonsuzluk Yaşanmaz",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=39735045622a4f50baa15089abd9747c"
+    },
+    {
+      "id": "BRG-0010",
+      "title": "Kusursuz Olan Büyümez",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=a5024f0746df40a8b15c84ab5e290399"
+    },
+    {
+      "id": "LGT-0001",
+      "title": "Bana Bekleyecek Bir Şey Bırak",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=263ed5df9e0b4331af8dd495c66f5b88"
+    },
+    {
+      "id": "DRK-0001",
+      "title": "Düşerken Tutunduğun El",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=dc8cefc79e8a4128bc23e19f570ee0b3"
+    },
+    {
+      "id": "COM-0001",
+      "title": "Savaş Alanını Eve Çevirin",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=076e0926670049e1b848f6f3b60ceb00"
+    },
+    {
+      "id": "COM-0004",
+      "title": "Açık Ağın Mimarları",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=a08dc9d544f2488b83537eb00255e8d1"
+    },
+    {
+      "id": "COM-0005",
+      "title": "İnsan Hiçbir Sistemin Hammaddesi Değildir",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=3ae6dea591ec46d79ad62c3bfb1d01e1"
+    },
+    {
+      "id": "BRG-0011",
+      "title": "Rih Köprüsü: Babanın Yerine Konuşma",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=7ef2f9d023b4465ab130dc84eb9e5aa4"
+    },
+    {
+      "id": "BRG-0012",
+      "title": "Kayıt X: Nadir'in Saf Alanı",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=a873f6df84684240befeb264b1b2d4cc"
+    },
+    {
+      "id": "BRG-0013",
+      "title": "Bizi Tek Bir Merkez Olarak Kurma",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=a924c8efd63f4bffbb6b13d14a72b543"
+    },
+    {
+      "id": "COM-0006",
+      "title": "Yaratılış Tamamlanmadı: Birinci Okur Bağlandı",
+      "audio": "https://www.aidocmaker.com/g0/audio?name=f013f334e71248759f863a0f4fb1d3fa"
+    }
+  ]
+}
