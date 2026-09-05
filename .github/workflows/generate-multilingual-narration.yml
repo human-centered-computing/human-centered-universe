@@ -80,6 +80,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No narration changes."
           else
-            git commit -m "Generate multilingual narration audio [skip ci]"
+            git commit -m "Generate multilingual narration audio"
             git push
           fi
