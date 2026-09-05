@@ -1,0 +1,800 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HCU Story Node Builder</title>
+<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+<style>
+:root{
+  --bg:#0b0d12;--panel:#141824;--panel2:#1b2130;--text:#edf1f7;--muted:#aeb8c8;
+  --line:#30394d;--human:#e6c87b;--light:#dce9ff;--dark:#a89aca;--danger:#ffb7b7;--ok:#bfe7c8;
+}
+*{box-sizing:border-box}
+body{margin:0;background:linear-gradient(180deg,#090b10,#111624);color:var(--text);font:15px/1.55 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+main{max-width:1200px;margin:auto;padding:28px 18px 64px}
+h1{font-size:clamp(30px,4vw,48px);line-height:1.05;margin:0 0 10px}
+h2{font-size:21px;margin:0 0 12px} h3{font-size:16px;margin:0 0 8px}
+p{margin:8px 0}
+.hero,.card{background:rgba(20,24,36,.92);border:1px solid var(--line);border-radius:18px;padding:18px;margin-bottom:18px}
+.hero{padding:26px;border-radius:22px}
+.kicker{letter-spacing:.13em;text-transform:uppercase;color:var(--muted);font-size:12px}
+.grid{display:grid;grid-template-columns:1.04fr .96fr;gap:18px}
+@media(max-width:900px){.grid{grid-template-columns:1fr}}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media(max-width:620px){.row{grid-template-columns:1fr}}
+label{display:block;font-weight:700;margin:12px 0 6px}
+input,textarea,select{width:100%;background:#0d111b;color:var(--text);border:1px solid var(--line);border-radius:10px;padding:11px 12px;font:inherit}
+textarea{min-height:130px;resize:vertical} #storyText{min-height:320px} #aiPrompt,#aiResult{min-height:300px}
+button{border:1px solid var(--line);border-radius:10px;padding:10px 14px;background:#20283a;color:var(--text);font-weight:700;cursor:pointer}
+button.primary{background:#edf1f7;color:#0b0d12;border-color:#edf1f7} button:disabled{opacity:.45;cursor:not-allowed}
+.actions{display:flex;flex-wrap:wrap;gap:9px;margin-top:14px}
+.muted{color:var(--muted)} .small{font-size:12px} .error{color:var(--danger)} .success{color:var(--ok)}
+.notice{border-left:3px solid var(--human);padding:10px 12px;background:#111722;border-radius:8px;margin:12px 0}
+.weights{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:12px 0}
+.weight{padding:14px;border:1px solid var(--line);border-radius:14px;text-align:center;background:#101522}
+.weight strong{display:block;font-size:30px}
+.weight.human strong{color:var(--human)} .weight.light strong{color:var(--light)} .weight.dark strong{color:var(--dark)}
+.criteria{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+@media(max-width:900px){.criteria{grid-template-columns:1fr}}
+.box{border:1px solid var(--line);padding:12px;border-radius:12px;background:#101522}
+table{width:100%;border-collapse:collapse;font-size:13px}
+td{padding:6px 0;border-bottom:1px dotted #293247;vertical-align:top}
+td:last-child{text-align:right;font-weight:800;padding-left:8px;white-space:nowrap}
+.choice{border:1px solid var(--line);border-radius:12px;padding:12px;margin:8px 0;background:#101522}
+.choice b{display:block;margin-bottom:5px}
+pre{white-space:pre-wrap;word-break:break-word;background:#0d111b;border:1px solid var(--line);padding:12px;border-radius:10px;max-height:380px;overflow:auto}
+svg{width:100%;height:auto;display:block} #triangleWrap{max-width:520px;margin:auto}
+.legend{font-size:12px;color:var(--muted);text-align:center}
+hr{border:0;border-top:1px solid var(--line);margin:18px 0}
+</style>
+</head>
+<body>
+<main>
+  <section class="hero">
+    <div class="kicker">Human-Centered Universe</div>
+    <h1>Story Node Builder</h1>
+    <p>Create a story node, classify it in the HUMAN / LIGHT / DARK state space, generate observer choices, and export a GitHub-ready package.</p>
+    <div class="notice">
+      <strong>Language policy:</strong> English is the canonical and default language. Additional languages are optional translation layers of the same story ID. The interface remains English.
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>How to use</h2>
+    <ol style="margin:0;padding-left:22px">
+      <li><strong>Select the source language</strong> of your story. If it is not listed, choose <strong>Other / custom language code</strong>.</li>
+      <li><strong>Paste the story</strong> into the Story Content field. You may also add a title, culture tags, belief context, and a related existing node.</li>
+      <li>Click <strong>Create AI Prompt</strong>, copy the generated prompt, and send it to an AI system that can return JSON.</li>
+      <li>Paste the AI JSON response into <strong>AI JSON Result</strong> and click <strong>Process and Validate</strong>. The builder will calculate HUMAN / LIGHT / DARK scores, place the story in the triangular state space, validate coverage, and generate observer choices.</li>
+      <li>When the analysis is valid, click <strong>Create GitHub ZIP</strong>. The package will include the canonical English story, optional translation layers, <code>meta.json</code>, and <code>analysis.json</code> in the correct story-node structure.</li>
+    </ol>
+    <div class="notice" style="margin-top:14px">
+      <strong>Important:</strong> English is always the canonical output language. The selected source language is preserved only as a translation layer when it is not English.
+    </div>
+  </section>
+
+  <div class="grid">
+    <section>
+      <div class="card">
+        <h2>1 · Story input</h2>
+        <div class="row">
+          <div>
+            <label for="sourceLang">Source language</label>
+            <select id="sourceLang">
+              <option value="en" selected>English — en</option>
+              <option value="tr">Turkish — tr</option>
+              <option value="de">German — de</option>
+              <option value="fr">French — fr</option>
+              <option value="es">Spanish — es</option>
+              <option value="it">Italian — it</option>
+              <option value="pt">Portuguese — pt</option>
+              <option value="nl">Dutch — nl</option>
+              <option value="pl">Polish — pl</option>
+              <option value="cs">Czech — cs</option>
+              <option value="sk">Slovak — sk</option>
+              <option value="sl">Slovenian — sl</option>
+              <option value="hu">Hungarian — hu</option>
+              <option value="ro">Romanian — ro</option>
+              <option value="bg">Bulgarian — bg</option>
+              <option value="el">Greek — el</option>
+              <option value="ru">Russian — ru</option>
+              <option value="uk">Ukrainian — uk</option>
+              <option value="sr">Serbian — sr</option>
+              <option value="hr">Croatian — hr</option>
+              <option value="bs">Bosnian — bs</option>
+              <option value="sq">Albanian — sq</option>
+              <option value="mk">Macedonian — mk</option>
+              <option value="sv">Swedish — sv</option>
+              <option value="no">Norwegian — no</option>
+              <option value="da">Danish — da</option>
+              <option value="fi">Finnish — fi</option>
+              <option value="is">Icelandic — is</option>
+              <option value="et">Estonian — et</option>
+              <option value="lv">Latvian — lv</option>
+              <option value="lt">Lithuanian — lt</option>
+              <option value="ga">Irish — ga</option>
+              <option value="cy">Welsh — cy</option>
+              <option value="ca">Catalan — ca</option>
+              <option value="eu">Basque — eu</option>
+              <option value="gl">Galician — gl</option>
+              <option value="ar">Arabic — ar</option>
+              <option value="fa">Persian — fa</option>
+              <option value="he">Hebrew — he</option>
+              <option value="ku">Kurdish — ku</option>
+              <option value="az">Azerbaijani — az</option>
+              <option value="hy">Armenian — hy</option>
+              <option value="ka">Georgian — ka</option>
+              <option value="ur">Urdu — ur</option>
+              <option value="hi">Hindi — hi</option>
+              <option value="bn">Bengali — bn</option>
+              <option value="pa">Punjabi — pa</option>
+              <option value="gu">Gujarati — gu</option>
+              <option value="mr">Marathi — mr</option>
+              <option value="ne">Nepali — ne</option>
+              <option value="si">Sinhala — si</option>
+              <option value="ta">Tamil — ta</option>
+              <option value="te">Telugu — te</option>
+              <option value="kn">Kannada — kn</option>
+              <option value="ml">Malayalam — ml</option>
+              <option value="zh">Chinese — zh</option>
+              <option value="ja">Japanese — ja</option>
+              <option value="ko">Korean — ko</option>
+              <option value="vi">Vietnamese — vi</option>
+              <option value="th">Thai — th</option>
+              <option value="id">Indonesian — id</option>
+              <option value="ms">Malay — ms</option>
+              <option value="tl">Filipino — tl</option>
+              <option value="my">Burmese — my</option>
+              <option value="km">Khmer — km</option>
+              <option value="lo">Lao — lo</option>
+              <option value="mn">Mongolian — mn</option>
+              <option value="sw">Swahili — sw</option>
+              <option value="am">Amharic — am</option>
+              <option value="so">Somali — so</option>
+              <option value="ha">Hausa — ha</option>
+              <option value="yo">Yoruba — yo</option>
+              <option value="ig">Igbo — ig</option>
+              <option value="zu">Zulu — zu</option>
+              <option value="af">Afrikaans — af</option>
+              <option value="xh">Xhosa — xh</option>
+              <option value="st">Southern Sotho — st</option>
+              <option value="rw">Kinyarwanda — rw</option>
+              <option value="mg">Malagasy — mg</option>
+              <option value="ht">Haitian Creole — ht</option>
+              <option value="eo">Esperanto — eo</option>
+              <option value="la">Latin — la</option>
+              <option value="other">Other / custom language code</option>
+            </select>
+            <input id="customSourceLang" style="display:none;margin-top:8px" placeholder="Enter language code, e.g. ceb, ps, uz">
+          </div>
+          <div>
+            <label for="storyId">Story ID (optional)</label>
+            <input id="storyId" placeholder="Auto-generated if empty">
+          </div>
+        </div>
+        <label for="titleEn">English title (optional)</label>
+        <input id="titleEn" placeholder="AI can generate it">
+        <label for="storyText">Story content</label>
+        <textarea id="storyText" placeholder="Paste the story here."></textarea>
+        <div class="row">
+          <div>
+            <label for="culture">Culture tags</label>
+            <input id="culture" value="transcultural" placeholder="comma-separated">
+          </div>
+          <div>
+            <label for="belief">Belief context</label>
+            <input id="belief" value="philosophical, science-fiction" placeholder="comma-separated">
+          </div>
+        </div>
+        <div class="row">
+          <div>
+            <label for="statusSelect">Story status</label>
+            <select id="statusSelect">
+              <option value="experimental" selected>experimental</option>
+              <option value="canon">canon</option>
+            </select>
+          </div>
+          <div>
+            <label for="linkTarget">Related existing node (optional)</label>
+            <input id="linkTarget" placeholder="BRG-0002">
+          </div>
+        </div>
+        <div class="actions">
+          <button class="primary" id="makePrompt">Create AI Prompt</button>
+          <button id="clearAll">Clear</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>2 · AI prompt</h2>
+        <p class="muted">Send this prompt to an AI system that can return JSON, then paste the JSON response into the next field.</p>
+        <textarea id="aiPrompt" readonly placeholder="Create the prompt after entering the story."></textarea>
+        <div class="actions"><button id="copyPrompt">Copy Prompt</button></div>
+      </div>
+
+      <div class="card">
+        <h2>3 · AI JSON result</h2>
+        <textarea id="aiResult" placeholder="Paste the AI JSON response here."></textarea>
+        <div class="actions">
+          <button class="primary" id="processAI">Process and Validate</button>
+          <button id="loadDemo">Load Example</button>
+        </div>
+        <p id="status" class="muted"></p>
+      </div>
+    </section>
+
+    <section>
+      <div class="card">
+        <h2>4 · Triangular state space</h2>
+        <div id="weights" class="weights">
+          <div class="weight human"><span>HUMAN</span><strong>—</strong></div>
+          <div class="weight light"><span>LIGHT</span><strong>—</strong></div>
+          <div class="weight dark"><span>DARK</span><strong>—</strong></div>
+        </div>
+        <div id="triangleWrap">
+          <svg viewBox="0 0 600 520" role="img" aria-label="HCU triangular state space">
+            <polygon points="300,40 70,440 530,440" fill="#111827" stroke="#46516a" stroke-width="3"/>
+            <line x1="300" y1="40" x2="300" y2="440" stroke="#293247" stroke-dasharray="6 8"/>
+            <line x1="70" y1="440" x2="415" y2="240" stroke="#293247" stroke-dasharray="6 8"/>
+            <line x1="530" y1="440" x2="185" y2="240" stroke="#293247" stroke-dasharray="6 8"/>
+            <text x="300" y="25" text-anchor="middle" fill="#e6c87b" font-size="21" font-weight="700">HUMAN CENTER</text>
+            <text x="64" y="474" text-anchor="start" fill="#dce9ff" font-size="20" font-weight="700">LIGHT CENTER</text>
+            <text x="536" y="474" text-anchor="end" fill="#a89aca" font-size="20" font-weight="700">DARK CENTER</text>
+            <circle id="storyPoint" cx="300" cy="306.7" r="11" fill="#fff" stroke="#0b0d12" stroke-width="4" opacity=".15"/>
+            <text id="storyPointLabel" x="300" y="286" text-anchor="middle" fill="#fff" font-size="14" opacity=".2">Story Node</text>
+          </svg>
+        </div>
+        <p class="legend">Top: HUMAN · bottom-left: LIGHT · bottom-right: DARK</p>
+      </div>
+
+      <div class="card">
+        <h2>30 classification criteria</h2>
+        <div id="criteria" class="criteria"></div>
+      </div>
+
+      <div class="card">
+        <h2>End-of-chapter choices</h2>
+        <div id="choices"><p class="muted">Choices appear here after the AI result is processed.</p></div>
+      </div>
+
+      <div class="card">
+        <h2>5 · GitHub package</h2>
+        <p id="packagePath" class="muted">The target folder appears here after a valid analysis.</p>
+        <div class="actions">
+          <button class="primary" id="downloadZip" disabled>Create GitHub ZIP</button>
+          <button id="downloadMeta" disabled>Download meta.json</button>
+        </div>
+        <hr>
+        <h3>Generated meta.json</h3>
+        <pre id="metaPreview">{}</pre>
+        <p class="small muted">Compatibility note: until the repository validator accepts HUMAN as a native core, HUMAN-primary nodes use legacy <code>core: "COMMON"</code> while the actual model is stored in <code>primary_center</code> and <code>center_weights</code>.</p>
+      </div>
+    </section>
+  </div>
+</main>
+
+<script>
+const CRITERIA = {
+  HUMAN: [
+    ["dignity_personhood","Dignity and personhood","People are treated as subjects rather than instruments; inherent human worth is materially relevant."],
+    ["agency_choice","Agency and choice","Will, autonomy, decision power, self-direction, and capacity to act."],
+    ["consent_boundaries","Consent, privacy, and boundaries","Voluntariness, permission, privacy, bodily or personal boundaries."],
+    ["relationship_care","Relationship, love, and care","Family, friendship, empathy, solidarity, attachment, caregiving, mutual support."],
+    ["justice_fairness","Justice, rights, and fairness","Rights, equality, discrimination, fair distribution, law, power, accountability."],
+    ["responsibility_repair","Responsibility and repair","Consequences, responsibility, restitution, forgiveness, reconciliation, repair."],
+    ["identity_belonging_culture","Identity, belonging, and culture","Selfhood, language, culture, community, belonging, recognition, tradition."],
+    ["emotion_experience","Emotion and lived experience","Fear, love, hope, grief, joy, shame, longing, pain, subjective experience."],
+    ["meaning_memory_mortality","Meaning, memory, and mortality","Meaning of life, memory, death, loss, legacy, existence, belief, spiritual questions."],
+    ["wellbeing_vulnerability","Wellbeing and vulnerability","Needs, health, flourishing, dependency, vulnerability, conditions for humane life."]
+  ],
+  LIGHT: [
+    ["order_structure","Order and structure","Systems, organization, architecture, hierarchy, processes, structural coherence."],
+    ["knowledge_evidence","Knowledge, truth, and evidence","Learning, research, scientific evidence, causality, explanation, truth-seeking."],
+    ["visibility_explainability","Visibility and explainability","Transparency, legibility, traceability, making complexity understandable."],
+    ["measurement_standardization","Measurement and standards","Measurement, comparison, classification, criteria, norms, protocols."],
+    ["safety_protection","Safety and protection","Harm prevention, defense, protection, safe environments, risk reduction."],
+    ["predictability_planning","Predictability and planning","Forecasting, preparedness, planning, reducing uncertainty."],
+    ["rules_institutions","Rules and institutions","Law, governance, procedure, authority, formal roles, institutional frameworks."],
+    ["coordination_efficiency","Coordination and efficiency","Resources, workflows, optimization, division of labor, system performance."],
+    ["continuity_preservation","Continuity and preservation","Resilience, maintenance, preservation, durability, continuity across time."],
+    ["verification_auditability","Verification and auditability","Testing, validation, auditability, reproducibility, reviewability."]
+  ],
+  DARK: [
+    ["uncertainty_unknown","Uncertainty and the unknown","Mystery, unanswered questions, indeterminacy, unknown territory, suspended certainty."],
+    ["freedom_alternative","Freedom and alternatives","Self-direction, alternatives beyond given options, possibility of being otherwise."],
+    ["creativity_invention","Creativity and invention","Imagination, new worlds, new technologies, art, novel ideas or forms."],
+    ["exploration_experiment","Exploration and experiment","Trial-and-error, exploration, experimentation, testing boundaries."],
+    ["dissent_resistance","Dissent and resistance","Questioning authority, norms, dominant knowledge, systems, or majority positions."],
+    ["rupture_disruption","Rupture and disruption","Breaks, discontinuity, radical departure, disruption of established order."],
+    ["transformation_change","Transformation and change","Metamorphosis, evolution, identity change, system change, social change."],
+    ["risk_volatility","Risk and volatility","Uncertain outcomes, danger exposure, instability, adventure, possibility of loss."],
+    ["plurality_forking","Plurality and forking","Multiple realities, alternative narratives, branching futures, divergent paths."],
+    ["emergence_surprise","Emergence and surprise","Unplanned outcomes, serendipity, spontaneous novelty, unexpected connections."]
+  ]
+};
+
+let processed = null;
+const $ = id => document.getElementById(id);
+const splitList = s => s.split(",").map(x=>x.trim()).filter(Boolean);
+
+function getSourceLanguage(){
+  const selected=$("sourceLang").value;
+  if(selected!=="other") return selected.toLowerCase();
+  const custom=$("customSourceLang").value.trim().toLowerCase();
+  if(!custom) throw new Error("Enter a custom source language code.");
+  if(!/^[a-z]{2,8}(?:-[a-z0-9]{2,8})*$/i.test(custom)) throw new Error("Use a valid language code, for example ceb, ps, uz, or pt-br.");
+  return custom;
+}
+
+function stripFences(s){ return s.trim().replace(/^```(?:json)?\s*/i,"").replace(/\s*```$/,"").trim(); }
+function safeJson(s){ return JSON.parse(stripFences(s)); }
+
+function normalize3(raw){
+  const h=Math.max(0,Number(raw.HUMAN||0)), l=Math.max(0,Number(raw.LIGHT||0)), d=Math.max(0,Number(raw.DARK||0));
+  const total=h+l+d;
+  if(!total) return {HUMAN:34,LIGHT:33,DARK:33};
+  const exact={HUMAN:h/total*100,LIGHT:l/total*100,DARK:d/total*100};
+  const floor={HUMAN:Math.floor(exact.HUMAN),LIGHT:Math.floor(exact.LIGHT),DARK:Math.floor(exact.DARK)};
+  let remain=100-(floor.HUMAN+floor.LIGHT+floor.DARK);
+  Object.keys(exact).sort((a,b)=>(exact[b]-floor[b])-(exact[a]-floor[a])).slice(0,remain).forEach(k=>floor[k]++);
+  return floor;
+}
+
+function computeWeights(analysis){
+  const raw={HUMAN:0,LIGHT:0,DARK:0};
+  for(const center of Object.keys(CRITERIA)){
+    const obj=analysis?.[center]||{};
+    for(const [key] of CRITERIA[center]){
+      const v=Number(obj[key]);
+      if(!Number.isFinite(v)||v<0||v>10) throw new Error(`${center}.${key} must be an integer from 0 to 10.`);
+      raw[center]+=v;
+    }
+  }
+  return {raw,weights:normalize3(raw)};
+}
+
+function dominant(weights){ return Object.keys(weights).sort((a,b)=>weights[b]-weights[a])[0]; }
+function compatibleCore(primary){ return primary==="HUMAN" ? "COMMON" : primary; }
+function prefixFor(primary){ return primary==="HUMAN" ? "HUM" : primary==="LIGHT" ? "LGT" : "DRK"; }
+function folderFor(primary){ return primary==="HUMAN" ? "human" : primary.toLowerCase(); }
+
+async function suggestId(primary){
+  if($("storyId").value.trim()) return $("storyId").value.trim().toUpperCase();
+  const prefix=prefixFor(primary);
+  let max=0;
+  try{
+    const res=await fetch("./data/universe.json",{cache:"no-store"});
+    if(res.ok){
+      const data=await res.json();
+      for(const s of data.stories||[]){
+        const m=String(s.id||"").match(new RegExp("^"+prefix+"-(\\d+)$"));
+        if(m) max=Math.max(max,Number(m[1]));
+      }
+    }
+  }catch(e){}
+  return `${prefix}-${String(max+1).padStart(4,"0")}`;
+}
+
+function makePrompt(){
+  const story=$("storyText").value.trim();
+  if(!story){ $("status").textContent="Enter the story content first."; $("status").className="error"; return; }
+  const source=getSourceLanguage();
+  const title=$("titleEn").value.trim();
+
+  const prompt=`You are the classification, coverage-audit, choice-generation, and canonicalization engine for Human-Centered Universe (HCU).
+
+SYSTEM LANGUAGE POLICY
+- English is the canonical and default language.
+- The interface and canonical metadata are English.
+- Additional languages are optional translation layers of the same story node.
+- A translation never creates a new story ID.
+- If the submitted source is not English, create a faithful canonical English translation in content_en.
+- Preserve the submitted non-English source inside translations using its language code.
+
+TASK
+Analyze the story using exactly 30 HCU criteria: 10 HUMAN, 10 LIGHT, and 10 DARK.
+Do not invent a fourth center.
+
+ONTOLOGY
+HUMAN CENTER: What does this mean for persons, lived experience, dignity, relationships, responsibility, identity, meaning, and wellbeing?
+LIGHT CENTER: How is reality understood, ordered, protected, coordinated, verified, standardized, or made predictable?
+DARK CENTER: What remains open, free, uncertain, creative, disruptive, transformable, plural, risky, or capable of becoming otherwise?
+
+IMPORTANT
+- These centers are NOT good/evil categories.
+- A story may score strongly in all three.
+- Score narrative relevance, not moral approval.
+
+SCORING
+Score every criterion with an INTEGER from 0 to 10:
+0 = absent
+1-2 = trace or incidental
+3-4 = secondary
+5-6 = meaningful
+7-8 = strong
+9 = central
+10 = defining or indispensable
+
+Each center therefore has a raw score from 0 to 100.
+Do NOT calculate the final percentages. The builder will normalize the three raw totals so HUMAN + LIGHT + DARK = 100.
+
+HUMAN CENTER
+1. dignity_personhood — dignity and personhood
+2. agency_choice — agency and choice
+3. consent_boundaries — consent, privacy, and boundaries
+4. relationship_care — relationship, love, and care
+5. justice_fairness — justice, rights, and fairness
+6. responsibility_repair — responsibility and repair
+7. identity_belonging_culture — identity, belonging, and culture
+8. emotion_experience — emotion and lived experience
+9. meaning_memory_mortality — meaning, memory, and mortality
+10. wellbeing_vulnerability — wellbeing and vulnerability
+
+LIGHT CENTER
+1. order_structure — order and structure
+2. knowledge_evidence — knowledge, truth, and evidence
+3. visibility_explainability — visibility and explainability
+4. measurement_standardization — measurement and standards
+5. safety_protection — safety and protection
+6. predictability_planning — predictability and planning
+7. rules_institutions — rules and institutions
+8. coordination_efficiency — coordination and efficiency
+9. continuity_preservation — continuity and preservation
+10. verification_auditability — verification and auditability
+
+DARK CENTER
+1. uncertainty_unknown — uncertainty and the unknown
+2. freedom_alternative — freedom and alternatives
+3. creativity_invention — creativity and invention
+4. exploration_experiment — exploration and experiment
+5. dissent_resistance — dissent and resistance
+6. rupture_disruption — rupture and disruption
+7. transformation_change — transformation and change
+8. risk_volatility — risk and volatility
+9. plurality_forking — plurality and forking
+10. emergence_surprise — emergence and surprise
+
+COVERAGE AUDIT
+After scoring, inspect the story again.
+If an important narrative force, value, conflict, subject, or mechanism is not reasonably represented by these 30 criteria:
+- coverage_complete = false
+- list it in unmapped_elements
+Otherwise:
+- coverage_complete = true
+- unmapped_elements = []
+Do not create a new center automatically.
+
+OBSERVER CHOICES
+Create 3 to 5 meaningful end-of-chapter choices.
+Each choice must contain:
+- key
+- label (English)
+- effects with HUMAN, LIGHT, DARK integers from 0 to 10
+Effects describe what the choice reveals about the observer.
+At least one effect must be greater than zero.
+
+CONTENT RULES
+Source language code: ${source}
+English title supplied: ${title || "(not supplied)"}
+- Preserve the submitted story faithfully.
+- Always produce canonical English in content_en.
+- English title and English summary are required.
+- If source language is not English, also return the submitted-language text in translations under its language code.
+- Additional translations may be included if explicitly available.
+- Do not invent additional story content.
+- Return JSON only. No Markdown fences.
+
+EXACT JSON SHAPE
+{
+  "schema": "hcu-story-analysis",
+  "canonical_language": "en",
+  "source_language": "${source}",
+  "title": "English title",
+  "summary": "English summary",
+  "content_en": "Canonical English story",
+  "translations": {
+    "language-code": "Translated or preserved story text"
+  },
+  "analysis": {
+    "HUMAN": {
+      "dignity_personhood": 0,
+      "agency_choice": 0,
+      "consent_boundaries": 0,
+      "relationship_care": 0,
+      "justice_fairness": 0,
+      "responsibility_repair": 0,
+      "identity_belonging_culture": 0,
+      "emotion_experience": 0,
+      "meaning_memory_mortality": 0,
+      "wellbeing_vulnerability": 0
+    },
+    "LIGHT": {
+      "order_structure": 0,
+      "knowledge_evidence": 0,
+      "visibility_explainability": 0,
+      "measurement_standardization": 0,
+      "safety_protection": 0,
+      "predictability_planning": 0,
+      "rules_institutions": 0,
+      "coordination_efficiency": 0,
+      "continuity_preservation": 0,
+      "verification_auditability": 0
+    },
+    "DARK": {
+      "uncertainty_unknown": 0,
+      "freedom_alternative": 0,
+      "creativity_invention": 0,
+      "exploration_experiment": 0,
+      "dissent_resistance": 0,
+      "rupture_disruption": 0,
+      "transformation_change": 0,
+      "risk_volatility": 0,
+      "plurality_forking": 0,
+      "emergence_surprise": 0
+    }
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  },
+  "classification_confidence": 0.0,
+  "choices": [
+    {
+      "key": "short_unique_key",
+      "label": "English choice label",
+      "effects": {"HUMAN": 0, "LIGHT": 0, "DARK": 0}
+    }
+  ]
+}
+
+STORY
+---BEGIN STORY---
+${story}
+---END STORY---`;
+
+  $("aiPrompt").value=prompt;
+  $("status").textContent="AI prompt created.";
+  $("status").className="success";
+}
+
+function validateResult(data){
+  if(data.schema!=="hcu-story-analysis") throw new Error('schema must be "hcu-story-analysis".');
+  if(data.canonical_language!=="en") throw new Error('canonical_language must be "en".');
+  for(const k of ["title","summary","content_en"]){
+    if(typeof data[k]!=="string"||!data[k].trim()) throw new Error(`${k} is required.`);
+  }
+  if(data.translations!=null && (typeof data.translations!=="object" || Array.isArray(data.translations))) throw new Error("translations must be an object.");
+  const confidence=Number(data.classification_confidence);
+  if(!Number.isFinite(confidence)||confidence<0||confidence>1) throw new Error("classification_confidence must be from 0 to 1.");
+  const audit=data.coverage_audit||{};
+  if(typeof audit.coverage_complete!=="boolean") throw new Error("coverage_audit.coverage_complete must be true or false.");
+  if(!Array.isArray(audit.unmapped_elements)) throw new Error("coverage_audit.unmapped_elements must be an array.");
+
+  const calc=computeWeights(data.analysis);
+  const choices=Array.isArray(data.choices)?data.choices:[];
+  if(choices.length<1) throw new Error("At least one end-of-chapter choice is required.");
+  const normalizedChoices=choices.map((c,i)=>{
+    if(!c.key||!c.label) throw new Error(`Choice ${i+1} is incomplete.`);
+    const e=c.effects||{};
+    for(const x of ["HUMAN","LIGHT","DARK"]){
+      const v=Number(e[x]);
+      if(!Number.isFinite(v)||v<0||v>10) throw new Error(`Choice ${i+1} ${x} effect must be from 0 to 10.`);
+    }
+    if(Number(e.HUMAN)+Number(e.LIGHT)+Number(e.DARK)<=0) throw new Error(`Choice ${i+1} effects cannot all be zero.`);
+    return {...c,weights:normalize3(e)};
+  });
+  return {...calc,confidence,normalizedChoices};
+}
+
+function escapeHtml(s=""){
+  return String(s).replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;");
+}
+
+function renderCriteria(data){
+  const wrap=$("criteria"); wrap.innerHTML="";
+  for(const center of ["HUMAN","LIGHT","DARK"]){
+    const div=document.createElement("div"); div.className="box";
+    let rows="";
+    for(const [key,label,desc] of CRITERIA[center]){
+      rows+=`<tr><td><strong>${escapeHtml(label)}</strong><div class="small muted">${escapeHtml(desc)}</div></td><td>${data.analysis[center][key]}/10</td></tr>`;
+    }
+    div.innerHTML=`<h3>${center} CENTER</h3><table>${rows}</table>`;
+    wrap.appendChild(div);
+  }
+}
+
+function renderTriangle(weights,id){
+  const H={x:300,y:40}, L={x:70,y:440}, D={x:530,y:440};
+  const x=(weights.HUMAN*H.x+weights.LIGHT*L.x+weights.DARK*D.x)/100;
+  const y=(weights.HUMAN*H.y+weights.LIGHT*L.y+weights.DARK*D.y)/100;
+  const p=$("storyPoint"), t=$("storyPointLabel");
+  p.setAttribute("cx",x); p.setAttribute("cy",y); p.setAttribute("opacity","1");
+  t.setAttribute("x",x); t.setAttribute("y",Math.max(18,y-20)); t.setAttribute("opacity","1"); t.textContent=id||"Story Node";
+}
+
+function renderWeights(weights){
+  const nodes=$("weights").querySelectorAll(".weight strong");
+  nodes[0].textContent=weights.HUMAN+"%";
+  nodes[1].textContent=weights.LIGHT+"%";
+  nodes[2].textContent=weights.DARK+"%";
+}
+
+function renderChoices(choices){
+  const wrap=$("choices");
+  wrap.innerHTML=choices.map(c=>`
+    <div class="choice">
+      <b>${escapeHtml(c.label)}</b>
+      <span class="small muted">Observer effect → HUMAN ${c.weights.HUMAN}% · LIGHT ${c.weights.LIGHT}% · DARK ${c.weights.DARK}%</span>
+    </div>`).join("");
+}
+
+function makeMeta(data,check,id){
+  const primary=dominant(check.weights);
+  const source=(data.source_language||getSourceLanguage()||"en").toLowerCase();
+  const translations={en:{status:"canonical"}};
+  for(const lang of Object.keys(data.translations||{})){
+    if(lang && lang!=="en" && typeof data.translations[lang]==="string" && data.translations[lang].trim()){
+      translations[lang]={status:lang===source ? "reviewed" : "community"};
+    }
+  }
+  const links=[];
+  const target=$("linkTarget").value.trim().toUpperCase();
+  if(target) links.push({target,type:"echo",note:"Related node selected during story-node creation."});
+
+  return {
+    id,
+    title:data.title,
+    core:compatibleCore(primary),
+    status:$("statusSelect").value,
+    source_language:"en",
+    canonical_language:"en",
+    culture:splitList($("culture").value),
+    belief_context:splitList($("belief").value),
+    summary:data.summary,
+    translations,
+    links,
+    primary_center:primary,
+    center_weights:check.weights,
+    center_raw_scores:check.raw,
+    classification:{
+      schema:"hcu-story-analysis",
+      confidence:Number(check.confidence.toFixed(3)),
+      method:"30 criteria; each center has ten 0-10 criteria, producing 0-100 raw scores; raw center totals are normalized so HUMAN+LIGHT+DARK=100"
+    },
+    coverage_audit:data.coverage_audit,
+    observer_choices:check.normalizedChoices.map(c=>({
+      key:c.key,
+      label:c.label,
+      effects:c.effects,
+      normalized_weights:c.weights
+    }))
+  };
+}
+
+async function processAI(){
+  try{
+    const data=safeJson($("aiResult").value);
+    const check=validateResult(data);
+    const primary=dominant(check.weights);
+    const id=await suggestId(primary);
+    const meta=makeMeta(data,check,id);
+    processed={data,check,primary,id,meta};
+
+    renderWeights(check.weights);
+    renderCriteria(data);
+    renderTriangle(check.weights,id);
+    renderChoices(check.normalizedChoices);
+    $("metaPreview").textContent=JSON.stringify(meta,null,2);
+    $("packagePath").textContent=`Target: stories/${folderFor(primary)}/${id}/`;
+    $("downloadZip").disabled=false;
+    $("downloadMeta").disabled=false;
+
+    const coverage=data.coverage_audit.coverage_complete
+      ? "Coverage audit complete."
+      : `Coverage warning: ${data.coverage_audit.unmapped_elements.join("; ")}`;
+    $("status").textContent=`Analysis valid. Primary center: ${primary}. HUMAN ${check.weights.HUMAN}% · LIGHT ${check.weights.LIGHT}% · DARK ${check.weights.DARK}%. ${coverage}`;
+    $("status").className=data.coverage_audit.coverage_complete?"success":"error";
+  }catch(err){
+    processed=null;
+    $("status").textContent="Error: "+err.message;
+    $("status").className="error";
+    $("downloadZip").disabled=true;
+    $("downloadMeta").disabled=true;
+  }
+}
+
+function downloadBlob(name,blob){
+  const a=document.createElement("a");
+  a.href=URL.createObjectURL(blob); a.download=name; a.click();
+  setTimeout(()=>URL.revokeObjectURL(a.href),1000);
+}
+
+async function downloadZip(){
+  if(!processed) return;
+  if(typeof JSZip==="undefined"){ alert("ZIP library could not be loaded."); return; }
+  const {data,primary,id,meta}=processed;
+  const zip=new JSZip();
+  const base=`stories/${folderFor(primary)}/${id}`;
+  zip.file(`${base}/meta.json`,JSON.stringify(meta,null,2));
+  zip.file(`${base}/content/en.md`,data.content_en.trim()+"\n");
+
+  for(const [lang,text] of Object.entries(data.translations||{})){
+    const code=String(lang).toLowerCase().trim();
+    if(!code || code==="en" || typeof text!=="string" || !text.trim()) continue;
+    zip.file(`${base}/content/${code}.md`,text.trim()+"\n");
+  }
+
+  zip.file(`${base}/analysis.json`,JSON.stringify({
+    schema:"hcu-story-analysis",
+    analysis:data.analysis,
+    center_raw_scores:processed.check.raw,
+    center_weights:processed.check.weights,
+    coverage_audit:data.coverage_audit,
+    classification_confidence:data.classification_confidence
+  },null,2));
+
+  const blob=await zip.generateAsync({type:"blob"});
+  downloadBlob(`${id}-github-upload.zip`,blob);
+}
+
+function downloadMeta(){
+  if(!processed) return;
+  downloadBlob("meta.json",new Blob([JSON.stringify(processed.meta,null,2)],{type:"application/json"}));
+}
+
+const demo={
+  schema:"hcu-story-analysis",
+  canonical_language:"en",
+  source_language:"en",
+  title:"Example Node",
+  summary:"A person confronts an uncertain system and must decide how to respond.",
+  content_en:"A person stands before a system whose rules are visible but whose consequences remain uncertain.",
+  translations:{},
+  analysis:{
+    HUMAN:{dignity_personhood:8,agency_choice:9,consent_boundaries:6,relationship_care:4,justice_fairness:7,responsibility_repair:6,identity_belonging_culture:3,emotion_experience:6,meaning_memory_mortality:4,wellbeing_vulnerability:5},
+    LIGHT:{order_structure:7,knowledge_evidence:5,visibility_explainability:6,measurement_standardization:4,safety_protection:5,predictability_planning:5,rules_institutions:7,coordination_efficiency:4,continuity_preservation:3,verification_auditability:5},
+    DARK:{uncertainty_unknown:9,freedom_alternative:9,creativity_invention:5,exploration_experiment:6,dissent_resistance:8,rupture_disruption:6,transformation_change:7,risk_volatility:6,plurality_forking:6,emergence_surprise:5}
+  },
+  coverage_audit:{coverage_complete:true,unmapped_elements:[]},
+  classification_confidence:.90,
+  choices:[
+    {key:"seek_clarity",label:"Try to understand the system first.",effects:{HUMAN:3,LIGHT:10,DARK:2}},
+    {key:"choose_unknown",label:"Explore the possibility outside the rules.",effects:{HUMAN:3,LIGHT:1,DARK:10}},
+    {key:"protect_agency",label:"Place human agency at the center.",effects:{HUMAN:10,LIGHT:3,DARK:3}}
+  ]
+};
+
+$("sourceLang").addEventListener("change",()=>{
+  const custom=$("sourceLang").value==="other";
+  $("customSourceLang").style.display=custom?"block":"none";
+  if(custom) $("customSourceLang").focus();
+});
+$("makePrompt").addEventListener("click",makePrompt);
+$("copyPrompt").addEventListener("click",async()=>{
+  if(!$("aiPrompt").value) return;
+  await navigator.clipboard.writeText($("aiPrompt").value);
+  $("status").textContent="Prompt copied.";
+  $("status").className="success";
+});
+$("processAI").addEventListener("click",processAI);
+$("loadDemo").addEventListener("click",()=>{
+  $("aiResult").value=JSON.stringify(demo,null,2);
+  if(!$("storyText").value){
+    $("storyText").value=demo.content_en;
+    $("titleEn").value=demo.title;
+    $("sourceLang").value="en"; $("customSourceLang").style.display="none"; $("customSourceLang").value="";
+  }
+});
+$("downloadZip").addEventListener("click",downloadZip);
+$("downloadMeta").addEventListener("click",downloadMeta);
+$("clearAll").addEventListener("click",()=>location.reload());
+
+(function renderEmptyCriteria(){
+  const empty={analysis:{HUMAN:{},LIGHT:{},DARK:{}}};
+  for(const c of Object.keys(CRITERIA)) for(const [k] of CRITERIA[c]) empty.analysis[c][k]="—";
+  renderCriteria(empty);
+})();
+</script>
+</body>
+</html>
