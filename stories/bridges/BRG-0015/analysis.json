@@ -1,0 +1,18 @@
+{
+  "schema": "hcu-story-analysis",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 65,
+    "LIGHT": 25,
+    "DARK": 10
+  },
+  "classification": {
+    "method": "curated original classification from the story's human-centered education, AI partnership, uncertainty and transformation themes",
+    "status": "reviewed-original",
+    "note": "The story is positioned primarily in HUMAN because human agency, responsibility, collaboration and development govern the use of knowledge and AI."
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}

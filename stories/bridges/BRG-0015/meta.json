@@ -1,0 +1,126 @@
+{
+  "id": "BRG-0015",
+  "title": "The School That Refused to Compete: Maran and the First Human-Centered Transformation School",
+  "original_title": "Yarışmayı Reddeden Okul: Maran ve İlk İnsan Merkezli Dönüşüm Okulu",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 17.5,
+  "culture": [
+    "transcultural",
+    "Germany",
+    "global education"
+  ],
+  "belief_context": [
+    "human-centered AI",
+    "education philosophy",
+    "science-fiction",
+    "pluralism"
+  ],
+  "summary": "After years of comparative education research, Maran turns a lifelong learning architecture—from play-based childhood learning to transformation-oriented doctoral work—into a human–AI partnership model. Its first fictional pilot opens in Germany, where success is measured not by replacing human judgment but by strengthening it.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0015/maran-human-centered-school.png",
+    "alt": {
+      "en": "A painterly future classroom in Germany where children collaborate around movable tables while a human mentor and an abstract AI light network support their work.",
+      "tr": "Almanya'daki geleceğin sınıfında çocukların hareketli masalarda birlikte çalıştığı, insan rehber ile soyut yapay zekâ ışık ağının öğrenmeyi desteklediği sanatsal sahne."
+    },
+    "caption": {
+      "en": "The First Transformation School",
+      "tr": "İlk Dönüşüm Okulu"
+    }
+  },
+  "links": [
+    {
+      "target": "COM-0002",
+      "type": "character",
+      "note": "Maran's inner transformation becomes an educational architecture that can be tested in the world."
+    },
+    {
+      "target": "COM-0004",
+      "type": "transformation",
+      "note": "The Open Architects Network becomes a social model for collaborative, distributed learning."
+    },
+    {
+      "target": "COM-0005",
+      "type": "theme",
+      "note": "The model refuses to treat learners as raw material optimized for a system."
+    },
+    {
+      "target": "BRG-0008",
+      "type": "echo",
+      "note": "Measurement remains necessary, but Maran refuses to confuse measurable indicators with the whole of human learning."
+    },
+    {
+      "target": "BRG-0002",
+      "type": "quantum_echo",
+      "note": "Light, Darkness and Human responsibility reappear as knowledge, uncertainty and ethical agency inside education."
+    }
+  ],
+  "observer_choices": [
+    {
+      "key": "protect_human_judgment",
+      "label": "Protect human judgment before accelerating learning.",
+      "labels": {
+        "en": "Protect human judgment before accelerating learning.",
+        "tr": "Öğrenmeyi hızlandırmadan önce insan yargısını koru."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 4,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "scale_with_evidence",
+      "label": "Scale the model through evidence and measurable outcomes.",
+      "labels": {
+        "en": "Scale the model through evidence and measurable outcomes.",
+        "tr": "Modeli kanıt ve ölçülebilir sonuçlarla büyüt."
+      },
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 10,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "keep_redesigning",
+      "label": "Keep the school open to uncertainty and continuous redesign.",
+      "labels": {
+        "en": "Keep the school open to uncertainty and continuous redesign.",
+        "tr": "Okulu belirsizliğe ve sürekli yeniden tasarıma açık tut."
+      },
+      "effects": {
+        "HUMAN": 5,
+        "LIGHT": 2,
+        "DARK": 10
+      }
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Yarışmayı Reddeden Okul: Maran ve İlk İnsan Merkezli Dönüşüm Okulu",
+      "summary": "Maran, yıllarca süren karşılaştırmalı eğitim araştırmalarını; oyun temelli çocukluk eğitiminden dönüşüm odaklı doktoraya uzanan insan–yapay zekâ ortaklığı modeline dönüştürür. Modelin ilk kurgu pilotu Almanya'da açılır ve başarı, insan yargısını yapay zekâya devretmek yerine güçlendirmek üzerinden ölçülür.",
+      "link_notes": {
+        "COM-0002": "Maran'ın içsel dönüşümü, dünyada sınanabilen bir eğitim mimarisine dönüşür.",
+        "COM-0004": "Açık Ağın Mimarları, işbirlikli ve dağıtık öğrenme için toplumsal bir modele dönüşür.",
+        "COM-0005": "Model, öğrencileri sistem için optimize edilen ham madde olarak görmeyi reddeder.",
+        "BRG-0008": "Ölçüm gereklidir; fakat Maran ölçülebilen göstergeleri insan öğrenmesinin bütünüyle karıştırmayı reddeder.",
+        "BRG-0002": "Aydınlık, Karanlık ve insan sorumluluğu; eğitimde bilgi, belirsizlik ve etik özne olarak yeniden belirir."
+      }
+    }
+  },
+  "inspiration": {
+    "source": "Küresel Eğitim Modeli — Çalışma Taslağı v0.2",
+    "type": "fictionalized research trajectory",
+    "note": "The German pilot described in this story is a fictional future-world event inside Human-Centered Universe, not a claim of real-world adoption."
+  }
+}
