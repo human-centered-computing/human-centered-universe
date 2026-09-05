@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "story_id": "BRG-0002",
+  "language": "tr",
+  "title": "İlk Titreşim: Arın ve Özüne Dön",
+  "mode": "narrator",
+  "voice": "fancy",
+  "audio_source": "https://www.aidocmaker.com/g0/audio?name=c37759eca64d4989b5103480e65147f9",
+  "local_target_when_downloaded": "./BRG-0002-narration.mp3",
+  "note": "v1 uses the generated hosted audio URL. If a local MP3 is later uploaded, change narrator.v1.js CONFIG audio to ./assets/audio/tr/BRG-0002/BRG-0002-narration.mp3"
+}
