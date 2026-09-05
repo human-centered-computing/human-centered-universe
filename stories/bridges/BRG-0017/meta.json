@@ -1,0 +1,139 @@
+{
+  "id": "BRG-0017",
+  "title": "The End of Meaningless Work: From the Zero Point of History to Informatics 5.0",
+  "original_title": "Anlamsız İşlerin Sonu: Tarihin Sıfır Noktasından Bilişim 5.0’a",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 17.7,
+  "culture": [
+    "transcultural",
+    "Sanliurfa",
+    "Anatolia",
+    "Mesopotamia",
+    "Türkiye"
+  ],
+  "belief_context": [
+    "human-centered transformation",
+    "Industry 5.0",
+    "meaningful work",
+    "open source",
+    "human-AI partnership",
+    "institutional learning",
+    "science-fiction"
+  ],
+  "summary": "Inspired by Industry 5.0 and Dostoevsky's reflections on meaningless labor, Maran designs a Java-based open-source Informatics 5.0 ecosystem in which technology serves human meaning, contribution is visible, failure becomes institutional learning, and reusable solutions move from local pilots in Sanliurfa toward a fictional future national Ministry of Informatics and Human-Centered Transformation.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0017/gelecegin-miras-atolyesi.png",
+    "alt": {
+      "en": "A human-centered open-source technology workshop in Sanliurfa, connecting AI, code, local problem-solving, Göbekli Tepe and a national network across Türkiye.",
+      "tr": "Şanlıurfa'da yapay zekâ, açık kaynak kod, yerel sorun çözme, Göbekli Tepe ve Türkiye çapındaki ağı bir araya getiren insan merkezli teknoloji atölyesi."
+    },
+    "caption": {
+      "en": "The Workshop of Future Inheritance",
+      "tr": "Geleceğin Miras Atölyesi"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0015",
+      "type": "transformation",
+      "note": "Maran carries the Human-Centered Transformation method from education into institutional work and national digital infrastructure."
+    },
+    {
+      "target": "BRG-0016",
+      "type": "transformation",
+      "note": "Politics 5.0 and Informatics 5.0 share the same local-first logic: listen, test, measure, learn, and scale without replacing human responsibility."
+    },
+    {
+      "target": "COM-0004",
+      "type": "theme",
+      "note": "The Open Architects Network becomes a practical open-source ecosystem in which contribution and reuse are visible."
+    },
+    {
+      "target": "COM-0005",
+      "type": "theme",
+      "note": "Meaningful work and visible contribution reject the treatment of human beings as raw material for institutions."
+    },
+    {
+      "target": "BRG-0008",
+      "type": "echo",
+      "note": "Measurement matters, but only when it answers the human-centered question: what did this improve for a person?"
+    }
+  ],
+  "observer_choices": [
+    {
+      "key": "protect_meaningful_work",
+      "label": "Protect meaningful work and make real contribution visible.",
+      "labels": {
+        "en": "Protect meaningful work and make real contribution visible.",
+        "tr": "Anlamlı işi koru ve gerçek katkıyı görünür kıl."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 4,
+        "DARK": 1
+      }
+    },
+    {
+      "key": "open_and_reuse",
+      "label": "Open reusable solutions so others do not start from zero.",
+      "labels": {
+        "en": "Open reusable solutions so others do not start from zero.",
+        "tr": "Başkaları sıfırdan başlamasın diye yeniden kullanılabilir çözümleri aç."
+      },
+      "effects": {
+        "HUMAN": 5,
+        "LIGHT": 10,
+        "DARK": 1
+      }
+    },
+    {
+      "key": "record_failure",
+      "label": "Keep failure visible and turn it into shared institutional learning.",
+      "labels": {
+        "en": "Keep failure visible and turn it into shared institutional learning.",
+        "tr": "Başarısızlığı görünür tut ve ortak kurumsal öğrenmeye dönüştür."
+      },
+      "effects": {
+        "HUMAN": 6,
+        "LIGHT": 3,
+        "DARK": 10
+      }
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Anlamsız İşlerin Sonu: Tarihin Sıfır Noktasından Bilişim 5.0’a",
+      "summary": "Maran, Endüstri 5.0 ve Dostoyevski'nin anlamsız emek üzerine düşüncelerinden hareketle Java tabanlı, açık kaynak Bilişim 5.0 ekosistemini geliştirir. Harran Üniversitesinde kurulan Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü; anlamlı iş, görünür katkı, başarısızlıktan öğrenme ve yerel sorunların açık kaynak çözümlere dönüştürülmesi ilkelerini Şanlıurfa'da sınar. Bu yerel deneyim, Human-Centered Universe'ün geleceğinde Türkiye ölçeğinde Bilişim ve İnsan Merkezli Dönüşüm Bakanlığının kuruluş çalışmalarına taşınır.",
+      "link_notes": {
+        "BRG-0015": "İnsan Merkezli Dönüşüm yaklaşımı eğitimden kurumsal çalışma ve ulusal bilişim altyapısına taşınır.",
+        "BRG-0016": "Siyaset 5.0 ile Bilişim 5.0 aynı yerel-önce mantığını paylaşır: dinle, dene, ölç, öğren ve insan sorumluluğunu koruyarak ölçekle.",
+        "COM-0004": "Açık Ağın Mimarları, katkı ve yeniden kullanımın görünür olduğu gerçek bir açık kaynak ekosistemine dönüşür.",
+        "COM-0005": "Anlamlı iş ve görünür katkı, insanın kurum için ham maddeye dönüştürülmesini reddeder.",
+        "BRG-0008": "Ölçüm, ancak 'Bu çalışma insan için neyi iyileştirdi?' sorusuna hizmet ettiğinde anlam kazanır."
+      }
+    }
+  },
+  "external_resources": [
+    {
+      "title": "Human-Centered Computing",
+      "url": "https://github.com/human-centered-computing",
+      "type": "open_source_network",
+      "note": "Global open-source collaboration layer referenced by the story."
+    }
+  ],
+  "inspiration": {
+    "source": "Harran Üniversitesi Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü Yönergesi V17 — çalışma taslağı",
+    "type": "fictionalized institutional trajectory",
+    "note": "The uploaded V17 document defines a scientific, technical and administrative Ministry Model proposal only; the actual ministry-establishment phase described in this story is a fictional future event inside Human-Centered Universe."
+  }
+}

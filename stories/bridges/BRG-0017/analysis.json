@@ -1,0 +1,18 @@
+{
+  "schema": "hcu-story-analysis",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 70,
+    "LIGHT": 25,
+    "DARK": 5
+  },
+  "classification": {
+    "method": "curated narrative classification based on meaningful work, visible contribution, open-source reuse, bounded AI support and local-to-national institutional learning",
+    "status": "reviewed-curation",
+    "note": "HUMAN dominates because dignity, agency, meaningful work and fair attribution govern the system. LIGHT represents open knowledge, software architecture, verification, standards and reuse. DARK remains a small but necessary space for failure, institutional resistance and redesign."
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}

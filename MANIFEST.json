@@ -5,9 +5,15 @@
   "canonical_language": "en",
   "default_interface_language": "en",
   "origin_node": "BRG-0002",
-  "centers": ["HUMAN", "LIGHT", "DARK"],
-  "live_nodes": 23,
-  "experimental_nodes": ["BRG-0003"],
+  "centers": [
+    "HUMAN",
+    "LIGHT",
+    "DARK"
+  ],
+  "live_nodes": 24,
+  "experimental_nodes": [
+    "BRG-0003"
+  ],
   "routing_model": "observer-dominant-center",
   "classification_model": "30-criterion triangular state space",
   "reader": "https://human-centered-computing.github.io/human-centered-universe/"

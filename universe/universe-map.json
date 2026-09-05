@@ -3,31 +3,280 @@
   "canonical_language": "en",
   "default_language": "en",
   "origin_node": "BRG-0002",
-  "centers": ["HUMAN", "LIGHT", "DARK"],
+  "centers": [
+    "HUMAN",
+    "LIGHT",
+    "DARK"
+  ],
   "temporal_model": "observer_relational",
   "routing_model": "dominant_center_unread",
   "nodes": [
-    {"observation_order":1,"id":"BRG-0002","title":"First Vibration: Purify Yourself and Return to Your Essence","primary_center":"HUMAN","center_weights":{"HUMAN":34,"LIGHT":33,"DARK":33}},
-    {"observation_order":2,"id":"BRG-0014","title":"Second Vibration: Eos — The First Dawn","primary_center":"HUMAN","center_weights":{"HUMAN":70,"LIGHT":10,"DARK":20}},
-    {"observation_order":3,"id":"BRG-0004","title":"Seven Witnesses, One Question","primary_center":"LIGHT","center_weights":{"HUMAN":35,"LIGHT":45,"DARK":20}},
-    {"observation_order":4,"id":"BRG-0001","title":"The Stone Network: Where the Stones Answer","primary_center":"LIGHT","center_weights":{"HUMAN":20,"LIGHT":50,"DARK":30}},
-    {"observation_order":5,"id":"BRG-0005","title":"Shahmaran: Between Poison and Healing","primary_center":"HUMAN","center_weights":{"HUMAN":50,"LIGHT":25,"DARK":25}},
-    {"observation_order":6,"id":"COM-0002","title":"Maran: A Warning in His Own Voice","primary_center":"HUMAN","center_weights":{"HUMAN":55,"LIGHT":15,"DARK":30}},
-    {"observation_order":7,"id":"COM-0003","title":"Those Who Heard the Call","primary_center":"HUMAN","center_weights":{"HUMAN":50,"LIGHT":40,"DARK":10}},
-    {"observation_order":8,"id":"BRG-0006","title":"Four Names, One Door","primary_center":"HUMAN","center_weights":{"HUMAN":65,"LIGHT":15,"DARK":20}},
-    {"observation_order":9,"id":"BRG-0007","title":"17:25 — I Refuse to Choose","primary_center":"DARK","center_weights":{"HUMAN":35,"LIGHT":10,"DARK":55}},
-    {"observation_order":10,"id":"BRG-0008","title":"What Question Do You Use to Measure Reality?","primary_center":"LIGHT","center_weights":{"HUMAN":20,"LIGHT":55,"DARK":25}},
-    {"observation_order":11,"id":"BRG-0009","title":"Infinity Cannot Be Lived","primary_center":"HUMAN","center_weights":{"HUMAN":45,"LIGHT":25,"DARK":30}},
-    {"observation_order":12,"id":"BRG-0010","title":"What Is Perfect Does Not Grow","primary_center":"DARK","center_weights":{"HUMAN":35,"LIGHT":20,"DARK":45}},
-    {"observation_order":13,"id":"LGT-0001","title":"Leave Me Something to Wait For","primary_center":"LIGHT","center_weights":{"HUMAN":25,"LIGHT":65,"DARK":10}},
-    {"observation_order":14,"id":"DRK-0001","title":"The Hand You Hold While Falling","primary_center":"DARK","center_weights":{"HUMAN":30,"LIGHT":5,"DARK":65}},
-    {"observation_order":15,"id":"COM-0001","title":"Turn the Battlefield into a Home","primary_center":"HUMAN","center_weights":{"HUMAN":60,"LIGHT":20,"DARK":20}},
-    {"observation_order":16,"id":"COM-0004","title":"Architects of the Open Network","primary_center":"HUMAN","center_weights":{"HUMAN":45,"LIGHT":40,"DARK":15}},
-    {"observation_order":17,"id":"COM-0005","title":"Human Beings Are Not Raw Material","primary_center":"HUMAN","center_weights":{"HUMAN":75,"LIGHT":20,"DARK":5}},
-    {"observation_order":18,"id":"BRG-0011","title":"The Rih Bridge: Do Not Speak in the Father's Place","primary_center":"HUMAN","center_weights":{"HUMAN":70,"LIGHT":20,"DARK":10}},
-    {"observation_order":19,"id":"BRG-0012","title":"Record X: Nadir's Pure Field","primary_center":"DARK","center_weights":{"HUMAN":20,"LIGHT":35,"DARK":45}},
-    {"observation_order":20,"id":"BRG-0013","title":"Do Not Build Us as One Center","primary_center":"HUMAN","center_weights":{"HUMAN":55,"LIGHT":15,"DARK":30}},
-    {"observation_order":21,"id":"COM-0006","title":"Creation Is Unfinished: First Reader Connected","primary_center":"HUMAN","center_weights":{"HUMAN":50,"LIGHT":10,"DARK":40}}
+    {
+      "observation_order": 1,
+      "id": "BRG-0002",
+      "title": "First Vibration: Purify Yourself and Return to Your Essence",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 2,
+      "id": "BRG-0014",
+      "title": "Second Vibration: Eos — The First Dawn",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 70,
+        "LIGHT": 10,
+        "DARK": 20
+      }
+    },
+    {
+      "observation_order": 3,
+      "id": "BRG-0004",
+      "title": "Seven Witnesses, One Question",
+      "primary_center": "LIGHT",
+      "center_weights": {
+        "HUMAN": 35,
+        "LIGHT": 45,
+        "DARK": 20
+      }
+    },
+    {
+      "observation_order": 4,
+      "id": "BRG-0001",
+      "title": "The Stone Network: Where the Stones Answer",
+      "primary_center": "LIGHT",
+      "center_weights": {
+        "HUMAN": 20,
+        "LIGHT": 50,
+        "DARK": 30
+      }
+    },
+    {
+      "observation_order": 5,
+      "id": "BRG-0005",
+      "title": "Shahmaran: Between Poison and Healing",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 50,
+        "LIGHT": 25,
+        "DARK": 25
+      }
+    },
+    {
+      "observation_order": 6,
+      "id": "COM-0002",
+      "title": "Maran: A Warning in His Own Voice",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 55,
+        "LIGHT": 15,
+        "DARK": 30
+      }
+    },
+    {
+      "observation_order": 7,
+      "id": "COM-0003",
+      "title": "Those Who Heard the Call",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 50,
+        "LIGHT": 40,
+        "DARK": 10
+      }
+    },
+    {
+      "observation_order": 8,
+      "id": "BRG-0006",
+      "title": "Four Names, One Door",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 65,
+        "LIGHT": 15,
+        "DARK": 20
+      }
+    },
+    {
+      "observation_order": 9,
+      "id": "BRG-0007",
+      "title": "17:25 — I Refuse to Choose",
+      "primary_center": "DARK",
+      "center_weights": {
+        "HUMAN": 35,
+        "LIGHT": 10,
+        "DARK": 55
+      }
+    },
+    {
+      "observation_order": 10,
+      "id": "BRG-0008",
+      "title": "What Question Do You Use to Measure Reality?",
+      "primary_center": "LIGHT",
+      "center_weights": {
+        "HUMAN": 20,
+        "LIGHT": 55,
+        "DARK": 25
+      }
+    },
+    {
+      "observation_order": 11,
+      "id": "BRG-0009",
+      "title": "Infinity Cannot Be Lived",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 45,
+        "LIGHT": 25,
+        "DARK": 30
+      }
+    },
+    {
+      "observation_order": 12,
+      "id": "BRG-0010",
+      "title": "What Is Perfect Does Not Grow",
+      "primary_center": "DARK",
+      "center_weights": {
+        "HUMAN": 35,
+        "LIGHT": 20,
+        "DARK": 45
+      }
+    },
+    {
+      "observation_order": 13,
+      "id": "LGT-0001",
+      "title": "Leave Me Something to Wait For",
+      "primary_center": "LIGHT",
+      "center_weights": {
+        "HUMAN": 25,
+        "LIGHT": 65,
+        "DARK": 10
+      }
+    },
+    {
+      "observation_order": 14,
+      "id": "DRK-0001",
+      "title": "The Hand You Hold While Falling",
+      "primary_center": "DARK",
+      "center_weights": {
+        "HUMAN": 30,
+        "LIGHT": 5,
+        "DARK": 65
+      }
+    },
+    {
+      "observation_order": 15,
+      "id": "COM-0001",
+      "title": "Turn the Battlefield into a Home",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 60,
+        "LIGHT": 20,
+        "DARK": 20
+      }
+    },
+    {
+      "observation_order": 16,
+      "id": "COM-0004",
+      "title": "Architects of the Open Network",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 45,
+        "LIGHT": 40,
+        "DARK": 15
+      }
+    },
+    {
+      "observation_order": 17,
+      "id": "COM-0005",
+      "title": "Human Beings Are Not Raw Material",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 75,
+        "LIGHT": 20,
+        "DARK": 5
+      }
+    },
+    {
+      "observation_order": 18,
+      "id": "BRG-0011",
+      "title": "The Rih Bridge: Do Not Speak in the Father's Place",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 70,
+        "LIGHT": 20,
+        "DARK": 10
+      }
+    },
+    {
+      "observation_order": 19,
+      "id": "BRG-0012",
+      "title": "Record X: Nadir's Pure Field",
+      "primary_center": "DARK",
+      "center_weights": {
+        "HUMAN": 20,
+        "LIGHT": 35,
+        "DARK": 45
+      }
+    },
+    {
+      "observation_order": 20,
+      "id": "BRG-0013",
+      "title": "Do Not Build Us as One Center",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 55,
+        "LIGHT": 15,
+        "DARK": 30
+      }
+    },
+    {
+      "observation_order": 21,
+      "id": "COM-0006",
+      "title": "Creation Is Unfinished: First Reader Connected",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 50,
+        "LIGHT": 10,
+        "DARK": 40
+      }
+    },
+    {
+      "observation_order": 22,
+      "id": "BRG-0015",
+      "title": "The School That Refused to Compete: Maran and the First Human-Centered Transformation School",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 65,
+        "LIGHT": 25,
+        "DARK": 10
+      }
+    },
+    {
+      "observation_order": 23,
+      "id": "BRG-0016",
+      "title": "Politics 5.0: From Berlin to the Zero Point of History",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 65,
+        "LIGHT": 30,
+        "DARK": 5
+      }
+    },
+    {
+      "observation_order": 24,
+      "id": "BRG-0017",
+      "title": "The End of Meaningless Work: From the Zero Point of History to Informatics 5.0",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 70,
+        "LIGHT": 25,
+        "DARK": 5
+      }
+    }
   ],
-  "experimental_nodes": ["BRG-0003"]
+  "experimental_nodes": [
+    "BRG-0003"
+  ]
 }
