@@ -56,6 +56,9 @@ function markdownToHtml(md = "") {
     if (line.startsWith("> ")) {
       flush(); out.push(`<blockquote>${inlineMarkdown(line.slice(2))}</blockquote>`); continue;
     }
+    if (line.trim() === "---") {
+      flush(); out.push("<hr>"); continue;
+    }
     para.push(line.trim());
   }
   flush();
@@ -86,6 +89,25 @@ function storySummary(story) {
   return story?.localized?.[state.locale]?.summary
     || story?.summary
     || "";
+}
+
+function storyHero(story) {
+  const hero = story?.hero_image;
+  if (!hero?.src) return "";
+
+  const alt = hero.alt?.[state.locale]
+    || hero.alt?.en
+    || storyTitle(story);
+  const caption = hero.caption?.[state.locale]
+    || hero.caption?.en
+    || "";
+
+  return `
+    <figure class="story-hero">
+      <img src="${escapeHtml(hero.src)}" alt="${escapeHtml(alt)}" loading="eager">
+      ${caption ? `<figcaption>${escapeHtml(caption)}</figcaption>` : ""}
+    </figure>
+  `;
 }
 
 function linkNote(sourceStory, link) {
@@ -255,6 +277,8 @@ function renderRead() {
           <span>·</span>
           <span>${translationStatus(story, requestedContent ? state.locale : "en")}</span>
         </div>
+
+        ${storyHero(story)}
 
         <div class="story-content">${markdownToHtml(content)}</div>
 

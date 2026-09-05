@@ -152,6 +152,12 @@ button, a { -webkit-tap-highlight-color: transparent; }
   color: var(--focus);
   background: rgba(255,255,255,.025);
 }
+.story-content hr {
+  width: min(160px, 42%);
+  margin: 46px auto;
+  border: 0;
+  border-top: 1px solid var(--line);
+}
 .story-kicker {
   display: flex;
   flex-wrap: wrap;
@@ -159,6 +165,25 @@ button, a { -webkit-tap-highlight-color: transparent; }
   align-items: center;
   color: var(--muted);
   margin-bottom: 18px;
+}
+.story-hero {
+  margin: 0 0 clamp(28px, 5vw, 48px);
+}
+.story-hero img {
+  display: block;
+  width: 100%;
+  max-height: 920px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: calc(var(--radius) - 4px);
+  box-shadow: 0 22px 60px rgba(0,0,0,.32);
+}
+.story-hero figcaption {
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 13px;
+  text-align: center;
+  letter-spacing: .02em;
 }
 .badge {
   display: inline-flex;

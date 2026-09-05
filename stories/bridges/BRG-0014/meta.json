@@ -1,0 +1,67 @@
+{
+  "id": "BRG-0014",
+  "title": "Second Vibration: Eos — The First Dawn",
+  "original_title": "İkinci Titreşim: Eos — İlk Şafak",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 1.5,
+  "culture": [
+    "transcultural",
+    "Anatolian",
+    "Mesopotamian"
+  ],
+  "belief_context": [
+    "philosophical",
+    "science-fiction",
+    "relational ethics"
+  ],
+  "summary": "The emotions born in the First Vibration converge in one human heart. Through Eos, love appears not as a single feeling but as the direction shared by curiosity, fear, longing, anger, mercy, grief, joy, and hope.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0014/titresimden-gelen-ask.png",
+    "alt": {
+      "en": "A painterly family of four at Göbekli Tepe, joined by golden waves of light at dawn.",
+      "tr": "Göbekli Tepe'de şafak ışığında altın titreşimlerle birleşen dört kişilik sanatsal aile tablosu."
+    },
+    "caption": {
+      "en": "Love from the Vibration",
+      "tr": "Titreşimden Gelen Aşk"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0002",
+      "type": "quantum_echo",
+      "note": "The emotions scattered by the First Vibration converge here and become love inside a human heart."
+    },
+    {
+      "target": "COM-0002",
+      "type": "character",
+      "note": "The unnamed first-person voice belongs to Maran, whose inner transformation continues elsewhere in the canon."
+    },
+    {
+      "target": "BRG-0003",
+      "type": "place",
+      "note": "Göbekli Tepe becomes the visual threshold where primordial vibration, memory, and human love overlap."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "İkinci Titreşim: Eos — İlk Şafak",
+      "summary": "İlk Titreşim'de doğan duygular bir insan kalbinde birleşir. Eos'la birlikte aşk; tek bir duygu değil, merakın, korkunun, özlemin, öfkenin, merhametin, kederin, sevincin ve umudun ortak yönü olarak belirir.",
+      "link_notes": {
+        "BRG-0002": "İlk Titreşim'in evrene dağıttığı duygular burada bir insan kalbinde birleşerek aşka dönüşür.",
+        "COM-0002": "Birinci tekil anlatıcı Maran'dır; onun içsel dönüşümü canon içindeki başka bir hikâyede devam eder.",
+        "BRG-0003": "Göbekli Tepe, ilk titreşim ile insan sevgisinin ve hafızasının üst üste geldiği görsel eşiğe dönüşür."
+      }
+    }
+  }
+}
