@@ -1,8 +1,8 @@
 const CENTER_KEYS = ["HUMAN", "LIGHT", "DARK"];
 const GENERIC_CHOICES = [
-  {key:"human_direction", label:"Follow the human meaning, agency, and relationship in this story.", effects:{HUMAN:10,LIGHT:2,DARK:2}},
-  {key:"light_direction", label:"Seek greater clarity, structure, knowledge, and protection.", effects:{HUMAN:2,LIGHT:10,DARK:2}},
-  {key:"dark_direction", label:"Follow the unresolved possibility, freedom, and transformation.", effects:{HUMAN:2,LIGHT:2,DARK:10}}
+  {key:"human_direction", label_key:"generic_choice_human", label:"Follow the human meaning, agency, and relationship in this story.", effects:{HUMAN:10,LIGHT:2,DARK:2}},
+  {key:"light_direction", label_key:"generic_choice_light", label:"Seek greater clarity, structure, knowledge, and protection.", effects:{HUMAN:2,LIGHT:10,DARK:2}},
+  {key:"dark_direction", label_key:"generic_choice_dark", label:"Follow the unresolved possibility, freedom, and transformation.", effects:{HUMAN:2,LIGHT:2,DARK:10}}
 ];
 
 const state = {
@@ -106,12 +106,19 @@ function translationStatus(story,lang){
   if(s==="community") return t("community_translation","Community Translation");
   return s||"";
 }
-function formatWeights(w){ return `H ${w.HUMAN}% · L ${w.LIGHT}% · D ${w.DARK}%`; }
+function shortCenterLabel(center){
+  if(center==="HUMAN") return t("human_short","Human");
+  if(center==="LIGHT") return t("light_short","Light");
+  return t("dark_short","Dark");
+}
+function formatWeights(w){
+  return `${shortCenterLabel("HUMAN")} ${w.HUMAN}% · ${shortCenterLabel("LIGHT")} ${w.LIGHT}% · ${shortCenterLabel("DARK")} ${w.DARK}%`;
+}
 function weightBars(w){
   return `<div class="weight-bars">
-    <div><span>HUMAN</span><b>${w.HUMAN}%</b><i><em class="HUMAN" style="width:${w.HUMAN}%"></em></i></div>
-    <div><span>LIGHT</span><b>${w.LIGHT}%</b><i><em class="LIGHT" style="width:${w.LIGHT}%"></em></i></div>
-    <div><span>DARK</span><b>${w.DARK}%</b><i><em class="DARK" style="width:${w.DARK}%"></em></i></div>
+    <div><span>${escapeHtml(centerLabel("HUMAN"))}</span><b>${w.HUMAN}%</b><i><em class="HUMAN" style="width:${w.HUMAN}%"></em></i></div>
+    <div><span>${escapeHtml(centerLabel("LIGHT"))}</span><b>${w.LIGHT}%</b><i><em class="LIGHT" style="width:${w.LIGHT}%"></em></i></div>
+    <div><span>${escapeHtml(centerLabel("DARK"))}</span><b>${w.DARK}%</b><i><em class="DARK" style="width:${w.DARK}%"></em></i></div>
   </div>`;
 }
 function recordPath(id){
@@ -135,6 +142,21 @@ function choicesFor(story){
   const choices=story?.observer_choices;
   return Array.isArray(choices)&&choices.length ? choices : GENERIC_CHOICES;
 }
+function choiceLabel(choice, locale=state.locale){
+  if(!choice) return "";
+  if(choice.labels && typeof choice.labels==="object"){
+    return choice.labels[locale] || choice.labels.en || choice.label || choice.key || "";
+  }
+  if(choice.localized?.[locale]?.label) return choice.localized[locale].label;
+  if(choice.label_key){
+    return state.data?.locales?.[locale]?.[choice.label_key]
+      || state.data?.locales?.en?.[choice.label_key]
+      || choice.label
+      || choice.key
+      || "";
+  }
+  return choice.label || choice.key || "";
+}
 function recommendNext(currentId){
   const profile=observerState(); const dominant=dominantCenter(profile);
   const candidates=orderedStories().filter(s=>s.id!==currentId && !state.readIds.has(s.id));
@@ -148,7 +170,7 @@ function applyChoice(story,choice){
   const effects=choice.effects||{};
   CENTER_KEYS.forEach(c=>state.observerRaw[c]=Number(state.observerRaw[c]||0)+Number(effects[c]||0));
   state.readIds.add(story.id);
-  state.choiceLog.push({story_id:story.id,key:choice.key,label:choice.label,effects:{HUMAN:Number(effects.HUMAN||0),LIGHT:Number(effects.LIGHT||0),DARK:Number(effects.DARK||0)}});
+  state.choiceLog.push({story_id:story.id,key:choice.key,label:choiceLabel(choice,"en"),effects:{HUMAN:Number(effects.HUMAN||0),LIGHT:Number(effects.LIGHT||0),DARK:Number(effects.DARK||0)}});
   saveObserver();
   const next=recommendNext(story.id);
   if(next) setStory(next.id);
@@ -186,7 +208,7 @@ function renderRead(){
   const connections=related.length?related.map(({link,story:target})=>`<button class="connection" data-story="${target.id}"><span class="badge ${primaryCenter(target)}">${escapeHtml(linkTypeLabel(link.type))}</span><strong>${escapeHtml(storyTitle(target))}</strong><small>${escapeHtml(linkNote(story,link))}</small></button>`).join(""):`<p class="muted">${t("no_results","No matching stories.")}</p>`;
   const choiceButtons=choices.map(c=>{
     const cw=normalize(c.effects||{});
-    return `<button class="observer-choice" data-choice="${escapeHtml(c.key)}"><strong>${escapeHtml(c.label)}</strong><small>${formatWeights(cw)}</small></button>`;
+    return `<button class="observer-choice" data-choice="${escapeHtml(c.key)}"><strong>${escapeHtml(choiceLabel(c))}</strong><small>${formatWeights(cw)}</small></button>`;
   }).join("");
   const recommendation=next?`<div class="recommendation"><span>${t("recommended_next","Recommended next story")}</span><button data-story="${next.id}"><strong>${escapeHtml(storyTitle(next))}</strong><small>${centerLabel(primaryCenter(next))} · ${formatWeights(storyWeights(next))}</small></button></div>`:"";
 
@@ -198,7 +220,7 @@ function renderRead(){
       <div class="story-profile"><strong>${t("center_profile","Center profile")}</strong>${weightBars(w)}</div>
       ${storyHero(story)}
       <div class="story-content">${markdownToHtml(content)}</div>
-      <section class="choice-panel"><h2>${t("choose_path","Choose what calls you next")}</h2><p class="muted">Your choice changes your Observer State. The universe will recommend an unread story from your strongest center, but you can always choose another node in Explore.</p><div class="choice-grid">${choiceButtons}</div></section>
+      <section class="choice-panel"><h2>${t("choose_path","Choose what calls you next")}</h2><p class="muted">${t("choice_help","Your choice changes your Observer State. The universe will recommend an unread story from your strongest center, but you can always choose another node in Explore.")}</p><div class="choice-grid">${choiceButtons}</div></section>
       <div class="reader-toolbar"><button class="action-button" id="back-path" ${!backId?"disabled":""}>← ${t("back_in_path","Back in my path")}</button><button class="action-button" id="mark-read">${state.readIds.has(story.id)?t("read_again","Read again"):t("mark_read","Mark as read")}</button><button class="action-button primary" id="open-explore">${t("other_possibilities","Explore other possibilities")}</button></div>
       ${recommendation}
     </article>
@@ -223,8 +245,8 @@ function renderExplore(){
   const points=stories.map(s=>{ const pt=trianglePoint(storyWeights(s)); const read=state.readIds.has(s.id); return `<g class="triangle-node" data-story="${s.id}" tabindex="0"><circle cx="${pt.x}" cy="${pt.y}" r="${s.id===state.data.origin_node?9:6}" class="${primaryCenter(s)} ${read?"read":""}"><title>${escapeHtml(storyTitle(s))} · ${formatWeights(storyWeights(s))}</title></circle></g>`; }).join("");
   const cards=stories.map(s=>`<article class="story-node" data-story="${s.id}"><div><span class="node-id">${escapeHtml(s.id)}</span><span class="badge ${primaryCenter(s)}">${escapeHtml(centerLabel(primaryCenter(s)))}</span>${state.readIds.has(s.id)?`<span class="read-dot">${t("read_status","Read")}</span>`:""}</div><h3>${escapeHtml(storyTitle(s))}</h3><p>${escapeHtml(storySummary(s))}</p>${weightBars(storyWeights(s))}</article>`).join("");
   app.innerHTML=`<section>
-    <div class="explore-head"><div><h1>${t("explore","Explore")}</h1><p>HUMAN + LIGHT + DARK = 100. Every node occupies a position in the same triangular state space.</p></div><input id="story-search" class="search-box" type="search" placeholder="${t("search","Search stories")}"></div>
-    <div class="triangle-card"><svg viewBox="0 0 600 500" aria-label="HCU triangular state space"><polygon points="300,45 55,455 545,455" class="triangle-shape"/><text x="300" y="27" text-anchor="middle" class="triangle-label HUMAN">HUMAN CENTER</text><text x="45" y="485" text-anchor="start" class="triangle-label LIGHT">LIGHT CENTER</text><text x="555" y="485" text-anchor="end" class="triangle-label DARK">DARK CENTER</text>${points}</svg></div>
+    <div class="explore-head"><div><h1>${t("explore","Explore")}</h1><p>${t("explore_triangle_intro","HUMAN + LIGHT + DARK = 100. Every node occupies a position in the same triangular state space.")}</p></div><input id="story-search" class="search-box" type="search" placeholder="${t("search","Search stories")}"></div>
+    <div class="triangle-card"><svg viewBox="0 0 600 500" aria-label="${escapeHtml(t("triangle_state_space","HCU triangular state space"))}"><polygon points="300,45 55,455 545,455" class="triangle-shape"/><text x="300" y="27" text-anchor="middle" class="triangle-label HUMAN">${escapeHtml(centerLabel("HUMAN")).toUpperCase()}</text><text x="45" y="485" text-anchor="start" class="triangle-label LIGHT">${escapeHtml(centerLabel("LIGHT")).toUpperCase()}</text><text x="555" y="485" text-anchor="end" class="triangle-label DARK">${escapeHtml(centerLabel("DARK")).toUpperCase()}</text>${points}</svg></div>
     <div id="node-grid" class="node-grid">${cards}</div>
   </section>`;
   app.querySelectorAll("[data-story]").forEach(el=>el.addEventListener("click",()=>setStory(el.dataset.story)));
@@ -238,9 +260,9 @@ function renderExplore(){
 function renderCreate(){
   const repo=state.data.repository;
   app.innerHTML=`<section><div class="explore-head"><div><h1>${t("create","Create")}</h1><p>${t("create_intro")}</p></div></div><div class="create-grid">
-    <article class="create-card"><h2>${t("story_builder","Story Node Builder")}</h2><p>Create a multilingual story package, calculate HUMAN/LIGHT/DARK position from 30 criteria, generate observer choices, and export GitHub-ready files.</p><a class="action-button primary" href="./story-node-builder.html">${t("story_builder","Story Node Builder")}</a></article>
-    <article class="create-card"><h2>${t("open_repository","Open repository")}</h2><p>Git is part of the narrative architecture: commit creates reality; connection transforms meaning.</p><div class="create-actions"><a class="action-button primary" href="${repo}" target="_blank" rel="noopener">${t("open_repository")}</a><a class="action-button" href="${repo}/fork" target="_blank" rel="noopener">${t("fork_universe")}</a></div></article>
-    <article class="create-card"><h2>${t("contribution_guide","Contribution guide")}</h2><p>English is the canonical source; any language can be a source or translation layer under the same story ID.</p><div class="create-actions"><a class="action-button primary" href="${repo}/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">${t("contribution_guide")}</a><a class="action-button" href="${repo}/issues" target="_blank" rel="noopener">${t("issues","Issues")}</a></div></article>
+    <article class="create-card"><h2>${t("story_builder","Story Node Builder")}</h2><p>${t("story_builder_description","Create a multilingual story package, calculate HUMAN/LIGHT/DARK position from 30 criteria, generate localized observer choices, and export GitHub-ready files.")}</p><a class="action-button primary" href="./story-node-builder.html">${t("story_builder","Story Node Builder")}</a></article>
+    <article class="create-card"><h2>${t("open_repository","Open repository")}</h2><p>${t("git_narrative_description","Git is part of the narrative architecture: commit creates reality; connection transforms meaning.")}</p><div class="create-actions"><a class="action-button primary" href="${repo}" target="_blank" rel="noopener">${t("open_repository")}</a><a class="action-button" href="${repo}/fork" target="_blank" rel="noopener">${t("fork_universe")}</a></div></article>
+    <article class="create-card"><h2>${t("contribution_guide","Contribution guide")}</h2><p>${t("language_policy_description","English is the canonical source; any language can be a source or translation layer under the same story ID.")}</p><div class="create-actions"><a class="action-button primary" href="${repo}/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">${t("contribution_guide")}</a><a class="action-button" href="${repo}/issues" target="_blank" rel="noopener">${t("issues","Issues")}</a></div></article>
   </div></section>`;
 }
 function render(){ if(!state.data)return; updateStaticUi(); if(state.mode==="explore")renderExplore(); else if(state.mode==="create")renderCreate(); else renderRead(); setUrl(); }
