@@ -220,6 +220,26 @@ but a path continuously shaped by previous decisions.
 
 > **The universe recommends a path; it never imprisons the observer within it.**
 
+### Try the Observer Model
+
+The live HCU reader applies the Observer Model directly.
+
+**Open the live universe:**
+
+[https://human-centered-computing.github.io/human-centered-universe/](https://human-centered-computing.github.io/human-centered-universe/)
+
+When you read a story and make a choice:
+
+1. the choice adds values to HUMAN, LIGHT, and DARK,
+2. your accumulated Observer State is normalized into a percentage profile,
+3. your dominant center and distance from all three centers are recalculated,
+4. unread story nodes are compared with your current profile,
+5. the system recommends the next story that is closest to your evolving observer position.
+
+You can follow the recommendation or ignore it and explore another node.
+
+In this way, the same shared universe can produce different reading paths, different narrative destinies, and different forms of observer consciousness.
+
 ---
 
 ## Quantum Time
@@ -291,6 +311,91 @@ It is also part of the narrative model.
 - **fork** = an alternative universe
 - **commit history** = the memory of the universe
 - **revert** = a new reality that changes the effect of a previous reality without erasing that it occurred
+
+> **Commit creates reality. Connection transforms meaning.**
+
+---
+
+## Universe Creator — Story Node Builder
+
+HCU is not only designed to be read.
+
+It is also designed to be **expanded**.
+
+The Universe Creator allows a new story to enter the Human-Centered Universe as a structured story node.
+
+**Open the Story Node Builder:**
+
+[https://human-centered-computing.github.io/human-centered-universe/story-node-builder.html](https://human-centered-computing.github.io/human-centered-universe/story-node-builder.html)
+
+### How to create a new universe node
+
+1. **Choose the source language.**  
+   Select the language in which the story was originally written.
+
+2. **Paste the story.**  
+   Add the complete story text and optional metadata such as title, cultural context, characters, themes, or notes.
+
+3. **Create the AI analysis prompt.**  
+   The Builder prepares a structured prompt for analyzing the story according to the HCU model.
+
+4. **Run the analysis with an AI system.**  
+   Use an AI system capable of returning the requested structured JSON.
+
+5. **Paste the AI JSON result back into the Builder.**  
+   The Builder reads the analysis and checks its structure.
+
+6. **Validate the 30-criterion model.**  
+   HUMAN, LIGHT, and DARK each contain 10 criteria. The Builder checks the scores and coverage.
+
+7. **Calculate the three-center position.**  
+   The raw values are normalized so that:
+
+   ```text
+   HUMAN + LIGHT + DARK = 100
+   ```
+
+8. **Place the story in the triangular state space.**  
+   The new node receives a position relative to all three centers.
+
+9. **Create Observer choices.**  
+   Choices at the end of the story can modify HUMAN / LIGHT / DARK values and therefore influence the reader's future path.
+
+10. **Connect the story to existing nodes.**  
+    Add meaningful relations such as cause, contrast, memory, future, echo, quantum echo, character, place, theme, transformation, or parallel.
+
+11. **Run the coverage audit.**  
+    If an important narrative element falls outside the existing model, flag it for human review instead of silently forcing it into the ontology.
+
+12. **Export the GitHub-ready package.**  
+    The Builder can prepare the files needed for the repository, including story content, metadata, analysis, and observer-choice data.
+
+13. **Connect the new reality to the shared universe.**  
+    Upload the generated files to GitHub, review the relations, and merge the contribution.
+
+The basic creation loop is:
+
+```text
+Idea
+↓
+Story
+↓
+AI-assisted analysis
+↓
+30 criteria
+↓
+HUMAN / LIGHT / DARK position
+↓
+Story relationships
+↓
+Observer choices
+↓
+GitHub-ready node
+↓
+New reality enters the universe
+```
+
+> **A new story does not merely add another chapter. Once connected, it can change the meaning of the existing universe.**
 
 > **Commit creates reality. Connection transforms meaning.**
 

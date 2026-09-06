@@ -156,6 +156,26 @@ sistem tarafından önceden dayatılmış sabit bir kader değil,
 
 > **Evren bir yol önerir; gözlemciyi o yolun içine hapsetmez.**
 
+### Gözlemci Modelini Deneyin
+
+HCU'nun canlı okuyucusu Gözlemci Modelini doğrudan uygular.
+
+**Canlı evreni açın:**
+
+[https://human-centered-computing.github.io/human-centered-universe/](https://human-centered-computing.github.io/human-centered-universe/)
+
+Bir hikâyeyi okuyup seçim yaptığınızda:
+
+1. seçiminiz İNSAN, AYDINLIK ve KARANLIK değerlerine puan ekler,
+2. önceki seçimlerinizle oluşan Gözlemci Durumu yüzdelik profile dönüştürülür,
+3. baskın merkeziniz ve üç merkeze olan uzaklığınız yeniden hesaplanır,
+4. henüz okumadığınız hikâye düğümleri mevcut profilinizle karşılaştırılır,
+5. sistem gelişen gözlemci konumunuza en yakın sonraki hikâyeyi önerir.
+
+Öneriyi takip edebilir veya başka bir düğümü özgürce seçebilirsiniz.
+
+Böylece aynı ortak evren; farklı okuma yolları, farklı anlatısal kaderler ve farklı gözlemci bilinçleri oluşturabilir.
+
 ---
 
 ## Kuantum Zaman
@@ -189,6 +209,91 @@ Gözlemcinin hikâye düğümlerini deneyimleme sırası onun kişisel anlatı z
 Bu, HCU'nun **Kuantum Zaman** modelidir:
 
 **tek bir mutlak kronoloji yerine hikâyeler arasındaki ilişkiler ve gözlem yollarıyla oluşan ilişkisel anlatı zamanı.**
+
+---
+
+## Evren Oluşturucu — Story Node Builder
+
+HCU yalnızca okunmak için tasarlanmadı.
+
+Aynı zamanda **yeni hikâyelerle genişletilebilen bir evren** olarak tasarlandı.
+
+Evren Oluşturucu, yeni bir hikâyeyi Human-Centered Universe içine yapılandırılmış bir hikâye düğümü olarak eklemeyi sağlar.
+
+**Story Node Builder'ı açın:**
+
+[https://human-centered-computing.github.io/human-centered-universe/story-node-builder.html](https://human-centered-computing.github.io/human-centered-universe/story-node-builder.html)
+
+### Yeni bir evren düğümü nasıl oluşturulur?
+
+1. **Kaynak dili seçin.**  
+   Hikâyenin ilk yazıldığı dili belirleyin.
+
+2. **Hikâyeyi ekleyin.**  
+   Tam hikâye metnini; isterseniz başlık, kültür, karakterler, temalar ve diğer metadata bilgileriyle birlikte yapıştırın.
+
+3. **Yapay zekâ analiz istemini oluşturun.**  
+   Builder, hikâyeyi HCU modeline göre inceleyecek yapılandırılmış analiz istemini hazırlar.
+
+4. **Analizi bir yapay zekâ sistemiyle çalıştırın.**  
+   İstenen yapıdaki JSON çıktısını üretebilen bir yapay zekâ sistemi kullanın.
+
+5. **Yapay zekâ JSON sonucunu Builder'a geri yapıştırın.**  
+   Builder analiz verisini okur ve yapısını kontrol eder.
+
+6. **30 ölçütlü modeli doğrulayın.**  
+   İNSAN, AYDINLIK ve KARANLIK merkezlerinin her biri 10 ölçütten oluşur. Puanlar ve kapsama kontrol edilir.
+
+7. **Üç merkez yüzdelerini hesaplayın.**  
+   Ham puanlar şu kurala göre normalize edilir:
+
+   ```text
+   İNSAN + AYDINLIK + KARANLIK = 100
+   ```
+
+8. **Hikâyeyi üçgensel durum uzayına yerleştirin.**  
+   Yeni düğüm üç merkeze göre yüzdelik bir konum kazanır.
+
+9. **Gözlemci seçimlerini oluşturun.**  
+   Hikâye sonundaki seçimler İNSAN / AYDINLIK / KARANLIK puanlarını değiştirerek okuyucunun sonraki yolunu etkileyebilir.
+
+10. **Mevcut hikâyelerle ilişkileri kurun.**  
+    Neden, karşıtlık, hafıza, gelecek, yankı, kuantum yankısı, karakter, yer, tema, dönüşüm veya paralel gibi anlamlı bağlantılar ekleyin.
+
+11. **Kapsama denetimini çalıştırın.**  
+    Önemli bir anlatı unsuru mevcut modele sığmıyorsa onu zorla sınıflandırmak yerine insan incelemesine işaretleyin.
+
+12. **GitHub'a hazır paketi dışa aktarın.**  
+    Builder; hikâye içeriği, metadata, analiz ve gözlemci seçimlerini içeren depo dosyalarını hazırlayabilir.
+
+13. **Yeni gerçekliği ortak evrene bağlayın.**  
+    Oluşturulan dosyaları GitHub'a yükleyin, ilişkileri inceleyin ve katkıyı ortak evrene dahil edin.
+
+Temel oluşturma döngüsü:
+
+```text
+Fikir
+↓
+Hikâye
+↓
+Yapay zekâ destekli analiz
+↓
+30 ölçüt
+↓
+İNSAN / AYDINLIK / KARANLIK konumu
+↓
+Hikâye ilişkileri
+↓
+Gözlemci seçimleri
+↓
+GitHub'a hazır düğüm
+↓
+Yeni gerçeklik evrene girer
+```
+
+> **Yeni bir hikâye yalnızca yeni bir bölüm eklemez. Bağlantı kurduğu anda mevcut evrenin anlamını da değiştirebilir.**
+
+> **Commit gerçeklik yaratır. Bağlantı anlamı dönüştürür.**
 
 ---
 
