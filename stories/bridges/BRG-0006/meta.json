@@ -25,6 +25,13 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0006/dort-isim-bir-kapi.png",
+    "alt": {
+      "en": "Four human figures from different cultural contexts are connected to a luminous central nexus, evoking Maran, Luka, Ayo and Rojin as four relational identities converging on one symbolic door.",
+      "tr": "Farklı kültürel bağlamlardan dört insan figürü ışıklı merkezi bir düğüme bağlanır; Maran, Luka, Ayo ve Rojin'in tek bir simgesel kapıda birleşen dört ilişkisel kimliğini çağrıştırır."
+    }
+  },
   "links": [
     {
       "target": "COM-0003",
