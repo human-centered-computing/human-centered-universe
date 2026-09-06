@@ -24,6 +24,13 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/COM-0003/cagriyi-duyanlar.png",
+    "alt": {
+      "en": "People in different places and cultures are linked by subtle luminous signals across a dark world, forming a distributed human network between ancient memory and future technology.",
+      "tr": "Farklı yer ve kültürlerdeki insanlar, karanlık bir dünya üzerinde ince ışık sinyalleriyle birbirine bağlanarak kadim hafıza ile geleceğin teknolojisi arasında dağıtık bir insan ağı oluşturur."
+    }
+  },
   "links": [
     {
       "target": "COM-0002",
