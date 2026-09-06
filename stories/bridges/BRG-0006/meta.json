@@ -7,16 +7,17 @@
   "source_language": "en",
   "book_order": 8,
   "culture": [
-    "Riha linguistic memory",
-    "locally used names from different cultural contexts",
-    "multicultural collective memory"
+    "global multicultural network",
+    "distributed human relations",
+    "ancient Anatolian memory"
   ],
   "belief_context": [
-    "identity",
+    "identity without inference",
     "collective memory",
-    "plural interpretation"
+    "plural interpretation",
+    "shared responsibility"
   ],
-  "summary": "The Stone Network surfaces four human names—Maran, Luka, Ayo, and Rojin—turning numbered functions into relational figures while explicitly refusing to infer identity, religion, ethnicity, or personality from a name.",
+  "summary": "At 04:17 the distributed network narrows to four real human beings—Maran, Luka, Ayo, and Rojin. Each contributes connection, verification, relation, or memory, and together they discover that no individual can own or open the emerging Creation Protocol.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -28,35 +29,35 @@
   "hero_image": {
     "src": "./assets/images/stories/BRG-0006/dort-isim-bir-kapi.png",
     "alt": {
-      "en": "Four human figures from different cultural contexts are connected to a luminous central nexus, evoking Maran, Luka, Ayo and Rojin as four relational identities converging on one symbolic door.",
-      "tr": "Farklı kültürel bağlamlardan dört insan figürü ışıklı merkezi bir düğüme bağlanır; Maran, Luka, Ayo ve Rojin'in tek bir simgesel kapıda birleşen dört ilişkisel kimliğini çağrıştırır."
+      "en": "Four real human observers in different environments are linked to a luminous doorway fixed at 04:17, where technology, memory, relationship and uncertainty converge without a single person becoming the center.",
+      "tr": "Farklı ortamlardaki dört gerçek insan gözlemci, 04:17'de sabitlenen ışıklı bir kapıda teknoloji, hafıza, ilişki ve belirsizlikle birbirine bağlanır; hiçbiri tek başına merkeze dönüşmez."
     }
   },
   "links": [
     {
       "target": "COM-0003",
-      "type": "character",
-      "note": "The four names draw on patterns contributed through the Alpha One network."
+      "type": "cause",
+      "note": "The distributed Alpha One network narrows to four simultaneous human connections."
     },
     {
       "target": "BRG-0007",
       "type": "cause",
-      "note": "Their simultaneous activation opens the Creation Protocol and the 04:17 countdown."
+      "note": "The shared doorway activates the Creation Protocol and leads directly into the 04:17 choice threshold."
     },
     {
       "target": "COM-0001",
       "type": "future",
-      "note": "Their later coexistence informs the relational architecture of the Common Center."
+      "note": "The discovery that the center exists between people anticipates the later relational architecture of the Human Center."
     }
   ],
   "localized": {
     "tr": {
       "title": "Dört İsim, Bir Kapı",
-      "summary": "Taş Ağ dört insan adını görünür kılar: Maran, Luka, Ayo ve Rojin. Numaralı işlevler ilişkisel kişilere dönüşürken sistem bir kişinin kimliğini, dinini, etnik kökenini veya karakterini isminden çıkarmayı açıkça reddeder.",
+      "summary": "04:17'de dağıtık ağ dört gerçek insana daralır: Maran, Luka, Ayo ve Rojin. Bağlantı, doğrulama, ilişki ve hafızayı birlikte taşıyan dört kişi, Yaratılış Protokolü'nün hiçbir bireyin mülkü veya tek başına açabileceği bir kapı olamayacağını keşfeder.",
       "link_notes": {
-        "COM-0003": "Dört isim, Çağrıyı Duyanlar ağı üzerinden katkı sunulan örüntülerden beslenir.",
-        "BRG-0007": "Dört ismin aynı anda etkinleşmesi Yaratılış Protokolü'nü ve 04:17 geri sayımını açar.",
-        "COM-0001": "Daha sonraki birlikte varoluşları Ortak Merkez'in ilişkisel mimarisini besler."
+        "COM-0003": "Dağıtık Çağrıyı Duyanlar ağı dört eşzamanlı insan bağlantısına daralır.",
+        "BRG-0007": "Ortak kapı Yaratılış Protokolü'nü etkinleştirir ve doğrudan 04:17 seçim eşiğine açılır.",
+        "COM-0001": "Merkezin insanlar arasındaki ilişkide oluştuğunun keşfi daha sonraki İnsan Merkezi'nin ilişkisel mimarisini hazırlar."
       }
     }
   }
