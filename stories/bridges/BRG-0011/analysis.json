@@ -7,9 +7,9 @@
     "DARK": 8
   },
   "classification": {
-    "method": "curated narrative classification based on human agency, explainability, interdisciplinary learning, living bio-AI partnership, probability, cultural memory and bounded uncertainty",
+    "method": "curated narrative classification based on human agency, explainability, living bio-AI partnership, interdisciplinary learning, probability, soil memory, linguistic traces, cultural memory and bounded uncertainty",
     "status": "reviewed-curation",
-    "note": "HUMAN dominates because agency, consent, privacy, relationship and the right to decide remain primary. LIGHT represents explanation, source visibility, measurement and auditability. DARK represents uncertainty, open possibility, transformation and the still-unknown boundary between biological and artificial intelligence."
+    "note": "HUMAN dominates because agency, cultural meaning, memory, consent and the right to interpret remain primary. LIGHT represents explainability, source visibility, material evidence and verification. DARK represents uncertainty, lost history, open possibility and the unknown links between traces."
   },
   "coverage_audit": {
     "coverage_complete": true,

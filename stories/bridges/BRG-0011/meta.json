@@ -25,7 +25,7 @@
     "quantum-time narrative",
     "language and place memory"
   ],
-  "summary": "Maran's path through computer engineering, mathematics, probability, business, informatics, education and human-centered AI converges in the profession of Human-Centered Transformation Architect and in the Rîh Bridge: a living bio-artificial intelligence partnership that keeps biological traces, life records and AI inference distinct while human decision authority remains intact. While watching Göbekli Tepe, local names such as Girê Miraza, Xerabreşkê, Pira Reş and Xarran re-form in his mind as a network of place, language, memory and meaning centered on Rîh-a.",
+  "summary": "Maran's interdisciplinary path converges in the Rîh Bridge, a living human-centered bio-artificial intelligence partnership. In 'The History the Soil Never Wrote,' he uses the same logic of trace, relation, uncertainty and explainability to read Göbekli Tepe through soil, material remains and local place names such as Girê Miraza, Xerabreşkê, Pira Reş and Xarran, treating language and geography as incomplete but meaningful layers of cultural memory centered on Rîh-a.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -108,11 +108,22 @@
   "localized": {
     "tr": {
       "title": "Rîh-a: Kökün, Ruhun ve İnancın Merkezi",
-      "summary": "Maran'ın bilgisayar mühendisliği, matematik, olasılık, işletme, bilişim, eğitim ve insan merkezli yapay zekâ alanlarındaki birikimi İnsan Merkezli Dönüşüm Mimarı kimliğinde ve Rîh Köprüsü'nde birleşir. Rîh Köprüsü, Maran hayattayken geliştirdiği; biyolojik izleri, yaşam kayıtlarını ve yapay zekâ çıkarımlarını birbirinden ayıran, karar yetkisini insanda bırakan biyo-yapay zekâ ortaklığıdır. Göbeklitepe'yi izlerken Girê Miraza, Xerabreşkê, Pira Reş, Xarran ve diğer yerel adlar zihninde yer, dil, hafıza ve anlam ağı olarak yeniden oluşur; bu ağın merkezinde Rîh-a kalır."
+      "summary": "Maran'ın disiplinler arası birikimi, insan merkezli biyo-yapay zekâ sistemi Rîh Köprüsü'nde birleşir. 'Toprağın Yazmadığı Tarih' bölümünde Maran aynı iz, ilişki, belirsizlik ve açıklanabilirlik yaklaşımını Göbeklitepe'ye uygular; Girê Miraza, Xerabreşkê, Pira Reş, Xarran ve diğer yerel adlarla toprağın maddi izlerini birlikte okuyarak yazılmamış tarihin parçalarını anlamaya çalışır. Rîh-a bu hafıza ağının merkezinde kalır."
     }
   },
   "inspiration": {
     "type": "fictionalized personal, interdisciplinary and cultural-symbolic research trajectory",
-    "note": "Rîh-a and the local place names are used through Maran's symbolic linguistic and cultural associations. The story does not present these associations as definitive historical etymologies."
+    "note": "Rîh-a and the local place names are used through Maran's symbolic linguistic and cultural associations. The narrative treats proposed meanings and etymological links as clues or possibilities rather than definitive historical proof, and explicitly preserves uncertainty where origins are unclear."
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0011/topragin-yazmadigi-tarih.png",
+    "alt": {
+      "en": "An artistic human-free vision of Göbekli Tepe where ancient T-shaped stones, layered earth, water, roots and glowing connections evoke unwritten history preserved in the land.",
+      "tr": "İnsan figürü içermeyen sanatsal Göbeklitepe sahnesinde T biçimli taşlar, toprak katmanları, su, kökler ve ışık bağlantıları toprağın sakladığı yazılmamış tarihi simgeliyor."
+    },
+    "caption": {
+      "en": "The History the Soil Never Wrote",
+      "tr": "Toprağın Yazmadığı Tarih"
+    }
   }
 }
