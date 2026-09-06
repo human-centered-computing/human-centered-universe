@@ -4,7 +4,7 @@
   "original_title": "Toprağın Yazmadığı Tarih: Girê Miraza’nın İzleri",
   "core": "BRIDGE",
   "status": "canon",
-  "source_language": "tr",
+  "source_language": "en",
   "book_order": 18.2,
   "observation_order": 25,
   "culture": [
@@ -27,12 +27,8 @@
   ],
   "summary": "Maran applies the trace-and-relation logic of the Rîh Bridge to Göbekli Tepe. Reading soil, material remains, water, routes, local place names and living practices as separate but connected traces, he searches for a history that was never written without turning uncertainty into false certainty.",
   "translations": {
-    "en": {
-      "status": "canonical"
-    },
-    "tr": {
-      "status": "reviewed-source"
-    }
+    "en": {"status": "canonical"},
+    "tr": {"status": "reviewed"}
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0018/topragin-yazmadigi-tarih.png",
@@ -48,7 +44,7 @@
   "links": [
     {
       "target": "BRG-0011",
-      "type": "method",
+      "type": "transformation",
       "note": "Maran carries the Rîh Bridge method of source separation, trace, relation and uncertainty from living bio-AI into the interpretation of soil, language and cultural memory."
     },
     {
@@ -66,41 +62,20 @@
     {
       "key": "material_evidence_first",
       "label": "Follow material evidence first.",
-      "labels": {
-        "en": "Follow material evidence first.",
-        "tr": "Önce maddi kanıtı izle."
-      },
-      "effects": {
-        "HUMAN": 5,
-        "LIGHT": 10,
-        "DARK": 2
-      }
+      "labels": {"en": "Follow material evidence first.", "tr": "Önce maddi kanıtı izle."},
+      "effects": {"HUMAN": 5, "LIGHT": 10, "DARK": 2}
     },
     {
       "key": "read_all_traces_together",
       "label": "Read material, linguistic and cultural traces together.",
-      "labels": {
-        "en": "Read material, linguistic and cultural traces together.",
-        "tr": "Maddi, dilsel ve kültürel izleri birlikte oku."
-      },
-      "effects": {
-        "HUMAN": 10,
-        "LIGHT": 7,
-        "DARK": 4
-      }
+      "labels": {"en": "Read material, linguistic and cultural traces together.", "tr": "Maddi, dilsel ve kültürel izleri birlikte oku."},
+      "effects": {"HUMAN": 10, "LIGHT": 7, "DARK": 4}
     },
     {
       "key": "leave_historical_gaps_open",
       "label": "Leave the unknown gaps open.",
-      "labels": {
-        "en": "Leave the unknown gaps open.",
-        "tr": "Bilinmeyen boşlukları açık bırak."
-      },
-      "effects": {
-        "HUMAN": 6,
-        "LIGHT": 3,
-        "DARK": 10
-      }
+      "labels": {"en": "Leave the unknown gaps open.", "tr": "Bilinmeyen boşlukları açık bırak."},
+      "effects": {"HUMAN": 6, "LIGHT": 3, "DARK": 10}
     }
   ],
   "localized": {

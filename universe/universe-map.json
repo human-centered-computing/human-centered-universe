@@ -36,12 +36,12 @@
     {
       "observation_order": 3,
       "id": "BRG-0004",
-      "title": "Seven Witnesses, One Question",
-      "primary_center": "LIGHT",
+      "title": "04:17 — The Call from the Dark",
+      "primary_center": "DARK",
       "center_weights": {
-        "HUMAN": 35,
-        "LIGHT": 45,
-        "DARK": 20
+        "HUMAN": 22,
+        "LIGHT": 8,
+        "DARK": 70
       }
     },
     {
