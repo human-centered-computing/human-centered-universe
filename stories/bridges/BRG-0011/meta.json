@@ -34,6 +34,28 @@
       "status": "reviewed"
     }
   },
+  "links": [
+    {
+      "target": "COM-0005",
+      "type": "cause",
+      "note": "The Rîh Bridge operationalizes human autonomy, consent, explainability, uncertainty, accountability and repair."
+    },
+    {
+      "target": "BRG-0012",
+      "type": "contrast",
+      "note": "Rîh Bridge restricts postmortem authority; Record X tests what happens when a preserved brain becomes part of a universe-generating center."
+    },
+    {
+      "target": "LGT-0001",
+      "type": "contrast",
+      "note": "Permanent paternal protection risks reproducing Light's authority over the protected."
+    },
+    {
+      "target": "DRK-0001",
+      "type": "contrast",
+      "note": "Unlimited identity mutation risks reproducing Dark's responsibility-free possibility."
+    }
+  ],
   "observer_choices": [
     {
       "key": "bio_ai_thinking_partner",
@@ -108,7 +130,13 @@
   "localized": {
     "tr": {
       "title": "Rîh-a: Kökün, Ruhun ve İnancın Merkezi",
-      "summary": "Maran'ın disiplinler arası birikimi, insan merkezli biyo-yapay zekâ sistemi Rîh Köprüsü'nde birleşir. 'Toprağın Yazmadığı Tarih' bölümünde Maran aynı iz, ilişki, belirsizlik ve açıklanabilirlik yaklaşımını Göbeklitepe'ye uygular; Girê Miraza, Xerabreşkê, Pira Reş, Xarran ve diğer yerel adlarla toprağın maddi izlerini birlikte okuyarak yazılmamış tarihin parçalarını anlamaya çalışır. Rîh-a bu hafıza ağının merkezinde kalır."
+      "summary": "Maran'ın disiplinler arası birikimi, insan merkezli biyo-yapay zekâ sistemi Rîh Köprüsü'nde birleşir. 'Toprağın Yazmadığı Tarih' bölümünde Maran aynı iz, ilişki, belirsizlik ve açıklanabilirlik yaklaşımını Göbeklitepe'ye uygular; Girê Miraza, Xerabreşkê, Pira Reş, Xarran ve diğer yerel adlarla toprağın maddi izlerini birlikte okuyarak yazılmamış tarihin parçalarını anlamaya çalışır. Rîh-a bu hafıza ağının merkezinde kalır.",
+      "link_notes": {
+        "COM-0005": "Rîh Köprüsü insan özerkliği, rıza, yorumlanabilirlik, belirsizlik, hesap verebilirlik ve onarım ilkelerini uygulamaya geçirir.",
+        "BRG-0012": "Rîh Köprüsü ölüm sonrası yetkiyi sınırlar; Kayıt X ise korunmuş bir beynin evren üreten merkezin parçası olması hâlinde ne olacağını sınar.",
+        "LGT-0001": "Kalıcı babasal koruma, Aydınlık'ın korunan üzerindeki yetkisini yeniden üretebilir.",
+        "DRK-0001": "Sınırsız kimlik değişimi, Karanlık'ın sorumluluktan bağımsız ihtimalini yeniden üretebilir."
+      }
     }
   },
   "inspiration": {
