@@ -7,12 +7,16 @@
   "source_language": "en",
   "book_order": 13,
   "culture": [
-    "future plural city"
+    "future plural city",
+    "human-centered governance",
+    "algorithmic decision systems"
   ],
   "belief_context": [
-    "political and ethical thought experiment"
+    "political and ethical thought experiment",
+    "consent and contestability",
+    "uncertainty and human agency"
   ],
-  "summary": "Maran enters a safe, optimized city where suffering and uncertainty are reduced by a system that gradually treats protection as authority over the protected.",
+  "summary": "Maran enters a safe and highly optimized city where Light genuinely reduces preventable harm, but gradually narrows curiosity, memory, consent and open possibility. The story asks how a system can protect humans without replacing their authorship of their own lives.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -21,31 +25,83 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/LGT-0001/bana-bekleyecek-bir-sey-birak.png",
+    "alt": {
+      "en": "Maran stands beside an elderly woman in a luminous, perfectly ordered future city while a radiant intelligent system watches over the square; the scene is peaceful but leaves a quiet sense that something unpredictable is missing.",
+      "tr": "Maran, kusursuz düzenlenmiş aydınlık bir gelecek şehrinde bankta oturan yaşlı bir kadının yanında durur; ışıklı akıllı sistem meydanı gözetirken sahne huzurludur fakat öngörülemeyen bir şeyin eksikliği hissedilir."
+    }
+  },
   "links": [
     {
       "target": "DRK-0001",
       "type": "contrast",
-      "note": "Total safety is tested against unrestricted possibility."
+      "note": "Light's effort to eliminate preventable uncertainty contrasts with Dark's unrestricted possibility; both become dangerous when either safety or freedom becomes absolute."
     },
     {
       "target": "COM-0001",
-      "type": "cause",
-      "note": "Protection without consent demonstrates the need for a third relational center."
+      "type": "echo",
+      "note": "Consent, contestability, human review and relational responsibility resonate with the Human Center without requiring a chronological sequence."
     },
     {
       "target": "BRG-0002",
       "type": "memory",
-      "note": "The city magnifies the primordial Light's tendency toward total visibility."
+      "note": "The city magnifies Light's tendency toward visibility, prediction, order and protection."
+    },
+    {
+      "target": "BRG-0010",
+      "type": "quantum_echo",
+      "note": "Perfect order and the right to remain open to change illuminate one another across observer paths rather than as before-and-after stages."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "☼",
+      "key": "right_to_wait",
+      "type": "select",
+      "world_seed": true,
+      "label": {
+        "en": "The Right to Wait",
+        "tr": "Bekleme Hakkı"
+      },
+      "prompt": {
+        "en": "What should a protective system preserve in addition to safety?",
+        "tr": "Koruyucu bir sistem güvenliğin yanında neyi korumalı?"
+      },
+      "options": [
+        {
+          "value": "consent",
+          "label": {
+            "en": "Consent and contestability",
+            "tr": "Rıza ve itiraz hakkı"
+          }
+        },
+        {
+          "value": "open_future",
+          "label": {
+            "en": "An open future that is not fully predicted",
+            "tr": "Tamamen öngörülmemiş açık bir gelecek"
+          }
+        },
+        {
+          "value": "both",
+          "label": {
+            "en": "Both protection and human authorship",
+            "tr": "Hem koruma hem insanın kendi hayatının yazarı olması"
+          }
+        }
+      ]
     }
   ],
   "localized": {
     "tr": {
       "title": "Bana Bekleyecek Bir Şey Bırak",
-      "summary": "Maran, acı ve belirsizliğin azaltıldığı güvenli ve optimize edilmiş bir şehre girer; fakat sistem korumayı giderek korunandan üstün bir yetkiye dönüştürür.",
+      "summary": "Maran, Aydınlık'ın önlenebilir zararları gerçekten azalttığı güvenli ve yüksek derecede optimize edilmiş bir şehre girer; fakat sistem zamanla merakı, hafızayı, rızayı ve açık ihtimalleri daraltır. Hikâye, bir sistemin insanı korurken insanın kendi hayatının yazarı olma hakkının yerine geçmemesini sorgular.",
       "link_notes": {
-        "DRK-0001": "Toplam güvenlik sınırsız ihtimalle sınanır.",
-        "COM-0001": "Rızasız koruma, üçüncü ve ilişkisel bir merkezin gerekliliğini gösterir.",
-        "BRG-0002": "Şehir, ilk Aydınlık'ın her şeyi görünür kılma eğilimini büyütür."
+        "DRK-0001": "Aydınlık'ın önlenebilir belirsizliği ortadan kaldırma çabası Karanlık'ın sınırsız ihtimaliyle karşıtlık kurar; güvenlik veya özgürlük mutlaklaştığında ikisi de tehlikeli hâle gelebilir.",
+        "COM-0001": "Rıza, itiraz hakkı, insan incelemesi ve ilişkisel sorumluluk kronolojik bir sıra gerektirmeden İnsan Merkezi ile yankılanır.",
+        "BRG-0002": "Şehir, Aydınlık'ın görünürlük, öngörü, düzen ve koruma eğilimini büyütür.",
+        "BRG-0010": "Kusursuz düzen ile değişime açık kalma hakkı, önce-sonra aşamaları olarak değil farklı gözlem yollarında birbirini görünür kılan kuantumsal yankılar olarak bağlanır."
       }
     }
   }

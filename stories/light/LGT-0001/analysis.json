@@ -7,9 +7,9 @@
     "DARK": 10
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated rewrite aligned with HCU Quantum Time and the current three-center architecture",
+    "status": "reviewed-rewrite",
+    "note": "Light remains dominant because the city is built around safety, prediction, visibility, optimization and harm prevention. Human tension appears through consent, contestability, memory, curiosity and authorship. Dark remains a small but necessary space for uncertainty and open possibility."
   },
   "coverage_audit": {
     "coverage_complete": true,
