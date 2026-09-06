@@ -1,21 +1,23 @@
 {
   "id": "BRG-0004",
-  "title": "Seven Witnesses, One Question",
-  "original_title": "Yedi Tanık, Tek Soru",
+  "title": "04:17 — The Call from the Dark",
+  "original_title": "04:17 — Karanlığın İçinden Gelen Çağrı",
   "core": "BRIDGE",
   "status": "canon",
   "source_language": "en",
   "book_order": 3,
   "culture": [
-    "multicultural research network",
-    "Riha / Şanlıurfa local memory"
+    "Xerabreşkê / Örencik village local memory",
+    "Göbekli Tepe landscape",
+    "transcultural dream network"
   ],
   "belief_context": [
-    "plural interpretation",
-    "dream reports",
-    "epistemic humility"
+    "collective dream reports",
+    "epistemic uncertainty",
+    "speculative consciousness",
+    "relational quantum time"
   ],
-  "summary": "Seven witnesses approach the same anomaly through archaeology, neuroscience, acoustics, narrative, HCI, systems ecology, and local memory without forcing their accounts into one explanation.",
+  "summary": "Seven witnesses staying in Xerabreşkê near Göbekli Tepe encounter the same time, 04:17, through different dreams. A remembered great rupture becomes not a prophecy or a physical claim, but an unresolved trace of possibility that changes lives across places and times.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -24,51 +26,79 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0004/0417-karanligin-cagrisi.png",
+    "alt": {
+      "en": "A dark dreamlike night over Xerabreşkê near Göbekli Tepe, with an immense black center sending subtle concentric waves across the landscape.",
+      "tr": "Göbekli Tepe yakınındaki Xerabreşkê üzerinde, dev bir karanlık merkezin ince halkalar hâlinde dalgalar yaydığı rüya benzeri gece manzarası."
+    }
+  },
   "links": [
     {
-      "target": "BRG-0001",
-      "type": "cause",
-      "note": "The seven perspectives converge on the underground network without becoming one account."
+      "target": "BRG-0002",
+      "type": "quantum_echo",
+      "note": "04:17 echoes the First Vibration as a later rupture that opens possibility without becoming the same event."
     },
     {
-      "target": "COM-0003",
+      "target": "DRK-0001",
       "type": "echo",
-      "note": "The evidence-sharing method anticipates Alpha One's distributed validation model."
+      "note": "The Dark Center appears here as uncertainty, freedom and transformative possibility before any single answer stabilizes."
     },
     {
       "target": "COM-0001",
-      "type": "echo",
-      "note": "Different stories remaining around one question anticipates the Common Center."
+      "type": "future",
+      "note": "Different dreams remain distinct while their relations begin to form a wider field of shared human meaning."
     }
   ],
-  "interactions": [
+  "observer_choices": [
     {
-      "threshold": "00",
-      "key": "riha_completion",
-      "type": "text",
-      "world_seed": true,
-      "label": {
-        "en": "The Missing Completion",
-        "tr": "Kayıp Tamlayan"
+      "key": "follow_unknown",
+      "label": "Follow the unresolved call into the unknown.",
+      "labels": {
+        "en": "Follow the unresolved call into the unknown.",
+        "tr": "Çözümlenmemiş çağrıyı bilinmeyene doğru takip et."
       },
-      "prompt": {
-        "en": "Riha is the spirit of what? Write the first word that comes to mind.",
-        "tr": "Riha neyin ruhu? İlk aklınıza gelen tamamlayıcıyı yazın."
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 1,
+        "DARK": 10
+      }
+    },
+    {
+      "key": "seek_evidence",
+      "label": "Seek evidence for what happened at 04:17.",
+      "labels": {
+        "en": "Seek evidence for what happened at 04:17.",
+        "tr": "04:17’de ne olduğunu kanıtlarla araştır."
       },
-      "placeholder": {
-        "en": "earth, humanity, memory, time, future…",
-        "tr": "toprak, insanlık, hafıza, zaman, gelecek…"
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 10,
+        "DARK": 3
+      }
+    },
+    {
+      "key": "carry_human_trace",
+      "label": "Turn the rupture into care, memory and responsibility.",
+      "labels": {
+        "en": "Turn the rupture into care, memory and responsibility.",
+        "tr": "Kırılmayı merhamete, hafızaya ve sorumluluğa dönüştür."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 2,
+        "DARK": 4
       }
     }
   ],
   "localized": {
     "tr": {
-      "title": "Yedi Tanık, Tek Soru",
-      "summary": "Yedi tanık aynı anomaliye arkeoloji, nörobilim, akustik, anlatı, insan-bilgisayar etkileşimi, sistem ekolojisi ve yerel hafıza üzerinden yaklaşır; farklı anlatımları tek bir açıklamaya zorlamaz.",
+      "title": "04:17 — Karanlığın İçinden Gelen Çağrı",
+      "summary": "Göbekli Tepe yakınındaki Xerabreşkê’de misafir edilen yedi tanık, birbirinden farklı rüyalar içinde aynı saatle karşılaşır: 04:17. Büyük bir kırılmanın hatırası kehanete ya da fiziksel bir iddiaya değil, farklı zamanlarda insanların hayatını dönüştüren açık bir ihtimal izine dönüşür.",
       "link_notes": {
-        "BRG-0001": "Yedi farklı bakış tek bir anlatıya dönüşmeden yeraltı ağı üzerinde buluşur.",
-        "COM-0003": "Kanıt paylaşım yöntemi Çağrıyı Duyanlar'ın dağıtık doğrulama modelini önceler.",
-        "COM-0001": "Farklı hikâyelerin aynı soru çevresinde kalabilmesi Ortak Merkez'i önceler."
+        "BRG-0002": "04:17, İlk Titreşim'in aynısı olmadan onun daha sonraki bir kırılma ve ihtimal yankısı olarak belirir.",
+        "DRK-0001": "Karanlık Merkez burada tek bir cevap kararlılaşmadan önce belirsizlik, özgürlük ve dönüştürücü ihtimal olarak görünür.",
+        "COM-0001": "Farklı rüyalar ayrı kalırken aralarındaki ilişkiler daha geniş bir ortak insan anlamı alanı oluşturmaya başlar."
       }
     }
   }

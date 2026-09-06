@@ -1,15 +1,15 @@
 {
   "schema": "hcu-story-analysis",
-  "primary_center": "LIGHT",
+  "primary_center": "DARK",
   "center_weights": {
-    "HUMAN": 35,
-    "LIGHT": 45,
-    "DARK": 20
+    "HUMAN": 22,
+    "LIGHT": 8,
+    "DARK": 70
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated rewrite aligned with the HCU three-center narrative model",
+    "status": "reviewed-rewrite",
+    "note": "BRG-0004 remains a BRIDGE node while moving close to the DARK center through uncertainty, possibility, dream plurality, rupture and transformation. The story intentionally avoids treating 04:17 as a verified paranormal or physical phenomenon."
   },
   "coverage_audit": {
     "coverage_complete": true,
