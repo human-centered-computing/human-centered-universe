@@ -1,15 +1,15 @@
 {
   "schema": "hcu-story-analysis",
-  "primary_center": "DARK",
+  "primary_center": "HUMAN",
   "center_weights": {
-    "HUMAN": 35,
-    "LIGHT": 20,
-    "DARK": 45
+    "HUMAN": 55,
+    "LIGHT": 25,
+    "DARK": 20
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated rewrite aligned with HCU Quantum Time, archaeological epistemic caution, and the three-center architecture",
+    "status": "reviewed-rewrite",
+    "note": "Human dominates because the story resolves the circle/quadrilateral tension through relational growth, shared space, protective boundaries, participation, reversibility and responsibility. Light contributes order, verification and safety. Dark contributes openness, deviation and transformation."
   },
   "coverage_audit": {
     "coverage_complete": true,

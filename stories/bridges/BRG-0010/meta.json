@@ -7,14 +7,18 @@
   "source_language": "en",
   "book_order": 12,
   "culture": [
-    "mathematical history",
-    "Riha oral memory"
+    "Göbekli Tepe",
+    "Karahantepe",
+    "Taş Tepeler",
+    "human-centered spatial metaphors"
   ],
   "belief_context": [
-    "pattern interpretation",
-    "epistemic caution"
+    "archaeological epistemic caution",
+    "relationship and boundary",
+    "growth and deviation",
+    "plural interpretation"
   ],
-  "summary": "The golden ratio becomes a lesson in mathematical relation rather than universal perfection: meaning appears where living systems preserve relationship while allowing historically meaningful deviation.",
+  "summary": "Göbekli Tepe's circular monumental form and Karahantepe's quadrilateral spaces become carefully bounded metaphors for relation and boundary. The story explicitly refuses to project modern meanings onto Neolithic people and defines human-centered growth as the capacity to change without destroying relationship.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -23,50 +27,74 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0010/cember-dortgen-gobeklitepe-karahantepe.png",
+    "alt": {
+      "en": "A cinematic night landscape joins a circular Göbekli Tepe-like enclosure of T-shaped pillars with Karahantepe-like quadrilateral stone spaces, with people inhabiting both forms and a winding path between them; no text appears in the image.",
+      "tr": "Sinematik gece manzarasında T biçimli dikilitaşlardan oluşan Göbekli Tepe benzeri dairesel alan ile Karahantepe benzeri dörtgen taş mekânlar, insanların yaşadığı iki farklı biçim ve aralarındaki kıvrımlı bir yol olarak birlikte görünür; görselde yazı yoktur."
+    }
+  },
   "links": [
+    {
+      "target": "BRG-0009",
+      "type": "quantum_echo",
+      "note": "Finite responsibility and infinite possibility resonate with the question of how a living structure can preserve identity while changing form."
+    },
     {
       "target": "LGT-0001",
       "type": "contrast",
-      "note": "Perfected repetition anticipates Light's temptation to eliminate deviation."
+      "note": "Perfected order contrasts with Light when protection and optimization become authority over what kinds of difference are allowed."
     },
     {
       "target": "DRK-0001",
       "type": "contrast",
-      "note": "Unlimited variation anticipates Dark's temptation to dissolve distinguishable structure."
+      "note": "Unlimited variation contrasts with Dark when open possibility dissolves shared boundaries, memory, and responsibility."
     },
     {
       "target": "COM-0001",
       "type": "echo",
-      "note": "Relational proportion with room for difference anticipates Common."
+      "note": "The coexistence of common circles, protective boundaries, and revisable passages resonates with the relational architecture of the Human Center."
+    },
+    {
+      "target": "BRG-0001",
+      "type": "echo",
+      "note": "The archaeological stone landscape resonates with the Stone Network while remaining explicitly separate from claims about what Neolithic builders intended."
     }
   ],
   "interactions": [
     {
-      "threshold": "φ",
-      "key": "harmony_model",
+      "threshold": "◯□",
+      "key": "circle_boundary_passage",
       "type": "select",
       "world_seed": true,
       "label": {
-        "en": "Broken Harmony",
-        "tr": "Bozulan Uyum"
+        "en": "Circle and Quadrilateral",
+        "tr": "Çember ve Dörtgen"
       },
       "prompt": {
-        "en": "What protects harmony in your world?",
-        "tr": "Dünyanızda uyumu koruyan şey nedir?"
+        "en": "What is most missing from the system you are thinking about?",
+        "tr": "Düşündüğünüz sistemde en çok hangisi eksik?"
       },
       "options": [
         {
-          "value": "perfect_repetition",
+          "value": "circle",
           "label": {
-            "en": "Perfect repetition",
-            "tr": "Kusursuz tekrar"
+            "en": "A shared circle for relationship",
+            "tr": "İlişki kuracak ortak bir çember"
           }
         },
         {
-          "value": "right_to_differ",
+          "value": "boundary",
           "label": {
-            "en": "The right to differ without destroying the whole",
-            "tr": "Bütünü yıkmadan farklılaşabilme hakkı"
+            "en": "Clearer protective boundaries",
+            "tr": "Daha açık koruyucu sınırlar"
+          }
+        },
+        {
+          "value": "passage",
+          "label": {
+            "en": "A new passage between relation and boundary",
+            "tr": "İlişki ile sınır arasında yeni bir geçit"
           }
         }
       ]
@@ -75,11 +103,13 @@
   "localized": {
     "tr": {
       "title": "Kusursuz Olan Büyümez",
-      "summary": "Altın oran evrensel kusursuzluğun değil, matematiksel ilişkinin dersi hâline gelir: anlam, yaşayan yapıların ilişkiyi korurken tarih taşıyan sapmalara da yer açtığı noktada ortaya çıkar.",
+      "summary": "Göbekli Tepe'nin dairesel anıtsal formu ile Karahantepe'nin dörtgene yaklaşan mekânları, ilişki ve sınır üzerine dikkatle sınırlandırılmış iki modern metafora dönüşür. Hikâye Neolitik insanlara bugünkü anlamları zorla yüklemeyi açıkça reddeder ve İnsan Merkezli büyümeyi ilişkiyi yok etmeden biçim değiştirebilme kapasitesi olarak tanımlar.",
       "link_notes": {
-        "LGT-0001": "Kusursuzlaştırılmış tekrar, Aydınlık'ın sapmayı ortadan kaldırma eğilimini önceler.",
-        "DRK-0001": "Sınırsız çeşitlilik, Karanlık'ın ayırt edilebilir yapıyı çözme eğilimini önceler.",
-        "COM-0001": "Farklılığa yer açan ilişkisel oran Ortak Merkez'i önceler."
+        "BRG-0009": "Sonlu sorumluluk ve sonsuz ihtimal, yaşayan bir yapının biçim değiştirirken kimliğini nasıl koruyabileceği sorusuyla kuantumsal olarak yankılanır.",
+        "LGT-0001": "Kusursuzlaştırılmış düzen, koruma ve optimizasyon hangi farklılıklara izin verileceği üzerinde otoriteye dönüştüğünde Aydınlık ile karşıtlık oluşturur.",
+        "DRK-0001": "Sınırsız çeşitlilik, açık ihtimal ortak sınırları, hafızayı ve sorumluluğu çözdüğünde Karanlık ile karşıtlık oluşturur.",
+        "COM-0001": "Ortak çemberlerin, koruyucu sınırların ve yeniden kurulabilir geçitlerin birlikte varlığı İnsan Merkezi'nin ilişkisel mimarisiyle yankılanır.",
+        "BRG-0001": "Arkeolojik taş peyzajı Taş Ağ ile yankılanır; ancak Neolitik yapı ustalarının niyetleri hakkındaki iddialardan açıkça ayrı tutulur."
       }
     }
   }
