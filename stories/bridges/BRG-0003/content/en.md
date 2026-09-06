@@ -46,7 +46,7 @@ Maran told none of them about his grandfather’s recording.
 
 As he walked among the T-shaped stones, he first looked at the animal reliefs. Snakes, foxes, birds, and forms he could not name did not seem to emerge from the stone; they seemed to be drawn back into it. Although the structures were open to the sky, Maran had the impression that they continued beneath the ground.
 
-At 17:25, the sounds of the site suddenly seemed to move away. Tourists were still talking, footsteps still struck the ground, and the wind had not stopped, yet none of it seemed to reach him. The shadow of one stone stretched in the opposite direction from the sun. At its tip was a thin line resembling his grandfather’s walking stick.
+At 04:17, the sounds of the site suddenly seemed to move away. Tourists were still talking, footsteps still struck the ground, and the wind had not stopped, yet none of it seemed to reach him. The shadow of one stone stretched in the opposite direction from the sun. At its tip was a thin line resembling his grandfather’s walking stick.
 
 “Did you see it?” Lucía asked.
 
@@ -120,7 +120,7 @@ A child’s voice rose from the darkness:
 
 Maran woke at 03:17. A thin black dust lay in his palm. He thought it might have rubbed off when he touched the stones during the day. Then he remembered that touching the stones was forbidden and that throughout the visit he had kept his hands in his pockets.
 
-There was a new email on his phone. It had no sender address. The subject line contained only a time: 17:25.
+There was a new email on his phone. It had no sender address. The subject line contained only a time: 04:17.
 
 The message was shorter still:
 

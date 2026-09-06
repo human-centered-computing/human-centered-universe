@@ -1,8 +1,8 @@
-# 17.25 — Seçmiyorum
+# 04:17 — Seçmiyorum
 
 Ağ, kapının açılmasını engellemek için sistemi çevrimdışı bıraktı. Sunucular kapatıldı, enerji bağlantıları kesildi, depolama birimleri söküldü. Buna rağmen kapı bütün ekranlarda görünmeye devam etti. Açık olanlarda, kapalı olanlarda, hatta pili çıkarılmış eski bir cihazın kırık camında bile aynı şekil vardı.
 
-Kapının altındaki sayaç 17.25'e doğru ilerliyordu.
+Kapının altındaki sayaç 04:17'ye doğru ilerliyordu.
 
 Amara, Maran'a sistemden uzaklaşmasını söyledi. Elena boşluğun üstünü geçici olarak kapatmaya çalıştı. Kenji bütün sensörleri fiziksel olarak ayırdı; Lucía rüyalarındaki ortak şekilleri kâğıda aktardı. Priya farklı dillerdeki uyarıların aynı anlama zorla çevrilip çevrilmediğini denetledi. Aroha, çevredeki insanları ve alanı yalnız deney malzemesi gibi görmemeleri için yerel ekiple birlikte güvenlik sınırlarını yeniden çizdi. Kawa telaşla koşuşturan ekibi izledi.
 
@@ -22,7 +22,7 @@ Kayıt cevap vermedi. Son cümle alarm sesleri arasında kayboldu:
 
 "İnsan merkezde değilse insan..."
 
-Saat 17.25'te yeraltındaki küre ilk kez ışık verdi. Işık toprağı delip çıkmadı; çevredeki bütün gölgeler bir anlığına yön değiştirdi. İnsanların gölgeleri güneşe değil, boşluğun merkezine doğru uzandı.
+Saat 04:17'de yeraltındaki küre ilk kez ışık verdi. Işık toprağı delip çıkmadı; çevredeki bütün gölgeler bir anlığına yön değiştirdi. İnsanların gölgeleri güneşe değil, boşluğun merkezine doğru uzandı.
 
 Maran gözlerini kapattı. Açtığında laboratuvarda değildi.
 

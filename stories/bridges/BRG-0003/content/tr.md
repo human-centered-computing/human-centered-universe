@@ -44,7 +44,7 @@ Maran onların hiçbirine dedesinin kaydından söz etmedi.
 
 T biçimli taşların arasında dolaşırken ilk olarak hayvan kabartmalarına baktı. Yılanlar, tilkiler, kuşlar ve tanımlayamadığı şekiller taştan çıkmıyor; sanki taş onları yeniden içine çekiyordu. Yapılar gökyüzüne açılmış olmasına rağmen Maran'a toprağın altında devam ediyormuş gibi göründü.
 
-Saat 17.25'te ziyaret alanındaki sesler bir anlığına uzaklaştı. Turistlerin konuşmaları, ayak sesleri ve rüzgâr kesilmedi; fakat Maran bunların hiçbirinin kendisine ulaşmadığını hissetti. Taşlardan birinin gölgesi güneşin ters yönüne uzandı. Gölgenin ucunda dedesinin bastonuna benzeyen ince bir çizgi vardı.
+Saat 04:17'de ziyaret alanındaki sesler bir anlığına uzaklaştı. Turistlerin konuşmaları, ayak sesleri ve rüzgâr kesilmedi; fakat Maran bunların hiçbirinin kendisine ulaşmadığını hissetti. Taşlardan birinin gölgesi güneşin ters yönüne uzandı. Gölgenin ucunda dedesinin bastonuna benzeyen ince bir çizgi vardı.
 
 "Gördün mü?" diye sordu Lucía.
 
@@ -118,7 +118,7 @@ Karanlığın içinden bir çocuk sesi yükseldi:
 
 Maran uyandığında saat 03.17'ydi. Avucunda ince, siyah bir toz vardı. Bunun gün içinde taşlara dokunduğunda bulaşmış olabileceğini düşündü. Sonra taşlara dokunmanın yasak olduğunu ve bütün gezi boyunca ellerini cebinden çıkarmadığını hatırladı.
 
-Telefonunda yeni bir e-posta bulunuyordu. Gönderen adresi yoktu. Konu satırında yalnız bir saat yazıyordu: 17.25.
+Telefonunda yeni bir e-posta bulunuyordu. Gönderen adresi yoktu. Konu satırında yalnız bir saat yazıyordu: 04:17.
 
 Mesaj daha kısaydı:
 

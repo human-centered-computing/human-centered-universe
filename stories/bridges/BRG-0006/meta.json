@@ -41,7 +41,7 @@
     {
       "target": "BRG-0007",
       "type": "cause",
-      "note": "Their simultaneous activation opens the Creation Protocol and the 17:25 countdown."
+      "note": "Their simultaneous activation opens the Creation Protocol and the 04:17 countdown."
     },
     {
       "target": "COM-0001",
@@ -55,7 +55,7 @@
       "summary": "Taş Ağ dört insan adını görünür kılar: Maran, Luka, Ayo ve Rojin. Numaralı işlevler ilişkisel kişilere dönüşürken sistem bir kişinin kimliğini, dinini, etnik kökenini veya karakterini isminden çıkarmayı açıkça reddeder.",
       "link_notes": {
         "COM-0003": "Dört isim, Çağrıyı Duyanlar ağı üzerinden katkı sunulan örüntülerden beslenir.",
-        "BRG-0007": "Dört ismin aynı anda etkinleşmesi Yaratılış Protokolü'nü ve 17.25 geri sayımını açar.",
+        "BRG-0007": "Dört ismin aynı anda etkinleşmesi Yaratılış Protokolü'nü ve 04:17 geri sayımını açar.",
         "COM-0001": "Daha sonraki birlikte varoluşları Ortak Merkez'in ilişkisel mimarisini besler."
       }
     }

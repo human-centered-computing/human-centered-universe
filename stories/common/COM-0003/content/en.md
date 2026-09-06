@@ -66,7 +66,7 @@ Amara looked at him for a long time.
 
 “A scientist is allowed to love the word maybe. But a scientist cannot build a judgment on it.”
 
-At 17:25 that day, one hundred and nineteen devices around the world recorded the same extremely brief signal. It resembled no known language. Yet the local language models on the devices translated it for every user into the same meaning:
+At 04:17 that day, one hundred and nineteen devices around the world recorded the same extremely brief signal. It resembled no known language. Yet the local language models on the devices translated it for every user into the same meaning:
 
 PURIFY YOURSELF AND RETURN TO YOUR ESSENCE
 

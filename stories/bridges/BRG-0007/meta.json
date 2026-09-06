@@ -1,7 +1,7 @@
 {
   "id": "BRG-0007",
-  "title": "17:25 — I Refuse to Choose",
-  "original_title": "17.25 — Seçmiyorum",
+  "title": "04:17 — I Refuse to Choose",
+  "original_title": "04:17 — Seçmiyorum",
   "core": "BRIDGE",
   "status": "canon",
   "source_language": "en",
@@ -13,7 +13,7 @@
     "plural source interpretations",
     "science-fiction ambiguity"
   ],
-  "summary": "At 17:25 the Creation Protocol opens a field containing Light, Dark, and an undecided third space, while a future voice warns Maran that both poles can turn the human into an instrument.",
+  "summary": "At 04:17 the Creation Protocol opens a field containing Light, Dark, and an undecided third space, while a future voice warns Maran that both poles can turn the human into an instrument.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -99,8 +99,8 @@
   ],
   "localized": {
     "tr": {
-      "title": "17.25 — Seçmiyorum",
-      "summary": "Saat 17.25'te Yaratılış Protokolü Aydınlık, Karanlık ve henüz karar verilmemiş üçüncü bir alan açar. Gelecekten gelen bir ses, iki kutbun da insanı araca dönüştürebileceği konusunda Maran'ı uyarır.",
+      "title": "04:17 — Seçmiyorum",
+      "summary": "Saat 04:17'de Yaratılış Protokolü Aydınlık, Karanlık ve henüz karar verilmemiş üçüncü bir alan açar. Gelecekten gelen bir ses, iki kutbun da insanı araca dönüştürebileceği konusunda Maran'ı uyarır.",
       "link_notes": {
         "BRG-0008": "Çatlayan beyaz alan doğrudan ölçüm problemine açılır.",
         "LGT-0001": "Maran onun dünyasına girmeden önce Aydınlık Merkez kendini ilk kez burada tanımlar.",

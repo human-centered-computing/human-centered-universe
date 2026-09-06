@@ -48,7 +48,7 @@ Sayfanın üstünde üç sözcük duruyordu: OKU / KEŞFET / OLUŞTUR. Okur bir 
 
 Bağlantıyı açtığında sayfa henüz çok küçüktü. Birkaç depo, kısa bir manifesto ve yapılmayı bekleyen çok sayıda iş vardı. Bunun gördüğü geleceğin başlangıcı mı, yoksa bütün yaşadıklarının kaynağı mı olduğunu anlayamadı.
 
-Saat 17.25 oldu.
+Saat 04:17 oldu.
 
 Ekranda yeni bir bildirim belirdi.
 

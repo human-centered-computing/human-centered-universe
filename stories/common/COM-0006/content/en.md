@@ -56,7 +56,7 @@ A reader did not have to follow the story only in sequence. They could follow co
 
 When Maran opened the repository, the page was still small. A handful of repositories, a short manifesto, and a great deal of unfinished work. He could not tell whether he was seeing the beginning of the future he had witnessed, or the source from which everything had already come.
 
-The time became 17:25.
+The time became 04:17.
 
 A new notification appeared:
 

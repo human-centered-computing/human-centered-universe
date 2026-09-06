@@ -22,7 +22,7 @@ Kawa, Göbekli Tepe'nin planını altın dikdörtgenin üzerine yerleştiren gö
 
 "Taşlara konuşmadıkları bir dili zorla söyletmeyin," dedi. "Bir desen bulmanız, onu yapanların o deseni bildiğini göstermez."
 
-Maran sistemin eski kayıtlarını açtı. Kenji'nin 17.25'te yakaladığı darbelerin her biri, çok boyutlu faz haritasında bir öncekine göre yaklaşık 137,5 derece dönüyordu. Bu değer, tam bir turu altın orana göre bölen altın açıya yakındı. Aynı açı bazı bitkilerde yaprakların ışık ve alan paylaşımını kolaylaştıran dizilişlerde görülebiliyordu.
+Maran sistemin eski kayıtlarını açtı. Kenji'nin 04:17'de yakaladığı darbelerin her biri, çok boyutlu faz haritasında bir öncekine göre yaklaşık 137,5 derece dönüyordu. Bu değer, tam bir turu altın orana göre bölen altın açıya yakındı. Aynı açı bazı bitkilerde yaprakların ışık ve alan paylaşımını kolaylaştıran dizilişlerde görülebiliyordu.
 
 137,5° / ALTIN AÇI / YAKLAŞIK DEĞER
 

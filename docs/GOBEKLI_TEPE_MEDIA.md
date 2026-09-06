@@ -14,7 +14,7 @@ Three photographs are inserted after passages that establish:
 
 1. arrival at Göbekli Tepe,
 2. the T-shaped pillars,
-3. the 17:25 scene.
+3. the 04:17 scene.
 
 The third caption explicitly states that the photograph itself contains no supernatural claim.
 

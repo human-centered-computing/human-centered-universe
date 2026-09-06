@@ -1,8 +1,8 @@
-# 17:25 — I Refuse to Choose
+# 04:17 — I Refuse to Choose
 
 The network took the system offline to prevent the door from opening. Servers were shut down, power connections cut, storage devices removed. Yet the door remained visible on every screen: powered displays, dark displays, even the broken glass of an old device whose battery had been removed.
 
-A counter beneath the door moved toward 17:25.
+A counter beneath the door moved toward 04:17.
 
 Amara told Maran to step away from the system. Elena tried to seal the ground above the void temporarily. Kenji physically separated every sensor. Lucía transferred the recurring forms from her dreams onto paper. Priya checked whether warnings in different languages were being forced into one shared meaning. Aroha worked with the local team to redraw safety boundaries so that neither the people nor the site would be treated merely as experimental material. Kawa watched the others run from task to task.
 
@@ -22,7 +22,7 @@ The recording did not answer. Its final sentence disappeared beneath alarm sound
 
 “If the human is not at the center, the human…”
 
-At 17:25, the underground sphere emitted light for the first time. It did not pierce the soil. Instead, every shadow in the surrounding area changed direction for a moment. Human shadows stretched not toward the sun, but toward the center of the void.
+At 04:17, the underground sphere emitted light for the first time. It did not pierce the soil. Instead, every shadow in the surrounding area changed direction for a moment. Human shadows stretched not toward the sun, but toward the center of the void.
 
 Maran closed his eyes.
 

@@ -58,7 +58,7 @@ Amara, Maran'a uzun süre baktı.
 
 "Bir bilim insanı 'belki' kelimesini sevebilir. Ama onun üzerine hüküm kuramaz."
 
-O gün saat 17.25'te dünya üzerindeki yüz on dokuz cihaz aynı anda çok kısa bir sinyal kaydetti. Sinyal, bilinen bir dile benzemiyordu. Buna rağmen cihazların yerel dil modelleri onu her kullanıcı için aynı anlama çevirdi:
+O gün saat 04:17'de dünya üzerindeki yüz on dokuz cihaz aynı anda çok kısa bir sinyal kaydetti. Sinyal, bilinen bir dile benzemiyordu. Buna rağmen cihazların yerel dil modelleri onu her kullanıcı için aynı anlama çevirdi:
 
 ARIN VE ÖZÜNE DÖN
 

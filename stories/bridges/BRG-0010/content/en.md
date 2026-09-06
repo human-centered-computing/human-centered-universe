@@ -22,7 +22,7 @@ Kawa closed an image that overlaid a golden rectangle on the plan of Göbekli Te
 
 “Do not force the stones to speak a language they never spoke,” he said. “Finding a pattern does not prove that the people who made the object knew that pattern.”
 
-Maran opened the system’s older records. Each pulse Kenji had captured at 17:25 was rotated by about 137.5 degrees relative to the previous one on a multidimensional phase map. The value was close to the golden angle, the angle that divides a full turn according to the golden ratio. A similar angle could appear in the arrangement of leaves in some plants, helping them share light and space efficiently.
+Maran opened the system’s older records. Each pulse Kenji had captured at 04:17 was rotated by about 137.5 degrees relative to the previous one on a multidimensional phase map. The value was close to the golden angle, the angle that divides a full turn according to the golden ratio. A similar angle could appear in the arrangement of leaves in some plants, helping them share light and space efficiently.
 
 137.5° / GOLDEN ANGLE / APPROXIMATE VALUE
 
