@@ -7,13 +7,17 @@
   "source_language": "en",
   "book_order": 9,
   "culture": [
-    "global signal network"
+    "global signal network",
+    "distributed human observers",
+    "plural social futures"
   ],
   "belief_context": [
     "plural source interpretations",
-    "science-fiction ambiguity"
+    "human dignity and agency",
+    "science-fiction ambiguity",
+    "freedom, safety, consent and responsibility"
   ],
-  "summary": "At 04:17 the Creation Protocol opens a field containing Light, Dark, and an undecided third space, while a future voice warns Maran that both poles can turn the human into an instrument.",
+  "summary": "At 04:17, Maran, Luka, Ayo, and Rojin confront the Light and Dark Centers as competing system logics. Maran's refusal to choose is not indecision but a rejection of a false binary, leading the four to define the Human Center as a relational method grounded in dignity, consent, responsibility, evidence, memory, and contestability.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -22,26 +26,33 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0007/0417-secmiyorum-insan-merkezi.png",
+    "alt": {
+      "en": "Four human observers stand before a monumental threshold between a radiant ordered realm and a dark field of possibility, while a third relational space emerges between them rather than as a ruling center.",
+      "tr": "Dört insan gözlemci, düzeni temsil eden aydınlık bir alan ile ihtimalleri temsil eden karanlık alan arasındaki büyük eşiğin önünde durur; üçüncü alan hükmeden bir merkez değil, aralarında oluşan ilişkisel bir alan olarak belirir."
+    }
+  },
   "links": [
     {
       "target": "BRG-0008",
       "type": "cause",
-      "note": "The cracked white field leads directly into the problem of measurement."
+      "note": "Rejecting the false Light-versus-Dark binary leads directly to the problem of measurement and the question of which evidence an observer notices first."
     },
     {
       "target": "LGT-0001",
       "type": "future",
-      "note": "The Light Center first identifies itself here before Maran enters its world."
+      "note": "The Light Center is revealed here as a system logic of order, safety, prediction, visibility, and protection whose excess can reduce human agency."
     },
     {
       "target": "DRK-0001",
       "type": "future",
-      "note": "The Dark Center first identifies itself here before Maran enters its world."
+      "note": "The Dark Center is revealed here as a system logic of possibility, freedom, uncertainty, and transformation whose excess can abandon people to consequences."
     },
     {
       "target": "BRG-0012",
       "type": "quantum_echo",
-      "note": "The same undecidable origin signal returns in Record X."
+      "note": "The unresolved source of the 04:17 call returns in Record X as another undecidable origin signal."
     }
   ],
   "interactions": [
@@ -100,12 +111,12 @@
   "localized": {
     "tr": {
       "title": "04:17 — Seçmiyorum",
-      "summary": "Saat 04:17'de Yaratılış Protokolü Aydınlık, Karanlık ve henüz karar verilmemiş üçüncü bir alan açar. Gelecekten gelen bir ses, iki kutbun da insanı araca dönüştürebileceği konusunda Maran'ı uyarır.",
+      "summary": "04:17'de Maran, Luka, Ayo ve Rojin Aydınlık ile Karanlık Merkezleri iki rakip sistem mantığı olarak deneyimler. Maran'ın “Seçmiyorum” sözü kararsızlık değil, sahte ikiliğin reddidir. Dört kişi İnsan Merkezi'ni insan onuru, rıza, sorumluluk, kanıt, hafıza ve itiraz hakkı üzerinden her durumda yeniden kurulan ilişkisel bir yöntem olarak tanımlar.",
       "link_notes": {
-        "BRG-0008": "Çatlayan beyaz alan doğrudan ölçüm problemine açılır.",
-        "LGT-0001": "Maran onun dünyasına girmeden önce Aydınlık Merkez kendini ilk kez burada tanımlar.",
-        "DRK-0001": "Maran onun dünyasına girmeden önce Karanlık Merkez kendini ilk kez burada tanımlar.",
-        "BRG-0012": "Aynı kararsız köken sinyali Kayıt X'te yeniden ortaya çıkar."
+        "BRG-0008": "Aydınlık-Karanlık sahte ikiliğinin reddi doğrudan ölçüm problemine ve gözlemcinin hangi kanıtı önce fark ettiği sorusuna açılır.",
+        "LGT-0001": "Aydınlık Merkez burada düzen, güvenlik, öngörü, görünürlük ve koruma mantığı olarak belirir; aşırılığı insanın eyleyebilme gücünü azaltabilir.",
+        "DRK-0001": "Karanlık Merkez burada ihtimal, özgürlük, belirsizlik ve dönüşüm mantığı olarak belirir; aşırılığı insanları sonuçlarla yalnız bırakabilir.",
+        "BRG-0012": "04:17 çağrısının çözülemeyen kaynağı Kayıt X'te başka bir kararsız köken sinyali olarak geri döner."
       }
     }
   }

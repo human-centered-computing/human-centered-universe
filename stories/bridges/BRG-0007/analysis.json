@@ -1,15 +1,15 @@
 {
   "schema": "hcu-story-analysis",
-  "primary_center": "DARK",
+  "primary_center": "HUMAN",
   "center_weights": {
-    "HUMAN": 35,
-    "LIGHT": 10,
-    "DARK": 55
+    "HUMAN": 45,
+    "LIGHT": 15,
+    "DARK": 40
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated rewrite aligned with the current HCU three-center architecture and the BRG-0006 → BRG-0007 → BRG-0008 narrative chain",
+    "status": "reviewed-rewrite",
+    "note": "The Human Center becomes dominant because the story explicitly defines a relational method based on dignity, consent, responsibility and contestability. Dark remains strongly present through uncertainty, possibility and refusal of a false binary; Light remains present through evidence, order and protection."
   },
   "coverage_audit": {
     "coverage_complete": true,
