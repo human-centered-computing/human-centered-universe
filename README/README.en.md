@@ -2,16 +2,16 @@
 
 <p align="center">
   <strong>Languages:</strong>
-  <a href="README.md">English</a> ·
-  <a href="README.tr.md">Türkçe</a> ·
-  <a href="README/README.en.md">README/en</a> ·
-  <a href="README/README.tr.md">README/tr</a>
+  <a href="../README.md">English</a> ·
+  <a href="../README.tr.md">Türkçe</a> ·
+  <a href="README.en.md">README/en</a> ·
+  <a href="README.tr.md">README/tr</a>
 </p>
 
 > English is the canonical project documentation language. Localized README files follow the same architecture and can be expanded as new HCU interface languages are added.
 
 <p align="center">
-  <img src="README/assets/hcu-three-centers-triangle.png" alt="Human-Centered Universe Three-Center Narrative Model" width="900">
+  <img src="assets/hcu-three-centers-triangle.png" alt="Human-Centered Universe Three-Center Narrative Model" width="900">
 </p>
 
 ## Three-Center Narrative Model

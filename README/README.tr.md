@@ -2,16 +2,16 @@
 
 <p align="center">
   <strong>Diller:</strong>
-  <a href="README.md">English</a> ·
-  <a href="README.tr.md">Türkçe</a> ·
-  <a href="README/README.en.md">README/en</a> ·
-  <a href="README/README.tr.md">README/tr</a>
+  <a href="../README.md">English</a> ·
+  <a href="../README.tr.md">Türkçe</a> ·
+  <a href="README.en.md">README/en</a> ·
+  <a href="README.tr.md">README/tr</a>
 </p>
 
 > İngilizce proje dokümantasyonunun kanonik dilidir. Bu dosya ana klasördeki Türkçe README sürümüdür.
 
 <p align="center">
-  <img src="README/assets/hcu-three-centers-triangle.png" alt="Human-Centered Universe Üç Merkezli Anlatı Modeli" width="900">
+  <img src="assets/hcu-three-centers-triangle.png" alt="Human-Centered Universe Üç Merkezli Anlatı Modeli" width="900">
 </p>
 
 ## Üç Merkezli Anlatı Modeli
