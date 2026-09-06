@@ -24,6 +24,13 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0005/sahmaran-zehir-sifa.png",
+    "alt": {
+      "en": "An artistic vision of Shahmaran in an ancient subterranean sanctuary, holding poison in shadow and healing light in balance.",
+      "tr": "Kadim bir yeraltı mabedinde, gölgede zehri ve ışıkta şifayı dengede tutan Şahmaran'ın sanatsal tasviri."
+    }
+  },
   "links": [
     {
       "target": "BRG-0001",
