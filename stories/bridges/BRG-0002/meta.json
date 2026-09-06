@@ -23,6 +23,13 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0002/ilk-titresim-kozmik-sarmal.png",
+    "alt": {
+      "en": "A symbolic cosmic double spiral of golden light rising among the ancient pillars of Göbekli Tepe, with no human figures.",
+      "tr": "Göbekli Tepe'nin kadim sütunları arasında yükselen, insan figürü içermeyen altın ışıklı simgesel kozmik çift sarmal."
+    }
+  },
   "links": [
     {
       "target": "LGT-0001",
