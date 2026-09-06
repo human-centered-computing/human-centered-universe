@@ -1,46 +1,35 @@
 # README Language Architecture
 
-Canonical root files:
+## Canonical files
 
-- `README.md` — English
-- `README.tr.md` — Turkish
+- `/README.md` — English canonical
+- `/README.tr.md` — Turkish root copy
 
-Localized README directory:
+## Localized README files
 
-```text
-README/
-├── README.en.md
-├── README.tr.md
-├── LANGUAGES.md
-└── assets/
-    └── hcu-three-centers-triangle.png
-```
+- `README/README.en.md` — English
+- `README/README.tr.md` — Türkçe
+- `README/README.de.md` — Deutsch
+- `README/README.ku.md` — Kurmancî
+- `README/README.ar.md` — العربية
+- `README/README.es.md` — Español
+- `README/README.zh-CN.md` — 简体中文
+- `README/README.ja.md` — 日本語
 
-## Rule
+Shared visual:
 
-- English remains canonical.
-- Turkish is provided both in the repository root and inside `README/`.
-- When a new interface locale is added, create the matching file:
-  - `README/README.de.md`
-  - `README/README.fr.md`
-  - `README/README.es.md`
-  - `README/README.ar.md`
-  - `README/README.ku.md`
-  - etc.
+- `README/assets/hcu-three-centers-triangle.png`
 
-## Naming
+## Naming rule
 
 Use:
 
 `README.<language-code>.md`
 
-Prefer BCP-47 / ISO compatible language codes.
+Prefer BCP-47 / ISO-compatible language codes.
 
-## Synchronization
+## Synchronization rule
 
-When the canonical README changes, update:
-- `README.md`
-- `README.tr.md`
-- localized files under `README/`
+English remains canonical. When the Three-Center Model, Observer Model, Quantum Time, Universe Creator, language policy, or Git workflow changes, localized README files should be updated from the same canonical revision.
 
-HCU-specific terms such as HUMAN / LIGHT / DARK, Quantum Time, Observer State, story node IDs, and file paths should remain technically traceable to the canonical English version.
+HCU-specific terms such as HUMAN / LIGHT / DARK, Observer State, Quantum Time, node IDs, and repository paths should remain technically traceable to the canonical English version.

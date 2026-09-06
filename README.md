@@ -4,8 +4,12 @@
   <strong>Languages:</strong>
   <a href="README.md">English</a> ·
   <a href="README.tr.md">Türkçe</a> ·
-  <a href="README/README.en.md">README/en</a> ·
-  <a href="README/README.tr.md">README/tr</a>
+  <a href="README/README.de.md">Deutsch</a> ·
+  <a href="README/README.ku.md">Kurmancî</a> ·
+  <a href="README/README.ar.md">العربية</a> ·
+  <a href="README/README.es.md">Español</a> ·
+  <a href="README/README.zh-CN.md">简体中文</a> ·
+  <a href="README/README.ja.md">日本語</a>
 </p>
 
 > English is the canonical project documentation language. Localized README files follow the same architecture and can be expanded as new HCU interface languages are added.
