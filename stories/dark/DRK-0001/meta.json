@@ -7,12 +7,17 @@
   "source_language": "en",
   "book_order": 14,
   "culture": [
-    "future plural world"
+    "future plural world",
+    "open-source contribution culture",
+    "adaptive communities"
   ],
   "belief_context": [
-    "political and ethical thought experiment"
+    "political and ethical thought experiment",
+    "freedom and responsibility",
+    "identity and memory",
+    "plural possibility"
   ],
-  "summary": "Maran enters a world of unlimited creation and identity where freedom has no stable shared consequence, revealing both the gift of possibility and the danger of responsibility-free power.",
+  "summary": "Maran enters a world where identities, institutions, knowledge and agreements can continuously change. Dark reveals the gift of possibility, but also the danger of freedom when consequences, memory, contribution and shared responsibility can be made invisible.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -21,31 +26,83 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/DRK-0001/duserken-tutundugun-el.png",
+    "alt": {
+      "en": "A textless and human-free panoramic world divided between luminous floating cities, gardens and waterfalls and a dark unstable realm of shattered bridges, cliffs, storms and changing structures, symbolizing open possibility and the need for shared connection.",
+      "tr": "Yazısız ve insansız panoramik sahnede bir yanda ışıklı yüzen şehirler, bahçeler ve şelaleler; diğer yanda parçalanmış köprüler, uçurumlar, fırtınalar ve sürekli değişen yapılar bulunur; açık ihtimal ile ortak bağ gereksinimi simgelenir."
+    }
+  },
   "links": [
     {
       "target": "LGT-0001",
       "type": "contrast",
-      "note": "Unrestricted possibility is tested against total protection."
+      "note": "Dark's unrestricted possibility contrasts with Light's drive to eliminate preventable uncertainty; both become dangerous when freedom or safety becomes absolute."
     },
     {
       "target": "COM-0001",
-      "type": "cause",
-      "note": "Freedom without shared consequence demonstrates the need for a relational third center."
+      "type": "echo",
+      "note": "Memory, traceable contribution, shared consequence and relational responsibility resonate with the Human Center without implying chronological succession."
     },
     {
       "target": "BRG-0002",
       "type": "memory",
-      "note": "The world magnifies the primordial Darkness's capacity for possibility."
+      "note": "This world magnifies Darkness as possibility, plurality, uncertainty, creation and transformation without treating Darkness as evil."
+    },
+    {
+      "target": "BRG-0010",
+      "type": "quantum_echo",
+      "note": "Unlimited variation and the problem of maintaining shared boundaries illuminate one another across observer paths rather than as before-and-after stages."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "◐",
+      "key": "right_to_hold",
+      "type": "select",
+      "world_seed": true,
+      "label": {
+        "en": "The Right to Hold On",
+        "tr": "Tutunma Hakkı"
+      },
+      "prompt": {
+        "en": "What must freedom preserve so that it does not erase other people?",
+        "tr": "Özgürlük başka insanları görünmez hâle getirmemek için neyi korumalı?"
+      },
+      "options": [
+        {
+          "value": "memory",
+          "label": {
+            "en": "Memory and contribution",
+            "tr": "Hafıza ve katkı"
+          }
+        },
+        {
+          "value": "consequence",
+          "label": {
+            "en": "Visible consequences",
+            "tr": "Görünür sonuçlar"
+          }
+        },
+        {
+          "value": "relationship",
+          "label": {
+            "en": "Shared relational space",
+            "tr": "Ortak ilişkisel alan"
+          }
+        }
+      ]
     }
   ],
   "localized": {
     "tr": {
       "title": "Düşerken Tutunduğun El",
-      "summary": "Maran sınırsız yaratım ve kimlik özgürlüğünün olduğu bir dünyaya girer. Ortak sonuç ve sorumluluk olmayınca ihtimalin armağanı, sonuçlardan kaçabilen gücün tehlikesine dönüşür.",
+      "summary": "Maran kimliklerin, kurumların, bilginin ve anlaşmaların sürekli değişebildiği bir dünyaya girer. Karanlık ihtimalin armağanını görünür kılar; fakat sonuç, hafıza, katkı ve ortak sorumluluk görünmez olduğunda özgürlüğün nasıl başkalarının dünyasını silebildiğini de gösterir.",
       "link_notes": {
-        "LGT-0001": "Sınırsız ihtimal toplam korumayla sınanır.",
-        "COM-0001": "Ortak sonucu olmayan özgürlük, ilişkisel üçüncü merkezin gerekliliğini gösterir.",
-        "BRG-0002": "Bu dünya, ilk Karanlık'ın ihtimal üretme kapasitesini büyütür."
+        "LGT-0001": "Karanlık'ın sınırsız ihtimali, Aydınlık'ın önlenebilir belirsizliği ortadan kaldırma çabasıyla karşıtlık kurar; özgürlük veya güvenlik mutlaklaştığında ikisi de tehlikeli hâle gelebilir.",
+        "COM-0001": "Hafıza, görünür katkı, ortak sonuç ve ilişkisel sorumluluk kronolojik bir sıra varsaymadan İnsan Merkezi ile yankılanır.",
+        "BRG-0002": "Bu dünya Karanlık'ı kötülük olarak değil; ihtimal, çoğulluk, belirsizlik, yaratım ve dönüşüm kapasitesi olarak büyütür.",
+        "BRG-0010": "Sınırsız çeşitlilik ile ortak sınırları koruma problemi, önce-sonra aşamaları olarak değil farklı gözlem yollarında birbirini görünür kılan kuantumsal yankılar olarak bağlanır."
       }
     }
   }

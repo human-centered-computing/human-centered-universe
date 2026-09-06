@@ -7,9 +7,9 @@
     "DARK": 65
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated rewrite aligned with HCU Quantum Time and the current three-center architecture",
+    "status": "reviewed-rewrite",
+    "note": "Dark remains dominant through possibility, freedom, plurality, uncertainty, creation and transformation. Human appears through memory, contribution, consequence, relationship and responsibility. Light remains minimal as the need for traceability and stable shared constraints."
   },
   "coverage_audit": {
     "coverage_complete": true,
