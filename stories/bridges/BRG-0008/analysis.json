@@ -2,14 +2,14 @@
   "schema": "hcu-story-analysis",
   "primary_center": "LIGHT",
   "center_weights": {
-    "HUMAN": 20,
-    "LIGHT": 55,
-    "DARK": 25
+    "HUMAN": 35,
+    "LIGHT": 45,
+    "DARK": 20
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated rewrite aligned with the BRG-0007 → BRG-0008 → BRG-0009 narrative chain and HCU's three-center architecture",
+    "status": "reviewed-rewrite",
+    "note": "Light remains dominant because the story centers on evidence, measurement, verification and legibility. Human increases because the choice of metric, interpretation, dignity, agency and contestability are central. Dark remains present as the protected space for uncertainty and the unexplained."
   },
   "coverage_audit": {
     "coverage_complete": true,

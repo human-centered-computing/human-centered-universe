@@ -8,14 +8,16 @@
   "book_order": 10,
   "culture": [
     "scientific research network",
-    "cross-cultural narrative analogy"
+    "human-centered measurement",
+    "cross-cultural interpretation"
   ],
   "belief_context": [
     "established physics",
-    "philosophical interpretation",
-    "science-fiction boundary"
+    "measurement and epistemic limits",
+    "human dignity and agency",
+    "science-fiction ambiguity"
   ],
-  "summary": "Maran encounters superposition, measurement, decoherence, and entanglement as physical concepts while learning that their human-centered relevance lies in how measurement frameworks constrain what can be seen.",
+  "summary": "After rejecting the false Light-versus-Dark binary, Maran, Luka, Ayo, and Rojin examine how measurement frameworks determine what becomes visible. The story distinguishes physical quantum measurement from metaphor and develops a human-centered rule: evidence must remain accountable not only for its result, but also for the question and criterion that produced it.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -24,21 +26,28 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0008/gercegi-hangi-soruyla-olcersin.png",
+    "alt": {
+      "en": "Maran appears in overlapping measured possibilities while Luka, Ayo and Rojin observe from different perspectives; scientific instruments, a double-slit pattern and multiple analytical views reveal different aspects of one reality at 04:17.",
+      "tr": "Maran üst üste binen ölçüm olasılıkları içinde görünürken Luka, Ayo ve Rojin farklı bakışlardan gözlemler; bilimsel araçlar, çift yarık deseni ve farklı analiz katmanları 04:17'de aynı gerçekliğin başka yönlerini görünür kılar."
+    }
+  },
   "links": [
     {
       "target": "BRG-0009",
       "type": "cause",
-      "note": "The limits of measurement open the next question: how finite beings relate to infinity."
+      "note": "Recognizing that every model and measurement is finite opens the next question: how a finite mind can live with infinity."
     },
     {
       "target": "LGT-0001",
       "type": "contrast",
-      "note": "Light seeks one stable and legible result."
+      "note": "Light seeks legibility, stable evidence, and reduced uncertainty, but can overvalue what is measurable."
     },
     {
       "target": "DRK-0001",
       "type": "contrast",
-      "note": "Dark resists any result becoming permanently stable."
+      "note": "Dark preserves room for the unexplained and for open possibilities, but cannot replace evidence with permanent ambiguity."
     }
   ],
   "interactions": [
@@ -83,11 +92,11 @@
   "localized": {
     "tr": {
       "title": "Gerçeği Hangi Soruyla Ölçersin?",
-      "summary": "Maran süperpozisyon, ölçüm, dekoherens ve dolanıklık kavramlarıyla karşılaşırken bunların insan merkezli anlamının, ölçüm çerçevelerinin neyi görünür kılıp neyi dışarıda bıraktığını anlamakta yattığını görür.",
+      "summary": "Aydınlık-Karanlık sahte ikiliğini reddettikten sonra Maran, Luka, Ayo ve Rojin ölçüm çerçevelerinin neyi görünür kıldığını araştırır. Hikâye fiziksel kuantum ölçümünü insanla ilgili benzetmeden ayırır ve İnsan Merkezli ölçüm için yeni bir kural kurar: yalnız sonucu değil, sonucu üreten soru ve ölçütü de denetle.",
       "link_notes": {
-        "BRG-0009": "Ölçümün sınırları bir sonraki soruyu açar: sonlu varlıklar sonsuzlukla nasıl ilişki kurar?",
-        "LGT-0001": "Aydınlık tek, kararlı ve okunabilir bir sonuç arar.",
-        "DRK-0001": "Karanlık herhangi bir sonucun kalıcı olarak kararlılaşmasına direnir."
+        "BRG-0009": "Her modelin ve ölçümün sonlu olduğunu görmek bir sonraki soruyu açar: sonlu bir zihin sonsuzlukla nasıl yaşar?",
+        "LGT-0001": "Aydınlık okunabilirlik, kararlı kanıt ve belirsizliğin azaltılmasını arar; fakat yalnız ölçülebilir olana aşırı değer verebilir.",
+        "DRK-0001": "Karanlık açıklanamayan ve açık ihtimaller için yer bırakır; fakat kalıcı belirsizlik kanıtın yerine geçemez."
       }
     }
   }
