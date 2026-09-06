@@ -23,6 +23,13 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/COM-0002/maran-kendi-sesinden-gelen-uyari.png",
+    "alt": {
+      "en": "Maran sits alone among ancient stones at night while a faintly illuminated pillar joins a human hand and serpent motif, with ghostlike traces suggesting memory and a warning from his future self.",
+      "tr": "Maran gece kadim taşların arasında yalnız otururken, hafifçe aydınlanan bir sütunda insan eli ile yılan motifi birleşir; hayaletimsi izler hafızayı ve gelecekteki kendi sesinden gelen uyarıyı simgeler."
+    }
+  },
   "links": [
     {
       "target": "COM-0003",
