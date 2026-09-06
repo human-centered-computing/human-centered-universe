@@ -7,9 +7,9 @@
     "DARK": 10
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated narrative classification based on human autonomy, explainability, interdisciplinary learning, probability, belief and bounded postmortem AI",
+    "status": "reviewed-curation",
+    "note": "HUMAN dominates because autonomy, dignity, grief, relationship and the right to decide remain primary. LIGHT represents explanation, source visibility, knowledge and verification. DARK represents uncertainty, open possibility, transformation and the unknowable."
   },
   "coverage_audit": {
     "coverage_complete": true,

@@ -1,23 +1,29 @@
 {
   "id": "BRG-0011",
-  "title": "The Rih Bridge: Do Not Speak in the Father's Place",
-  "original_title": "Rih Köprüsü: Babanın Yerine Konuşma",
+  "title": "Rîh-a: The Center of Root, Spirit, and Belief",
+  "original_title": "Rîh-a: Kökün, Ruhun ve İnancın Merkezi",
   "core": "BRIDGE",
   "status": "canon",
   "source_language": "en",
   "book_order": 18,
   "culture": [
     "family memory",
+    "Rîha / Sanliurfa",
     "Berlin future setting",
+    "Kurdish linguistic symbolism",
     "global research ethics"
   ],
   "belief_context": [
     "identity after death",
+    "human-centered AI",
+    "explainable AI",
+    "probability and uncertainty",
     "grief",
     "consent",
+    "belief and limits of knowledge",
     "science-fiction uncertainty"
   ],
-  "summary": "Maran designs a postmortem biological-and-digital bridge that carefully separates neural traces, life archives, and AI inference while protecting Murat and Rodi's autonomy, grief, privacy, and right not to continue the connection.",
+  "summary": "Maran's horizontal path through computer engineering, probability, business, informatics and education converges into human-centered and explainable AI and the new profession of Human-Centered Transformation Architect. The Rîh Bridge becomes his hardest test: a postmortem biological-and-digital system that must expose the root of every answer, protect human autonomy, and leave room for belief where knowledge ends.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -30,12 +36,12 @@
     {
       "target": "COM-0005",
       "type": "cause",
-      "note": "The Bridge operationalizes consent, accountability, opacity, and repair rules."
+      "note": "The Rîh Bridge operationalizes human autonomy, consent, explainability, uncertainty, accountability and repair."
     },
     {
       "target": "BRG-0012",
       "type": "contrast",
-      "note": "Rih Bridge restricts postmortem authority; Record X tests what happens when a preserved brain becomes part of a universe-generating center."
+      "note": "Rîh Bridge restricts postmortem authority; Record X tests what happens when a preserved brain becomes part of a universe-generating center."
     },
     {
       "target": "LGT-0001",
@@ -45,7 +51,48 @@
     {
       "target": "DRK-0001",
       "type": "contrast",
-      "note": "Unlimited personality mutation risks reproducing Dark's responsibility-free possibility."
+      "note": "Unlimited identity mutation risks reproducing Dark's responsibility-free possibility."
+    }
+  ],
+  "observer_choices": [
+    {
+      "key": "speak_with_explained_bridge",
+      "label": "Yes, I would speak with it if its sources were fully explained.",
+      "labels": {
+        "en": "Yes, I would speak with it if its sources were fully explained.",
+        "tr": "Evet, kaynakları bütünüyle açıklanırsa onunla konuşurdum."
+      },
+      "effects": {
+        "HUMAN": 6,
+        "LIGHT": 10,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "protect_grief_and_living",
+      "label": "No, I would protect grief, boundaries, and relationships with the living.",
+      "labels": {
+        "en": "No, I would protect grief, boundaries, and relationships with the living.",
+        "tr": "Hayır, yas hakkını, sınırları ve yaşayanlarla kurulan ilişkileri korurdum."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 3,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "leave_uncertainty_open",
+      "label": "I am not sure; I would leave the possibility open without surrendering to it.",
+      "labels": {
+        "en": "I am not sure; I would leave the possibility open without surrendering to it.",
+        "tr": "Emin değilim; ihtimali açık bırakır ama ona teslim olmazdım."
+      },
+      "effects": {
+        "HUMAN": 5,
+        "LIGHT": 3,
+        "DARK": 10
+      }
     }
   ],
   "interactions": [
@@ -76,55 +123,22 @@
         "en": "What must it never do?",
         "tr": "Asla ne yapmamalı?"
       }
-    },
-    {
-      "threshold": "04",
-      "key": "after_death_contact",
-      "type": "select",
-      "world_seed": true,
-      "label": {
-        "en": "Would You Speak?",
-        "tr": "Konuşur muydunuz?"
-      },
-      "prompt": {
-        "en": "If its sources were fully explained, would you want to speak with it?",
-        "tr": "Kaynakları bütünüyle açıklansa onunla konuşmak ister miydiniz?"
-      },
-      "options": [
-        {
-          "value": "yes",
-          "label": {
-            "en": "Yes",
-            "tr": "Evet"
-          }
-        },
-        {
-          "value": "no",
-          "label": {
-            "en": "No",
-            "tr": "Hayır"
-          }
-        },
-        {
-          "value": "unsure",
-          "label": {
-            "en": "I am not sure",
-            "tr": "Emin değilim"
-          }
-        }
-      ]
     }
   ],
   "localized": {
     "tr": {
-      "title": "Rih Köprüsü: Babanın Yerine Konuşma",
-      "summary": "Maran, sinirsel izleri, yaşam arşivini ve yapay zekâ çıkarımını açıkça ayıran ölüm sonrası biyolojik-dijital bir köprü tasarlar; Murat ve Rodi'nin özerkliğini, yasını, mahremiyetini ve bağlantıyı sürdürmeme hakkını korur.",
+      "title": "Rîh-a: Kökün, Ruhun ve İnancın Merkezi",
+      "summary": "Maran'ın bilgisayar mühendisliği, olasılık, işletme, bilişim ve eğitim alanlarındaki yatay uzmanlıkları insan merkezli ve yorumlanabilir yapay zekâda dikey uzmanlığa dönüşür. İnsan Merkezli Dönüşüm Mimarı kimliğinin en zor sınavı olan Rîh Köprüsü, her cevabın kökünü açıklayan, insan özerkliğini koruyan ve bilginin bittiği yerde inanca alan bırakan biyolojik-dijital bir sistem olarak ortaya çıkar.",
       "link_notes": {
-        "COM-0005": "Köprü rıza, hesap verebilirlik, bilinmeme ve onarım kurallarını uygulamaya geçirir.",
-        "BRG-0012": "Rih Köprüsü ölüm sonrası yetkiyi sınırlar; Kayıt X ise korunmuş bir beynin evren üreten merkezin parçası olması hâlinde ne olacağını sınar.",
+        "COM-0005": "Rîh Köprüsü insan özerkliği, rıza, yorumlanabilirlik, belirsizlik, hesap verebilirlik ve onarım ilkelerini uygulamaya geçirir.",
+        "BRG-0012": "Rîh Köprüsü ölüm sonrası yetkiyi sınırlar; Kayıt X ise korunmuş bir beynin evren üreten merkezin parçası olması hâlinde ne olacağını sınar.",
         "LGT-0001": "Kalıcı babasal koruma, Aydınlık'ın korunan üzerindeki yetkisini yeniden üretebilir.",
-        "DRK-0001": "Sınırsız kişilik değişimi, Karanlık'ın sorumluluktan bağımsız ihtimalini yeniden üretebilir."
+        "DRK-0001": "Sınırsız kimlik değişimi, Karanlık'ın sorumluluktan bağımsız ihtimalini yeniden üretebilir."
       }
     }
+  },
+  "inspiration": {
+    "type": "fictionalized personal and interdisciplinary research trajectory",
+    "note": "Rîh-a is used in the story as Maran's symbolic linguistic-philosophical reading connecting local Rîha, spirit, root, essence and belief; it is not presented as a definitive historical etymology."
   }
 }
