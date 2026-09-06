@@ -596,7 +596,7 @@ Dark asked:
 
 Maran looked at both.
 
-The Human Center they had defined in BRG-0007 was not visible.
+The Human Center was not visible.
 
 But now he knew where it was.
 
@@ -672,7 +672,7 @@ The system created a new record:
 
 ---
 
-Two distant sensors appeared next.
+In another observation field, two distant sensors appeared.
 
 Each produced outcomes that looked random by itself.
 
@@ -848,7 +848,7 @@ Every measurement left a new unknown.
 
 Luka said:
 
-“From here, the problem is no longer measurement.”
+“At this point, the problem is no longer only measurement.”
 
 Maran asked:
 

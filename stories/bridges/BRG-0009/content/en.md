@@ -1,6 +1,6 @@
 # Infinity Cannot Be Lived
 
-The doors that opened at the end of BRG-0008 continued to multiply.
+Countless doors appeared before Maran.
 
 One.
 
@@ -766,7 +766,7 @@ Luka answered:
 
 Light fell silent.
 
-Maran remembered the statement from BRG-0008:
+Maran remembered a statement echoing through the relational network:
 
 **EVERY MODEL IS FINITE.**
 
@@ -988,11 +988,9 @@ The Dark Center said:
 
 Maran looked at the deviation.
 
-In BRG-0008 he had learned how to measure.
+He was carrying both the limits of measurement and the weight of uncertainty.
 
-In BRG-0009 he had learned that he could not measure everything.
-
-Now another question stood before him:
+Another question stood before him:
 
 How much can an order change and still remain the same order?
 

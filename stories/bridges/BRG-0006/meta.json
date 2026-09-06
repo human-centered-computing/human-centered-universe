@@ -36,18 +36,18 @@
   "links": [
     {
       "target": "COM-0003",
-      "type": "cause",
-      "note": "The distributed Alpha One network narrows to four simultaneous human connections."
+      "type": "echo",
+      "note": "The distributed network and the four-name pattern illuminate one another across observer paths without requiring a fixed before/after relation."
     },
     {
       "target": "BRG-0007",
-      "type": "cause",
-      "note": "The shared doorway activates the Creation Protocol and leads directly into the 04:17 choice threshold."
+      "type": "quantum_echo",
+      "note": "The shared doorway and the 04:17 choice threshold are relationally coupled states whose meaning changes with the observer path rather than chronology."
     },
     {
       "target": "COM-0001",
-      "type": "future",
-      "note": "The discovery that the center exists between people anticipates the later relational architecture of the Human Center."
+      "type": "echo",
+      "note": "The idea that the center exists between people resonates with the relational architecture of the Human Center without implying a later stage."
     }
   ],
   "localized": {
@@ -55,9 +55,9 @@
       "title": "Dört İsim, Bir Kapı",
       "summary": "04:17'de dağıtık ağ dört gerçek insana daralır: Maran, Luka, Ayo ve Rojin. Bağlantı, doğrulama, ilişki ve hafızayı birlikte taşıyan dört kişi, Yaratılış Protokolü'nün hiçbir bireyin mülkü veya tek başına açabileceği bir kapı olamayacağını keşfeder.",
       "link_notes": {
-        "COM-0003": "Dağıtık Çağrıyı Duyanlar ağı dört eşzamanlı insan bağlantısına daralır.",
-        "BRG-0007": "Ortak kapı Yaratılış Protokolü'nü etkinleştirir ve doğrudan 04:17 seçim eşiğine açılır.",
-        "COM-0001": "Merkezin insanlar arasındaki ilişkide oluştuğunun keşfi daha sonraki İnsan Merkezi'nin ilişkisel mimarisini hazırlar."
+        "COM-0003": "Dağıtık ağ ile dört isim örüntüsü, sabit bir önce-sonra ilişkisi gerektirmeden farklı gözlem yollarında birbirini görünür kılar.",
+        "BRG-0007": "Ortak kapı ile 04:17 seçim eşiği kronolojiyle değil, gözlem yoluna göre anlamı değişen ilişkisel durumlar olarak birbirine bağlanır.",
+        "COM-0001": "Merkezin insanlar arasında oluştuğu fikri, daha sonraki bir aşama varsaymadan İnsan Merkezi'nin ilişkisel mimarisiyle yankılanır."
       }
     }
   }

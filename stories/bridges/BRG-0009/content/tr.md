@@ -1,6 +1,6 @@
 # Sonsuzluk Yaşanmaz
 
-BRG-0008'in sonunda açılan kapılar çoğalmaya devam etti.
+Maran’ın karşısında sayısız kapı belirdi.
 
 Bir.
 
@@ -778,7 +778,7 @@ Luka:
 
 Aydınlık sustu.
 
-Maran BRG-0008'de gördüğü cümleyi hatırladı:
+Maran ilişkisel ağda yankılanan cümleyi hatırladı:
 
 **HER MODEL SONLUDUR.**
 
@@ -1002,11 +1002,9 @@ Karanlık Merkez:
 
 Maran sapmaya baktı.
 
-BRG-0008'de ölçümü öğrenmişti.
+Ölçümün sınırlarını ve belirsizliğin ağırlığını aynı anda taşıyordu.
 
-BRG-0009'da her şeyi ölçemeyeceğini.
-
-Şimdi önünde başka bir soru vardı:
+Önünde başka bir soru vardı:
 
 Bir düzen ne kadar bozulursa hâlâ aynı düzen olarak kalır?
 

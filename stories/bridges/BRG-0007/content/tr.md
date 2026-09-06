@@ -490,7 +490,7 @@ Luka:
 
 Maran hemen cevap vermedi.
 
-BRG-0006'daki cümle zihnindeydi:
+Aynı ilişkisel ağda yankılanan cümle zihnindeydi:
 
 **İNSAN MERKEZ DEĞİLDİR.**
 
@@ -742,7 +742,7 @@ Maran:
 
 Beyaz alan çatladı.
 
-Ve bir sonraki soru ortaya çıktı:
+Ve başka bir soru görünür hâle geldi:
 
 **GERÇEĞİ HANGİ SORUYLA ÖLÇERSİN?**
 

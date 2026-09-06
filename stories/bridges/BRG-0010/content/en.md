@@ -8,9 +8,9 @@ The other was a quadrilateral.
 
 He did not know where they had come from.
 
-They did not appear to be the continuation of another scene.
+They did not appear to belong to a fixed sequence of scenes.
 
-It was as if questions he had encountered elsewhere had become visible again in another form.
+It was as if questions visible in other observation fields had become visible again here in another form.
 
 The circle expanded.
 

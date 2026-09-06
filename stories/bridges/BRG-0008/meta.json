@@ -17,7 +17,7 @@
     "human dignity and agency",
     "science-fiction ambiguity"
   ],
-  "summary": "After rejecting the false Light-versus-Dark binary, Maran, Luka, Ayo, and Rojin examine how measurement frameworks determine what becomes visible. The story distinguishes physical quantum measurement from metaphor and develops a human-centered rule: evidence must remain accountable not only for its result, but also for the question and criterion that produced it.",
+  "summary": "Maran, Luka, Ayo, and Rojin examine how measurement frameworks determine what becomes visible. The story distinguishes physical quantum measurement from metaphor and develops a human-centered rule: evidence must remain accountable not only for its result, but also for the question and criterion that produced it.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -36,8 +36,8 @@
   "links": [
     {
       "target": "BRG-0009",
-      "type": "cause",
-      "note": "Recognizing that every model and measurement is finite opens the next question: how a finite mind can live with infinity."
+      "type": "quantum_echo",
+      "note": "Finite measurement and infinity constrain and illuminate one another; either node may be observed first and alter the meaning of the other."
     },
     {
       "target": "LGT-0001",
@@ -47,7 +47,7 @@
     {
       "target": "DRK-0001",
       "type": "contrast",
-      "note": "Dark preserves room for the unexplained and for open possibilities, but cannot replace evidence with permanent ambiguity."
+      "note": "Dark preserves room for the unexplained and open possibilities, but cannot replace evidence with permanent ambiguity."
     }
   ],
   "interactions": [
@@ -92,9 +92,9 @@
   "localized": {
     "tr": {
       "title": "Gerçeği Hangi Soruyla Ölçersin?",
-      "summary": "Aydınlık-Karanlık sahte ikiliğini reddettikten sonra Maran, Luka, Ayo ve Rojin ölçüm çerçevelerinin neyi görünür kıldığını araştırır. Hikâye fiziksel kuantum ölçümünü insanla ilgili benzetmeden ayırır ve İnsan Merkezli ölçüm için yeni bir kural kurar: yalnız sonucu değil, sonucu üreten soru ve ölçütü de denetle.",
+      "summary": "Maran, Luka, Ayo ve Rojin ölçüm çerçevelerinin neyi görünür kıldığını araştırır. Hikâye fiziksel kuantum ölçümünü insanla ilgili benzetmeden ayırır ve İnsan Merkezli ölçüm için yeni bir kural kurar: yalnız sonucu değil, sonucu üreten soru ve ölçütü de denetle.",
       "link_notes": {
-        "BRG-0009": "Her modelin ve ölçümün sonlu olduğunu görmek bir sonraki soruyu açar: sonlu bir zihin sonsuzlukla nasıl yaşar?",
+        "BRG-0009": "Sonlu ölçüm ile sonsuzluk birbirini sınırlar ve görünür kılar; iki düğümden hangisi önce gözlemlenirse diğerinin anlamı değişebilir.",
         "LGT-0001": "Aydınlık okunabilirlik, kararlı kanıt ve belirsizliğin azaltılmasını arar; fakat yalnız ölçülebilir olana aşırı değer verebilir.",
         "DRK-0001": "Karanlık açıklanamayan ve açık ihtimaller için yer bırakır; fakat kalıcı belirsizlik kanıtın yerine geçemez."
       }

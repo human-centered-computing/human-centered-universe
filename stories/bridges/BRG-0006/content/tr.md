@@ -606,4 +606,4 @@ Sonra ikinci satır:
 
 Ve ilk kez geri sayım başladı.
 
-Bir sonraki kapı açılıyordu.
+Kapı, başka bir ilişki alanında yeniden görünür hâle geliyordu.

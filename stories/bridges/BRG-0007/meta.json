@@ -36,23 +36,23 @@
   "links": [
     {
       "target": "BRG-0008",
-      "type": "cause",
-      "note": "Rejecting the false Light-versus-Dark binary leads directly to the problem of measurement and the question of which evidence an observer notices first."
+      "type": "quantum_echo",
+      "note": "The refusal of the Light-versus-Dark binary and the measurement problem illuminate one another across observer paths."
     },
     {
       "target": "LGT-0001",
-      "type": "future",
-      "note": "The Light Center is revealed here as a system logic of order, safety, prediction, visibility, and protection whose excess can reduce human agency."
+      "type": "contrast",
+      "note": "Light's logic of order, safety, prediction, visibility, and protection contrasts with the Human Center when protection becomes authority over human agency."
     },
     {
       "target": "DRK-0001",
-      "type": "future",
-      "note": "The Dark Center is revealed here as a system logic of possibility, freedom, uncertainty, and transformation whose excess can abandon people to consequences."
+      "type": "contrast",
+      "note": "Dark's logic of possibility, freedom, uncertainty, and transformation contrasts with the Human Center when freedom abandons people to consequences."
     },
     {
       "target": "BRG-0012",
       "type": "quantum_echo",
-      "note": "The unresolved source of the 04:17 call returns in Record X as another undecidable origin signal."
+      "note": "The unresolved source of the 04:17 call resonates with Record X as another undecidable origin signal."
     }
   ],
   "interactions": [
@@ -113,10 +113,10 @@
       "title": "04:17 — Seçmiyorum",
       "summary": "04:17'de Maran, Luka, Ayo ve Rojin Aydınlık ile Karanlık Merkezleri iki rakip sistem mantığı olarak deneyimler. Maran'ın “Seçmiyorum” sözü kararsızlık değil, sahte ikiliğin reddidir. Dört kişi İnsan Merkezi'ni insan onuru, rıza, sorumluluk, kanıt, hafıza ve itiraz hakkı üzerinden her durumda yeniden kurulan ilişkisel bir yöntem olarak tanımlar.",
       "link_notes": {
-        "BRG-0008": "Aydınlık-Karanlık sahte ikiliğinin reddi doğrudan ölçüm problemine ve gözlemcinin hangi kanıtı önce fark ettiği sorusuna açılır.",
-        "LGT-0001": "Aydınlık Merkez burada düzen, güvenlik, öngörü, görünürlük ve koruma mantığı olarak belirir; aşırılığı insanın eyleyebilme gücünü azaltabilir.",
-        "DRK-0001": "Karanlık Merkez burada ihtimal, özgürlük, belirsizlik ve dönüşüm mantığı olarak belirir; aşırılığı insanları sonuçlarla yalnız bırakabilir.",
-        "BRG-0012": "04:17 çağrısının çözülemeyen kaynağı Kayıt X'te başka bir kararsız köken sinyali olarak geri döner."
+        "BRG-0008": "Aydınlık-Karanlık ikiliğinin reddi ile ölçüm problemi, gözlem yoluna göre birbirini görünür kılan kuantumsal yankılardır.",
+        "LGT-0001": "Aydınlık'ın düzen, güvenlik, öngörü, görünürlük ve koruma mantığı; koruma insan eyleyebilme gücü üzerinde otoriteye dönüştüğünde İnsan Merkezi ile karşıtlık oluşturur.",
+        "DRK-0001": "Karanlık'ın ihtimal, özgürlük, belirsizlik ve dönüşüm mantığı; özgürlük insanları sonuçlarla yalnız bıraktığında İnsan Merkezi ile karşıtlık oluşturur.",
+        "BRG-0012": "04:17 çağrısının çözülemeyen kaynağı, Kayıt X'teki başka bir kararsız köken sinyaliyle kuantumsal olarak yankılanır."
       }
     }
   }

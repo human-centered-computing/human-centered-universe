@@ -600,7 +600,7 @@ Karanlık:
 
 Maran ikisine de baktı.
 
-BRG-0007'de kurdukları İnsan Merkezi görünmüyordu.
+İnsan Merkezi görünmüyordu.
 
 Ama artık nerede olduğunu biliyordu.
 
@@ -678,7 +678,7 @@ Sistem yeni bir kayıt oluşturdu:
 
 ---
 
-Bir sonraki görüntüde iki uzak sensör belirdi.
+Başka bir gözlem alanında iki uzak sensör belirdi.
 
 Her biri tek başına rastlantısal sonuçlar üretiyordu.
 
@@ -854,7 +854,7 @@ Her ölçüm yeni bir bilinmeyen bırakıyordu.
 
 Luka:
 
-“Buradan sonra problem artık ölçüm değil.”
+“Bu noktada problem yalnızca ölçüm değil.”
 
 Maran:
 

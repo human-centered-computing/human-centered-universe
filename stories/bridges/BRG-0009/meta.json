@@ -17,7 +17,7 @@
     "continuity without certainty",
     "science-fiction ambiguity"
   ],
-  "summary": "After learning that every measurement and model is finite, Maran confronts multiple mathematical forms of infinity, simulated futures, indefinite life, and unlimited memory. He discovers that infinity does not remove responsibility: a human life gains weight precisely because attention, time, relationships, and choices are finite.",
+  "summary": "Maran confronts multiple mathematical forms of infinity, simulated futures, indefinite life, and unlimited memory. He discovers that infinity does not remove responsibility: a human life gains weight precisely because attention, time, relationships, and choices are finite.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -36,18 +36,18 @@
   "links": [
     {
       "target": "BRG-0010",
-      "type": "cause",
-      "note": "The problem of infinite possibility narrows into the next question: how repetition, proportion, deviation, and growth can coexist."
+      "type": "quantum_echo",
+      "note": "Infinite possibility and the problem of proportion, repetition, deviation, and growth illuminate one another without a fixed before/after order."
     },
     {
       "target": "COM-0001",
       "type": "echo",
-      "note": "Finite responsibility anticipates the later Human Center as an accountable relational world rather than an escape into unlimited possibility."
+      "note": "Finite responsibility resonates with the Human Center as an accountable relational world rather than an escape into unlimited possibility."
     },
     {
       "target": "BRG-0012",
       "type": "quantum_echo",
-      "note": "The tension between computational infinity, incomplete models, and centralization reappears later in Record X."
+      "note": "Computational infinity, incomplete models, and centralization resonate with the tensions observed in Record X."
     }
   ],
   "interactions": [
@@ -91,11 +91,11 @@
   "localized": {
     "tr": {
       "title": "Sonsuzluk Yaşanmaz",
-      "summary": "Her ölçümün ve modelin sonlu olduğunu gördükten sonra Maran matematiksel sonsuzluklar, olası gelecekler, çok uzun yaşam ve sınırsız hafıza ile yüzleşir. Sonsuz ihtimalin sorumluluğu ortadan kaldırmadığını; insan hayatının dikkat, zaman, ilişki ve seçimleri sonlu olduğu için ağırlık kazandığını keşfeder.",
+      "summary": "Maran matematiksel sonsuzluklar, olası gelecekler, çok uzun yaşam ve sınırsız hafıza ile yüzleşir. Sonsuz ihtimalin sorumluluğu ortadan kaldırmadığını; insan hayatının dikkat, zaman, ilişki ve seçimleri sonlu olduğu için ağırlık kazandığını keşfeder.",
       "link_notes": {
-        "BRG-0010": "Sonsuz ihtimal problemi bir sonraki soruya daralır: tekrar, oran, sapma ve büyüme birlikte nasıl var olabilir?",
-        "COM-0001": "Sonlu sorumluluk, daha sonraki İnsan Merkezi'nin sınırsız ihtimale kaçmayan hesap verebilir ilişkisel dünyasını önceler.",
-        "BRG-0012": "Hesaplama sonsuzluğu, tamamlanamayan modeller ve merkezileşme gerilimi daha sonra Kayıt X'te geri döner."
+        "BRG-0010": "Sonsuz ihtimal ile oran, tekrar, sapma ve büyüme problemi sabit bir önce-sonra düzeni olmadan birbirini görünür kılar.",
+        "COM-0001": "Sonlu sorumluluk, sınırsız ihtimale kaçmayan hesap verebilir ilişkisel bir dünya olarak İnsan Merkezi ile yankılanır.",
+        "BRG-0012": "Hesaplama sonsuzluğu, tamamlanamayan modeller ve merkezileşme gerilimi Kayıt X'teki gerilimlerle kuantumsal olarak yankılanır."
       }
     }
   }

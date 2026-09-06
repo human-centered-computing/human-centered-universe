@@ -8,9 +8,9 @@ Diğeri dörtgen.
 
 Nereden geldiklerini bilmiyordu.
 
-Bir önceki görüntünün devamı gibi de görünmüyorlardı.
+Başka bir gözlem alanının devamı gibi de görünmüyorlardı.
 
-Sanki daha önce gördüğü bazı sorular, başka bir biçimde yeniden karşısına çıkmıştı.
+Sanki başka gözlem alanlarında beliren bazı sorular, burada başka bir biçimde yeniden karşısına çıkmıştı.
 
 Çember genişledi.
 

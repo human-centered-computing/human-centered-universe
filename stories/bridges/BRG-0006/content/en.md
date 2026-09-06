@@ -606,4 +606,4 @@ Then a second line:
 
 And for the first time, the countdown began.
 
-The next door was opening.
+The door was becoming visible again in another relational field.

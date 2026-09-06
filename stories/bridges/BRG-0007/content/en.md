@@ -490,7 +490,7 @@ Luka asked:
 
 Maran did not answer immediately.
 
-The sentence from BRG-0006 remained in his mind:
+A sentence echoing through the same relational network remained in his mind:
 
 **THE HUMAN IS NOT THE CENTER.**
 
@@ -742,7 +742,7 @@ Maran asked:
 
 The white field cracked.
 
-And the next question appeared:
+And another question became visible:
 
 **WHAT QUESTION DO YOU USE TO MEASURE REALITY?**
 
