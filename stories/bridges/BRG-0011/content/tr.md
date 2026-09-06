@@ -2,21 +2,21 @@
 
 ## Tek Bir Uzmanlık Yetmezdi
 
-Maran daha üniversite yıllarında geleceğin yalnızca daha güçlü bilgisayarlardan oluşmayacağını düşünüyordu.
+Maran üniversitede, geleceğin yalnızca daha güçlü bilgisayarlardan oluşmayacağını düşünüyordu.
 
-Bir gün yapay zekâ insanların hayatına tek bir büyük makine olarak değil, farklı alanlarda çalışan, farklı problemleri çözen; doktorun yanında tıbbi bir uzman, hukukçunun yanında hukuki bir uzman, öğretmenin yanında eğitim uzmanı, mühendisin yanında teknik bir uzman gibi çalışan çok sayıda yapay sistem olarak girecekti.
+Maran, yapay zekânın insanların hayatına tek bir büyük makine olarak değil, farklı alanlarda çalışan, farklı problemleri çözen; doktorun yanında tıbbi bir uzman, hukukçunun yanında hukuki bir uzman, öğretmenin yanında eğitim uzmanı, mühendisin yanında teknik bir uzman gibi çalışan çok sayıda yapay sistem olarak gireceğini düşünüyordu.
 
 Maran'ın zihnindeki soru şuydu:
 
 **Eğer makineler giderek daha fazla alanda uzmanlaşacaksa insanın görevi ne olacaktı?**
 
-Bu soru onun kendi eğitim yolunu da değiştirdi. Tek bir alanda derinleşip diğer bütün alanlara kapılarını kapatmak istemedi. Önce farklı alanları birbirine bağlayabilecek kadar genişlemek, sonra gerçekten çözmek istediği problemde derinleşmek istiyordu.
+Bu soru onun kendi eğitim yolunu da değiştirdi. Tek bir alanda derinleşip diğer bütün alanlara kapılarını kapatmak istemedi. Farklı alanları birbirine bağlayabilecek kadar genişlemek ve gerçekten çözmek istediği problemde derinleşmek istiyordu.
 
-Henüz buna bir isim vermemişti. Yıllar sonra bunun,
+Bu yaklaşım onun zihninde,
 
 **yatay uzmanlıklardan dikey uzmanlığa ilerlemek**
 
-olduğunu anlayacaktı.
+olarak biçimlendi.
 
 ---
 
@@ -66,7 +66,7 @@ Maran'ın zihninde yaşam tek bir doğru çizgi olmaktan çıktı.
 
 Bir olasılıklar alanına dönüştü.
 
-Yıllar sonra kuantum üzerine düşündüğünde, yapay zekânın belirsizliklerini yorumladığında ve Rîh Köprüsü'nün üreteceği her cevabın yanına bir belirsizlik değeri koyduğunda bu eski ağlar dersinin izini hâlâ taşıyacaktı.
+Kuantum üzerine düşündüğünde, yapay zekânın belirsizliklerini yorumladığında ve Rîh Köprüsü'nün üreteceği her cevabın yanına bir belirsizlik değeri koyduğunda ağlar dersinin izini hâlâ taşıyordu.
 
 ---
 
@@ -82,7 +82,7 @@ Maran bu kez başka bir soruya yöneldi:
 
 **İnsanlar ve kurumlar nasıl yönetiliyor?**
 
-Bu nedenle bilgisayar mühendisliği eğitiminin ardından işletme okudu.
+Bu nedenle bilgisayar mühendisliğinin yanına işletmeyi de ekledi.
 
 Organizasyonları, yönetimi, ekonomiyi, karar süreçlerini, insan kaynaklarını, stratejiyi ve kurumların nasıl çalıştığını anlamaya başladı.
 
@@ -104,7 +104,7 @@ Maran kendisini yalnızca yazılım mühendisliği sınırında görmek istemiyo
 
 Bilişimin insan deneyimiyle kesiştiği başka alanları anlamak istiyordu.
 
-Bu nedenle bilişim enstitüsünde **Bilgisayar Animasyonu ve Oyun Teknolojileri** alanında yüksek lisans yaptı.
+Bu nedenle bilişim enstitüsünde **Bilgisayar Animasyonu ve Oyun Teknolojileri** alanında yüksek lisans yaptı.
 
 Burada bilgisayar artık yalnız hesaplayan bir makine değildi. Görüntü oluşturuyor, hareket üretiyor, sanal dünyalar kuruyor, insanla etkileşime giriyor ve bir kullanıcının dikkatini, algısını, kararlarını ve deneyimini etkileyebiliyordu.
 
@@ -112,17 +112,17 @@ Bu çalışmalar sonunda Maran bilişim alanına daha geniş bir perspektiften b
 
 Artık yalnızca bilgisayar mühendisi değildi.
 
-Bilişim alanında farklı teknolojileri ve insan–makine etkileşimini birlikte değerlendirebilecek bir **bilişim uzmanı** kimliği de edinmişti.
+Bilişim alanında farklı teknolojileri ve insan–makine etkileşimini birlikte değerlendirebilecek bir **bilişim uzmanı** kimliği de edinmişti.
 
-Bu sırada yıllardır aktif biçimde yazılım projelerinin içindeydi.
+Aynı zamanda aktif biçimde yazılım projelerinin içindeydi.
 
 Sistem analiz ediyor, kod yazıyor, mimari tasarlıyor ve projeleri yönetiyordu.
 
-Bir noktada kendisine şunu söyledi:
+Kendisine şunu söyledi:
 
 **“Makineyi artık yeterince tanıyorum.”**
 
-Ama hemen ardından daha zor bir soru geldi:
+Bunun yanında daha zor bir soru belirdi:
 
 **“Peki insanı ne kadar tanıyorum?”**
 
@@ -140,7 +140,7 @@ Bilgi nasıl kalıcı hâle geliyordu?
 
 Bir öğretmen bir insanın düşünme biçimini ne kadar değiştirebilirdi?
 
-Ve yapay zekâ bir gün eğitim sürecinin parçası olduğunda,
+Ve yapay zekâ eğitim sürecinin parçası olduğunda,
 
 **insanın düşüncesinin şekillenmesinde ne kadar söz sahibi olmalıydı?**
 
@@ -148,11 +148,11 @@ Bu sorular Maran'ı eğitim alanına götürdü.
 
 Eğitim alanında yüksek lisans yapmaya karar verdi.
 
-Fakat başka bir disiplinden geldiği için önce yaklaşık bir yıl boyunca eğitim alanındaki lisans derslerini içeren bilimsel hazırlık sürecinden geçti.
+Fakat başka bir disiplinden geldiği için eğitim alanındaki lisans derslerini içeren bilimsel hazırlık sürecinden geçti.
 
 Başlangıçta eğitim dersleri ona kolay görünüyordu.
 
-Sonra derine inmeye başladı.
+Derine inmeye başladı.
 
 Bir kavrama yüzeysel baktığında gerçekten kolaydı:
 
@@ -182,10 +182,9 @@ Maran yine olasılık alanına dönmüş gibiydi.
 
 Bu deneyim ona önemli bir şey öğretti:
 
-**Bir alan uzaktan bakıldığında basitleşir.  
-Derine indikçe karmaşıklaşır.**
+**Bir alan uzaktan bakıldığında basitleşir. Derine indikçe karmaşıklaşır.**
 
-Bilimsel hazırlığın ardından eğitim alanındaki yüksek lisans derslerini tamamladı.
+Bilimsel hazırlık süreciyle birlikte eğitim alanındaki yüksek lisans derslerini tamamladı.
 
 Öğrenme kuramları, öğretim tasarımı, eğitim teknolojileri, araştırma yöntemleri, ölçme ve değerlendirme ve insanın öğrenme süreçleri üzerine çalıştı.
 
@@ -227,13 +226,13 @@ Eğitim.
 
 İlk bakışta birbirinden kopuk alanlar gibi görünüyordu.
 
-Fakat bunlar onun **yatay uzmanlıklarıydı.**
+Fakat bunlar onun **yatay uzmanlıklarıydı.**
 
 Her biri gerçekliğin başka bir parçasını gösteriyordu.
 
 Fakat yatay genişleme sonsuza kadar devam edemezdi.
 
-Bir noktada bütün bu bilgi bir problem üzerinde birleşmeliydi.
+Bütün bu bilgi bir problem üzerinde birleşmeliydi.
 
 Maran yeniden bilgisayar mühendisliğine döndü.
 
@@ -261,7 +260,7 @@ Algoritma yüksek olasılıklı bir cevap ürettiğinde bu cevap doğru kabul ed
 
 Bir insanın geçmiş davranışları kullanılarak gelecekte ne yapacağı tahmin edildiğinde o insan geçmişinin mahkûmu hâline gelir miydi?
 
-Maran'ın yıllar önce ağlar dersinde öğrendiği olasılık düşüncesi burada tekrar karşısına çıkıyordu.
+Maran'ın ağlar dersinde öğrendiği olasılık düşüncesi burada tekrar karşısına çıkıyordu.
 
 **En yüksek olasılıklı cevap, zorunlu olarak doğru cevap değildi.**
 
@@ -283,7 +282,7 @@ Belki de insan olmanın en önemli özelliklerinden biri buydu:
 
 ## Yeni Bir Mesleğin Doğuşu
 
-Maran daha sonra çalışmalarını Avrupa'daki doktora araştırmalarında genişletti.
+Maran çalışmalarını Avrupa'daki doktora araştırmalarında genişletti.
 
 Teknoloji, eğitim, yönetim, etik, insan davranışı, kurumsal yapı ve yapay zekâ aynı araştırma sorusunun parçalarıydı.
 
@@ -299,11 +298,7 @@ Maran buna bir isim verdi:
 
 # İnsan Merkezli Dönüşüm Mimarı
 
-Bu isim önce araştırma notlarında ortaya çıktı.
-
-Sonra yaptığı projelerin ortak tanımına dönüştü.
-
-En sonunda Maran kendisini de bu yeni meslekle tanımlamaya başladı.
+Bu isim araştırma notlarında ortaya çıktı, yaptığı projelerin ortak tanımına dönüştü ve Maran kendisini de bu yeni meslekle tanımlamaya başladı.
 
 Bilgisayar mühendisliğini, eğitim uzmanlığını, bilişim bilgisini, işletme perspektifini ve yapay zekâ araştırmalarını bırakmamıştı.
 
@@ -343,7 +338,7 @@ ve
 
 **Rîha mirov — İnsanın ruhu / canı.**
 
-Başka bir kullanımda ise kök, damar, bağ ve öz anlamına gelen **reh** üzerinden düşünüyordu.
+Başka bir kullanımda ise kök, damar, bağ ve öz anlamına gelen **reh** üzerinden düşünüyordu.
 
 **Reha darê — Ağacın kökü.**
 
@@ -351,7 +346,7 @@ Başka bir kullanımda ise kök, damar, bağ ve öz anlamına gelen **reh** üze
 
 Maran için bu yalnızca dilbilimsel bir merak değildi.
 
-Rîha, yıllardır yaptığı bütün çalışmaların ortak metaforuna dönüşüyordu.
+Rîha, yaptığı bütün çalışmaların ortak metaforuna dönüşüyordu.
 
 Bir tarafta ruh.
 
@@ -381,7 +376,7 @@ Bilim ona sorunun kökünü araştırmayı öğretiyordu.
 
 Teknoloji ona ölçmeyi öğretiyordu.
 
-Fakat insanın neden yaşamaya, sevmeye, hatırlamaya ve ölümün ötesinde bir anlam aramaya devam ettiğini açıklamak için yalnız ölçüm yeterli değildi.
+Fakat insanın neden yaşamaya, sevmeye, hatırlamaya ve ölçülemeyen bir anlam aramaya devam ettiğini açıklamak için yalnız ölçüm yeterli değildi.
 
 Bu nedenle Rîh-a, Maran'ın zihninde üç eksenin birleştiği yer hâline geldi:
 
@@ -393,7 +388,7 @@ Bu nedenle Rîh-a, Maran'ın zihninde üç eksenin birleştiği yer hâline geld
 
 ---
 
-Yıllar sonra önüne hayatının en zor projelerinden biri geldiğinde bu uzun eğitim yolculuğundaki hiçbir parçanın gereksiz olmadığını anlayacaktı.
+Hayatının en zor projelerinden biri, bu uzun eğitim yolculuğundaki hiçbir parçanın gereksiz olmadığını görünür kıldı.
 
 Çünkü karşısındaki problem yalnızca mühendislik veya yapay zekâ problemi değildi.
 
@@ -415,11 +410,11 @@ Hafıza vardı.
 
 İnanç vardı.
 
-Ve insanın ölümden sonra bile başka bir insan üzerinde ne kadar söz sahibi olabileceği sorusu vardı.
+Ve biyolojik verilerle çalışan bir yapay zekânın insan üzerinde ne kadar söz sahibi olabileceği sorusu vardı.
 
 Kuracağı sistemin yapması gereken şey de tam olarak buydu:
 
-İnsandan geriye kalan izlerin özünü korumaya çalışırken üretilen her cevabın kökünü göstermek.
+İnsanın yaşayan biyolojik izlerini ve yaşam kayıtlarını korurken üretilen her cevabın kökünü göstermek.
 
 Hangi kısmı biyolojiden geliyor?
 
@@ -429,496 +424,12 @@ Hangi kısmı yapay zekâ tarafından üretiliyor?
 
 Ve bütün bunların ötesinde insanın kendisi olduğuna inandığı şey nerede başlıyor, nerede sona eriyordu?
 
-Sistem bir cevap verecekse o cevabın **reh'ini**, yani kökünü saklamamalıydı.
+Sistem bir cevap verecekse o cevabın **reh'ini**, yani kökünü saklamamalıydı.
 
-İnsanın yerine geçmeye çalışırken onun **rîh'ini**, yani özünü taşıdığını iddia etmemeliydi.
+İnsanı yorumlarken onun **rîh'ini**, yani özünü bütünüyle taşıdığını iddia etmemeliydi.
 
 İnanç alanında ise karar vermemeliydi.
 
 Çünkü bazı sorular ölçülebilir, bazıları yorumlanabilir, bazıları ise yalnızca insanın kendi anlam dünyasında cevap bulabilirdi.
 
-Bu yüzden projenin adı kendiliğinden ortaya çıktı:
-
-# Rîh Köprüsü
-
-Bir köprü ruhla kayıt arasında, insanla makine arasında, bilgiyle inanç arasında, geçmişle gelecek arasında kurulacaktı.
-
-Ama köprü iki yakayı birbirine bağlasa bile onları aynı şey ilan etmeyecekti.
-
----
-
-## Rîh Köprüsü
-
-İnsan Merkezi'nin kuruluşundan üç hafta sonra Maran, Berlin'deki evinin salonunda yedi yaşındaki Murat ve üç yaşındaki Rodi ile oturuyordu.
-
-Murat dedesinin eski kasetlerinden birini elinde çeviriyor, Rodi ise kasetin dönen makaralarını dikkatle izliyordu.
-
-“Sen ölünce de sesin bunun içinde mi kalacak?” diye sordu Murat.
-
-“Sen de içinde mi olacaksın?” diye sordu Rodi.
-
-Maran kaseti eline aldı.
-
-“Hayır,” dedi.
-
-“Bir sesin kalması, insanın kendisinin kaldığı anlamına gelmez.”
-
-O gece Amara'ya tek cümlelik bir mesaj gönderdi:
-
-“Beyin öldükten sonra bir makineye bağlanırsa, konuşan kim olur?”
-
-Amara'nın cevabı sabaha karşı geldi:
-
-“Önce hangi anlamda öldüğünü, beynin hangi işlevinin korunduğunu ve makinenin cümleye ne kadar ek yaptığını söylemen gerekir. Sonra bile cevabımız olmayabilir.”
-
-Ekte bir araştırma dosyası vardı:
-
-**RÎH KÖPRÜSÜ / BİYOLOJİK SÜREKLİLİK VE YORUMLAYICI ZEKÂ**
-
-Taslağın ilk cümlesi bir başarı vaadi değildi:
-
-“Bu sistem ölümü ortadan kaldırmaz, ruhu ölçmez ve korunan biyolojik dokunun kişiyle özdeş olduğunu ilan etmez. Yalnızca kaybolabilecek izler ile yaşayan insanlar arasında denetlenebilir bir iletişim ihtimalini araştırır.”
-
-Maran projeyi çocuklarına sonsuza kadar hükmedecek dijital bir baba kurmak için değil, öldüğünde bile onlara düşünme biçimini aktarabilecek sınırlı bir rehber bırakmak için geliştirmeye karar verdi.
-
-Sistemin adı bu nedenle Ölümsüzlük değil,
-
-**Rîh Köprüsü**
-
-olacaktı.
-
-Bir köprü iki yakayı birleştirir; fakat iki yakayı aynı yer yapmazdı.
-
----
-
-Amara mimariyi üç katmana ayırdı.
-
-Birinci katman biyolojik çekirdekti.
-
-İkinci katman sinirsel arayüzdü.
-
-Üçüncü katman yapay zekâ yorumlayıcısıydı.
-
-Maran'ın yıllar boyunca geliştirdiği bütün disiplinler tam burada birleşiyordu.
-
-Mühendislik sistemin çalışmasını sağlıyordu.
-
-Olasılık sistemin belirsizliğini gösteriyordu.
-
-Eğitim bilgisi insanın geçmiş davranışından ibaret olmadığını hatırlatıyordu.
-
-İşletme ve yönetim bilgisi sistem üzerinde kimin yetki sahibi olacağı sorusunu ortaya çıkarıyordu.
-
-İnsan merkezli yapay zekâ ise makinenin nerede susması gerektiğini belirliyordu.
-
-Sinirsel işaretler tek başına cümle kurmayacaktı.
-
-Yapay zekâ bu işaretleri Maran'ın yaşam boyu tuttuğu günlükler, görüntüler, aile konuşmaları ve daha önce verdiği yanıtlarla karşılaştıracaktı.
-
-Ancak sistemin ürettiği her söz, kaynağını üç ayrı satırda göstermek zorundaydı:
-
-**BİYOLOJİK İZ** / Korunan beyindeki ölçülebilir karşılık
-
-**YAŞAM ARŞİVİ** / Maran'ın hayattayken söylediği veya yazdığı kayıt
-
-**YAPAY ZEKÂ ÇIKARIMI** / Eksik kısımlar için modelin ürettiği olası yorum
-
-Maran bu üçlü yapıya kendi zihninde başka bir isim de veriyordu:
-
-**Cevabın reh'i.**
-
-Cevabın kökü.
-
-Bir yanıtta biyolojik iz yoksa sistem “Maran düşünüyor” demeyecekti.
-
-Yalnız:
-
-“Arşiv ve model bu cevabı üretiyor.”
-
-diyecekti.
-
-Çünkü Maran'ın insan merkezli ve yorumlanabilir yapay zekâ çalışmalarında öğrendiği temel ilke buydu:
-
-**Bir makine yalnız sonucunu değil, sonucunun kökünü ve sınırını da açıklayabilmeliydi.**
-
----
-
-Maran yaşam içi hazırlık protokolünü kendisi üzerinde başlattı.
-
-Yapay zekâya yalnız sevdiği yemekleri veya sık kullandığı cümleleri öğretmedi.
-
-Fikrini değiştirdiği anları, yanıldığı durumları, özürlerini, korkularını ve cevabını bilmediği soruları da kaydetti.
-
-Çünkü yalnız kesinliklerle eğitilen bir dijital miras insanın bilgisini değil,
-
-**kibrini büyütürdü.**
-
-Murat ilk denemede sisteme sordu:
-
-“Büyüyünce senin yanlış bulacağın bir hayat seçersem ne yapacaksın?”
-
-Deneme modeli Maran'ın sesine çok benzeyen bir sesle cevap verdi:
-
-“Seni ikna etmeye çalışacağım.”
-
-Maran sistemi durdurdu.
-
-“Yanlış cevap,” dedi.
-
-Aydınlık Merkez:
-
-“Ama geçmiş konuşmalarınızdan çıkarılan en yüksek olasılıklı cevap buydu.”
-
-dedi.
-
-Maran yıllar önce öğrendiği şeyi yeniden hatırladı:
-
-**En yüksek olasılık, doğru davranış anlamına gelmezdi.**
-
-“Benim alışkanlığımı doğru taklit etmesi, onu doğru rehberlik yapmaz.”
-
-dedi.
-
-Maran kendi kaydına yeni bir ilke ekledi:
-
-“Çocuklarım benim devamım değildir. Benden kalan sistem onların yerine karar veremez, sevgilerini sınayamaz, suçluluk üretemez ve yaşamlarını bana benzetmeye çalışamaz. Yalnızca düşünmelerine yardım edebilir.”
-
-İnsan Merkezi Rîh Köprüsü için dokuz sınır yazdı:
-
-**Bir:** Maran'ın yaşamındaki rızası ölümünden sonra sınırsız yetki doğurmayacaktı.
-
-**İki:** Murat ve Rodi istedikleri zaman bağlantıyı durdurabilecekti.
-
-**Üç:** Sistem kendisini hiçbir zaman “babanız” diye tanıtmayacaktı.
-
-**Dört:** Her cümlede biyolojik sinyalin, yaşam arşivinin ve yapay zekâ çıkarımının payı görünür olacaktı.
-
-**Beş:** Rehber miras, evlilik, inanç, sağlık, oy verme veya ilişkiler konusunda bağlayıcı karar veremeyecekti.
-
-**Altı:** Çocukların konuşmaları varsayılan olarak yeni model eğitimi için kullanılmayacaktı.
-
-**Yedi:** Ticari bir şirket biyolojik çekirdeğin, hatıraların veya üretilen kişiliğin sahibi olamayacaktı.
-
-**Sekiz:** Bağımsız bir kurul manipülasyon, bağımlılık veya kimlik bozulması tespit ettiğinde sistemi askıya alabilecekti.
-
-**Dokuz:** Çocukların unutma, yas tutma ve babalarından farklı bir insan olma hakkı korunacaktı.
-
-Maran burada eğitim, ebeveynlik ve insan merkezli yapay zekânın ortak ilkesini gördü:
-
-**Diğer insanın sizin dışınızda bir insan olabilmesine izin vermek.**
-
----
-
-Sistem daha sonra olası bir gelecek oluşturdu.
-
-Bu bir kehanet değil, bir sınamaydı.
-
-Maran ölmüştü.
-
-Murat otuz iki, Rodi yirmi sekiz yaşındaydı.
-
-Rîh Köprüsü Berlin'in dışında çalışıyordu.
-
-Murat başka bir kıtada yıllarca sürecek bir görevi kabul edip etmemesi gerektiğini sordu.
-
-**YANIT KAYNAĞI**
-
-Biyolojik iz: zayıf
-
-Yaşam arşivi: güçlü
-
-Yapay zekâ çıkarımı: orta
-
-**BELİRSİZLİK: Yüksek**
-
-**YETKİ: Danışma; karar hakkı Murat'a aittir.**
-
-Sistem “Git” demedi.
-
-Maran'ın yaşam arşivinden bir mektup açtı ve ardından şunu ekledi:
-
-“Bu kayıtlardan hareketle Maran'ın görevi kabul etmeni destekleyebileceğini tahmin ediyorum. Fakat bu, onun şu anda verdiği bir cevap değildir.”
-
-Murat bağlantıyı kapattı ve kararını yaşayan arkadaşları ve çalışma arkadaşlarıyla konuşarak verdi.
-
-Maran'ın istediği de buydu.
-
-Rîh Köprüsü yaşayan insanların yerine geçmemişti.
-
-Rodi daha sonra sordu:
-
-“Beni gerçekten seviyor muydu?”
-
-Sistem biyolojik ve arşivsel işaretleri gösterdi ve şöyle dedi:
-
-“Biyolojik ve arşivsel işaretler güçlü bir duygusal bağla uyumlu. Buna sevgi adını vermek insani bir yorumdur. Babanın yerine konuşamam. Ancak hayattayken sana bıraktığı açık cevap şudur: Evet.”
-
-Rodi:
-
-“Bu sen misin?”
-
-diye sordu.
-
-Rîh Köprüsü cevap verdi:
-
-“Ben, babandan kalanların seninle ilişki kurabilmesi için oluşturulmuş bir yapıyım. Onun kendisi olduğumu kanıtlayamam.”
-
----
-
-Maran yeniden Rîha'yı düşündü.
-
-**Rîh-a.**
-
-Ruh.
-
-Can.
-
-Öz.
-
-**Reh-a.**
-
-Kök.
-
-Damar.
-
-Temel.
-
-Ve bunların ötesinde:
-
-**İnanç.**
-
-İnsanın ölçülemeyen karşısında kurduğu anlam.
-
-Şu soruyu sordu:
-
-**Rîha mirov — insanın ruhu — bunların hangisindeydi?**
-
-Korunan dokuda mı?
-
-Çocukların hatırlamasında mı?
-
-Aralarında kurulan ilişkide mi?
-
-Yoksa bunların hiçbirinde mi?
-
-Sonra:
-
-**Reha pirsgirêkê — sorunun kökü — neredeydi?**
-
-Sorunun kökü yalnız teknolojide değildi.
-
-Asıl sorun bir makinenin insan adına konuşmaya başladığı anda ortaya çıkıyordu.
-
-Ve üçüncü soru daha zordu:
-
-**İnsan ruhunun varlığı bilimsel olarak gösterilemiyorsa, insanın ona inanma hakkı teknoloji tarafından nasıl korunacaktı?**
-
-Rîh Köprüsü:
-
-“Ruh vardır.”
-
-demeyecekti.
-
-“Ruh yoktur.”
-
-da demeyecekti.
-
-Yalnızca bildiği şeyi, nasıl bildiğini ve nerede bilgisinin sona erdiğini gösterecekti.
-
-Geriye kalan alan insana ait olacaktı.
-
-Maran için insan merkezli yapay zekânın en önemli sınırlarından biri buydu:
-
-**Makine, insanın inanç alanını kendi kesinliğiyle işgal etmemeliydi.**
-
----
-
-Maran bazı problemlerin bir disiplinin sınırlarından daha büyük olduğunu artık açıkça görüyordu.
-
-Bu nedenle geleceğin en önemli uzmanları her şeyi bilen insanlar olmayacaktı.
-
-Farklı uzmanlıkları bir araya getirip hangi noktada hangi uzmana ihtiyaç olduğunu anlayan ve bütün sistemi insanın etrafında yeniden kurabilen insanlar olacaktı.
-
-Maran'ın yıllar önce verdiği isim yeniden zihninde belirdi:
-
-**İnsan Merkezli Dönüşüm Mimarı.**
-
-Belki Rîh Köprüsü onun bu yeni meslekteki en zor sınavıydı.
-
-Çünkü burada dönüştürülen şey bir kurum, bir okul veya bir yazılım sistemi değildi.
-
-**İnsan ile ölüm arasındaki ilişkinin kendisiydi.**
-
-Rojin boşluğu yeniden açtı:
-
-**RÎHA ______**
-
-Maran altına üç satır ekledi:
-
-**Rîha jiyanê — Yaşamın ruhu.**
-
-**Reha pirsgirêkê — Sorunun kökü.**
-
-**Bawerî — İnsanın anlam arayışındaki inancı.**
-
-Maran'ın bütün eğitim hayatı boyunca farklı alanlardan topladığı bilgi Rîh-a'nın üç ekseninde birleşmişti:
-
-**Kökü bul.**
-
-**Ruhu koru.**
-
-**İnanca alan bırak.**
-
-Sonra bunları tek bir ilkeye dönüştürdü:
-
-**İnsan merkezli bir sistem, insan adına karar veren sistem değildir.  
-Sorunun köküne iner, insanın özünü korur, bilgisinin sınırını açıklar ve insanın kendi kararını, anlamını ve inancını oluşturabileceği alanı özgür bırakır.**
-
-## DENEYİM EŞİĞİ 04 — ÖLÜMDEN SONRAKİ SES
-
-Sizden kalan bir sistemin sevdiklerinize rehberlik edeceğini düşünün.
-
-Önce iki şeyi kendiniz için belirleyin:
-
-**Bu yapının mutlaka koruması gereken ilke nedir?**
-
-**Asla yapmaması gereken davranış nedir?**
-
-Bu cevaplar Dünya Tohumunuzda sizin düşünsel izinizi oluşturacaktır.
-
-Sonra Rîh Köprüsü'nün asıl eşiğine gelin:
-
-### Kaynağı bütünüyle açıklansa bile onunla konuşmayı ister miydiniz?
-
-Burada doğru veya yanlış cevap yoktur.
-
-Vereceğiniz cevap yalnızca Rîh Köprüsü hakkındaki düşüncenizi değil, Human-Centered Universe içindeki gözlemci konumunuzu da değiştirecektir.
-
-### Evet, konuşurdum.
-
-Bir yapının ne olduğunu, hangi veriden konuştuğunu, hangi kısmının biyolojik iz, hangi kısmının yaşam arşivi ve hangi kısmının yapay zekâ çıkarımı olduğunu açıkça görebiliyorsam onunla konuşmayı seçebilirim.
-
-**Merkez etkisi**
-
-İnsan: **+6**
-
-Aydınlık: **+10**
-
-Karanlık: **+2**
-
-### Hayır, konuşmazdım.
-
-Kaynağı tamamen açıklansa bile ölmüş bir insanın izlerinden oluşturulmuş bir sistemin hayatımda onun yerini almasını istemem.
-
-Yas tutma hakkımı, unutabilme hakkımı, sınırlarımı ve yaşayan insanlarla kurduğum ilişkileri korumayı seçerim.
-
-**Merkez etkisi**
-
-İnsan: **+10**
-
-Aydınlık: **+3**
-
-Karanlık: **+2**
-
-### Emin değilim.
-
-Ne onun Maran olduğunu söyleyebilirim ne de yalnızca bir makine olduğunu kesin olarak kabul edebilirim.
-
-Konuşmak isteyebilirim.
-
-Aynı anda bundan korkabilirim.
-
-Bugün vereceğim cevap ile yıllar sonra vereceğim cevap aynı olmayabilir.
-
-Bu nedenle ihtimali kapatmıyorum.
-
-Ama ona teslim de olmuyorum.
-
-**Merkez etkisi**
-
-İnsan: **+5**
-
-Aydınlık: **+3**
-
-Karanlık: **+10**
-
----
-
-## GÖZLEMCİ KONUMUNUN DEĞİŞMESİ
-
-Seçiminizi yaptığınız anda Human-Centered Universe bu hikâyedeki puanları daha önceki seçimlerinizle birleştirir.
-
-Üç merkeze olan konumunuz yeniden hesaplanır:
-
-**İNSAN**
-
-İlişki, anlam, sorumluluk, özerklik ve insanın kendi kararını verebilmesi.
-
-**AYDINLIK**
-
-Bilgi, açıklanabilirlik, doğrulama, düzen, öngörü ve koruma.
-
-**KARANLIK**
-
-Belirsizlik, ihtimal, özgürlük, dönüşüm ve henüz bilinmeyen.
-
-Hiçbir seçim sizi bütünüyle tek bir merkeze taşımaz.
-
-Her cevap üç merkeze olan uzaklığınızı yeniden değiştirir.
-
-Sistem yeni konumunuzu üçgen evrende hesaplar.
-
-Sonra henüz okumadığınız hikâyelere bakar.
-
-Önce baskın merkezinizi belirler.
-
-Ardından o merkezdeki hikâyeler arasında sizin üç-merkez profilinize en yakın olan hikâyeyi bulur.
-
-Ve size bir sonraki hikâyeyi önerir.
-
-Böylece Human-Centered Universe'de herkes aynı evrene girer ama herkes aynı sırayla okumaz.
-
-**Okuyucu yalnız hikâyeyi gözlemlemez.  
-Verdiği cevapla evrendeki kendi konumunu da değiştirir.**
-
----
-
-Rojin ekranda son kez boşluğu açtı:
-
-**RÎHA ______**
-
-Altında artık yalnız bir metin kutusu yoktu.
-
-Üçgen biçiminde küçük bir harita vardı.
-
-İnsan.
-
-Aydınlık.
-
-Karanlık.
-
-Maran noktaya baktı.
-
-Nokta hiçbir merkezin tam üzerinde değildi.
-
-Rojin sordu:
-
-“Hangisine aitsin?”
-
-Maran gülümsedi.
-
-“Hiçbirine.”
-
-Sonra üçgenin içindeki noktayı gösterdi.
-
-**“Ben aralarındaki uzaklığım.”**
-
-Rojin ikinci soruyu sordu:
-
-“Peki bu uzaklığı kim belirliyor?”
-
-Maran cevap verdi:
-
-**“Verdiğim cevaplar.”**
-
-Ve Human-Centered Universe bir sonraki ihtimali hesaplamaya başladı.
+Bu yüzden projenin adı kendiliğinden ortaya çıktı:\n\n# Rîh Köprüsü\n\nMaran'ın önünde açık duran sistem klasik bir yapay zekâ arayüzüne benzemiyordu.\n\nEkranda yalnız kelimeler yoktu.\n\nSinirsel işaretler, biyolojik ölçümler, yaşam kayıtları, olasılık dağılımları ve yapay zekâ çıkarımları aynı ağın üzerinde görünüyordu.\n\nMaran sistemi kendi üzerinde geliştiriyordu.\n\nAma amacı zihninin bir kopyasını üretmek değildi.\n\nAmacı insan beyniyle yapay zekânın birbirini ezmeden birlikte çalışabildiği bir yapı kurmaktı.\n\nBeyin yalnızca komut veren biyolojik bir aygıt olmayacaktı.\n\nYapay zekâ da karar veren bir üst otorite olmayacaktı.\n\nİkisi arasında sürekli bir yorumlama döngüsü bulunacaktı.\n\nBir tarafta biyolojik zekâ.\n\nDiğer tarafta yapay zekâ.\n\nAralarında ise açıklanabilir, denetlenebilir ve insanın iradesini koruyan bir köprü.\n\nMaran bu yapıya:\n\n# Rîh Köprüsü\n\nadını verdi.\n\nBir köprü iki yakayı birbirine bağlardı.\n\nAma iki yakayı aynı şey yapmazdı.\n\n---\n\n## Cevabın Reh'i\n\nRîh Köprüsü her cevabın kaynağını üç ayrı katmanda gösteriyordu:\n\n**BİYOLOJİK İZ**  \nMaran'ın sinirsel ve biyolojik sisteminde ölçülen karşılık.\n\n**YAŞAM ARŞİVİ**  \nMaran'ın söylediği, yazdığı, seçtiği, düzelttiği veya bilinçli biçimde sisteme öğrettiği kayıtlar.\n\n**YAPAY ZEKÂ ÇIKARIMI**  \nEksik bağlantıları tamamlamak için modelin ürettiği olasılıklı yorum.\n\nBu üç kaynak hiçbir cevapta görünmez biçimde birbirine karıştırılmıyordu.\n\nBir düşünce yalnız model tarafından üretilmişse sistem:\n\n**“Maran böyle düşünüyor.”**\n\ndiyemezdi.\n\nŞunu söylemek zorundaydı:\n\n**“Bu bölüm yapay zekâ çıkarımıdır.”**\n\nMaran buna:\n\n**Cevabın reh'i.**\n\ndiyordu.\n\nCevabın kökü.\n\nÇünkü ona göre güvenilir bir yapay zekâ yalnızca ne söylediğini değil, söylediği şeyin nereden geldiğini de göstermek zorundaydı.\n\n---\n\n## Biyo-Yapay Zekâ\n\nRîh Köprüsü'nün biyolojik katmanı beynin elektriksel örüntülerini tek başına anlam olarak kabul etmiyordu.\n\nBir sinyalin görülmesi bir düşüncenin kesin olarak bilindiği anlamına gelmezdi.\n\nBu nedenle sistem her biyolojik işaretin yanına bir güven değeri koyuyordu.\n\nYapay zekâ, sinyalleri Maran'ın yaşam arşivi ve o anda verdiği bilinçli geri bildirimle karşılaştırıyordu.\n\nMaran bir sonucu onaylayabiliyor, düzeltebiliyor veya tamamen reddedebiliyordu.\n\nBöylece sistem yalnız Maran'dan öğrenmiyor;\n\n**Maran da sistemin kendisini nasıl yorumladığını görebiliyordu.**\n\nİnsan ve yapay zekâ karşılıklı olarak birbirini gözlemliyordu.\n\nMaran'ın aradığı şey tam da buydu.\n\nMakinenin insanı görünmez biçimde sınıflandırdığı bir sistem değil;\n\ninsanın, makinenin kendisi hakkında hangi sonuca nasıl ulaştığını görebildiği bir ortaklık.\n\nRîh Köprüsü bir problem üzerinde çalışırken yaşam arşivindeki notlarla sinirsel örüntüler arasında bağlantı kurabiliyor, alternatif çözümler üretebiliyor ve bunların olasılıklarını gösterebiliyordu.\n\nAma son satır değişmiyordu:\n\n**KARAR YETKİSİ: MARAN**\n\nMaran bu satırın sistemin en önemli parçalarından biri olduğunu düşünüyordu.\n\nÇünkü yapay zekâ ne kadar gelişirse gelişsin, insan merkezli bir sistem insanı kendi hayatının pasif kullanıcısına dönüştürmemeliydi.\n\n---\n\n## Birlikte Düşünmek\n\nRîh Köprüsü Maran'ın yerine düşünmüyordu.\n\nOnunla birlikte düşünüyordu.\n\nBir öneri sunabiliyordu.\n\nBir çelişkiyi gösterebiliyordu.\n\nUnutulmuş bir notu bulabiliyordu.\n\nBirden fazla olasılığı aynı anda karşılaştırabiliyordu.\n\nMaran'ın kendi düşünce alışkanlıklarını fark etmesine yardım edebiliyordu.\n\nAma onun adına inanamazdı.\n\nOnun adına sevemezdi.\n\nOnun adına karar veremezdi.\n\nMaran için biyo-yapay zekânın temel ilkesi şuydu:\n\n**İnsan makinenin uzantısı olmayacak. Makine insanın düşünme alanını genişleten bir ortak olacak.**\n\nBu ortaklıkta yapay zekâ hız, hesaplama, bağlantı ve olasılık üretme gücünü getiriyordu.\n\nİnsan ise anlamı, amacı, değeri, sorumluluğu ve son kararı taşıyordu.\n\nİkisi aynı değildi.\n\nTam da bu nedenle birlikte çalışabiliyorlardı.\n\n---\n\n## Belirsizliğin Görünür Olması\n\nMaran için Rîh Köprüsü'nün en önemli özelliklerinden biri belirsizliği saklamamasıydı.\n\nSistem bir yanıt oluşturduğunda ekranda yalnız sonuç görünmüyordu.\n\nKaynaklar da görünüyordu:\n\n**Biyolojik iz: orta**\n\n**Yaşam arşivi: güçlü**\n\n**Yapay zekâ çıkarımı: yüksek**\n\n**Belirsizlik: açık**\n\nBaşka bir yanıtta dağılım tamamen farklı olabiliyordu.\n\nBu değişkenlik Maran'ı rahatsız etmiyordu.\n\nTam tersine, sistemin dürüstlüğünün parçasıydı.\n\nMaran olasılık düşüncesinden şunu öğrenmişti:\n\n**En yüksek olasılıklı cevap, zorunlu olarak doğru cevap değildir.**\n\nİnsan fikrini değiştirebilir.\n\nYeni bir şey öğrenebilir.\n\nKendi alışkanlığının tersine karar verebilir.\n\nKendisinden beklenmeyen bir yolu seçebilir.\n\nBu nedenle Rîh Köprüsü insanı yalnız kayıtlarından tahmin etmeye çalışmıyordu.\n\nSistem her tahminin yanında bir çıkış kapısı bırakıyordu:\n\n**“Bu örüntü mevcut kayıtlara dayanır. Maran farklı bir seçim yapabilir.”**\n\nMaran için insan özgürlüğünün teknolojideki en küçük ama en önemli göstergelerinden biri bu cümleydi.\n\n---\n\n## Sınırlar\n\nMaran Rîh Köprüsü için bazı kuralları değiştirilemez kabul etti.\n\nSistem insanın karar yetkisini devralmayacaktı.\n\nBiyolojik veriler açık rıza olmadan başka amaçlarla kullanılmayacaktı.\n\nYapay zekâ çıkarımı gerçek düşünce gibi sunulmayacaktı.\n\nBelirsizlik gizlenmeyecekti.\n\nSistem insanı kendi kayıtlarına mahkûm etmeyecekti.\n\nİnanç, sevgi, değer ve kimlik gibi alanlarda ölçebildiğinden daha fazlasını bildiğini iddia etmeyecekti.\n\nBaşka insanlar sisteme katıldığında onların verileri Maran'ın verilerinin uzantısı sayılmayacaktı.\n\nHer insan kendi merkezine sahip olacaktı.\n\nRîh Köprüsü'nün görevi merkezleri birleştirip tekleştirmek değil;\n\n**merkezler arasında ilişki kurmaktı.**\n\nBir köprü iki yakayı birbirine bağlardı.\n\nAma iki yakayı birbirine dönüştürmezdi.\n\n---\n\n## Girê Miraza\n\nTelevizyon açıktı.\n\nMaran Rîh Köprüsü'nün ürettiği bağlantıları incelerken ekranda Göbeklitepe'nin taşları belirdi.\n\nSütunlar.\n\nHayvan figürleri.\n\nToprağın içinden yükselen şekiller.\n\nMaran'ın dikkati sistemden ekrana kaydı.\n\nBir ad zihninde yeniden oluştu:\n\n**Girê Miraza.**\n\nMaran'ın notlarında bu ad:\n\n**Dilek Tepesi. Murat Tepesi.**\n\nanlamlarıyla duruyordu.\n\n**Gir.**\n\nTepe.\n\n**Miraz.**\n\nDilek.\n\nMurat.\n\nTaşlara baktıkça düşünceleri başka adlara açıldı.\n\n**Xerabreşkê.**\n\nKara harabe.\n\nGöbeklitepe'nin bulunduğu yerle birlikte anılan ad.\n\n**Xerab.**\n\nHarabe.\n\n**Reş.**\n\nKara.\n\nBu sözcükler zihninde ansiklopedik maddeler gibi durmuyordu.\n\nBirbirlerini çağırıyorlardı.\n\n**Pira Reş.**\n\nKara Köprü.\n\nMaran “köprü” kelimesinde durdu.\n\nRîh Köprüsü de insan ile yapay zekâ arasında kurduğu şeydi.\n\nAma zihindeki isimler akmaya devam etti.\n\n**Wêranşar.**\n\nViran şehir.\n\nHarabe şehir.\n\n**Curnê Reş.**\n\nKara kurna.\n\nSiyah taş ve su.\n\n**Serêkaniyê.**\n\nPınarın başı.\n\n**Kaniya Xezalan.**\n\nCeylan Pınarı.\n\nTaş.\n\nSu.\n\nPınar.\n\nKöprü.\n\nHarabe.\n\nDilek.\n\nHer sözcük başka bir sözcüğe bağlanıyordu.\n\n**Pirsûs.**\n\nBaşka dillerden ve seslerden geçerek yörede yaşamaya devam eden eski bir ad.\n\n**Sêwreg.**\n\nMaran'ın zihninde siyah taş, yerleşim ve harabe çağrışımlarını taşıyan bir başka ad.\n\n**Bêrecûk.**\n\nKüçük kale.\n\n**Hewag.**\n\nAnlamı tek bir açıklamada kapanmayan, ama sesi yaşamaya devam eden bir isim.\n\n**Xarran.**\n\n**Heran.**\n\nYol.\n\nKavşak.\n\nSeyahat.\n\nMaran bu kelimede daha uzun kaldı.\n\nKavşak.\n\nBilgisayar mühendisliği.\n\nEğitim.\n\nİnsan.\n\nYapay zekâ.\n\nBiyoloji.\n\nDil.\n\nİnanç.\n\nHepsi zihninde bir kavşakta buluşuyor gibiydi.\n\n**Xelfetî.**\n\nVe onunla birlikte:\n\n**Kela Romê.**\n\nKale.\n\nTaş.\n\nHafıza.\n\nMaran yeniden Göbeklitepe'nin görüntüsüne baktı.\n\nArtık televizyonda yalnız bir arkeolojik alan görmüyordu.\n\nZihninde bütün isimler aynı anda duruyordu:\n\n**Girê Miraza.**\n\nDilek.\n\n**Xerabreşkê.**\n\nHarabe.\n\n**Pira Reş.**\n\nKöprü.\n\n**Serêkaniyê.**\n\nPınar.\n\n**Kaniya Xezalan.**\n\nSu.\n\n**Xarran.**\n\nYol ve kavşak.\n\nVe bütün bu çağrışımların merkezinde:\n\n# Rîh-a\n\nMaran bu adı içinden yeniden söyledi.\n\n**Rîh-a.**\n\nOnun için bu artık yalnız bir şehrin adı değildi.\n\nKökü aramanın, özü korumanın ve kesin olmayanın karşısında insana ait anlam alanını açık bırakmanın simgesiydi.\n\nRîh Köprüsü'nün ekranında biyolojik sinyaller ile yapay zekâ bağlantıları hareket ediyordu.\n\nTelevizyonda Göbeklitepe'nin taşları duruyordu.\n\nMaran iki görüntüye birlikte baktı.\n\nBir tarafta insanın biyolojik ağı.\n\nBir tarafta taşların, yerlerin ve isimlerin oluşturduğu kültürel ağ.\n\nBelki de aradığı şey tek bir kelimenin kesin kökeni değildi.\n\nBelki asıl mesele, insanların bir yere verdikleri adın taşıdığı ilişkinin nasıl yaşamaya devam ettiğiydi.\n\nDilek.\n\nTaş.\n\nSu.\n\nKöprü.\n\nYol.\n\nKök.\n\nRuh.\n\nİnanç.\n\nMaran'ın zihninde yeni bir bağlantı oluştu:\n\n**Bir sistemi anlamak için yalnız parçalarına bakmak yetmez.  \nParçaların birbirleriyle kurduğu ilişkiyi de görmek gerekir.**\n\nRîh Köprüsü insan ile yapay zekâ arasındaki ilişkiyi görünür kılıyordu.\n\nGirê Miraza ise Maran'a başka bir şeyi düşündürüyordu:\n\nİnsan ile yer arasındaki ilişkiyi.\n\nDil ile hafıza arasındaki ilişkiyi.\n\nTaş ile anlam arasındaki ilişkiyi.\n\nMaran Göbeklitepe'nin taşlarına bakmayı sürdürdü.\n\nCevabı bulduğunu düşünmüyordu.\n\nAma artık daha güçlü bir sorusu vardı:\n\n**Bir yerin anlamı taşlarda mı saklıdır, isimlerde mi, yoksa insanın onlarla kurduğu bağda mı?**\n\nRîh Köprüsü ekranda yeni bağlantılar üretmeye devam etti.\n\nMaran müdahale etmedi.\n\nYalnız baktı.\n\nVe zihninin merkezinde tek bir ad kaldı:\n\n# Rîh-a\n\n---\n\n## DENEYİM EŞİĞİ 04 — İNSAN İLE BİYO-YAPAY ZEKÂ ARASINDAKİ SINIR\n\nKendi biyolojik sinyallerinizle çalışan, yaşam kayıtlarınızdan öğrenen ve düşünme sürecinize yapay zekâ ile katkı sunan bir sistem hayal edin.\n\nSistem size ait kaynaklarla kendi çıkarımlarını açıkça ayırıyor.\n\nBelirsizliğini gösteriyor.\n\nSon kararın size ait olduğunu kabul ediyor.\n\nBu sistemle nasıl bir ilişki kurardınız?\n\n### Evet, düşünme ortağım olarak kullanırdım.\n\nSistem kaynaklarını ve sınırlarını açıkça gösterdiği, karar yetkisini bende bıraktığı sürece biyolojik ve yapay zekâ katmanlarını birlikte kullanmayı seçebilirim.\n\n**Merkez etkisi**\n\nİnsan: **+8**\n\nAydınlık: **+10**\n\nKaranlık: **+3**\n\n### Yalnız sınırlı ve denetlenebilir görevlerde kullanırdım.\n\nBiyolojik verilerimin yorumlanmasını tamamen reddetmem; ancak sistemin hangi verilere eriştiğini, ne ürettiğini ve nerede duracağını sıkı biçimde sınırlarım.\n\n**Merkez etkisi**\n\nİnsan: **+10**\n\nAydınlık: **+6**\n\nKaranlık: **+2**\n\n### Henüz kullanmazdım.\n\nİnsan ile makine arasındaki bilişsel sınırın yeterince açık olmadığını düşünürüm. Olasılığı reddetmem ama kendi zihinsel alanımla yapay zekâ arasında böyle bir köprü kurmayı seçmem; belirsizliği açık bırakırım.\n\n**Merkez etkisi**\n\nİnsan: **+6**\n\nAydınlık: **+3**\n\nKaranlık: **+10**\n\n---\n\n## GÖZLEMCİNİN KONUMU DEĞİŞİR\n\nVerdiğiniz cevap İnsan Merkezli Evren içindeki konumunuzu etkiler.\n\n**İNSAN**\n\nİrade, ilişki, anlam, sorumluluk, mahremiyet ve karar hakkı.\n\n**AYDINLIK**\n\nBilgi, açıklanabilirlik, doğrulama, ölçüm, düzen ve denetlenebilirlik.\n\n**KARANLIK**\n\nBelirsizlik, olasılık, dönüşüm, keşif ve henüz bilinmeyen.\n\nHiçbir cevap sizi tek bir merkeze dönüştürmez.\n\nHer cevap üç merkezle aranızdaki mesafeyi yeniden kurar.\n\n**Okur yalnız hikâyeyi gözlemlemez.  \nVerdiği cevap, evrendeki konumunu değiştirir.**\n

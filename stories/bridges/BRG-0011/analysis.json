@@ -2,14 +2,14 @@
   "schema": "hcu-story-analysis",
   "primary_center": "HUMAN",
   "center_weights": {
-    "HUMAN": 70,
+    "HUMAN": 72,
     "LIGHT": 20,
-    "DARK": 10
+    "DARK": 8
   },
   "classification": {
-    "method": "curated narrative classification based on human autonomy, explainability, interdisciplinary learning, probability, belief and bounded postmortem AI",
+    "method": "curated narrative classification based on human agency, explainability, interdisciplinary learning, living bio-AI partnership, probability, cultural memory and bounded uncertainty",
     "status": "reviewed-curation",
-    "note": "HUMAN dominates because autonomy, dignity, grief, relationship and the right to decide remain primary. LIGHT represents explanation, source visibility, knowledge and verification. DARK represents uncertainty, open possibility, transformation and the unknowable."
+    "note": "HUMAN dominates because agency, consent, privacy, relationship and the right to decide remain primary. LIGHT represents explanation, source visibility, measurement and auditability. DARK represents uncertainty, open possibility, transformation and the still-unknown boundary between biological and artificial intelligence."
   },
   "coverage_audit": {
     "coverage_complete": true,

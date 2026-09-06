@@ -7,23 +7,25 @@
   "source_language": "en",
   "book_order": 18,
   "culture": [
-    "family memory",
-    "Rîha / Sanliurfa",
-    "Berlin future setting",
-    "Kurdish linguistic symbolism",
-    "global research ethics"
+    "Rîh-a / Sanliurfa",
+    "Göbekli Tepe / Girê Miraza",
+    "Kurdish local place-name symbolism",
+    "interdisciplinary education",
+    "human-centered bio-artificial intelligence",
+    "language, place and cultural memory"
   ],
   "belief_context": [
-    "identity after death",
     "human-centered AI",
+    "bio-artificial intelligence",
+    "brain-computer interaction",
     "explainable AI",
     "probability and uncertainty",
-    "grief",
-    "consent",
+    "human agency",
     "belief and limits of knowledge",
-    "science-fiction uncertainty"
+    "quantum-time narrative",
+    "language and place memory"
   ],
-  "summary": "Maran's horizontal path through computer engineering, probability, business, informatics and education converges into human-centered and explainable AI and the new profession of Human-Centered Transformation Architect. The Rîh Bridge becomes his hardest test: a postmortem biological-and-digital system that must expose the root of every answer, protect human autonomy, and leave room for belief where knowledge ends.",
+  "summary": "Maran's path through computer engineering, mathematics, probability, business, informatics, education and human-centered AI converges in the profession of Human-Centered Transformation Architect and in the Rîh Bridge: a living bio-artificial intelligence partnership that keeps biological traces, life records and AI inference distinct while human decision authority remains intact. While watching Göbekli Tepe, local names such as Girê Miraza, Xerabreşkê, Pira Reş and Xarran re-form in his mind as a network of place, language, memory and meaning centered on Rîh-a.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -32,64 +34,42 @@
       "status": "reviewed"
     }
   },
-  "links": [
-    {
-      "target": "COM-0005",
-      "type": "cause",
-      "note": "The Rîh Bridge operationalizes human autonomy, consent, explainability, uncertainty, accountability and repair."
-    },
-    {
-      "target": "BRG-0012",
-      "type": "contrast",
-      "note": "Rîh Bridge restricts postmortem authority; Record X tests what happens when a preserved brain becomes part of a universe-generating center."
-    },
-    {
-      "target": "LGT-0001",
-      "type": "contrast",
-      "note": "Permanent paternal protection risks reproducing Light's authority over the protected."
-    },
-    {
-      "target": "DRK-0001",
-      "type": "contrast",
-      "note": "Unlimited identity mutation risks reproducing Dark's responsibility-free possibility."
-    }
-  ],
   "observer_choices": [
     {
-      "key": "speak_with_explained_bridge",
-      "label": "Yes, I would speak with it if its sources were fully explained.",
+      "key": "bio_ai_thinking_partner",
+      "label": "Yes, I would use it as a thinking partner while decision authority remains mine.",
       "labels": {
-        "en": "Yes, I would speak with it if its sources were fully explained.",
-        "tr": "Evet, kaynakları bütünüyle açıklanırsa onunla konuşurdum."
+        "en": "Yes, I would use it as a thinking partner while decision authority remains mine.",
+        "tr": "Evet, karar yetkisi bende kaldığı sürece onu düşünme ortağım olarak kullanırdım."
       },
       "effects": {
-        "HUMAN": 6,
+        "HUMAN": 8,
         "LIGHT": 10,
-        "DARK": 2
+        "DARK": 3
       }
     },
     {
-      "key": "protect_grief_and_living",
-      "label": "No, I would protect grief, boundaries, and relationships with the living.",
+      "key": "bio_ai_limited_auditable",
+      "label": "I would use it only for limited and auditable tasks.",
       "labels": {
-        "en": "No, I would protect grief, boundaries, and relationships with the living.",
-        "tr": "Hayır, yas hakkını, sınırları ve yaşayanlarla kurulan ilişkileri korurdum."
+        "en": "I would use it only for limited and auditable tasks.",
+        "tr": "Yalnız sınırlı ve denetlenebilir görevlerde kullanırdım."
       },
       "effects": {
         "HUMAN": 10,
-        "LIGHT": 3,
+        "LIGHT": 6,
         "DARK": 2
       }
     },
     {
-      "key": "leave_uncertainty_open",
-      "label": "I am not sure; I would leave the possibility open without surrendering to it.",
+      "key": "bio_ai_leave_uncertainty_open",
+      "label": "I would not use it yet; I would leave the uncertainty open.",
       "labels": {
-        "en": "I am not sure; I would leave the possibility open without surrendering to it.",
-        "tr": "Emin değilim; ihtimali açık bırakır ama ona teslim olmazdım."
+        "en": "I would not use it yet; I would leave the uncertainty open.",
+        "tr": "Henüz kullanmazdım; belirsizliği açık bırakırdım."
       },
       "effects": {
-        "HUMAN": 5,
+        "HUMAN": 6,
         "LIGHT": 3,
         "DARK": 10
       }
@@ -98,7 +78,7 @@
   "interactions": [
     {
       "threshold": "04",
-      "key": "after_death_principle",
+      "key": "bio_ai_principle",
       "type": "textarea",
       "world_seed": true,
       "label": {
@@ -106,13 +86,13 @@
         "tr": "Korunacak İlke"
       },
       "prompt": {
-        "en": "What principle must a posthumous guide always protect?",
-        "tr": "Ölümden sonraki rehber mutlaka hangi ilkeyi korumalı?"
+        "en": "What principle must a bio-artificial intelligence partner always protect?",
+        "tr": "Bir biyo-yapay zekâ ortağı her durumda hangi ilkeyi korumalı?"
       }
     },
     {
       "threshold": "04",
-      "key": "after_death_forbidden",
+      "key": "bio_ai_forbidden",
       "type": "textarea",
       "world_seed": true,
       "label": {
@@ -120,25 +100,19 @@
         "tr": "Yasak Davranış"
       },
       "prompt": {
-        "en": "What must it never do?",
-        "tr": "Asla ne yapmamalı?"
+        "en": "What must it never decide or do in your place?",
+        "tr": "Sizin yerinize asla neye karar vermemeli veya ne yapmamalı?"
       }
     }
   ],
   "localized": {
     "tr": {
       "title": "Rîh-a: Kökün, Ruhun ve İnancın Merkezi",
-      "summary": "Maran'ın bilgisayar mühendisliği, olasılık, işletme, bilişim ve eğitim alanlarındaki yatay uzmanlıkları insan merkezli ve yorumlanabilir yapay zekâda dikey uzmanlığa dönüşür. İnsan Merkezli Dönüşüm Mimarı kimliğinin en zor sınavı olan Rîh Köprüsü, her cevabın kökünü açıklayan, insan özerkliğini koruyan ve bilginin bittiği yerde inanca alan bırakan biyolojik-dijital bir sistem olarak ortaya çıkar.",
-      "link_notes": {
-        "COM-0005": "Rîh Köprüsü insan özerkliği, rıza, yorumlanabilirlik, belirsizlik, hesap verebilirlik ve onarım ilkelerini uygulamaya geçirir.",
-        "BRG-0012": "Rîh Köprüsü ölüm sonrası yetkiyi sınırlar; Kayıt X ise korunmuş bir beynin evren üreten merkezin parçası olması hâlinde ne olacağını sınar.",
-        "LGT-0001": "Kalıcı babasal koruma, Aydınlık'ın korunan üzerindeki yetkisini yeniden üretebilir.",
-        "DRK-0001": "Sınırsız kimlik değişimi, Karanlık'ın sorumluluktan bağımsız ihtimalini yeniden üretebilir."
-      }
+      "summary": "Maran'ın bilgisayar mühendisliği, matematik, olasılık, işletme, bilişim, eğitim ve insan merkezli yapay zekâ alanlarındaki birikimi İnsan Merkezli Dönüşüm Mimarı kimliğinde ve Rîh Köprüsü'nde birleşir. Rîh Köprüsü, Maran hayattayken geliştirdiği; biyolojik izleri, yaşam kayıtlarını ve yapay zekâ çıkarımlarını birbirinden ayıran, karar yetkisini insanda bırakan biyo-yapay zekâ ortaklığıdır. Göbeklitepe'yi izlerken Girê Miraza, Xerabreşkê, Pira Reş, Xarran ve diğer yerel adlar zihninde yer, dil, hafıza ve anlam ağı olarak yeniden oluşur; bu ağın merkezinde Rîh-a kalır."
     }
   },
   "inspiration": {
-    "type": "fictionalized personal and interdisciplinary research trajectory",
-    "note": "Rîh-a is used in the story as Maran's symbolic linguistic-philosophical reading connecting local Rîha, spirit, root, essence and belief; it is not presented as a definitive historical etymology."
+    "type": "fictionalized personal, interdisciplinary and cultural-symbolic research trajectory",
+    "note": "Rîh-a and the local place names are used through Maran's symbolic linguistic and cultural associations. The story does not present these associations as definitive historical etymologies."
   }
 }
