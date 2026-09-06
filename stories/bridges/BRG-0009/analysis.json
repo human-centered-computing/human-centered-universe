@@ -2,14 +2,14 @@
   "schema": "hcu-story-analysis",
   "primary_center": "HUMAN",
   "center_weights": {
-    "HUMAN": 45,
-    "LIGHT": 25,
-    "DARK": 30
+    "HUMAN": 55,
+    "LIGHT": 20,
+    "DARK": 25
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated rewrite aligned with the BRG-0008 → BRG-0009 → BRG-0010 narrative chain and HCU three-center architecture",
+    "status": "reviewed-rewrite",
+    "note": "Human dominates because finitude, responsibility, memory, relationships and accountable choice are the central result. Light contributes mathematical structure and conceptual precision. Dark contributes open possibilities, uncertainty and branching futures."
   },
   "coverage_audit": {
     "coverage_complete": true,

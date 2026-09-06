@@ -1,115 +1,1056 @@
 # Sonsuzluk Yaşanmaz
 
-Beyaz alan parçalanmadı. Her çatlağın içinde kendisinin daha ince bir kopyası belirdi. Maran bir çizgiye yaklaştığında çizgi ikiye, sonra dörde, sonra sekize ayrıldı. Bölünme hızlandıkça alan küçülmek yerine derinleşti.
+BRG-0008'in sonunda açılan kapılar çoğalmaya devam etti.
 
-Ayaklarının önünde bir koridor oluştu. İlk kapının üzerinde 1, ikincisinde 2, üçüncüsünde 3 yazıyordu. Kapılar gözün ulaşamayacağı kadar devam ediyordu. Maran sonuncusunu aradı; fakat baktığı her son kapının arkasında bir başkası beliriyordu.
+Bir.
 
-Luka yanında belirdi.
+İki.
 
-"Sonsuzluk en büyük sayı değildir," dedi. "Çünkü söylediğin her sayıya bir ekleyebilirsin."
+Üç.
 
-"O hâlde bir yer değil."
+On.
 
-"Bir sonuca varamayan işlem de olabilir. Hiç bitmeyen bir imkân da. Bunlar aynı şey değildir."
+Yüz.
 
-Koridorun duvarında bir ifade yandı:
+Bin.
 
-S = 1/2 + 1/4 + 1/8 + 1/16 + ... = 1
+Maran hangisinin sonuncu olduğunu görmek için ileri baktı.
 
-Maran çocukluğunda bir odayı geçerken attığı adımları düşündü. Önce yolun yarısını, sonra kalanın yarısını, sonra yeniden yarısını geçse bölünmeler hiç bitmiyordu. Buna rağmen karşı duvara ulaşabiliyordu. Sonsuz sayıda parça, sonlu bir uzaklığın içine sığmıştı.
+Koridor görüşünün bittiği yerde kararıyordu.
 
-"Demek ki bitmeyen her şey sınırsız değil," dedi.
+Bir süre yürüdü.
 
-"Ve sınırlı görünen her şey basit değil," diye cevap verdi Luka.
+Kapılar bitmedi.
 
-Ayo koridorun öteki ucunda belirdi. Elinde Maran'ın çocukluk fotoğraflarından biri vardı. Fotoğrafın içinde daha küçük bir fotoğraf, onun içinde bir başkası bulunuyordu. Yüzler küçüldükçe seçilemez oldu; fakat yok olmadı.
+Daha hızlı yürüdü.
 
-"Bir insanı sonsuza kadar hatırlamak mümkün mü?" diye sordu Maran.
+Yine bitmedi.
 
-"Aynı anıyı hiç değiştirmeden tekrarlarsan onu korumazsın," dedi Ayo. "Onu hareket edemeyeceği bir yere kapatırsın."
+Sonunda koşmaya başladı.
 
-"Peki değiştirirsem?"
+Luka arkasından seslendi:
 
-"O zaman ne kadarının ona, ne kadarının sana ait olduğunu bilemezsin."
+“Dur.”
 
-Rojin kapılardan birini açtı. İçeride bütün odaları dolu bir otel vardı. Görevli, yeni gelen bir yolcu için yer olmadığını söylüyordu. Rojin her odadaki konuğun bir sonraki odaya geçmesini istedi: 1 numaradaki 2'ye, 2 numaradaki 3'e, her n numaralı odadaki n+1'e taşındı. Bütün odalar başlangıçta dolu olduğu hâlde 1 numaralı oda boşaldı.
+Maran durmadı.
 
-"Sonsuz bir topluluk dolu olduğu hâlde yeni birini kabul edebilir," dedi Luka.
+“Sonunu görmek istiyorum.”
 
-Maran, "Bu bir çelişki," dedi.
+“Göremezsin.”
 
-"Sonlu dünyadaki doluluk fikrini sonsuza taşıdığın için öyle görünüyor."
+“Nereden biliyorsun?”
 
-Otelin karşısında ikinci bir yapı yükseldi. Bu kez odaların üzerinde tam sayılar değil, sıfır ile bir arasındaki değerler yazıyordu. Maran ilk yapının kapılarını sıraya koyabiliyordu. İkinci yapıda ise hangi listeyi kurarsa kursun, basamakları çaprazdan değiştirilen yeni bir sayı listenin dışında kalıyordu.
+“Çünkü sonsuzluk, çok uzaklara yerleştirilmiş son bir kapı değildir.”
 
-Duvara iki küme çizildi:
+Maran yavaşladı.
 
-|N| < |R|
+Luka yanına geldi.
 
-"Bütün sonsuzluklar aynı büyüklükte değil," dedi Luka. "Sayılabilen sonsuzluk var. Hiçbir tam listeye sığmayan sonsuzluk da."
+“Bir sayı söyle.”
 
-Maran, Georg Cantor'un yıllar önce okuduğu ispatını hatırladı. O zaman bunu matematiğin insan sezgisine karşı kazandığı bir zafer sanmıştı. Şimdi başka bir şey görüyordu: Zihin, adını aynı koyduğu iki uçsuzluğu birbirinden ayırmayı öğrenmişti. Belki insanları, inançları ve dünyaları tek bir sınıfa kapatmamanın matematiksel karşılığı da buydu.
+“Bir milyon.”
 
-Lucía'nın sesi boşluğun içinden geldi:
+“Bir ekle.”
 
-"Bir okur her seçimde iki yola ayrılsa kitap kaç dünya üretir?"
+“Bir milyon bir.”
 
-"Seçim sayısı sonluysa hesaplanabilir," dedi Maran.
+“Bir daha.”
 
-"Peki kitap okurun yeni bir seçenek yazmasına izin verirse?"
+Maran ona baktı.
 
-Kenji'nin sesi ona karıştı:
+“Anladım.”
 
-"Her sesin arasına başka bir ses yerleştirilebilir. Fakat insan hepsini işitemez."
+“Hayır,” dedi Luka. “İlk kısmını anladın.”
 
-Ardından Amara konuştu:
+Koridorun üzerinde yeni bir ifade belirdi:
 
-"Beyin sonsuz ihtimali yaşamaz. Seçtiği birkaç ihtimali gerçekmiş gibi taşır."
+**SONSUZLUK = EN BÜYÜK SAYI DEĞİL**
 
-Elena'nın sesi son geldi:
+Ardından:
 
-"Bir modelin sonsuz olasılık üretmesi, geçmiş hakkında sonsuz yorumun eşit derecede kanıtlı olduğu anlamına gelmez."
+**SONU OLMAYAN BİR SÜREÇ İLE TAMAMLANMIŞ SONSUZ BİR YAPI AYNI ŞEY DEĞİLDİR.**
 
-Maran seslerin gerçekten arkadaşlarına mı ait olduğunu anlayamadı. Sistem onların kayıtlarından yeni cümleler kurmuş olabilirdi. Belki de Maran, onların söyleyeceklerini kendi zihninde tamamlıyordu.
+Maran kapılara baktı.
 
-Koridor yeniden değişti. Bir yanında Aydınlık Merkez, olabilecek bütün gelecekleri hesaplamaya çalışıyordu. Her yeni veri başka dallar oluşturuyor; sistem belirsizliği bitirmek için daha fazla veri istiyordu. Öteki yanında Karanlık Merkez, her ihtimali yeni bir dünya olarak açıyordu. Dünyalar çoğaldıkça hiçbirinde verilen zararın hesabı ötekine ulaşmıyordu.
+“Peki bunların hepsi gerçekten var mı?”
 
-Aydınlık'ın sonsuzluğu tamamlanmış bilgi arzusuydu. Karanlık'ın sonsuzluğu sonuç taşımayan ihtimallerdi. Biri her şeyi bilmeden insanı serbest bırakmak istemiyor, diğeri hiçbir şeyi sonlandırmadan özgür olduğunu sanıyordu.
+Luka hemen cevap verdi:
 
-Maran ortalarında durdu.
+“Bilmiyoruz.”
 
-"İnsan sonsuz değil," dedi.
+“Az önce sistem hepsini gösterdi.”
 
-İki merkez aynı anda cevap verdi:
+“Bir modelin ürettiği olasılıklar, fiziksel olarak var olan paralel evrenlerin kanıtı değildir.”
 
-"Bu nedenle bizi kurdu."
+Maran gülümsedi.
+
+“Sonunda kapıya kapı dememeyi öğrendik.”
+
+Luka da hafifçe gülümsedi.
+
+“Kawa haklıydı.”
+
+**Benzetme kapıdır. Kapıyı ev sanma.**
+
+---
+
+Sistem koridoru kapattı.
+
+Yerine tek bir çizgi koydu.
+
+Çizginin bir ucunda Maran duruyordu.
+
+Diğer ucunda bir ışık.
+
+Aralarında:
+
+**1**
+
+yazıyordu.
+
+Sonra sistem çizginin yarısını işaretledi.
+
+**1/2**
+
+Kalanın yarısını:
+
+**1/4**
+
+Sonra:
+
+**1/8**
+
+**1/16**
+
+**1/32**
+
+Bölünmeler hızlandı.
+
+Maran:
+
+“Böyle gidersek hiçbir zaman sona ulaşamayız.”
+
+Luka:
+
+“Bölme işlemi bitmez.”
+
+“Öyleyse ışığa da ulaşamam.”
+
+“Yürümeyi dene.”
+
+Maran bir adım attı.
+
+Sonra bir tane daha.
+
+Birkaç saniye sonra ışığın yanındaydı.
+
+Duvara bir ifade yazıldı:
+
+**1/2 + 1/4 + 1/8 + 1/16 + … = 1**
+
+Maran geriye baktı.
+
+“Sonsuz sayıda parça sonlu bir mesafenin içinde.”
+
+“Evet.”
+
+“Bu biraz hile gibi.”
+
+“Sezgine öyle geliyor.”
+
+Luka çizginin üzerine dokundu.
+
+“Matematik bazen bize şunu öğretir: ‘Bitmeyen’ ile ‘sınırsız’ aynı kelime değildir.”
+
+Maran:
+
+“Bir şey sonsuz parçaya ayrılabilir ama bütünü sonlu kalabilir.”
+
+“Evet.”
+
+“İnsan da öyle olabilir mi?”
+
+Luka sustu.
+
+Maran kendi sorusunu düzeltti.
+
+“Hayır. Yine fiziği insana zorla taşımaya başladım.”
+
+“Benzetme yapabilirsin.”
+
+“Ama kanıt diyemem.”
+
+“Artık öğreniyorsun.”
+
+---
+
+Ayo ilerideki kapılardan birini açtı.
+
+İçeride bir şehir vardı.
+
+Ama şehirde kimse yaşlanmıyordu.
+
+Sistem insanların bedenlerini sürekli onarıyor, hastalıkları düzeltiyor, hasar gören organları yeniliyordu.
+
+Maran şaşkınlıkla baktı.
+
+“Ölümsüzlük mü?”
+
+Luka:
+
+“Model.”
+
+Ayo:
+
+“Ve model bile tam ölümsüzlük demiyor.”
+
+“Ne demek?”
+
+“Kaza olabilir. Sistem bozulabilir. Evren değişebilir. Zihin değişebilir.”
+
+Maran:
+
+“Ama teorik olarak çok uzun yaşayabilirler.”
+
+“Evet.”
+
+Şehirde iki insan tartışıyordu.
+
+Biri diğerine:
+
+“Yarın konuşuruz.”
+
+dedi.
+
+Ekran hızlandı.
+
+On yıl geçti.
+
+Sonra yüz yıl.
+
+İkisi hâlâ konuşmamıştı.
+
+Başka bir kadın annesini ziyaret etmeyi erteliyordu.
+
+“Önümüzde zaman var.”
+
+Üç yüz yıl geçti.
+
+Başka bir insan yapmak istediği çalışmaya başlamıyordu.
+
+“Hazır olduğumda.”
+
+Beş yüz yıl.
+
+Maran rahatsız oldu.
+
+“Bu biraz fazla kolay bir yorum değil mi? Uzun yaşamak insanı mutlaka erteleyen biri yapmaz.”
+
+Ayo ona baktı.
+
+“Doğru.”
+
+Sistem görüntüyü durdurdu.
+
+Ayo devam etti:
+
+“Sonsuz yaşamın anlamı yoktur demiyoruz.”
+
+“Bunu bilmiyoruz.”
+
+“Yalnızca zamanın sınırsız olduğunu düşündüğünde bazı kararların aciliyetinin değişebileceğini gösteriyoruz.”
+
+Maran Eos'u düşündü.
+
+Çocuklarını.
+
+Annesini.
+
+Babasını.
+
+Söyleyemediği cümleleri.
+
+Sonra gelecekteki kendi sesini.
+
+**Bizi kurtarmaya çalışma.**
+
+**Bizi kurma.**
+
+Maran:
+
+“Benim zamanımın ne kadar olduğunu bilmiyorum.”
+
+Ayo:
+
+“Hiçbirimiz bilmiyoruz.”
+
+“İşte sorun da bu.”
+
+Maran şehre tekrar baktı.
+
+“Benim için sonluluk yalnız ölüm değil.”
+
+“Dikkatim sonlu.”
+
+“Enerjim sonlu.”
+
+“Aynı anda kurabileceğim ilişkiler sonlu.”
+
+“Bir günde verebileceğim kararlar sonlu.”
+
+“Bir hayatın içine koyabileceğim şeyler sonlu.”
+
+Ayo:
+
+“Bu yüzden neyi koyduğun önemli.”
+
+---
+
+Rojin başka bir kapıyı açtı.
+
+Bu kez büyük bir arşiv ortaya çıktı.
+
+İnsanlığın söylediği her söz saklanmıştı.
+
+Her fotoğraf.
+
+Her video.
+
+Her mesaj.
+
+Her konum.
+
+Her kalp atışı.
+
+Her satın alma.
+
+Her arama.
+
+Her silinen dosyanın kopyası.
+
+Her unutulmuş yüz.
+
+Maran:
+
+“Bu inanılmaz.”
+
+Rojin:
+
+“Bir şey ara.”
+
+Maran:
+
+“Dedemin bir sözü.”
+
+Sistem milyonlarca kayıt açtı.
+
+Benzer kelimeler.
+
+Yanlış etiketler.
+
+Tekrarlanan videolar.
+
+Başka insanların dedeleri.
+
+Yapay olarak üretilmiş sesler.
+
+Düzeltilmiş kayıtlar.
+
+Kaynağı belirsiz kopyalar.
+
+Maran birkaç dakika sonra vazgeçti.
+
+“Burada her şey var ama hiçbir şeyi bulamıyorum.”
+
+Rojin:
+
+“Her şeyi saklamak, hatırlamak değildir.”
+
+Sistem:
+
+**VERİ KAYBI = 0**
+
+Rojin cevap verdi:
+
+“Anlam kaybı?”
+
+Sistem sustu.
+
+Rojin arşivin üzerinde yeni bir katman açtı.
+
+Kaynak.
+
+Bağlam.
+
+İlişki.
+
+Kim anlattı?
+
+Kime anlattı?
+
+Neden saklandı?
+
+Kim itiraz etti?
+
+Nerede değişti?
+
+Arşiv küçülmedi.
+
+Ama ilk kez okunabilir hâle geldi.
+
+Rojin:
+
+“Hafıza sonsuz depolama değildir.”
+
+“Hatırlama ilişki ister.”
+
+Maran:
+
+“Peki bir insan öldüğünde?”
+
+Rojin:
+
+“Onun devam ettiğini mi soruyorsun?”
+
+Maran cevap vermedi.
+
+Rojin de kesin bir cevap vermedi.
+
+“Bilmiyorum.”
+
+“Kimse sana bunu bu ağ üzerinden kanıtlayamaz.”
+
+Sonra bir kayıt açtı.
+
+Bir anne kızına bir yemek tarifini öğretiyordu.
+
+Kız yıllar sonra kendi çocuğuna aynı tarifi anlatıyordu.
+
+Tarif değişmişti.
+
+Bir malzeme çıkarılmış.
+
+Başka biri eklenmişti.
+
+Ama bazı hareketler aynıydı.
+
+Başka bir kayıt açıldı.
+
+Bir öğretmenin yıllar önce söylediği bir cümleyi öğrencisi başka bir sınıfta kullanıyordu.
+
+Bir çocuk hiç tanımadığı bir insanın yazdığı kitabı okuyup hayatındaki bir kararı değiştiriyordu.
+
+Rojin:
+
+“Bunlar kişinin sonsuza kadar yaşadığını kanıtlamaz.”
+
+“Ama bir hayatın kendi bedeninin sınırında tamamen sona ermediğini de gösterir.”
+
+“Etkiler ilişkiler üzerinden devam edebilir.”
+
+Maran uzun süre konuşmadı.
+
+Sonra:
+
+“Belki süreklilik ile sonsuzluk aynı şey değildir.”
+
+Rojin:
+
+“Evet.”
+
+---
+
+Luka üçüncü kapıyı açtı.
+
+İçeride bir otel vardı.
+
+Kapısında:
+
+**∞**
+
+işareti bulunuyordu.
+
+Bütün odalar doluydu.
+
+Yeni bir yolcu geldi.
+
+Görevli:
+
+“Yer yok.”
+
+dedi.
+
+Luka:
+
+“Var.”
+
+Maran:
+
+“Bütün odalar dolu.”
+
+Luka:
+
+“Bir numaralı odadaki ikiye.”
+
+“İki numaradaki üçe.”
+
+“Her n numaralı odadaki n+1'e.”
+
+Odalar değişti.
+
+Bir numara boşaldı.
+
+Yeni yolcu yerleşti.
+
+Maran:
+
+“Dolu bir otelde yer açıldı.”
+
+“Çünkü sonlu bir otel değil.”
+
+Sistem yüz yeni yolcu getirdi.
+
+Luka yine yer açtı.
+
+Sonra sonsuz sayıda yolcu geldi.
+
+Bu kez yöntem değişti.
+
+Luka mevcut her misafiri çift numaralı odalara taşıdı.
+
+1 → 2
+
+2 → 4
+
+3 → 6
+
+4 → 8
+
+Bütün tek numaralı odalar boşaldı.
 
 Maran başını salladı.
 
-"Bu nedenle seçimlerinin bir ağırlığı var. Sonsuz zamanım olsaydı özrü, sevgiyi ve adaleti hep bir sonraki güne erteleyebilirdim. Sonlu oluşum yalnız eksikliğim değil; sorumluluğumun başlangıcı."
+“Bu fiziksel olarak kurulabilecek bir otel değil.”
 
-Rojin toprağa benzeyen karanlık bir yüzeye elini koydu.
+“Tabii ki değil.”
 
-"Dedelerin hikâyeyi bitirmedi," dedi. "Her anlatan bir parçasını değiştirdi. Hikâye sonsuza uzadığı için değil, bir bedenden diğerine geçerken ilişki kurduğu için yaşadı."
+“Bir matematik düşünce deneyi.”
 
-Maran'ın önünde rüyadaki eksik ifade açıldı:
+“Evet.”
 
-RİHÊ ______
+“Sonlu dünyadan aldığım ‘dolu’ kavramının sonsuz kümelerde aynı davranmadığını gösteriyor.”
 
-Boşluğun altına yeni bir satır eklendi:
+Luka:
 
-SONSUZLUK / BEDENSİZLİK DEĞİL / SINIRLAR ARASINDA DEVAM EDEN İLİŞKİ
+“Tam olarak.”
 
-"Ruh sonsuzsa neden bir bedene ihtiyaç duyar?" diye sordu Maran.
+Maran:
 
-Bu kez dedesinin sesi cevap vermedi. Bir çocuk sesi duyuldu:
+“Demek sonsuzluk, yalnız daha büyük bir sonluluk değil.”
 
-"Sonsuzluk yaşanmaz. Ondan bir hayat seçilir."
+---
 
-Koridordaki sayısız kapı söndü. Yalnız üçü açık kaldı: beyaz bir şehir, karanlık bir vadi ve henüz kurulmamış renksiz bir oda.
+Otel kayboldu.
 
-Maran sonsuzluğu çözmediğini biliyordu. Yalnız onu tek bir cevap sanmaktan vazgeçmişti.
+Yerine sıfır ile bir arasında bir çizgi geldi.
 
-## DENEYİM EŞİĞİ ∞ - SONLU KARAR
+Sistem çizgi üzerindeki sayıları listelemeye başladı.
 
-Önünüzde her biri başka bir hayata açılan sonsuz sayıda kapı olduğunu düşünün. Hepsini deneyemeyeceksiniz. Bugün ertelememeyi seçtiğiniz tek şeyi yazın: bir özür, bir soru, bir itiraz, bir öğrenme isteği veya başka bir eylem. Sonra şu cümleyi tamamlayın: "Bu seçim diğer ihtimalleri yok etmiyor; fakat benim dünyamı ______ yönünde kuruyor." Dijital sürümde bu sözcük Dünya Tohumunuza kaydedilecek; sonraki dallanmalarda hangi sonsuzluk biçimleriyle karşılaşacağınıza etki edebilecek.
+0,1
+
+0,11
+
+0,101
+
+0,1001
+
+…
+
+Liste uzadı.
+
+Maran:
+
+“Bunları da doğal sayılar gibi sıraya koyabiliriz.”
+
+Luka:
+
+“Bütün gerçek sayıları mı?”
+
+“Evet.”
+
+“Deneyelim.”
+
+Sistem sonsuz olduğu varsayılan bir liste oluşturdu.
+
+Luka köşegen boyunca ilerledi.
+
+Birinci sayının birinci basamağını değiştirdi.
+
+İkinci sayının ikinci basamağını.
+
+Üçüncünün üçüncüsünü.
+
+Her satırdan farklı yeni bir sayı üretti.
+
+Yeni sayı listede yoktu.
+
+Maran:
+
+“Liste tamamlanmış görünüyordu.”
+
+“Ama değildi.”
+
+Duvara:
+
+**|N| < |R|**
+
+yazıldı.
+
+Luka:
+
+“Bütün sonsuz kümelerin büyüklüğü aynı değildir.”
+
+Maran:
+
+“Bir sonsuzluk diğerinden daha büyük olabilir.”
+
+“Evet.”
+
+Maran gülümsedi.
+
+“İnsan zihni ‘sonsuz’ deyip tek kutuya attığı şeyi bile ayırmak zorunda kalıyor.”
+
+Luka:
+
+“İşte bu yüzden kavramları dikkatli kullanıyoruz.”
+
+---
+
+Kapılar yeniden çoğaldı.
+
+Bu kez her kapının arkasında Maran'ın başka bir geleceği vardı.
+
+Birinde bilim insanıydı.
+
+Birinde yalnız yaşıyordu.
+
+Birinde büyük bir sistem kurmuştu.
+
+Birinde sistem hiç kurulmamıştı.
+
+Birinde çocukları onun çalışmalarını devam ettiriyordu.
+
+Birinde bütün kayıtları unutulmuştu.
+
+Birinde insan-merkezli dönüşüm dünyanın birçok yerine yayılmıştı.
+
+Birinde aynı fikir otoriter bir sisteme dönüşmüştü.
+
+Maran kapılardan birine yaklaşınca Luka kolundan tuttu.
+
+“Bunları gelecek kaydı sanma.”
+
+“Nedir?”
+
+“Modelin ürettiği olası senaryolar.”
+
+“Gerçek olabilirler.”
+
+“Bazıları.”
+
+“Hangisi?”
+
+“Bilmiyoruz.”
+
+Maran bütün kapıları açık tutmak istedi.
+
+Sistem sordu:
+
+**KAÇ GELECEĞİ AYNI ANDA YAŞAMAK İSTİYORSUN?**
+
+“Bilmiyorum.”
+
+**HEPSİNİ AÇABİLİRSİN.**
+
+Karanlık Merkez belirdi.
+
+“Hiçbir ihtimali kapatma.”
+
+“Her yol açık kalsın.”
+
+Maran ilk kapıya girdi.
+
+Sonra geri çıktı.
+
+İkinciye.
+
+Üçüncüye.
+
+Yüzüncüye.
+
+Her yeni yaşam bir öncekinin sorumluluğunu sıfırlıyordu.
+
+Bir dünyada verdiği söz diğerinde yoktu.
+
+Birinde yaptığı hata başka bir ihtimalde hiç yaşanmamıştı.
+
+Birinde bir insanı kırdı.
+
+Sonra o kapıyı kapatıp kırmadığı başka bir dünyaya geçti.
+
+Ayo:
+
+“Böyle olursa özür dilemen gerekir mi?”
+
+Maran durdu.
+
+“Diğer dünyaya geçebilirim.”
+
+“Peki kırdığın insan?”
+
+Maran cevap vermedi.
+
+Karanlık Merkez:
+
+“Başka ihtimaller her zaman vardır.”
+
+Maran:
+
+“Evet.”
+
+“Ama bu ihtimalde verdiğim zarar da var.”
+
+İlk kez kapılardan birini kendisi kapattı.
+
+Karanlık:
+
+“Bir olasılığı öldürdün.”
+
+Maran:
+
+“Hayır.”
+
+“Bir seçim yaptım.”
+
+---
+
+Aydınlık Merkez ortaya çıktı.
+
+Kapıların tamamını taradı.
+
+“Bütün sonuçları hesaplayabilirim.”
+
+“En iyi geleceği seçeriz.”
+
+Maran:
+
+“Bütün sonuçları mı?”
+
+“Yeterli veriyle.”
+
+Luka araya girdi.
+
+“Hayır.”
+
+Aydınlık ona döndü.
+
+“Niçin?”
+
+“Modelin sonlu.”
+
+“Genişletirim.”
+
+“Daha fazla değişken eklediğinde yeni belirsizlikler çıkıyor.”
+
+“Daha fazla veri toplarım.”
+
+“Gelecek insanların vereceği yeni kararları, keşfedilecek yeni bilgileri ve sistemin kendi etkisini de modellemek zorundasın.”
+
+Aydınlık:
+
+“Yaklaşabilirim.”
+
+Luka:
+
+“Evet.”
+
+“Tamamlayamazsın.”
+
+Aydınlık sustu.
+
+Maran BRG-0008'de gördüğü cümleyi hatırladı:
+
+**HER MODEL SONLUDUR.**
+
+**GERÇEKLİK MODELİ AŞABİLİR.**
+
+Aydınlık bütün kapıları hesaplayarak tek doğru kapıyı bulmak istiyordu.
+
+Karanlık hiçbir kapıyı kapatmayarak bütün ihtimalleri korumak istiyordu.
+
+Maran ikisinin arasında kaldı.
+
+Bir tarafta:
+
+**HER ŞEYİ BİLENE KADAR KARAR VERME.**
+
+Diğer tarafta:
+
+**HİÇBİR ZAMAN KARAR VERME Kİ HER ŞEY MÜMKÜN KALSIN.**
+
+Maran iki cümleye baktı.
+
+Sonra ikisini de sildi.
+
+Yerine:
+
+**YETERLİ KANITLA, SINIRLARINI BİLEREK, SONUÇLARINI TAŞIMAYI KABUL EDEREK KARAR VER.**
+
+yazdı.
+
+İnsan Merkezi görünmedi.
+
+Ama sistem cevap verdi:
+
+**SONLU KARAR KABUL EDİLDİ.**
+
+---
+
+Maran bir anda çocukluğundaki evin avlusundaydı.
+
+Sabah henüz doğmamıştı.
+
+Dedesinin sesi yoktu.
+
+Annesinin mutfaktaki sesi yoktu.
+
+Babasının öksürüğü yoktu.
+
+Yalnız sessizlik.
+
+Önünde küçük bir masa vardı.
+
+Üzerinde dört nesne:
+
+Bir telefon.
+
+Bir mektup.
+
+Bir kitap.
+
+Boş bir sandalye.
+
+Sistem:
+
+**SONSUZ ZAMANIN OLMADIĞINI BİLİYORSAN HANGİSİNİ ERTELERSİN?**
+
+Maran:
+
+“Bu adil değil.”
+
+**NEDEN?**
+
+“Çünkü hepsi önemli olabilir.”
+
+**EVET.**
+
+“Birini seçersem diğerlerinden vazgeçmiş olurum.”
+
+**KISMEN.**
+
+“Ya yanlış seçersem?”
+
+Cevap gelmedi.
+
+Maran ilk kez bunun sistemin çözemeyeceği bir soru olduğunu düşündü.
+
+İnsan olmak belki de buydu.
+
+Karar vermeden önce bütün geleceği görememek.
+
+Ama yine de karar vermek zorunda olmak.
+
+Telefonu aldı.
+
+Kimi arayacağını söylemedi.
+
+Mektubu da yanına koydu.
+
+Kitabı masada bıraktı.
+
+Boş sandalyeye bir süre baktı.
+
+Sonra ayağa kalktı.
+
+Sistem:
+
+**NEDEN BU SEÇİM?**
+
+Maran:
+
+“Çünkü değer yalnız seçenek sayısından gelmiyor.”
+
+“Bazen bir şeyi değerli yapan, ona zaman ayırırken başka şeylerden vazgeçmem.”
+
+---
+
+Dört kişi yeniden aynı alanda buluştu.
+
+Ayo:
+
+“Öyleyse sonsuzluk kötü mü?”
+
+“Hayır.”
+
+Luka:
+
+“İyi de değil.”
+
+Rojin:
+
+“Bir ahlak kategorisi değil.”
+
+Maran:
+
+“Bir kavram.”
+
+Luka:
+
+“Birden fazla kavram.”
+
+Maran güldü.
+
+“Doğru.”
+
+Ayo:
+
+“Peki bu bölümün cevabı ne?”
+
+Maran kapılara baktı.
+
+“Cevabı yok.”
+
+“Yalnızca bir sınırı var.”
+
+“Biz sonsuzluğu düşünebiliriz.”
+
+“Matematikte tanımlayabiliriz.”
+
+“Modellerde sonsuz süreçler kurabiliriz.”
+
+“Evrenin sonsuz olup olmadığını araştırabiliriz.”
+
+“Ama ben bütün ihtimalleri aynı anda yaşayabilen sonsuz bir varlık değilim.”
+
+Rojin:
+
+“Bu seni eksik mi yapıyor?”
+
+Maran düşündü.
+
+“Bazen.”
+
+“Bazen de insan yapıyor.”
+
+---
+
+Kapılar yavaş yavaş kararmaya başladı.
+
+Maran endişelendi.
+
+“Hepsi kapanıyor.”
+
+Luka:
+
+“Hepsi değil.”
+
+Koridorun sonunda tek bir şekil kaldı.
+
+Bir dikdörtgen.
+
+Kısa ve uzun kenarı belirli bir oranla birbirine bağlıydı.
+
+Şekilden bir kare çıkarıldığında geriye yine kendisine benzeyen daha küçük bir dikdörtgen kalıyordu.
+
+Sistem ilk kez sonsuz kapılar yerine tekrar eden tek bir ilişki gösteriyordu.
+
+Maran yaklaştı.
+
+“Bu ne?”
+
+Luka:
+
+“Bir oran.”
+
+Dikdörtgenin içine başka dikdörtgenler oluştu.
+
+Büyüdüler.
+
+Küçüldüler.
+
+Tekrar ettiler.
+
+Ama bir noktada çizgilerden biri olması gereken yerden hafifçe saptı.
+
+Aydınlık Merkez:
+
+**HATA.**
+
+Karanlık Merkez:
+
+**YENİ İHTİMAL.**
+
+Maran sapmaya baktı.
+
+BRG-0008'de ölçümü öğrenmişti.
+
+BRG-0009'da her şeyi ölçemeyeceğini.
+
+Şimdi önünde başka bir soru vardı:
+
+Bir düzen ne kadar bozulursa hâlâ aynı düzen olarak kalır?
+
+Ve ne kadar kusursuzlaşırsa artık büyüyemez?
+
+Dikdörtgenin üzerinde yeni başlık belirdi:
+
+**KUSURSUZ OLAN BÜYÜMEZ**
+
+Maran son kez sonsuz koridora baktı.
+
+Artık onun peşinden koşmak istemiyordu.
+
+Çünkü anlam, bütün kapıları açabilmekte değildi.
+
+**Bir kapıdan geçtikten sonra yaptığının sorumluluğunu taşıyabilmekteydi.**
+
+## DENEYİM EŞİĞİ ∞ — SONLU KARAR
+
+Önünüzde sayısız hayat ihtimali olduğunu düşünün.
+
+Hepsini yaşayamazsınız.
+
+Hepsini doğrulayamazsınız.
+
+Hepsini sonsuza kadar açık tutamazsınız.
+
+Bugün ertelememeyi seçtiğiniz **tek bir şeyi** düşünün:
+
+- bir özür,
+- bir teşekkür,
+- bir soru,
+- bir itiraz,
+- öğrenmek istediğiniz bir şey,
+- görmek istediğiniz biri,
+- başlatmak istediğiniz bir çalışma,
+- bırakmanız gereken bir yük.
+
+Sonra şu cümleyi tamamlayın:
+
+**“Bu seçim diğer ihtimalleri yok etmiyor; fakat sınırlı zamanımı ______ yönünde kullanmayı seçiyorum.”**
+
+Çünkü sonsuzluk düşünülebilir.
+
+Ama hayat, sonsuzluğun tamamı değildir.
+
+**Hayat, ihtimallerin içinden sorumluluğunu üstlendiğiniz sonlu bir yoldur.**
