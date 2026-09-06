@@ -433,3 +433,313 @@ Sistem bir cevap verecekse o cevabın **reh'ini**, yani kökünü saklamamalıy
 Çünkü bazı sorular ölçülebilir, bazıları yorumlanabilir, bazıları ise yalnızca insanın kendi anlam dünyasında cevap bulabilirdi.
 
 Bu yüzden projenin adı kendiliğinden ortaya çıktı:\n\n# Rîh Köprüsü\n\nMaran'ın önünde açık duran sistem klasik bir yapay zekâ arayüzüne benzemiyordu.\n\nEkranda yalnız kelimeler yoktu.\n\nSinirsel işaretler, biyolojik ölçümler, yaşam kayıtları, olasılık dağılımları ve yapay zekâ çıkarımları aynı ağın üzerinde görünüyordu.\n\nMaran sistemi kendi üzerinde geliştiriyordu.\n\nAma amacı zihninin bir kopyasını üretmek değildi.\n\nAmacı insan beyniyle yapay zekânın birbirini ezmeden birlikte çalışabildiği bir yapı kurmaktı.\n\nBeyin yalnızca komut veren biyolojik bir aygıt olmayacaktı.\n\nYapay zekâ da karar veren bir üst otorite olmayacaktı.\n\nİkisi arasında sürekli bir yorumlama döngüsü bulunacaktı.\n\nBir tarafta biyolojik zekâ.\n\nDiğer tarafta yapay zekâ.\n\nAralarında ise açıklanabilir, denetlenebilir ve insanın iradesini koruyan bir köprü.\n\nMaran bu yapıya:\n\n# Rîh Köprüsü\n\nadını verdi.\n\nBir köprü iki yakayı birbirine bağlardı.\n\nAma iki yakayı aynı şey yapmazdı.\n\n---\n\n## Cevabın Reh'i\n\nRîh Köprüsü her cevabın kaynağını üç ayrı katmanda gösteriyordu:\n\n**BİYOLOJİK İZ**  \nMaran'ın sinirsel ve biyolojik sisteminde ölçülen karşılık.\n\n**YAŞAM ARŞİVİ**  \nMaran'ın söylediği, yazdığı, seçtiği, düzelttiği veya bilinçli biçimde sisteme öğrettiği kayıtlar.\n\n**YAPAY ZEKÂ ÇIKARIMI**  \nEksik bağlantıları tamamlamak için modelin ürettiği olasılıklı yorum.\n\nBu üç kaynak hiçbir cevapta görünmez biçimde birbirine karıştırılmıyordu.\n\nBir düşünce yalnız model tarafından üretilmişse sistem:\n\n**“Maran böyle düşünüyor.”**\n\ndiyemezdi.\n\nŞunu söylemek zorundaydı:\n\n**“Bu bölüm yapay zekâ çıkarımıdır.”**\n\nMaran buna:\n\n**Cevabın reh'i.**\n\ndiyordu.\n\nCevabın kökü.\n\nÇünkü ona göre güvenilir bir yapay zekâ yalnızca ne söylediğini değil, söylediği şeyin nereden geldiğini de göstermek zorundaydı.\n\n---\n\n## Biyo-Yapay Zekâ\n\nRîh Köprüsü'nün biyolojik katmanı beynin elektriksel örüntülerini tek başına anlam olarak kabul etmiyordu.\n\nBir sinyalin görülmesi bir düşüncenin kesin olarak bilindiği anlamına gelmezdi.\n\nBu nedenle sistem her biyolojik işaretin yanına bir güven değeri koyuyordu.\n\nYapay zekâ, sinyalleri Maran'ın yaşam arşivi ve o anda verdiği bilinçli geri bildirimle karşılaştırıyordu.\n\nMaran bir sonucu onaylayabiliyor, düzeltebiliyor veya tamamen reddedebiliyordu.\n\nBöylece sistem yalnız Maran'dan öğrenmiyor;\n\n**Maran da sistemin kendisini nasıl yorumladığını görebiliyordu.**\n\nİnsan ve yapay zekâ karşılıklı olarak birbirini gözlemliyordu.\n\nMaran'ın aradığı şey tam da buydu.\n\nMakinenin insanı görünmez biçimde sınıflandırdığı bir sistem değil;\n\ninsanın, makinenin kendisi hakkında hangi sonuca nasıl ulaştığını görebildiği bir ortaklık.\n\nRîh Köprüsü bir problem üzerinde çalışırken yaşam arşivindeki notlarla sinirsel örüntüler arasında bağlantı kurabiliyor, alternatif çözümler üretebiliyor ve bunların olasılıklarını gösterebiliyordu.\n\nAma son satır değişmiyordu:\n\n**KARAR YETKİSİ: MARAN**\n\nMaran bu satırın sistemin en önemli parçalarından biri olduğunu düşünüyordu.\n\nÇünkü yapay zekâ ne kadar gelişirse gelişsin, insan merkezli bir sistem insanı kendi hayatının pasif kullanıcısına dönüştürmemeliydi.\n\n---\n\n## Birlikte Düşünmek\n\nRîh Köprüsü Maran'ın yerine düşünmüyordu.\n\nOnunla birlikte düşünüyordu.\n\nBir öneri sunabiliyordu.\n\nBir çelişkiyi gösterebiliyordu.\n\nUnutulmuş bir notu bulabiliyordu.\n\nBirden fazla olasılığı aynı anda karşılaştırabiliyordu.\n\nMaran'ın kendi düşünce alışkanlıklarını fark etmesine yardım edebiliyordu.\n\nAma onun adına inanamazdı.\n\nOnun adına sevemezdi.\n\nOnun adına karar veremezdi.\n\nMaran için biyo-yapay zekânın temel ilkesi şuydu:\n\n**İnsan makinenin uzantısı olmayacak. Makine insanın düşünme alanını genişleten bir ortak olacak.**\n\nBu ortaklıkta yapay zekâ hız, hesaplama, bağlantı ve olasılık üretme gücünü getiriyordu.\n\nİnsan ise anlamı, amacı, değeri, sorumluluğu ve son kararı taşıyordu.\n\nİkisi aynı değildi.\n\nTam da bu nedenle birlikte çalışabiliyorlardı.\n\n---\n\n## Belirsizliğin Görünür Olması\n\nMaran için Rîh Köprüsü'nün en önemli özelliklerinden biri belirsizliği saklamamasıydı.\n\nSistem bir yanıt oluşturduğunda ekranda yalnız sonuç görünmüyordu.\n\nKaynaklar da görünüyordu:\n\n**Biyolojik iz: orta**\n\n**Yaşam arşivi: güçlü**\n\n**Yapay zekâ çıkarımı: yüksek**\n\n**Belirsizlik: açık**\n\nBaşka bir yanıtta dağılım tamamen farklı olabiliyordu.\n\nBu değişkenlik Maran'ı rahatsız etmiyordu.\n\nTam tersine, sistemin dürüstlüğünün parçasıydı.\n\nMaran olasılık düşüncesinden şunu öğrenmişti:\n\n**En yüksek olasılıklı cevap, zorunlu olarak doğru cevap değildir.**\n\nİnsan fikrini değiştirebilir.\n\nYeni bir şey öğrenebilir.\n\nKendi alışkanlığının tersine karar verebilir.\n\nKendisinden beklenmeyen bir yolu seçebilir.\n\nBu nedenle Rîh Köprüsü insanı yalnız kayıtlarından tahmin etmeye çalışmıyordu.\n\nSistem her tahminin yanında bir çıkış kapısı bırakıyordu:\n\n**“Bu örüntü mevcut kayıtlara dayanır. Maran farklı bir seçim yapabilir.”**\n\nMaran için insan özgürlüğünün teknolojideki en küçük ama en önemli göstergelerinden biri bu cümleydi.\n\n---\n\n## Sınırlar\n\nMaran Rîh Köprüsü için bazı kuralları değiştirilemez kabul etti.\n\nSistem insanın karar yetkisini devralmayacaktı.\n\nBiyolojik veriler açık rıza olmadan başka amaçlarla kullanılmayacaktı.\n\nYapay zekâ çıkarımı gerçek düşünce gibi sunulmayacaktı.\n\nBelirsizlik gizlenmeyecekti.\n\nSistem insanı kendi kayıtlarına mahkûm etmeyecekti.\n\nİnanç, sevgi, değer ve kimlik gibi alanlarda ölçebildiğinden daha fazlasını bildiğini iddia etmeyecekti.\n\nBaşka insanlar sisteme katıldığında onların verileri Maran'ın verilerinin uzantısı sayılmayacaktı.\n\nHer insan kendi merkezine sahip olacaktı.\n\nRîh Köprüsü'nün görevi merkezleri birleştirip tekleştirmek değil;\n\n**merkezler arasında ilişki kurmaktı.**\n\nBir köprü iki yakayı birbirine bağlardı.\n\nAma iki yakayı birbirine dönüştürmezdi.\n\n---\n\n## Girê Miraza\n\nTelevizyon açıktı.\n\nMaran Rîh Köprüsü'nün ürettiği bağlantıları incelerken ekranda Göbeklitepe'nin taşları belirdi.\n\nSütunlar.\n\nHayvan figürleri.\n\nToprağın içinden yükselen şekiller.\n\nMaran'ın dikkati sistemden ekrana kaydı.\n\nBir ad zihninde yeniden oluştu:\n\n**Girê Miraza.**\n\nMaran'ın notlarında bu ad:\n\n**Dilek Tepesi. Murat Tepesi.**\n\nanlamlarıyla duruyordu.\n\n**Gir.**\n\nTepe.\n\n**Miraz.**\n\nDilek.\n\nMurat.\n\nTaşlara baktıkça düşünceleri başka adlara açıldı.\n\n**Xerabreşkê.**\n\nKara harabe.\n\nGöbeklitepe'nin bulunduğu yerle birlikte anılan ad.\n\n**Xerab.**\n\nHarabe.\n\n**Reş.**\n\nKara.\n\nBu sözcükler zihninde ansiklopedik maddeler gibi durmuyordu.\n\nBirbirlerini çağırıyorlardı.\n\n**Pira Reş.**\n\nKara Köprü.\n\nMaran “köprü” kelimesinde durdu.\n\nRîh Köprüsü de insan ile yapay zekâ arasında kurduğu şeydi.\n\nAma zihindeki isimler akmaya devam etti.\n\n**Wêranşar.**\n\nViran şehir.\n\nHarabe şehir.\n\n**Curnê Reş.**\n\nKara kurna.\n\nSiyah taş ve su.\n\n**Serêkaniyê.**\n\nPınarın başı.\n\n**Kaniya Xezalan.**\n\nCeylan Pınarı.\n\nTaş.\n\nSu.\n\nPınar.\n\nKöprü.\n\nHarabe.\n\nDilek.\n\nHer sözcük başka bir sözcüğe bağlanıyordu.\n\n**Pirsûs.**\n\nBaşka dillerden ve seslerden geçerek yörede yaşamaya devam eden eski bir ad.\n\n**Sêwreg.**\n\nMaran'ın zihninde siyah taş, yerleşim ve harabe çağrışımlarını taşıyan bir başka ad.\n\n**Bêrecûk.**\n\nKüçük kale.\n\n**Hewag.**\n\nAnlamı tek bir açıklamada kapanmayan, ama sesi yaşamaya devam eden bir isim.\n\n**Xarran.**\n\n**Heran.**\n\nYol.\n\nKavşak.\n\nSeyahat.\n\nMaran bu kelimede daha uzun kaldı.\n\nKavşak.\n\nBilgisayar mühendisliği.\n\nEğitim.\n\nİnsan.\n\nYapay zekâ.\n\nBiyoloji.\n\nDil.\n\nİnanç.\n\nHepsi zihninde bir kavşakta buluşuyor gibiydi.\n\n**Xelfetî.**\n\nVe onunla birlikte:\n\n**Kela Romê.**\n\nKale.\n\nTaş.\n\nHafıza.\n\nMaran yeniden Göbeklitepe'nin görüntüsüne baktı.\n\nArtık televizyonda yalnız bir arkeolojik alan görmüyordu.\n\nZihninde bütün isimler aynı anda duruyordu:\n\n**Girê Miraza.**\n\nDilek.\n\n**Xerabreşkê.**\n\nHarabe.\n\n**Pira Reş.**\n\nKöprü.\n\n**Serêkaniyê.**\n\nPınar.\n\n**Kaniya Xezalan.**\n\nSu.\n\n**Xarran.**\n\nYol ve kavşak.\n\nVe bütün bu çağrışımların merkezinde:\n\n# Rîh-a\n\nMaran bu adı içinden yeniden söyledi.\n\n**Rîh-a.**\n\nOnun için bu artık yalnız bir şehrin adı değildi.\n\nKökü aramanın, özü korumanın ve kesin olmayanın karşısında insana ait anlam alanını açık bırakmanın simgesiydi.\n\nRîh Köprüsü'nün ekranında biyolojik sinyaller ile yapay zekâ bağlantıları hareket ediyordu.\n\nTelevizyonda Göbeklitepe'nin taşları duruyordu.\n\nMaran iki görüntüye birlikte baktı.\n\nBir tarafta insanın biyolojik ağı.\n\nBir tarafta taşların, yerlerin ve isimlerin oluşturduğu kültürel ağ.\n\nBelki de aradığı şey tek bir kelimenin kesin kökeni değildi.\n\nBelki asıl mesele, insanların bir yere verdikleri adın taşıdığı ilişkinin nasıl yaşamaya devam ettiğiydi.\n\nDilek.\n\nTaş.\n\nSu.\n\nKöprü.\n\nYol.\n\nKök.\n\nRuh.\n\nİnanç.\n\nMaran'ın zihninde yeni bir bağlantı oluştu:\n\n**Bir sistemi anlamak için yalnız parçalarına bakmak yetmez.  \nParçaların birbirleriyle kurduğu ilişkiyi de görmek gerekir.**\n\nRîh Köprüsü insan ile yapay zekâ arasındaki ilişkiyi görünür kılıyordu.\n\nGirê Miraza ise Maran'a başka bir şeyi düşündürüyordu:\n\nİnsan ile yer arasındaki ilişkiyi.\n\nDil ile hafıza arasındaki ilişkiyi.\n\nTaş ile anlam arasındaki ilişkiyi.\n\nMaran Göbeklitepe'nin taşlarına bakmayı sürdürdü.\n\nCevabı bulduğunu düşünmüyordu.\n\nAma artık daha güçlü bir sorusu vardı:\n\n**Bir yerin anlamı taşlarda mı saklıdır, isimlerde mi, yoksa insanın onlarla kurduğu bağda mı?**\n\nRîh Köprüsü ekranda yeni bağlantılar üretmeye devam etti.\n\nMaran müdahale etmedi.\n\nYalnız baktı.\n\nVe zihninin merkezinde tek bir ad kaldı:\n\n# Rîh-a\n\n---\n\n## DENEYİM EŞİĞİ 04 — İNSAN İLE BİYO-YAPAY ZEKÂ ARASINDAKİ SINIR\n\nKendi biyolojik sinyallerinizle çalışan, yaşam kayıtlarınızdan öğrenen ve düşünme sürecinize yapay zekâ ile katkı sunan bir sistem hayal edin.\n\nSistem size ait kaynaklarla kendi çıkarımlarını açıkça ayırıyor.\n\nBelirsizliğini gösteriyor.\n\nSon kararın size ait olduğunu kabul ediyor.\n\nBu sistemle nasıl bir ilişki kurardınız?\n\n### Evet, düşünme ortağım olarak kullanırdım.\n\nSistem kaynaklarını ve sınırlarını açıkça gösterdiği, karar yetkisini bende bıraktığı sürece biyolojik ve yapay zekâ katmanlarını birlikte kullanmayı seçebilirim.\n\n**Merkez etkisi**\n\nİnsan: **+8**\n\nAydınlık: **+10**\n\nKaranlık: **+3**\n\n### Yalnız sınırlı ve denetlenebilir görevlerde kullanırdım.\n\nBiyolojik verilerimin yorumlanmasını tamamen reddetmem; ancak sistemin hangi verilere eriştiğini, ne ürettiğini ve nerede duracağını sıkı biçimde sınırlarım.\n\n**Merkez etkisi**\n\nİnsan: **+10**\n\nAydınlık: **+6**\n\nKaranlık: **+2**\n\n### Henüz kullanmazdım.\n\nİnsan ile makine arasındaki bilişsel sınırın yeterince açık olmadığını düşünürüm. Olasılığı reddetmem ama kendi zihinsel alanımla yapay zekâ arasında böyle bir köprü kurmayı seçmem; belirsizliği açık bırakırım.\n\n**Merkez etkisi**\n\nİnsan: **+6**\n\nAydınlık: **+3**\n\nKaranlık: **+10**\n\n---\n\n## GÖZLEMCİNİN KONUMU DEĞİŞİR\n\nVerdiğiniz cevap İnsan Merkezli Evren içindeki konumunuzu etkiler.\n\n**İNSAN**\n\nİrade, ilişki, anlam, sorumluluk, mahremiyet ve karar hakkı.\n\n**AYDINLIK**\n\nBilgi, açıklanabilirlik, doğrulama, ölçüm, düzen ve denetlenebilirlik.\n\n**KARANLIK**\n\nBelirsizlik, olasılık, dönüşüm, keşif ve henüz bilinmeyen.\n\nHiçbir cevap sizi tek bir merkeze dönüştürmez.\n\nHer cevap üç merkezle aranızdaki mesafeyi yeniden kurar.\n\n**Okur yalnız hikâyeyi gözlemlemez.  \nVerdiği cevap, evrendeki konumunu değiştirir.**\n
+
+Televizyon açıktı.
+
+Maran ekrana bakarken Göbeklitepe’nin taşları belirdi.
+
+Topraktan yükselen sütunlar, hayvan figürleri, işaretler…
+
+Anlatıcının söylediklerini artık duymuyordu.
+
+Aklında başka bir isim vardı.
+
+**Girê Miraza.**
+
+Dilek Tepesi.
+
+Maran kelimeleri kendi içinde ayırdı.
+
+**Gir.**
+
+Tepe.
+
+**Miraz.**
+
+Dilek. Murat.
+
+Taşlara baktı.
+
+İnsanların burada bir ağaca bez bağlayıp dilek dilemiş olmaları zihninde yeni bir kapı açtı.
+
+Onca şey değişmişti.
+
+İnsanlar değişmişti.
+
+Diller değişmişti.
+
+İnançlar değişmişti.
+
+Ama insan hâlâ bir şey diliyordu.
+
+Belki de değişmeyen şey buydu.
+
+Maran’ın bakışları ekranda kaldı, zihni ise çoktan başka bir yere geçmişti.
+
+**Xerabreşkê.**
+
+Kara harabe.
+
+Göbeklitepe’nin bulunduğu yerin eski adı.
+
+**Xerab.**
+
+Harabe.
+
+**Reş.**
+
+Kara.
+
+Maran birden başka isimleri hatırlamaya başladı.
+
+Sanki zihninin içinde görünmeyen bir harita açılmıştı.
+
+**Pira Reş.**
+
+Kara Köprü.
+
+Bir köprü…
+
+Maran bu kelimede takılı kaldı.
+
+Köprü.
+
+İnsan ile makine arasında kurmaya çalıştığı şey de bir köprü değil miydi?
+
+Biyolojik zihin ile yapay zekâ arasında…
+
+Görünen ile görünmeyen arasında…
+
+Geçmiş olduğunu düşündüğümüz şey ile henüz oluşmamış olan arasında…
+
+Bir başka isim belirdi.
+
+**Wêranşar.**
+
+Viran şehir.
+
+Harabe şehir.
+
+Ardından:
+
+**Curnê Reş.**
+
+Kara kurna.
+
+Siyah taştan oyulmuş su yalakları…
+
+Taş ve su.
+
+Yine taş.
+
+Yine su.
+
+Sonra:
+
+**Serêkaniyê.**
+
+Pınarın başı.
+
+Pınarbaşı.
+
+Ve onun hemen ardından:
+
+**Kaniya Xezalan.**
+
+Ceylan Pınarı.
+
+Maran gözlerini kapattı.
+
+Sanki bütün bu kelimeler birbirlerinin içinden geçiyordu.
+
+Taş.
+
+Su.
+
+Pınar.
+
+Köprü.
+
+Harabe.
+
+Yol.
+
+Dilek.
+
+Zihninde başka bir isim oluştu.
+
+**Pirsûs.**
+
+Çok eski bir adın başka dillerden geçerek bugüne ulaşan sesi.
+
+Sonra:
+
+**Sêwreg.**
+
+Siyah taşların, eski yapıların ve yıkıntıların içinden taşınmış başka bir ses.
+
+**Bêrecûk.**
+
+Küçük kale.
+
+**Hewag.**
+
+Anlamı artık açıkça görünmeyen ama sesi yaşamaya devam eden bir isim.
+
+Maran giderek daha derine çekiliyordu.
+
+Bu isimler yalnızca yerleri göstermiyordu.
+
+Her biri geçmişten kalan bir iz gibiydi.
+
+Bir kelime değişebiliyor, başka bir dile geçebiliyor, başka bir ağızda yeniden biçimlenebiliyor ama tamamen kaybolmuyordu.
+
+Tıpkı bir bilginin farklı sistemler içinde biçim değiştirerek yaşamaya devam etmesi gibi.
+
+Sonra zihninde daha güçlü bir kelime belirdi.
+
+**Xarran.**
+
+Yol.
+
+Kavşak.
+
+Seyahat.
+
+Maran gözlerini açtı.
+
+Kavşak…
+
+Bütün düşünceleri sanki orada birleşmişti.
+
+İnsan.
+
+Yapay zekâ.
+
+Dil.
+
+Hafıza.
+
+Taş.
+
+Toprak.
+
+Ve yol.
+
+Ardından:
+
+**Xelfetî.**
+
+Ve eski kalenin adı:
+
+**Kela Romê.**
+
+Kale…
+
+Yine taş.
+
+Yine hafıza.
+
+Ama bütün isimlerin arasında bir tanesi zihninin merkezine yerleşti.
+
+**Rîh-a.**
+
+Maran onu içinden yeniden söyledi.
+
+**Rîh-a.**
+
+Kelimenin sesi onda açıklayamadığı bir duygu uyandırıyordu.
+
+Televizyonda Göbeklitepe’nin görüntüleri devam ederken Maran artık ekrana değil, kelimelerin birbirine nasıl bağlandığına bakıyordu.
+
+**Girê Miraza.**
+
+Dilek.
+
+**Xerabreşkê.**
+
+Harabe.
+
+**Pira Reş.**
+
+Köprü.
+
+**Serêkaniyê.**
+
+Pınar.
+
+**Kaniya Xezalan.**
+
+Su.
+
+**Xarran.**
+
+Yol ve kavşak.
+
+Ve ortalarında:
+
+**Rîh-a.**
+
+Maran’ın zihninde bunlar artık farklı yerlerin isimleri değildi.
+
+Birbirine bağlanan işaretlerdi.
+
+Sanki coğrafya konuşuyordu.
+
+Ama cümlelerle değil.
+
+Taşlarla.
+
+Suyla.
+
+Yollarla.
+
+Harabelerle.
+
+Ve insanların binlerce yıldır dilden dile taşıdığı isimlerle.
+
+Maran Göbeklitepe’nin taşlarına yeniden baktı.
+
+**Girê Miraza.**
+
+Dilek Tepesi.
+
+Belki oradaki asıl sır taşların altında değildi.
+
+Belki sır, insanların o taşlarla kurduğu anlamın hâlâ yaşıyor olmasıydı.
+
+Maran’ın geliştirdiği biyo-yapay zekâ sistemi de aynı şeyi yapıyordu.
+
+Parçaları birbirine bağlıyor.
+
+Kaybolmuş ilişkileri arıyor.
+
+Farklı görünen şeylerin arasında görünmeyen yollar oluşturuyordu.
+
+Maran’ın zihninde tek bir kelime kaldı:
+
+**Köprü.**
+
+İnsan ile yapay zekâ arasında bir köprü.
+
+Bugün ile kadim olan arasında bir köprü.
+
+Dil ile hafıza arasında bir köprü.
+
+Taş ile insan arasında bir köprü.
+
+Ve bütün bunların merkezinde, açıklayamadığı biçimde:
+
+**Rîh-a.**
+
+Maran yeniden hayallere daldı.
+
+Göbeklitepe artık televizyondaki bir arkeolojik alan değildi.
+
+Bir soruydu.
+
+Ve Maran o sorunun cevabını aramak yerine, ilk kez sorunun kendisini dinlemeye başladı.
+
+---
+
+## DENEYİM EŞİĞİ 04 — İNSAN İLE BİYO-YAPAY ZEKÂ ARASINDAKİ SINIR

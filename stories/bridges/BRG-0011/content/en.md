@@ -869,6 +869,313 @@ And one name remained at the center of his mind:
 
 # Rîh-a
 
+
+The television was on.
+
+As Maran looked at the screen, the stones of Göbekli Tepe appeared.
+
+Pillars rising from the earth, animal figures, signs…
+
+He no longer heard what the narrator was saying.
+
+Another name was in his mind.
+
+**Girê Miraza.**
+
+The Hill of Wish.
+
+Maran separated the words inside himself.
+
+**Gir.**
+
+Hill.
+
+**Miraz.**
+
+Wish. Murad.
+
+He looked at the stones.
+
+The thought that people had once tied pieces of cloth to a tree here and made wishes opened a new door in his mind.
+
+So much had changed.
+
+People had changed.
+
+Languages had changed.
+
+Beliefs had changed.
+
+But the human being was still wishing for something.
+
+Perhaps that was what had not changed.
+
+Maran’s gaze remained on the screen, but his mind had already gone elsewhere.
+
+**Xerabreşkê.**
+
+Black ruin.
+
+The old name of the place where Göbekli Tepe stood.
+
+**Xerab.**
+
+Ruin.
+
+**Reş.**
+
+Black.
+
+Suddenly Maran began to remember other names.
+
+It was as if an invisible map had opened inside his mind.
+
+**Pira Reş.**
+
+Black Bridge.
+
+A bridge…
+
+Maran lingered on the word.
+
+Bridge.
+
+Was not the thing he was trying to build between human and machine also a bridge?
+
+Between the biological mind and artificial intelligence…
+
+Between the visible and the invisible…
+
+Between what we think of as the past and what has not yet taken form…
+
+Another name appeared.
+
+**Wêranşar.**
+
+Ruined city.
+
+A city of ruins.
+
+Then:
+
+**Curnê Reş.**
+
+Black trough.
+
+Water basins carved from dark stone…
+
+Stone and water.
+
+Again stone.
+
+Again water.
+
+Then:
+
+**Serêkaniyê.**
+
+The head of the spring.
+
+The source of the spring.
+
+And immediately after it:
+
+**Kaniya Xezalan.**
+
+Gazelle Spring.
+
+Maran closed his eyes.
+
+It was as if all these words were passing through one another.
+
+Stone.
+
+Water.
+
+Spring.
+
+Bridge.
+
+Ruin.
+
+Road.
+
+Wish.
+
+Another name formed in his mind.
+
+**Pirsûs.**
+
+The sound of a very old name reaching the present through other languages.
+
+Then:
+
+**Sêwreg.**
+
+Another sound carried through black stones, old structures, and ruins.
+
+**Bêrecûk.**
+
+Small fortress.
+
+**Hewag.**
+
+A name whose meaning was no longer fully visible, yet whose sound continued to live.
+
+Maran was being drawn deeper and deeper.
+
+These names were not only indicating places.
+
+Each of them was like a trace left from the past.
+
+A word could change, pass into another language, take a new form in another dialect, and still not disappear completely.
+
+Just like a piece of knowledge can continue living by changing form across different systems.
+
+Then a stronger word appeared in his mind.
+
+**Xarran.**
+
+Road.
+
+Crossroads.
+
+Journey.
+
+Maran opened his eyes.
+
+Crossroads…
+
+All his thoughts seemed to be meeting there.
+
+Human.
+
+Artificial intelligence.
+
+Language.
+
+Memory.
+
+Stone.
+
+Soil.
+
+And road.
+
+Then:
+
+**Xelfetî.**
+
+And the old name of the fortress:
+
+**Kela Romê.**
+
+Fortress…
+
+Again stone.
+
+Again memory.
+
+But among all the names, one settled at the center of his mind.
+
+**Rîh-a.**
+
+Maran repeated it inwardly.
+
+**Rîh-a.**
+
+The sound of the word awakened in him a feeling he could not fully explain.
+
+As the images of Göbekli Tepe continued on television, Maran was no longer looking at the screen itself, but at the way the words were connecting to one another.
+
+**Girê Miraza.**
+
+Wish.
+
+**Xerabreşkê.**
+
+Ruin.
+
+**Pira Reş.**
+
+Bridge.
+
+**Serêkaniyê.**
+
+Spring.
+
+**Kaniya Xezalan.**
+
+Water.
+
+**Xarran.**
+
+Road and crossroads.
+
+And at their center:
+
+**Rîh-a.**
+
+In Maran’s mind, these were no longer merely the names of different places.
+
+They were signs connected to one another.
+
+It was as if geography were speaking.
+
+But not through sentences.
+
+Through stones.
+
+Through water.
+
+Through roads.
+
+Through ruins.
+
+And through names carried from tongue to tongue across thousands of years.
+
+Maran looked again at the stones of Göbekli Tepe.
+
+**Girê Miraza.**
+
+The Hill of Wish.
+
+Perhaps the real secret there was not hidden beneath the stones.
+
+Perhaps the secret was that the meaning people had formed with those stones was still alive.
+
+The bio-artificial intelligence system Maran had developed was doing the same thing.
+
+It was connecting parts to one another.
+
+Searching for lost relations.
+
+Creating invisible paths between things that seemed different.
+
+One word remained in Maran’s mind:
+
+**Bridge.**
+
+A bridge between human and artificial intelligence.
+
+A bridge between the present and the ancient.
+
+A bridge between language and memory.
+
+A bridge between stone and human.
+
+And at the center of all of it, in a way he could not explain:
+
+**Rîh-a.**
+
+Maran drifted again into reverie.
+
+Göbekli Tepe was no longer an archaeological site on the television.
+
+It was a question.
+
+And instead of searching for the answer to that question, Maran began, for the first time, to listen to the question itself.
+
 ---
 
 ## EXPERIENCE THRESHOLD 04 — THE BOUNDARY BETWEEN HUMAN AND BIO-AI
