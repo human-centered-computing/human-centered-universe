@@ -7,9 +7,9 @@
     "DARK": 20
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated rewrite aligned with HCU Quantum Time and the current three-center relational architecture",
+    "status": "reviewed-rewrite",
+    "note": "Human dominates because the story defines the Human Center as a contextual, relational decision method based on affected parties, evidence, consent, contestability, review and responsibility. Light contributes safety, verification and protection; Dark contributes possibility, freedom, plurality and transformation."
   },
   "coverage_audit": {
     "coverage_complete": true,

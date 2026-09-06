@@ -8,13 +8,15 @@
   "book_order": 15,
   "culture": [
     "Şahmaran narrative echo",
-    "global human network"
+    "global human network",
+    "human-centered decision design"
   ],
   "belief_context": [
     "plural interpretation",
-    "relational ethics"
+    "relational ethics",
+    "contestability and responsibility"
   ],
-  "summary": "Light and Dark try to turn the third field into their battlefield until Shahmaran reframes knowledge, power, and responsibility and Maran opens the Common Center with responsibility as its key.",
+  "summary": "Light and Dark make competing claims over safety and freedom. Maran rejects both a fixed midpoint and a third ruling power, redefining the Human Center as a relational decision method that preserves valuable capacities while limiting domination, keeping evidence, consent, responsibility and contestability visible.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -23,57 +25,70 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/COM-0001/savas-alanini-eve-cevirin.png",
+    "alt": {
+      "en": "A textless and human-free panoramic world where a luminous ordered city and a dark realm of open possibility remain distinct but are connected through bridges and a shared circular garden, symbolizing a relational home that neither side owns alone.",
+      "tr": "Yazısız ve insansız panoramik sahnede aydınlık ve düzenli şehir ile karanlık ve açık ihtimaller dünyası ayrı kalır; aralarındaki köprüler ve ortak dairesel bahçe hiçbir tarafın tek başına sahip olmadığı ilişkisel bir evi simgeler."
+    }
+  },
   "links": [
     {
       "target": "LGT-0001",
-      "type": "contrast",
-      "note": "Light cannot define the shared world alone."
+      "type": "echo",
+      "note": "Light's concern with safety, prediction and protection becomes one input to a human-centered decision method rather than a chronological predecessor."
     },
     {
       "target": "DRK-0001",
-      "type": "contrast",
-      "note": "Dark cannot define the shared world alone."
+      "type": "echo",
+      "note": "Dark's concern with possibility, freedom and transformation becomes another input to the relational method without implying before-and-after order."
+    },
+    {
+      "target": "BRG-0010",
+      "type": "quantum_echo",
+      "note": "The distinction between relation and boundary resonates with the Human Center as a method for rebuilding shared conditions without forcing all differences into one form."
     },
     {
       "target": "COM-0004",
-      "type": "cause",
-      "note": "The Common Center becomes institutionalized as an open distributed network."
+      "type": "echo",
+      "note": "The relational decision method resonates with later distributed network forms without requiring a fixed narrative chronology."
     },
     {
       "target": "COM-0005",
-      "type": "cause",
-      "note": "Its values require explicit non-negotiable and adaptable rules."
+      "type": "echo",
+      "note": "The need to distinguish non-negotiable protections from adaptable rules resonates with the decision questions developed here."
     }
   ],
   "interactions": [
     {
-      "threshold": "03",
-      "key": "third_rule",
+      "threshold": "◎",
+      "key": "relational_method",
       "type": "textarea",
       "world_seed": true,
       "label": {
-        "en": "The Third Rule",
-        "tr": "Üçüncü Kural"
+        "en": "Turn the Battlefield into a Home",
+        "tr": "Savaş Alanını Eve Çevir"
       },
       "prompt": {
-        "en": "Write a third option that limits both powers while preserving what is valuable in each.",
-        "tr": "Her iki gücü sınırlayan, fakat ikisinin de değerli yanını koruyan üçüncü bir kural yazın."
+        "en": "Build a decision method that preserves what is valuable in both sides while limiting the power of each.",
+        "tr": "İki tarafın değerli yanını korurken her ikisinin gücünü de sınırlayan bir karar yöntemi kurun."
       },
       "placeholder": {
-        "en": "Your relational rule…",
-        "tr": "İlişkisel kuralınız…"
+        "en": "Who is affected, what evidence matters, who may object, and what can change?",
+        "tr": "Kim etkileniyor, hangi kanıt önemli, kim itiraz edebilir ve ne değişebilir?"
       }
     }
   ],
   "localized": {
     "tr": {
       "title": "Savaş Alanını Eve Çevirin",
-      "summary": "Aydınlık ve Karanlık üçüncü alanı savaş meydanına çevirmeye çalışırken Şahmaran bilgi, güç ve sorumluluğu yeniden çerçeveler; Maran sorumluluğu anahtar yaparak Ortak Merkez'i açar.",
+      "summary": "Aydınlık ve Karanlık güvenlik ile özgürlük üzerinden üstünlük kurmaya çalışırken Maran hem sabit orta yolu hem de üçüncü bir egemen gücü reddeder. İnsan Merkezi'ni; değerli kapasiteleri korurken tahakkümü sınırlayan, kanıtı, rızayı, sorumluluğu ve itiraz hakkını görünür tutan ilişkisel bir karar yöntemi olarak yeniden tanımlar.",
       "link_notes": {
-        "LGT-0001": "Aydınlık ortak dünyayı tek başına tanımlayamaz.",
-        "DRK-0001": "Karanlık ortak dünyayı tek başına tanımlayamaz.",
-        "COM-0004": "Ortak Merkez açık ve dağıtık bir ağ olarak kurumsallaşır.",
-        "COM-0005": "Değerlerinin açık, vazgeçilmez ve uyarlanabilir kurallara ihtiyacı vardır."
+        "LGT-0001": "Aydınlık'ın güvenlik, öngörü ve koruma kapasitesi kronolojik bir öncül değil, İnsan Merkezli karar yönteminin girdilerinden biri olarak yankılanır.",
+        "DRK-0001": "Karanlık'ın ihtimal, özgürlük ve dönüşüm kapasitesi önce-sonra ilişkisi kurmadan ilişkisel yöntemin diğer girdisi olarak yankılanır.",
+        "BRG-0010": "İlişki ve sınır ayrımı, bütün farklılıkları tek biçime zorlamadan ortak koşulları yeniden kuran İnsan Merkezi yöntemiyle kuantumsal olarak yankılanır.",
+        "COM-0004": "İlişkisel karar yöntemi sabit bir anlatı kronolojisi gerektirmeden dağıtık ağ biçimleriyle yankılanır.",
+        "COM-0005": "Vazgeçilmez korumalar ile uyarlanabilir kuralları ayırma ihtiyacı burada geliştirilen karar sorularıyla yankılanır."
       }
     }
   }
