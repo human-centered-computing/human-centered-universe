@@ -1,0 +1,121 @@
+{
+  "id": "BRG-0018",
+  "title": "The History the Soil Never Wrote: Traces of Girê Miraza",
+  "original_title": "Toprağın Yazmadığı Tarih: Girê Miraza’nın İzleri",
+  "core": "BRIDGE",
+  "status": "canon",
+  "source_language": "tr",
+  "book_order": 18.2,
+  "observation_order": 25,
+  "culture": [
+    "Göbekli Tepe / Girê Miraza",
+    "Rîh-a / Sanliurfa",
+    "Kurdish local place names",
+    "Anatolia",
+    "Mesopotamia",
+    "soil and cultural memory"
+  ],
+  "belief_context": [
+    "unwritten history",
+    "archaeological uncertainty",
+    "linguistic traces",
+    "material evidence",
+    "cultural memory",
+    "human-centered interpretation",
+    "explainability",
+    "probability and uncertainty"
+  ],
+  "summary": "Maran applies the trace-and-relation logic of the Rîh Bridge to Göbekli Tepe. Reading soil, material remains, water, routes, local place names and living practices as separate but connected traces, he searches for a history that was never written without turning uncertainty into false certainty.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed-source"
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0018/topragin-yazmadigi-tarih.png",
+    "alt": {
+      "en": "A human-free artistic vision of Göbekli Tepe in which T-shaped stones, layered soil, water, roots and glowing connections suggest unwritten history preserved in the land.",
+      "tr": "İnsan figürü içermeyen sanatsal Göbeklitepe sahnesinde T biçimli taşlar, toprak katmanları, su, kökler ve ışık bağlantıları toprağın sakladığı yazılmamış tarihi simgeliyor."
+    },
+    "caption": {
+      "en": "The History the Soil Never Wrote",
+      "tr": "Toprağın Yazmadığı Tarih"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0011",
+      "type": "method",
+      "note": "Maran carries the Rîh Bridge method of source separation, trace, relation and uncertainty from living bio-AI into the interpretation of soil, language and cultural memory."
+    },
+    {
+      "target": "BRG-0003",
+      "type": "place",
+      "note": "Rîh-a and local naming return as clues in a separate story about how place names can preserve fragments of cultural memory."
+    },
+    {
+      "target": "BRG-0001",
+      "type": "echo",
+      "note": "The Stone Network's question—whether stones can answer—returns here in a more cautious form: stones, soil and names speak only through relationships and evidence."
+    }
+  ],
+  "observer_choices": [
+    {
+      "key": "material_evidence_first",
+      "label": "Follow material evidence first.",
+      "labels": {
+        "en": "Follow material evidence first.",
+        "tr": "Önce maddi kanıtı izle."
+      },
+      "effects": {
+        "HUMAN": 5,
+        "LIGHT": 10,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "read_all_traces_together",
+      "label": "Read material, linguistic and cultural traces together.",
+      "labels": {
+        "en": "Read material, linguistic and cultural traces together.",
+        "tr": "Maddi, dilsel ve kültürel izleri birlikte oku."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 7,
+        "DARK": 4
+      }
+    },
+    {
+      "key": "leave_historical_gaps_open",
+      "label": "Leave the unknown gaps open.",
+      "labels": {
+        "en": "Leave the unknown gaps open.",
+        "tr": "Bilinmeyen boşlukları açık bırak."
+      },
+      "effects": {
+        "HUMAN": 6,
+        "LIGHT": 3,
+        "DARK": 10
+      }
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Toprağın Yazmadığı Tarih: Girê Miraza’nın İzleri",
+      "summary": "Maran, Rîh Köprüsü'nde geliştirdiği iz ve ilişki yaklaşımını Göbeklitepe'ye taşır. Toprağı, maddi kalıntıları, suyu, yolları, yaşayan davranışları ve Girê Miraza, Xerabreşkê, Pira Reş, Xarran gibi eski yer adlarını ayrı ama bağlantılı izler olarak okuyarak hiç yazılmamış bir tarihi anlamaya çalışır; bilinmeyen noktaları ise kesinlik iddiasıyla doldurmaz.",
+      "link_notes": {
+        "BRG-0011": "Rîh Köprüsü'nün kaynak ayrımı, iz, ilişki ve belirsizlik yöntemi burada yaşayan biyo-yapay zekâdan toprağın, dilin ve kültürel hafızanın yorumlanmasına taşınır.",
+        "BRG-0003": "Rîh-a ve yerel adlandırmalar, yer adlarının kültürel hafızanın parçalarını taşıyabileceği ayrı bir hikâyede yeniden belirir.",
+        "BRG-0001": "Taşların cevap verip veremeyeceği sorusu burada daha temkinli biçimde döner: taşlar, toprak ve isimler ancak kanıtlar ve ilişkiler üzerinden konuşabilir."
+      }
+    }
+  },
+  "inspiration": {
+    "type": "fictional archaeological, linguistic and cultural-memory exploration",
+    "note": "The story uses local names and proposed meanings as narrative clues supplied by the author. It does not present uncertain etymologies or cultural continuities as established historical proof."
+  }
+}

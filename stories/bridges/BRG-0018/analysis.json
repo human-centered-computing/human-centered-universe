@@ -1,0 +1,18 @@
+{
+  "schema": "hcu-story-analysis",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 50,
+    "LIGHT": 30,
+    "DARK": 20
+  },
+  "classification": {
+    "method": "curated narrative classification based on cultural memory, material evidence, linguistic traces, interpretive responsibility, uncertainty and the refusal to turn possibility into proof",
+    "status": "reviewed-curation",
+    "note": "HUMAN leads because the story treats memory, culture and interpretation as human responsibilities. LIGHT represents archaeology, evidence, source separation and verification. DARK represents lost history, incomplete records and possibilities that may remain unresolved."
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}
