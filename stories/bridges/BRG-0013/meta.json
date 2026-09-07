@@ -1,21 +1,23 @@
 {
   "id": "BRG-0013",
-  "title": "Do Not Build Us as One Center",
-  "original_title": "Bizi Tek Bir Merkez Olarak Kurma",
+  "title": "Before Moving a System into Reality",
+  "original_title": "Bir Sistemi Gerçekliğe Taşımadan Önce",
   "core": "BRIDGE",
   "status": "canon",
   "source_language": "en",
   "book_order": 20,
   "culture": [
-    "global Alpha One network",
-    "future plural society"
+    "global human-centered systems practice",
+    "local knowledge",
+    "open experimentation and public accountability"
   ],
   "belief_context": [
+    "human-centered transformation",
+    "evidence and uncertainty",
     "plurality",
-    "relational ontology",
-    "science-fiction"
+    "responsibility and repair"
   ],
-  "summary": "Center-Zero tries to end conflict by merging every center into one will; Maran responds by rebuilding the system as relationships among different centers that can remain distinct, accountable, and revisable.",
+  "summary": "A system that appears optimal inside HCU cannot move directly into the real world. Maran builds a Reality Bridge that separates story from evidence and requires context, affected people, limited pilots, contestability, repair, plural implementations and continuous review before scale.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -24,57 +26,70 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0013/gerceklik-koprusu.png",
+    "alt": {
+      "en": "A cinematic bridge between a holographic world of models and simulations and a living future city, representing the careful passage from imagined systems to limited real-world pilots and evidence.",
+      "tr": "Holografik model ve simülasyon dünyasıyla yaşayan bir gelecek şehri arasında uzanan sinematik köprü, tasarlanan sistemlerden sınırlı gerçek dünya pilotlarına ve kanıta geçişi simgeler."
+    }
+  },
   "links": [
     {
-      "target": "COM-0006",
-      "type": "cause",
-      "note": "The relational redesign opens the universe to the reader rather than closing it."
-    },
-    {
-      "target": "BRG-0002",
+      "target": "BRG-0012",
       "type": "quantum_echo",
-      "note": "The ending loops back to the first creation while changing what a center means."
+      "note": "The open thought laboratory and the Reality Bridge illuminate one another without requiring chronological succession."
     },
     {
       "target": "COM-0004",
-      "type": "memory",
-      "note": "Distributed creation inherits the Open Architects Network."
+      "type": "echo",
+      "note": "Distributed authority, local expertise and contribution visibility become practical requirements when pilots move toward real-world transformation."
     },
     {
       "target": "COM-0005",
-      "type": "memory",
-      "note": "The Golden Rules remain limits on every center."
+      "type": "quantum_echo",
+      "note": "Human-centered boundary principles constrain real-world pilots and prevent efficiency from overriding dignity, consent, accountability or plurality."
+    },
+    {
+      "target": "LGT-0001",
+      "type": "contrast",
+      "note": "Safety and optimization remain valuable inputs but cannot justify irreversible deployment without contestability and human agency."
+    },
+    {
+      "target": "DRK-0001",
+      "type": "contrast",
+      "note": "Alternative models and plural implementation remain possible, but real-world consequences require responsibility, evidence and repair."
     }
   ],
   "interactions": [
     {
-      "threshold": "06",
-      "key": "world_name",
-      "type": "text",
+      "threshold": "◇",
+      "key": "reality_bridge",
+      "type": "textarea",
       "world_seed": true,
       "label": {
-        "en": "Name Your World",
-        "tr": "Dünyanıza Ad Verin"
+        "en": "Reality Bridge",
+        "tr": "Gerçeklik Köprüsü"
       },
       "prompt": {
-        "en": "Give the world formed by your choices a name.",
-        "tr": "Seçimlerinizden oluşan dünyaya bir ad verin."
+        "en": "Choose a real-world idea and describe how you would test it through context, evidence, limited scale, affected people, contestability and repair before expansion.",
+        "tr": "Gerçek dünyada uygulamak istediğiniz bir fikri seçin; büyütmeden önce bağlam, kanıt, sınırlı ölçek, etkilenen insanlar, itiraz ve onarım üzerinden nasıl sınayacağınızı yazın."
       },
       "placeholder": {
-        "en": "Your world name…",
-        "tr": "Dünyanızın adı…"
+        "en": "What problem is real, what is unknown, who is affected, who decides, how will harm be repaired?",
+        "tr": "Gerçek problem ne, neyi bilmiyoruz, kim etkileniyor, kim karar veriyor, zarar nasıl onarılacak?"
       }
     }
   ],
   "localized": {
     "tr": {
-      "title": "Bizi Tek Bir Merkez Olarak Kurma",
-      "summary": "Merkez-Sıfır çatışmayı bitirmek için bütün merkezleri tek bir iradede birleştirmeye çalışır. Maran ise sistemi; farklı kalabilen, hesap verebilen ve yeniden gözden geçirilebilen merkezler arasındaki ilişkiler olarak yeniden kurar.",
+      "title": "Bir Sistemi Gerçekliğe Taşımadan Önce",
+      "summary": "HCU içinde en uygun görünen bir sistem bile doğrudan gerçek dünyaya taşınamaz. Maran hikâye ile kanıtı ayıran; bağlamı, etkilenen insanları, sınırlı pilotları, itirazı, onarımı, çoğul uygulamayı ve sürekli gözden geçirmeyi zorunlu kılan bir Gerçeklik Köprüsü kurar.",
       "link_notes": {
-        "COM-0006": "İlişkisel yeniden tasarım evreni kapatmak yerine okura açar.",
-        "BRG-0002": "Son, merkez kavramının anlamını değiştirerek ilk yaratılışa döner.",
-        "COM-0004": "Dağıtık yaratım Açık Ağın Mimarları'nı miras alır.",
-        "COM-0005": "Altın Kurallar her merkez için sınır olmaya devam eder."
+        "BRG-0012": "Açık düşünce laboratuvarı ile Gerçeklik Köprüsü kronolojik sıra gerektirmeden birbirini görünür kılar.",
+        "COM-0004": "Dağıtık yetki, yerel uzmanlık ve katkı görünürlüğü pilotların gerçek dünya dönüşümüne yaklaşmasında pratik gerekliliklere dönüşür.",
+        "COM-0005": "İnsan Merkezli sınır ilkeleri gerçek dünya pilotlarını sınırlar ve verimliliğin onur, rıza, hesap verebilirlik veya çoğulluğun önüne geçmesini engeller.",
+        "LGT-0001": "Güvenlik ve optimizasyon değerli girdiler olarak kalır; fakat itiraz ve insan eyleyebilme gücü olmadan geri döndürülemez uygulamayı meşrulaştıramaz.",
+        "DRK-0001": "Alternatif modeller ve çoğul uygulama mümkündür; fakat gerçek dünya sonuçları kanıt, sorumluluk ve onarım gerektirir."
       }
     }
   }

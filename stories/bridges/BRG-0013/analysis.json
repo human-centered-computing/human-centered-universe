@@ -2,14 +2,14 @@
   "schema": "hcu-story-analysis",
   "primary_center": "HUMAN",
   "center_weights": {
-    "HUMAN": 55,
-    "LIGHT": 15,
-    "DARK": 30
+    "HUMAN": 60,
+    "LIGHT": 25,
+    "DARK": 15
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated rewrite aligned with the HCU open thought laboratory, Quantum Time, distributed architecture and human-centered boundary principles",
+    "status": "reviewed-rewrite",
+    "note": "Human dominates through affected-person participation, agency, contestability, accountability, repair and real-world consequences. Light contributes evidence, measurement, safety, verification and gradual scaling. Dark contributes alternatives, plural implementation and the refusal to treat one model as the final system."
   },
   "coverage_audit": {
     "coverage_complete": true,
