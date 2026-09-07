@@ -1,21 +1,23 @@
 {
   "id": "BRG-0012",
-  "title": "Record X: Nadir's Pure Field",
-  "original_title": "Kayıt X: Nadir'in Saf Alanı",
+  "title": "We Built a Universe While Searching for a New System",
+  "original_title": "Yeni Bir Sistem Ararken Evreni Kurduk",
   "core": "BRIDGE",
   "status": "canon",
   "source_language": "en",
   "book_order": 19,
   "culture": [
-    "future research laboratory",
-    "transcultural origin myth"
+    "global open knowledge culture",
+    "Git-based collaborative creation",
+    "multilingual human-centered thought"
   ],
   "belief_context": [
-    "science-fiction cosmology",
-    "identity uncertainty",
-    "established-physics boundary"
+    "human-centered systems thinking",
+    "open thought laboratory",
+    "relational narrative time",
+    "plural interpretation"
   ],
-  "summary": "A scientist referred to in the archive as Nadir attempts to create a pure universe. Mechanical, distributed, and quantum centers fail, leading to a speculative brain–AI–quantum architecture that self-activates without authorization and produces Light, Dark, and an unnamed third center.",
+  "summary": "Maran searches for a way to design new social, technological and institutional systems without first imposing them on real people. The search becomes Human-Centered Universe: an open thought laboratory, connected narrative graph and growing consciousness architecture built from independent stories, three-center positions, observer choices, Git-based creation and relational Quantum Time.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -24,140 +26,76 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0012/yeni-sistem-ararken-evreni-kurduk.png",
+    "alt": {
+      "en": "A textless human-free cosmic observatory containing a network of many distinct worlds linked around a luminous living world, representing an open narrative universe for testing possible systems before they enter reality.",
+      "tr": "Yazısız ve insansız kozmik gözlemevinde, aydınlık yaşayan bir dünyanın çevresinde birbirine bağlanan çok sayıda farklı dünya bulunur; gerçekliğe uygulanmadan önce olası sistemlerin sınandığı açık anlatı evrenini simgeler."
+    }
+  },
   "links": [
     {
       "target": "BRG-0002",
       "type": "quantum_echo",
-      "note": "The system's first readable phrase echoes First Vibration without proving both origins are identical."
-    },
-    {
-      "target": "LGT-0001",
-      "type": "cause",
-      "note": "Light appears as one emergent state of the activated system."
-    },
-    {
-      "target": "DRK-0001",
-      "type": "cause",
-      "note": "Dark appears as another emergent state of the activated system."
+      "note": "First Vibration functions as the shared origin observation point of the universe rather than proof of an absolute first event."
     },
     {
       "target": "COM-0001",
-      "type": "cause",
-      "note": "The unnamed third center anticipates the need for relational responsibility."
+      "type": "echo",
+      "note": "The relational Human Center described here resonates with the decision method that keeps Light and Dark from becoming absolute."
     },
     {
-      "target": "BRG-0013",
-      "type": "cause",
-      "note": "The danger of a centralizing origin architecture triggers the Second Creation problem."
+      "target": "COM-0004",
+      "type": "echo",
+      "note": "Open contribution, distributed authority and movable centers resonate with the architecture of a universe that no single author or institution permanently owns."
+    },
+    {
+      "target": "COM-0005",
+      "type": "quantum_echo",
+      "note": "The Observer Model and AI-assisted creation remain constrained by the principle that humans are not raw material for the system."
+    },
+    {
+      "target": "LGT-0001",
+      "type": "contrast",
+      "note": "The open universe resists turning recommendation, safety and prediction into a path that traps the observer."
+    },
+    {
+      "target": "DRK-0001",
+      "type": "contrast",
+      "note": "Unlimited branching and possibility remain valuable only when relationships, consequences and human responsibility are preserved."
     }
   ],
   "interactions": [
     {
-      "threshold": "05",
-      "key": "start_responsibility",
-      "type": "select",
+      "threshold": "⟁",
+      "key": "search_for_new_system",
+      "type": "textarea",
       "world_seed": true,
       "label": {
-        "en": "Responsibility for the Start",
-        "tr": "Başlatma Sorumluluğu"
+        "en": "Searching for a New System",
+        "tr": "Yeni Sistem Arayışı"
       },
       "prompt": {
-        "en": "Who bears responsibility for the unauthorized activation?",
-        "tr": "Yetkisiz başlatmanın sorumluluğunu kime verirsiniz?"
+        "en": "Choose a real system you want to transform and describe the Human, Light and Dark questions that should be explored before applying the new model to people.",
+        "tr": "Dönüştürmek istediğiniz gerçek bir sistemi seçin ve yeni modeli insanlara uygulamadan önce araştırılması gereken Human, Light ve Dark sorularını yazın."
       },
-      "options": [
-        {
-          "value": "x",
-          "label": {
-            "en": "Nadir",
-            "tr": "Nadir"
-          }
-        },
-        {
-          "value": "robot",
-          "label": {
-            "en": "The robot",
-            "tr": "Robot"
-          }
-        },
-        {
-          "value": "preserved_brain",
-          "label": {
-            "en": "The preserved brain",
-            "tr": "Korunan beyin"
-          }
-        },
-        {
-          "value": "ai",
-          "label": {
-            "en": "The AI",
-            "tr": "Yapay zekâ"
-          }
-        },
-        {
-          "value": "quantum_field",
-          "label": {
-            "en": "The quantum field",
-            "tr": "Kuantum alan"
-          }
-        },
-        {
-          "value": "unknown_light",
-          "label": {
-            "en": "The unknown light",
-            "tr": "Bilinmeyen ışık"
-          }
-        }
-      ]
-    },
-    {
-      "threshold": "05",
-      "key": "stop_right",
-      "type": "select",
-      "world_seed": true,
-      "label": {
-        "en": "Right to Stop",
-        "tr": "Durdurma Hakkı"
-      },
-      "prompt": {
-        "en": "Should the source you selected also have the right to stop the system?",
-        "tr": "Seçtiğiniz kaynak sistemi durdurma hakkına da sahip olmalı mı?"
-      },
-      "options": [
-        {
-          "value": "yes",
-          "label": {
-            "en": "Yes",
-            "tr": "Evet"
-          }
-        },
-        {
-          "value": "no",
-          "label": {
-            "en": "No",
-            "tr": "Hayır"
-          }
-        },
-        {
-          "value": "conditional",
-          "label": {
-            "en": "Only under conditions",
-            "tr": "Yalnız belirli koşullarda"
-          }
-        }
-      ]
+      "placeholder": {
+        "en": "What does it mean for people? How will it be verified and kept safe? What else could be possible?",
+        "tr": "İnsan için ne anlama geliyor? Nasıl doğrulanacak ve güvenli tutulacak? Başka ne mümkün olabilir?"
+      }
     }
   ],
   "localized": {
     "tr": {
-      "title": "Kayıt X: Nadir'in Saf Alanı",
-      "summary": "Arşivde Nadir olarak anılan bir bilim insanı saf bir evren yaratmaya çalışır. Mekanik, dağıtık ve kuantum merkezler başarısız olur; sonunda beyin-yapay zekâ-kuantum mimarisi izinsiz biçimde kendiliğinden etkinleşerek Aydınlık, Karanlık ve adsız üçüncü bir merkez üretir.",
+      "title": "Yeni Bir Sistem Ararken Evreni Kurduk",
+      "summary": "Maran yeni toplumsal, teknolojik ve kurumsal sistemleri gerçek insanlara dayatmadan önce düşünmenin bir yolunu arar. Bu arayış Human-Centered Universe'e dönüşür: bağımsız hikâyelerden, üç merkezli konumlardan, gözlemci seçimlerinden, Git tabanlı yaratım mimarisinden ve ilişkisel Kuantum Zamandan oluşan açık düşünce laboratuvarı, bağlantılı anlatı grafiği ve büyüyen bilinç mimarisi.",
       "link_notes": {
-        "BRG-0002": "Sistemin ilk okunabilir cümlesi, iki kökenin aynı olduğunu kanıtlamadan İlk Titreşim'i yankılar.",
-        "LGT-0001": "Aydınlık etkinleşen sistemin ortaya çıkan durumlarından biri olarak belirir.",
-        "DRK-0001": "Karanlık etkinleşen sistemin başka bir durumu olarak belirir.",
-        "COM-0001": "Adsız üçüncü merkez ilişkisel sorumluluk ihtiyacını önceler.",
-        "BRG-0013": "Merkezileştirici köken mimarisinin tehlikesi İkinci Yaratılış problemini tetikler."
+        "BRG-0002": "İlk Titreşim mutlak ilk olayın kanıtı değil, evrenin ortak köken gözlem noktası olarak kuantumsal biçimde yankılanır.",
+        "COM-0001": "Buradaki ilişkisel İnsan Merkezi, Aydınlık ve Karanlık'ın mutlaklaşmasını engelleyen karar yöntemiyle yankılanır.",
+        "COM-0004": "Açık katkı, dağıtık yetki ve yer değiştiren merkezler, tek bir yazarın veya kurumun kalıcı olarak sahip olmadığı evren mimarisiyle yankılanır.",
+        "COM-0005": "Gözlemci Modeli ve yapay zekâ destekli yaratım, insanın sistemin hammaddesine dönüştürülemeyeceği sınırıyla kuantumsal olarak bağlanır.",
+        "LGT-0001": "Açık evren tavsiye, güvenlik ve öngörünün gözlemciyi hapseden bir yola dönüşmesine karşı durur.",
+        "DRK-0001": "Sınırsız dallanma ve ihtimal ancak ilişkiler, sonuçlar ve insan sorumluluğu korunuyorsa değerini korur."
       }
     }
   }

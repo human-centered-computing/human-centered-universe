@@ -1,15 +1,15 @@
 {
   "schema": "hcu-story-analysis",
-  "primary_center": "DARK",
+  "primary_center": "HUMAN",
   "center_weights": {
-    "HUMAN": 20,
-    "LIGHT": 35,
-    "DARK": 45
+    "HUMAN": 50,
+    "LIGHT": 30,
+    "DARK": 20
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated rewrite grounded in the current HCU README architecture and Quantum Time model",
+    "status": "reviewed-rewrite",
+    "note": "Human is primary because the purpose of the system is to examine what new institutions, technologies and social systems mean for people before real-world application. Light contributes architecture, verification, structured analysis, Git history and reproducibility. Dark contributes open-ended growth, branching, forks, alternative realities and unbounded possibility."
   },
   "coverage_audit": {
     "coverage_complete": true,
