@@ -8,14 +8,16 @@
   "book_order": 16,
   "culture": [
     "global multicultural network",
-    "local autonomy"
+    "local autonomy",
+    "open contribution culture"
   ],
   "belief_context": [
     "open governance",
     "plurality",
-    "human-centered transformation"
+    "human-centered transformation",
+    "distributed responsibility"
   ],
-  "summary": "The Common Center becomes a distributed network where local communities define problems, publish methods openly, preserve contribution history, and treat branches, forks, and pull requests as structured possibilities rather than a single sovereign center.",
+  "summary": "A distributed network emerges in which local problems remain locally grounded while knowledge, failures and contributions remain shareable and traceable. Authority moves according to problem, knowledge, impact and responsibility rather than belonging permanently to a single person or institution.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -24,31 +26,64 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/COM-0004/acik-agin-mimarlari.png",
+    "alt": {
+      "en": "A textless cinematic network of floating ecological cities and local worlds linked by luminous arcs, with no single island positioned as the permanent center.",
+      "tr": "Yazısız sinematik sahnede farklı ekolojik şehirler ve yerel dünyalar ışıklı ağlarla birbirine bağlanır; hiçbir ada kalıcı merkez olarak konumlandırılmaz."
+    }
+  },
   "links": [
     {
+      "target": "COM-0001",
+      "type": "echo",
+      "note": "The relational decision method and the distributed network illuminate one another without implying a fixed chronological order."
+    },
+    {
       "target": "COM-0005",
-      "type": "cause",
-      "note": "Distributed contribution needs shared constraints that local variation cannot override."
+      "type": "quantum_echo",
+      "note": "The open network's need for shared non-negotiable protections resonates with the distinction between stable principles and locally adaptable rules."
     },
     {
       "target": "BRG-0011",
-      "type": "future",
-      "note": "The network later governs the Rih Bridge as a high-stakes continuity experiment."
+      "type": "echo",
+      "note": "Distributed authority, local knowledge and traceable responsibility resonate with other high-stakes continuity structures without defining a future stage."
     },
     {
       "target": "BRG-0013",
-      "type": "future",
-      "note": "Its distributed architecture becomes a model for the Second Creation."
+      "type": "echo",
+      "note": "The movable-center architecture resonates with other creation and coordination models across observer paths."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "⧉",
+      "key": "network_architect",
+      "type": "textarea",
+      "world_seed": true,
+      "label": {
+        "en": "Architect of the Network",
+        "tr": "Ağın Mimarı"
+      },
+      "prompt": {
+        "en": "Build a network around a real problem without placing yourself at the permanent center.",
+        "tr": "Gerçek bir problem etrafında kendinizi kalıcı merkeze koymadan bir ağ kurun."
+      },
+      "placeholder": {
+        "en": "Who lives the problem, who knows, who is affected, who contributes, who can object?",
+        "tr": "Problemi kim yaşıyor, kim biliyor, kim etkileniyor, kim katkı sunuyor, kim itiraz edebilir?"
+      }
     }
   ],
   "localized": {
     "tr": {
       "title": "Açık Ağın Mimarları",
-      "summary": "Ortak Merkez; yerel toplulukların sorunları tanımladığı, yöntemleri açık yayımladığı, katkı geçmişini koruduğu ve branch, fork ile pull request'leri tek egemen merkeze alternatif yapılandırılmış ihtimaller olarak ele aldığı dağıtık bir ağa dönüşür.",
+      "summary": "Yerel sorunların yerel bağlamda kaldığı; bilgi, başarısızlık ve katkının paylaşılabilir ve izlenebilir olduğu dağıtık bir ağ oluşur. Yetki tek bir kişi ya da kuruma ait değildir; probleme, bilgiye, etkiye ve sorumluluğa göre yer değiştirir.",
       "link_notes": {
-        "COM-0005": "Dağıtık katkı, yerel farklılığın aşamayacağı ortak sınırlara ihtiyaç duyar.",
-        "BRG-0011": "Ağ daha sonra yüksek riskli bir süreklilik deneyi olan Rih Köprüsü'nü yönetir.",
-        "BRG-0013": "Dağıtık mimarisi İkinci Yaratılış için model olur."
+        "COM-0001": "İlişkisel karar yöntemi ile dağıtık ağ, sabit bir kronolojik sıra varsaymadan birbirini görünür kılar.",
+        "COM-0005": "Açık ağın ortak ve vazgeçilmez korumalara duyduğu ihtiyaç, değişmeyen ilkeler ile yerel uyarlanabilir kurallar ayrımıyla kuantumsal olarak yankılanır.",
+        "BRG-0011": "Dağıtık yetki, yerel bilgi ve izlenebilir sorumluluk başka yüksek riskli süreklilik yapılarıyla yankılanır; gelecekteki bir aşama tanımlamaz.",
+        "BRG-0013": "Yer değiştirebilen merkez mimarisi farklı gözlem yollarındaki yaratım ve koordinasyon modelleriyle yankılanır."
       }
     }
   }
