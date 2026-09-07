@@ -1,7 +1,19 @@
 {
-  "version": 4,
+  "version": 6,
   "language": "tr",
+  "locale": "tr_TR",
+  "label": "Türkçe",
   "storage": "github-pages-local",
   "voice": "tr_TR-dfki-medium",
-  "chapters": []
+  "chapters": [
+    {
+      "id": "HUM-0001",
+      "title": "Tapetum Sentinel: Gecede Açılan Göz",
+      "file": "./HUM-0001.mp3",
+      "duration_seconds": 935.158,
+      "bytes": 11222249,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    }
+  ]
 }

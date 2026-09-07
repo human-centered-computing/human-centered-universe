@@ -1,5 +1,19 @@
 {
-  "version": 5,
+  "version": 6,
   "language": "en",
-  "chapters": []
+  "locale": "en_US",
+  "label": "English",
+  "storage": "github-pages-local",
+  "voice": "en_US-lessac-medium",
+  "chapters": [
+    {
+      "id": "HUM-0001",
+      "title": "Tapetum Sentinel: The Eye That Opened in the Night",
+      "file": "./HUM-0001.mp3",
+      "duration_seconds": 844.095,
+      "bytes": 10129494,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    }
+  ]
 }
