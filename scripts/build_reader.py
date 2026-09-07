@@ -55,33 +55,85 @@ def migrate_legacy_terms(value, lang=None):
         out = out.replace("Ana canon", "Ana anlatı").replace("canon'u", "ana anlatıyı").replace("canon", "ana anlatı")
     return out
 
+def read_story_record(meta_path: Path):
+    meta = json.loads(meta_path.read_text(encoding="utf-8"))
+    analysis_path = meta_path.parent / "analysis.json"
+    analysis = json.loads(analysis_path.read_text(encoding="utf-8")) if analysis_path.exists() else {}
+    mapped = map_nodes.get(meta.get("id"), {})
+    content_dir = meta_path.parent / "content"
+    content_languages = sorted(p.stem for p in content_dir.glob("*.md")) if content_dir.exists() else []
+    return {
+        "meta_path": meta_path,
+        "meta": meta,
+        "analysis": analysis,
+        "mapped": mapped,
+        "content_languages": content_languages,
+    }
+
+records = [read_story_record(p) for p in STORIES.rglob("meta.json")]
+
+# Registry contains every committed story ID, including experimental/fork nodes.
+# The authoring tool uses it to avoid duplicate IDs and to validate links.
+registry_stories = []
+for rec in records:
+    meta, analysis, mapped = rec["meta"], rec["analysis"], rec["mapped"]
+    registry_stories.append({
+        "id": meta.get("id"),
+        "title": meta.get("title", meta.get("id")),
+        "status": meta.get("status"),
+        "primary_center": analysis.get("primary_center", mapped.get("primary_center", meta.get("primary_center"))),
+        "center_weights": analysis.get("center_weights", mapped.get("center_weights", meta.get("center_weights"))),
+        "content_languages": rec["content_languages"],
+        "path": rec["meta_path"].parent.relative_to(ROOT).as_posix(),
+    })
+
+registry_stories = sorted(
+    [x for x in registry_stories if x.get("id")],
+    key=lambda x: x["id"]
+)
+registry_payload = {
+    "project": "Human-Centered Universe",
+    "generated_at": datetime.now(timezone.utc).isoformat(),
+    "all_story_ids": [x["id"] for x in registry_stories],
+    "stories": registry_stories,
+}
+(SITE / "data" / "story-registry.json").write_text(
+    json.dumps(registry_payload, ensure_ascii=False, indent=2),
+    encoding="utf-8"
+)
+
 stories = []
 languages = set(locales)
-for meta_path in STORIES.rglob("meta.json"):
-    meta = json.loads(meta_path.read_text(encoding="utf-8"))
+
+for rec in records:
+    meta, analysis, mapped = rec["meta"], rec["analysis"], rec["mapped"]
     if meta.get("status") not in {"canon", "core"}:
         continue
 
-    content_dir = meta_path.parent / "content"
+    content_dir = rec["meta_path"].parent / "content"
     content = {}
     if content_dir.exists():
         for content_file in content_dir.glob("*.md"):
-            content[content_file.stem] = migrate_legacy_terms(content_file.read_text(encoding="utf-8"), content_file.stem)
+            content[content_file.stem] = migrate_legacy_terms(
+                content_file.read_text(encoding="utf-8"),
+                content_file.stem
+            )
             languages.add(content_file.stem)
 
-    analysis_path = meta_path.parent / "analysis.json"
-    analysis = {}
-    if analysis_path.exists():
-        analysis = json.loads(analysis_path.read_text(encoding="utf-8"))
-
-    mapped = map_nodes.get(meta["id"], {})
     entry = migrate_legacy_terms(dict(meta))
     entry["content"] = content
     entry["observation_order"] = mapped.get(
-        "observation_order", meta.get("observation_order", meta.get("book_order", 9999))
+        "observation_order",
+        meta.get("observation_order", meta.get("book_order", 9999))
     )
-    entry["primary_center"] = analysis.get("primary_center", mapped.get("primary_center", meta.get("primary_center")))
-    entry["center_weights"] = analysis.get("center_weights", mapped.get("center_weights", meta.get("center_weights")))
+    entry["primary_center"] = analysis.get(
+        "primary_center",
+        mapped.get("primary_center", meta.get("primary_center"))
+    )
+    entry["center_weights"] = analysis.get(
+        "center_weights",
+        mapped.get("center_weights", meta.get("center_weights"))
+    )
     entry["observer_choices"] = meta.get("observer_choices") or analysis.get("observer_choices") or []
     if analysis:
         entry["classification"] = analysis.get("classification", meta.get("classification"))
@@ -108,7 +160,8 @@ payload = {
 }
 
 (SITE / "data" / "universe.json").write_text(
-    json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
+    json.dumps(payload, ensure_ascii=False, indent=2),
+    encoding="utf-8"
 )
 
 def short_hash(path: Path) -> str:
@@ -126,6 +179,7 @@ index_html = index_html.replace('./assets/styles.css"', f'./assets/styles.css?v=
 index_path.write_text(index_html, encoding="utf-8")
 
 print(f"Interactive reader built: {len(stories)} live story nodes.")
+print(f"Story registry built: {len(registry_stories)} total committed story IDs.")
 print(f"Origin node: {payload['origin_node']}")
 print(f"Centers: {', '.join(payload['centers'])}")
 print(f"Asset versions: app={app_hash}, css={css_hash}")

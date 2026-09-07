@@ -11,7 +11,7 @@ import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CANON = ROOT / "universe" / "canon-map.v0.2.json"
+MAP_PATH = ROOT / "universe" / "universe-map.json"
 STORIES = ROOT / "stories"
 VOICE_CONFIG = ROOT / "config" / "tts-voices.json"
 CACHE = ROOT / ".cache" / "piper"
@@ -34,7 +34,28 @@ def load_json(path: Path):
 
 
 def canon():
-    return load_json(CANON)["chapters"]
+    """Return every live story from committed story metadata.
+
+    Story folders are the source of truth. universe-map.json is used only as
+    an optional observation-order overlay.
+    """
+    universe_map = load_json(MAP_PATH) if MAP_PATH.exists() else {}
+    mapped = {n.get("id"): n for n in universe_map.get("nodes", [])}
+
+    stories = []
+    for meta_path in STORIES.rglob("meta.json"):
+        story = load_json(meta_path)
+        if story.get("status") not in {"canon", "core"}:
+            continue
+        map_node = mapped.get(story.get("id"), {})
+        story["_observation_order"] = map_node.get(
+            "observation_order",
+            story.get("observation_order", story.get("book_order", 9999))
+        )
+        stories.append(story)
+
+    stories.sort(key=lambda x: (x.get("_observation_order", 9999), x.get("id", "")))
+    return stories
 
 
 def voices():
@@ -270,7 +291,7 @@ def write_manifest(lang: str, story_list: list[dict], voice: dict):
         })
 
     manifest = {
-        "version": 5,
+        "version": 6,
         "language": lang,
         "locale": voice["locale"],
         "label": voice.get("label", lang),
