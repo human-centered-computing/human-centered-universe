@@ -84,6 +84,9 @@ def clean_markdown(md: str) -> str:
     md = re.sub(r"^\s*>\s?", "", md, flags=re.M)
     md = re.sub(r"^\s*[-*+]\s+", "", md, flags=re.M)
     md = re.sub(r"^\s*\d+\.\s+", "", md, flags=re.M)
+    # Remove Markdown horizontal rules such as ---, ***, ___.
+    # These are not speakable text and can make Piper emit an invalid WAV.
+    md = re.sub(r"^\s{0,3}(?:-{3,}|\*{3,}|_{3,})\s*$", "", md, flags=re.M)
     md = md.replace("**", "").replace("__", "").replace("`", "")
     md = re.sub(r"(?<!\*)\*(?!\*)", "", md)
     md = re.sub(r"[ \t]+", " ", md)
@@ -139,7 +142,11 @@ def split_long(text: str, max_chars: int = MAX_CHARS) -> list[str]:
 
 def chunks(md: str) -> list[str]:
     text = clean_markdown(md)
-    blocks = [b.strip() for b in re.split(r"\n\s*\n", text) if b.strip()]
+    blocks = [
+        b.strip()
+        for b in re.split(r"\n\s*\n", text)
+        if b.strip() and re.search(r"\w", b, flags=re.UNICODE)
+    ]
     out = []
     for b in blocks:
         out.extend(split_long(b))
