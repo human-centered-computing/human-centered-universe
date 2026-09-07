@@ -8,14 +8,16 @@
   "book_order": 17,
   "culture": [
     "global governance",
-    "local contextual adaptation"
+    "local contextual adaptation",
+    "human-centered systems"
   ],
   "belief_context": [
     "human-centered ethics",
     "plurality",
-    "accountability"
+    "accountability",
+    "consent and contestability"
   ],
-  "summary": "Eight Golden Rules protect dignity, contestability, accountability, revocable consent, repair, plurality, and the right not to be fully known, while Variable Rules adapt implementation to local contexts.",
+  "summary": "Eight boundary principles protect humans from being reduced to data, productivity, opaque decisions, unaccountable authority, meaningless consent, total visibility, unrepaired harm, or a single ideal human model. Their implementation can vary by context, but the protected relationships must remain defensible.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -24,31 +26,64 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/COM-0005/insan-hammadde-degildir.png",
+    "alt": {
+      "en": "A textless human-free cinematic world where ecological landscapes, schools, hospitals, cities, industry, justice, privacy and technology orbit a luminous central living world, symbolizing principles that constrain systems without becoming a single sovereign center.",
+      "tr": "Yazısız ve insansız sinematik sahnede ekolojik alanlar, okul, hastane, şehir, sanayi, adalet, mahremiyet ve teknoloji simgeleri yaşayan aydınlık bir dünyanın çevresinde yer alır; ilkelerin sistemi sınırladığını fakat tek egemen merkeze dönüşmediğini simgeler."
+    }
+  },
   "links": [
     {
-      "target": "BRG-0011",
-      "type": "cause",
-      "note": "The Rih Bridge is designed under these constraints."
-    },
-    {
-      "target": "BRG-0013",
-      "type": "future",
-      "note": "The Second Creation inherits accountability and relational limits."
+      "target": "COM-0004",
+      "type": "quantum_echo",
+      "note": "Distributed authority and movable centers resonate with the need for shared protections that local variation cannot erase."
     },
     {
       "target": "COM-0001",
-      "type": "memory",
-      "note": "The rules formalize values first discovered in the Common Center."
+      "type": "echo",
+      "note": "The Human Center as a relational decision method resonates with these boundary principles without requiring chronological succession."
+    },
+    {
+      "target": "BRG-0011",
+      "type": "echo",
+      "note": "Accountability, contestability and protected boundaries resonate with other high-stakes human-system structures without defining a later stage."
+    },
+    {
+      "target": "BRG-0013",
+      "type": "echo",
+      "note": "Human dignity, plural values and relational limits resonate with other creation and coordination models across observer paths."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "◆",
+      "key": "non_negotiable_boundary",
+      "type": "textarea",
+      "world_seed": true,
+      "label": {
+        "en": "What Must Not Change",
+        "tr": "Değişmemesi Gereken"
+      },
+      "prompt": {
+        "en": "Identify which human-centered boundary a system must not cross even when efficiency would improve.",
+        "tr": "Verimlilik artsa bile bir sistemin aşmaması gereken İnsan Merkezli sınırı belirleyin."
+      },
+      "placeholder": {
+        "en": "What must remain protected: dignity, consent, contestability, privacy, accountability, repair, plurality?",
+        "tr": "Ne korunmalı: onur, rıza, itiraz, mahremiyet, hesap verebilirlik, onarım, çoğulluk?"
+      }
     }
   ],
   "localized": {
     "tr": {
       "title": "İnsan Hiçbir Sistemin Hammaddesi Değildir",
-      "summary": "Sekiz Altın Kural; insan onurunu, itiraz edilebilirliği, hesap verebilirliği, geri çekilebilir rızayı, onarımı, çoğulluğu ve bütünüyle bilinmeme hakkını korur. Değişken Kurallar uygulamanın yerel koşullara uyarlanmasını sağlar.",
+      "summary": "Sekiz sınır ilkesi insanın veriye, verimlilik puanına, açıklanamaz kararlara, hesap vermeyen yetkiye, anlamsız rızaya, tam görünürlüğe, onarılmayan zarara veya tek bir ideal insan modeline indirgenmesini engellemeye çalışır. Uygulama bağlama göre değişebilir; fakat korunan ilişkiler savunulabilir kalmalıdır.",
       "link_notes": {
-        "BRG-0011": "Rih Köprüsü bu sınırlar altında tasarlanır.",
-        "BRG-0013": "İkinci Yaratılış hesap verebilirliği ve ilişkisel sınırları devralır.",
-        "COM-0001": "Kurallar, Ortak Merkez'de ilk kez keşfedilen değerleri resmileştirir."
+        "COM-0004": "Dağıtık yetki ve yer değiştirebilen merkezler, yerel farklılığın silemeyeceği ortak korumalar ihtiyacıyla kuantumsal olarak yankılanır.",
+        "COM-0001": "İnsan Merkezi'nin ilişkisel karar yöntemi, kronolojik bir sıra gerektirmeden bu sınır ilkeleriyle yankılanır.",
+        "BRG-0011": "Hesap verebilirlik, itiraz edilebilirlik ve korunan sınırlar başka yüksek riskli insan-sistem yapılarıyla yankılanır; sonraki aşama tanımlamaz.",
+        "BRG-0013": "İnsan onuru, çoğul değerler ve ilişkisel sınırlar farklı gözlem yollarındaki yaratım ve koordinasyon modelleriyle yankılanır."
       }
     }
   }

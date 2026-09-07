@@ -3,13 +3,13 @@
   "primary_center": "HUMAN",
   "center_weights": {
     "HUMAN": 75,
-    "LIGHT": 20,
-    "DARK": 5
+    "LIGHT": 15,
+    "DARK": 10
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated rewrite aligned with HCU Quantum Time and the current three-center relational architecture",
+    "status": "reviewed-rewrite",
+    "note": "Human dominates because the story centers dignity, agency, consent, contestability, accountability, privacy, repair and plurality. Light contributes safety, consistency, measurement and institutional protection. Dark contributes local adaptation, plurality and the refusal to freeze rules into permanent form."
   },
   "coverage_audit": {
     "coverage_complete": true,
