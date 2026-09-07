@@ -2,14 +2,14 @@
   "schema": "hcu-story-analysis",
   "primary_center": "HUMAN",
   "center_weights": {
-    "HUMAN": 50,
-    "LIGHT": 10,
-    "DARK": 40
+    "HUMAN": 55,
+    "LIGHT": 20,
+    "DARK": 25
   },
   "classification": {
-    "method": "curated migration from existing title, summary, narrative role and three-center architecture",
-    "status": "reviewed-migration",
-    "note": "This migration establishes the triangular position of an existing story. It is not represented as a completed 30-criterion AI analysis."
+    "method": "curated rewrite aligned with the current HCU Observer Model, Quantum Time, open creation architecture and human-centered privacy boundaries",
+    "status": "reviewed-rewrite",
+    "note": "Human dominates through observer agency, dignity, privacy, non-coercive recommendation and contestability. Light contributes legibility, recommendation structure, verification and explicit system explanations. Dark contributes exploration, alternative paths, branching, uncertainty and creation."
   },
   "coverage_audit": {
     "coverage_complete": true,

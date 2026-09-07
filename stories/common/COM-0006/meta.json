@@ -1,22 +1,23 @@
 {
   "id": "COM-0006",
-  "title": "Creation Is Unfinished: First Reader Connected",
-  "original_title": "Yaratılış Tamamlanmadı: Birinci Okur Bağlandı",
+  "title": "The Universe Changes the Moment You Connect",
+  "original_title": "Bağlandığın Anda Evren Değişir",
   "core": "COMMON",
   "status": "canon",
   "source_language": "en",
   "book_order": 21,
   "culture": [
-    "global open network",
-    "Riha and Berlin",
-    "multilingual participation"
+    "global digital readership",
+    "multilingual open participation",
+    "observer-centered exploration"
   ],
   "belief_context": [
-    "plural interpretation",
-    "science and science-fiction boundary",
+    "human-centered observation",
+    "plurality",
+    "relational narrative time",
     "open creation"
   ],
-  "summary": "The epilogue turns the reader into a participant: the network remains distributed, the book distinguishes science from speculation, and Read / Explore / Create opens the canon to World Seeds, translations, contributions, and forks.",
+  "summary": "The reader connects to HCU as an Observer rather than a passive consumer. Choices form an Observer State without measuring human worth, recommendations remain optional, Quantum Time is relational rather than chronological, and reading can expand into exploration, contestation and contribution.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -25,31 +26,70 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/COM-0006/baglandigin-anda-evren-degisir.png",
+    "alt": {
+      "en": "A cinematic observer facing a vast interconnected field of story worlds and glowing paths, representing entry into Human-Centered Universe as an active observer whose choices shape a personal narrative path.",
+      "tr": "Geniş ve bağlantılı hikâye dünyaları ile ışıklı yolların karşısında duran bir gözlemci, Human-Centered Universe'e aktif katılımı ve seçimlerle oluşan kişisel anlatı yolunu simgeler."
+    }
+  },
   "links": [
     {
       "target": "BRG-0002",
       "type": "quantum_echo",
-      "note": "The unfinished ending returns the reader to the first vibration as a new possibility."
+      "note": "First Vibration remains the shared origin observation point, while each observer creates a distinct path from that shared entry."
     },
     {
-      "target": "COM-0004",
-      "type": "future",
-      "note": "Readers become contributors through the Open Architects model."
+      "target": "BRG-0012",
+      "type": "echo",
+      "note": "The architecture of HCU as an open thought laboratory becomes a lived reader experience through Observer State, paths and contribution."
     },
     {
       "target": "BRG-0013",
-      "type": "memory",
-      "note": "The Second Creation becomes the immediate memory of the open universe."
+      "type": "echo",
+      "note": "The reader is reminded that narrative canon and observer choices do not validate real-world deployment; story remains a thought space."
+    },
+    {
+      "target": "COM-0005",
+      "type": "quantum_echo",
+      "note": "Observer State is constrained by the principle that human worth cannot be reduced to a score and that unnecessary personal data need not be collected."
+    },
+    {
+      "target": "COM-0004",
+      "type": "echo",
+      "note": "The reader may eventually become a contributor inside a distributed open network without becoming the permanent center of the universe."
+    }
+  ],
+  "interactions": [
+    {
+      "threshold": "◎",
+      "key": "first_observation",
+      "type": "textarea",
+      "world_seed": true,
+      "label": {
+        "en": "Your First Observation",
+        "tr": "İlk Gözlemin"
+      },
+      "prompt": {
+        "en": "What are you looking for inside Human-Centered Universe, and what do HUMAN, LIGHT and DARK each ask about that search?",
+        "tr": "Human-Centered Universe içinde ne arıyorsunuz ve bu arayış hakkında HUMAN, LIGHT ve DARK size hangi soruları soruyor?"
+      },
+      "placeholder": {
+        "en": "A question, a system problem, a future possibility, an objection, or simple curiosity...",
+        "tr": "Bir soru, sistem problemi, gelecek ihtimali, itiraz veya yalnızca merak..."
+      }
     }
   ],
   "localized": {
     "tr": {
-      "title": "Yaratılış Tamamlanmadı: Birinci Okur Bağlandı",
-      "summary": "Epilog okuru katılımcıya dönüştürür: ağ dağıtık kalır, kitap bilim ile spekülasyonu ayırır ve Oku / Keşfet / Oluştur yapısı canon'u Dünya Tohumlarına, çevirilere, katkılara ve fork'lara açar.",
+      "title": "Bağlandığın Anda Evren Değişir",
+      "summary": "Okuyucu HCU'ya pasif tüketici olarak değil, Gözlemci olarak bağlanır. Seçimler insan değerini ölçmeden Observer State oluşturur; öneriler zorunlu değildir; Kuantum Zaman kronolojik değil ilişkiseldir ve okuma keşfe, itiraza ve katkıya dönüşebilir.",
       "link_notes": {
-        "BRG-0002": "Tamamlanmamış son, okuru yeni bir ihtimal olarak İlk Titreşim'e geri götürür.",
-        "COM-0004": "Okurlar Açık Ağın Mimarları modeli üzerinden katkıcıya dönüşür.",
-        "BRG-0013": "İkinci Yaratılış açık evrenin hemen önceki hafızasına dönüşür."
+        "BRG-0002": "İlk Titreşim ortak köken gözlem noktası olarak kalır; her gözlemci aynı girişten farklı bir yol oluşturabilir.",
+        "BRG-0012": "HCU'nun açık düşünce laboratuvarı mimarisi, Observer State, yollar ve katkı üzerinden doğrudan okuyucu deneyimine dönüşür.",
+        "BRG-0013": "Okuyucuya canon ve gözlemci seçimlerinin gerçek dünya uygulamasını doğrulamadığı hatırlatılır; hikâye düşünce alanı olarak kalır.",
+        "COM-0005": "Observer State insan değerini puana indirgeyemez ve sistem gereksiz kişisel veriyi toplamak zorunda değildir.",
+        "COM-0004": "Okuyucu zamanla dağıtık açık ağ içinde katkıcı olabilir; fakat evrenin kalıcı merkezi hâline gelmez."
       }
     }
   }
