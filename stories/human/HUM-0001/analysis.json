@@ -1,0 +1,63 @@
+{
+  "schema": "hcu-story-analysis",
+  "generation_mode": "idea-maturation-three-center",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 35,
+    "LIGHT": 34,
+    "DARK": 31
+  },
+  "center_raw_scores": {
+    "HUMAN": 89,
+    "LIGHT": 87,
+    "DARK": 79
+  },
+  "classification": {
+    "method": "30-criterion HCU narrative analysis after three-center idea maturation",
+    "status": "ai-generated-draft",
+    "confidence": 0.91,
+    "note": "HUMAN is slightly dominant because the mature form of Tapetum Sentinel explicitly preserves human judgment, explainability, uncertainty disclosure, and human-machine partnership. LIGHT is nearly equal through verification, quality control, evidence, and safety. DARK remains strong through uncertainty, adaptive perception, alternative interpretations, and exploration of what may have been missed."
+  },
+  "analysis": {
+    "HUMAN": {
+      "dignity_personhood": 9,
+      "agency_choice": 10,
+      "consent_boundaries": 8,
+      "relationship_care": 8,
+      "justice_fairness": 8,
+      "responsibility_repair": 10,
+      "identity_belonging_culture": 8,
+      "emotion_experience": 8,
+      "meaning_memory_mortality": 10,
+      "wellbeing_vulnerability": 10
+    },
+    "LIGHT": {
+      "order_structure": 9,
+      "knowledge_evidence": 9,
+      "visibility_explainability": 10,
+      "measurement_standardization": 8,
+      "safety_protection": 10,
+      "predictability_planning": 8,
+      "rules_institutions": 8,
+      "coordination_efficiency": 8,
+      "continuity_preservation": 7,
+      "verification_auditability": 10
+    },
+    "DARK": {
+      "uncertainty_unknown": 10,
+      "freedom_alternative": 7,
+      "creativity_invention": 9,
+      "exploration_experiment": 9,
+      "dissent_resistance": 7,
+      "rupture_disruption": 6,
+      "transformation_change": 9,
+      "risk_volatility": 9,
+      "plurality_forking": 6,
+      "emergence_surprise": 7
+    }
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}

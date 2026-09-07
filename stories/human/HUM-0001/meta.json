@@ -1,0 +1,116 @@
+{
+  "id": "HUM-0001",
+  "title": "Tapetum Sentinel: The Eye That Opened in the Night",
+  "original_title": "Tapetum Sentinel: Gecede Açılan Göz",
+  "status": "canon",
+  "source_language": "en",
+  "culture": [
+    "human-centered artificial intelligence",
+    "disaster response",
+    "computer vision",
+    "Industry 5.0"
+  ],
+  "belief_context": [
+    "human-centered transformation",
+    "technology and responsibility",
+    "uncertainty and evidence",
+    "human-machine partnership"
+  ],
+  "summary": "Tapetum Sentinel begins as an attempt to improve dark imagery and matures through the Light, Dark and Human Centers into an adaptive visual perception platform that checks its own enhancement, exposes uncertainty, explains detections and supports rather than replaces human judgment.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "machine_draft"
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/HUM-0001/tapetum-sentinel-gecede-acilan-goz.png",
+    "alt": {
+      "en": "A human operator uses an AI-assisted visual analysis system while a drone searches a dark disaster zone, comparing raw and enhanced imagery and highlighting uncertain detections.",
+      "tr": "Bir insan operatör, karanlık afet alanını tarayan drone görüntülerinde ham ve iyileştirilmiş görüntüleri karşılaştıran ve belirsiz tespitleri işaretleyen yapay zekâ destekli görsel analiz sistemiyle çalışıyor."
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0013",
+      "type": "transformation",
+      "note": "Tapetum Sentinel echoes the Reality Bridge by separating fictional possibility from evidence, testing enhancement before acceptance, and keeping real-world deployment contestable and reviewable."
+    },
+    {
+      "target": "BRG-0017",
+      "type": "theme",
+      "note": "The project extends the Informatics 5.0 theme by placing human meaning, explainability and contribution above automation for its own sake."
+    },
+    {
+      "target": "LGT-0001",
+      "type": "echo",
+      "note": "Verification, visibility, safety and protection resonate with the Light Center without making optimization absolute."
+    },
+    {
+      "target": "DRK-0001",
+      "type": "echo",
+      "note": "Uncertainty, missed possibilities and adaptive interpretation resonate with the Dark Center without treating darkness as evil."
+    }
+  ],
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 35,
+    "LIGHT": 34,
+    "DARK": 31
+  },
+  "observer_choices": [
+    {
+      "key": "keep_human_judgment",
+      "label": "Keep critical judgment with the human operator.",
+      "labels": {
+        "en": "Keep critical judgment with the human operator.",
+        "tr": "Kritik değerlendirmeyi insan operatörde tut."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 4,
+        "DARK": 3
+      }
+    },
+    {
+      "key": "demand_verification",
+      "label": "Require raw-versus-enhanced verification before accepting a detection.",
+      "labels": {
+        "en": "Require raw-versus-enhanced verification before accepting a detection.",
+        "tr": "Bir tespiti kabul etmeden önce ham ve iyileştirilmiş görüntünün doğrulanmasını iste."
+      },
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 10,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "investigate_uncertainty",
+      "label": "Investigate the uncertain signal instead of discarding it.",
+      "labels": {
+        "en": "Investigate the uncertain signal instead of discarding it.",
+        "tr": "Belirsiz sinyali elemek yerine araştır."
+      },
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 3,
+        "DARK": 10
+      }
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Tapetum Sentinel: Gecede Açılan Göz",
+      "summary": "Tapetum Sentinel, karanlık görüntüleri iyileştirme fikri olarak başlar; Aydınlık, Karanlık ve İnsan Merkezlerinden geçerek kendi iyileştirmesini denetleyen, belirsizliği görünür kılan, tespitlerini açıklayan ve insan kararının yerine geçmek yerine onu destekleyen adaptif bir görsel algı platformuna dönüşür.",
+      "link_notes": {
+        "BRG-0013": "Tapetum Sentinel, iyileştirmeyi kabul etmeden önce sınayarak ve gerçek dünyadaki kullanımı gözden geçirilebilir tutarak Gerçeklik Köprüsü ile yankılanır.",
+        "BRG-0017": "İnsan anlamını, açıklanabilirliği ve ortaklığı otomasyonun önüne koyarak Bilişim 5.0 temasını genişletir.",
+        "LGT-0001": "Doğrulama, görünürlük, güvenlik ve koruma Aydınlık Merkezi ile yankılanır.",
+        "DRK-0001": "Belirsizlik, kaçırılan ihtimaller ve adaptif yorum Karanlık Merkezi ile yankılanır."
+      }
+    }
+  }
+}
