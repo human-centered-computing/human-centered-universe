@@ -7,6 +7,15 @@
   "voice": "tr_TR-dfki-medium",
   "chapters": [
     {
+      "id": "BRG-0002",
+      "title": "İlk Titreşim: Arın ve Özüne Dön",
+      "file": "./BRG-0002.mp3",
+      "duration_seconds": 924.735,
+      "bytes": 11097174,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "BRG-0001",
       "title": "Taş Ağ: Taşların Cevap Verdiği Yer",
       "file": "./BRG-0001.mp3",
