@@ -7,6 +7,15 @@
   "voice": "en_US-lessac-medium",
   "chapters": [
     {
+      "id": "BRG-0001",
+      "title": "The Stone Network: Where the Stones Answer",
+      "file": "./BRG-0001.mp3",
+      "duration_seconds": 600.059,
+      "bytes": 7201063,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
