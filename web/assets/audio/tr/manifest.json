@@ -170,10 +170,10 @@
     },
     {
       "id": "BRG-0016",
-      "title": "Siyaset 5.0: Berlin'den Tarihin Sıfır Noktasına",
+      "title": "İnsan Merkezli Siyaset: Berlin'den Tarihin Sıfır Noktasına",
       "file": "./BRG-0016.mp3",
-      "duration_seconds": 982.439,
-      "bytes": 11789628,
+      "duration_seconds": 1299.461,
+      "bytes": 15593893,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
     },
@@ -210,6 +210,15 @@
       "file": "./HUM-0002.mp3",
       "duration_seconds": 1066.057,
       "bytes": 12793044,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
+      "id": "HUM-0003",
+      "title": "İnsan Merkezli Dönüşüm Şehri: Bitmeyen Şehir",
+      "file": "./HUM-0003.mp3",
+      "duration_seconds": 2012.395,
+      "bytes": 24149099,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
     }
