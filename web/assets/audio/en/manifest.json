@@ -70,6 +70,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0009",
+      "title": "Infinity Cannot Be Lived",
+      "file": "./BRG-0009.mp3",
+      "duration_seconds": 1074.625,
+      "bytes": 12895862,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
