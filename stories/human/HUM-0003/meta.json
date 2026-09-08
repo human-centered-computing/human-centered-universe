@@ -1,0 +1,206 @@
+{
+  "id": "HUM-0003",
+  "title": "Human-Centered Transformation City: The City That Never Ends",
+  "original_title": "İnsan Merkezli Dönüşüm Şehri: Bitmeyen Şehir",
+  "status": "canon",
+  "source_language": "en",
+  "culture": [
+    "Siverek",
+    "urban transformation",
+    "human-centered design",
+    "living laboratory",
+    "sustainable city"
+  ],
+  "belief_context": [
+    "human-centered transformation",
+    "learning city",
+    "resilience",
+    "responsible technology",
+    "intergenerational responsibility"
+  ],
+  "summary": "In Siverek, a proposal for a modern city matures through the Light, Dark and Human Centers into a living transformation methodology: measure what matters, test before scaling, connect energy-water-food-health-education systems, learn openly from failure, preserve human authority over technology, and adapt the method rather than copying the city.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "machine_draft"
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/HUM-0003/insan-merkezli-donusum-sehri-gorsel-hikaye.webp",
+    "alt": {
+      "en": "Animated visual journey through the Human-Centered Transformation City, showing the integrated city, boulevard, housing, living laboratory and agriculture.",
+      "tr": "İnsan Merkezli Dönüşüm Şehri'nin bütünleşik şehir, bulvar, konut, yaşayan laboratuvar ve tarım sahnelerinden oluşan hareketli görsel anlatısı."
+    },
+    "caption": {
+      "en": "A visual journey from master plan to lived city: housing, public life, agriculture, research and infrastructure operate as one system.",
+      "tr": "Ana plandan yaşayan şehre görsel yolculuk: konut, kamusal yaşam, tarım, araştırma ve altyapı tek sistem olarak işler."
+    }
+  },
+  "story_gallery": [
+    {
+      "key": "city_overview",
+      "src": "./assets/images/stories/HUM-0003/01-sehir-genel.jpg",
+      "alt": {
+        "en": "Aerial view of the Human-Centered Transformation City integrating housing, commerce, green areas, agriculture and public facilities.",
+        "tr": "Konut, ticaret, yeşil alan, tarım ve kamusal yapıları bütünleştiren İnsan Merkezli Dönüşüm Şehri'nin havadan görünümü."
+      },
+      "caption": {
+        "en": "The city is conceived as one connected living system rather than a collection of isolated projects.",
+        "tr": "Şehir, birbirinden kopuk projelerin toplamı değil, birbirine bağlı tek bir yaşayan sistem olarak kurgulanır."
+      }
+    },
+    {
+      "key": "human_boulevard",
+      "src": "./assets/images/stories/HUM-0003/02-insan-merkezli-bulvar.jpg",
+      "alt": {
+        "en": "A walkable mixed-use boulevard with people, bicycles, shops, parks and solar-roofed buildings.",
+        "tr": "İnsanlar, bisikletler, dükkânlar, parklar ve güneş panelli yapılarla yaya odaklı karma kullanımlı bulvar."
+      },
+      "caption": {
+        "en": "The main boulevard becomes a daily-life spine, not merely a traffic corridor.",
+        "tr": "Ana bulvar yalnız bir trafik koridoru değil, günlük yaşamın omurgası haline gelir."
+      }
+    },
+    {
+      "key": "living_lab",
+      "src": "./assets/images/stories/HUM-0003/03-yasayan-laboratuvar-tarim.jpg",
+      "alt": {
+        "en": "Students, researchers and local farmers collaborate in a living laboratory with smart irrigation, greenhouses and agricultural research.",
+        "tr": "Öğrenciler, araştırmacılar ve yerel çiftçilerin akıllı sulama, seralar ve tarımsal araştırma alanında birlikte çalıştığı yaşayan laboratuvar."
+      },
+      "caption": {
+        "en": "Research moves from the classroom into real fields, where success and failure can both be measured.",
+        "tr": "Araştırma sınıftan gerçek tarlaya taşınır; başarı da başarısızlık da ölçülebilir hale gelir."
+      }
+    },
+    {
+      "key": "integrated_systems",
+      "src": "./assets/images/stories/HUM-0003/04-entegre-sehir-sistemleri.jpg",
+      "alt": {
+        "en": "Integrated city systems showing health, housing, parks, renewable energy, water and agriculture within one urban landscape.",
+        "tr": "Sağlık, konut, park, yenilenebilir enerji, su ve tarımın tek kentsel peyzajda bütünleştiği şehir sistemi."
+      },
+      "caption": {
+        "en": "Energy, water, food, health and education are treated as interacting cycles.",
+        "tr": "Enerji, su, gıda, sağlık ve eğitim birbirini etkileyen döngüler olarak ele alınır."
+      }
+    },
+    {
+      "key": "daily_life",
+      "src": "./assets/images/stories/HUM-0003/05-yaya-odakli-yasam.jpg",
+      "alt": {
+        "en": "Families, children, elderly people, cyclists and students share shaded streets and public spaces.",
+        "tr": "Ailelerin, çocukların, yaşlıların, bisikletlilerin ve öğrencilerin gölgeli sokakları ve kamusal alanları birlikte kullandığı yaşam sahnesi."
+      },
+      "caption": {
+        "en": "Human-centered planning is tested in everyday life, especially through the experience of the most vulnerable residents.",
+        "tr": "İnsan merkezli planlama, özellikle en kırılgan sakinlerin günlük yaşam deneyimi üzerinden sınanır."
+      }
+    },
+    {
+      "key": "housing",
+      "src": "./assets/images/stories/HUM-0003/06-konut-ve-villa-bolgesi.jpg",
+      "alt": {
+        "en": "Three-story human-scale residential villas with solar roofs, gardens and neighborhood green space.",
+        "tr": "Güneş panelli çatılar, bahçeler ve mahalle yeşil alanlarıyla üç katlı insan ölçekli konutlar."
+      },
+      "caption": {
+        "en": "Housing connects to parks, commerce, health, education and walking routes instead of becoming an isolated enclave.",
+        "tr": "Konutlar kapalı adalara dönüşmek yerine park, ticaret, sağlık, eğitim ve yaya yollarıyla bağlanır."
+      }
+    }
+  ],
+  "planning_references": [
+    {
+      "src": "./assets/images/stories/HUM-0003/planning-reference-master.jpg",
+      "note": "User-provided broad planning/urban reference used to guide the visual world."
+    },
+    {
+      "src": "./assets/images/stories/HUM-0003/planning-reference-district.jpg",
+      "note": "User-provided district plan reference used to guide the boulevard, mixed-use blocks, villas and green areas."
+    }
+  ],
+  "links": [
+    {
+      "target": "BRG-0017",
+      "type": "transformation",
+      "note": "The city extends the Informatics 5.0 theme into an integrated urban model where technology serves human and ecological goals rather than becoming the goal itself."
+    },
+    {
+      "target": "BRG-0013",
+      "type": "theme",
+      "note": "The living-laboratory method echoes the Reality Bridge: ideas move toward real-world use only after evidence, field testing, human impact review and transparent failure reporting."
+    },
+    {
+      "target": "HUM-0001",
+      "type": "parallel",
+      "note": "Like Tapetum Sentinel, the city's AI and sensing systems support human perception and decision-making while critical choices remain human."
+    },
+    {
+      "target": "COM-0005",
+      "type": "theme",
+      "note": "The city rejects treating residents as raw material for economic, technological or data systems."
+    }
+  ],
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 40,
+    "LIGHT": 34,
+    "DARK": 26
+  },
+  "observer_choices": [
+    {
+      "key": "begin_with_daily_life",
+      "label": "Begin transformation by mapping real human needs and daily life.",
+      "labels": {
+        "en": "Begin transformation by mapping real human needs and daily life.",
+        "tr": "Dönüşüme gerçek insan ihtiyaçlarını ve günlük yaşamı haritalayarak başla."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 4,
+        "DARK": 3
+      }
+    },
+    {
+      "key": "measure_before_scaling",
+      "label": "Define measurable outcomes and verify a pilot before scaling.",
+      "labels": {
+        "en": "Define measurable outcomes and verify a pilot before scaling.",
+        "tr": "Ölçülebilir sonuçlar belirle ve yaygınlaştırmadan önce pilot uygulamayı doğrula."
+      },
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 10,
+        "DARK": 3
+      }
+    },
+    {
+      "key": "prototype_and_learn",
+      "label": "Test alternatives, expose failure and redesign before declaring success.",
+      "labels": {
+        "en": "Test alternatives, expose failure and redesign before declaring success.",
+        "tr": "Alternatifleri dene, başarısızlığı görünür kıl ve başarı ilan etmeden önce yeniden tasarla."
+      },
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 3,
+        "DARK": 10
+      }
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "İnsan Merkezli Dönüşüm Şehri: Bitmeyen Şehir",
+      "summary": "Siverek'te modern şehir kurma fikri; Aydınlık, Karanlık ve İnsan Merkezlerinden geçerek yaşayan bir dönüşüm metodolojisine dönüşür: insanla başla, ölç, küçük dene, başarısızlıktan öğren, enerji-su-gıda-sağlık-eğitim sistemlerini birbirine bağla, yapay zekâyı karar desteği olarak kullan ve başka yerlere binaları değil yöntemi taşı.",
+      "link_notes": {
+        "BRG-0017": "Şehir, Bilişim 5.0 yaklaşımını bütünleşik kent modeline taşır; teknoloji amaç değil insan ve doğa için araçtır.",
+        "BRG-0013": "Yaşayan laboratuvar yöntemi Gerçeklik Köprüsü ile bağlantılıdır: saha kanıtı, insan etkisi ve başarısızlık raporu olmadan ölçekleme yapılmaz.",
+        "HUM-0001": "Tapetum Sentinel gibi şehir yapay zekâsı da insanın yerine geçmez; algıyı ve kararı destekler.",
+        "COM-0005": "Kent sakinlerini ekonomik, teknolojik veya veri sistemlerinin hammaddesi haline getirmeme ilkesiyle bağlantı kurar."
+      }
+    }
+  }
+}

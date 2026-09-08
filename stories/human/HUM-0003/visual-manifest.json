@@ -1,0 +1,17 @@
+{
+  "story_id": "HUM-0003",
+  "hero": "insan-merkezli-donusum-sehri-gorsel-hikaye.webp",
+  "stills": [
+    "01-sehir-genel.jpg",
+    "02-insan-merkezli-bulvar.jpg",
+    "03-yasayan-laboratuvar-tarim.jpg",
+    "04-entegre-sehir-sistemleri.jpg",
+    "05-yaya-odakli-yasam.jpg",
+    "06-konut-ve-villa-bolgesi.jpg"
+  ],
+  "planning_references": [
+    "planning-reference-master.jpg",
+    "planning-reference-district.jpg"
+  ],
+  "note": "The hero is an animated WebP assembled from the six story illustrations. Current HCU reader displays it through the existing hero_image field. Individual stills and planning references are preserved for future gallery/chapter-image support."
+}

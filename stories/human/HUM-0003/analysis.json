@@ -1,0 +1,63 @@
+{
+  "schema": "hcu-story-analysis",
+  "generation_mode": "idea-maturation-three-center",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 40,
+    "LIGHT": 34,
+    "DARK": 26
+  },
+  "center_raw_scores": {
+    "HUMAN": 92,
+    "LIGHT": 78,
+    "DARK": 60
+  },
+  "classification": {
+    "method": "30-criterion HCU narrative analysis after three-center idea maturation",
+    "status": "ai-generated-draft",
+    "confidence": 0.95,
+    "note": "HUMAN leads because the city is ultimately evaluated through daily life, accessibility, dignity, participation, affordability and human authority over technology. LIGHT is strong through measurement, digital twins, infrastructure integration, verification and planning. DARK contributes through experimentation, uncertainty, local adaptation, failure analysis, redundancy and refusal to treat a single plan as permanent truth."
+  },
+  "analysis": {
+    "HUMAN": {
+      "dignity_personhood": 10,
+      "agency_choice": 10,
+      "consent_boundaries": 8,
+      "relationship_care": 9,
+      "justice_fairness": 10,
+      "responsibility_repair": 9,
+      "identity_belonging_culture": 9,
+      "emotion_experience": 8,
+      "meaning_memory_mortality": 9,
+      "wellbeing_vulnerability": 10
+    },
+    "LIGHT": {
+      "order_structure": 9,
+      "knowledge_evidence": 9,
+      "visibility_explainability": 8,
+      "measurement_standardization": 8,
+      "safety_protection": 9,
+      "predictability_planning": 8,
+      "rules_institutions": 8,
+      "coordination_efficiency": 7,
+      "continuity_preservation": 6,
+      "verification_auditability": 6
+    },
+    "DARK": {
+      "uncertainty_unknown": 8,
+      "freedom_alternative": 7,
+      "creativity_invention": 7,
+      "exploration_experiment": 7,
+      "dissent_resistance": 6,
+      "rupture_disruption": 5,
+      "transformation_change": 7,
+      "risk_volatility": 6,
+      "plurality_forking": 4,
+      "emergence_surprise": 3
+    }
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}
