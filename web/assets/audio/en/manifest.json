@@ -52,6 +52,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "COM-0002",
+      "title": "Maran: A Warning in His Own Voice",
+      "file": "./COM-0002.mp3",
+      "duration_seconds": 210.808,
+      "bytes": 2530056,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "BRG-0006",
       "title": "Four Names, One Door",
       "file": "./BRG-0006.mp3",
