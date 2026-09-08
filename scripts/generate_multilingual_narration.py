@@ -3,7 +3,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import os
 import re
 import subprocess
 import sys
@@ -25,7 +24,8 @@ def sh(cmd: list[str], *, capture=False) -> subprocess.CompletedProcess:
         cmd,
         check=True,
         text=True,
-        capture_output=capture
+        capture_output=capture,
+        cwd=ROOT,
     )
 
 
@@ -34,11 +34,7 @@ def load_json(path: Path):
 
 
 def canon():
-    """Return every live story from committed story metadata.
-
-    Story folders are the source of truth. universe-map.json is used only as
-    an optional observation-order overlay.
-    """
+    """Return every live story from committed story metadata."""
     universe_map = load_json(MAP_PATH) if MAP_PATH.exists() else {}
     mapped = {n.get("id"): n for n in universe_map.get("nodes", [])}
 
@@ -50,11 +46,13 @@ def canon():
         map_node = mapped.get(story.get("id"), {})
         story["_observation_order"] = map_node.get(
             "observation_order",
-            story.get("observation_order", story.get("book_order", 9999))
+            story.get("observation_order", story.get("book_order", 9999)),
         )
         stories.append(story)
 
-    stories.sort(key=lambda x: (x.get("_observation_order", 9999), x.get("id", "")))
+    stories.sort(
+        key=lambda x: (x.get("_observation_order", 9999), x.get("id", ""))
+    )
     return stories
 
 
@@ -84,8 +82,6 @@ def clean_markdown(md: str) -> str:
     md = re.sub(r"^\s*>\s?", "", md, flags=re.M)
     md = re.sub(r"^\s*[-*+]\s+", "", md, flags=re.M)
     md = re.sub(r"^\s*\d+\.\s+", "", md, flags=re.M)
-    # Remove Markdown horizontal rules such as ---, ***, ___.
-    # These are not speakable text and can make Piper emit an invalid WAV.
     md = re.sub(r"^\s{0,3}(?:-{3,}|\*{3,}|_{3,})\s*$", "", md, flags=re.M)
     md = md.replace("**", "").replace("__", "").replace("`", "")
     md = re.sub(r"(?<!\*)\*(?!\*)", "", md)
@@ -148,8 +144,8 @@ def chunks(md: str) -> list[str]:
         if b.strip() and re.search(r"\w", b, flags=re.UNICODE)
     ]
     out = []
-    for b in blocks:
-        out.extend(split_long(b))
+    for block in blocks:
+        out.extend(split_long(block))
     return out
 
 
@@ -159,11 +155,16 @@ def ensure_model(model: str) -> Path:
     config_path = CACHE / f"{model}.onnx.json"
 
     if not model_path.exists() or not config_path.exists():
-        sh([
-            sys.executable, "-m", "piper.download_voices",
-            model,
-            "--download-dir", str(CACHE)
-        ])
+        sh(
+            [
+                sys.executable,
+                "-m",
+                "piper.download_voices",
+                model,
+                "--download-dir",
+                str(CACHE),
+            ]
+        )
 
     if not model_path.exists():
         raise RuntimeError(f"Model was not downloaded: {model}")
@@ -171,36 +172,71 @@ def ensure_model(model: str) -> Path:
 
 
 def silence(path: Path, seconds=0.34):
-    sh([
-        "ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
-        "-f", "lavfi",
-        "-i", "anullsrc=r=22050:cl=mono",
-        "-t", str(seconds),
-        "-c:a", "pcm_s16le",
-        str(path)
-    ])
+    sh(
+        [
+            "ffmpeg",
+            "-hide_banner",
+            "-loglevel",
+            "error",
+            "-y",
+            "-f",
+            "lavfi",
+            "-i",
+            "anullsrc=r=22050:cl=mono",
+            "-t",
+            str(seconds),
+            "-c:a",
+            "pcm_s16le",
+            str(path),
+        ]
+    )
 
 
 def synthesize(model_path: Path, length_scale: float, text: str, output_wav: Path):
-    sh([
-        sys.executable, "-m", "piper",
-        "-m", str(model_path),
-        "-f", str(output_wav),
-        "--length-scale", str(length_scale),
-        "--sentence-silence", "0.16",
-        "--",
-        text
-    ])
+    sh(
+        [
+            sys.executable,
+            "-m",
+            "piper",
+            "-m",
+            str(model_path),
+            "-f",
+            str(output_wav),
+            "--length-scale",
+            str(length_scale),
+            "--sentence-silence",
+            "0.16",
+            "--",
+            text,
+        ]
+    )
 
 
 def duration(path: Path) -> float:
-    cp = sh([
-        "ffprobe", "-v", "error",
-        "-show_entries", "format=duration",
-        "-of", "default=noprint_wrappers=1:nokey=1",
-        str(path)
-    ], capture=True)
+    cp = sh(
+        [
+            "ffprobe",
+            "-v",
+            "error",
+            "-show_entries",
+            "format=duration",
+            "-of",
+            "default=noprint_wrappers=1:nokey=1",
+            str(path),
+        ],
+        capture=True,
+    )
     return round(float(cp.stdout.strip()), 3)
+
+
+def audio_path(sid: str, lang: str) -> Path:
+    return OUTPUT_ROOT / lang / f"{sid}.mp3"
+
+
+def resumable_audio_exists(sid: str, lang: str) -> bool:
+    """Treat an already committed non-empty MP3 as a completed checkpoint."""
+    path = audio_path(sid, lang)
+    return path.exists() and path.stat().st_size > 1024
 
 
 def generate(sid: str, lang: str, path: Path, story: dict, voice: dict):
@@ -226,7 +262,7 @@ def generate(sid: str, lang: str, path: Path, story: dict, voice: dict):
                 model_path,
                 float(voice.get("length_scale", 1.0)),
                 text,
-                wav
+                wav,
             )
             lines.append(f"file '{wav.as_posix()}'")
             if i != len(text_chunks):
@@ -235,14 +271,30 @@ def generate(sid: str, lang: str, path: Path, story: dict, voice: dict):
         concat = td / "concat.txt"
         concat.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
-        sh([
-            "ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
-            "-f", "concat", "-safe", "0",
-            "-i", str(concat),
-            "-ac", "1", "-ar", "22050",
-            "-codec:a", "libmp3lame", "-b:a", "96k",
-            str(out_mp3)
-        ])
+        sh(
+            [
+                "ffmpeg",
+                "-hide_banner",
+                "-loglevel",
+                "error",
+                "-y",
+                "-f",
+                "concat",
+                "-safe",
+                "0",
+                "-i",
+                str(concat),
+                "-ac",
+                "1",
+                "-ar",
+                "22050",
+                "-codec:a",
+                "libmp3lame",
+                "-b:a",
+                "96k",
+                str(out_mp3),
+            ]
+        )
 
     return {
         "id": sid,
@@ -251,7 +303,7 @@ def generate(sid: str, lang: str, path: Path, story: dict, voice: dict):
         "duration_seconds": duration(out_mp3),
         "bytes": out_mp3.stat().st_size,
         "engine": "Piper",
-        "voice": model
+        "voice": model,
     }
 
 
@@ -259,17 +311,29 @@ def changed_pairs(base_sha: str, available: set[tuple[str, str]]):
     if not base_sha or set(base_sha) == {"0"}:
         return sorted(available)
 
-    cp = sh([
-        "git", "diff", "--name-only", base_sha, "HEAD",
-        "--", "stories", "config/tts-voices.json"
-    ], capture=True)
+    cp = sh(
+        [
+            "git",
+            "diff",
+            "--name-only",
+            base_sha,
+            "HEAD",
+            "--",
+            "stories",
+            "config/tts-voices.json",
+        ],
+        capture=True,
+    )
 
     if "config/tts-voices.json" in cp.stdout:
         return sorted(available)
 
     pairs = set()
     for line in cp.stdout.splitlines():
-        m = re.search(r"/([A-Z]{3}-\d{4})/content/([A-Za-z0-9_-]+)\.md$", line)
+        m = re.search(
+            r"/([A-Z]{3}-\d{4})/content/([A-Za-z0-9_-]+)\.md$",
+            line,
+        )
         if m:
             pair = (m.group(1), m.group(2))
             if pair in available:
@@ -287,15 +351,19 @@ def write_manifest(lang: str, story_list: list[dict], voice: dict):
         mp3 = out_dir / f"{sid}.mp3"
         if not mp3.exists():
             continue
-        entries.append({
-            "id": sid,
-            "title": story.get("original_title") if lang == "tr" else story.get("title", sid),
-            "file": f"./{sid}.mp3",
-            "duration_seconds": duration(mp3),
-            "bytes": mp3.stat().st_size,
-            "engine": "Piper",
-            "voice": voice["model"]
-        })
+        entries.append(
+            {
+                "id": sid,
+                "title": story.get("original_title")
+                if lang == "tr"
+                else story.get("title", sid),
+                "file": f"./{sid}.mp3",
+                "duration_seconds": duration(mp3),
+                "bytes": mp3.stat().st_size,
+                "engine": "Piper",
+                "voice": voice["model"],
+            }
+        )
 
     manifest = {
         "version": 6,
@@ -304,12 +372,55 @@ def write_manifest(lang: str, story_list: list[dict], voice: dict):
         "label": voice.get("label", lang),
         "storage": "github-pages-local",
         "voice": voice["model"],
-        "chapters": entries
+        "chapters": entries,
     }
     (out_dir / "manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8"
+        encoding="utf-8",
     )
+
+
+def checkpoint_commit(
+    sid: str,
+    lang: str,
+    story_list: list[dict],
+    voice_map: dict,
+):
+    """Persist each finished narration so a later run can resume after timeout."""
+    write_manifest(lang, story_list, voice_map[lang])
+
+    mp3 = audio_path(sid, lang)
+    manifest = OUTPUT_ROOT / lang / "manifest.json"
+
+    sh(
+        [
+            "git",
+            "add",
+            str(mp3.relative_to(ROOT)),
+            str(manifest.relative_to(ROOT)),
+        ]
+    )
+
+    diff = subprocess.run(
+        ["git", "diff", "--cached", "--quiet"],
+        cwd=ROOT,
+    )
+    if diff.returncode == 0:
+        print(f"Checkpoint already committed: {lang}/{sid}")
+        return
+
+    sh(["git", "commit", "-m", f"Checkpoint narration {lang}/{sid}"])
+
+    for attempt in range(1, 4):
+        try:
+            sh(["git", "push", "origin", "HEAD:main"])
+            print(f"Checkpoint saved: {lang}/{sid}")
+            return
+        except subprocess.CalledProcessError:
+            if attempt == 3:
+                raise
+            print(f"Push conflict; rebasing checkpoint (attempt {attempt}/3)...")
+            sh(["git", "pull", "--rebase", "origin", "main"])
 
 
 def main():
@@ -317,6 +428,16 @@ def main():
     ap.add_argument("--language", default="all")
     ap.add_argument("--story", default="all")
     ap.add_argument("--changed-from", default=None)
+    ap.add_argument(
+        "--resume",
+        action="store_true",
+        help="Skip narration MP3 files that already exist in the repository.",
+    )
+    ap.add_argument(
+        "--checkpoint",
+        action="store_true",
+        help="Commit and push each completed MP3 immediately.",
+    )
     args = ap.parse_args()
 
     story_list = canon()
@@ -343,18 +464,43 @@ def main():
         print("No matching story/language narration targets.")
         return
 
+    generated = []
+    skipped = []
     touched_langs = set()
+
     for sid, lang in selected:
+        if args.resume and resumable_audio_exists(sid, lang):
+            print(f"\n=== {sid}/{lang} ===")
+            print(f"RESUME: existing MP3 found; skipping {lang}/{sid}.mp3")
+            skipped.append((sid, lang))
+            continue
+
         print(f"\n=== {sid}/{lang} ===")
-        generate(sid, lang, content[(sid, lang)], story_by_id[sid], voice_map[lang])
+        generate(
+            sid,
+            lang,
+            content[(sid, lang)],
+            story_by_id[sid],
+            voice_map[lang],
+        )
+        generated.append((sid, lang))
         touched_langs.add(lang)
 
-    for lang in sorted(touched_langs):
-        write_manifest(lang, story_list, voice_map[lang])
+        if args.checkpoint:
+            checkpoint_commit(sid, lang, story_list, voice_map)
+
+    if not args.checkpoint:
+        for lang in sorted(touched_langs):
+            write_manifest(lang, story_list, voice_map[lang])
 
     print("\nGenerated:")
-    for sid, lang in selected:
+    for sid, lang in generated:
         print(f"- {lang}/{sid}.mp3")
+
+    if skipped:
+        print("\nResumed / already present:")
+        for sid, lang in skipped:
+            print(f"- {lang}/{sid}.mp3")
 
 
 if __name__ == "__main__":

@@ -11,6 +11,11 @@ on:
         description: "Story ID (e.g. BRG-0002) or all"
         required: true
         default: "all"
+      resume:
+        description: "Resume: skip MP3 files already committed to the repository"
+        required: true
+        type: boolean
+        default: true
   push:
     branches:
       - main
@@ -61,25 +66,32 @@ jobs:
           restore-keys: |
             hcu-piper-
 
-      - name: Generate narration
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            python scripts/generate_multilingual_narration.py \
-              --language "${{ inputs.language }}" \
-              --story "${{ inputs.story_id }}"
-          else
-            python scripts/generate_multilingual_narration.py \
-              --changed-from "${{ github.event.before }}"
-          fi
-
-      - name: Commit generated audio
+      - name: Configure narration bot
         run: |
           git config user.name "HCU Narration Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add web/assets/audio
-          if git diff --cached --quiet; then
-            echo "No narration changes."
+
+      - name: Generate narration with checkpoints
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            RESUME_ARG=""
+            if [ "${{ inputs.resume }}" = "true" ]; then
+              RESUME_ARG="--resume"
+            fi
+
+            python scripts/generate_multilingual_narration.py \
+              --language "${{ inputs.language }}" \
+              --story "${{ inputs.story_id }}" \
+              $RESUME_ARG \
+              --checkpoint
           else
-            git commit -m "Generate multilingual narration audio"
-            git push
+            python scripts/generate_multilingual_narration.py \
+              --changed-from "${{ github.event.before }}" \
+              --checkpoint
           fi
+
+      - name: Show final status
+        if: ${{ !cancelled() }}
+        run: |
+          git status --short
+          echo "Completed narration targets are checkpointed individually."
