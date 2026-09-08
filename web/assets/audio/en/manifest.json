@@ -52,6 +52,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0007",
+      "title": "04:17 — I Refuse to Choose",
+      "file": "./BRG-0007.mp3",
+      "duration_seconds": 852.245,
+      "bytes": 10227297,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
