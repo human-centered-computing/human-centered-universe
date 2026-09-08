@@ -34,6 +34,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0005",
+      "title": "Shahmaran: Between Poison and Healing",
+      "file": "./BRG-0005.mp3",
+      "duration_seconds": 208.196,
+      "bytes": 2498709,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
