@@ -203,6 +203,15 @@
       "bytes": 11222249,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
+    },
+    {
+      "id": "HUM-0002",
+      "title": "İnsan Merkezli Avukat Sistemi: Kararı Kim Verecek?",
+      "file": "./HUM-0002.mp3",
+      "duration_seconds": 1066.057,
+      "bytes": 12793044,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
     }
   ]
 }
