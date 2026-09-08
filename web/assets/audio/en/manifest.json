@@ -61,6 +61,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0008",
+      "title": "What Question Do You Use to Measure Reality?",
+      "file": "./BRG-0008.mp3",
+      "duration_seconds": 989.153,
+      "bytes": 11870190,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
