@@ -88,6 +88,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0011",
+      "title": "Rîh-a: The Center of Root, Spirit, and Belief",
+      "file": "./BRG-0011.mp3",
+      "duration_seconds": 1893.355,
+      "bytes": 22720619,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
