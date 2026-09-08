@@ -124,6 +124,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0015",
+      "title": "The School That Refused to Compete: Maran and the First Human-Centered Transformation School",
+      "file": "./BRG-0015.mp3",
+      "duration_seconds": 760.686,
+      "bytes": 9128587,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
