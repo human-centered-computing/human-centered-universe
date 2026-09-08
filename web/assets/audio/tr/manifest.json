@@ -106,6 +106,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "BRG-0013",
+      "title": "Bir Sistemi Gerçekliğe Taşımadan Önce",
+      "file": "./BRG-0013.mp3",
+      "duration_seconds": 1788.5,
+      "bytes": 21462353,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: Gecede Açılan Göz",
       "file": "./HUM-0001.mp3",
