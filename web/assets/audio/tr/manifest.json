@@ -142,6 +142,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "BRG-0017",
+      "title": "Anlamsız İşlerin Sonu: Tarihin Sıfır Noktasından Bilişim 5.0’a",
+      "file": "./BRG-0017.mp3",
+      "duration_seconds": 1609.587,
+      "bytes": 19315401,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: Gecede Açılan Göz",
       "file": "./HUM-0001.mp3",
