@@ -16,6 +16,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0014",
+      "title": "Second Vibration: Eos — The First Dawn",
+      "file": "./BRG-0014.mp3",
+      "duration_seconds": 715.494,
+      "bytes": 8586285,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "BRG-0004",
       "title": "04:17 — The Call from the Dark",
       "file": "./BRG-0004.mp3",
