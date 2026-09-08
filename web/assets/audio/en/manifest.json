@@ -61,6 +61,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "COM-0003",
+      "title": "Those Who Heard the Call",
+      "file": "./COM-0003.mp3",
+      "duration_seconds": 460.722,
+      "bytes": 5529018,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "BRG-0006",
       "title": "Four Names, One Door",
       "file": "./BRG-0006.mp3",
