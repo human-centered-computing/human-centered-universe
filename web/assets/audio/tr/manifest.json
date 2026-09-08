@@ -52,6 +52,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "COM-0002",
+      "title": "Maran: Kendi Sesinden Gelen Uyarı",
+      "file": "./COM-0002.mp3",
+      "duration_seconds": 227.239,
+      "bytes": 2727228,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "BRG-0006",
       "title": "Dört İsim, Bir Kapı",
       "file": "./BRG-0006.mp3",
