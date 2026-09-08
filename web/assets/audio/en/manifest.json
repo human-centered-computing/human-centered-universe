@@ -106,6 +106,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0013",
+      "title": "Before Moving a System into Reality",
+      "file": "./BRG-0013.mp3",
+      "duration_seconds": 1623.197,
+      "bytes": 19478719,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
