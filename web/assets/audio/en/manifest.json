@@ -124,6 +124,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "COM-0004",
+      "title": "Architects of the Open Network",
+      "file": "./COM-0004.mp3",
+      "duration_seconds": 835.318,
+      "bytes": 10024169,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "BRG-0011",
       "title": "Rîh-a: The Center of Root, Spirit, and Belief",
       "file": "./BRG-0011.mp3",
