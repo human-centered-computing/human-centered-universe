@@ -79,6 +79,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0010",
+      "title": "What Is Perfect Does Not Grow",
+      "file": "./BRG-0010.mp3",
+      "duration_seconds": 1384.803,
+      "bytes": 16617997,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
