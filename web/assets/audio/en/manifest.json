@@ -16,6 +16,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0014",
+      "title": "Second Vibration: Eos — The First Dawn",
+      "file": "./BRG-0014.mp3",
+      "duration_seconds": 715.494,
+      "bytes": 8586285,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "BRG-0004",
       "title": "04:17 — The Call from the Dark",
       "file": "./BRG-0004.mp3",
@@ -39,6 +48,24 @@
       "file": "./BRG-0005.mp3",
       "duration_seconds": 208.196,
       "bytes": 2498709,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
+      "id": "COM-0002",
+      "title": "Maran: A Warning in His Own Voice",
+      "file": "./COM-0002.mp3",
+      "duration_seconds": 210.808,
+      "bytes": 2530056,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
+      "id": "COM-0003",
+      "title": "Those Who Heard the Call",
+      "file": "./COM-0003.mp3",
+      "duration_seconds": 460.722,
+      "bytes": 5529018,
       "engine": "Piper",
       "voice": "en_US-lessac-medium"
     },
@@ -88,6 +115,24 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "COM-0001",
+      "title": "Turn the Battlefield into a Home",
+      "file": "./COM-0001.mp3",
+      "duration_seconds": 1166.341,
+      "bytes": 13996453,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
+      "id": "COM-0004",
+      "title": "Architects of the Open Network",
+      "file": "./COM-0004.mp3",
+      "duration_seconds": 835.318,
+      "bytes": 10024169,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "BRG-0011",
       "title": "Rîh-a: The Center of Root, Spirit, and Belief",
       "file": "./BRG-0011.mp3",
@@ -115,11 +160,56 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0015",
+      "title": "The School That Refused to Compete: Maran and the First Human-Centered Transformation School",
+      "file": "./BRG-0015.mp3",
+      "duration_seconds": 760.686,
+      "bytes": 9128587,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
+      "id": "BRG-0016",
+      "title": "Politics 5.0: From Berlin to the Zero Point of History",
+      "file": "./BRG-0016.mp3",
+      "duration_seconds": 874.397,
+      "bytes": 10493119,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
+      "id": "BRG-0017",
+      "title": "The End of Meaningless Work: From the Zero Point of History to Informatics 5.0",
+      "file": "./BRG-0017.mp3",
+      "duration_seconds": 1289.352,
+      "bytes": 15472580,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
+      "id": "BRG-0018",
+      "title": "The History the Soil Never Wrote: Traces of Girê Miraza",
+      "file": "./BRG-0018.mp3",
+      "duration_seconds": 928.627,
+      "bytes": 11143881,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
       "duration_seconds": 844.095,
       "bytes": 10129494,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
+      "id": "HUM-0002",
+      "title": "Human-Centered Lawyer System: Who Will Decide?",
+      "file": "./HUM-0002.mp3",
+      "duration_seconds": 965.669,
+      "bytes": 11588381,
       "engine": "Piper",
       "voice": "en_US-lessac-medium"
     }
