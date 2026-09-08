@@ -1,0 +1,63 @@
+{
+  "schema": "hcu-story-analysis",
+  "generation_mode": "idea-maturation-three-center",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 42,
+    "LIGHT": 35,
+    "DARK": 23
+  },
+  "center_raw_scores": {
+    "HUMAN": 90,
+    "LIGHT": 75,
+    "DARK": 50
+  },
+  "classification": {
+    "method": "30-criterion HCU narrative analysis after three-center idea maturation",
+    "status": "ai-generated-draft",
+    "confidence": 0.94,
+    "note": "HUMAN dominates because legal authority, client impact, confidentiality, professional ethics, and final responsibility remain with the lawyer. LIGHT is strong through source verification, chronology, evidence structure, legal research, and auditability. DARK contributes through contradiction detection, alternative strategies, dissent, uncertainty, and competing interpretations."
+  },
+  "analysis": {
+    "HUMAN": {
+      "dignity_personhood": 10,
+      "agency_choice": 10,
+      "consent_boundaries": 10,
+      "relationship_care": 8,
+      "justice_fairness": 10,
+      "responsibility_repair": 10,
+      "identity_belonging_culture": 6,
+      "emotion_experience": 8,
+      "meaning_memory_mortality": 8,
+      "wellbeing_vulnerability": 10
+    },
+    "LIGHT": {
+      "order_structure": 8,
+      "knowledge_evidence": 10,
+      "visibility_explainability": 10,
+      "measurement_standardization": 7,
+      "safety_protection": 8,
+      "predictability_planning": 7,
+      "rules_institutions": 10,
+      "coordination_efficiency": 7,
+      "continuity_preservation": 4,
+      "verification_auditability": 4
+    },
+    "DARK": {
+      "uncertainty_unknown": 7,
+      "freedom_alternative": 5,
+      "creativity_invention": 5,
+      "exploration_experiment": 5,
+      "dissent_resistance": 7,
+      "rupture_disruption": 3,
+      "transformation_change": 5,
+      "risk_volatility": 5,
+      "plurality_forking": 5,
+      "emergence_surprise": 3
+    }
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}

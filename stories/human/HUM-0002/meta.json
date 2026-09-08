@@ -1,0 +1,117 @@
+{
+  "id": "HUM-0002",
+  "title": "Human-Centered Lawyer System: Who Will Decide?",
+  "original_title": "İnsan Merkezli Avukat Sistemi: Kararı Kim Verecek?",
+  "status": "canon",
+  "source_language": "en",
+  "culture": [
+    "law",
+    "legal profession",
+    "human-centered artificial intelligence",
+    "professional responsibility"
+  ],
+  "belief_context": [
+    "justice",
+    "human dignity",
+    "truth and evidence",
+    "responsibility",
+    "technology and professional ethics"
+  ],
+  "summary": "Attorney Ayşe confronts a legal AI capable of structuring files, verifying sources, mapping evidence, detecting contradictions and generating strategies. Through the Light, Dark and Human Centers, the idea matures into a legal intelligence system that strengthens the lawyer's reasoning while leaving legal judgment, client responsibility and final professional accountability with the human lawyer.",
+  "translations": {
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "machine_draft"
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/HUM-0002/insan-merkezli-avukat-sistemi-karari-kim-verecek.png",
+    "alt": {
+      "en": "Attorney Ayşe reviews legal files at night while an AI-assisted legal intelligence system visualizes evidence, verified sources, timelines and alternative strategies around her.",
+      "tr": "Avukat Ayşe gece ofisinde dosyaları incelerken yapay zekâ destekli hukuk zekâsı sistemi delilleri, doğrulanmış kaynakları, zaman çizelgesini ve alternatif stratejileri çevresinde görünür kılıyor."
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0013",
+      "type": "transformation",
+      "note": "The story applies the Reality Bridge principle to legal practice: AI output must remain verifiable, contestable and subject to professional human review before real-world action."
+    },
+    {
+      "target": "BRG-0017",
+      "type": "theme",
+      "note": "The Human-Centered Lawyer System extends Informatics 5.0 into legal work by treating AI as a capacity amplifier rather than a replacement for meaningful professional responsibility."
+    },
+    {
+      "target": "COM-0005",
+      "type": "theme",
+      "note": "The story echoes the principle that human beings are not raw material by refusing to reduce clients, witnesses or legal responsibility to data points."
+    },
+    {
+      "target": "HUM-0001",
+      "type": "parallel",
+      "note": "Like Tapetum Sentinel, this system uses AI to make difficult signals more visible while keeping critical interpretation and final responsibility with a human professional."
+    }
+  ],
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 42,
+    "LIGHT": 35,
+    "DARK": 23
+  },
+  "observer_choices": [
+    {
+      "key": "retain_professional_responsibility",
+      "label": "Keep final legal judgment and responsibility with the lawyer.",
+      "labels": {
+        "en": "Keep final legal judgment and responsibility with the lawyer.",
+        "tr": "Nihai hukuki değerlendirme ve sorumluluğu avukatta tut."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 4,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "verify_every_source",
+      "label": "Require every legal source and precedent to be verifiable before use.",
+      "labels": {
+        "en": "Require every legal source and precedent to be verifiable before use.",
+        "tr": "Kullanımdan önce her hukuki kaynak ve içtihadın doğrulanmasını iste."
+      },
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 10,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "explore_contradictions",
+      "label": "Follow contradictions and alternative interpretations before selecting a strategy.",
+      "labels": {
+        "en": "Follow contradictions and alternative interpretations before selecting a strategy.",
+        "tr": "Strateji seçmeden önce çelişkileri ve alternatif yorumları araştır."
+      },
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 3,
+        "DARK": 10
+      }
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "İnsan Merkezli Avukat Sistemi: Kararı Kim Verecek?",
+      "summary": "Avukat Ayşe; dosyaları yapılandıran, kaynakları doğrulayan, delilleri haritalayan, çelişkileri bulan ve alternatif stratejiler üreten bir hukuk yapay zekâsıyla karşılaşır. Fikir Aydınlık, Karanlık ve İnsan Merkezlerinden geçerek avukatın muhakemesini güçlendiren; ancak hukuki karar, müvekkil sorumluluğu ve nihai mesleki yükümlülüğü insanda bırakan bir hukuk zekâsı sistemine dönüşür.",
+      "link_notes": {
+        "BRG-0013": "Hikâye Gerçeklik Köprüsü ilkesini hukuka taşır: yapay zekâ çıktıları gerçek dünyada kullanılmadan önce doğrulanabilir, tartışılabilir ve avukat tarafından denetlenebilir olmalıdır.",
+        "BRG-0017": "İnsan Merkezli Avukat Sistemi, Bilişim 5.0 yaklaşımını hukuk alanına taşıyarak yapay zekâyı mesleki sorumluluğun yerine geçen değil, insan kapasitesini artıran bir araç olarak konumlandırır.",
+        "COM-0005": "Müvekkil, tanık ve hukuki sorumluluğu yalnızca veri noktalarına indirgememesiyle 'İnsan Hammadde Değildir' ilkesiyle bağlantı kurar.",
+        "HUM-0001": "Tapetum Sentinel gibi bu sistem de zor görülen sinyalleri görünür kılar; kritik yorum ve nihai sorumluluğu insan uzmanda bırakır."
+      }
+    }
+  }
+}
