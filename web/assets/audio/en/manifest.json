@@ -203,6 +203,15 @@
       "bytes": 10129494,
       "engine": "Piper",
       "voice": "en_US-lessac-medium"
+    },
+    {
+      "id": "HUM-0002",
+      "title": "Human-Centered Lawyer System: Who Will Decide?",
+      "file": "./HUM-0002.mp3",
+      "duration_seconds": 965.669,
+      "bytes": 11588381,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
     }
   ]
 }
