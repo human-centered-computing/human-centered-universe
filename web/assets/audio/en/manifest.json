@@ -97,6 +97,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "COM-0001",
+      "title": "Turn the Battlefield into a Home",
+      "file": "./COM-0001.mp3",
+      "duration_seconds": 1166.341,
+      "bytes": 13996453,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "BRG-0011",
       "title": "Rîh-a: The Center of Root, Spirit, and Belief",
       "file": "./BRG-0011.mp3",
