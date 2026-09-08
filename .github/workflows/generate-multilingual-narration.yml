@@ -27,6 +27,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: hcu-multilingual-narration-${{ github.ref }}
@@ -72,6 +73,8 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
 
       - name: Generate narration with checkpoints
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             RESUME_ARG=""
@@ -95,3 +98,4 @@ jobs:
         run: |
           git status --short
           echo "Completed narration targets are checkpointed individually."
+          echo "Each checkpoint also requests a GitHub Pages deployment."

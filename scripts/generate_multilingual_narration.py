@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import subprocess
 import sys
@@ -415,12 +416,52 @@ def checkpoint_commit(
         try:
             sh(["git", "push", "origin", "HEAD:main"])
             print(f"Checkpoint saved: {lang}/{sid}")
+            trigger_pages_deploy()
             return
         except subprocess.CalledProcessError:
             if attempt == 3:
                 raise
             print(f"Push conflict; rebasing checkpoint (attempt {attempt}/3)...")
             sh(["git", "pull", "--rebase", "origin", "main"])
+
+
+
+def trigger_pages_deploy():
+    """Ask GitHub to publish the latest main branch after each checkpoint.
+
+    workflow_dispatch is intentionally used because GitHub permits a
+    GITHUB_TOKEN-triggered workflow_dispatch to start another workflow.
+    A deployment failure must not destroy the successfully checkpointed MP3.
+    """
+    if not os.environ.get("GH_TOKEN"):
+        print("Pages deploy trigger skipped: GH_TOKEN is not available.")
+        return
+
+    cp = subprocess.run(
+        [
+            "gh",
+            "workflow",
+            "run",
+            "deploy-pages.yml",
+            "--repo",
+            "human-centered-computing/human-centered-universe",
+            "--ref",
+            "main",
+        ],
+        cwd=ROOT,
+        text=True,
+        capture_output=True,
+    )
+
+    if cp.returncode == 0:
+        print("Pages deploy requested for latest main.")
+        return
+
+    print("WARNING: checkpoint was saved, but Pages deploy could not be requested.")
+    if cp.stdout.strip():
+        print(cp.stdout.strip())
+    if cp.stderr.strip():
+        print(cp.stderr.strip())
 
 
 def main():
