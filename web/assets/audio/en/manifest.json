@@ -7,6 +7,15 @@
   "voice": "en_US-lessac-medium",
   "chapters": [
     {
+      "id": "BRG-0002",
+      "title": "First Vibration: Purify Yourself and Return to Your Essence",
+      "file": "./BRG-0002.mp3",
+      "duration_seconds": 895.948,
+      "bytes": 10751731,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "BRG-0001",
       "title": "The Stone Network: Where the Stones Answer",
       "file": "./BRG-0001.mp3",
