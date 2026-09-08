@@ -79,6 +79,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "BRG-0010",
+      "title": "Kusursuz Olan Büyümez",
+      "file": "./BRG-0010.mp3",
+      "duration_seconds": 1507.762,
+      "bytes": 18093498,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: Gecede Açılan Göz",
       "file": "./HUM-0001.mp3",
