@@ -43,6 +43,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0006",
+      "title": "Four Names, One Door",
+      "file": "./BRG-0006.mp3",
+      "duration_seconds": 709.616,
+      "bytes": 8515754,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
