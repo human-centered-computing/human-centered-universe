@@ -151,6 +151,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0018",
+      "title": "The History the Soil Never Wrote: Traces of Girê Miraza",
+      "file": "./BRG-0018.mp3",
+      "duration_seconds": 928.627,
+      "bytes": 11143881,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
