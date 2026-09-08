@@ -124,6 +124,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "COM-0004",
+      "title": "Açık Ağın Mimarları",
+      "file": "./COM-0004.mp3",
+      "duration_seconds": 1222.269,
+      "bytes": 14667591,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "BRG-0011",
       "title": "Rîh-a: Kökün, Ruhun ve İnancın Merkezi",
       "file": "./BRG-0011.mp3",
