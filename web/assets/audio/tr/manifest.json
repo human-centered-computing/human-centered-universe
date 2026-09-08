@@ -133,6 +133,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "BRG-0016",
+      "title": "Siyaset 5.0: Berlin'den Tarihin Sıfır Noktasına",
+      "file": "./BRG-0016.mp3",
+      "duration_seconds": 982.439,
+      "bytes": 11789628,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: Gecede Açılan Göz",
       "file": "./HUM-0001.mp3",
