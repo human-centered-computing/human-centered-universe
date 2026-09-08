@@ -1,7 +1,7 @@
 {
   "id": "BRG-0016",
-  "title": "Politics 5.0: From Berlin to the Zero Point of History",
-  "original_title": "Siyaset 5.0: Berlin'den Tarihin Sıfır Noktasına",
+  "title": "Human-Centered Politics: From Berlin to the Zero Point of History",
+  "original_title": "İnsan Merkezli Siyaset: Berlin'den Tarihin Sıfır Noktasına",
   "core": "BRIDGE",
   "status": "canon",
   "source_language": "en",
@@ -16,31 +16,36 @@
   "belief_context": [
     "human rights",
     "human-centered AI",
-    "Industry 5.0",
     "participatory governance",
+    "local policy prototyping",
+    "evidence-based governance",
     "science-fiction"
   ],
-  "summary": "After developing Politics 5.0 in Berlin with human-rights scholar Ibrahim, Maran takes their first paper to Sanliurfa, the place he calls the zero point of history. There they test small prototypes for women and youth employment, record both success and failure, and make anonymized methods, limits and impact findings part of an open public policy memory.",
+  "summary": "Maran and human-rights scholar Ibrahim develop Human-Centered Politics as a bottom-up political learning model. Local problems are first understood where people experience them, then addressed through small, measurable prototypes. Successful approaches are tested across multiple local contexts, generalized only after evidence accumulates, and then transformed into broader public policy. The center becomes a coordinator of validated local knowledge rather than the starting point of every solution.",
   "translations": {
-    "en": {"status": "canonical"},
-    "tr": {"status": "reviewed"}
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0016/politics5-from-berlin-to-urfa.png",
     "alt": {
-      "en": "A human-free visual bridge from Berlin to Göbekli Tepe, showing policy data, public learning, transparency and the Politics 5.0 cycle.",
-      "tr": "Berlin'den Göbekli Tepe'ye uzanan; politika verisi, kamusal öğrenme, şeffaflık ve Siyaset 5.0 döngüsünü gösteren insansız sanatsal görsel."
+      "en": "A human-free visual bridge from Berlin to Göbekli Tepe, representing local policy prototypes, public learning, transparency and Human-Centered Politics.",
+      "tr": "Berlin'den Göbekli Tepe'ye uzanan; yerel politika prototiplerini, kamusal öğrenmeyi, şeffaflığı ve İnsan Merkezli Siyaseti gösteren insansız sanatsal görsel."
     },
     "caption": {
-      "en": "From Berlin to Sanliurfa: Politics as a Learning System",
-      "tr": "Berlin'den Şanlıurfa'ya: Öğrenen Bir Siyaset Sistemi"
+      "en": "From Berlin to Sanliurfa: Politics as a Local-to-Central Learning System",
+      "tr": "Berlin'den Şanlıurfa'ya: Yerelden Merkeze Öğrenen Siyaset"
     }
   },
   "links": [
     {
       "target": "BRG-0015",
       "type": "transformation",
-      "note": "Maran carries the Human-Centered Transformation method from education into politics and public problem-solving."
+      "note": "Maran carries the Human-Centered Transformation method from education into local political problem-solving."
     },
     {
       "target": "COM-0002",
@@ -55,44 +60,56 @@
     {
       "target": "BRG-0008",
       "type": "echo",
-      "note": "Measurement is necessary, but the model refuses to confuse a measurable indicator with the whole human reality behind it."
+      "note": "Measurement is necessary, but measurable indicators must never be confused with the whole human reality behind them."
     }
   ],
   "observer_choices": [
     {
-      "key": "protect_rights_first",
-      "label": "Protect human rights before optimizing the policy system.",
+      "key": "start_local",
+      "label": "Start with the problem where people actually experience it.",
       "labels": {
-        "en": "Protect human rights before optimizing the policy system.",
-        "tr": "Politika sistemini optimize etmeden önce insan haklarını koru."
+        "en": "Start with the problem where people actually experience it.",
+        "tr": "Sorunu insanların gerçekten yaşadığı yerde ele al."
       },
-      "effects": {"HUMAN": 10, "LIGHT": 4, "DARK": 1}
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 5,
+        "DARK": 1
+      }
     },
     {
-      "key": "follow_evidence",
-      "label": "Follow measurable evidence and make the decision process visible.",
+      "key": "prototype_before_policy",
+      "label": "Test small local prototypes before generalizing a policy.",
       "labels": {
-        "en": "Follow measurable evidence and make the decision process visible.",
-        "tr": "Ölçülebilir kanıtı izle ve karar sürecini görünür kıl."
+        "en": "Test small local prototypes before generalizing a policy.",
+        "tr": "Politikayı genelleştirmeden önce küçük yerel prototiplerle test et."
       },
-      "effects": {"HUMAN": 5, "LIGHT": 10, "DARK": 1}
+      "effects": {
+        "HUMAN": 6,
+        "LIGHT": 10,
+        "DARK": 2
+      }
     },
     {
-      "key": "learn_from_failure",
-      "label": "Keep failures visible so the system can redesign itself.",
+      "key": "keep_failure_visible",
+      "label": "Keep failures visible so other places can learn from them.",
       "labels": {
-        "en": "Keep failures visible so the system can redesign itself.",
-        "tr": "Sistemin yeniden tasarlanabilmesi için başarısızlıkları görünür tut."
+        "en": "Keep failures visible so other places can learn from them.",
+        "tr": "Başarısızlıkları görünür tut ki başka yerler onlardan öğrenebilsin."
       },
-      "effects": {"HUMAN": 6, "LIGHT": 3, "DARK": 10}
+      "effects": {
+        "HUMAN": 6,
+        "LIGHT": 3,
+        "DARK": 10
+      }
     }
   ],
   "localized": {
     "tr": {
-      "title": "Siyaset 5.0: Berlin'den Tarihin Sıfır Noktasına",
-      "summary": "Maran, insan haklarını yaşam ilkesi hâline getirmiş İbrahim'le Berlin'de Siyaset 5.0'ın ilk makalesini geliştirir. Ardından modeli, tarihin sıfır noktası olarak gördüğü Şanlıurfa'da kadın ve genç istihdamına yönelik küçük prototiplerle sınarlar; başarıyı da başarısızlığı da kaydeder, anonimleştirilmiş yöntem ve etki bulgularını kamusal politika hafızasına dönüştürürler.",
+      "title": "İnsan Merkezli Siyaset: Berlin'den Tarihin Sıfır Noktasına",
+      "summary": "Maran ve insan hakları akademisyeni İbrahim, İnsan Merkezli Siyaseti yerelden merkeze ilerleyen bir siyasal öğrenme modeli olarak geliştirir. Sorunlar insanların yaşadığı yerde tanımlanır; küçük, ölçülebilir ve geri döndürülebilir yerel politika prototipleriyle sınanır. Başarılı çözümler farklı yerellerde tekrar doğrulanır, ancak yeterli kanıt oluştuktan sonra genelleştirilip merkezi politikaya dönüştürülür. Merkez, çözümün başlangıç noktası olmaktan çok doğrulanmış yerel bilginin koordinasyon merkezi hâline gelir.",
       "link_notes": {
-        "BRG-0015": "Maran, İnsan Merkezli Dönüşüm yöntemini eğitimden siyasete ve kamusal sorun çözmeye taşır.",
+        "BRG-0015": "Maran, İnsan Merkezli Dönüşüm yöntemini eğitimden yerel siyasal sorun çözmeye taşır.",
         "COM-0002": "Teknolojinin insan anlamına nasıl hizmet edeceği sorusu kişisel dönüşümden kamusal yönetişime geçer.",
         "COM-0005": "İnsan, politik veya algoritmik bir optimizasyon sisteminin ham maddesine dönüştürülemez.",
         "BRG-0008": "Ölçüm gereklidir; fakat ölçülebilen gösterge, arkasındaki insan gerçekliğinin bütünü değildir."
@@ -101,14 +118,14 @@
   },
   "external_resources": [
     {
-      "title": "Politics 5.0",
+      "title": "İnsan Merkezli Siyaset — Açık Politika Hafızası",
       "url": "https://politics5.org/",
       "type": "public_information_and_transparency_portal",
-      "note": "Public reference site for the Politics 5.0 approach, methodology, transparency model and Sanliurfa women-and-youth employment policy study."
+      "note": "Kamusal bilgilendirme, yöntem şeffaflığı, yerel politika prototipleri, ölçüm, sınırlılıklar ve anonimleştirilmiş etki bulgularının paylaşımı için kullanılan açık politika hafızası."
     }
   ],
   "inspiration": {
-    "title": "Endüstri 5.0 Temelinde Siyaset 5.0: Şanlıurfa’da Kadın ve Genç İstihdamı İçin Yeni Bir Yerel Politika Modeli",
+    "title": "İnsan Merkezli Siyaset: Yerel Sorundan Doğrulanmış Merkezi Politikaya",
     "website": "https://politics5.org/",
     "type": "fictionalized research-and-prototype trajectory",
     "transparency_principle": "The public layer shares methods, governance, aggregate indicators, limitations and anonymized impact findings rather than personal application content."

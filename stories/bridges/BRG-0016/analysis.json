@@ -7,9 +7,9 @@
     "DARK": 5
   },
   "classification": {
-    "method": "curated narrative classification based on human-rights primacy, evidence-driven policy learning and bounded algorithmic support",
+    "method": "curated narrative classification based on human-rights primacy, local problem discovery, policy prototyping, multi-local validation, evidence-based generalization and bounded algorithmic support",
     "status": "reviewed-curation",
-    "note": "HUMAN dominates because rights, dignity, participation and responsibility remain the governing constraints. LIGHT represents evidence, explainability, measurement and public transparency. DARK remains a small but necessary space for uncertainty, failure and redesign."
+    "note": "HUMAN dominates because dignity, participation, local lived experience, human responsibility and rights define the political system. LIGHT represents measurement, explainability, local prototype testing, cross-local validation, transparent policy memory and the transformation of verified local knowledge into broader public policy. DARK remains a small but necessary space for uncertainty, failed prototypes, unintended consequences and redesign."
   },
   "coverage_audit": {
     "coverage_complete": true,
