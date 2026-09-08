@@ -16,6 +16,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "BRG-0014",
+      "title": "İkinci Titreşim: Eos — İlk Şafak",
+      "file": "./BRG-0014.mp3",
+      "duration_seconds": 769.698,
+      "bytes": 9236734,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "BRG-0004",
       "title": "04:17 — Karanlığın İçinden Gelen Çağrı",
       "file": "./BRG-0004.mp3",
