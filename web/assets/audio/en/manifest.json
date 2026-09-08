@@ -133,6 +133,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0016",
+      "title": "Politics 5.0: From Berlin to the Zero Point of History",
+      "file": "./BRG-0016.mp3",
+      "duration_seconds": 874.397,
+      "bytes": 10493119,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
