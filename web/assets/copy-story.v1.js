@@ -8,17 +8,11 @@
   }
 
   function labels(lang) {
-    if (lang === "tr") {
-      return {
-        copy: "📋 Hikâyeyi Kopyala",
-        copied: "✓ Kopyalandı",
-        failed: "Kopyalanamadı"
-      };
-    }
+    const tr = (key, fallback) => window.HCUI18n?.t?.(key, fallback) || fallback;
     return {
-      copy: "📋 Copy Story",
-      copied: "✓ Copied",
-      failed: "Copy failed"
+      copy: tr("copy_story", "📋 Copy Story"),
+      copied: tr("copied", "✓ Copied"),
+      failed: tr("copy_failed", "Copy failed")
     };
   }
 
