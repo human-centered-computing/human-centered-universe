@@ -18,7 +18,7 @@ shutil.copytree(WEB, SITE)
 universe_map = json.loads(MAP_PATH.read_text(encoding="utf-8")) if MAP_PATH.exists() else {}
 map_nodes = {n["id"]: n for n in universe_map.get("nodes", [])}
 language_policy = json.loads(LANGUAGE_POLICY_PATH.read_text(encoding="utf-8")) if LANGUAGE_POLICY_PATH.exists() else {}
-canonical_language = language_policy.get("canonical_language", "tr")
+canonical_language = language_policy.get("canonical_language", "en")
 default_language = language_policy.get("default_language", canonical_language)
 fallback_language = language_policy.get("fallback_language", canonical_language)
 interface_fallback_language = language_policy.get("interface_fallback_language", "en")
@@ -81,7 +81,7 @@ for rec in records:
     meta, analysis, mapped = rec["meta"], rec["analysis"], rec["mapped"]
     registry_stories.append({
         "id": meta.get("id"),
-        "title": meta.get("localized", {}).get("tr", {}).get("title", meta.get("original_title", meta.get("title", meta.get("id")))),
+        "title": meta.get("title", meta.get("id")),
         "status": meta.get("status"),
         "primary_center": analysis.get("primary_center", mapped.get("primary_center", meta.get("primary_center"))),
         "center_weights": analysis.get("center_weights", mapped.get("center_weights", meta.get("center_weights"))),
@@ -120,16 +120,6 @@ for rec in records:
 
     entry = migrate_legacy_terms(dict(meta))
     entry["content"] = content
-
-    # Turkish is the runtime source of truth. Legacy nodes are normalized here
-    # while their repository metadata is migrated story-by-story.
-    if "tr" in content:
-        entry["source_language"] = canonical_language
-        translations = dict(entry.get("translations") or {})
-        translations["tr"] = {**translations.get("tr", {}), "status": "canonical"}
-        if "en" in content and translations.get("en", {}).get("status") == "canonical":
-            translations["en"] = {**translations.get("en", {}), "status": "machine_draft"}
-        entry["translations"] = translations
 
     entry["observation_order"] = mapped.get(
         "observation_order", meta.get("observation_order", meta.get("book_order", 9999))
@@ -174,41 +164,32 @@ payload = {
 )
 
 def patch_reader_runtime():
-    """Make the existing reader obey Turkish canonical/fallback policy."""
+    """Apply multilingual reader behavior while keeping English canonical."""
     app_path = SITE / "assets" / "app.js"
     if not app_path.exists():
         return
     s = app_path.read_text(encoding="utf-8")
     replacements = [
-        ('locale: "en",', 'locale: "tr",'),
-        ('function t(key,fallback=key){ return state.data?.locales?.[state.locale]?.[key] || state.data?.locales?.en?.[key] || fallback; }',
-         'function t(key,fallback=key){ const uiFallback=state.data?.interface_fallback_language||"en"; return state.data?.locales?.[state.locale]?.[key] || state.data?.locales?.[uiFallback]?.[key] || state.data?.locales?.en?.[key] || state.data?.locales?.tr?.[key] || fallback; }'),
-        ('return story?.localized?.[state.locale]?.title || story?.title || story?.id || "";',
-         'return story?.localized?.[state.locale]?.title || story?.localized?.tr?.title || story?.title || story?.id || "";'),
-        ('function storySummary(story){ return story?.localized?.[state.locale]?.summary || story?.summary || ""; }',
-         'function storySummary(story){ return story?.localized?.[state.locale]?.summary || story?.localized?.tr?.summary || story?.summary || ""; }'),
-        ('const alt=hero.alt?.[state.locale]||hero.alt?.en||storyTitle(story);',
-         'const alt=hero.alt?.[state.locale]||hero.alt?.tr||hero.alt?.en||storyTitle(story);'),
-        ('const caption=hero.caption?.[state.locale]||hero.caption?.en||"";',
-         'const caption=hero.caption?.[state.locale]||hero.caption?.tr||hero.caption?.en||"";'),
-        ('function linkNote(sourceStory,link){ return sourceStory?.localized?.[state.locale]?.link_notes?.[link.target] || link?.note || ""; }',
-         'function linkNote(sourceStory,link){ return sourceStory?.localized?.[state.locale]?.link_notes?.[link.target] || sourceStory?.localized?.tr?.link_notes?.[link.target] || link?.note || ""; }'),
-        ('return choice.labels[locale] || choice.labels.en || choice.label || choice.key || "";',
-         'return choice.labels[locale] || choice.labels.tr || choice.labels.en || choice.label || choice.key || "";'),
-        ('|| state.data?.locales?.en?.[choice.label_key]',
-         '|| state.data?.locales?.tr?.[choice.label_key] || state.data?.locales?.en?.[choice.label_key]'),
-        ('const requested=story.content?.[state.locale]; const content=requested||story.content?.en||""; const fallback=!requested&&state.locale!=="en";',
-         'const requested=story.content?.[state.locale]; const fallbackLang=state.data?.fallback_language||"tr"; const content=requested||story.content?.[fallbackLang]||story.content?.tr||story.content?.en||""; const fallback=!requested&&state.locale!==fallbackLang;'),
-        ('if(s==="community") return t("community_translation","Community Translation");',
-         'if(s==="community") return t("community_translation","Community Translation"); if(s==="machine_draft") return t("machine_draft_translation","Machine Draft");'),
-        ('translationStatus(story,requested?state.locale:"en")',
-         'translationStatus(story,requested?state.locale:(state.data?.fallback_language||"tr"))'),
-        ('const requested=params.get("lang")||stored||state.data.default_language||"en";',
-         'const requested=params.get("lang")||stored||state.data.default_language||"tr";'),
-        ('state.locale=(state.data.languages||["en"]).includes(requested)?requested:"en";',
-         'state.locale=(state.data.languages||["tr","en"]).includes(requested)?requested:"tr";'),
-        ('English is the canonical source; any language can be a source or translation layer under the same story ID.',
-         'Turkish is the canonical story source; other languages are translation layers under the same story ID.')
+        (
+            'function t(key,fallback=key){ return state.data?.locales?.[state.locale]?.[key] || state.data?.locales?.en?.[key] || fallback; }',
+            'function t(key,fallback=key){ const uiFallback=state.data?.interface_fallback_language||"en"; return state.data?.locales?.[state.locale]?.[key] || state.data?.locales?.[uiFallback]?.[key] || state.data?.locales?.en?.[key] || fallback; }'
+        ),
+        (
+            'const requested=story.content?.[state.locale]; const content=requested||story.content?.en||""; const fallback=!requested&&state.locale!=="en";',
+            'const requested=story.content?.[state.locale]; const fallbackLang=state.data?.fallback_language||"en"; const content=requested||story.content?.[fallbackLang]||story.content?.en||""; const fallback=!requested&&state.locale!==fallbackLang;'
+        ),
+        (
+            'if(s==="community") return t("community_translation","Community Translation");',
+            'if(s==="community") return t("community_translation","Community Translation"); if(s==="machine_draft") return t("machine_draft_translation","Machine Draft");'
+        ),
+        (
+            'translationStatus(story,requested?state.locale:"en")',
+            'translationStatus(story,requested?state.locale:(state.data?.fallback_language||"en"))'
+        ),
+        (
+            'English is the canonical source; any language can be a source or translation layer under the same story ID.',
+            'English is the canonical universal source; Turkish is the editorial working source used to refresh English and other translations when it is newer.'
+        )
     ]
     for old, new in replacements:
         s = s.replace(old, new)
