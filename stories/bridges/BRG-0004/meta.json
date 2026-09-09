@@ -24,13 +24,53 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0004/0417-karanligin-cagrisi.png",
     "alt": {
       "en": "A dark dreamlike night over Xerabreşkê near Göbekli Tepe, with an immense black center sending subtle concentric waves across the landscape.",
-      "tr": "Göbekli Tepe yakınındaki Xerabreşkê üzerinde, dev bir karanlık merkezin ince halkalar hâlinde dalgalar yaydığı rüya benzeri gece manzarası."
+      "tr": "Göbekli Tepe yakınındaki Xerabreşkê üzerinde, dev bir karanlık merkezin ince halkalar hâlinde dalgalar yaydığı rüya benzeri gece manzarası.",
+      "de": "Eine traumartige dunkle Nacht über Xerabreşkê nahe Göbekli Tepe, in der ein riesiges dunkles Zentrum feine konzentrische Wellen über die Landschaft sendet.",
+      "es": "Una noche oscura y onírica sobre Xerabreşkê, cerca de Göbekli Tepe, donde un inmenso centro negro emite sutiles ondas concéntricas por el paisaje.",
+      "fr": "Une nuit sombre et onirique au-dessus de Xerabreşkê près de Göbekli Tepe, où un immense centre noir diffuse de fines ondes concentriques dans le paysage.",
+      "it": "Una notte buia e onirica sopra Xerabreşkê vicino a Göbekli Tepe, con un immenso centro nero che diffonde sottili onde concentriche nel paesaggio.",
+      "ru": "Темная, похожая на сон ночь над Xerabreşkê возле Göbekli Tepe, где огромный черный центр распространяет по ландшафту тонкие концентрические волны.",
+      "zh-CN": "Göbekli Tepe 附近 Xerabreşkê 上空如梦般的黑夜，一个巨大的黑暗中心向景观四周发出细微同心波纹。",
+      "ja": "Göbekli Tepe に近い Xerabreşkê の夢のような暗い夜。巨大な黒い中心から、風景へ微かな同心円状の波が広がる。",
+      "ar": "ليلة مظلمة شبيهة بالحلم فوق Xerabreşkê قرب Göbekli Tepe، حيث يرسل مركز أسود هائل موجات دائرية خفيفة عبر المشهد.",
+      "ku": "Şeveke tarî ya mîna xewnê li ser Xerabreşkê ya nêzî Göbekli Tepe; navendeke reş a mezin pêlên hûr ên dorpêçî li ser cografyayê belav dike.",
+      "pt": "Uma noite escura e onírica sobre Xerabreşkê perto de Göbekli Tepe, com um imenso centro negro emitindo ondas concêntricas sutis pela paisagem."
     }
   },
   "links": [
@@ -56,7 +96,17 @@
       "label": "Follow the unresolved call into the unknown.",
       "labels": {
         "en": "Follow the unresolved call into the unknown.",
-        "tr": "Çözümlenmemiş çağrıyı bilinmeyene doğru takip et."
+        "tr": "Çözümlenmemiş çağrıyı bilinmeyene doğru takip et.",
+        "de": "Folge dem ungelösten Ruf ins Unbekannte.",
+        "es": "Sigue la llamada no resuelta hacia lo desconocido.",
+        "fr": "Suis l’appel non résolu vers l’inconnu.",
+        "it": "Segui la chiamata irrisolta verso l’ignoto.",
+        "ru": "Следуй за неразрешенным призывом в неизвестное.",
+        "zh-CN": "追随尚未解决的呼唤走向未知。",
+        "ja": "未解決の呼びかけを追って未知へ進む。",
+        "ar": "اتبع النداء غير المحسوم نحو المجهول.",
+        "ku": "Banga neçareserkirî ber bi nenas ve bişopîne.",
+        "pt": "Siga o chamado não resolvido rumo ao desconhecido."
       },
       "effects": {
         "HUMAN": 2,
@@ -69,7 +119,17 @@
       "label": "Seek evidence for what happened at 04:17.",
       "labels": {
         "en": "Seek evidence for what happened at 04:17.",
-        "tr": "04:17’de ne olduğunu kanıtlarla araştır."
+        "tr": "04:17’de ne olduğunu kanıtlarla araştır.",
+        "de": "Suche Belege dafür, was um 04:17 geschah.",
+        "es": "Busca evidencia de lo que ocurrió a las 04:17.",
+        "fr": "Cherche des preuves de ce qui s’est passé à 04:17.",
+        "it": "Cerca prove di ciò che è accaduto alle 04:17.",
+        "ru": "Ищи доказательства того, что произошло в 04:17.",
+        "zh-CN": "用证据调查 04:17 发生了什么。",
+        "ja": "04:17 に何が起きたのか証拠を探す。",
+        "ar": "ابحث بالأدلة عما حدث عند 04:17.",
+        "ku": "Bi delîlan lêkolîn bike ka di 04:17 de çi bû.",
+        "pt": "Busque evidências do que aconteceu às 04:17."
       },
       "effects": {
         "HUMAN": 2,
@@ -82,7 +142,17 @@
       "label": "Turn the rupture into care, memory and responsibility.",
       "labels": {
         "en": "Turn the rupture into care, memory and responsibility.",
-        "tr": "Kırılmayı merhamete, hafızaya ve sorumluluğa dönüştür."
+        "tr": "Kırılmayı merhamete, hafızaya ve sorumluluğa dönüştür.",
+        "de": "Verwandle die Bruchstelle in Fürsorge, Erinnerung und Verantwortung.",
+        "es": "Transforma la ruptura en cuidado, memoria y responsabilidad.",
+        "fr": "Transforme la rupture en soin, mémoire et responsabilité.",
+        "it": "Trasforma la frattura in cura, memoria e responsabilità.",
+        "ru": "Преврати разлом в заботу, память и ответственность.",
+        "zh-CN": "把断裂转化为关怀、记忆与责任。",
+        "ja": "断裂をケア、記憶、責任へ変える。",
+        "ar": "حوّل الانكسار إلى رعاية وذاكرة ومسؤولية.",
+        "ku": "Şikestinê veguherîne lênêrîn, bîr û berpirsiyariyê.",
+        "pt": "Transforme a ruptura em cuidado, memória e responsabilidade."
       },
       "effects": {
         "HUMAN": 10,
@@ -99,6 +169,96 @@
         "BRG-0002": "04:17, İlk Titreşim'in aynısı olmadan onun daha sonraki bir kırılma ve ihtimal yankısı olarak belirir.",
         "DRK-0001": "Karanlık Merkez burada tek bir cevap kararlılaşmadan önce belirsizlik, özgürlük ve dönüştürücü ihtimal olarak görünür.",
         "COM-0001": "Farklı rüyalar ayrı kalırken aralarındaki ilişkiler daha geniş bir ortak insan anlamı alanı oluşturmaya başlar."
+      }
+    },
+    "de": {
+      "title": "04:17 — Der Ruf aus der Dunkelheit",
+      "summary": "Sieben Zeugen in Xerabreşkê nahe Göbekli Tepe begegnen in unterschiedlichen Träumen derselben Zeit: 04:17. Die Erinnerung an eine große Erschütterung wird weder Prophezeiung noch physikalische Behauptung, sondern eine offene Spur von Möglichkeit, die Leben über Orte und Zeiten hinweg verändert.",
+      "link_notes": {
+        "BRG-0002": "04:17 spiegelt die Erste Vibration als spätere Bruchstelle und Möglichkeit wider, ohne dass beide dasselbe Ereignis werden.",
+        "DRK-0001": "Das Dunkelzentrum erscheint als Ungewissheit, Freiheit und transformative Möglichkeit, bevor sich eine einzige Antwort stabilisiert.",
+        "COM-0001": "Unterschiedliche Träume bleiben verschieden, während ihre Beziehungen ein größeres Feld gemeinsamer menschlicher Bedeutung bilden."
+      }
+    },
+    "es": {
+      "title": "04:17 — La llamada que llegó desde la oscuridad",
+      "summary": "Siete testigos alojados en Xerabreşkê, cerca de Göbekli Tepe, encuentran la misma hora en sueños distintos: 04:17. La memoria de una gran ruptura no se convierte en profecía ni afirmación física, sino en una huella abierta de posibilidad que transforma vidas a través de lugares y tiempos.",
+      "link_notes": {
+        "BRG-0002": "04:17 hace eco de la Primera Vibración como una ruptura posterior que abre posibilidad sin convertirse en el mismo acontecimiento.",
+        "DRK-0001": "El Centro de Oscuridad aparece como incertidumbre, libertad y posibilidad transformadora antes de que se estabilice una única respuesta.",
+        "COM-0001": "Los sueños diferentes permanecen distintos mientras sus relaciones comienzan a formar un campo más amplio de significado humano compartido."
+      }
+    },
+    "fr": {
+      "title": "04:17 — L’appel venu de l’obscurité",
+      "summary": "Sept témoins hébergés à Xerabreşkê près de Göbekli Tepe rencontrent la même heure dans des rêves différents : 04:17. La mémoire d’une grande rupture ne devient ni prophétie ni affirmation physique, mais une trace ouverte de possibilité qui transforme des vies à travers les lieux et les temps.",
+      "link_notes": {
+        "BRG-0002": "04:17 fait écho à la Première Vibration comme une rupture ultérieure qui ouvre la possibilité sans devenir le même événement.",
+        "DRK-0001": "Le Centre d’Obscurité apparaît comme incertitude, liberté et possibilité transformatrice avant qu’une réponse unique ne se stabilise.",
+        "COM-0001": "Les rêves différents restent distincts tandis que leurs relations commencent à former un champ plus vaste de sens humain partagé."
+      }
+    },
+    "it": {
+      "title": "04:17 — La chiamata venuta dall’oscurità",
+      "summary": "Sette testimoni ospitati a Xerabreşkê vicino a Göbekli Tepe incontrano la stessa ora in sogni diversi: 04:17. Il ricordo di una grande frattura non diventa profezia né affermazione fisica, ma una traccia aperta di possibilità che trasforma vite attraverso luoghi e tempi.",
+      "link_notes": {
+        "BRG-0002": "04:17 riecheggia la Prima Vibrazione come una frattura successiva che apre possibilità senza diventare lo stesso evento.",
+        "DRK-0001": "Il Centro dell’Oscurità appare come incertezza, libertà e possibilità trasformativa prima che una sola risposta si stabilizzi.",
+        "COM-0001": "I sogni diversi restano distinti mentre le loro relazioni iniziano a formare un campo più ampio di significato umano condiviso."
+      }
+    },
+    "ru": {
+      "title": "04:17 — Призыв из темноты",
+      "summary": "Семь свидетелей в Xerabreşkê возле Göbekli Tepe встречают в разных снах одно и то же время: 04:17. Память о великом разломе становится не пророчеством и не физическим утверждением, а открытым следом возможности, меняющим жизни в разных местах и временах.",
+      "link_notes": {
+        "BRG-0002": "04:17 перекликается с Первой Вибрацией как более поздний разлом, открывающий возможность, не становясь тем же событием.",
+        "DRK-0001": "Центр Тьмы проявляется как неопределенность, свобода и преобразующая возможность до стабилизации единственного ответа.",
+        "COM-0001": "Разные сны остаются различными, а отношения между ними начинают формировать более широкое поле общего человеческого смысла."
+      }
+    },
+    "zh-CN": {
+      "title": "04:17 — 来自黑暗的呼唤",
+      "summary": "住在 Göbekli Tepe 附近 Xerabreşkê 的七名见证者，在彼此不同的梦中遇到同一时间：04:17。巨大断裂的记忆没有变成预言或物理主张，而成为一种开放的可能性痕迹，在不同地点与时间改变人的生命。",
+      "link_notes": {
+        "BRG-0002": "04:17 呼应第一次振动，成为后来开启可能性的断裂，但两者并不是同一事件。",
+        "DRK-0001": "黑暗中心在唯一答案稳定之前，以不确定性、自由和转化可能性的形式出现。",
+        "COM-0001": "不同的梦保持各自差异，而它们之间的关系开始形成更广阔的共同人类意义场。"
+      }
+    },
+    "ja": {
+      "title": "04:17 — 闇の中から来た呼びかけ",
+      "summary": "Göbekli Tepe に近い Xerabreşkê に滞在する七人の目撃者が、異なる夢の中で同じ時刻04:17に出会う。大きな断裂の記憶は予言や物理的主張にはならず、場所と時間を越えて人生を変える、開かれた可能性の痕跡となる。",
+      "link_notes": {
+        "BRG-0002": "04:17 は第一の振動を、同じ出来事ではない後の断裂と可能性として響かせる。",
+        "DRK-0001": "闇の中心は、一つの答えが固定される前の不確実性、自由、変容の可能性として現れる。",
+        "COM-0001": "異なる夢は別々のまま、その関係がより広い共有された人間的意味の場を作り始める。"
+      }
+    },
+    "ar": {
+      "title": "04:17 — النداء القادم من الظلام",
+      "summary": "يلتقي سبعة شهود يقيمون في Xerabreşkê قرب Göbekli Tepe بالوقت نفسه داخل أحلام مختلفة: 04:17. لا تتحول ذكرى الانكسار الكبير إلى نبوءة أو ادعاء فيزيائي، بل إلى أثر احتمال مفتوح يغير حياة البشر عبر الأمكنة والأزمنة.",
+      "link_notes": {
+        "BRG-0002": "يتردد 04:17 مع الاهتزاز الأول بوصفه انكسارًا لاحقًا يفتح الاحتمال من دون أن يصبح الحدث نفسه.",
+        "DRK-0001": "يظهر مركز الظلام هنا بوصفه عدم يقين وحرية واحتمالًا تحويليًا قبل استقرار إجابة واحدة.",
+        "COM-0001": "تبقى الأحلام المختلفة متميزة، بينما تبدأ العلاقات بينها بتشكيل مجال أوسع من المعنى الإنساني المشترك."
+      }
+    },
+    "ku": {
+      "title": "04:17 — Banga ku Ji Nav Tarîtiyê Hat",
+      "summary": "Heft şahidên li Xerabreşkê ya nêzî Göbekli Tepe di xewnên cuda de bi heman saetê re rû bi rû dibin: 04:17. Bîranîna şikestineke mezin ne dibe pêxemberî ne îdiayeke fizîkî; dibe şopeke vekirî ya ihtîmalê ku li cih û demên cuda jiyan diguherîne.",
+      "link_notes": {
+        "BRG-0002": "04:17 wek şikestinek paşerojê ya ku ihtîmal vedike bi Lerizîna Yekem re deng vedide, bê ku bibe heman bûyer.",
+        "DRK-0001": "Navenda Tarîtiyê berî ku yek bersiv stabîl bibe wek nezelalî, azadî û ihtîmala veguherîner xuya dibe.",
+        "COM-0001": "Xewnên cuda cuda dimînin, lê têkiliyên wan dest pê dikin qada wateya mirovî ya hevpar a berfirehtir ava bikin."
+      }
+    },
+    "pt": {
+      "title": "04:17 — O chamado vindo da escuridão",
+      "summary": "Sete testemunhas hospedadas em Xerabreşkê, perto de Göbekli Tepe, encontram a mesma hora em sonhos diferentes: 04:17. A memória de uma grande ruptura não se torna profecia nem afirmação física, mas uma marca aberta de possibilidade que transforma vidas através de lugares e tempos.",
+      "link_notes": {
+        "BRG-0002": "04:17 ecoa a Primeira Vibração como uma ruptura posterior que abre possibilidade sem se tornar o mesmo evento.",
+        "DRK-0001": "O Centro da Escuridão aparece como incerteza, liberdade e possibilidade transformadora antes de uma única resposta se estabilizar.",
+        "COM-0001": "Sonhos diferentes permanecem distintos enquanto suas relações começam a formar um campo mais amplo de significado humano compartilhado."
       }
     }
   }
