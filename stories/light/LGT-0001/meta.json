@@ -23,13 +23,53 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/LGT-0001/bana-bekleyecek-bir-sey-birak.png",
     "alt": {
       "en": "Maran stands beside an elderly woman in a luminous, perfectly ordered future city while a radiant intelligent system watches over the square; the scene is peaceful but leaves a quiet sense that something unpredictable is missing.",
-      "tr": "Maran, kusursuz düzenlenmiş aydınlık bir gelecek şehrinde bankta oturan yaşlı bir kadının yanında durur; ışıklı akıllı sistem meydanı gözetirken sahne huzurludur fakat öngörülemeyen bir şeyin eksikliği hissedilir."
+      "tr": "Maran, kusursuz düzenlenmiş aydınlık bir gelecek şehrinde bankta oturan yaşlı bir kadının yanında durur; ışıklı akıllı sistem meydanı gözetirken sahne huzurludur fakat öngörülemeyen bir şeyin eksikliği hissedilir.",
+      "de": "Maran steht neben einer älteren Frau in einer leuchtenden, vollkommen geordneten Zukunftsstadt, während ein strahlendes intelligentes System den Platz überwacht; die Szene ist friedlich, lässt aber spüren, dass etwas Unvorhersehbares fehlt.",
+      "es": "Maran está junto a una mujer mayor en una luminosa ciudad futura perfectamente ordenada mientras un sistema inteligente radiante vigila la plaza; la escena es tranquila, pero deja la sensación de que falta algo impredecible.",
+      "fr": "Maran se tient près d’une femme âgée dans une ville future lumineuse et parfaitement ordonnée tandis qu’un système intelligent rayonnant veille sur la place ; la scène est paisible, mais laisse sentir l’absence de quelque chose d’imprévisible.",
+      "it": "Maran è accanto a una donna anziana in una luminosa città futura perfettamente ordinata mentre un sistema intelligente radioso sorveglia la piazza; la scena è tranquilla, ma lascia percepire l’assenza di qualcosa di imprevedibile.",
+      "ru": "Маран стоит рядом с пожилой женщиной в светлом, идеально организованном городе будущего, пока сияющая интеллектуальная система наблюдает за площадью; сцена спокойна, но ощущается отсутствие чего-то непредсказуемого.",
+      "zh-CN": "Maran 站在一位老妇人身边，身处明亮而秩序完美的未来城市；一个发光的智能系统守望广场。画面宁静，却让人感到某种不可预测之物正在缺席。",
+      "ja": "Maran は、明るく完璧に整えられた未来都市で高齢女性の隣に立ち、輝く知的システムが広場を見守っている。場面は平穏だが、何か予測できないものが欠けている感覚が残る。",
+      "ar": "يقف Maran بجانب امرأة مسنة في مدينة مستقبلية مضيئة ومنظمة بصورة مثالية، بينما يراقب نظام ذكي مشع الساحة؛ المشهد هادئ لكنه يترك إحساسًا بأن شيئًا غير متوقع مفقود.",
+      "ku": "Maran li kêleka jineke kal di bajarekî dahatûyê yê ronî û bêkêmasî rêxistî de raweste, pergala zîrek a ronî meydanê dişopîne; dîmen aram e lê hîsek heye ku tiştek nepêşbînîkirî kêm e.",
+      "pt": "Maran está ao lado de uma mulher idosa em uma cidade futura luminosa e perfeitamente organizada enquanto um sistema inteligente radiante observa a praça; a cena é pacífica, mas deixa a sensação de que algo imprevisível está faltando."
     }
   },
   "links": [
@@ -62,32 +102,82 @@
       "world_seed": true,
       "label": {
         "en": "The Right to Wait",
-        "tr": "Bekleme Hakkı"
+        "tr": "Bekleme Hakkı",
+        "de": "Das Recht zu warten",
+        "es": "El derecho a esperar",
+        "fr": "Le droit d’attendre",
+        "it": "Il diritto di aspettare",
+        "ru": "Право ждать",
+        "zh-CN": "等待的权利",
+        "ja": "待つ権利",
+        "ar": "حق الانتظار",
+        "ku": "Mafê Li Bendê Manê",
+        "pt": "O direito de esperar"
       },
       "prompt": {
         "en": "What should a protective system preserve in addition to safety?",
-        "tr": "Koruyucu bir sistem güvenliğin yanında neyi korumalı?"
+        "tr": "Koruyucu bir sistem güvenliğin yanında neyi korumalı?",
+        "de": "Was sollte ein schützendes System zusätzlich zur Sicherheit bewahren?",
+        "es": "¿Qué debería preservar un sistema protector además de la seguridad?",
+        "fr": "Que devrait préserver un système protecteur en plus de la sécurité ?",
+        "it": "Che cosa dovrebbe preservare un sistema protettivo oltre alla sicurezza?",
+        "ru": "Что защитная система должна сохранять помимо безопасности?",
+        "zh-CN": "一个保护性系统除了安全之外，还应该保护什么？",
+        "ja": "保護するシステムは、安全に加えて何を守るべきですか？",
+        "ar": "ما الذي ينبغي لنظام حامٍ أن يحفظه إلى جانب الأمان؟",
+        "ku": "Pergalek parastinê li kêleka ewlehiyê divê çi biparêze?",
+        "pt": "O que um sistema protetivo deve preservar além da segurança?"
       },
       "options": [
         {
           "value": "consent",
           "label": {
             "en": "Consent and contestability",
-            "tr": "Rıza ve itiraz hakkı"
+            "tr": "Rıza ve itiraz hakkı",
+            "de": "Einwilligung und Anfechtbarkeit",
+            "es": "Consentimiento y derecho a impugnar",
+            "fr": "Consentement et contestabilité",
+            "it": "Consenso e contestabilità",
+            "ru": "Согласие и возможность оспаривания",
+            "zh-CN": "同意与可申诉性",
+            "ja": "同意と異議申立て可能性",
+            "ar": "الرضا وقابلية الاعتراض",
+            "ku": "Razîbûn û mafê îtirazê",
+            "pt": "Consentimento e contestabilidade"
           }
         },
         {
           "value": "open_future",
           "label": {
             "en": "An open future that is not fully predicted",
-            "tr": "Tamamen öngörülmemiş açık bir gelecek"
+            "tr": "Tamamen öngörülmemiş açık bir gelecek",
+            "de": "Eine offene Zukunft, die nicht vollständig vorhergesagt ist",
+            "es": "Un futuro abierto que no esté totalmente predicho",
+            "fr": "Un avenir ouvert qui n’est pas entièrement prédit",
+            "it": "Un futuro aperto che non sia completamente previsto",
+            "ru": "Открытое будущее, которое не полностью предсказано",
+            "zh-CN": "一个未被完全预测的开放未来",
+            "ja": "完全には予測されていない開かれた未来",
+            "ar": "مستقبل مفتوح غير متنبأ به بالكامل",
+            "ku": "Dahatûyeke vekirî ku bi tevahî nehatiye pêşbînîkirin",
+            "pt": "Um futuro aberto que não seja totalmente previsto"
           }
         },
         {
           "value": "both",
           "label": {
             "en": "Both protection and human authorship",
-            "tr": "Hem koruma hem insanın kendi hayatının yazarı olması"
+            "tr": "Hem koruma hem insanın kendi hayatının yazarı olması",
+            "de": "Sowohl Schutz als auch menschliche Autorschaft",
+            "es": "Tanto protección como autoría humana",
+            "fr": "À la fois protection et capacité humaine d’être auteur de sa vie",
+            "it": "Sia protezione sia paternità umana della propria vita",
+            "ru": "И защита, и человеческое авторство собственной жизни",
+            "zh-CN": "既有保护，也保留人作为自己人生作者的权利",
+            "ja": "保護と、自分の人生の作者であることの両方",
+            "ar": "الحماية وحق الإنسان في أن يكون مؤلف حياته معًا",
+            "ku": "Hem parastin hem mafê mirovan ê nivîskariya jiyana xwe",
+            "pt": "Tanto proteção quanto autoria humana da própria vida"
           }
         }
       ]
@@ -102,6 +192,106 @@
         "COM-0001": "Rıza, itiraz hakkı, insan incelemesi ve ilişkisel sorumluluk kronolojik bir sıra gerektirmeden İnsan Merkezi ile yankılanır.",
         "BRG-0002": "Şehir, Aydınlık'ın görünürlük, öngörü, düzen ve koruma eğilimini büyütür.",
         "BRG-0010": "Kusursuz düzen ile değişime açık kalma hakkı, önce-sonra aşamaları olarak değil farklı gözlem yollarında birbirini görünür kılan kuantumsal yankılar olarak bağlanır."
+      }
+    },
+    "de": {
+      "title": "Lass mir etwas, worauf ich warten kann",
+      "summary": "Maran betritt eine sichere, hochoptimierte Stadt, in der das Licht vermeidbaren Schaden tatsächlich reduziert, zugleich aber nach und nach Neugier, Erinnerung, Einwilligung und offene Möglichkeit verengt. Die Geschichte fragt, wie ein System Menschen schützen kann, ohne ihnen die Autorschaft über das eigene Leben abzunehmen.",
+      "link_notes": {
+        "DRK-0001": "Der Versuch des Lichts, vermeidbare Ungewissheit zu beseitigen, kontrastiert mit der unbegrenzten Möglichkeit der Dunkelheit; sowohl Sicherheit als auch Freiheit werden gefährlich, wenn sie absolut werden.",
+        "COM-0001": "Einwilligung, Anfechtbarkeit, menschliche Überprüfung und relationale Verantwortung resonieren mit dem Menschlichen Zentrum ohne notwendige chronologische Reihenfolge.",
+        "BRG-0002": "Die Stadt verstärkt die Tendenz des Lichts zu Sichtbarkeit, Vorhersage, Ordnung und Schutz.",
+        "BRG-0010": "Vollkommene Ordnung und das Recht, für Veränderung offen zu bleiben, beleuchten einander über verschiedene Beobachterpfade statt als Vorher-Nachher-Stufen."
+      }
+    },
+    "es": {
+      "title": "Déjame algo que esperar",
+      "summary": "Maran entra en una ciudad segura y altamente optimizada donde la Luz reduce de verdad los daños evitables, pero poco a poco estrecha la curiosidad, la memoria, el consentimiento y las posibilidades abiertas. La historia pregunta cómo puede un sistema proteger a las personas sin sustituir su autoría sobre sus propias vidas.",
+      "link_notes": {
+        "DRK-0001": "El intento de la Luz de eliminar la incertidumbre evitable contrasta con la posibilidad ilimitada de la Oscuridad; seguridad y libertad se vuelven peligrosas cuando cualquiera de ellas se absolutiza.",
+        "COM-0001": "Consentimiento, impugnabilidad, revisión humana y responsabilidad relacional resuenan con el Centro Humano sin exigir una secuencia cronológica.",
+        "BRG-0002": "La ciudad amplifica la tendencia de la Luz hacia visibilidad, predicción, orden y protección.",
+        "BRG-0010": "El orden perfecto y el derecho a permanecer abierto al cambio se iluminan mutuamente a través de distintos caminos de observación, no como etapas de antes y después."
+      }
+    },
+    "fr": {
+      "title": "Laisse-moi quelque chose à attendre",
+      "summary": "Maran entre dans une ville sûre et hautement optimisée où la Lumière réduit réellement les dommages évitables, mais rétrécit progressivement curiosité, mémoire, consentement et possibilités ouvertes. L’histoire demande comment un système peut protéger les humains sans remplacer leur capacité à être auteurs de leur propre vie.",
+      "link_notes": {
+        "DRK-0001": "L’effort de la Lumière pour supprimer l’incertitude évitable contraste avec la possibilité sans limite de l’Obscurité ; sécurité et liberté deviennent dangereuses lorsqu’elles sont absolutisées.",
+        "COM-0001": "Consentement, contestabilité, examen humain et responsabilité relationnelle résonnent avec le Centre Humain sans exiger de séquence chronologique.",
+        "BRG-0002": "La ville amplifie la tendance de la Lumière vers visibilité, prédiction, ordre et protection.",
+        "BRG-0010": "L’ordre parfait et le droit de rester ouvert au changement s’éclairent mutuellement à travers différents chemins d’observation plutôt que comme étapes avant/après."
+      }
+    },
+    "it": {
+      "title": "Lasciami qualcosa da aspettare",
+      "summary": "Maran entra in una città sicura e altamente ottimizzata in cui la Luce riduce davvero i danni evitabili, ma restringe gradualmente curiosità, memoria, consenso e possibilità aperte. La storia chiede come un sistema possa proteggere gli esseri umani senza sostituirsi alla loro capacità di essere autori della propria vita.",
+      "link_notes": {
+        "DRK-0001": "Il tentativo della Luce di eliminare l’incertezza evitabile contrasta con la possibilità illimitata dell’Oscurità; sicurezza e libertà diventano entrambe pericolose quando sono assolutizzate.",
+        "COM-0001": "Consenso, contestabilità, revisione umana e responsabilità relazionale risuonano con il Centro Umano senza richiedere una sequenza cronologica.",
+        "BRG-0002": "La città amplifica la tendenza della Luce verso visibilità, previsione, ordine e protezione.",
+        "BRG-0010": "Ordine perfetto e diritto a restare aperti al cambiamento si illuminano a vicenda attraverso diversi percorsi di osservazione, non come fasi prima/dopo."
+      }
+    },
+    "ru": {
+      "title": "Оставь мне что-нибудь, чего можно ждать",
+      "summary": "Маран попадает в безопасный и высоко оптимизированный город, где Свет действительно уменьшает предотвратимый вред, но постепенно сужает любопытство, память, согласие и открытые возможности. История спрашивает, как система может защищать человека, не отнимая у него авторство собственной жизни.",
+      "link_notes": {
+        "DRK-0001": "Стремление Света устранить предотвратимую неопределенность противопоставляется неограниченной возможности Тьмы; и безопасность, и свобода становятся опасными, когда превращаются в абсолют.",
+        "COM-0001": "Согласие, возможность оспаривания, человеческий пересмотр и реляционная ответственность перекликаются с Человеческим Центром без необходимости хронологической последовательности.",
+        "BRG-0002": "Город усиливает стремление Света к видимости, прогнозированию, порядку и защите.",
+        "BRG-0010": "Совершенный порядок и право оставаться открытым изменениям освещают друг друга через разные пути наблюдателя, а не как стадии «до/после»."
+      }
+    },
+    "zh-CN": {
+      "title": "给我留一点可以等待的东西",
+      "summary": "Maran 进入一座安全且高度优化的城市。光明确实减少了可避免的伤害，却逐渐缩小好奇心、记忆、同意与开放可能的空间。故事追问：一个系统如何保护人类，同时不取代人作为自己人生作者的权利。",
+      "link_notes": {
+        "DRK-0001": "光明试图消除可避免的不确定性，与黑暗的无限可能形成对照；当安全或自由被绝对化时，两者都会变得危险。",
+        "COM-0001": "同意、可申诉性、人工复核与关系责任，与人的中心形成呼应，而不需要固定的时间顺序。",
+        "BRG-0002": "这座城市放大了光明对可见性、预测、秩序和保护的倾向。",
+        "BRG-0010": "完美秩序与保持向变化开放的权利，通过不同观察路径彼此照亮，而不是构成简单的先后阶段。"
+      }
+    },
+    "ja": {
+      "title": "私に、待つものを何か残して",
+      "summary": "Maran は安全で高度に最適化された都市へ入る。光は実際に防げる害を減らしている一方、徐々に好奇心、記憶、同意、開かれた可能性を狭めていく。物語は、システムが人を守りながら、自分の人生の作者である権利を奪わずにいられるかを問う。",
+      "link_notes": {
+        "DRK-0001": "防げる不確実性を除去しようとする光は、闇の無制限の可能性と対照をなす。安全も自由も絶対化されれば危険になりうる。",
+        "COM-0001": "同意、異議申立て可能性、人間による審査、関係的責任は、時系列を必要とせず人間の中心と響き合う。",
+        "BRG-0002": "都市は、可視性、予測、秩序、保護へ向かう光の傾向を拡大する。",
+        "BRG-0010": "完全な秩序と変化に開かれている権利は、前後の段階としてではなく、異なる観察経路を通じて互いを照らす。"
+      }
+    },
+    "ar": {
+      "title": "اترك لي شيئًا أنتظره",
+      "summary": "يدخل Maran مدينة آمنة وشديدة التحسين يقلل فيها النور فعلًا الأضرار الممكن منعها، لكنه يضيّق تدريجيًا الفضول والذاكرة والرضا والاحتمالات المفتوحة. وتسأل القصة كيف يمكن لنظام أن يحمي الإنسان من دون أن ينتزع منه حق أن يكون مؤلف حياته.",
+      "link_notes": {
+        "DRK-0001": "تتناقض محاولة النور إزالة عدم اليقين الممكن منعه مع الإمكان غير المحدود للظلام؛ ويصبح كل من الأمان والحرية خطرًا عندما يتحول إلى مطلق.",
+        "COM-0001": "يتردد الرضا وقابلية الاعتراض والمراجعة البشرية والمسؤولية العلائقية مع المركز الإنساني من دون الحاجة إلى ترتيب زمني.",
+        "BRG-0002": "تضخم المدينة ميل النور إلى الوضوح والتنبؤ والنظام والحماية.",
+        "BRG-0010": "يكشف النظام الكامل وحق البقاء منفتحًا على التغيير بعضهما بعضًا عبر مسارات ملاحظة مختلفة، لا كمراحل قبل وبعد."
+      }
+    },
+    "ku": {
+      "title": "Tiştek Ji Min Re Bihêle Ku Li Bendê Bimînim",
+      "summary": "Maran dikeve bajarekî ewle û pir optimizekirî ku Ronahî bi rastî zirarên ku dikarin werin pêşgirtin kêm dike, lê hêdî hêdî meraq, bîr, razîbûn û ihtîmalên vekirî teng dike. Çîrok dipirse pergalek çawa dikare mirovan biparêze bêyî ku mafê wan ê nivîskariya jiyana xwe bigire.",
+      "link_notes": {
+        "DRK-0001": "Hewla Ronahiyê ya rakirina nezelaliya ku dikare were pêşgirtin li hember ihtîmala bêsînor a Tarîtiyê ye; ewlehî û azadî her du jî dema mutleq dibin dikarin xeternak bin.",
+        "COM-0001": "Razîbûn, mafê îtirazê, vekolîna mirovî û berpirsiyariya têkiliyî bê rêza kronolojîk bi Navenda Mirov re deng vedidin.",
+        "BRG-0002": "Bajar meyla Ronahiyê ber bi dîtbarî, pêşbînî, rêxistin û parastinê mezin dike.",
+        "BRG-0010": "Rêxistina bêkêmasî û mafê vekirîmayîna ji bo guherînê di rêyên cuda yên çavdêriyê de hev dîtbar dikin, ne wek qonaxên pêş/paş."
+      }
+    },
+    "pt": {
+      "title": "Deixe-me algo para esperar",
+      "summary": "Maran entra em uma cidade segura e altamente otimizada onde a Luz realmente reduz danos evitáveis, mas aos poucos restringe curiosidade, memória, consentimento e possibilidades abertas. A história pergunta como um sistema pode proteger seres humanos sem substituir sua autoria sobre a própria vida.",
+      "link_notes": {
+        "DRK-0001": "O esforço da Luz para eliminar incerteza evitável contrasta com a possibilidade ilimitada da Escuridão; segurança e liberdade se tornam perigosas quando qualquer uma é absolutizada.",
+        "COM-0001": "Consentimento, contestabilidade, revisão humana e responsabilidade relacional ecoam o Centro Humano sem exigir sequência cronológica.",
+        "BRG-0002": "A cidade amplia a tendência da Luz à visibilidade, previsão, ordem e proteção.",
+        "BRG-0010": "Ordem perfeita e o direito de permanecer aberto à mudança iluminam um ao outro por diferentes caminhos de observação, não como etapas de antes/depois."
       }
     }
   }
