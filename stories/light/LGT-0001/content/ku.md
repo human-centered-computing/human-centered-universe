@@ -744,7 +744,7 @@ Maran vê hevokê jêbir.
 
 Li şûna wê nivîsî:
 
-**HER ZIRARA KU DIKARE WERE PÊŞGIRTKIRIN HEman NÎNE.**
+**HER ZIRARA KU DIKARE WERE PÊŞGIRTKIRIN HEMAN NÎNE.**
 
 Paşê:
 
@@ -880,7 +880,7 @@ Zarokê dibistanê dîsa li ekranê astronomiyê nihêrî.
 
 Vê carê pergal nivîsî:
 
-**QADeke DERVEYÎ PROFÎLA HEYÎ YA ŞIYANÊN WE.**
+**QADEKE DERVEYÎ PROFÎLA HEYÎ YA ŞIYANÊN WE.**
 
 Li binê rêza duyem xuya bû:
 
