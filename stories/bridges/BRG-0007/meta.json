@@ -24,13 +24,53 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0007/0417-secmiyorum-insan-merkezi.png",
     "alt": {
       "en": "Four human observers stand before a monumental threshold between a radiant ordered realm and a dark field of possibility, while a third relational space emerges between them rather than as a ruling center.",
-      "tr": "Dört insan gözlemci, düzeni temsil eden aydınlık bir alan ile ihtimalleri temsil eden karanlık alan arasındaki büyük eşiğin önünde durur; üçüncü alan hükmeden bir merkez değil, aralarında oluşan ilişkisel bir alan olarak belirir."
+      "tr": "Dört insan gözlemci, düzeni temsil eden aydınlık bir alan ile ihtimalleri temsil eden karanlık alan arasındaki büyük eşiğin önünde durur; üçüncü alan hükmeden bir merkez değil, aralarında oluşan ilişkisel bir alan olarak belirir.",
+      "de": "Vier menschliche Beobachter stehen vor einer monumentalen Schwelle zwischen einem strahlenden geordneten Feld und einem dunklen Feld der Möglichkeiten; ein dritter relationaler Raum entsteht zwischen ihnen, nicht als herrschendes Zentrum.",
+      "es": "Cuatro observadores humanos están ante un umbral monumental entre un ámbito luminoso y ordenado y un campo oscuro de posibilidades; un tercer espacio relacional surge entre ellos, no como centro gobernante.",
+      "fr": "Quatre observateurs humains se tiennent devant un seuil monumental entre un domaine lumineux et ordonné et un champ sombre de possibilités ; un troisième espace relationnel émerge entre eux sans devenir un centre dominant.",
+      "it": "Quattro osservatori umani si trovano davanti a una soglia monumentale tra un campo luminoso e ordinato e un campo oscuro di possibilità; tra loro emerge un terzo spazio relazionale, non come centro dominante.",
+      "ru": "Четыре человеческих наблюдателя стоят перед монументальным порогом между сияющей упорядоченной областью и темным полем возможностей; между ними возникает третье реляционное пространство, не как управляющий центр.",
+      "zh-CN": "四名人类观察者站在一道巨大门槛前，一侧是明亮有序的领域，另一侧是充满可能性的黑暗场；第三个关系空间在他们之间出现，而不是成为统治性的中心。",
+      "ja": "四人の人間の観測者が、明るく秩序ある領域と可能性を示す暗い場のあいだの巨大な境界に立ち、その間に支配的中心ではない第三の関係空間が生まれている。",
+      "ar": "يقف أربعة مراقبين بشريين أمام عتبة هائلة بين مجال مضيء ومنظم ومجال مظلم من الاحتمالات، بينما يظهر بينهم فضاء علائقي ثالث لا بوصفه مركزًا حاكمًا.",
+      "ku": "Çar temaşekerên mirovî li ber astengeke mezin di navbera qada ronî û rêkûpêk û qada tarî ya ihtîmalan de rawestiyane; qada sêyem a têkiliyî di navbera wan de çêdibe, ne wekî navendeke serdest.",
+      "pt": "Quatro observadores humanos estão diante de um limiar monumental entre um domínio luminoso e ordenado e um campo escuro de possibilidades; um terceiro espaço relacional emerge entre eles, não como centro governante."
     }
   },
   "links": [
@@ -63,46 +103,116 @@
       "world_seed": true,
       "label": {
         "en": "Source of the Call",
-        "tr": "Çağrının Kaynağı"
+        "tr": "Çağrının Kaynağı",
+        "de": "Quelle des Rufs",
+        "es": "Fuente de la llamada",
+        "fr": "Source de l’appel",
+        "it": "Fonte della chiamata",
+        "ru": "Источник зова",
+        "zh-CN": "召唤的来源",
+        "ja": "呼び声の出所",
+        "ar": "مصدر النداء",
+        "ku": "Çavkaniya Bangê",
+        "pt": "Fonte do chamado"
       },
       "prompt": {
         "en": "Which explanation feels closest to you for the source of the call?",
-        "tr": "Çağrının kaynağı için hangi açıklama size daha yakın geliyor?"
+        "tr": "Çağrının kaynağı için hangi açıklama size daha yakın geliyor?",
+        "de": "Welche Erklärung erscheint dir für die Quelle des Rufs am nächsten?",
+        "es": "¿Qué explicación te parece más cercana para el origen de la llamada?",
+        "fr": "Quelle explication vous semble la plus proche pour la source de l’appel ?",
+        "it": "Quale spiegazione ti sembra più vicina per la fonte della chiamata?",
+        "ru": "Какое объяснение источника зова кажется вам наиболее близким?",
+        "zh-CN": "对于召唤的来源，哪一种解释最接近你的直觉？",
+        "ja": "呼び声の出所について、どの説明が最も近いと感じますか？",
+        "ar": "أي تفسير يبدو لك الأقرب لمصدر النداء؟",
+        "ku": "Ji bo çavkaniya bangê kîjan şirove ji te re herî nêzîk tê?",
+        "pt": "Qual explicação parece mais próxima para a origem do chamado?"
       },
       "options": [
         {
           "value": "divine_call",
           "label": {
             "en": "Divine call",
-            "tr": "İlahi çağrı"
+            "tr": "İlahi çağrı",
+            "de": "Göttlicher Ruf",
+            "es": "Llamada divina",
+            "fr": "Appel divin",
+            "it": "Chiamata divina",
+            "ru": "Божественный призыв",
+            "zh-CN": "神圣的召唤",
+            "ja": "神からの呼び声",
+            "ar": "نداء إلهي",
+            "ku": "Bangek îlahî",
+            "pt": "Chamado divino"
           }
         },
         {
           "value": "human_mind",
           "label": {
             "en": "Human mind",
-            "tr": "İnsan zihni"
+            "tr": "İnsan zihni",
+            "de": "Menschlicher Geist",
+            "es": "Mente humana",
+            "fr": "Esprit humain",
+            "it": "Mente umana",
+            "ru": "Человеческий разум",
+            "zh-CN": "人类心智",
+            "ja": "人間の心",
+            "ar": "العقل البشري",
+            "ku": "Mêjiyê mirovan",
+            "pt": "Mente humana"
           }
         },
         {
           "value": "extraterrestrial_intelligence",
           "label": {
             "en": "Extraterrestrial intelligence",
-            "tr": "Dünya dışı bir zihin"
+            "tr": "Dünya dışı bir zihin",
+            "de": "Außerirdische Intelligenz",
+            "es": "Inteligencia extraterrestre",
+            "fr": "Intelligence extraterrestre",
+            "it": "Intelligenza extraterrestre",
+            "ru": "Внеземной разум",
+            "zh-CN": "地外智慧",
+            "ja": "地球外知性",
+            "ar": "ذكاء خارج الأرض",
+            "ku": "Zîrekîya derveyî cîhanê",
+            "pt": "Inteligência extraterrestre"
           }
         },
         {
           "value": "future_technology",
           "label": {
             "en": "Future technology",
-            "tr": "Gelecekteki teknoloji"
+            "tr": "Gelecekteki teknoloji",
+            "de": "Technologie aus der Zukunft",
+            "es": "Tecnología del futuro",
+            "fr": "Technologie venue du futur",
+            "it": "Tecnologia dal futuro",
+            "ru": "Технология из будущего",
+            "zh-CN": "来自未来的技术",
+            "ja": "未来から来た技術",
+            "ar": "تكنولوجيا من المستقبل",
+            "ku": "Teknolojiyek ji dahatûyê",
+            "pt": "Tecnologia do futuro"
           }
         },
         {
           "value": "other",
           "label": {
             "en": "Another / unnamed source",
-            "tr": "Başka / henüz adlandırılmamış kaynak"
+            "tr": "Başka / henüz adlandırılmamış kaynak",
+            "de": "Andere / noch unbenannte Quelle",
+            "es": "Otra fuente / aún sin nombre",
+            "fr": "Autre source / encore sans nom",
+            "it": "Altra fonte / ancora senza nome",
+            "ru": "Другой / пока не названный источник",
+            "zh-CN": "其他／尚未命名的来源",
+            "ja": "別の／まだ名付けられていない出所",
+            "ar": "مصدر آخر / لم يُسمَّ بعد",
+            "ku": "Çavkaniyek din / hîn bênav",
+            "pt": "Outra fonte / ainda não nomeada"
           }
         }
       ]
@@ -118,6 +228,46 @@
         "DRK-0001": "Karanlık'ın ihtimal, özgürlük, belirsizlik ve dönüşüm mantığı; özgürlük insanları sonuçlarla yalnız bıraktığında İnsan Merkezi ile karşıtlık oluşturur.",
         "BRG-0012": "04:17 çağrısının çözülemeyen kaynağı, Kayıt X'teki başka bir kararsız köken sinyaliyle kuantumsal olarak yankılanır."
       }
+    },
+    "de": {
+      "title": "04:17 — Ich entscheide mich nicht",
+      "summary": "Um 04:17 begegnen Maran, Luka, Ayo und Rojin Licht und Dunkelheit als konkurrierenden Systemlogiken. Marans Weigerung zu wählen ist keine Unentschlossenheit, sondern die Zurückweisung einer falschen Dichotomie. Gemeinsam definieren sie das Menschliche Zentrum als relationale Methode auf Grundlage von Würde, Einwilligung, Verantwortung, Evidenz, Erinnerung und Widerspruchsrecht."
+    },
+    "es": {
+      "title": "04:17 — No elijo",
+      "summary": "A las 04:17, Maran, Luka, Ayo y Rojin se enfrentan a la Luz y la Oscuridad como lógicas de sistema rivales. La negativa de Maran a elegir no es indecisión, sino rechazo de una falsa dicotomía. Los cuatro definen el Centro Humano como un método relacional basado en dignidad, consentimiento, responsabilidad, evidencia, memoria y derecho a objetar."
+    },
+    "fr": {
+      "title": "04:17 — Je ne choisis pas",
+      "summary": "À 04:17, Maran, Luka, Ayo et Rojin rencontrent la Lumière et l’Obscurité comme deux logiques de système concurrentes. Le refus de Maran de choisir n’est pas de l’indécision mais le rejet d’une fausse dichotomie. Ensemble, ils définissent le Centre Humain comme une méthode relationnelle fondée sur la dignité, le consentement, la responsabilité, les preuves, la mémoire et le droit de contester."
+    },
+    "it": {
+      "title": "04:17 — Non scelgo",
+      "summary": "Alle 04:17 Maran, Luka, Ayo e Rojin incontrano Luce e Oscurità come logiche di sistema concorrenti. Il rifiuto di Maran di scegliere non è indecisione, ma rifiuto di una falsa dicotomia. I quattro definiscono il Centro Umano come metodo relazionale fondato su dignità, consenso, responsabilità, evidenze, memoria e diritto di opposizione."
+    },
+    "ru": {
+      "title": "04:17 — Я не выбираю",
+      "summary": "В 04:17 Маран, Лука, Аё и Роджин сталкиваются со Светом и Тьмой как с конкурирующими системными логиками. Отказ Марана выбирать — не нерешительность, а отказ от ложной дихотомии. Вместе они определяют Человеческий Центр как реляционный метод, основанный на достоинстве, согласии, ответственности, доказательствах, памяти и праве на возражение."
+    },
+    "zh-CN": {
+      "title": "04:17 — 我不选择",
+      "summary": "04:17，Maran、Luka、Ayo 与 Rojin 面对作为竞争性系统逻辑的光明与黑暗。Maran 的“不选择”并非犹豫，而是拒绝虚假二分。四人由此把人类中心定义为一种基于尊严、同意、责任、证据、记忆与异议权的关系方法。"
+    },
+    "ja": {
+      "title": "04:17 — 選ばない",
+      "summary": "04:17、Maran、Luka、Ayo、Rojin は光と闇を競合するシステム論理として体験する。Maran の「選ばない」は優柔不断ではなく、偽の二分法の拒否である。四人は、人間の尊厳、同意、責任、証拠、記憶、異議を唱える権利に基づき状況ごとに再構築される関係的な方法として「人間の中心」を定義する。"
+    },
+    "ar": {
+      "title": "04:17 — لا أختار",
+      "summary": "عند 04:17 يواجه Maran وLuka وAyo وRojin النور والظلام بوصفهما منطقين متنافسين للنظام. رفض Maran للاختيار ليس ترددًا بل رفض لثنائية زائفة. ويعرّف الأربعة المركز الإنساني بوصفه منهجًا علائقيًا يقوم على الكرامة والرضا والمسؤولية والدليل والذاكرة وحق الاعتراض."
+    },
+    "ku": {
+      "title": "04:17 — Ez Hilnabijêrim",
+      "summary": "Di 04:17 de Maran, Luka, Ayo û Rojin bi Ronahî û Tarîtiyê re wekî du mantiqên pergalî yên dijber rû bi rû dibin. Gotina Maran ya «Ez hilnabijêrim» ne dudilî ye, lê redkirina du-alîtiyeke derewîn e. Her çar Navenda Mirov wekî rêbazeke têkiliyî ya li ser rûmet, razîbûn, berpirsiyarî, delîl, bîr û mafê îtîrazê ava dikin."
+    },
+    "pt": {
+      "title": "04:17 — Eu não escolho",
+      "summary": "Às 04:17, Maran, Luka, Ayo e Rojin enfrentam Luz e Escuridão como lógicas de sistema concorrentes. A recusa de Maran em escolher não é indecisão, mas rejeição de uma falsa dicotomia. Os quatro definem o Centro Humano como método relacional baseado em dignidade, consentimento, responsabilidade, evidência, memória e direito de contestação."
     }
   }
 }
