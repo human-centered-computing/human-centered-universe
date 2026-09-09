@@ -1,0 +1,19 @@
+{
+  "version": 6,
+  "language": "de",
+  "locale": "de_DE",
+  "label": "Deutsch",
+  "storage": "github-pages-local",
+  "voice": "de_DE-thorsten-medium",
+  "chapters": [
+    {
+      "id": "BRG-0001",
+      "title": "The Stone Network: Where the Stones Answer",
+      "file": "./BRG-0001.mp3",
+      "duration_seconds": 633.078,
+      "bytes": 7597289,
+      "engine": "Piper",
+      "voice": "de_DE-thorsten-medium"
+    }
+  ]
+}
