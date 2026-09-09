@@ -29,15 +29,10 @@
     const raw = readJson("hcu.observerRaw", { HUMAN: 0, LIGHT: 0, DARK: 0 });
     raw[center] = Number(raw[center] || 0) + 2;
     localStorage.setItem("hcu.observerRaw", JSON.stringify(raw));
-
     const log = readJson("hcu.choiceLog", []);
-    log.push({
-      story_id: ORIGIN_ID,
-      key: `intro_${centers[center].key}`,
-      label: centers[center].en,
+    log.push({ story_id: ORIGIN_ID, key: `intro_${centers[center].key}`, label: centers[center].en,
       effects: { HUMAN: center === "HUMAN" ? 2 : 0, LIGHT: center === "LIGHT" ? 2 : 0, DARK: center === "DARK" ? 2 : 0 },
-      source: "first_vibration_intro"
-    });
+      source: "first_vibration_intro" });
     localStorage.setItem("hcu.choiceLog", JSON.stringify(log));
     localStorage.setItem(INTRO_KEY, JSON.stringify({ center, completed_at: new Date().toISOString() }));
   }
@@ -49,75 +44,53 @@
     setTimeout(() => {
       intro.remove();
       document.body.classList.remove("intro-open");
-      if (reload) {
-        const url = new URL(location.href);
-        url.searchParams.delete("intro");
-        location.replace(url);
-      }
+      if (reload) { const url = new URL(location.href); url.searchParams.delete("intro"); location.replace(url); }
     }, 650);
+  }
+
+  function pillars() {
+    return Array.from({ length: 12 }, (_, index) =>
+      `<span class="pillar" style="--i:${index}" aria-hidden="true"><i></i></span>`).join("");
   }
 
   function mount() {
     if (!shouldOpen()) return;
     const lang = language();
     const copy = lang === "tr" ? {
-      title: "İlk Titreşim",
-      prompt: "İlk yankını seç",
+      place: "Girê Miraza ve Xerawreşk (Göbekli Tepe)", title: "İlk Titreşim", prompt: "İlk yankını seç",
       note: "Aydınlık ve Karanlık iyi ile kötü değildir. İnsan, düzen ve olasılık arasındaki ilk yönelimini seçiyorsun.",
-      skip: "Girişi geç",
-      scene: "Göbekli Tepe'de İlk Titreşim etkileşimli giriş sahnesi"
+      skip: "Girişi geç", scene: "Girê Miraza ve Xerawreşk'te İlk Titreşim etkileşimli giriş sahnesi"
     } : {
-      title: "First Vibration",
-      prompt: "Choose your first echo",
+      place: "Girê Miraza and Xerawreşk (Göbekli Tepe)", title: "First Vibration", prompt: "Choose your first echo",
       note: "Light and Dark are not good and evil. You are choosing your first orientation among humanity, order, and possibility.",
-      skip: "Skip intro",
-      scene: "Interactive First Vibration opening at Göbekli Tepe"
+      skip: "Skip intro", scene: "Interactive First Vibration opening at Girê Miraza and Xerawreşk"
     };
 
     const intro = document.createElement("section");
     intro.id = "first-vibration-intro";
     intro.className = "vibration-intro";
-    intro.setAttribute("role", "dialog");
-    intro.setAttribute("aria-modal", "true");
-    intro.setAttribute("aria-label", copy.scene);
+    intro.setAttribute("role", "dialog"); intro.setAttribute("aria-modal", "true"); intro.setAttribute("aria-label", copy.scene);
     intro.innerHTML = `
       <div class="vibration-sky" aria-hidden="true"><div class="neural-echo"></div></div>
       <div class="vibration-ground" aria-hidden="true"></div>
-      <div class="pillar-field" aria-hidden="true">
-        <span class="pillar pillar-one"><i></i></span><span class="pillar pillar-two"><i></i></span>
-        <span class="pillar pillar-three"><i></i></span><span class="pillar pillar-four"><i></i></span>
-        <span class="pillar pillar-center"><i></i></span>
-      </div>
+      <div class="pillar-field" aria-label="12 T biçimli taş sütun">${pillars()}</div>
       <div class="first-pulse" aria-hidden="true"><span></span><span></span><span></span></div>
       <div class="intro-content">
-        <p class="intro-eyebrow">BRG-0002 · Göbekli Tepe</p>
-        <h1>${copy.title}</h1>
-        <div class="intro-choice-stage">
-          <h2>${copy.prompt}</h2>
-          <p>${copy.note}</p>
-          <div class="intro-choices">
-            ${Object.entries(centers).map(([center, item]) => `<button type="button" data-intro-center="${center}" class="intro-choice ${center}"><span></span><strong>${item[lang]}</strong><small>+2 ${center}</small></button>`).join("")}
-          </div>
-        </div>
-      </div>
-      <button type="button" class="intro-skip">${copy.skip}</button>`;
-
-    document.body.appendChild(intro);
-    document.body.classList.add("intro-open");
+        <p class="intro-eyebrow">BRG-0002 · ${copy.place}</p><h1>${copy.title}</h1>
+        <div class="intro-choice-stage"><h2>${copy.prompt}</h2><p>${copy.note}</p><div class="intro-choices">
+          ${Object.entries(centers).map(([center, item]) => `<button type="button" data-intro-center="${center}" class="intro-choice ${center}"><span></span><strong>${item[lang]}</strong><small>+2 ${center}</small></button>`).join("")}
+        </div></div>
+      </div><button type="button" class="intro-skip">${copy.skip}</button>`;
+    document.body.appendChild(intro); document.body.classList.add("intro-open");
     intro.querySelectorAll("[data-intro-center]").forEach(button => button.addEventListener("click", () => {
-      if (intro.dataset.chosen) return;
-      intro.dataset.chosen = button.dataset.introCenter;
-      button.classList.add("is-chosen");
-      saveChoice(button.dataset.introCenter);
-      setTimeout(() => closeIntro({ reload: true }), 900);
+      if (intro.dataset.chosen) return; intro.dataset.chosen = button.dataset.introCenter; button.classList.add("is-chosen");
+      saveChoice(button.dataset.introCenter); setTimeout(() => closeIntro({ reload: true }), 900);
     }));
     intro.querySelector(".intro-skip").addEventListener("click", () => {
-      localStorage.setItem(INTRO_KEY, JSON.stringify({ skipped: true, completed_at: new Date().toISOString() }));
-      closeIntro();
+      localStorage.setItem(INTRO_KEY, JSON.stringify({ skipped: true, completed_at: new Date().toISOString() })); closeIntro();
     });
     document.addEventListener("keydown", event => { if (event.key === "Escape") intro.querySelector(".intro-skip")?.click(); }, { once: true });
   }
 
-  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", mount, { once: true });
-  else mount();
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", mount, { once: true }); else mount();
 })();
