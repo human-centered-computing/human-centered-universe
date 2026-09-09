@@ -52,5 +52,14 @@
   "story_builder_description": "Gib eine Idee ein, wähle die Sprache der Geschichte, entwickle sie durch HUMAN/LIGHT/DARK, erzeuge die literarische Geschichte, klassifiziere sie nach 30 Kriterien und exportiere GitHub-fertige Dateien.",
   "git_narrative_description": "Git ist Teil der Erzählarchitektur: Ein Commit erzeugt Realität; eine Verbindung verändert Bedeutung.",
   "language_policy_description": "Englisch ist die kanonische, universelle und standardmäßige Sprache. Türkisch ist die redaktionelle Arbeitsquelle, aus der Englisch und andere Übersetzungen neu erzeugt werden, wenn der türkische Text aktueller ist.",
-  "triangle_state_space": "Dreieckiger HCU-Zustandsraum"
+  "triangle_state_space": "Dreieckiger HCU-Zustandsraum",
+  "settings": "Einstellungen",
+  "settings_intro": "Verwalten Sie den Lesefortschritt und Ihre Beobachterreise auf diesem Gerät.",
+  "reading_progress": "Lesefortschritt",
+  "restart_story_description": "Markieren Sie die aktuelle Geschichte als ungelesen und kehren Sie an ihren Anfang zurück. Beobachterentscheidungen und Punktstände bleiben erhalten.",
+  "restart_current_story": "Aktuelle Geschichte neu starten",
+  "journey_data": "Reisedaten",
+  "reset_journey_description": "Löschen Sie auf diesem Gerät den Leseverlauf, Entscheidungen, HUMAN/LIGHT/DARK-Werte, den Quantenpfad und den Eintrag zur Einführung „Erste Schwingung“.",
+  "reset_entire_journey": "Gesamte Reise zurücksetzen",
+  "reset_journey_warning": "Die gesamte Reise zurücksetzen? Lesefortschritt, Entscheidungen und Beobachterstatus werden auf diesem Gerät dauerhaft gelöscht."
 }
