@@ -1,7 +1,7 @@
 {
   "project": "Human-Centered Universe",
-  "canonical_language": "tr",
-  "default_language": "tr",
+  "canonical_language": "en",
+  "default_language": "en",
   "origin_node": "BRG-0002",
   "centers": [
     "HUMAN",
