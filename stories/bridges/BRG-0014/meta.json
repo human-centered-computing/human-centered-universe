@@ -23,17 +23,67 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0014/titresimden-gelen-ask.png",
     "alt": {
       "en": "A painterly family of four at Göbekli Tepe, joined by golden waves of light at dawn.",
-      "tr": "Göbekli Tepe'de şafak ışığında altın titreşimlerle birleşen dört kişilik sanatsal aile tablosu."
+      "tr": "Göbekli Tepe'de şafak ışığında altın titreşimlerle birleşen dört kişilik sanatsal aile tablosu.",
+      "de": "Eine malerische vierköpfige Familie bei Göbekli Tepe, verbunden durch goldene Lichtwellen im Morgengrauen.",
+      "es": "Una familia pictórica de cuatro personas en Göbekli Tepe, unida por ondas doradas de luz al amanecer.",
+      "fr": "Une famille de quatre personnes représentée comme une peinture à Göbekli Tepe, reliée par des vagues de lumière dorée à l'aube.",
+      "it": "Una famiglia di quattro persone in stile pittorico a Göbekli Tepe, unita da onde dorate di luce all'alba.",
+      "ru": "Живописная семья из четырех человек в Göbekli Tepe, объединенная золотыми волнами света на рассвете.",
+      "zh-CN": "Göbekli Tepe 黎明时分的一幅四口之家艺术画面，金色光波将他们连接在一起。",
+      "ja": "Göbekli Tepe の夜明けに、金色の光の波で結ばれた四人家族を描いた絵画的な場面。",
+      "ar": "لوحة فنية لعائلة من أربعة أشخاص في Göbekli Tepe تجمعهم موجات ذهبية من الضوء عند الفجر.",
+      "ku": "Li Göbekli Tepe di sibehê de tabloyek hunerî ya malbatek çar kesî ku bi pêlên zêrîn ên ronahiyê bi hev ve girêdayî ye.",
+      "pt": "Uma família de quatro pessoas em estilo pictórico em Göbekli Tepe, unida por ondas douradas de luz ao amanhecer."
     },
     "caption": {
       "en": "Love from the Vibration",
-      "tr": "Titreşimden Gelen Aşk"
+      "tr": "Titreşimden Gelen Aşk",
+      "de": "Liebe aus der Vibration",
+      "es": "Amor desde la Vibración",
+      "fr": "L'amour venu de la Vibration",
+      "it": "Amore dalla Vibrazione",
+      "ru": "Любовь из Вибрации",
+      "zh-CN": "来自振动的爱",
+      "ja": "振動から生まれた愛",
+      "ar": "الحب القادم من الاهتزاز",
+      "ku": "Evîna ji Lerizînê",
+      "pt": "Amor vindo da Vibração"
     }
   },
   "links": [
@@ -62,6 +112,46 @@
         "COM-0002": "Birinci tekil anlatıcı Maran'dır; onun içsel dönüşümü canon içindeki başka bir hikâyede devam eder.",
         "BRG-0003": "Göbekli Tepe, ilk titreşim ile insan sevgisinin ve hafızasının üst üste geldiği görsel eşiğe dönüşür."
       }
+    },
+    "de": {
+      "title": "Zweite Vibration: Eos — Die erste Morgendämmerung",
+      "summary": "Die in der Ersten Vibration geborenen Gefühle treffen in einem menschlichen Herzen zusammen. Mit Eos erscheint Liebe nicht als einzelnes Gefühl, sondern als gemeinsame Richtung von Neugier, Angst, Sehnsucht, Wut, Barmherzigkeit, Trauer, Freude und Hoffnung."
+    },
+    "es": {
+      "title": "Segunda Vibración: Eos — El primer amanecer",
+      "summary": "Las emociones nacidas en la Primera Vibración convergen en un corazón humano. Con Eos, el amor aparece no como una sola emoción, sino como la dirección compartida de la curiosidad, el miedo, el anhelo, la ira, la compasión, la tristeza, la alegría y la esperanza."
+    },
+    "fr": {
+      "title": "Deuxième Vibration : Eos — La première aube",
+      "summary": "Les émotions nées lors de la Première Vibration convergent dans un cœur humain. Avec Eos, l'amour apparaît non comme un sentiment unique, mais comme la direction commune de la curiosité, de la peur, du manque, de la colère, de la compassion, de la tristesse, de la joie et de l'espoir."
+    },
+    "it": {
+      "title": "Seconda Vibrazione: Eos — La prima alba",
+      "summary": "Le emozioni nate nella Prima Vibrazione convergono in un cuore umano. Con Eos, l'amore appare non come una singola emozione, ma come la direzione comune di curiosità, paura, desiderio, rabbia, compassione, dolore, gioia e speranza."
+    },
+    "ru": {
+      "title": "Вторая Вибрация: Эос — Первый рассвет",
+      "summary": "Эмоции, родившиеся в Первой Вибрации, сходятся в одном человеческом сердце. С Эос любовь предстает не как одно чувство, а как общее направление любопытства, страха, тоски, гнева, сострадания, печали, радости и надежды."
+    },
+    "zh-CN": {
+      "title": "第二次振动：Eos — 第一缕晨曦",
+      "summary": "第一次振动中诞生的情感汇聚在一颗人的心里。通过 Eos，爱情不再是一种单一情感，而成为好奇、恐惧、思念、愤怒、怜悯、悲伤、喜悦与希望共同指向的方向。"
+    },
+    "ja": {
+      "title": "第二の振動：Eos — 最初の夜明け",
+      "summary": "第一の振動で生まれた感情が一つの人間の心に集まる。Eos を通して、愛は一つの感情ではなく、好奇心、恐れ、恋しさ、怒り、慈しみ、悲しみ、喜び、希望が共有する方向として現れる。"
+    },
+    "ar": {
+      "title": "الاهتزاز الثاني: Eos — الفجر الأول",
+      "summary": "تتلاقى المشاعر التي وُلدت في الاهتزاز الأول داخل قلب إنسان واحد. ومع Eos يظهر الحب لا بوصفه شعورًا واحدًا، بل بوصفه الاتجاه المشترك للفضول والخوف والاشتياق والغضب والرحمة والحزن والفرح والأمل."
+    },
+    "ku": {
+      "title": "Lerizîna Duyem: Eos — Sibehê Yekem",
+      "summary": "Hestên ku di Lerizîna Yekem de çêbûn di dilekî mirovî de tên cem hev. Bi Eos re evîn ne wekî hestek tenê, lê wekî rêça hevpar a meraq, tirs, hasret, hêrs, dilovanî, xem, kêfxweşî û hêviyê xuya dibe."
+    },
+    "pt": {
+      "title": "Segunda Vibração: Eos — A primeira aurora",
+      "summary": "As emoções nascidas na Primeira Vibração convergem em um coração humano. Com Eos, o amor aparece não como uma única emoção, mas como a direção compartilhada pela curiosidade, medo, saudade, raiva, compaixão, tristeza, alegria e esperança."
     }
   }
 }
