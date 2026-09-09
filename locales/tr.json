@@ -65,5 +65,14 @@
   "human_short": "İnsan",
   "light_short": "Aydınlık",
   "dark_short": "Karanlık",
-  "triangle_state_space": "HCU üçgensel durum uzayı"
+  "triangle_state_space": "HCU üçgensel durum uzayı",
+  "settings": "Ayarlar",
+  "settings_intro": "Bu cihazdaki okuma ilerlemenizi ve Gözlemci yolculuğunuzu yönetin.",
+  "reading_progress": "Okuma İlerlemesi",
+  "restart_story_description": "Mevcut hikâyeyi okunmamış olarak işaretleyip başına dönün. Gözlemci seçimleri ve puanları korunur.",
+  "restart_current_story": "Mevcut Hikâyeyi Yeniden Başlat",
+  "journey_data": "Yolculuk Verileri",
+  "reset_journey_description": "Bu cihazdaki okuma geçmişini, seçimleri, HUMAN/LIGHT/DARK puanlarını, Kuantum Yolunu ve İlk Titreşim giriş kaydını temizleyin.",
+  "reset_entire_journey": "Tüm Yolculuğu Sıfırla",
+  "reset_journey_warning": "Tüm yolculuğunuzu sıfırlamak istiyor musunuz? Okuma ilerlemesi, seçimler ve Gözlemci Durumu bu cihazdan kalıcı olarak silinecek."
 }
