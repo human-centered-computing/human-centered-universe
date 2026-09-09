@@ -1,27 +1,57 @@
 {
   "id": "BRG-0002",
-  "title": "İlk Titreşim: Arın ve Özüne Dön",
+  "title": "First Vibration: Purify Yourself and Return to Your Essence",
   "original_title": "İlk Titreşim: Arın ve Özüne Dön",
   "core": "BRIDGE",
   "status": "canon",
-  "source_language": "tr",
+  "source_language": "en",
   "book_order": 1,
-  "culture": ["transcultural"],
-  "belief_context": ["plural creation interpretations", "philosophical", "science-fiction"],
-  "summary": "Zaman başlamadan önce Aydınlık ve Karanlık ilk titreşimle ortaya çıkar. Duygular ahlaki yönü baştan belirlenmemiş ilişkisel kuvvetler olarak doğar; insanlık ise çatışmayı ilişkiye dönüştürme ihtimali olarak belirir.",
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "plural creation interpretations",
+    "philosophical",
+    "science-fiction"
+  ],
+  "summary": "Before time begins, Light and Darkness emerge through the first vibration. Emotions arise as relational forces whose moral direction is not predetermined, while humanity appears as the possibility of transforming conflict into relationship.",
   "translations": {
-    "tr": {"status": "canonical"},
-    "en": {"status": "machine_draft"},
-    "de": {"status": "machine_draft"},
-    "es": {"status": "machine_draft"},
-    "fr": {"status": "machine_draft"},
-    "it": {"status": "machine_draft"},
-    "ru": {"status": "machine_draft"},
-    "zh-CN": {"status": "machine_draft"},
-    "ja": {"status": "machine_draft"},
-    "ar": {"status": "machine_draft"},
-    "ku": {"status": "machine_draft"},
-    "pt": {"status": "machine_draft"}
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
+    }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0002/ilk-titresim-kozmik-sarmal.png",
@@ -101,5 +131,6 @@
       "title": "Primeira Vibração: Purifica-te e retorna à tua essência",
       "summary": "Antes do início do tempo, a Luz e a Escuridão surgem com a primeira vibração. As emoções nascem como forças relacionais cuja direção moral não é predeterminada, e a humanidade aparece como a possibilidade de transformar o conflito em relação."
     }
-  }
+  },
+  "translation_working_source_language": "tr"
 }
