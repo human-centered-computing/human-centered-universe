@@ -2,15 +2,23 @@
 
 ## Source of truth
 
-English (`content/en.md`) is the canonical source for every live story.
+Turkish (`content/tr.md`) is the canonical story source for every live story.
 
 ## Multilingual layers
 
-Any language may be added as `content/<language-code>.md`. A translation preserves the same story ID.
+Translations are stored as `content/<language-code>.md` under the same story ID. English is a translation layer just like German, Spanish, Japanese, Kurdish, or any other non-Turkish language.
+
+## Translation direction
+
+```text
+content/tr.md → en, de, es, fr, it, ru, zh-CN, ja, ar, ku, pt
+```
+
+Do not translate from an older English file when a newer Turkish story exists.
 
 ## Fallback
 
-If the selected story language is unavailable, the reader displays English. If the selected language has story content but no interface locale, interface labels remain English.
+If the selected story language is unavailable, the reader displays Turkish. Story fallback and interface fallback are independent.
 
 ## Cultural adaptation
 
@@ -18,10 +26,10 @@ A cultural adaptation is not a translation. It becomes a new story node with its
 
 ## Review states
 
-`canonical` → English source
+`canonical` → current Turkish source
 
 `reviewed` → human-reviewed translation
 
 `community` → contributed translation awaiting final review
 
-`machine_draft` → machine/AI draft, not authoritative
+`machine_draft` → AI-produced translation from the current Turkish source, not yet human-reviewed
