@@ -43,6 +43,15 @@
       "voice": "es_ES-sharvard-medium"
     },
     {
+      "id": "COM-0005",
+      "title": "Human Beings Are Not Raw Material",
+      "file": "./COM-0005.mp3",
+      "duration_seconds": 1288.02,
+      "bytes": 15456593,
+      "engine": "Piper",
+      "voice": "es_ES-sharvard-medium"
+    },
+    {
       "id": "COM-0006",
       "title": "The Universe Changes the Moment You Connect",
       "file": "./COM-0006.mp3",
