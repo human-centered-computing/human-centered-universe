@@ -459,10 +459,15 @@ When a new interface locale is added, add a matching localized README file under
 
 ---
 
-## License
+## Licensing
 
-The software and source code in this repository are licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See `LICENSE`.
+Human-Centered Universe is both a software system and an evolving creative work, so it uses a **two-layer licensing model**:
 
-Code contributions are accepted under the same license so that covered modifications remain open under AGPL-3.0.
+- **Software and source code:** GNU Affero General Public License v3.0 (**AGPL-3.0**) — see `LICENSE`.
+- **Original book, story, translation, artwork, audio, video, animation, and other creative content:** Creative Commons Attribution-ShareAlike 4.0 International (**CC BY-SA 4.0**) — see `CONTENT_LICENSE.md`.
 
-Third-party assets and materials remain subject to their respective licenses and rights notices. Narrative text, original media, datasets, and other non-software artifacts may require artifact-specific licensing where stated.
+This means the universe can be read, copied, translated, remixed, expanded, forked, and adapted, while adaptations of covered creative material remain ShareAlike and covered software remains under AGPL-3.0.
+
+Third-party assets, personal photographs, trademarks, datasets, and separately marked materials remain subject to their own rights and licenses.
+
+See `LICENSING.md` for the artifact-by-artifact policy.
