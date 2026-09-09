@@ -23,6 +23,15 @@
       "bytes": 10806902,
       "engine": "Piper",
       "voice": "es_ES-sharvard-medium"
+    },
+    {
+      "id": "BRG-0018",
+      "title": "The History the Soil Never Wrote: Traces of Girê Miraza",
+      "file": "./BRG-0018.mp3",
+      "duration_seconds": 989.675,
+      "bytes": 11876459,
+      "engine": "Piper",
+      "voice": "es_ES-sharvard-medium"
     }
   ]
 }
