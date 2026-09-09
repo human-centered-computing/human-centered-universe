@@ -14,20 +14,50 @@
     "philosophical",
     "science-fiction"
   ],
-  "summary": "Before time begins, Light and Darkness emerge through a first vibration. Emotions arise as relational forces whose moral direction is not fixed, and humanity appears as the possibility of turning conflict into relationship.",
+  "summary": "Before time begins, Light and Darkness emerge through the first vibration. Emotions arise as relational forces whose moral direction is not predetermined, while humanity appears as the possibility of transforming conflict into relationship.",
   "translations": {
     "en": {
       "status": "canonical"
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0002/ilk-titresim-kozmik-sarmal.png",
     "alt": {
-      "en": "A symbolic cosmic double spiral of golden light rising among the ancient pillars of Göbekli Tepe, with no human figures.",
-      "tr": "Göbekli Tepe'nin kadim sütunları arasında yükselen, insan figürü içermeyen altın ışıklı simgesel kozmik çift sarmal."
+      "tr": "Göbekli Tepe'nin kadim sütunları arasında yükselen, insan figürü içermeyen altın ışıklı simgesel kozmik çift sarmal.",
+      "en": "A symbolic cosmic double spiral of golden light rising among the ancient pillars of Göbekli Tepe, with no human figures."
     }
   },
   "links": [
@@ -44,7 +74,7 @@
     {
       "target": "COM-0001",
       "type": "echo",
-      "note": "Humanity first appears as the possibility of transforming conflict into relationship, anticipating the Common Center."
+      "note": "Humanity first appears as the possibility of transforming conflict into relationship, anticipating the Human Center."
     }
   ],
   "localized": {
@@ -54,8 +84,53 @@
       "link_notes": {
         "LGT-0001": "İlk Aydınlık, ikisini bütünüyle özdeşleştirmeden sonraki Aydınlık Merkez'i önceler.",
         "DRK-0001": "İlk Karanlık, ikisini bütünüyle özdeşleştirmeden sonraki Karanlık Merkez'i önceler.",
-        "COM-0001": "İnsanlık ilk kez çatışmayı ilişkiye dönüştürme ihtimali olarak belirir ve Ortak Merkez'i önceler."
+        "COM-0001": "İnsanlık ilk kez çatışmayı ilişkiye dönüştürme ihtimali olarak belirir ve İnsan Merkezi'ni önceler."
       }
+    },
+    "en": {
+      "title": "First Vibration: Purify Yourself and Return to Your Essence",
+      "summary": "Before time begins, Light and Darkness emerge through the first vibration. Emotions arise as relational forces whose moral direction is not predetermined, while humanity appears as the possibility of transforming conflict into relationship."
+    },
+    "de": {
+      "title": "Erste Schwingung: Reinige dich und kehre zu deinem Wesen zurück",
+      "summary": "Bevor die Zeit beginnt, entstehen Licht und Dunkelheit durch die erste Schwingung. Gefühle erscheinen als relationale Kräfte ohne vorbestimmte moralische Richtung; Menschlichkeit entsteht als Möglichkeit, Konflikt in Beziehung zu verwandeln."
+    },
+    "es": {
+      "title": "Primera Vibración: Purifícate y vuelve a tu esencia",
+      "summary": "Antes de que comience el tiempo, la Luz y la Oscuridad surgen con la primera vibración. Las emociones nacen como fuerzas relacionales sin una dirección moral predeterminada, y la humanidad aparece como la posibilidad de transformar el conflicto en relación."
+    },
+    "fr": {
+      "title": "Première Vibration : Purifie-toi et reviens à ton essence",
+      "summary": "Avant le commencement du temps, la Lumière et l’Obscurité émergent avec la première vibration. Les émotions naissent comme des forces relationnelles dont la direction morale n’est pas prédéterminée, et l’humanité apparaît comme la possibilité de transformer le conflit en relation."
+    },
+    "it": {
+      "title": "Prima Vibrazione: Purificati e torna alla tua essenza",
+      "summary": "Prima dell’inizio del tempo, Luce e Oscurità emergono con la prima vibrazione. Le emozioni nascono come forze relazionali senza una direzione morale predeterminata e l’umanità appare come la possibilità di trasformare il conflitto in relazione."
+    },
+    "ru": {
+      "title": "Первая Вибрация: Очистись и вернись к своей сущности",
+      "summary": "До начала времени Свет и Тьма возникают вместе с первой вибрацией. Чувства рождаются как силы отношений без заранее заданного морального направления, а человечество появляется как возможность превратить конфликт в отношения."
+    },
+    "zh-CN": {
+      "title": "第一次振动：净化自己，回归本质",
+      "summary": "在时间开始之前，光与黑暗随着第一次振动出现。情感作为道德方向尚未预先确定的关系性力量诞生，而人类则作为将冲突转化为关系的可能性出现。"
+    },
+    "ja": {
+      "title": "第一の振動：自らを清め、本質へ帰れ",
+      "summary": "時間が始まる前、第一の振動によって光と闇が現れる。感情は道徳的な方向をあらかじめ決められていない関係的な力として生まれ、人間は対立を関係へ変える可能性として現れる。"
+    },
+    "ar": {
+      "title": "الاهتزاز الأول: تطهّر وعد إلى جوهرك",
+      "summary": "قبل أن يبدأ الزمن، يظهر النور والظلام مع الاهتزاز الأول. تولد المشاعر بوصفها قوى علائقية لم يُحسم اتجاهها الأخلاقي مسبقًا، ويظهر الإنسان بوصفه إمكانية تحويل الصراع إلى علاقة."
+    },
+    "ku": {
+      "title": "Lerizîna Yekem: Xwe Paqij Bike û Vegere Cewhera Xwe",
+      "summary": "Berî ku dem dest pê bike, Ronahî û Tarî bi lerizîna yekem derdikevin holê. Hest wekî hêzên têkiliyî yên ku rêça wan a exlaqî ji berê ve nehatî diyarkirin çêdibin; mirovahî jî wekî îhtîmala veguherandina pevçûnê bo têkiliyê derdikeve holê."
+    },
+    "pt": {
+      "title": "Primeira Vibração: Purifica-te e retorna à tua essência",
+      "summary": "Antes do início do tempo, a Luz e a Escuridão surgem com a primeira vibração. As emoções nascem como forças relacionais cuja direção moral não é predeterminada, e a humanidade aparece como a possibilidade de transformar o conflito em relação."
     }
-  }
+  },
+  "translation_working_source_language": "tr"
 }

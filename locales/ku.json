@@ -7,11 +7,11 @@
   "light_center": "Navenda Ronahiyê",
   "dark_center": "Navenda Tarî",
   "follow_echo": "Dengvedanê bişopîne",
-  "canonical": "Kanonîk",
+  "canonical": "Çavkaniya Kanonîk a Îngilîzî",
   "reviewed_translation": "Wergera kontrolkirî",
   "community_translation": "Wergera civakî",
   "machine_draft_translation": "Pêşnivîsa makîneyî",
-  "translation_unavailable": "Di vê zimanê de werger tune ye. Guhertoya kanonîk a Îngilîzî tê nîşandan.",
+  "translation_unavailable": "Di vê zimanê de werger tune ye. Çîroka kanonîk a Îngilîzî tê nîşandan.",
   "continue_reading": "Xwendinê bidomîne",
   "start_reading": "Ji Lerizîna Yekem dest pê bike",
   "back_in_path": "Di rêya xwe de vegere",
@@ -51,6 +51,6 @@
   "explore_triangle_intro": "HUMAN + LIGHT + DARK = 100. Her girêk di heman qada rewşa sêgoşeyî de cih digire.",
   "story_builder_description": "Fikrekê binivîse, zimanê çîrokê hilbijêre, bi HUMAN/LIGHT/DARK wê pêş bixe, çîroka edebî biafirîne, bi 30 pîvanan dabeş bike û pelên amadeyî GitHub derxe.",
   "git_narrative_description": "Git parçeyek ji mîmariya vegotinê ye: commit rastiyê diafirîne; girêdan wateyê diguherîne.",
-  "language_policy_description": "Îngilîzî qata kanonîk e; zimanê fikrê û zimanê çîrokê dikarin cuda bin, û nivîsa ne-Îngilîzî ya AI wek pêşnivîsa makîneyî bi heman ID-ya çîrokê dest pê dike.",
+  "language_policy_description": "Îngilîzî zimanê kanonîk, gerdûnî û standard e. Tirkî çavkaniya xebata edîtorî ye; dema nivîsa Tirkî nûtir be, Îngilîzî û wergerên din ji wê dîsa têne çêkirin.",
   "triangle_state_space": "Qada rewşa sêgoşeyî ya HCU"
 }

@@ -6,13 +6,13 @@ In an age before time existed, the entire universe was light. There were no star
 
 Then a vibration was born at its center.
 
-It was so small that Light did not consider it a flaw. Perhaps the word flaw had not yet been created. As the vibration repeated, barely perceptible intervals opened within perfect order. Inside those intervals, the first possibilities appeared. The thought that something could be otherwise was the first shadow to fall into existence.
+It was so small that Light did not consider it a flaw. Perhaps the word flaw had not yet been created. As the vibration repeated, barely perceptible intervals opened within the perfect order. Inside those intervals, the first possibilities appeared. The thought that something could be otherwise was the first shadow to fall into existence.
 
-Light could not fully see the vibration. To see, there had to be a distance between the observer and the observed; yet separation did not exist. Even so, Light moved toward it. This movement was neither thought nor decision. It was the desire of existence to approach something other than itself.
+Light could not fully see the vibration. To see, there had to be a distance between the observer and the observed; yet separation did not yet exist. Even so, Light moved toward it. This movement was neither thought nor decision. It was existence's desire to approach something other than itself.
 
 Curiosity was born this way.
 
-In its pure state, curiosity did not seek to possess the unknown. It only wanted to approach it, to see what it was before being changed by contact with it. Later, humans would measure the sky with this feeling, dig into the earth, lean toward a child's face, and open forbidden doors. The first movement of both science and disobedience would be the same: I do not know, therefore I will approach.
+In its pure state, curiosity did not seek to possess the unknown. It only wanted to approach it, to see what it was before being changed through contact with it. Later, humans would measure the sky with this feeling, dig into the earth, lean toward a child's face, and open forbidden doors. The first movement of both science and disobedience would be the same: I do not know, therefore I will approach.
 
 As Light drew nearer, it felt an attraction it had never known before. The vibration had not broken away from it, yet it no longer belonged to it either. Light wanted this being, born from itself yet not identical to itself, to continue to exist.
 
@@ -32,9 +32,9 @@ Light tried to withdraw. Darkness experienced its distance as diminishment. A vo
 
 Longing was born this way.
 
-In its pure state, longing was not the wish to bring the past back. It was the preservation of the direction that a touch had left within a being. Later, humans would long for a homeland they had never seen, a promise made before they were born, someone whose face they could no longer remember, and perhaps even a future that had never happened. Every longing would become a small door opening from within existence toward an older wholeness.
+In its pure state, longing was not the wish to bring the past back. It was preserving the direction that a touch had left within a person. Later, humans would long for a homeland they had never seen, a promise made before they were born, someone whose face they had forgotten, and perhaps even a future that had never happened. Every longing would become a small door opening within existence toward an older wholeness.
 
-As Darkness grew, order gave way to difference, certainty to possibility, silence to sound. Some sounds became harmony, others noise. Light realized that its own center was slipping from its grasp. If it tried to destroy Darkness, it would destroy a part of itself as well. If it set Darkness entirely free, everything it knew would change.
+As Darkness grew, order gave way to difference, certainty to possibility, silence to sound. Some sounds became harmony, others noise. Light realized that its own center was slipping from its grasp. If it tried to destroy Darkness, it would destroy a part of itself as well. If it set Darkness entirely free, everything it knew would be transformed.
 
 For the first time, it saw that the future could cause harm.
 
@@ -46,7 +46,7 @@ But when fear came to believe itself the only truth, it treated everything that 
 
 Because they feared losing one another, they harmed one another.
 
-Darkness saw that Light was also turning toward other possibilities. For the first time, it understood that the gaze given to it could be divided. It wanted love to be exclusive; it did not want the beloved to remain free.
+Darkness saw that Light was also turning toward other possibilities. For the first time, it understood that the gaze given to it could be divided. It wanted love to be singular; it did not want the beloved to remain free.
 
 Jealousy was born this way.
 
@@ -68,9 +68,9 @@ Light saw its own act reflected in Darkness's gaze. The being that had believed 
 
 Shame was born this way.
 
-In its pure state, shame was not becoming small before others. It was seeing, without cover, the difference between the person one was and the person one could become. But when shame seized the whole, it judged not the act but existence itself. Instead of saying, “You did wrong,” it said, “You were wrong.” Light wanted to hide itself. Darkness hardened so that its own wound would not be seen.
+In its pure state, shame was not becoming small before others. It was seeing, without cover, the difference between the person one was and the person one could become. But when shame seized the whole, it judged not the act but existence itself: instead of saying, “You did wrong,” it said, “You were wrong.” Light wanted to hide itself. Darkness hardened so that its own wound would not be seen.
 
-For the first time, although they carried the same pain, they believed their pain was separate.
+For the first time, although they carried the same pain, they believed each other's pain was separate.
 
 Then one of the fragments of Darkness moved toward the Light that had wounded it. It could have swallowed Light, could have diminished it further. Instead, it remained around Light and left just enough shadow to cover the wound.
 

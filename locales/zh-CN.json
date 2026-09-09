@@ -7,11 +7,11 @@
   "light_center": "光明中心",
   "dark_center": "黑暗中心",
   "follow_echo": "追随回响",
-  "canonical": "正典",
+  "canonical": "英语规范源文本",
   "reviewed_translation": "已审校译文",
   "community_translation": "社区译文",
   "machine_draft_translation": "机器草稿",
-  "translation_unavailable": "当前语言暂无译文，正在显示英文正典版本。",
+  "translation_unavailable": "该语言暂无译文，现显示英语规范故事。",
   "continue_reading": "继续阅读",
   "start_reading": "从“第一次振动”开始",
   "back_in_path": "返回我的路径",
@@ -51,6 +51,6 @@
   "explore_triangle_intro": "HUMAN + LIGHT + DARK = 100。每个节点都位于同一个三角状态空间中。",
   "story_builder_description": "输入想法，选择故事语言，通过 HUMAN/LIGHT/DARK 完善它，生成文学故事，按 30 项标准分类，并导出可直接用于 GitHub 的文件。",
   "git_narrative_description": "Git 是叙事架构的一部分：commit 创造现实；连接改变意义。",
-  "language_policy_description": "英语是正典层；想法语言与故事语言可以不同，AI 生成的非英语文本会在同一故事 ID 下以机器草稿开始。",
+  "language_policy_description": "英语是规范、通用且默认的语言。土耳其语是编辑工作源；当土耳其语文本更新时，用它重新生成英语及其他翻译。",
   "triangle_state_space": "HCU 三角状态空间"
 }

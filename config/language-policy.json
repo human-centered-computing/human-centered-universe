@@ -1,0 +1,24 @@
+{
+  "canonical_language": "en",
+  "default_language": "en",
+  "fallback_language": "en",
+  "interface_fallback_language": "en",
+  "supported_languages": [
+    "en",
+    "tr",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "zh-CN",
+    "ja",
+    "ar",
+    "ku",
+    "pt"
+  ],
+  "rtl_languages": ["ar"],
+  "translation_working_source_language": "tr",
+  "translation_source": "content/tr.md",
+  "translation_status_for_ai_drafts": "machine_draft"
+}

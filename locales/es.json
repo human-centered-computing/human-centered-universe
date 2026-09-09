@@ -7,11 +7,11 @@
   "light_center": "Centro de Luz",
   "dark_center": "Centro Oscuro",
   "follow_echo": "Seguir el eco",
-  "canonical": "Canónica",
+  "canonical": "Fuente canónica en inglés",
   "reviewed_translation": "Traducción revisada",
   "community_translation": "Traducción comunitaria",
   "machine_draft_translation": "Borrador automático",
-  "translation_unavailable": "No hay traducción disponible en este idioma. Se muestra la versión canónica en inglés.",
+  "translation_unavailable": "No hay traducción disponible en este idioma. Se muestra la historia canónica en inglés.",
   "continue_reading": "Continuar leyendo",
   "start_reading": "Comenzar en la Primera Vibración",
   "back_in_path": "Volver en mi camino",
@@ -51,6 +51,6 @@
   "explore_triangle_intro": "HUMAN + LIGHT + DARK = 100. Cada nodo ocupa una posición en el mismo espacio de estados triangular.",
   "story_builder_description": "Introduce una idea, elige el idioma de la historia, desarróllala mediante HUMAN/LIGHT/DARK, genera la historia literaria, clasifícala con 30 criterios y exporta archivos listos para GitHub.",
   "git_narrative_description": "Git forma parte de la arquitectura narrativa: un commit crea realidad; una conexión transforma el significado.",
-  "language_policy_description": "El inglés es la capa canónica; el idioma de la idea y el de la historia pueden diferir, y el texto no inglés generado por IA comienza como borrador automático con la misma ID de historia.",
+  "language_policy_description": "El inglés es el idioma canónico, universal y predeterminado. El turco es la fuente de trabajo editorial utilizada para regenerar el inglés y las demás traducciones cuando el texto turco es más reciente.",
   "triangle_state_space": "Espacio de estados triangular HCU"
 }

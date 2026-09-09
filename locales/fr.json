@@ -7,11 +7,11 @@
   "light_center": "Centre de Lumière",
   "dark_center": "Centre Sombre",
   "follow_echo": "Suivre l’écho",
-  "canonical": "Canonique",
+  "canonical": "Source canonique anglaise",
   "reviewed_translation": "Traduction révisée",
   "community_translation": "Traduction communautaire",
   "machine_draft_translation": "Brouillon automatique",
-  "translation_unavailable": "Aucune traduction n’est disponible dans cette langue. La version canonique anglaise est affichée.",
+  "translation_unavailable": "Aucune traduction n’est disponible dans cette langue. L’histoire canonique anglaise est affichée.",
   "continue_reading": "Continuer la lecture",
   "start_reading": "Commencer par la Première Vibration",
   "back_in_path": "Revenir dans mon parcours",
@@ -51,6 +51,6 @@
   "explore_triangle_intro": "HUMAN + LIGHT + DARK = 100. Chaque nœud occupe une position dans le même espace d’état triangulaire.",
   "story_builder_description": "Saisis une idée, choisis la langue de l’histoire, développe-la via HUMAN/LIGHT/DARK, génère le récit littéraire, classe-le selon 30 critères et exporte des fichiers prêts pour GitHub.",
   "git_narrative_description": "Git fait partie de l’architecture narrative : un commit crée la réalité ; une connexion transforme le sens.",
-  "language_policy_description": "L’anglais est la couche canonique ; la langue de l’idée et celle du récit peuvent différer, et tout texte non anglais généré par IA commence comme brouillon automatique sous le même ID.",
+  "language_policy_description": "L’anglais est la langue canonique, universelle et par défaut. Le turc est la source de travail éditoriale utilisée pour régénérer l’anglais et les autres traductions lorsque le texte turc est plus récent.",
   "triangle_state_space": "Espace d’état triangulaire HCU"
 }
