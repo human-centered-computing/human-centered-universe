@@ -43,6 +43,15 @@
       "voice": "it_IT-paola-medium"
     },
     {
+      "id": "COM-0006",
+      "title": "The Universe Changes the Moment You Connect",
+      "file": "./COM-0006.mp3",
+      "duration_seconds": 1038.211,
+      "bytes": 12458885,
+      "engine": "Piper",
+      "voice": "it_IT-paola-medium"
+    },
+    {
       "id": "BRG-0018",
       "title": "The History the Soil Never Wrote: Traces of Girê Miraza",
       "file": "./BRG-0018.mp3",
