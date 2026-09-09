@@ -34,6 +34,15 @@
       "voice": "it_IT-paola-medium"
     },
     {
+      "id": "BRG-0009",
+      "title": "Infinity Cannot Be Lived",
+      "file": "./BRG-0009.mp3",
+      "duration_seconds": 1041.371,
+      "bytes": 12496815,
+      "engine": "Piper",
+      "voice": "it_IT-paola-medium"
+    },
+    {
       "id": "BRG-0018",
       "title": "The History the Soil Never Wrote: Traces of Girê Miraza",
       "file": "./BRG-0018.mp3",
