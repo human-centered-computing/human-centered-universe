@@ -850,7 +850,7 @@ Tarîtî: **+4**
 
 ### Ez valahiyan vekirî dihêlim.
 
-Ez qebûl dikim ku hin têkilî dibe qet qetî nebin; ihtîmalê diparêzim lê li cihê nenas çîrokeke qetî danînim.
+Ez qebûl dikim ku hin têkilî dibe qet qetî nebin; ihtîmalê diparêzim lê li cihê nenas çîrokeke qetî danaynim.
 
 **Bandora navendê**
 
