@@ -78,7 +78,7 @@
       <div class="intro-content">
         <p class="intro-eyebrow">BRG-0002 · ${copy.place}</p><h1>${copy.title}</h1>
         <div class="intro-choice-stage"><h2>${copy.prompt}</h2><p>${copy.note}</p><div class="intro-choices">
-          ${Object.entries(centers).map(([center, item]) => `<button type="button" data-intro-center="${center}" class="intro-choice ${center}"><span></span><strong>${item[lang]}</strong><small>+2 ${center}</small></button>`).join("")}
+          ${Object.entries(centers).map(([center, item]) => `<button type="button" data-intro-center="${center}" class="intro-choice ${center}"><span></span><strong>${item.en}</strong><small>+2 ${center}</small></button>`).join("")}
         </div></div>
       </div><button type="button" class="intro-skip">${copy.skip}</button>`;
     document.body.appendChild(intro); document.body.classList.add("intro-open");
