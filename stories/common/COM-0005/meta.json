@@ -24,13 +24,53 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/COM-0005/insan-hammadde-degildir.png",
     "alt": {
       "en": "A textless human-free cinematic world where ecological landscapes, schools, hospitals, cities, industry, justice, privacy and technology orbit a luminous central living world, symbolizing principles that constrain systems without becoming a single sovereign center.",
-      "tr": "Yazısız ve insansız sinematik sahnede ekolojik alanlar, okul, hastane, şehir, sanayi, adalet, mahremiyet ve teknoloji simgeleri yaşayan aydınlık bir dünyanın çevresinde yer alır; ilkelerin sistemi sınırladığını fakat tek egemen merkeze dönüşmediğini simgeler."
+      "tr": "Yazısız ve insansız sinematik sahnede ekolojik alanlar, okul, hastane, şehir, sanayi, adalet, mahremiyet ve teknoloji simgeleri yaşayan aydınlık bir dünyanın çevresinde yer alır; ilkelerin sistemi sınırladığını fakat tek egemen merkeze dönüşmediğini simgeler.",
+      "de": "Eine textlose, menschenfreie filmische Welt, in der ökologische Landschaften, Schule, Krankenhaus, Stadt, Industrie, Justiz, Privatsphäre und Technologie eine leuchtende lebendige Welt umkreisen; sie symbolisiert Prinzipien, die Systeme begrenzen, ohne zu einem einzigen souveränen Zentrum zu werden.",
+      "es": "Un mundo cinematográfico sin texto ni figuras humanas donde paisajes ecológicos, escuela, hospital, ciudad, industria, justicia, privacidad y tecnología orbitan un mundo vivo y luminoso; simboliza principios que limitan los sistemas sin convertirse en un único centro soberano.",
+      "fr": "Un monde cinématographique sans texte ni figures humaines où paysages écologiques, école, hôpital, ville, industrie, justice, vie privée et technologie gravitent autour d’un monde vivant lumineux ; il symbolise des principes qui limitent les systèmes sans devenir un centre souverain unique.",
+      "it": "Un mondo cinematografico senza testo né figure umane in cui paesaggi ecologici, scuola, ospedale, città, industria, giustizia, privacy e tecnologia orbitano attorno a un mondo vivente luminoso; simboleggia principi che limitano i sistemi senza diventare un unico centro sovrano.",
+      "ru": "Кинематографичный мир без текста и людей, где экологические ландшафты, школа, больница, город, промышленность, правосудие, приватность и технологии вращаются вокруг светящегося живого мира; символизирует принципы, ограничивающие системы, не превращаясь в единый суверенный центр.",
+      "zh-CN": "无文字、无人类角色的电影感世界：生态环境、学校、医院、城市、工业、司法、隐私与技术环绕一个发光的生命世界，象征约束系统但不形成单一主权中心的原则。",
+      "ja": "文字も人物もない映画的な世界で、生態環境、学校、病院、都市、産業、司法、プライバシー、技術が光る生きた世界を巡り、単一の主権的中心になることなくシステムを制約する原則を象徴する。",
+      "ar": "عالم سينمائي بلا نص وبلا أشخاص، تدور فيه البيئة والمدرسة والمستشفى والمدينة والصناعة والعدالة والخصوصية والتقنية حول عالم حي مضيء؛ رمز لمبادئ تقيد الأنظمة من دون أن تتحول إلى مركز سيادي واحد.",
+      "ku": "Cîhaneke sînematîk a bê nivîs û bê mirov ku hawîrdor, dibistan, nexweşxane, bajar, pîşesazî, dadwerî, mahremiyet û teknolojî li dora cîhaneke zindî ya ronî digerin; prensîbên ku pergalan sînor dikin bêyî ku bibin navendeke serwer a yekane nîşan dide.",
+      "pt": "Um mundo cinematográfico sem texto e sem figuras humanas onde paisagens ecológicas, escola, hospital, cidade, indústria, justiça, privacidade e tecnologia orbitam um mundo vivo luminoso; simboliza princípios que limitam sistemas sem se tornar um único centro soberano."
     }
   },
   "links": [
@@ -63,15 +103,45 @@
       "world_seed": true,
       "label": {
         "en": "What Must Not Change",
-        "tr": "Değişmemesi Gereken"
+        "tr": "Değişmemesi Gereken",
+        "de": "Was sich nicht ändern darf",
+        "es": "Lo que no debe cambiar",
+        "fr": "Ce qui ne doit pas changer",
+        "it": "Ciò che non deve cambiare",
+        "ru": "Что не должно меняться",
+        "zh-CN": "不应改变的东西",
+        "ja": "変わってはいけないもの",
+        "ar": "ما يجب ألا يتغير",
+        "ku": "Tiştê Ku Divê Neguhere",
+        "pt": "O que não deve mudar"
       },
       "prompt": {
         "en": "Identify which human-centered boundary a system must not cross even when efficiency would improve.",
-        "tr": "Verimlilik artsa bile bir sistemin aşmaması gereken İnsan Merkezli sınırı belirleyin."
+        "tr": "Verimlilik artsa bile bir sistemin aşmaması gereken İnsan Merkezli sınırı belirleyin.",
+        "de": "Bestimmen Sie eine menschenzentrierte Grenze, die ein System selbst dann nicht überschreiten darf, wenn dadurch die Effizienz steigt.",
+        "es": "Identifique un límite centrado en el ser humano que un sistema no debe cruzar aunque aumente la eficiencia.",
+        "fr": "Identifiez une limite centrée sur l’humain qu’un système ne doit pas franchir même si l’efficacité augmente.",
+        "it": "Individuate un limite centrato sull’essere umano che un sistema non deve superare anche se l’efficienza aumenta.",
+        "ru": "Определите человекоцентричную границу, которую система не должна пересекать даже ради повышения эффективности.",
+        "zh-CN": "指出一个即使能提高效率，系统也不应跨越的以人为中心边界。",
+        "ja": "効率が上がるとしても、システムが越えてはならない人間中心の境界を示してください。",
+        "ar": "حدد حدًا متمحورًا حول الإنسان لا ينبغي للنظام تجاوزه حتى لو زادت الكفاءة.",
+        "ku": "Sînoreke mirov-navendî diyarke ku heta heke karkeriya pergalê zêde bibe jî divê neyê derbaskirin.",
+        "pt": "Identifique um limite centrado no ser humano que um sistema não deve cruzar mesmo quando a eficiência aumenta."
       },
       "placeholder": {
         "en": "What must remain protected: dignity, consent, contestability, privacy, accountability, repair, plurality?",
-        "tr": "Ne korunmalı: onur, rıza, itiraz, mahremiyet, hesap verebilirlik, onarım, çoğulluk?"
+        "tr": "Ne korunmalı: onur, rıza, itiraz, mahremiyet, hesap verebilirlik, onarım, çoğulluk?",
+        "de": "Was muss geschützt bleiben: Würde, Einwilligung, Anfechtbarkeit, Privatsphäre, Rechenschaft, Reparatur, Pluralität?",
+        "es": "¿Qué debe seguir protegido: dignidad, consentimiento, contestabilidad, privacidad, responsabilidad, reparación, pluralidad?",
+        "fr": "Que faut-il protéger : dignité, consentement, contestabilité, vie privée, responsabilité, réparation, pluralité ?",
+        "it": "Che cosa deve restare protetto: dignità, consenso, contestabilità, privacy, responsabilità, riparazione, pluralità?",
+        "ru": "Что должно оставаться защищенным: достоинство, согласие, оспоримость, приватность, ответственность, исправление, многообразие?",
+        "zh-CN": "什么必须持续受到保护：尊严、同意、可申诉性、隐私、责任、修复、多元性？",
+        "ja": "何を守り続けるべきですか：尊厳、同意、異議申立て可能性、プライバシー、説明責任、修復、複数性？",
+        "ar": "ما الذي يجب أن يبقى محميًا: الكرامة، الموافقة، قابلية الاعتراض، الخصوصية، المساءلة، الإصلاح، التعددية؟",
+        "ku": "Çi divê were parastin: rûmet, razîbûn, îtirazbarî, mahremiyet, hesabdayîn, sererastkirin, pirîtî?",
+        "pt": "O que deve permanecer protegido: dignidade, consentimento, contestabilidade, privacidade, responsabilização, reparação, pluralidade?"
       }
     }
   ],
@@ -84,6 +154,106 @@
         "COM-0001": "İnsan Merkezi'nin ilişkisel karar yöntemi, kronolojik bir sıra gerektirmeden bu sınır ilkeleriyle yankılanır.",
         "BRG-0011": "Hesap verebilirlik, itiraz edilebilirlik ve korunan sınırlar başka yüksek riskli insan-sistem yapılarıyla yankılanır; sonraki aşama tanımlamaz.",
         "BRG-0013": "İnsan onuru, çoğul değerler ve ilişkisel sınırlar farklı gözlem yollarındaki yaratım ve koordinasyon modelleriyle yankılanır."
+      }
+    },
+    "de": {
+      "title": "Der Mensch ist kein Rohstoff für irgendein System",
+      "summary": "Acht Grenzprinzipien sollen verhindern, dass Menschen auf Daten, Produktivität, intransparente Entscheidungen, nicht verantwortete Macht, bedeutungslose Einwilligung, totale Sichtbarkeit, unreparierten Schaden oder ein einziges Idealbild des Menschen reduziert werden. Die Umsetzung darf sich je nach Kontext ändern; die geschützten Beziehungen müssen jedoch verteidigbar bleiben.",
+      "link_notes": {
+        "COM-0004": "Verteilte Autorität und bewegliche Zentren resonieren mit dem Bedarf an gemeinsamen Schutzgrenzen, die lokale Variation nicht auslöschen darf.",
+        "COM-0001": "Das Menschliche Zentrum als relationale Entscheidungsmethode resoniert mit diesen Grenzprinzipien ohne notwendige chronologische Folge.",
+        "BRG-0011": "Rechenschaft, Anfechtbarkeit und geschützte Grenzen resonieren mit anderen Hochrisiko-Mensch-System-Strukturen, ohne eine spätere Stufe festzulegen.",
+        "BRG-0013": "Menschenwürde, plurale Werte und relationale Grenzen resonieren mit anderen Modellen von Schöpfung und Koordination entlang unterschiedlicher Beobachterpfade."
+      }
+    },
+    "es": {
+      "title": "El ser humano no es materia prima de ningún sistema",
+      "summary": "Ocho principios de límite buscan impedir que las personas sean reducidas a datos, productividad, decisiones opacas, autoridad sin responsabilidad, consentimiento vacío, visibilidad total, daño sin reparar o un único modelo ideal de ser humano. La aplicación puede variar según el contexto, pero las relaciones protegidas deben seguir siendo defendibles.",
+      "link_notes": {
+        "COM-0004": "La autoridad distribuida y los centros móviles resuenan con la necesidad de protecciones compartidas que la variación local no puede borrar.",
+        "COM-0001": "El Centro Humano como método relacional de decisión resuena con estos principios de límite sin exigir una sucesión cronológica.",
+        "BRG-0011": "Rendición de cuentas, contestabilidad y límites protegidos resuenan con otras estructuras humano-sistema de alto riesgo sin definir una etapa posterior.",
+        "BRG-0013": "La dignidad humana, los valores plurales y los límites relacionales resuenan con otros modelos de creación y coordinación a través de distintos caminos de observación."
+      }
+    },
+    "fr": {
+      "title": "L’être humain n’est la matière première d’aucun système",
+      "summary": "Huit principes de limite visent à empêcher que les humains soient réduits à des données, à la productivité, à des décisions opaques, à une autorité sans responsabilité, à un consentement vide, à une visibilité totale, à un dommage non réparé ou à un unique modèle idéal de l’humain. L’application peut varier selon le contexte, mais les relations protégées doivent rester défendables.",
+      "link_notes": {
+        "COM-0004": "L’autorité distribuée et les centres mobiles résonnent avec le besoin de protections communes que les variations locales ne peuvent effacer.",
+        "COM-0001": "Le Centre Humain comme méthode relationnelle de décision résonne avec ces principes de limite sans exiger de succession chronologique.",
+        "BRG-0011": "Responsabilité, contestabilité et limites protégées résonnent avec d’autres structures humain-système à haut risque sans définir une étape ultérieure.",
+        "BRG-0013": "Dignité humaine, valeurs plurielles et limites relationnelles résonnent avec d’autres modèles de création et de coordination à travers différents parcours d’observation."
+      }
+    },
+    "it": {
+      "title": "L’essere umano non è materia prima di nessun sistema",
+      "summary": "Otto principi di confine cercano di impedire che le persone siano ridotte a dati, produttività, decisioni opache, autorità senza responsabilità, consenso privo di significato, visibilità totale, danno non riparato o un unico modello ideale di essere umano. L’applicazione può variare con il contesto, ma le relazioni protette devono restare difendibili.",
+      "link_notes": {
+        "COM-0004": "Autorità distribuita e centri mobili risuonano con il bisogno di protezioni condivise che la variazione locale non può cancellare.",
+        "COM-0001": "Il Centro Umano come metodo decisionale relazionale risuona con questi principi di confine senza richiedere successione cronologica.",
+        "BRG-0011": "Responsabilità, contestabilità e confini protetti risuonano con altre strutture uomo-sistema ad alto rischio senza definire una fase successiva.",
+        "BRG-0013": "Dignità umana, valori plurali e limiti relazionali risuonano con altri modelli di creazione e coordinamento lungo diversi percorsi di osservazione."
+      }
+    },
+    "ru": {
+      "title": "Человек не является сырьем ни для одной системы",
+      "summary": "Восемь пограничных принципов защищают человека от сведения к данным, производительности, непрозрачным решениям, безответственной власти, пустому согласию, полной видимости, неисправленному вреду или единственной идеальной модели человека. Применение может меняться по контексту, но защищаемые отношения должны оставаться обоснованно защищаемыми.",
+      "link_notes": {
+        "COM-0004": "Распределенная власть и перемещаемые центры перекликаются с необходимостью общих защит, которые локальные различия не могут стереть.",
+        "COM-0001": "Человеческий Центр как реляционный метод принятия решений перекликается с этими пограничными принципами без обязательной хронологической последовательности.",
+        "BRG-0011": "Подотчетность, возможность оспаривания и защищенные границы перекликаются с другими высокорисковыми структурами человек-система, не задавая более позднюю стадию.",
+        "BRG-0013": "Человеческое достоинство, множественные ценности и реляционные границы перекликаются с другими моделями создания и координации на разных путях наблюдения."
+      }
+    },
+    "zh-CN": {
+      "title": "人不是任何系统的原材料",
+      "summary": "八条边界原则试图防止人被压缩为数据、生产率、不透明决定、无需负责的权力、空洞同意、完全可见性、未被修复的伤害，或单一理想人类模型。实施方式可以随语境变化，但被保护的关系必须始终能够被捍卫。",
+      "link_notes": {
+        "COM-0004": "分布式权力与可移动中心，与地方变化不能抹去的共享保护边界形成呼应。",
+        "COM-0001": "作为关系式决策方法的人的中心，与这些边界原则形成呼应，而不要求固定时间先后。",
+        "BRG-0011": "责任、可申诉性与受保护边界，与其他高风险人-系统结构形成呼应，但不定义后续阶段。",
+        "BRG-0013": "人的尊严、多元价值与关系边界，与不同观察路径中的其他创造和协调模型形成呼应。"
+      }
+    },
+    "ja": {
+      "title": "人間はどのシステムの原材料でもない",
+      "summary": "八つの境界原則は、人がデータ、生産性、不透明な決定、説明責任のない権力、意味のない同意、完全な可視性、修復されない害、あるいは単一の理想的人間モデルへ還元されることを防ごうとする。実装は文脈で変えられるが、守る関係は常に擁護可能でなければならない。",
+      "link_notes": {
+        "COM-0004": "分散された権限と移動可能な中心は、地域差が消してはならない共有保護境界の必要性と響き合う。",
+        "COM-0001": "関係的意思決定方法としての人間の中心は、時系列上の継承を必要とせず、これらの境界原則と響き合う。",
+        "BRG-0011": "説明責任、異議申立て可能性、守られた境界は、後続段階を定義せず他の高リスクな人間-システム構造と響き合う。",
+        "BRG-0013": "人間の尊厳、複数の価値、関係的境界は、異なる観察経路上の他の創造・調整モデルと響き合う。"
+      }
+    },
+    "ar": {
+      "title": "الإنسان ليس مادة خام لأي نظام",
+      "summary": "تحاول ثمانية مبادئ حدودية منع اختزال الإنسان إلى بيانات أو إنتاجية أو قرارات غامضة أو سلطة بلا مساءلة أو موافقة فارغة أو ظهور كامل أو ضرر غير مُصلح أو نموذج مثالي واحد للإنسان. يمكن أن يختلف التطبيق حسب السياق، لكن العلاقات المحمية يجب أن تبقى قابلة للدفاع.",
+      "link_notes": {
+        "COM-0004": "تتردد السلطة الموزعة والمراكز القابلة للحركة مع الحاجة إلى حمايات مشتركة لا يجوز للاختلاف المحلي محوها.",
+        "COM-0001": "يتردد المركز الإنساني كمنهج قرار علائقي مع هذه المبادئ الحدودية من دون اشتراط تعاقب زمني.",
+        "BRG-0011": "تتردد المساءلة وقابلية الاعتراض والحدود المحمية مع هياكل إنسان-نظام أخرى عالية المخاطر من دون تعريف مرحلة لاحقة.",
+        "BRG-0013": "تتردد كرامة الإنسان والقيم المتعددة والحدود العلائقية مع نماذج أخرى للخلق والتنسيق عبر مسارات ملاحظة مختلفة."
+      }
+    },
+    "ku": {
+      "title": "Mirov Mada Xam a Tu Pergalê Nîne",
+      "summary": "Heşt prensîbên sînorê hewl didin mirovan ji kêmkirina bo dane, berhemdarî, biryarên nezelal, desthilata bêhesab, razîbûna bêwate, dîtbarîya tam, zirara nehatî sererastkirin an modeleke ideal a yekane biparêzin. Sepandin li gor kontekstê dikare biguhere, lê têkiliyên parastî divê her dem bên parastin û gerekçedar bimînin.",
+      "link_notes": {
+        "COM-0004": "Desthilata belavkirî û navendên ku cih diguherin bi pêdiviya parastinên hevpar ên ku cudahiya herêmî nikare jê bibe deng vedidin.",
+        "COM-0001": "Navenda Mirov wek rêbaza biryardana têkiliyî bê pêdiviya rêza kronolojîk bi van prensîbên sînorê re deng vedide.",
+        "BRG-0011": "Hesabdayîn, îtirazbarî û sînorên parastî bi avahiyên din ên mirov-pergal a rîska bilind re deng vedidin bê ku qonaxeke paşê pênase bikin.",
+        "BRG-0013": "Rûmeta mirovan, nirxên pirjimar û sînorên têkiliyî bi modelên din ên afirandin û koordînasyonê di rêyên cuda yên çavdêran de deng vedidin."
+      }
+    },
+    "pt": {
+      "title": "O ser humano não é matéria-prima de nenhum sistema",
+      "summary": "Oito princípios de limite buscam impedir que pessoas sejam reduzidas a dados, produtividade, decisões opacas, autoridade sem responsabilização, consentimento vazio, visibilidade total, dano não reparado ou um único modelo ideal de ser humano. A aplicação pode variar conforme o contexto, mas as relações protegidas devem permanecer defensáveis.",
+      "link_notes": {
+        "COM-0004": "Autoridade distribuída e centros móveis ressoam com a necessidade de proteções comuns que a variação local não pode apagar.",
+        "COM-0001": "O Centro Humano como método relacional de decisão ressoa com esses princípios de limite sem exigir sucessão cronológica.",
+        "BRG-0011": "Responsabilização, contestabilidade e limites protegidos ressoam com outras estruturas humano-sistema de alto risco sem definir uma etapa posterior.",
+        "BRG-0013": "Dignidade humana, valores plurais e limites relacionais ressoam com outros modelos de criação e coordenação ao longo de diferentes caminhos de observação."
       }
     }
   }
