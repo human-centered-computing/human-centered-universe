@@ -1106,6 +1106,18 @@ Maran hevoka dawî di pergalê de nivîsî:
 
 Li binê:
 
+**TEKNOLOJÎ DIVÊ TENÊ MIROVAN BI KAR NEYNE; DIVÊ BI MIROVAN RE TÊKILIYEK AVA BIKE.**
+
+Luka:
+
+“Teknolojî bi rastî dikare têkilî ava bike?”
+
+Maran rawestiya.
+
+Hevok jêbir.
+
+Paşê bi baldarî zêdetir nivîsî:
+
 **HER PERGALEK KU LI SER MIROVAN DESTHILAT BI KAR TÎNE DIVÊ RÛMETA MIROVAN, ŞIYANA WAN A TEVGERÊ Û MAFÊ WAN Ê ÎTIRAZÊ HESAB BIKE.**
 
 Luka:
