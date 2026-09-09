@@ -4,6 +4,7 @@ import json, sys, math
 ROOT = Path(__file__).resolve().parents[1]
 STORIES = ROOT / "stories"
 MAP_PATH = ROOT / "universe" / "universe-map.json"
+LANGUAGE_POLICY_PATH = ROOT / "config" / "language-policy.json"
 CENTERS = {"HUMAN", "LIGHT", "DARK"}
 VALID_STATUS = {"core", "canon", "experimental", "fork"}
 VALID_TRANSLATION_STATUS = {"canonical", "reviewed", "community", "machine_draft"}
@@ -11,8 +12,12 @@ VALID_LINKS = {"quantum_echo", "echo", "contrast", "cause", "memory", "future", 
 ORIGIN = "BRG-0002"
 
 errors = []
+warnings = []
 all_ids = {}
 live_ids = set()
+
+language_policy = json.loads(LANGUAGE_POLICY_PATH.read_text(encoding="utf-8")) if LANGUAGE_POLICY_PATH.exists() else {}
+CANONICAL_LANGUAGE = language_policy.get("canonical_language", "tr")
 
 if not MAP_PATH.exists():
     errors.append("universe/universe-map.json is required")
@@ -47,7 +52,7 @@ for mp in STORIES.rglob("meta.json"):
         errors.append(f"{mp}: invalid JSON: {e}")
         continue
 
-    for key in {"id","title","status","source_language","culture","belief_context","summary","translations","links"}:
+    for key in {"id", "title", "status", "source_language", "culture", "belief_context", "summary", "translations", "links"}:
         if key not in d:
             errors.append(f"{mp}: missing {key}")
     if "id" not in d:
@@ -60,16 +65,28 @@ for mp in STORIES.rglob("meta.json"):
 
     if d.get("status") not in VALID_STATUS:
         errors.append(f"{mp}: invalid status")
-    if d.get("source_language") != "en":
-        errors.append(f"{mp}: source_language must be en for canonical metadata")
 
     content_dir = mp.parent / "content"
-    if not (content_dir / "en.md").exists():
-        errors.append(f"{mp}: missing content/en.md")
-    if d.get("translations", {}).get("en", {}).get("status") != "canonical":
-        errors.append(f"{mp}: en translation status must be canonical")
+    canonical_file = content_dir / f"{CANONICAL_LANGUAGE}.md"
+    if not canonical_file.exists():
+        errors.append(f"{mp}: missing canonical content/{CANONICAL_LANGUAGE}.md")
 
-    for lang, entry in d.get("translations", {}).items():
+    # Transition rule: old nodes may still declare source_language=en while they
+    # are migrated one by one. The live reader nevertheless uses Turkish as the
+    # canonical source. New/updated nodes should declare source_language=tr.
+    if d.get("source_language") != CANONICAL_LANGUAGE:
+        warnings.append(f"{mp}: legacy source_language={d.get('source_language')} (target is {CANONICAL_LANGUAGE})")
+
+    translations = d.get("translations", {})
+    canonical_entry = translations.get(CANONICAL_LANGUAGE, {})
+    if not canonical_entry:
+        errors.append(f"{mp}: missing translation metadata for {CANONICAL_LANGUAGE}")
+    elif canonical_entry.get("status") not in VALID_TRANSLATION_STATUS:
+        errors.append(f"{mp}: invalid translation status for {CANONICAL_LANGUAGE}")
+    elif d.get("source_language") == CANONICAL_LANGUAGE and canonical_entry.get("status") != "canonical":
+        errors.append(f"{mp}: {CANONICAL_LANGUAGE} must be canonical when source_language is {CANONICAL_LANGUAGE}")
+
+    for lang, entry in translations.items():
         if entry.get("status") not in VALID_TRANSLATION_STATUS:
             errors.append(f"{mp}: invalid translation status for {lang}")
         if not (content_dir / f"{lang}.md").exists():
@@ -77,7 +94,7 @@ for mp in STORIES.rglob("meta.json"):
 
     if content_dir.exists():
         for cf in content_dir.glob("*.md"):
-            if cf.stem not in d.get("translations", {}):
+            if cf.stem not in translations:
                 errors.append(f"{mp}: undeclared translation {cf.stem}")
 
     for link in d.get("links", []):
@@ -108,7 +125,7 @@ for mp in STORIES.rglob("meta.json"):
                 errors.append(f"{mp}: observer choice {i+1} effects must contain HUMAN/LIGHT/DARK")
             else:
                 for c, v in effects.items():
-                    if not isinstance(v, (int,float)) or v < 0 or v > 10:
+                    if not isinstance(v, (int, float)) or v < 0 or v > 10:
                         errors.append(f"{mp}: observer choice {i+1} invalid {c} effect")
 
 for sid, (mp, d) in all_ids.items():
@@ -124,8 +141,13 @@ if not mapped_ids.issubset(live_ids):
     errors.append(f"universe map contains non-live nodes: {sorted(mapped_ids-live_ids)}")
 
 orders = [n.get("observation_order") for n in mapped.values()]
-if sorted(orders) != list(range(1, len(orders)+1)):
+if sorted(orders) != list(range(1, len(orders) + 1)):
     errors.append("observation_order must be a continuous 1..N sequence")
+
+if warnings:
+    print("VALIDATION WARNINGS")
+    for w in warnings:
+        print("-", w)
 
 if errors:
     print("VALIDATION FAILED")
@@ -134,4 +156,5 @@ if errors:
     sys.exit(1)
 
 print(f"OK: {len(all_ids)} total story nodes; {len(live_ids)} live nodes validated.")
+print(f"Canonical story language: {CANONICAL_LANGUAGE}")
 print(f"Origin: {ORIGIN}; centers: HUMAN / LIGHT / DARK")
