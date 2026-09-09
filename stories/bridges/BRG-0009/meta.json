@@ -24,13 +24,53 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0009/sonsuzluk-yasanmaz.png",
     "alt": {
       "en": "Maran stands before an endless corridor of open doors leading to alternate possible lives under a cosmic sky, while an hourglass, family memory, branching selves, and an infinity-shaped path evoke finite time, choice and responsibility without any written text.",
-      "tr": "Maran, kozmik bir gökyüzü altında farklı olası hayatlara açılan sonsuz kapı koridorunun önünde durur; kum saati, aile hafızası, dallanan benlikler ve sonsuzluğu çağrıştıran yol, yazı olmadan sonlu zaman, seçim ve sorumluluğu simgeler."
+      "tr": "Maran, kozmik bir gökyüzü altında farklı olası hayatlara açılan sonsuz kapı koridorunun önünde durur; kum saati, aile hafızası, dallanan benlikler ve sonsuzluğu çağrıştıran yol, yazı olmadan sonlu zaman, seçim ve sorumluluğu simgeler.",
+      "de": "Maran steht unter einem kosmischen Himmel vor einem endlosen Korridor offener Türen zu alternativen möglichen Leben; Sanduhr, Familienerinnerung, verzweigte Selbste und ein unendlichkeitsförmiger Weg symbolisieren endliche Zeit, Wahl und Verantwortung ohne Schrift.",
+      "es": "Maran se encuentra bajo un cielo cósmico ante un corredor infinito de puertas abiertas hacia vidas posibles alternativas; un reloj de arena, la memoria familiar, identidades ramificadas y un camino con forma de infinito evocan tiempo finito, elección y responsabilidad sin texto.",
+      "fr": "Maran se tient sous un ciel cosmique devant un corridor infini de portes ouvertes vers des vies possibles alternatives ; un sablier, la mémoire familiale, des soi ramifiés et un chemin en forme d’infini évoquent temps fini, choix et responsabilité sans texte.",
+      "it": "Maran si trova sotto un cielo cosmico davanti a un corridoio infinito di porte aperte verso vite possibili alternative; una clessidra, memoria familiare, sé ramificati e un percorso a forma di infinito evocano tempo finito, scelta e responsabilità senza testo.",
+      "ru": "Маран стоит под космическим небом перед бесконечным коридором открытых дверей, ведущих к альтернативным возможным жизням; песочные часы, семейная память, ветвящиеся версии себя и путь в форме бесконечности символизируют конечное время, выбор и ответственность без текста.",
+      "zh-CN": "Maran 站在宇宙天空下、通往不同可能人生的无尽开放门廊前；沙漏、家庭记忆、分支自我与无限形道路在无文字画面中象征有限时间、选择与责任。",
+      "ja": "Maran が宇宙的な空の下、別の可能な人生へ続く無限の開いた扉の廊下の前に立つ。砂時計、家族の記憶、分岐する自己、無限記号のような道が、文字なしで有限な時間・選択・責任を示す。",
+      "ar": "يقف Maran تحت سماء كونية أمام ممر لا نهائي من الأبواب المفتوحة نحو حيوات محتملة بديلة؛ ساعة رملية وذاكرة عائلية وذوات متفرعة وطريق على شكل اللانهاية ترمز إلى الوقت المحدود والاختيار والمسؤولية من دون نص.",
+      "ku": "Maran di bin ezmaneke kozmîk de li ber korîdoreke bêdawî ya deriyên vekirî ber bi jiyanên mümkün ên alternatîf ve raweste; saeta qûmê, bîra malbatê, xwe yên şaxdar û rêya mîna nîşana bêdawîtiyê bê nivîs demê sînordar, hilbijartin û berpirsiyariyê nîşan didin.",
+      "pt": "Maran está sob um céu cósmico diante de um corredor infinito de portas abertas para vidas possíveis alternativas; ampulheta, memória familiar, eus ramificados e um caminho em forma de infinito evocam tempo finito, escolha e responsabilidade sem texto."
     }
   },
   "links": [
@@ -58,15 +98,45 @@
       "world_seed": true,
       "label": {
         "en": "Finite Decision",
-        "tr": "Sonlu Karar"
+        "tr": "Sonlu Karar",
+        "de": "Endliche Entscheidung",
+        "es": "Decisión Finita",
+        "fr": "Décision Finie",
+        "it": "Decisione Finita",
+        "ru": "Конечное решение",
+        "zh-CN": "有限决定",
+        "ja": "有限な決定",
+        "ar": "القرار المحدود",
+        "ku": "Biryara Sînordar",
+        "pt": "Decisão Finita"
       },
       "prompt": {
         "en": "What is one thing you choose not to postpone today?",
-        "tr": "Bugün ertelememeyi seçtiğiniz tek şey nedir?"
+        "tr": "Bugün ertelememeyi seçtiğiniz tek şey nedir?",
+        "de": "Was ist eine Sache, die du heute nicht länger aufschieben möchtest?",
+        "es": "¿Qué es una cosa que eliges no aplazar hoy?",
+        "fr": "Quelle est la chose que vous choisissez de ne pas reporter aujourd’hui ?",
+        "it": "Qual è una cosa che scegli di non rimandare oggi?",
+        "ru": "Что одно вы выбираете сегодня не откладывать?",
+        "zh-CN": "今天你选择不再推迟的一件事是什么？",
+        "ja": "今日、先延ばしにしないと決める一つのことは何ですか？",
+        "ar": "ما الشيء الواحد الذي تختار ألا تؤجله اليوم؟",
+        "ku": "Yek tiştê ku îro hilbijêrî paş nexî çi ye?",
+        "pt": "Qual é uma coisa que você escolhe não adiar hoje?"
       },
       "placeholder": {
         "en": "an apology, a question, a thank you, work you want to begin…",
-        "tr": "bir özür, bir soru, bir teşekkür, başlatmak istediğiniz bir çalışma…"
+        "tr": "bir özür, bir soru, bir teşekkür, başlatmak istediğiniz bir çalışma…",
+        "de": "eine Entschuldigung, eine Frage, ein Dankeschön, eine Arbeit, die du beginnen willst…",
+        "es": "una disculpa, una pregunta, un agradecimiento, un trabajo que quieres comenzar…",
+        "fr": "des excuses, une question, un remerciement, un travail que vous voulez commencer…",
+        "it": "delle scuse, una domanda, un ringraziamento, un lavoro che vuoi iniziare…",
+        "ru": "извинение, вопрос, благодарность, работа, которую вы хотите начать…",
+        "zh-CN": "一次道歉、一个问题、一句感谢、一项想开始的工作……",
+        "ja": "謝罪、問い、感謝、始めたい仕事…",
+        "ar": "اعتذار، سؤال، شكر، عمل تريد البدء فيه…",
+        "ku": "lêborîn, pirs, spasî, karek ku dixwazî dest pê bikî…",
+        "pt": "um pedido de desculpas, uma pergunta, um agradecimento, um trabalho que deseja começar…"
       }
     },
     {
@@ -76,15 +146,45 @@
       "world_seed": true,
       "label": {
         "en": "Direction",
-        "tr": "Yön"
+        "tr": "Yön",
+        "de": "Richtung",
+        "es": "Dirección",
+        "fr": "Direction",
+        "it": "Direzione",
+        "ru": "Направление",
+        "zh-CN": "方向",
+        "ja": "方向",
+        "ar": "الاتجاه",
+        "ku": "Alî",
+        "pt": "Direção"
       },
       "prompt": {
         "en": "Complete: I choose to use my limited time in the direction of…",
-        "tr": "Tamamlayın: Sınırlı zamanımı … yönünde kullanmayı seçiyorum."
+        "tr": "Tamamlayın: Sınırlı zamanımı … yönünde kullanmayı seçiyorum.",
+        "de": "Vervollständige: Ich entscheide mich, meine begrenzte Zeit in Richtung … zu verwenden.",
+        "es": "Completa: Elijo utilizar mi tiempo limitado en dirección a…",
+        "fr": "Complétez : Je choisis d’utiliser mon temps limité dans la direction de…",
+        "it": "Completa: Scelgo di usare il mio tempo limitato nella direzione di…",
+        "ru": "Закончите: Я выбираю использовать свое ограниченное время в направлении…",
+        "zh-CN": "完成：我选择把有限的时间用在……的方向。",
+        "ja": "完成してください：私は限られた時間を…の方向へ使うことを選びます。",
+        "ar": "أكمل: أختار استخدام وقتي المحدود في اتجاه…",
+        "ku": "Temam bike: Ez hilbijêrim demê xwe yê sînordar ber bi … ve bikar bînim.",
+        "pt": "Complete: Escolho usar meu tempo limitado na direção de…"
       },
       "placeholder": {
         "en": "care, courage, justice, learning…",
-        "tr": "bakım, cesaret, adalet, öğrenme…"
+        "tr": "bakım, cesaret, adalet, öğrenme…",
+        "de": "Fürsorge, Mut, Gerechtigkeit, Lernen…",
+        "es": "cuidado, valentía, justicia, aprendizaje…",
+        "fr": "soin, courage, justice, apprentissage…",
+        "it": "cura, coraggio, giustizia, apprendimento…",
+        "ru": "забота, смелость, справедливость, обучение…",
+        "zh-CN": "关怀、勇气、正义、学习……",
+        "ja": "ケア、勇気、正義、学び…",
+        "ar": "الرعاية، الشجاعة، العدالة، التعلم…",
+        "ku": "lênêrîn, cesaret, dadperwerî, hînbûn…",
+        "pt": "cuidado, coragem, justiça, aprendizagem…"
       }
     }
   ],
@@ -96,6 +196,96 @@
         "BRG-0010": "Sonsuz ihtimal ile oran, tekrar, sapma ve büyüme problemi sabit bir önce-sonra düzeni olmadan birbirini görünür kılar.",
         "COM-0001": "Sonlu sorumluluk, sınırsız ihtimale kaçmayan hesap verebilir ilişkisel bir dünya olarak İnsan Merkezi ile yankılanır.",
         "BRG-0012": "Hesaplama sonsuzluğu, tamamlanamayan modeller ve merkezileşme gerilimi Kayıt X'teki gerilimlerle kuantumsal olarak yankılanır."
+      }
+    },
+    "de": {
+      "title": "Unendlichkeit kann nicht gelebt werden",
+      "summary": "Maran begegnet verschiedenen mathematischen Formen der Unendlichkeit, simulierten Zukünften, extrem langem Leben und unbegrenzter Speicherung. Er entdeckt, dass Unendlichkeit Verantwortung nicht aufhebt: Menschliches Leben erhält gerade deshalb Gewicht, weil Aufmerksamkeit, Zeit, Beziehungen und Entscheidungen endlich sind.",
+      "link_notes": {
+        "BRG-0010": "Unendliche Möglichkeit und das Problem von Verhältnis, Wiederholung, Abweichung und Wachstum beleuchten einander ohne feste Vorher-Nachher-Ordnung.",
+        "COM-0001": "Endliche Verantwortung resoniert mit dem Menschlichen Zentrum als verantwortbare relationale Welt statt als Flucht in unbegrenzte Möglichkeit.",
+        "BRG-0012": "Rechnerische Unendlichkeit, unvollständige Modelle und Zentralisierung resonieren mit den Spannungen in Record X."
+      }
+    },
+    "es": {
+      "title": "El infinito no se vive",
+      "summary": "Maran se enfrenta a distintas formas matemáticas del infinito, futuros simulados, vidas extremadamente largas y almacenamiento ilimitado. Descubre que el infinito no elimina la responsabilidad: la vida humana adquiere peso precisamente porque la atención, el tiempo, las relaciones y las decisiones son finitos.",
+      "link_notes": {
+        "BRG-0010": "La posibilidad infinita y el problema de proporción, repetición, desviación y crecimiento se iluminan mutuamente sin un orden fijo de antes y después.",
+        "COM-0001": "La responsabilidad finita resuena con el Centro Humano como un mundo relacional responsable, no como una fuga hacia posibilidades ilimitadas.",
+        "BRG-0012": "El infinito computacional, los modelos incompletos y la centralización resuenan con las tensiones observadas en Record X."
+      }
+    },
+    "fr": {
+      "title": "L’infini ne se vit pas",
+      "summary": "Maran affronte plusieurs formes mathématiques de l’infini, des futurs simulés, des vies extrêmement longues et un stockage illimité. Il découvre que l’infini n’abolit pas la responsabilité : la vie humaine acquiert précisément son poids parce que l’attention, le temps, les relations et les choix sont finis.",
+      "link_notes": {
+        "BRG-0010": "La possibilité infinie et les problèmes de proportion, répétition, déviation et croissance s’éclairent mutuellement sans ordre fixe d’avant et d’après.",
+        "COM-0001": "La responsabilité finie résonne avec le Centre Humain comme monde relationnel responsable plutôt que comme fuite dans la possibilité illimitée.",
+        "BRG-0012": "L’infini computationnel, les modèles incomplets et la centralisation résonnent avec les tensions observées dans Record X."
+      }
+    },
+    "it": {
+      "title": "L’infinito non si vive",
+      "summary": "Maran affronta diverse forme matematiche dell’infinito, futuri simulati, vite estremamente lunghe e archiviazione illimitata. Scopre che l’infinito non elimina la responsabilità: la vita umana acquista peso proprio perché attenzione, tempo, relazioni e scelte sono finiti.",
+      "link_notes": {
+        "BRG-0010": "La possibilità infinita e i problemi di proporzione, ripetizione, deviazione e crescita si illuminano a vicenda senza un ordine fisso prima/dopo.",
+        "COM-0001": "La responsabilità finita risuona con il Centro Umano come mondo relazionale responsabile, non come fuga nella possibilità illimitata.",
+        "BRG-0012": "Infinito computazionale, modelli incompleti e centralizzazione risuonano con le tensioni osservate in Record X."
+      }
+    },
+    "ru": {
+      "title": "Бесконечность нельзя прожить",
+      "summary": "Маран сталкивается с разными математическими формами бесконечности, смоделированными будущими, чрезвычайно долгой жизнью и неограниченным хранением. Он понимает, что бесконечность не отменяет ответственность: человеческая жизнь приобретает вес именно потому, что внимание, время, отношения и решения конечны.",
+      "link_notes": {
+        "BRG-0010": "Бесконечная возможность и проблемы пропорции, повторения, отклонения и роста освещают друг друга без фиксированного порядка «до/после».",
+        "COM-0001": "Конечная ответственность перекликается с Человеческим Центром как ответственным реляционным миром, а не побегом в неограниченные возможности.",
+        "BRG-0012": "Вычислительная бесконечность, незавершимые модели и централизация перекликаются с напряжениями, наблюдаемыми в Record X."
+      }
+    },
+    "zh-CN": {
+      "title": "无限无法被完整经历",
+      "summary": "Maran 面对多种数学意义上的无限、模拟未来、极长寿命与无限存储。他发现，无限并不会消除责任：人的生命之所以有重量，恰恰因为注意力、时间、关系与选择都是有限的。",
+      "link_notes": {
+        "BRG-0010": "无限可能与比例、重复、偏差和生长问题彼此照亮，并不存在固定的先后顺序。",
+        "COM-0001": "有限责任与人的中心呼应：它指向一个可承担责任的关系世界，而不是逃入无限可能。",
+        "BRG-0012": "计算意义上的无限、不完整模型与中心化，与 Record X 中的张力形成呼应。"
+      }
+    },
+    "ja": {
+      "title": "無限は生き尽くせない",
+      "summary": "Maran は複数の数学的な無限、シミュレーションされた未来、極端に長い生命、無制限の保存と向き合う。無限は責任を消さず、人間の人生は注意、時間、関係、選択が有限であるからこそ重みを持つと気づく。",
+      "link_notes": {
+        "BRG-0010": "無限の可能性と、比率・反復・偏差・成長の問題は、固定された前後関係なしに互いを照らす。",
+        "COM-0001": "有限な責任は、無限の可能性への逃避ではなく、説明責任を持つ関係世界として人間の中心と響き合う。",
+        "BRG-0012": "計算上の無限、不完全なモデル、中央集権化は Record X で見られる緊張と響き合う。"
+      }
+    },
+    "ar": {
+      "title": "لا يمكن عيش اللانهاية كاملة",
+      "summary": "يواجه Maran أشكالًا رياضية متعددة للانهاية ومستقبلات محاكاة وحياة شديدة الطول وتخزينًا غير محدود. ويكتشف أن اللانهاية لا تلغي المسؤولية؛ فالحياة البشرية تكتسب وزنها لأن الانتباه والوقت والعلاقات والاختيارات محدودة.",
+      "link_notes": {
+        "BRG-0010": "الاحتمال اللامحدود ومشكلات النسبة والتكرار والانحراف والنمو يكشف بعضها بعضًا من دون ترتيب ثابت قبل/بعد.",
+        "COM-0001": "تتردد المسؤولية المحدودة مع المركز الإنساني بوصفه عالمًا علائقيًا قابلًا للمساءلة لا هروبًا إلى الاحتمال اللامحدود.",
+        "BRG-0012": "اللانهاية الحسابية والنماذج غير المكتملة والمركزية تتردد مع التوترات الملاحظة في Record X."
+      }
+    },
+    "ku": {
+      "title": "Bêdawîtî Nayê Jiyîn",
+      "summary": "Maran bi formên cuda yên bêdawîtiya matematîkî, dahatûyên modelkirî, jiyana pir dirêj û depokirina bêsînor re rû bi rû dibe. Ew fêm dike ku bêdawîtî berpirsiyariyê tune nake; jiyana mirovan ji ber ku bal, dem, têkilî û hilbijartin sînordar in giranî digire.",
+      "link_notes": {
+        "BRG-0010": "Ihtîmala bêdawî û pirsgirêkên rêje, dubare, dûrketin û mezinbûnê bê rêza sabît a pêş/paş hev dîtbar dikin.",
+        "COM-0001": "Berpirsiyariya sînordar bi Navenda Mirov re wek cîhaneke têkiliyî ya hesabdar deng vedide, ne wek rev ji ihtîmalên bêsînor.",
+        "BRG-0012": "Bêdawîtiya hesabkirinê, modelên netemam û navendîbûn bi tengezariyên di Record X de deng vedidin."
+      }
+    },
+    "pt": {
+      "title": "O infinito não pode ser vivido por inteiro",
+      "summary": "Maran enfrenta diferentes formas matemáticas do infinito, futuros simulados, vidas extremamente longas e armazenamento ilimitado. Descobre que o infinito não elimina a responsabilidade: a vida humana ganha peso justamente porque atenção, tempo, relações e escolhas são finitos.",
+      "link_notes": {
+        "BRG-0010": "Possibilidade infinita e os problemas de proporção, repetição, desvio e crescimento iluminam-se mutuamente sem uma ordem fixa de antes/depois.",
+        "COM-0001": "A responsabilidade finita ecoa o Centro Humano como um mundo relacional responsável, não como fuga para possibilidades ilimitadas.",
+        "BRG-0012": "Infinito computacional, modelos incompletos e centralização ecoam as tensões observadas em Record X."
       }
     }
   }
