@@ -24,17 +24,67 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0015/maran-human-centered-school.png",
     "alt": {
       "en": "A painterly future classroom in Germany where children collaborate around movable tables while a human mentor and an abstract AI light network support their work.",
-      "tr": "Almanya'daki geleceğin sınıfında çocukların hareketli masalarda birlikte çalıştığı, insan rehber ile soyut yapay zekâ ışık ağının öğrenmeyi desteklediği sanatsal sahne."
+      "tr": "Almanya'daki geleceğin sınıfında çocukların hareketli masalarda birlikte çalıştığı, insan rehber ile soyut yapay zekâ ışık ağının öğrenmeyi desteklediği sanatsal sahne.",
+      "de": "Ein malerisches Zukunftsklassenzimmer in Deutschland, in dem Kinder an beweglichen Tischen zusammenarbeiten, unterstützt von einem menschlichen Mentor und einem abstrakten KI-Lichtnetz.",
+      "es": "Un aula futurista de estilo pictórico en Alemania donde los niños colaboran alrededor de mesas móviles mientras un mentor humano y una red abstracta de luz de IA apoyan su trabajo.",
+      "fr": "Une classe du futur en Allemagne, de style pictural, où des enfants collaborent autour de tables mobiles avec le soutien d'un mentor humain et d'un réseau lumineux abstrait représentant l'IA.",
+      "it": "Un'aula del futuro in Germania, in stile pittorico, dove i bambini collaborano attorno a tavoli mobili mentre un mentore umano e una rete luminosa astratta di IA sostengono il loro lavoro.",
+      "ru": "Живописный класс будущего в Германии, где дети сотрудничают за подвижными столами, а человек-наставник и абстрактная световая сеть ИИ поддерживают их работу.",
+      "zh-CN": "德国未来课堂的艺术场景：孩子们围绕可移动桌子协作，人类导师与抽象的人工智能光网络共同支持学习。",
+      "ja": "ドイツの未来型教室を描いた絵画的な場面。子どもたちが可動式の机を囲んで協働し、人間のメンターと抽象的なAI光ネットワークが学びを支援する。",
+      "ar": "مشهد فني لفصل مستقبلي في ألمانيا يتعاون فيه الأطفال حول طاولات متحركة، بينما يدعمهم مرشد بشري وشبكة ضوئية مجردة تمثل الذكاء الاصطناعي.",
+      "ku": "Dîmenek hunerî ya pola dahatûyê li Almanyayê ku zarok li dora maseyên tevgerbar bi hev re dixebitin û mamosteyek mirovî û tora ronahiyê ya abstrakt a zeka çêkirî piştgirî dikin.",
+      "pt": "Uma sala de aula futurista em estilo pictórico na Alemanha, onde crianças colaboram em mesas móveis enquanto um mentor humano e uma rede abstrata de luz de IA apoiam o trabalho."
     },
     "caption": {
       "en": "The First Transformation School",
-      "tr": "İlk Dönüşüm Okulu"
+      "tr": "İlk Dönüşüm Okulu",
+      "de": "Die erste Transformationsschule",
+      "es": "La Primera Escuela de Transformación",
+      "fr": "La Première École de Transformation",
+      "it": "La Prima Scuola di Trasformazione",
+      "ru": "Первая Школа Трансформации",
+      "zh-CN": "第一所转型学校",
+      "ja": "最初のトランスフォーメーション・スクール",
+      "ar": "أول مدرسة للتحول",
+      "ku": "Dibistana Yekem a Veguherînê",
+      "pt": "A Primeira Escola de Transformação"
     }
   },
   "links": [
@@ -70,7 +120,17 @@
       "label": "Protect human judgment before accelerating learning.",
       "labels": {
         "en": "Protect human judgment before accelerating learning.",
-        "tr": "Öğrenmeyi hızlandırmadan önce insan yargısını koru."
+        "tr": "Öğrenmeyi hızlandırmadan önce insan yargısını koru.",
+        "de": "Schütze menschliches Urteilsvermögen, bevor du Lernen beschleunigst.",
+        "es": "Protege el juicio humano antes de acelerar el aprendizaje.",
+        "fr": "Protège le jugement humain avant d'accélérer l'apprentissage.",
+        "it": "Proteggi il giudizio umano prima di accelerare l'apprendimento.",
+        "ru": "Защити человеческое суждение прежде, чем ускорять обучение.",
+        "zh-CN": "在加速学习之前，先保护人的判断力。",
+        "ja": "学習を加速する前に、人間の判断を守る。",
+        "ar": "احمِ الحكم البشري قبل تسريع التعلم.",
+        "ku": "Berî ku hînbûnê bilezînî, biryardana mirovan biparêze.",
+        "pt": "Proteja o julgamento humano antes de acelerar a aprendizagem."
       },
       "effects": {
         "HUMAN": 10,
@@ -83,7 +143,17 @@
       "label": "Scale the model through evidence and measurable outcomes.",
       "labels": {
         "en": "Scale the model through evidence and measurable outcomes.",
-        "tr": "Modeli kanıt ve ölçülebilir sonuçlarla büyüt."
+        "tr": "Modeli kanıt ve ölçülebilir sonuçlarla büyüt.",
+        "de": "Skaliere das Modell mit Evidenz und messbaren Ergebnissen.",
+        "es": "Amplía el modelo mediante evidencia y resultados medibles.",
+        "fr": "Déploie le modèle à partir de preuves et de résultats mesurables.",
+        "it": "Estendi il modello attraverso evidenze e risultati misurabili.",
+        "ru": "Масштабируй модель на основе доказательств и измеримых результатов.",
+        "zh-CN": "依据证据和可测量结果扩展该模式。",
+        "ja": "証拠と測定可能な成果に基づいてモデルを拡大する。",
+        "ar": "وسّع النموذج بالاعتماد على الأدلة والنتائج القابلة للقياس.",
+        "ku": "Modelê bi delîl û encamên pîvanbar berfireh bike.",
+        "pt": "Amplie o modelo por meio de evidências e resultados mensuráveis."
       },
       "effects": {
         "HUMAN": 4,
@@ -96,7 +166,17 @@
       "label": "Keep the school open to uncertainty and continuous redesign.",
       "labels": {
         "en": "Keep the school open to uncertainty and continuous redesign.",
-        "tr": "Okulu belirsizliğe ve sürekli yeniden tasarıma açık tut."
+        "tr": "Okulu belirsizliğe ve sürekli yeniden tasarıma açık tut.",
+        "de": "Halte die Schule offen für Ungewissheit und kontinuierliche Neugestaltung.",
+        "es": "Mantén la escuela abierta a la incertidumbre y al rediseño continuo.",
+        "fr": "Garde l'école ouverte à l'incertitude et à la refonte continue.",
+        "it": "Mantieni la scuola aperta all'incertezza e alla riprogettazione continua.",
+        "ru": "Оставляй школу открытой неопределенности и постоянному перепроектированию.",
+        "zh-CN": "让学校持续对不确定性与重新设计保持开放。",
+        "ja": "学校を不確実性と継続的な再設計に開いておく。",
+        "ar": "أبقِ المدرسة منفتحة على عدم اليقين وإعادة التصميم المستمرة.",
+        "ku": "Dibistanê ji nezelaliyê û dîsa-sêwirandina domdar re vekirî bihêle.",
+        "pt": "Mantenha a escola aberta à incerteza e ao redesenho contínuo."
       },
       "effects": {
         "HUMAN": 5,
@@ -116,6 +196,46 @@
         "BRG-0008": "Ölçüm gereklidir; fakat Maran ölçülebilen göstergeleri insan öğrenmesinin bütünüyle karıştırmayı reddeder.",
         "BRG-0002": "Aydınlık, Karanlık ve insan sorumluluğu; eğitimde bilgi, belirsizlik ve etik özne olarak yeniden belirir."
       }
+    },
+    "de": {
+      "title": "Die Schule, die den Wettbewerb ablehnte: Maran und die erste menschenzentrierte Transformationsschule",
+      "summary": "Nach Jahren vergleichender Bildungsforschung verwandelt Maran eine lebenslange Lernarchitektur – vom spielerischen Lernen in der Kindheit bis zur transformationsorientierten Promotion – in ein Mensch–KI-Partnerschaftsmodell. Der erste fiktionale Pilot startet in Deutschland, wo Erfolg daran gemessen wird, menschliches Urteilsvermögen zu stärken statt es an KI abzugeben."
+    },
+    "es": {
+      "title": "La escuela que se negó a competir: Maran y la primera Escuela de Transformación Centrada en el Ser Humano",
+      "summary": "Tras años de investigación educativa comparada, Maran convierte una arquitectura de aprendizaje permanente —desde la infancia basada en el juego hasta el doctorado orientado a la transformación— en un modelo de colaboración ser humano–IA. Su primer piloto ficticio abre en Alemania, donde el éxito se mide por fortalecer el juicio humano, no por entregarlo a la IA."
+    },
+    "fr": {
+      "title": "L'école qui refusa la compétition : Maran et la première École de Transformation Centrée sur l'Humain",
+      "summary": "Après des années de recherche comparative en éducation, Maran transforme une architecture d'apprentissage tout au long de la vie — du jeu dans l'enfance au doctorat orienté vers la transformation — en un modèle de partenariat humain–IA. Son premier pilote fictionnel ouvre en Allemagne, où la réussite consiste à renforcer le jugement humain plutôt qu'à le déléguer à l'IA."
+    },
+    "it": {
+      "title": "La scuola che rifiutò la competizione: Maran e la prima Scuola di Trasformazione Centrata sull'Essere Umano",
+      "summary": "Dopo anni di ricerca comparativa sull'educazione, Maran trasforma un'architettura di apprendimento permanente — dal gioco nell'infanzia al dottorato orientato alla trasformazione — in un modello di collaborazione essere umano–IA. Il primo pilota narrativo apre in Germania, dove il successo viene misurato rafforzando il giudizio umano anziché delegarlo all'IA."
+    },
+    "ru": {
+      "title": "Школа, отказавшаяся от соревнования: Маран и первая Школа Человекоцентричной Трансформации",
+      "summary": "После многих лет сравнительных исследований образования Маран превращает архитектуру обучения на протяжении всей жизни — от игрового детства до трансформационной докторантуры — в модель партнерства человека и ИИ. Первый вымышленный пилот открывается в Германии, где успех измеряется усилением человеческого суждения, а не его передачей ИИ."
+    },
+    "zh-CN": {
+      "title": "拒绝竞争的学校：Maran 与第一所人本转型学校",
+      "summary": "经过多年比较教育研究，Maran 把从游戏式童年学习一直延伸到转型导向博士阶段的终身学习架构，发展成人–人工智能合作模式。第一个虚构试点在德国启动，成功的标准不是把人的判断交给人工智能，而是强化人的判断。"
+    },
+    "ja": {
+      "title": "競争を拒んだ学校：Maran と最初の人間中心型トランスフォーメーション・スクール",
+      "summary": "長年の比較教育研究を経て、Maran は遊びを基盤とする幼児期から変革志向の博士課程まで続く生涯学習アーキテクチャを、人間–AI協働モデルへ発展させる。最初の架空パイロットはドイツで始まり、成功は人間の判断をAIへ委ねるのではなく強化することによって測られる。"
+    },
+    "ar": {
+      "title": "المدرسة التي رفضت المنافسة: Maran وأول مدرسة للتحول المتمحور حول الإنسان",
+      "summary": "بعد سنوات من البحث المقارن في التعليم، يحول Maran معمار تعلم يمتد من الطفولة القائمة على اللعب إلى الدكتوراه الموجهة نحو التحول إلى نموذج شراكة بين الإنسان والذكاء الاصطناعي. ويبدأ أول تطبيق تجريبي خيالي في ألمانيا، حيث يُقاس النجاح بتقوية الحكم البشري لا بتسليمه للذكاء الاصطناعي."
+    },
+    "ku": {
+      "title": "Dibistana ku Pêşbazî Red Kir: Maran û Dibistana Yekem a Veguherîna Mirov-Navendî",
+      "summary": "Piştî salên lêkolîna berhevdanî ya perwerdehiyê, Maran mîmariyek hînbûna hemû jiyanê — ji zarokatiya li ser lîstikê heta doktoraya veguherîn-navendî — vediguherîne modela hevkariya mirov–zeka çêkirî. Pilota çîrokî ya yekem li Almanyayê dest pê dike, ku serkeftin bi xurtkirina biryardana mirovan tê pîvan, ne bi radestkirina wê ji zeka çêkirî re."
+    },
+    "pt": {
+      "title": "A escola que recusou competir: Maran e a primeira Escola de Transformação Centrada no Ser Humano",
+      "summary": "Após anos de pesquisa educacional comparativa, Maran transforma uma arquitetura de aprendizagem ao longo da vida — da infância baseada em brincadeiras ao doutorado orientado à transformação — em um modelo de parceria humano–IA. O primeiro piloto fictício abre na Alemanha, onde o sucesso é medido pelo fortalecimento do julgamento humano, e não por sua transferência à IA."
     }
   },
   "inspiration": {
