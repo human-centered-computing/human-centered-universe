@@ -24,13 +24,53 @@
     },
     "tr": {
       "status": "machine_draft"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/HUM-0002/insan-merkezli-avukat-sistemi-karari-kim-verecek.png",
     "alt": {
       "en": "Attorney Ayşe reviews legal files at night while an AI-assisted legal intelligence system visualizes evidence, verified sources, timelines and alternative strategies around her.",
-      "tr": "Avukat Ayşe gece ofisinde dosyaları incelerken yapay zekâ destekli hukuk zekâsı sistemi delilleri, doğrulanmış kaynakları, zaman çizelgesini ve alternatif stratejileri çevresinde görünür kılıyor."
+      "tr": "Avukat Ayşe gece ofisinde dosyaları incelerken yapay zekâ destekli hukuk zekâsı sistemi delilleri, doğrulanmış kaynakları, zaman çizelgesini ve alternatif stratejileri çevresinde görünür kılıyor.",
+      "de": "Rechtsanwältin Ayşe prüft nachts Akten, während ein KI-gestütztes Rechtsintelligenzsystem Beweise, verifizierte Quellen, Zeitleisten und alternative Strategien um sie herum visualisiert.",
+      "es": "La abogada Ayşe revisa expedientes de noche mientras un sistema de inteligencia jurídica asistido por IA visualiza pruebas, fuentes verificadas, cronologías y estrategias alternativas a su alrededor.",
+      "fr": "L’avocate Ayşe examine des dossiers de nuit tandis qu’un système d’intelligence juridique assisté par IA visualise autour d’elle les preuves, sources vérifiées, chronologies et stratégies alternatives.",
+      "it": "L’avvocata Ayşe esamina fascicoli di notte mentre un sistema di intelligenza giuridica assistito da IA visualizza prove, fonti verificate, linee temporali e strategie alternative intorno a lei.",
+      "ru": "Адвокат Айше ночью изучает дела, а система правового интеллекта с поддержкой ИИ визуализирует доказательства, проверенные источники, временные шкалы и альтернативные стратегии.",
+      "zh-CN": "律师 Ayşe 夜间审阅案卷，人工智能辅助法律智能系统在她周围可视化证据、已验证来源、时间线与替代策略。",
+      "ja": "弁護士 Ayşe が夜に事件記録を確認し、AI支援法律インテリジェンス・システムが証拠、検証済み出典、時系列、代替戦略を周囲に可視化している。",
+      "ar": "تراجع المحامية Ayşe الملفات ليلًا بينما يعرض نظام ذكاء قانوني مدعوم بالذكاء الاصطناعي الأدلة والمصادر المتحققة والخطوط الزمنية والاستراتيجيات البديلة حولها.",
+      "ku": "Parêzer Ayşe şevê dosyayan kontrol dike, pergala zekaya hiqûqî ya bi AI piştgirîkirî delîl, çavkaniyên pejirandî, xetên demê û stratejiyên alternatîf li dora wê dîtbar dike.",
+      "pt": "A advogada Ayşe revisa processos à noite enquanto um sistema de inteligência jurídica assistido por IA visualiza provas, fontes verificadas, linhas do tempo e estratégias alternativas ao seu redor."
     }
   },
   "links": [
@@ -67,7 +107,17 @@
       "label": "Keep final legal judgment and responsibility with the lawyer.",
       "labels": {
         "en": "Keep final legal judgment and responsibility with the lawyer.",
-        "tr": "Nihai hukuki değerlendirme ve sorumluluğu avukatta tut."
+        "tr": "Nihai hukuki değerlendirme ve sorumluluğu avukatta tut.",
+        "de": "Behalte die endgültige rechtliche Würdigung und Verantwortung beim Anwalt.",
+        "es": "Mantén la valoración jurídica final y la responsabilidad en el abogado.",
+        "fr": "Garde l’évaluation juridique finale et la responsabilité auprès de l’avocat.",
+        "it": "Mantieni la valutazione giuridica finale e la responsabilità presso l’avvocato.",
+        "ru": "Оставь окончательную юридическую оценку и ответственность за адвокатом.",
+        "zh-CN": "让最终法律判断与责任保留在律师手中。",
+        "ja": "最終的な法的評価と責任は弁護士に残す。",
+        "ar": "أبقِ التقييم القانوني النهائي والمسؤولية لدى المحامي.",
+        "ku": "Nirxandina hiqûqî ya dawî û berpirsiyariyê li parêzer bihêle.",
+        "pt": "Mantenha a avaliação jurídica final e a responsabilidade com o advogado."
       },
       "effects": {
         "HUMAN": 10,
@@ -80,7 +130,17 @@
       "label": "Require every legal source and precedent to be verifiable before use.",
       "labels": {
         "en": "Require every legal source and precedent to be verifiable before use.",
-        "tr": "Kullanımdan önce her hukuki kaynak ve içtihadın doğrulanmasını iste."
+        "tr": "Kullanımdan önce her hukuki kaynak ve içtihadın doğrulanmasını iste.",
+        "de": "Verlange, dass jede Rechtsquelle und jeder Präzedenzfall vor Verwendung verifiziert wird.",
+        "es": "Exige verificar toda fuente jurídica y precedente antes de utilizarlo.",
+        "fr": "Exige la vérification de toute source juridique et jurisprudence avant utilisation.",
+        "it": "Richiedi che ogni fonte giuridica e precedente sia verificato prima dell’uso.",
+        "ru": "Требуй проверки каждого юридического источника и прецедента до использования.",
+        "zh-CN": "使用前必须验证每一个法律来源与判例。",
+        "ja": "使用前にすべての法律情報源と裁判例の検証を求める。",
+        "ar": "اطلب التحقق من كل مصدر قانوني وسابقة قبل استخدامها.",
+        "ku": "Berî bikaranînê pejirandina her çavkaniya hiqûqî û biryara dadgehê bixwaze.",
+        "pt": "Exija que toda fonte jurídica e precedente seja verificável antes do uso."
       },
       "effects": {
         "HUMAN": 4,
@@ -93,7 +153,17 @@
       "label": "Follow contradictions and alternative interpretations before selecting a strategy.",
       "labels": {
         "en": "Follow contradictions and alternative interpretations before selecting a strategy.",
-        "tr": "Strateji seçmeden önce çelişkileri ve alternatif yorumları araştır."
+        "tr": "Strateji seçmeden önce çelişkileri ve alternatif yorumları araştır.",
+        "de": "Untersuche Widersprüche und alternative Interpretationen, bevor du eine Strategie wählst.",
+        "es": "Investiga contradicciones e interpretaciones alternativas antes de elegir una estrategia.",
+        "fr": "Examine les contradictions et interprétations alternatives avant de choisir une stratégie.",
+        "it": "Esplora contraddizioni e interpretazioni alternative prima di scegliere una strategia.",
+        "ru": "Исследуй противоречия и альтернативные толкования до выбора стратегии.",
+        "zh-CN": "选择策略前，先调查矛盾与替代解释。",
+        "ja": "戦略を選ぶ前に、矛盾と代替解釈を検討する。",
+        "ar": "افحص التناقضات والتفسيرات البديلة قبل اختيار الاستراتيجية.",
+        "ku": "Berî hilbijartina stratejiyê nakokî û şîroveyên alternatîf vekole.",
+        "pt": "Explore contradições e interpretações alternativas antes de escolher uma estratégia."
       },
       "effects": {
         "HUMAN": 4,
@@ -111,6 +181,106 @@
         "BRG-0017": "İnsan Merkezli Avukat Sistemi, Bilişim 5.0 yaklaşımını hukuk alanına taşıyarak yapay zekâyı mesleki sorumluluğun yerine geçen değil, insan kapasitesini artıran bir araç olarak konumlandırır.",
         "COM-0005": "Müvekkil, tanık ve hukuki sorumluluğu yalnızca veri noktalarına indirgememesiyle 'İnsan Hammadde Değildir' ilkesiyle bağlantı kurar.",
         "HUM-0001": "Tapetum Sentinel gibi bu sistem de zor görülen sinyalleri görünür kılar; kritik yorum ve nihai sorumluluğu insan uzmanda bırakır."
+      }
+    },
+    "de": {
+      "title": "Menschenzentriertes Anwaltssystem: Wer wird entscheiden?",
+      "summary": "Rechtsanwältin Ayşe begegnet einer juristischen KI, die Akten strukturiert, Quellen verifiziert, Beweise abbildet, Widersprüche erkennt und alternative Strategien erzeugt. Durch Licht-, Dunkel- und Menschliches Zentrum reift die Idee zu einem Rechtsintelligenzsystem, das anwaltliches Denken stärkt, aber rechtliche Entscheidung, Mandantenverantwortung und endgültige berufliche Verantwortung beim Menschen lässt.",
+      "link_notes": {
+        "BRG-0013": "Die Geschichte überträgt das Reality-Bridge-Prinzip auf die Rechtspraxis: KI-Ausgaben müssen vor realer Verwendung verifizierbar, anfechtbar und professionell durch einen Anwalt überprüfbar bleiben.",
+        "BRG-0017": "Das Menschenzentrierte Anwaltssystem überträgt Informatics 5.0 auf juristische Arbeit, indem KI als Verstärker menschlicher Fähigkeit und nicht als Ersatz für berufliche Verantwortung positioniert wird.",
+        "COM-0005": "Die Geschichte verbindet sich mit dem Prinzip, dass Menschen kein Rohmaterial sind, indem Mandanten, Zeugen und rechtliche Verantwortung nicht auf Datenpunkte reduziert werden.",
+        "HUM-0001": "Wie Tapetum Sentinel macht auch dieses System schwer erkennbare Signale sichtbar, während kritische Interpretation und endgültige Verantwortung bei einem menschlichen Fachmenschen bleiben."
+      }
+    },
+    "es": {
+      "title": "Sistema de Abogacía Centrado en el Ser Humano: ¿Quién decidirá?",
+      "summary": "La abogada Ayşe se enfrenta a una IA jurídica capaz de estructurar expedientes, verificar fuentes, mapear pruebas, detectar contradicciones y generar estrategias alternativas. A través de los Centros de Luz, Oscuridad y Humano, la idea madura en un sistema de inteligencia jurídica que fortalece el razonamiento del abogado, dejando la decisión jurídica, la responsabilidad frente al cliente y la responsabilidad profesional final en manos humanas.",
+      "link_notes": {
+        "BRG-0013": "La historia aplica el principio del Reality Bridge a la práctica jurídica: las salidas de IA deben seguir siendo verificables, impugnables y sometidas a revisión profesional humana antes de su uso real.",
+        "BRG-0017": "El Sistema de Abogacía Centrado en el Ser Humano lleva Informatics 5.0 al trabajo jurídico al tratar la IA como amplificador de capacidad y no como sustituto de la responsabilidad profesional.",
+        "COM-0005": "La historia conecta con el principio de que el ser humano no es materia prima al negarse a reducir clientes, testigos o responsabilidad jurídica a puntos de datos.",
+        "HUM-0001": "Como Tapetum Sentinel, el sistema hace visibles señales difíciles mientras mantiene la interpretación crítica y la responsabilidad final en un profesional humano."
+      }
+    },
+    "fr": {
+      "title": "Système d’Avocat Centré sur l’Humain : Qui décidera ?",
+      "summary": "L’avocate Ayşe rencontre une IA juridique capable de structurer les dossiers, vérifier les sources, cartographier les preuves, détecter les contradictions et générer des stratégies alternatives. À travers les Centres de Lumière, d’Obscurité et Humain, l’idée mûrit en un système d’intelligence juridique qui renforce le raisonnement de l’avocat tout en laissant la décision juridique, la responsabilité envers le client et la responsabilité professionnelle finale à l’humain.",
+      "link_notes": {
+        "BRG-0013": "L’histoire applique le principe du Reality Bridge à la pratique juridique : les sorties de l’IA doivent rester vérifiables, contestables et soumises à une révision professionnelle humaine avant toute action réelle.",
+        "BRG-0017": "Le Système d’Avocat Centré sur l’Humain étend Informatics 5.0 au travail juridique en traitant l’IA comme un amplificateur de capacité plutôt qu’un remplacement de la responsabilité professionnelle.",
+        "COM-0005": "L’histoire rejoint le principe selon lequel l’humain n’est pas une matière première en refusant de réduire clients, témoins ou responsabilité juridique à de simples points de données.",
+        "HUM-0001": "Comme Tapetum Sentinel, ce système rend visibles des signaux difficiles tout en maintenant l’interprétation critique et la responsabilité finale chez un professionnel humain."
+      }
+    },
+    "it": {
+      "title": "Sistema dell’Avvocato Centrato sull’Essere Umano: Chi Deciderà?",
+      "summary": "L’avvocata Ayşe incontra un’IA giuridica capace di strutturare fascicoli, verificare fonti, mappare prove, rilevare contraddizioni e generare strategie alternative. Attraverso i Centri della Luce, dell’Oscurità e Umano, l’idea matura in un sistema di intelligenza giuridica che rafforza il ragionamento dell’avvocato lasciando decisione legale, responsabilità verso il cliente e responsabilità professionale finale all’essere umano.",
+      "link_notes": {
+        "BRG-0013": "La storia applica il principio del Reality Bridge alla pratica legale: gli output dell’IA devono restare verificabili, contestabili e soggetti a revisione professionale umana prima dell’uso nel mondo reale.",
+        "BRG-0017": "Il Sistema dell’Avvocato Centrato sull’Essere Umano estende Informatics 5.0 al lavoro giuridico trattando l’IA come amplificatore della capacità e non come sostituto della responsabilità professionale.",
+        "COM-0005": "La storia richiama il principio secondo cui l’essere umano non è materia prima rifiutando di ridurre clienti, testimoni o responsabilità giuridica a semplici punti dati.",
+        "HUM-0001": "Come Tapetum Sentinel, il sistema rende visibili segnali difficili mantenendo interpretazione critica e responsabilità finale in un professionista umano."
+      }
+    },
+    "ru": {
+      "title": "Человекоцентричная адвокатская система: Кто будет решать?",
+      "summary": "Адвокат Айше сталкивается с юридическим ИИ, способным структурировать дела, проверять источники, картировать доказательства, выявлять противоречия и создавать альтернативные стратегии. Проходя через Центры Света, Тьмы и Человека, идея превращается в систему правового интеллекта, усиливающую мышление адвоката, но оставляющую юридическое решение, ответственность перед клиентом и окончательную профессиональную ответственность человеку.",
+      "link_notes": {
+        "BRG-0013": "История переносит принцип Reality Bridge в юридическую практику: выводы ИИ должны оставаться проверяемыми, оспоримыми и проходить профессиональную человеческую проверку до реального применения.",
+        "BRG-0017": "Человекоцентричная адвокатская система расширяет Informatics 5.0 на юридическую работу, рассматривая ИИ как усилитель человеческой способности, а не замену профессиональной ответственности.",
+        "COM-0005": "История связана с принципом «человек не является сырьем», отказываясь сводить клиентов, свидетелей и юридическую ответственность к точкам данных.",
+        "HUM-0001": "Как Tapetum Sentinel, система делает трудные сигналы видимыми, сохраняя критическое толкование и окончательную ответственность за человеком-профессионалом."
+      }
+    },
+    "zh-CN": {
+      "title": "以人为中心的律师系统：谁来做决定？",
+      "summary": "律师 Ayşe 面对一套能够整理案卷、验证来源、映射证据、发现矛盾并生成替代策略的法律人工智能。这个想法经过光明、黑暗与人的中心，发展成一套强化律师法律推理的法律智能系统，同时把法律决定、对委托人的责任和最终职业责任保留在人类律师手中。",
+      "link_notes": {
+        "BRG-0013": "故事把 Reality Bridge 原则带入法律实践：人工智能输出在现实使用前必须保持可验证、可质疑，并接受律师的专业人工审查。",
+        "BRG-0017": "以人为中心的律师系统把 Informatics 5.0 延伸到法律工作，把人工智能定位为人的能力放大器，而不是职业责任的替代者。",
+        "COM-0005": "故事拒绝把委托人、证人和法律责任缩减成数据点，从而呼应“人不是原材料”的原则。",
+        "HUM-0001": "与 Tapetum Sentinel 类似，该系统让难以看见的信号变得可见，同时把关键解释与最终责任留给人类专业人士。"
+      }
+    },
+    "ja": {
+      "title": "人間中心の弁護士システム：誰が決めるのか？",
+      "summary": "弁護士 Ayşe は、事件記録の構造化、出典検証、証拠マッピング、矛盾検出、代替戦略生成ができる法律AIと向き合う。光・闇・人間の中心を通して、その発想は弁護士の法的推論を強化しつつ、法律判断、依頼者への責任、最終的な職業責任を人間の弁護士に残す法律インテリジェンス・システムへ成熟する。",
+      "link_notes": {
+        "BRG-0013": "物語は Reality Bridge の原則を法律実務へ適用する。AI出力は現実に使用される前に、検証可能・異議申立て可能であり、人間の弁護士による専門的レビューを受けなければならない。",
+        "BRG-0017": "人間中心の弁護士システムは、AIを職業責任の代替ではなく人間能力の増幅器として扱うことで Informatics 5.0 を法律実務へ拡張する。",
+        "COM-0005": "依頼者、証人、法的責任をデータ点へ還元しないことで「人間は原材料ではない」という原則と結びつく。",
+        "HUM-0001": "Tapetum Sentinel と同様に、見えにくい信号を可視化しつつ、重要な解釈と最終責任を人間の専門家に残す。"
+      }
+    },
+    "ar": {
+      "title": "نظام المحامي المتمحور حول الإنسان: من سيقرر؟",
+      "summary": "تواجه المحامية Ayşe ذكاءً اصطناعيًا قانونيًا قادرًا على هيكلة الملفات والتحقق من المصادر ورسم خريطة الأدلة واكتشاف التناقضات وتوليد استراتيجيات بديلة. وعبر مراكز النور والظلام والإنسان تنضج الفكرة إلى نظام ذكاء قانوني يعزز استدلال المحامي، بينما يترك القرار القانوني ومسؤولية الموكل والمسؤولية المهنية النهائية للإنسان.",
+      "link_notes": {
+        "BRG-0013": "تنقل القصة مبدأ Reality Bridge إلى الممارسة القانونية: يجب أن تبقى مخرجات الذكاء الاصطناعي قابلة للتحقق والاعتراض والمراجعة المهنية البشرية قبل استخدامها في الواقع.",
+        "BRG-0017": "يوسع نظام المحامي المتمحور حول الإنسان Informatics 5.0 إلى العمل القانوني بوضع الذكاء الاصطناعي كمعزز للقدرة البشرية لا كبديل للمسؤولية المهنية.",
+        "COM-0005": "ترتبط القصة بمبدأ أن الإنسان ليس مادة خام برفض اختزال الموكلين والشهود والمسؤولية القانونية إلى نقاط بيانات.",
+        "HUM-0001": "مثل Tapetum Sentinel، يجعل النظام الإشارات الصعبة مرئية مع إبقاء التفسير النقدي والمسؤولية النهائية لدى مهني بشري."
+      }
+    },
+    "ku": {
+      "title": "Pergala Parêzeriya Mirov-Navendî: Kî Dê Biryare?",
+      "summary": "Parêzer Ayşe bi AI-eke hiqûqî re rû bi rû dibe ku dikare dosyayan rêxistin bike, çavkaniyan pejirîne, delîlan nexşeyê bike, nakokiyan bibîne û stratejiyên alternatîf çêbike. Fikir bi Navendên Ronahî, Tarîtî û Mirov re dibe pergaleke zekaya hiqûqî ku muhakemeya parêzer xurt dike, lê biryara hiqûqî, berpirsiyariya muwekîl û berpirsiyariya pîşeyî ya dawî li mirov dihêle.",
+      "link_notes": {
+        "BRG-0013": "Çîrok prensîba Reality Bridge dibe karê hiqûqî: derketinên AI berî bikaranîna rastîn divê pejirandî, îtirazbar û ji aliyê parêzerê mirovî ve kontrolbar bin.",
+        "BRG-0017": "Pergala Parêzeriya Mirov-Navendî Informatics 5.0 dibe qada hiqûqê û AI wek zêdekera kapasîteya mirovan, ne wek cîgirê berpirsiyariya pîşeyî, datîne.",
+        "COM-0005": "Çîrok bi prensîba ku mirov ne madeya xam e girê dide, ji ber ku muwekîl, şahid û berpirsiyariya hiqûqî tenê nake data-point.",
+        "HUM-0001": "Wek Tapetum Sentinel, ev pergal sînyalên dijwar dîtbar dike, lê şîroveya krîtîk û berpirsiyariya dawî li pisporê mirovî dihêle."
+      }
+    },
+    "pt": {
+      "title": "Sistema de Advocacia Centrado no Ser Humano: Quem Vai Decidir?",
+      "summary": "A advogada Ayşe encontra uma IA jurídica capaz de estruturar processos, verificar fontes, mapear provas, detectar contradições e gerar estratégias alternativas. Através dos Centros da Luz, da Escuridão e Humano, a ideia amadurece em um sistema de inteligência jurídica que fortalece o raciocínio do advogado, mantendo a decisão jurídica, a responsabilidade perante o cliente e a responsabilidade profissional final com o ser humano.",
+      "link_notes": {
+        "BRG-0013": "A história aplica o princípio do Reality Bridge à prática jurídica: as saídas de IA devem permanecer verificáveis, contestáveis e sujeitas à revisão profissional humana antes do uso no mundo real.",
+        "BRG-0017": "O Sistema de Advocacia Centrado no Ser Humano estende Informatics 5.0 ao trabalho jurídico ao tratar a IA como amplificador de capacidade, não como substituta da responsabilidade profissional.",
+        "COM-0005": "A história ecoa o princípio de que seres humanos não são matéria-prima ao se recusar a reduzir clientes, testemunhas ou responsabilidade jurídica a pontos de dados.",
+        "HUM-0001": "Como Tapetum Sentinel, o sistema torna sinais difíceis mais visíveis mantendo interpretação crítica e responsabilidade final com um profissional humano."
       }
     }
   }
