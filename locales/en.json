@@ -65,5 +65,14 @@
   "human_short": "Human",
   "light_short": "Light",
   "dark_short": "Dark",
-  "triangle_state_space": "HCU triangular state space"
+  "triangle_state_space": "HCU triangular state space",
+  "settings": "Settings",
+  "settings_intro": "Manage reading progress and your Observer journey on this device.",
+  "reading_progress": "Reading Progress",
+  "restart_story_description": "Mark the current story as unread and return to its beginning. Observer choices and scores are preserved.",
+  "restart_current_story": "Restart Current Story",
+  "journey_data": "Journey Data",
+  "reset_journey_description": "Clear reading history, choices, HUMAN/LIGHT/DARK scores, Quantum Path, and the First Vibration intro record on this device.",
+  "reset_entire_journey": "Reset Entire Journey",
+  "reset_journey_warning": "Reset your entire journey? Reading progress, choices, and Observer State will be permanently cleared on this device."
 }
