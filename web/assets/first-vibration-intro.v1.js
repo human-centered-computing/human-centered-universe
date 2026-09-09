@@ -64,7 +64,7 @@
       <div class="vibration-sky" aria-hidden="true"><div class="neural-echo"></div></div>
       <div class="vibration-ground" aria-hidden="true"></div>
       <div class="pillar-field" aria-label="12 T-shaped stone pillars">${pillars()}</div>
-      <div class="first-pulse" aria-hidden="true"><span></span><span></span><span></span></div>
+      <div class="first-pulse" aria-hidden="true"><span>Purify</span><span></span><span>Return to Your Essence</span></div>
       <div class="intro-content">
         <p class="intro-eyebrow">BRG-0002 · ${copy.place}</p><h1>${copy.title}</h1>
         <div class="intro-choice-stage"><h2>${copy.prompt}</h2><p>${copy.note}</p><div class="intro-choices">
