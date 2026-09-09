@@ -1096,6 +1096,18 @@ Maran scrisse l’ultima frase nel sistema:
 
 Sotto:
 
+**LA TECNOLOGIA NON DEVE LIMITARSI A USARE L’ESSERE UMANO; DEVE ENTRARE IN RELAZIONE CON LUI.**
+
+Luka:
+
+«La tecnologia può davvero entrare in relazione?»
+
+Maran si fermò.
+
+Cancellò la frase.
+
+Poi scrisse con maggiore attenzione:
+
 **OGNI SISTEMA CHE ESERCITA POTERE SUGLI ESSERI UMANI DEVE TENERE CONTO DELLA LORO DIGNITÀ, CAPACITÀ DI AGIRE E DIRITTO DI CONTESTARE.**
 
 Luka:
