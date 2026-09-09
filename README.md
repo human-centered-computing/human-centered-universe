@@ -459,6 +459,15 @@ When a new interface locale is added, add a matching localized README file under
 
 ---
 
+## Authors and contributors
+
+Human-Centered Universe preserves visible authorship and contribution provenance as the shared universe expands.
+
+- See `AUTHORS.md` for principal creative authorship and long-term authorship roles.
+- See `CONTRIBUTORS.md` for creative, technical, language, media, research, and review contributors.
+- Git commits, pull requests, reviews, and story-level metadata remain the detailed contribution record.
+
+
 ## Licensing
 
 Human-Centered Universe is both a software system and an evolving creative work, so it uses a **two-layer licensing model**:
