@@ -14,6 +14,15 @@
       "bytes": 7196048,
       "engine": "Piper",
       "voice": "it_IT-paola-medium"
+    },
+    {
+      "id": "BRG-0007",
+      "title": "04:17 — I Refuse to Choose",
+      "file": "./BRG-0007.mp3",
+      "duration_seconds": 845.087,
+      "bytes": 10141406,
+      "engine": "Piper",
+      "voice": "it_IT-paola-medium"
     }
   ]
 }
