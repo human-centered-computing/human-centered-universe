@@ -24,13 +24,53 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/COM-0004/acik-agin-mimarlari.png",
     "alt": {
       "en": "A textless cinematic network of floating ecological cities and local worlds linked by luminous arcs, with no single island positioned as the permanent center.",
-      "tr": "Yazısız sinematik sahnede farklı ekolojik şehirler ve yerel dünyalar ışıklı ağlarla birbirine bağlanır; hiçbir ada kalıcı merkez olarak konumlandırılmaz."
+      "tr": "Yazısız sinematik sahnede farklı ekolojik şehirler ve yerel dünyalar ışıklı ağlarla birbirine bağlanır; hiçbir ada kalıcı merkez olarak konumlandırılmaz.",
+      "de": "Eine textlose filmische Szene mit unterschiedlichen ökologischen Städten und lokalen Welten, die durch leuchtende Netzwerke verbunden sind; keine Insel ist als dauerhaftes Zentrum positioniert.",
+      "es": "Una escena cinematográfica sin texto con distintas ciudades ecológicas y mundos locales unidos por redes luminosas; ninguna isla ocupa el centro de forma permanente.",
+      "fr": "Une scène cinématographique sans texte où différentes villes écologiques et mondes locaux sont reliés par des réseaux lumineux ; aucune île n’est placée comme centre permanent.",
+      "it": "Una scena cinematografica senza testo con diverse città ecologiche e mondi locali collegati da reti luminose; nessuna isola è posta come centro permanente.",
+      "ru": "Кинематографичная сцена без текста: разные экологические города и локальные миры соединены светящимися сетями; ни один остров не занимает положение постоянного центра.",
+      "zh-CN": "无文字的电影感场景：不同生态城市与地方世界通过发光网络相连，没有任何一座岛被设为永久中心。",
+      "ja": "文字のない映画的な場面で、異なる生態都市と地域世界が光るネットワークでつながり、どの島も恒久的中心には置かれていない。",
+      "ar": "مشهد سينمائي بلا نص لمدن بيئية وعوالم محلية مختلفة مرتبطة بشبكات مضيئة؛ ولا تتموضع أي جزيرة كمركز دائم.",
+      "ku": "Dîmeneke sînematîk a bê nivîs ku bajarên ekolojîk û cîhanên herêmî yên cuda bi torên ronî ve girêdayî ne; tu girav wek navenda daîmî nehatiye danîn.",
+      "pt": "Cena cinematográfica sem texto com diferentes cidades ecológicas e mundos locais conectados por redes luminosas; nenhuma ilha é posicionada como centro permanente."
     }
   },
   "links": [
@@ -63,15 +103,45 @@
       "world_seed": true,
       "label": {
         "en": "Architect of the Network",
-        "tr": "Ağın Mimarı"
+        "tr": "Ağın Mimarı",
+        "de": "Architekt des Netzwerks",
+        "es": "Arquitecto de la Red",
+        "fr": "Architecte du Réseau",
+        "it": "Architetto della Rete",
+        "ru": "Архитектор Сети",
+        "zh-CN": "网络架构师",
+        "ja": "ネットワークの設計者",
+        "ar": "معماري الشبكة",
+        "ku": "Mîmarê Torê",
+        "pt": "Arquiteto da Rede"
       },
       "prompt": {
         "en": "Build a network around a real problem without placing yourself at the permanent center.",
-        "tr": "Gerçek bir problem etrafında kendinizi kalıcı merkeze koymadan bir ağ kurun."
+        "tr": "Gerçek bir problem etrafında kendinizi kalıcı merkeze koymadan bir ağ kurun.",
+        "de": "Bauen Sie um ein reales Problem ein Netzwerk, ohne sich selbst in das permanente Zentrum zu stellen.",
+        "es": "Construya una red alrededor de un problema real sin colocarse a sí mismo en el centro permanente.",
+        "fr": "Construisez un réseau autour d’un problème réel sans vous placer vous-même au centre permanent.",
+        "it": "Costruite una rete intorno a un problema reale senza mettere voi stessi al centro permanente.",
+        "ru": "Постройте сеть вокруг реальной проблемы, не помещая себя в постоянный центр.",
+        "zh-CN": "围绕一个真实问题建立网络，但不要把自己放在永久中心。",
+        "ja": "現実の問題を中心に、自分自身を恒久的中心へ置かずネットワークを構築してください。",
+        "ar": "ابنِ شبكة حول مشكلة حقيقية من دون وضع نفسك في المركز الدائم.",
+        "ku": "Li dora pirsgirêkeke rastîn toreke ava bike bêyî ku xwe bike navenda daîmî.",
+        "pt": "Construa uma rede em torno de um problema real sem se colocar no centro permanente."
       },
       "placeholder": {
         "en": "Who lives the problem, who knows, who is affected, who contributes, who can object?",
-        "tr": "Problemi kim yaşıyor, kim biliyor, kim etkileniyor, kim katkı sunuyor, kim itiraz edebilir?"
+        "tr": "Problemi kim yaşıyor, kim biliyor, kim etkileniyor, kim katkı sunuyor, kim itiraz edebilir?",
+        "de": "Wer erlebt das Problem, wer weiß Bescheid, wer ist betroffen, wer trägt bei, wer kann widersprechen?",
+        "es": "¿Quién vive el problema, quién sabe, quién es afectado, quién contribuye, quién puede impugnar?",
+        "fr": "Qui vit le problème, qui sait, qui est affecté, qui contribue, qui peut contester ?",
+        "it": "Chi vive il problema, chi sa, chi è coinvolto, chi contribuisce, chi può contestare?",
+        "ru": "Кто живет с проблемой, кто знает, кто затронут, кто вносит вклад, кто может возразить?",
+        "zh-CN": "谁真正经历问题，谁掌握知识，谁受影响，谁能贡献，谁能提出异议？",
+        "ja": "誰が問題を生き、誰が知識を持ち、誰が影響を受け、誰が貢献し、誰が異議を唱えられますか？",
+        "ar": "من يعيش المشكلة، من يعرف، من يتأثر، من يساهم، ومن يستطيع الاعتراض؟",
+        "ku": "Kî pirsgirêk dijî, kî dizane, kî bandor dibîne, kî beşdar dibe, kî dikare îtiraz bike?",
+        "pt": "Quem vive o problema, quem sabe, quem é afetado, quem contribui, quem pode contestar?"
       }
     }
   ],
@@ -84,6 +154,106 @@
         "COM-0005": "Açık ağın ortak ve vazgeçilmez korumalara duyduğu ihtiyaç, değişmeyen ilkeler ile yerel uyarlanabilir kurallar ayrımıyla kuantumsal olarak yankılanır.",
         "BRG-0011": "Dağıtık yetki, yerel bilgi ve izlenebilir sorumluluk başka yüksek riskli süreklilik yapılarıyla yankılanır; gelecekteki bir aşama tanımlamaz.",
         "BRG-0013": "Yer değiştirebilen merkez mimarisi farklı gözlem yollarındaki yaratım ve koordinasyon modelleriyle yankılanır."
+      }
+    },
+    "de": {
+      "title": "Architekten des offenen Netzwerks",
+      "summary": "Ein verteiltes Netzwerk entsteht, in dem lokale Probleme lokal verankert bleiben, Wissen, Scheitern und Beiträge jedoch teilbar und nachvollziehbar sind. Autorität gehört nicht dauerhaft einer Person oder Institution, sondern verlagert sich je nach Problem, Wissen, Auswirkung und Verantwortung.",
+      "link_notes": {
+        "COM-0001": "Die relationale Entscheidungsmethode und das verteilte Netzwerk machen einander sichtbar, ohne eine feste chronologische Reihenfolge vorauszusetzen.",
+        "COM-0005": "Der Bedarf des offenen Netzwerks an gemeinsamen, nicht verhandelbaren Schutzprinzipien resoniert mit der Unterscheidung zwischen stabilen Prinzipien und lokal anpassbaren Regeln.",
+        "BRG-0011": "Verteilte Autorität, lokales Wissen und nachvollziehbare Verantwortung resonieren mit anderen Hochrisiko-Kontinuitätsstrukturen, ohne eine zukünftige Stufe festzulegen.",
+        "BRG-0013": "Die Architektur des beweglichen Zentrums resoniert mit anderen Modellen von Schöpfung und Koordination entlang unterschiedlicher Beobachterpfade."
+      }
+    },
+    "es": {
+      "title": "Arquitectos de la Red Abierta",
+      "summary": "Surge una red distribuida donde los problemas locales permanecen arraigados en su contexto, mientras conocimiento, fracaso y contribuciones pueden compartirse y rastrearse. La autoridad no pertenece permanentemente a una persona o institución; cambia según el problema, el conocimiento, el impacto y la responsabilidad.",
+      "link_notes": {
+        "COM-0001": "El método relacional de decisión y la red distribuida se hacen visibles mutuamente sin implicar un orden cronológico fijo.",
+        "COM-0005": "La necesidad de protecciones comunes y no negociables en la red abierta resuena con la distinción entre principios estables y reglas localmente adaptables.",
+        "BRG-0011": "La autoridad distribuida, el conocimiento local y la responsabilidad trazable resuenan con otras estructuras de continuidad de alto riesgo sin definir una etapa futura.",
+        "BRG-0013": "La arquitectura del centro móvil resuena con otros modelos de creación y coordinación a través de distintos caminos del observador."
+      }
+    },
+    "fr": {
+      "title": "Architectes du Réseau Ouvert",
+      "summary": "Un réseau distribué apparaît où les problèmes locaux restent ancrés dans leur contexte, tandis que savoir, échecs et contributions restent partageables et traçables. L’autorité n’appartient pas durablement à une personne ou une institution ; elle se déplace selon le problème, le savoir, l’impact et la responsabilité.",
+      "link_notes": {
+        "COM-0001": "La méthode relationnelle de décision et le réseau distribué se rendent mutuellement visibles sans supposer un ordre chronologique fixe.",
+        "COM-0005": "Le besoin de protections communes et non négociables dans le réseau ouvert résonne avec la distinction entre principes stables et règles localement adaptables.",
+        "BRG-0011": "L’autorité distribuée, le savoir local et la responsabilité traçable résonnent avec d’autres structures de continuité à haut risque sans définir une étape future.",
+        "BRG-0013": "L’architecture du centre mobile résonne avec d’autres modèles de création et de coordination à travers différents parcours d’observation."
+      }
+    },
+    "it": {
+      "title": "Architetti della Rete Aperta",
+      "summary": "Emerge una rete distribuita in cui i problemi locali restano radicati nel loro contesto, mentre conoscenza, fallimenti e contributi restano condivisibili e tracciabili. L’autorità non appartiene in modo permanente a una persona o istituzione, ma si sposta secondo problema, conoscenza, impatto e responsabilità.",
+      "link_notes": {
+        "COM-0001": "Il metodo decisionale relazionale e la rete distribuita si rendono visibili a vicenda senza implicare un ordine cronologico fisso.",
+        "COM-0005": "Il bisogno della rete aperta di protezioni condivise e non negoziabili risuona con la distinzione tra principi stabili e regole adattabili localmente.",
+        "BRG-0011": "Autorità distribuita, conoscenza locale e responsabilità tracciabile risuonano con altre strutture di continuità ad alto rischio senza definire una fase futura.",
+        "BRG-0013": "L’architettura del centro mobile risuona con altri modelli di creazione e coordinamento lungo diversi percorsi dell’osservatore."
+      }
+    },
+    "ru": {
+      "title": "Архитекторы Открытой Сети",
+      "summary": "Возникает распределенная сеть, где локальные проблемы остаются укорененными в своем контексте, а знания, неудачи и вклады можно делить и отслеживать. Власть не закрепляется навсегда за человеком или учреждением, а перемещается в зависимости от проблемы, знания, воздействия и ответственности.",
+      "link_notes": {
+        "COM-0001": "Реляционный метод принятия решений и распределенная сеть делают друг друга видимыми без предположения фиксированного хронологического порядка.",
+        "COM-0005": "Потребность открытой сети в общих неотчуждаемых защитах перекликается с различием между стабильными принципами и локально адаптируемыми правилами.",
+        "BRG-0011": "Распределенная власть, локальное знание и отслеживаемая ответственность перекликаются с другими структурами непрерывности высокого риска, не задавая будущую стадию.",
+        "BRG-0013": "Архитектура перемещаемого центра перекликается с другими моделями создания и координации на разных путях наблюдателя."
+      }
+    },
+    "zh-CN": {
+      "title": "开放网络的架构师",
+      "summary": "一个分布式网络形成：地方问题仍扎根于地方语境，而知识、失败与贡献可以共享并追踪。权力不永久属于某个人或机构，而是依据问题、知识、影响与责任移动。",
+      "link_notes": {
+        "COM-0001": "关系式决策方法与分布式网络彼此照亮，而不预设固定时间顺序。",
+        "COM-0005": "开放网络对共享且不可让渡保护原则的需求，与稳定原则和可地方适配规则之间的区分形成呼应。",
+        "BRG-0011": "分布式权力、地方知识与可追踪责任，与其他高风险连续性结构形成呼应，但不定义未来阶段。",
+        "BRG-0013": "可移动中心的架构与不同观察者路径中的其他创造和协调模型形成呼应。"
+      }
+    },
+    "ja": {
+      "title": "オープンネットワークの設計者たち",
+      "summary": "地域の問題は地域の文脈に根ざしたまま、知識・失敗・貢献を共有し追跡できる分散ネットワークが生まれる。権限は特定の人や組織に恒久的に属さず、問題・知識・影響・責任に応じて移動する。",
+      "link_notes": {
+        "COM-0001": "関係的意思決定方法と分散ネットワークは、固定された時系列を前提にせず互いを可視化する。",
+        "COM-0005": "オープンネットワークが共有された非交渉的な保護を必要とすることは、安定した原則と地域適応可能な規則の区別と響き合う。",
+        "BRG-0011": "分散された権限、地域知、追跡可能な責任は、未来段階を定義せず他の高リスク継続構造と響き合う。",
+        "BRG-0013": "移動可能な中心のアーキテクチャは、異なる観察経路上の他の創造・調整モデルと響き合う。"
+      }
+    },
+    "ar": {
+      "title": "معماريّو الشبكة المفتوحة",
+      "summary": "تنشأ شبكة موزعة تبقى فيها المشكلات المحلية متجذرة في سياقها، بينما تظل المعرفة والفشل والمساهمات قابلة للمشاركة والتتبع. ولا تستقر السلطة دائمًا لدى شخص أو مؤسسة، بل تنتقل بحسب المشكلة والمعرفة والأثر والمسؤولية.",
+      "link_notes": {
+        "COM-0001": "يجعل منهج القرار العلائقي والشبكة الموزعة بعضهما مرئيًا من دون افتراض ترتيب زمني ثابت.",
+        "COM-0005": "تتردد حاجة الشبكة المفتوحة إلى حمايات مشتركة غير قابلة للتفاوض مع التمييز بين المبادئ المستقرة والقواعد القابلة للتكيف محليًا.",
+        "BRG-0011": "تتردد السلطة الموزعة والمعرفة المحلية والمسؤولية القابلة للتتبع مع هياكل استمرارية أخرى عالية المخاطر من دون تعريف مرحلة مستقبلية.",
+        "BRG-0013": "تتردد عمارة المركز القابل للحركة مع نماذج أخرى للخلق والتنسيق عبر مسارات مراقبة مختلفة."
+      }
+    },
+    "ku": {
+      "title": "Mîmarên Tora Vekirî",
+      "summary": "Toreke belavkirî çêdibe ku pirsgirêkên herêmî di konteksta xwe de dimînin, lê zanîn, têkçûn û beşdarî dikarin werin parvekirin û şopandin. Desthilat bi daîmî ne ya kesek an saziyê ye; li gor pirsgirêk, zanîn, bandor û berpirsiyariyê cih diguhere.",
+      "link_notes": {
+        "COM-0001": "Rêbaza biryardana têkiliyî û tora belavkirî bê rêza kronolojîk a sabît hev dîtbar dikin.",
+        "COM-0005": "Pêdiviya tora vekirî bi parastinên hevpar û neguhêrbar re bi cudahiya prensîbên sabît û rêgezên herêmî yên adaptasyonê deng vedide.",
+        "BRG-0011": "Desthilata belavkirî, zanîna herêmî û berpirsiyariya şopbar bi avahiyên din ên domdariya rîska bilind re deng vedidin bê ku qonaxeke dahatûyê pênase bikin.",
+        "BRG-0013": "Avahiya navenda ku dikare cih biguhere bi modelên din ên afirandin û koordînasyonê di rêyên cuda yên çavdêran de deng vedide."
+      }
+    },
+    "pt": {
+      "title": "Arquitetos da Rede Aberta",
+      "summary": "Surge uma rede distribuída em que problemas locais permanecem enraizados em seu contexto, enquanto conhecimento, fracassos e contribuições continuam compartilháveis e rastreáveis. A autoridade não pertence permanentemente a uma pessoa ou instituição; desloca-se conforme problema, conhecimento, impacto e responsabilidade.",
+      "link_notes": {
+        "COM-0001": "O método relacional de decisão e a rede distribuída tornam um ao outro visível sem pressupor uma ordem cronológica fixa.",
+        "COM-0005": "A necessidade da rede aberta de proteções comuns e não negociáveis ressoa com a distinção entre princípios estáveis e regras adaptáveis localmente.",
+        "BRG-0011": "Autoridade distribuída, conhecimento local e responsabilidade rastreável ressoam com outras estruturas de continuidade de alto risco sem definir uma etapa futura.",
+        "BRG-0013": "A arquitetura do centro móvel ressoa com outros modelos de criação e coordenação ao longo de diferentes caminhos de observação."
       }
     }
   }
