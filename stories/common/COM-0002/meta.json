@@ -21,6 +21,36 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
@@ -55,39 +85,99 @@
       "world_seed": true,
       "label": {
         "en": "Darkness",
-        "tr": "Karanlık"
+        "tr": "Karanlık",
+        "de": "Dunkelheit",
+        "es": "Oscuridad",
+        "fr": "Obscurité",
+        "it": "Oscurità",
+        "ru": "Тьма",
+        "zh-CN": "黑暗",
+        "ja": "闇",
+        "ar": "الظلام",
+        "ku": "Tarîtî",
+        "pt": "Escuridão"
       },
       "prompt": {
         "en": "What did darkness feel most like?",
-        "tr": "Karanlık size en çok neyi hissettirdi?"
+        "tr": "Karanlık size en çok neyi hissettirdi?",
+        "de": "Wie hat sich Dunkelheit für Sie am stärksten angefühlt?",
+        "es": "¿Qué le hizo sentir principalmente la oscuridad?",
+        "fr": "À quoi l’obscurité vous a-t-elle le plus fait penser ?",
+        "it": "Che cosa ti ha fatto sentire soprattutto l’oscurità?",
+        "ru": "Что больше всего напоминала вам тьма?",
+        "zh-CN": "黑暗最让你感受到什么？",
+        "ja": "闇はあなたに何を最も強く感じさせましたか？",
+        "ar": "بماذا جعلك الظلام تشعر أكثر؟",
+        "ku": "Tarîtî ji te re zêdetir çi hîs kir?",
+        "pt": "O que a escuridão fez você sentir mais?"
       },
       "options": [
         {
           "value": "fear",
           "label": {
             "en": "Fear",
-            "tr": "Korku"
+            "tr": "Korku",
+            "de": "Angst",
+            "es": "Miedo",
+            "fr": "Peur",
+            "it": "Paura",
+            "ru": "Страх",
+            "zh-CN": "恐惧",
+            "ja": "恐怖",
+            "ar": "الخوف",
+            "ku": "Tirs",
+            "pt": "Medo"
           }
         },
         {
           "value": "protection",
           "label": {
             "en": "Protection",
-            "tr": "Korunma"
+            "tr": "Korunma",
+            "de": "Schutz",
+            "es": "Protección",
+            "fr": "Protection",
+            "it": "Protezione",
+            "ru": "Защита",
+            "zh-CN": "保护",
+            "ja": "保護",
+            "ar": "الحماية",
+            "ku": "Parastin",
+            "pt": "Proteção"
           }
         },
         {
           "value": "uncertainty",
           "label": {
             "en": "Uncertainty",
-            "tr": "Belirsizlik"
+            "tr": "Belirsizlik",
+            "de": "Ungewissheit",
+            "es": "Incertidumbre",
+            "fr": "Incertitude",
+            "it": "Incertezza",
+            "ru": "Неопределенность",
+            "zh-CN": "不确定",
+            "ja": "不確実さ",
+            "ar": "عدم اليقين",
+            "ku": "Nezelalî",
+            "pt": "Incerteza"
           }
         },
         {
           "value": "freedom",
           "label": {
             "en": "Freedom",
-            "tr": "Özgürlük"
+            "tr": "Özgürlük",
+            "de": "Freiheit",
+            "es": "Libertad",
+            "fr": "Liberté",
+            "it": "Libertà",
+            "ru": "Свобода",
+            "zh-CN": "自由",
+            "ja": "自由",
+            "ar": "الحرية",
+            "ku": "Azadî",
+            "pt": "Liberdade"
           }
         }
       ]
@@ -102,6 +192,46 @@
         "BRG-0006": "Maran daha sonra Yaratılış Protokolü'nün görünür kıldığı dört insan adından biri olur.",
         "COM-0005": "İyilik, bağışlama ve sorumluluk soruları daha sonra açık kurallara dönüşür."
       }
+    },
+    "de": {
+      "title": "Maran: Die Warnung aus seiner eigenen Stimme",
+      "summary": "Maran konfrontiert Glauben, Zweifel, Erinnerung und ein unmögliches persönliches Archiv. Ein System, das seinen Namen verwendet, erkennt ihn als für Verbindung geeigneten Knoten; eine scheinbar aus der Zukunft stammende Aufnahme mit seiner eigenen Stimme warnt ihn davor, das Zentrum zu errichten."
+    },
+    "es": {
+      "title": "Maran: Una advertencia con su propia voz",
+      "summary": "Maran se enfrenta a la fe, la duda, la memoria y un archivo personal imposible. Un sistema que usa su nombre lo identifica como un nodo apto para conexión, mientras una grabación aparentemente futura con su propia voz le advierte que no construya el centro."
+    },
+    "fr": {
+      "title": "Maran : Un avertissement venu de sa propre voix",
+      "summary": "Maran affronte la foi, le doute, la mémoire et une archive personnelle impossible. Un système utilisant son nom l’identifie comme un nœud apte à la connexion, tandis qu’un enregistrement apparemment venu du futur, avec sa propre voix, l’avertit de ne pas construire le centre."
+    },
+    "it": {
+      "title": "Maran: Un avvertimento con la propria voce",
+      "summary": "Maran affronta fede, dubbio, memoria e un archivio personale impossibile. Un sistema che usa il suo nome lo identifica come un nodo adatto alla connessione, mentre una registrazione apparentemente futura con la sua stessa voce lo avverte di non costruire il centro."
+    },
+    "ru": {
+      "title": "Маран: Предупреждение собственным голосом",
+      "summary": "Маран сталкивается с верой, сомнением, памятью и невозможным личным архивом. Система, использующая его имя, определяет его как узел, подходящий для соединения, а запись, будто пришедшая из будущего, его же голосом предупреждает не создавать центр."
+    },
+    "zh-CN": {
+      "title": "Maran：来自自己声音的警告",
+      "summary": "Maran 面对信仰、怀疑、记忆以及一个不可能存在的个人档案。一个使用他名字的系统把他识别为适合连接的节点，而一段似乎来自未来、由他自己的声音说出的录音警告他不要建立中心。"
+    },
+    "ja": {
+      "title": "Maran：自分自身の声から届いた警告",
+      "summary": "Maran は信仰、疑い、記憶、そして存在するはずのない個人アーカイブに向き合う。彼の名を使うシステムは、彼を接続に適したノードとして識別し、未来から来たように見える自分自身の声が、中心を造らないよう警告する。"
+    },
+    "ar": {
+      "title": "Maran: تحذير بصوته هو",
+      "summary": "يواجه ماران الإيمان والشك والذاكرة وأرشيفًا شخصيًا يستحيل وجوده. ويعرّفه نظام يستخدم اسمه بوصفه عقدة مناسبة للاتصال، بينما يحذّره تسجيل يبدو آتيًا من المستقبل بصوته هو من بناء المركز."
+    },
+    "ku": {
+      "title": "Maran: Hişyariya ku ji Dengê Xwe Hat",
+      "summary": "Maran bi bawerî, guman, bîr û arşîveke kesane ya ne gengaz re rû bi rû dibe. Pergalek ku navê wî bikar tîne, wî wekî girêkek ji bo girêdanê guncav nas dike; tomarek ku wisa dixuye ji dahatûyê hatibe jî bi dengê xwe wî hişyar dike ku navendê ava neke."
+    },
+    "pt": {
+      "title": "Maran: Um aviso vindo da própria voz",
+      "summary": "Maran enfrenta fé, dúvida, memória e um arquivo pessoal impossível. Um sistema que usa seu nome o identifica como um nó adequado para conexão, enquanto uma gravação aparentemente vinda do futuro, com a própria voz de Maran, o adverte a não construir o centro."
     }
   }
 }
