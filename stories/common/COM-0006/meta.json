@@ -24,13 +24,53 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/COM-0006/baglandigin-anda-evren-degisir.png",
     "alt": {
       "en": "A cinematic observer facing a vast interconnected field of story worlds and glowing paths, representing entry into Human-Centered Universe as an active observer whose choices shape a personal narrative path.",
-      "tr": "Geniş ve bağlantılı hikâye dünyaları ile ışıklı yolların karşısında duran bir gözlemci, Human-Centered Universe'e aktif katılımı ve seçimlerle oluşan kişisel anlatı yolunu simgeler."
+      "tr": "Geniş ve bağlantılı hikâye dünyaları ile ışıklı yolların karşısında duran bir gözlemci, Human-Centered Universe'e aktif katılımı ve seçimlerle oluşan kişisel anlatı yolunu simgeler.",
+      "de": "Ein filmischer Observer steht vor einem weiten, miteinander verbundenen Feld aus Story-Welten und leuchtenden Pfaden und symbolisiert den Eintritt in Human-Centered Universe als aktiver Beobachter, dessen Entscheidungen einen persönlichen narrativen Weg formen.",
+      "es": "Un Observer cinematográfico se encuentra ante un vasto campo interconectado de mundos narrativos y caminos luminosos, simbolizando la entrada en Human-Centered Universe como observador activo cuyas elecciones forman un camino narrativo personal.",
+      "fr": "Un Observer cinématographique fait face à un vaste champ interconnecté de mondes narratifs et de chemins lumineux, symbolisant l’entrée dans Human-Centered Universe comme observateur actif dont les choix façonnent un parcours narratif personnel.",
+      "it": "Un Observer cinematografico si trova davanti a un vasto campo interconnesso di mondi narrativi e percorsi luminosi, simbolizzando l’ingresso in Human-Centered Universe come osservatore attivo le cui scelte formano un percorso narrativo personale.",
+      "ru": "Кинематографичный Observer стоит перед огромным взаимосвязанным полем сюжетных миров и светящихся путей, символизируя вход в Human-Centered Universe как активный наблюдатель, чьи выборы формируют личный нарративный путь.",
+      "zh-CN": "一名具有电影感的 Observer 面对广阔互联的故事世界与发光路径，象征以主动观察者身份进入 Human-Centered Universe，其选择塑造个人叙事路径。",
+      "ja": "映画的な Observer が、相互接続された広大な物語世界と光る経路を前に立ち、自らの選択で個人的な物語経路を形づくる能動的観察者として Human-Centered Universe に入ることを象徴する。",
+      "ar": "يقف Observer في مشهد سينمائي أمام مجال واسع مترابط من عوالم القصص والمسارات المضيئة، رمزًا للدخول إلى Human-Centered Universe كمراقب فاعل تشكل اختياراته مساره السردي الشخصي.",
+      "ku": "Observer-ek bi dîmena sînematîk li ber qada berfireh a cîhanên çîrokî û rêyên ronî yên bi hev ve girêdayî raweste; ketina Human-Centered Universe wek çavdêrek çalak ku hilbijartinên wî rêya çîrokî ya kesane çêdikin nîşan dide.",
+      "pt": "Um Observer cinematográfico diante de um vasto campo interconectado de mundos narrativos e caminhos luminosos, representando a entrada no Human-Centered Universe como observador ativo cujas escolhas moldam um caminho narrativo pessoal."
     }
   },
   "links": [
@@ -68,15 +108,45 @@
       "world_seed": true,
       "label": {
         "en": "Your First Observation",
-        "tr": "İlk Gözlemin"
+        "tr": "İlk Gözlemin",
+        "de": "Deine erste Beobachtung",
+        "es": "Tu primera observación",
+        "fr": "Ta première observation",
+        "it": "La tua prima osservazione",
+        "ru": "Твое первое наблюдение",
+        "zh-CN": "你的第一次观察",
+        "ja": "あなたの最初の観察",
+        "ar": "ملاحظتك الأولى",
+        "ku": "Çavdêriya Te Ya Yekem",
+        "pt": "Sua primeira observação"
       },
       "prompt": {
         "en": "What are you looking for inside Human-Centered Universe, and what do HUMAN, LIGHT and DARK each ask about that search?",
-        "tr": "Human-Centered Universe içinde ne arıyorsunuz ve bu arayış hakkında HUMAN, LIGHT ve DARK size hangi soruları soruyor?"
+        "tr": "Human-Centered Universe içinde ne arıyorsunuz ve bu arayış hakkında HUMAN, LIGHT ve DARK size hangi soruları soruyor?",
+        "de": "Wonach suchst du im Human-Centered Universe, und welche Fragen stellen HUMAN, LIGHT und DARK jeweils zu dieser Suche?",
+        "es": "¿Qué buscas dentro de Human-Centered Universe y qué pregunta HUMAN, LIGHT y DARK sobre esa búsqueda?",
+        "fr": "Que cherches-tu dans Human-Centered Universe, et quelles questions HUMAN, LIGHT et DARK posent-ils chacun à propos de cette recherche ?",
+        "it": "Che cosa cerchi dentro Human-Centered Universe e quali domande pongono HUMAN, LIGHT e DARK su questa ricerca?",
+        "ru": "Что ты ищешь внутри Human-Centered Universe и какие вопросы HUMAN, LIGHT и DARK задают об этом поиске?",
+        "zh-CN": "你在 Human-Centered Universe 中寻找什么？HUMAN、LIGHT 与 DARK 分别会对这次寻找提出什么问题？",
+        "ja": "Human-Centered Universe の中で何を探していますか。そして HUMAN、LIGHT、DARK はそれぞれその探求について何を問いかけますか？",
+        "ar": "ما الذي تبحث عنه داخل Human-Centered Universe، وما الأسئلة التي يطرحها HUMAN وLIGHT وDARK حول هذا البحث؟",
+        "ku": "Tu di Human-Centered Universe de li çi digerî û HUMAN, LIGHT û DARK li ser vê lêgerînê kîjan pirsan ji te dikin?",
+        "pt": "O que você procura dentro de Human-Centered Universe e que perguntas HUMAN, LIGHT e DARK fazem sobre essa busca?"
       },
       "placeholder": {
         "en": "A question, a system problem, a future possibility, an objection, or simple curiosity...",
-        "tr": "Bir soru, sistem problemi, gelecek ihtimali, itiraz veya yalnızca merak..."
+        "tr": "Bir soru, sistem problemi, gelecek ihtimali, itiraz veya yalnızca merak...",
+        "de": "Eine Frage, ein Systemproblem, eine Zukunftsmöglichkeit, ein Einwand oder einfache Neugier...",
+        "es": "Una pregunta, un problema de sistema, una posibilidad futura, una objeción o simple curiosidad...",
+        "fr": "Une question, un problème de système, une possibilité future, une objection ou simple curiosité...",
+        "it": "Una domanda, un problema di sistema, una possibilità futura, un’obiezione o semplice curiosità...",
+        "ru": "Вопрос, системная проблема, возможность будущего, возражение или просто любопытство...",
+        "zh-CN": "一个问题、系统问题、未来可能、异议，或者只是好奇……",
+        "ja": "問い、システム問題、未来の可能性、異議、あるいは単なる好奇心…",
+        "ar": "سؤال، مشكلة نظام، احتمال مستقبلي، اعتراض أو مجرد فضول...",
+        "ku": "Pirsek, pirsgirêkeke pergalê, ihtîmaleke dahatûyê, îtirazek an tenê meraq...",
+        "pt": "Uma pergunta, um problema de sistema, uma possibilidade futura, uma objeção ou simples curiosidade..."
       }
     }
   ],
@@ -90,6 +160,116 @@
         "BRG-0013": "Okuyucuya canon ve gözlemci seçimlerinin gerçek dünya uygulamasını doğrulamadığı hatırlatılır; hikâye düşünce alanı olarak kalır.",
         "COM-0005": "Observer State insan değerini puana indirgeyemez ve sistem gereksiz kişisel veriyi toplamak zorunda değildir.",
         "COM-0004": "Okuyucu zamanla dağıtık açık ağ içinde katkıcı olabilir; fakat evrenin kalıcı merkezi hâline gelmez."
+      }
+    },
+    "de": {
+      "title": "Das Universum verändert sich in dem Moment, in dem du dich verbindest",
+      "summary": "Der Leser verbindet sich mit HCU nicht als passiver Konsument, sondern als Observer. Entscheidungen bilden einen Observer State, ohne menschlichen Wert zu messen; Empfehlungen bleiben optional; Quantum Time ist relational statt chronologisch, und Lesen kann sich zu Erkundung, Widerspruch und Beitrag erweitern.",
+      "link_notes": {
+        "BRG-0002": "First Vibration bleibt der gemeinsame Ursprungspunkt der Beobachtung, während jeder Observer von diesem gemeinsamen Eintritt aus einen eigenen Weg bildet.",
+        "BRG-0012": "Die Architektur von HCU als offenes Denklabor wird durch Observer State, Pfade und Beitrag zu einer gelebten Leserfahrung.",
+        "BRG-0013": "Der Leser wird daran erinnert, dass narrativer Canon und Observer-Entscheidungen keine reale Umsetzung validieren; die Geschichte bleibt Denkraum.",
+        "COM-0005": "Observer State ist durch das Prinzip begrenzt, dass menschlicher Wert nicht auf einen Score reduziert werden darf und unnötige persönliche Daten nicht gesammelt werden müssen.",
+        "COM-0004": "Der Leser kann später innerhalb eines verteilten offenen Netzwerks zum Beitragenden werden, ohne dauerhaft zum Zentrum des Universums zu werden."
+      }
+    },
+    "es": {
+      "title": "El universo cambia en el momento en que te conectas",
+      "summary": "El lector se conecta con HCU no como consumidor pasivo, sino como Observer. Las elecciones forman un Observer State sin medir el valor humano; las recomendaciones siguen siendo opcionales; Quantum Time es relacional, no cronológico, y la lectura puede ampliarse hacia exploración, objeción y contribución.",
+      "link_notes": {
+        "BRG-0002": "First Vibration sigue siendo el punto común de origen de la observación, mientras cada Observer crea un camino distinto desde esa entrada compartida.",
+        "BRG-0012": "La arquitectura de HCU como laboratorio abierto de pensamiento se convierte en experiencia directa del lector mediante Observer State, rutas y contribución.",
+        "BRG-0013": "Se recuerda al lector que el canon narrativo y las elecciones del Observer no validan una aplicación real; la historia sigue siendo un espacio de pensamiento.",
+        "COM-0005": "Observer State queda limitado por el principio de que el valor humano no puede reducirse a una puntuación y que no es necesario recopilar datos personales innecesarios.",
+        "COM-0004": "El lector puede convertirse con el tiempo en colaborador dentro de una red abierta distribuida sin convertirse en el centro permanente del universo."
+      }
+    },
+    "fr": {
+      "title": "L’univers change au moment où tu te connectes",
+      "summary": "Le lecteur se connecte à HCU non comme consommateur passif, mais comme Observer. Les choix forment un Observer State sans mesurer la valeur humaine ; les recommandations restent facultatives ; Quantum Time est relationnel plutôt que chronologique, et la lecture peut s’étendre vers exploration, contestation et contribution.",
+      "link_notes": {
+        "BRG-0002": "First Vibration reste le point d’origine partagé de l’observation, tandis que chaque Observer construit un chemin distinct depuis cette même entrée.",
+        "BRG-0012": "L’architecture de HCU comme laboratoire ouvert de pensée devient une expérience vécue du lecteur à travers Observer State, les parcours et la contribution.",
+        "BRG-0013": "Le lecteur est rappelé que le canon narratif et les choix de l’Observer ne valident pas un déploiement réel ; l’histoire reste un espace de pensée.",
+        "COM-0005": "Observer State est contraint par le principe selon lequel la valeur humaine ne peut être réduite à un score et que les données personnelles inutiles n’ont pas à être collectées.",
+        "COM-0004": "Le lecteur peut devenir contributeur au sein d’un réseau ouvert distribué sans devenir le centre permanent de l’univers."
+      }
+    },
+    "it": {
+      "title": "L’universo cambia nel momento in cui ti connetti",
+      "summary": "Il lettore si connette a HCU non come consumatore passivo, ma come Observer. Le scelte formano un Observer State senza misurare il valore umano; le raccomandazioni restano opzionali; Quantum Time è relazionale anziché cronologico e la lettura può estendersi a esplorazione, contestazione e contributo.",
+      "link_notes": {
+        "BRG-0002": "First Vibration rimane il punto di origine condiviso dell’osservazione, mentre ogni Observer costruisce un percorso distinto a partire dallo stesso ingresso.",
+        "BRG-0012": "L’architettura di HCU come laboratorio aperto di pensiero diventa esperienza vissuta del lettore attraverso Observer State, percorsi e contributo.",
+        "BRG-0013": "Al lettore viene ricordato che il canon narrativo e le scelte dell’Observer non convalidano un’applicazione reale; la storia resta uno spazio di pensiero.",
+        "COM-0005": "Observer State è vincolato dal principio che il valore umano non può essere ridotto a un punteggio e che i dati personali non necessari non devono essere raccolti.",
+        "COM-0004": "Il lettore può col tempo diventare contributore in una rete aperta distribuita senza diventare il centro permanente dell’universo."
+      }
+    },
+    "ru": {
+      "title": "Вселенная меняется в момент, когда ты подключаешься",
+      "summary": "Читатель подключается к HCU не как пассивный потребитель, а как Observer. Выборы формируют Observer State, не измеряя ценность человека; рекомендации остаются необязательными; Quantum Time является реляционным, а не хронологическим, а чтение может перейти в исследование, возражение и вклад.",
+      "link_notes": {
+        "BRG-0002": "First Vibration остается общей точкой происхождения наблюдения, а каждый Observer формирует отдельный путь от общего входа.",
+        "BRG-0012": "Архитектура HCU как открытой лаборатории мышления становится живым опытом читателя через Observer State, пути и вклад.",
+        "BRG-0013": "Читателю напоминается, что нарративный canon и выборы Observer не подтверждают реальное внедрение; история остается пространством мысли.",
+        "COM-0005": "Observer State ограничен принципом, что ценность человека нельзя свести к баллу и что ненужные персональные данные не обязаны собираться.",
+        "COM-0004": "Читатель со временем может стать участником распределенной открытой сети, не становясь постоянным центром вселенной."
+      }
+    },
+    "zh-CN": {
+      "title": "当你连接的那一刻，宇宙开始改变",
+      "summary": "读者连接 HCU 时不是被动消费者，而是 Observer。选择形成 Observer State，却不衡量人的价值；推荐始终可选；Quantum Time 是关系性的而非单纯时间顺序，阅读也可以扩展为探索、异议与贡献。",
+      "link_notes": {
+        "BRG-0002": "First Vibration 仍是共享的起源观察点，而每个 Observer 都可以从同一入口形成不同路径。",
+        "BRG-0012": "HCU 作为开放思想实验室的架构，通过 Observer State、路径与贡献转化成读者亲身体验。",
+        "BRG-0013": "故事提醒读者：叙事 canon 与 Observer 的选择并不验证现实世界部署；故事仍然是思想空间。",
+        "COM-0005": "Observer State 受一个原则约束：人的价值不能被缩减成分数，系统也不必收集不必要的个人数据。",
+        "COM-0004": "读者最终可以成为分布式开放网络中的贡献者，但不会成为宇宙的永久中心。"
+      }
+    },
+    "ja": {
+      "title": "つながった瞬間、宇宙は変わる",
+      "summary": "読者は受動的な消費者ではなく Observer として HCU に接続する。選択は人間の価値を測ることなく Observer State を形成し、推薦は任意のまま、Quantum Time は時系列ではなく関係的であり、読書は探索・異議・貢献へ広がりうる。",
+      "link_notes": {
+        "BRG-0002": "First Vibration は共有された起源の観察点であり続けるが、それぞれの Observer は同じ入口から異なる道を形成する。",
+        "BRG-0012": "開かれた思考実験室としての HCU の構造は、Observer State、経路、貢献を通じて読者の体験になる。",
+        "BRG-0013": "物語上の canon と Observer の選択は現実世界での導入を検証するものではなく、物語は思考空間のままであることが示される。",
+        "COM-0005": "Observer State は、人間の価値をスコアに還元できず、不必要な個人データを収集する必要もないという原則に制約される。",
+        "COM-0004": "読者は分散型の開かれたネットワーク内で貢献者になりうるが、宇宙の恒久的中心にはならない。"
+      }
+    },
+    "ar": {
+      "title": "يتغير الكون في اللحظة التي تتصل فيها",
+      "summary": "يتصل القارئ بـ HCU لا كمستهلك سلبي بل بوصفه Observer. تشكل الاختيارات Observer State من دون قياس قيمة الإنسان، وتظل التوصيات اختيارية، ويكون Quantum Time علائقيًا لا زمنيًا خطيًا، ويمكن أن تتوسع القراءة إلى الاستكشاف والاعتراض والمساهمة.",
+      "link_notes": {
+        "BRG-0002": "يبقى First Vibration نقطة الأصل المشتركة للملاحظة، بينما ينشئ كل Observer مسارًا مختلفًا من المدخل نفسه.",
+        "BRG-0012": "تتحول بنية HCU كمختبر مفتوح للتفكير إلى تجربة يعيشها القارئ عبر Observer State والمسارات والمساهمة.",
+        "BRG-0013": "يُذكّر القارئ بأن canon السردي واختيارات Observer لا تثبت صلاحية التطبيق في العالم الحقيقي؛ وتبقى القصة مساحة تفكير.",
+        "COM-0005": "يُقيَّد Observer State بمبدأ أن قيمة الإنسان لا يمكن اختزالها في درجة، وأن البيانات الشخصية غير الضرورية لا يجب جمعها.",
+        "COM-0004": "يمكن للقارئ لاحقًا أن يصبح مساهمًا داخل شبكة مفتوحة موزعة من دون أن يصبح المركز الدائم للكون."
+      }
+    },
+    "ku": {
+      "title": "Dema Tu Girê Didî, Gerdûn Diguhere",
+      "summary": "Xwendevan ne wek bikarhênerek pasîf, lê wek Observer bi HCU re girê dide. Hilbijartin bêyî pîvandina nirxa mirovan Observer State çêdikin; pêşniyar ne mecbûrî ne; Quantum Time ne kronolojîk, lê têkiliyî ye û xwendin dikare bibe lêkolîn, îtiraz û beşdarî.",
+      "link_notes": {
+        "BRG-0002": "First Vibration wek xala hevpar a destpêka çavdêriyê dimîne, lê her Observer ji heman dergehê rêyek cuda çêdike.",
+        "BRG-0012": "Avaniya HCU wek laboratûvara vekirî ya fikirê bi Observer State, rê û beşdariyê dibe ezmûna rasterast a xwendevan.",
+        "BRG-0013": "Xwendevan tê bîrxistin ku canon a çîrokî û hilbijartinên Observer bicihanîna cîhana rastî napêjirînin; çîrok qada fikirê dimîne.",
+        "COM-0005": "Observer State bi prensîba ku nirxa mirovan nayê kêmkirin bo puanekê û daneyên kesane yên ne pêwîst ne mecbûr in werin berhevkirin, tê sînordarkirin.",
+        "COM-0004": "Xwendevan dikare paşê di toreke vekirî ya belavkirî de bibe beşdar, bêyî ku bibe navenda daîmî ya gerdûnê."
+      }
+    },
+    "pt": {
+      "title": "O universo muda no momento em que você se conecta",
+      "summary": "O leitor se conecta ao HCU não como consumidor passivo, mas como Observer. As escolhas formam um Observer State sem medir o valor humano; recomendações continuam opcionais; Quantum Time é relacional, não cronológico, e a leitura pode se expandir para exploração, contestação e contribuição.",
+      "link_notes": {
+        "BRG-0002": "First Vibration permanece como ponto comum de origem da observação, enquanto cada Observer cria um caminho distinto a partir dessa entrada compartilhada.",
+        "BRG-0012": "A arquitetura do HCU como laboratório aberto de pensamento se torna experiência vivida do leitor por meio de Observer State, caminhos e contribuição.",
+        "BRG-0013": "O leitor é lembrado de que o canon narrativo e as escolhas do Observer não validam implantação no mundo real; a história permanece um espaço de pensamento.",
+        "COM-0005": "Observer State é limitado pelo princípio de que o valor humano não pode ser reduzido a pontuação e que dados pessoais desnecessários não precisam ser coletados.",
+        "COM-0004": "O leitor pode futuramente se tornar colaborador dentro de uma rede aberta distribuída sem se tornar o centro permanente do universo."
       }
     }
   }
