@@ -455,3 +455,14 @@ When a new interface locale is added, add a matching localized README file under
 ---
 
 **Creation is unfinished. Read. Explore. Choose. Connect. Commit. Fork. Transform.**
+
+
+---
+
+## License
+
+The software and source code in this repository are licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See `LICENSE`.
+
+Code contributions are accepted under the same license so that covered modifications remain open under AGPL-3.0.
+
+Third-party assets and materials remain subject to their respective licenses and rights notices. Narrative text, original media, datasets, and other non-software artifacts may require artifact-specific licensing where stated.
