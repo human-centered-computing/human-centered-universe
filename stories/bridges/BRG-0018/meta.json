@@ -27,18 +27,72 @@
   ],
   "summary": "Maran applies the trace-and-relation logic of the Rîh Bridge to Göbekli Tepe. Reading soil, material remains, water, routes, local place names and living practices as separate but connected traces, he searches for a history that was never written without turning uncertainty into false certainty.",
   "translations": {
-    "en": {"status": "canonical"},
-    "tr": {"status": "reviewed"}
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
+    }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0018/topragin-yazmadigi-tarih.png",
     "alt": {
       "en": "A human-free artistic vision of Göbekli Tepe in which T-shaped stones, layered soil, water, roots and glowing connections suggest unwritten history preserved in the land.",
-      "tr": "İnsan figürü içermeyen sanatsal Göbeklitepe sahnesinde T biçimli taşlar, toprak katmanları, su, kökler ve ışık bağlantıları toprağın sakladığı yazılmamış tarihi simgeliyor."
+      "tr": "İnsan figürü içermeyen sanatsal Göbeklitepe sahnesinde T biçimli taşlar, toprak katmanları, su, kökler ve ışık bağlantıları toprağın sakladığı yazılmamış tarihi simgeliyor.",
+      "de": "Eine menschenfreie künstlerische Vision von Göbekli Tepe, in der T-förmige Steine, Bodenschichten, Wasser, Wurzeln und leuchtende Verbindungen auf eine ungeschriebene, im Land bewahrte Geschichte hinweisen.",
+      "es": "Una visión artística de Göbekli Tepe sin figuras humanas, donde piedras en forma de T, capas de tierra, agua, raíces y conexiones luminosas sugieren una historia no escrita preservada en el territorio.",
+      "fr": "Une vision artistique de Göbekli Tepe sans présence humaine, où des pierres en T, des couches de sol, l’eau, des racines et des connexions lumineuses suggèrent une histoire non écrite préservée dans la terre.",
+      "it": "Una visione artistica di Göbekli Tepe priva di figure umane, dove pietre a forma di T, strati di suolo, acqua, radici e connessioni luminose suggeriscono una storia non scritta conservata nella terra.",
+      "ru": "Художественный вид Göbekli Tepe без человеческих фигур: Т-образные камни, слои земли, вода, корни и светящиеся связи намекают на незаписанную историю, сохраненную землей.",
+      "zh-CN": "一幅没有人物的 Göbekli Tepe 艺术画面：T 形石柱、土地层、水、根系与发光连接暗示着保存在大地中的未书写历史。",
+      "ja": "人の姿を描かない Göbekli Tepe の芸術的な光景。T字形の石、土の層、水、根、光るつながりが、土地に保存された書かれない歴史を示唆する。",
+      "ar": "رؤية فنية لـ Göbekli Tepe من دون شخصيات بشرية، حيث توحي الحجارة على شكل T وطبقات التربة والماء والجذور والروابط المضيئة بتاريخ غير مكتوب تحفظه الأرض.",
+      "ku": "Dîmeneke hunerî ya Göbekli Tepe bê şiklê mirovan; kevirên T-şeklî, qatên axê, av, reh û girêdanên ronî dîrokeke nenivîsî ya di erdê de parastî îma dikin.",
+      "pt": "Uma visão artística de Göbekli Tepe sem figuras humanas, na qual pedras em forma de T, camadas de solo, água, raízes e conexões luminosas sugerem uma história não escrita preservada na terra."
     },
     "caption": {
       "en": "The History the Soil Never Wrote",
-      "tr": "Toprağın Yazmadığı Tarih"
+      "tr": "Toprağın Yazmadığı Tarih",
+      "de": "Die Geschichte, die der Boden nie schrieb",
+      "es": "La historia que la tierra nunca escribió",
+      "fr": "L’histoire que le sol n’a jamais écrite",
+      "it": "La storia che il suolo non scrisse mai",
+      "ru": "История, которую земля никогда не писала",
+      "zh-CN": "土地从未写下的历史",
+      "ja": "土が書かなかった歴史",
+      "ar": "التاريخ الذي لم تكتبه التربة",
+      "ku": "Dîroka ku Axê Nenivîsî",
+      "pt": "A história que o solo nunca escreveu"
     }
   },
   "links": [
@@ -62,20 +116,71 @@
     {
       "key": "material_evidence_first",
       "label": "Follow material evidence first.",
-      "labels": {"en": "Follow material evidence first.", "tr": "Önce maddi kanıtı izle."},
-      "effects": {"HUMAN": 5, "LIGHT": 10, "DARK": 2}
+      "labels": {
+        "en": "Follow material evidence first.",
+        "tr": "Önce maddi kanıtı izle.",
+        "de": "Folge zuerst den materiellen Belegen.",
+        "es": "Sigue primero la evidencia material.",
+        "fr": "Suis d’abord les preuves matérielles.",
+        "it": "Segui prima le prove materiali.",
+        "ru": "Сначала следуй материальным доказательствам.",
+        "zh-CN": "先追随物质证据。",
+        "ja": "まず物質的な証拠を追う。",
+        "ar": "اتبع الأدلة المادية أولًا.",
+        "ku": "Pêşî li dû delîlên maddî here.",
+        "pt": "Siga primeiro as evidências materiais."
+      },
+      "effects": {
+        "HUMAN": 5,
+        "LIGHT": 10,
+        "DARK": 2
+      }
     },
     {
       "key": "read_all_traces_together",
       "label": "Read material, linguistic and cultural traces together.",
-      "labels": {"en": "Read material, linguistic and cultural traces together.", "tr": "Maddi, dilsel ve kültürel izleri birlikte oku."},
-      "effects": {"HUMAN": 10, "LIGHT": 7, "DARK": 4}
+      "labels": {
+        "en": "Read material, linguistic and cultural traces together.",
+        "tr": "Maddi, dilsel ve kültürel izleri birlikte oku.",
+        "de": "Lies materielle, sprachliche und kulturelle Spuren gemeinsam.",
+        "es": "Lee juntas las huellas materiales, lingüísticas y culturales.",
+        "fr": "Lis ensemble les traces matérielles, linguistiques et culturelles.",
+        "it": "Leggi insieme le tracce materiali, linguistiche e culturali.",
+        "ru": "Читай материальные, языковые и культурные следы вместе.",
+        "zh-CN": "把物质、语言与文化痕迹放在一起阅读。",
+        "ja": "物質的・言語的・文化的な痕跡を一緒に読む。",
+        "ar": "اقرأ الآثار المادية واللغوية والثقافية معًا.",
+        "ku": "Şopên maddî, zimanî û çandî bi hev re bixwîne.",
+        "pt": "Leia juntos os vestígios materiais, linguísticos e culturais."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 7,
+        "DARK": 4
+      }
     },
     {
       "key": "leave_historical_gaps_open",
       "label": "Leave the unknown gaps open.",
-      "labels": {"en": "Leave the unknown gaps open.", "tr": "Bilinmeyen boşlukları açık bırak."},
-      "effects": {"HUMAN": 6, "LIGHT": 3, "DARK": 10}
+      "labels": {
+        "en": "Leave the unknown gaps open.",
+        "tr": "Bilinmeyen boşlukları açık bırak.",
+        "de": "Lass unbekannte Lücken offen.",
+        "es": "Deja abiertos los vacíos desconocidos.",
+        "fr": "Laisse ouverts les vides inconnus.",
+        "it": "Lascia aperti i vuoti sconosciuti.",
+        "ru": "Оставь неизвестные пробелы открытыми.",
+        "zh-CN": "让未知的空白保持开放。",
+        "ja": "未知の空白を開いたままにする。",
+        "ar": "اترك الفراغات المجهولة مفتوحة.",
+        "ku": "Valahiyên nenas vekirî bihêle.",
+        "pt": "Deixe abertos os vazios desconhecidos."
+      },
+      "effects": {
+        "HUMAN": 6,
+        "LIGHT": 3,
+        "DARK": 10
+      }
     }
   ],
   "localized": {
@@ -86,6 +191,96 @@
         "BRG-0011": "Rîh Köprüsü'nün kaynak ayrımı, iz, ilişki ve belirsizlik yöntemi burada yaşayan biyo-yapay zekâdan toprağın, dilin ve kültürel hafızanın yorumlanmasına taşınır.",
         "BRG-0003": "Rîh-a ve yerel adlandırmalar, yer adlarının kültürel hafızanın parçalarını taşıyabileceği ayrı bir hikâyede yeniden belirir.",
         "BRG-0001": "Taşların cevap verip veremeyeceği sorusu burada daha temkinli biçimde döner: taşlar, toprak ve isimler ancak kanıtlar ve ilişkiler üzerinden konuşabilir."
+      }
+    },
+    "de": {
+      "title": "Die Geschichte, die der Boden nie schrieb: Spuren von Girê Miraza",
+      "summary": "Maran überträgt die Spur-und-Beziehungslogik der Rîh-Brücke auf Göbekli Tepe. Er liest Boden, materielle Überreste, Wasser, Wege, lebende Praktiken und alte Ortsnamen wie Girê Miraza, Xerabreşkê, Pira Reş und Xarran als getrennte, aber verbundene Spuren und versucht, eine nie geschriebene Geschichte zu verstehen, ohne Ungewissheit in falsche Gewissheit zu verwandeln.",
+      "link_notes": {
+        "BRG-0011": "Die Methode der Rîh-Brücke — Quellen trennen, Spuren erkennen, Beziehungen herstellen und Ungewissheit bewahren — wird hier von lebender Bio-KI auf Boden, Sprache und kulturelles Gedächtnis übertragen.",
+        "BRG-0003": "Rîh-a und lokale Benennungen kehren als Hinweise darauf zurück, dass Ortsnamen Fragmente kultureller Erinnerung tragen können.",
+        "BRG-0001": "Die Frage des Steinnetzwerks, ob Steine antworten können, kehrt vorsichtiger zurück: Steine, Boden und Namen sprechen nur durch Beziehungen und Belege."
+      }
+    },
+    "es": {
+      "title": "La historia que la tierra nunca escribió: Huellas de Girê Miraza",
+      "summary": "Maran aplica a Göbekli Tepe la lógica de huellas y relaciones del Puente Rîh. Lee la tierra, los restos materiales, el agua, los caminos, las prácticas vivas y nombres antiguos como Girê Miraza, Xerabreşkê, Pira Reş y Xarran como huellas separadas pero conectadas, intentando comprender una historia nunca escrita sin convertir la incertidumbre en falsa certeza.",
+      "link_notes": {
+        "BRG-0011": "El método del Puente Rîh —separación de fuentes, huella, relación e incertidumbre— pasa aquí de la bio-IA viva a la interpretación de la tierra, la lengua y la memoria cultural.",
+        "BRG-0003": "Rîh-a y los nombres locales reaparecen como pistas de que los topónimos pueden conservar fragmentos de memoria cultural.",
+        "BRG-0001": "La pregunta de la Red de Piedra —si las piedras pueden responder— vuelve de forma más cauta: piedras, tierra y nombres solo hablan mediante relaciones y evidencia."
+      }
+    },
+    "fr": {
+      "title": "L’histoire que le sol n’a jamais écrite : Les traces de Girê Miraza",
+      "summary": "Maran applique à Göbekli Tepe la logique de trace et de relation du Pont Rîh. Il lit le sol, les vestiges matériels, l’eau, les routes, les pratiques vivantes et d’anciens noms comme Girê Miraza, Xerabreşkê, Pira Reş et Xarran comme des traces distinctes mais reliées, afin de comprendre une histoire jamais écrite sans transformer l’incertitude en fausse certitude.",
+      "link_notes": {
+        "BRG-0011": "La méthode du Pont Rîh — séparation des sources, trace, relation et incertitude — passe ici de la bio-IA vivante à l’interprétation du sol, de la langue et de la mémoire culturelle.",
+        "BRG-0003": "Rîh-a et les dénominations locales réapparaissent comme indices que les noms de lieux peuvent conserver des fragments de mémoire culturelle.",
+        "BRG-0001": "La question du Réseau de Pierre — les pierres peuvent-elles répondre ? — revient sous une forme plus prudente : pierres, sol et noms ne parlent qu’à travers les relations et les preuves."
+      }
+    },
+    "it": {
+      "title": "La storia che il suolo non scrisse mai: Le tracce di Girê Miraza",
+      "summary": "Maran applica a Göbekli Tepe la logica di traccia e relazione del Ponte Rîh. Legge suolo, resti materiali, acqua, percorsi, pratiche viventi e antichi nomi come Girê Miraza, Xerabreşkê, Pira Reş e Xarran come tracce distinte ma connesse, cercando di comprendere una storia mai scritta senza trasformare l’incertezza in falsa certezza.",
+      "link_notes": {
+        "BRG-0011": "Il metodo del Ponte Rîh — separazione delle fonti, traccia, relazione e incertezza — passa qui dalla bio-IA vivente all’interpretazione di suolo, lingua e memoria culturale.",
+        "BRG-0003": "Rîh-a e i nomi locali tornano come indizi del fatto che i toponimi possono conservare frammenti di memoria culturale.",
+        "BRG-0001": "La domanda della Rete di Pietra — se le pietre possano rispondere — ritorna in forma più cauta: pietre, suolo e nomi parlano solo attraverso relazioni ed evidenze."
+      }
+    },
+    "ru": {
+      "title": "История, которую земля никогда не писала: Следы Girê Miraza",
+      "summary": "Маран переносит логику следов и отношений Моста Rîh на Göbekli Tepe. Он рассматривает землю, материальные остатки, воду, дороги, живые практики и старые названия вроде Girê Miraza, Xerabreşkê, Pira Reş и Xarran как отдельные, но связанные следы и пытается понять никогда не записанную историю, не превращая неопределенность в ложную уверенность.",
+      "link_notes": {
+        "BRG-0011": "Метод Моста Rîh — разделение источников, след, отношение и неопределенность — переносится здесь от живой био-ИИ к интерпретации земли, языка и культурной памяти.",
+        "BRG-0003": "Rîh-a и местные названия возвращаются как признаки того, что топонимы могут сохранять фрагменты культурной памяти.",
+        "BRG-0001": "Вопрос Каменной Сети — могут ли камни отвечать — возвращается в более осторожной форме: камни, земля и имена говорят только через отношения и доказательства."
+      }
+    },
+    "zh-CN": {
+      "title": "土地从未写下的历史：Girê Miraza 的痕迹",
+      "summary": "Maran 把 Rîh Bridge 的“痕迹—关系”方法应用到 Göbekli Tepe。他把土地、物质遗存、水、道路、仍在延续的行为，以及 Girê Miraza、Xerabreşkê、Pira Reş、Xarran 等古老地名视为彼此独立但相互连接的痕迹，在不把不确定性变成虚假确定性的前提下理解一段从未被写下的历史。",
+      "link_notes": {
+        "BRG-0011": "Rîh Bridge 的来源区分、痕迹、关系与不确定性方法，在这里从活体生物AI延伸到土地、语言与文化记忆的解释。",
+        "BRG-0003": "Rîh-a 与地方命名再次出现，作为地名可能保存文化记忆碎片的线索。",
+        "BRG-0001": "Stone Network 关于“石头能否回答”的问题以更谨慎的方式返回：石头、土地与名字只能通过关系与证据发声。"
+      }
+    },
+    "ja": {
+      "title": "土が書かなかった歴史：Girê Miraza の痕跡",
+      "summary": "Maran は Rîh Bridge の「痕跡と関係」の論理を Göbekli Tepe に適用する。土、物質的遺物、水、道、今も続く行動、そして Girê Miraza、Xerabreşkê、Pira Reş、Xarran などの古い地名を、別々だが結びついた痕跡として読み、不確実性を偽の確実性へ変えずに、書かれなかった歴史を理解しようとする。",
+      "link_notes": {
+        "BRG-0011": "Rîh Bridge の情報源の分離、痕跡、関係、不確実性という方法が、ここでは生体AIから土、言語、文化的記憶の解釈へ移される。",
+        "BRG-0003": "Rîh-a と地域の呼称が、地名が文化的記憶の断片を保存しうることを示す手がかりとして再び現れる。",
+        "BRG-0001": "Stone Network の「石は答えられるか」という問いが、より慎重な形で戻る。石、土、名前は、関係と証拠を通じてのみ語る。"
+      }
+    },
+    "ar": {
+      "title": "التاريخ الذي لم تكتبه التربة: آثار Girê Miraza",
+      "summary": "يطبق Maran منطق الأثر والعلاقة في جسر Rîh على Göbekli Tepe. ويقرأ التربة والبقايا المادية والماء والطرق والممارسات الحية وأسماء قديمة مثل Girê Miraza وXerabreşkê وPira Reş وXarran بوصفها آثارًا منفصلة لكنها مترابطة، محاولًا فهم تاريخ لم يُكتب من دون تحويل عدم اليقين إلى يقين زائف.",
+      "link_notes": {
+        "BRG-0011": "تنتقل هنا طريقة جسر Rîh — فصل المصادر والأثر والعلاقة وعدم اليقين — من الذكاء الاصطناعي الحيوي الحي إلى تفسير التربة واللغة والذاكرة الثقافية.",
+        "BRG-0003": "يعود Rîh-a والتسمية المحلية كإشارات إلى أن أسماء الأماكن قد تحفظ أجزاء من الذاكرة الثقافية.",
+        "BRG-0001": "يعود سؤال شبكة الحجر — هل تستطيع الحجارة الإجابة؟ — بصيغة أكثر حذرًا: الحجارة والتربة والأسماء لا تتكلم إلا من خلال العلاقات والأدلة."
+      }
+    },
+    "ku": {
+      "title": "Dîroka ku Axê Nenivîsî: Şopên Girê Miraza",
+      "summary": "Maran mantiqa şop û têkiliyê ya Pira Rîh dibe Göbekli Tepe. Ax, bermahiyên maddî, av, rê, tevgerên zindî û navên kevn ên wek Girê Miraza, Xerabreşkê, Pira Reş û Xarran wek şopên cuda lê girêdayî dixwîne û hewl dide dîrokeke ku qet nehat nivîsîn fêm bike bê ku nezelaliyê bike ewlehiyeke derewîn.",
+      "link_notes": {
+        "BRG-0011": "Rêbaza Pira Rîh — cudakirina çavkaniyan, şop, têkilî û nezelalî — li vir ji biyo-AI ya zindî derbasî şîrovekirina ax, ziman û bîra çandî dibe.",
+        "BRG-0003": "Rîh-a û navên herêmî wek nîşan dîsa derdikevin ku navên cihan dikarin perçeyên bîra çandî hilgirin.",
+        "BRG-0001": "Pirsa Tora Kevir — gelo kevir dikarin bersiv bidin — bi awayekî hişyartir vedigere: kevir, ax û nav tenê bi têkilî û delîlan diaxivin."
+      }
+    },
+    "pt": {
+      "title": "A história que o solo nunca escreveu: Vestígios de Girê Miraza",
+      "summary": "Maran aplica a Göbekli Tepe a lógica de vestígio e relação da Ponte Rîh. Lê o solo, restos materiais, água, caminhos, práticas vivas e antigos nomes como Girê Miraza, Xerabreşkê, Pira Reş e Xarran como vestígios separados mas conectados, buscando compreender uma história nunca escrita sem transformar incerteza em falsa certeza.",
+      "link_notes": {
+        "BRG-0011": "O método da Ponte Rîh — separação de fontes, vestígio, relação e incerteza — passa aqui da bio-IA viva para a interpretação do solo, da língua e da memória cultural.",
+        "BRG-0003": "Rîh-a e as nomeações locais reaparecem como pistas de que nomes de lugar podem preservar fragmentos de memória cultural.",
+        "BRG-0001": "A pergunta da Rede de Pedra — se as pedras podem responder — retorna de forma mais cautelosa: pedras, solo e nomes falam apenas por meio de relações e evidências."
       }
     }
   },
