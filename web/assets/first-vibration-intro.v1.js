@@ -4,19 +4,14 @@
   const INTRO_KEY = "hcu.firstVibrationIntro.v1";
   const ORIGIN_ID = "BRG-0002";
   const centers = {
-    HUMAN: { key: "touch_stone", tr: "Taşa dokun", en: "Touch the stone" },
-    LIGHT: { key: "follow_light", tr: "Işığı izle", en: "Follow the light" },
-    DARK: { key: "approach_dark", tr: "Karanlığa yaklaş", en: "Approach the dark" }
+    HUMAN: { key: "touch_stone", en: "Touch the stone" },
+    LIGHT: { key: "follow_light", en: "Follow the light" },
+    DARK: { key: "approach_dark", en: "Approach the dark" }
   };
 
   function readJson(key, fallback) {
     try { return JSON.parse(localStorage.getItem(key) || JSON.stringify(fallback)); }
     catch { return fallback; }
-  }
-
-  function language() {
-    const requested = new URLSearchParams(location.search).get("lang") || localStorage.getItem("hcu.lang") || "en";
-    return requested === "tr" ? "tr" : "en";
   }
 
   function shouldOpen() {
@@ -55,15 +50,10 @@
 
   function mount() {
     if (!shouldOpen()) return;
-    const lang = language();
-    const copy = lang === "tr" ? {
-      place: "Girê Miraza ve Xerawreşk (Göbekli Tepe)", title: "İlk Titreşim", prompt: "İlk yankını seç",
-      note: "Aydınlık ve Karanlık iyi ile kötü değildir. İnsan, düzen ve olasılık arasındaki ilk yönelimini seçiyorsun.",
-      skip: "Girişi geç", scene: "Girê Miraza ve Xerawreşk'te İlk Titreşim etkileşimli giriş sahnesi"
-    } : {
-      place: "Girê Miraza and Xerawreşk (Göbekli Tepe)", title: "First Vibration", prompt: "Choose your first echo",
+    const copy = {
+      place: "Miraza - Xerawreşk (Göbekli Tepe)", title: "First Vibration", prompt: "Choose your first echo",
       note: "Light and Dark are not good and evil. You are choosing your first orientation among humanity, order, and possibility.",
-      skip: "Skip intro", scene: "Interactive First Vibration opening at Girê Miraza and Xerawreşk"
+      skip: "Skip intro", scene: "Interactive First Vibration opening at Miraza - Xerawreşk"
     };
 
     const intro = document.createElement("section");
@@ -73,12 +63,12 @@
     intro.innerHTML = `
       <div class="vibration-sky" aria-hidden="true"><div class="neural-echo"></div></div>
       <div class="vibration-ground" aria-hidden="true"></div>
-      <div class="pillar-field" aria-label="12 T biçimli taş sütun">${pillars()}</div>
+      <div class="pillar-field" aria-label="12 T-shaped stone pillars">${pillars()}</div>
       <div class="first-pulse" aria-hidden="true"><span></span><span></span><span></span></div>
       <div class="intro-content">
         <p class="intro-eyebrow">BRG-0002 · ${copy.place}</p><h1>${copy.title}</h1>
         <div class="intro-choice-stage"><h2>${copy.prompt}</h2><p>${copy.note}</p><div class="intro-choices">
-          ${Object.entries(centers).map(([center, item]) => `<button type="button" data-intro-center="${center}" class="intro-choice ${center}"><span></span><strong>${item[lang]}</strong><small>+2 ${center}</small></button>`).join("")}
+          ${Object.entries(centers).map(([center, item]) => `<button type="button" data-intro-center="${center}" class="intro-choice ${center}"><span></span><strong>${item.en}</strong><small>+2 ${center}</small></button>`).join("")}
         </div></div>
       </div><button type="button" class="intro-skip">${copy.skip}</button>`;
     document.body.appendChild(intro); document.body.classList.add("intro-open");
