@@ -24,13 +24,53 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0008/gercegi-hangi-soruyla-olcersin.png",
     "alt": {
       "en": "Maran appears in overlapping measured possibilities while Luka, Ayo and Rojin observe from different perspectives; scientific instruments, a double-slit pattern and multiple analytical views reveal different aspects of one reality at 04:17.",
-      "tr": "Maran üst üste binen ölçüm olasılıkları içinde görünürken Luka, Ayo ve Rojin farklı bakışlardan gözlemler; bilimsel araçlar, çift yarık deseni ve farklı analiz katmanları 04:17'de aynı gerçekliğin başka yönlerini görünür kılar."
+      "tr": "Maran üst üste binen ölçüm olasılıkları içinde görünürken Luka, Ayo ve Rojin farklı bakışlardan gözlemler; bilimsel araçlar, çift yarık deseni ve farklı analiz katmanları 04:17'de aynı gerçekliğin başka yönlerini görünür kılar.",
+      "de": "Maran erscheint in überlagerten Messmöglichkeiten, während Luka, Ayo und Rojin aus verschiedenen Perspektiven beobachten; wissenschaftliche Instrumente, ein Doppelspaltmuster und mehrere Analyseansichten zeigen um 04:17 unterschiedliche Seiten derselben Wirklichkeit.",
+      "es": "Maran aparece entre posibilidades de medición superpuestas mientras Luka, Ayo y Rojin observan desde perspectivas distintas; instrumentos científicos, un patrón de doble rendija y varias vistas analíticas muestran diferentes aspectos de una misma realidad a las 04:17.",
+      "fr": "Maran apparaît dans des possibilités de mesure superposées tandis que Luka, Ayo et Rojin observent depuis différents points de vue ; instruments scientifiques, motif de double fente et vues analytiques révèlent différentes facettes d’une même réalité à 04:17.",
+      "it": "Maran appare in possibilità di misura sovrapposte mentre Luka, Ayo e Rojin osservano da prospettive diverse; strumenti scientifici, un pattern a doppia fenditura e più viste analitiche mostrano aspetti diversi della stessa realtà alle 04:17.",
+      "ru": "Маран показан в наложенных измерительных возможностях, пока Лука, Айо и Рожин наблюдают с разных позиций; научные приборы, двухщелевая картина и разные аналитические представления показывают различные стороны одной реальности в 04:17.",
+      "zh-CN": "Maran 出现在彼此重叠的测量可能中，Luka、Ayo 与 Rojin 从不同角度观察；科学仪器、双缝图样和多种分析视图在 04:17 展现同一现实的不同侧面。",
+      "ja": "Maran が重なり合う測定可能性の中に現れ、Luka、Ayo、Rojin が異なる視点から観察する。科学機器、二重スリットのパターン、複数の分析画面が04:17の同じ現実の異なる側面を示す。",
+      "ar": "يظهر Maran داخل احتمالات قياس متراكبة بينما يراقب Luka وAyo وRojin من زوايا مختلفة؛ وتكشف الأدوات العلمية ونمط الشقين ووجهات التحليل المتعددة جوانب مختلفة من واقع واحد عند 04:17.",
+      "ku": "Maran di nav ihtîmalên pîvanê yên li ser hev de xuya dibe, Luka, Ayo û Rojin ji nêrînên cuda temaşe dikin; amûrên zanistî, şablona du-şeqî û dîtinên analîtîk 04:17 aliyên cuda yên heman rastiyê nîşan didin.",
+      "pt": "Maran aparece em possibilidades de medição sobrepostas enquanto Luka, Ayo e Rojin observam de perspectivas diferentes; instrumentos científicos, um padrão de dupla fenda e várias visões analíticas mostram diferentes aspectos da mesma realidade às 04:17."
     }
   },
   "links": [
@@ -58,32 +98,82 @@
       "world_seed": true,
       "label": {
         "en": "Measurement",
-        "tr": "Ölçüm"
+        "tr": "Ölçüm",
+        "de": "Messung",
+        "es": "Medición",
+        "fr": "Mesure",
+        "it": "Misurazione",
+        "ru": "Измерение",
+        "zh-CN": "测量",
+        "ja": "測定",
+        "ar": "القياس",
+        "ku": "Pîvan",
+        "pt": "Medição"
       },
       "prompt": {
         "en": "Which question would you ask first about the same person?",
-        "tr": "Aynı insan hakkında önce hangi soruyu sorardınız?"
+        "tr": "Aynı insan hakkında önce hangi soruyu sorardınız?",
+        "de": "Welche Frage würdest du über dieselbe Person zuerst stellen?",
+        "es": "¿Qué pregunta harías primero sobre la misma persona?",
+        "fr": "Quelle question poserais-tu d’abord au sujet de la même personne ?",
+        "it": "Quale domanda faresti per prima sulla stessa persona?",
+        "ru": "Какой вопрос ты бы сначала задал об одном и том же человеке?",
+        "zh-CN": "面对同一个人，你首先会问什么？",
+        "ja": "同じ人について、最初にどの問いを選びますか？",
+        "ar": "أي سؤال ستطرحه أولًا عن الإنسان نفسه؟",
+        "ku": "Li ser heman mirovan pêşî tu kîjan pirsê dikî?",
+        "pt": "Qual pergunta você faria primeiro sobre a mesma pessoa?"
       },
       "options": [
         {
           "value": "risk",
           "label": {
             "en": "How risky are they?",
-            "tr": "Ne kadar riskli?"
+            "tr": "Ne kadar riskli?",
+            "de": "Wie risikoreich ist diese Person?",
+            "es": "¿Qué tan riesgosa es esta persona?",
+            "fr": "À quel point cette personne est-elle risquée ?",
+            "it": "Quanto è rischiosa questa persona?",
+            "ru": "Насколько рискован этот человек?",
+            "zh-CN": "这个人有多高风险？",
+            "ja": "この人はどれくらい危険か？",
+            "ar": "ما مقدار خطورة هذا الإنسان؟",
+            "ku": "Ev mirov çiqas rîsk e?",
+            "pt": "Quanto risco esta pessoa representa?"
           }
         },
         {
           "value": "need",
           "label": {
             "en": "What do they need?",
-            "tr": "Neye ihtiyaç duyuyor?"
+            "tr": "Neye ihtiyaç duyuyor?",
+            "de": "Was braucht diese Person?",
+            "es": "¿Qué necesita esta persona?",
+            "fr": "De quoi cette personne a-t-elle besoin ?",
+            "it": "Di che cosa ha bisogno questa persona?",
+            "ru": "Что нужно этому человеку?",
+            "zh-CN": "这个人需要什么？",
+            "ja": "この人には何が必要か？",
+            "ar": "ماذا يحتاج هذا الإنسان؟",
+            "ku": "Ev mirov çi hewce dike?",
+            "pt": "Do que esta pessoa precisa?"
           }
         },
         {
           "value": "change",
           "label": {
             "en": "What can they change?",
-            "tr": "Neyi değiştirebilir?"
+            "tr": "Neyi değiştirebilir?",
+            "de": "Was kann diese Person verändern?",
+            "es": "¿Qué puede cambiar esta persona?",
+            "fr": "Que peut changer cette personne ?",
+            "it": "Che cosa può cambiare questa persona?",
+            "ru": "Что этот человек может изменить?",
+            "zh-CN": "这个人能够改变什么？",
+            "ja": "この人は何を変えられるか？",
+            "ar": "ما الذي يستطيع هذا الإنسان تغييره؟",
+            "ku": "Ev mirov çi dikare biguherîne?",
+            "pt": "O que esta pessoa pode mudar?"
           }
         }
       ]
@@ -97,6 +187,96 @@
         "BRG-0009": "Sonlu ölçüm ile sonsuzluk birbirini sınırlar ve görünür kılar; iki düğümden hangisi önce gözlemlenirse diğerinin anlamı değişebilir.",
         "LGT-0001": "Aydınlık okunabilirlik, kararlı kanıt ve belirsizliğin azaltılmasını arar; fakat yalnız ölçülebilir olana aşırı değer verebilir.",
         "DRK-0001": "Karanlık açıklanamayan ve açık ihtimaller için yer bırakır; fakat kalıcı belirsizlik kanıtın yerine geçemez."
+      }
+    },
+    "de": {
+      "title": "Mit welcher Frage misst du die Wirklichkeit?",
+      "summary": "Maran, Luka, Ayo und Rojin untersuchen, wie Messrahmen bestimmen, was sichtbar wird. Die Geschichte trennt physikalische Quantenmessung klar von menschlicher Analogie und entwickelt eine menschenzentrierte Regel: Nicht nur das Ergebnis, sondern auch die Frage und das gewählte Kriterium müssen überprüfbar und verantwortbar bleiben.",
+      "link_notes": {
+        "BRG-0009": "Endliche Messung und Unendlichkeit begrenzen und erhellen einander; welcher Knoten zuerst beobachtet wird, kann die Bedeutung des anderen verändern.",
+        "LGT-0001": "Licht sucht Lesbarkeit, stabile Evidenz und weniger Ungewissheit, kann aber das Messbare überbewerten.",
+        "DRK-0001": "Dunkelheit bewahrt Raum für Unerklärtes und offene Möglichkeiten, darf dauerhafte Ungewissheit aber nicht an die Stelle von Evidenz setzen."
+      }
+    },
+    "es": {
+      "title": "¿Con qué pregunta mides la realidad?",
+      "summary": "Maran, Luka, Ayo y Rojin examinan cómo los marcos de medición determinan qué se vuelve visible. La historia separa la medición cuántica física de la analogía humana y formula una regla centrada en el ser humano: no solo debe revisarse el resultado, sino también la pregunta y el criterio que lo produjeron.",
+      "link_notes": {
+        "BRG-0009": "La medición finita y el infinito se limitan e iluminan mutuamente; observar primero uno de los nodos puede cambiar el sentido del otro.",
+        "LGT-0001": "La Luz busca legibilidad, evidencia estable y menor incertidumbre, pero puede sobrevalorar lo medible.",
+        "DRK-0001": "La Oscuridad conserva espacio para lo inexplicado y las posibilidades abiertas, pero la incertidumbre permanente no puede sustituir la evidencia."
+      }
+    },
+    "fr": {
+      "title": "Avec quelle question mesures-tu la réalité ?",
+      "summary": "Maran, Luka, Ayo et Rojin examinent comment les cadres de mesure déterminent ce qui devient visible. L’histoire distingue clairement la mesure quantique physique de l’analogie humaine et développe une règle centrée sur l’humain : il faut contrôler non seulement le résultat, mais aussi la question et le critère qui l’ont produit.",
+      "link_notes": {
+        "BRG-0009": "Mesure finie et infini se limitent et s’éclairent mutuellement ; observer l’un des nœuds en premier peut modifier le sens de l’autre.",
+        "LGT-0001": "La Lumière cherche lisibilité, preuves stables et réduction de l’incertitude, mais peut survaloriser le mesurable.",
+        "DRK-0001": "L’Obscurité préserve une place pour l’inexpliqué et les possibilités ouvertes, mais l’incertitude permanente ne peut remplacer les preuves."
+      }
+    },
+    "it": {
+      "title": "Con quale domanda misuri la realtà?",
+      "summary": "Maran, Luka, Ayo e Rojin esaminano come i quadri di misurazione determinino ciò che diventa visibile. La storia distingue la misurazione quantistica fisica dall’analogia umana e sviluppa una regola centrata sull’essere umano: non solo il risultato, ma anche la domanda e il criterio che l’hanno prodotto devono restare verificabili.",
+      "link_notes": {
+        "BRG-0009": "Misurazione finita e infinito si limitano e illuminano a vicenda; osservare per primo uno dei nodi può cambiare il significato dell’altro.",
+        "LGT-0001": "La Luce cerca leggibilità, evidenza stabile e riduzione dell’incertezza, ma può sopravvalutare ciò che è misurabile.",
+        "DRK-0001": "L’Oscurità conserva spazio per l’inspiegato e le possibilità aperte, ma l’incertezza permanente non può sostituire l’evidenza."
+      }
+    },
+    "ru": {
+      "title": "Каким вопросом ты измеряешь реальность?",
+      "summary": "Маран, Лука, Айо и Рожин исследуют, как рамки измерения определяют, что становится видимым. История отделяет физическое квантовое измерение от человеческой аналогии и формулирует человекоцентричное правило: проверять нужно не только результат, но и вопрос и критерий, которые его породили.",
+      "link_notes": {
+        "BRG-0009": "Конечное измерение и бесконечность ограничивают и освещают друг друга; то, какой узел наблюдается первым, может изменить смысл другого.",
+        "LGT-0001": "Свет ищет читаемость, устойчивые доказательства и уменьшение неопределенности, но может переоценивать измеримое.",
+        "DRK-0001": "Тьма сохраняет место для необъясненного и открытых возможностей, но постоянная неопределенность не может заменять доказательства."
+      }
+    },
+    "zh-CN": {
+      "title": "你用什么问题衡量现实？",
+      "summary": "Maran、Luka、Ayo 与 Rojin 探索不同测量框架如何决定什么会变得可见。故事明确区分物理量子测量与关于人的类比，并提出人本测量规则：不仅要审查结果，也要审查产生结果的问题与标准。",
+      "link_notes": {
+        "BRG-0009": "有限测量与无限彼此限制、彼此照亮；先观察哪一个节点，可能改变另一个节点的意义。",
+        "LGT-0001": "光明追求可读性、稳定证据与减少不确定性，但可能过度重视可测量之物。",
+        "DRK-0001": "黑暗为尚未解释之物和开放可能性保留空间，但永久不确定性不能替代证据。"
+      }
+    },
+    "ja": {
+      "title": "どんな問いで現実を測るのか？",
+      "summary": "Maran、Luka、Ayo、Rojin は、測定の枠組みが何を可視化するかを調べる。物理的な量子測定と人間についての比喩を明確に分け、人間中心の測定原則として、結果だけでなく、その結果を生んだ問いと基準も検証すべきだと示す。",
+      "link_notes": {
+        "BRG-0009": "有限な測定と無限は互いを制約し、照らし出す。どちらのノードを先に観測するかで、もう一方の意味が変わりうる。",
+        "LGT-0001": "光は可読性、安定した証拠、不確実性の縮小を求めるが、測れるものを過大評価する危険がある。",
+        "DRK-0001": "闇は未説明のものと開かれた可能性に場所を残すが、恒久的な不確実性を証拠の代わりにはできない。"
+      }
+    },
+    "ar": {
+      "title": "بأي سؤال تقيس الواقع؟",
+      "summary": "يفحص Maran وLuka وAyo وRojin كيف تحدد أطر القياس ما يصبح مرئيًا. وتفصل القصة بوضوح بين القياس الكمي الفيزيائي والتشبيه المتعلق بالإنسان، وتضع قاعدة متمحورة حول الإنسان: لا تُراجع النتيجة وحدها، بل السؤال والمعيار اللذان أنتجاها أيضًا.",
+      "link_notes": {
+        "BRG-0009": "القياس المحدود واللانهاية يحد كل منهما الآخر ويكشفه؛ وقد يغير أي العقدتين تُلاحظ أولًا معنى الأخرى.",
+        "LGT-0001": "يسعى النور إلى الوضوح والدليل المستقر وتقليل عدم اليقين، لكنه قد يبالغ في قيمة ما يمكن قياسه.",
+        "DRK-0001": "يحفظ الظلام مساحة لغير المفسر والاحتمالات المفتوحة، لكن عدم اليقين الدائم لا يمكن أن يحل محل الدليل."
+      }
+    },
+    "ku": {
+      "title": "Tu Rastiyê Bi Kîjan Pirsê Dipîvî?",
+      "summary": "Maran, Luka, Ayo û Rojin lêkolîn dikin ku çarçoveyên pîvanê çi tiştî dîtbar dikin. Çîrok pîvana quantumê ya fizîkî ji teşbîha mirovî cuda dike û qanûneke mirov-navendî ava dike: ne tenê encam, lê pirs û pîvana ku encam afirandiye jî divê werin kontrolkirin.",
+      "link_notes": {
+        "BRG-0009": "Pîvana sînordar û bêdawîtî hev sînordar û dîtbar dikin; kîjan girêk pêşî tê temaşekirin dikare wateya ya din biguherîne.",
+        "LGT-0001": "Ronahî xwendinbarî, delîla stabîl û kêmkirina nezelaliyê dixwaze, lê dikare tiştê pîvanbar zêde binirxîne.",
+        "DRK-0001": "Tarîtî ji bo tiştên nehatiye ravekirin û ihtîmalên vekirî cih dihêle, lê nezelaliya domdar nikare şûna delîlê bigire."
+      }
+    },
+    "pt": {
+      "title": "Com qual pergunta você mede a realidade?",
+      "summary": "Maran, Luka, Ayo e Rojin examinam como os enquadramentos de medição determinam o que se torna visível. A história separa a medição quântica física da analogia humana e desenvolve uma regra centrada no ser humano: devem ser verificados não só o resultado, mas também a pergunta e o critério que o produziram.",
+      "link_notes": {
+        "BRG-0009": "Medição finita e infinito limitam e iluminam um ao outro; observar um dos nós primeiro pode alterar o significado do outro.",
+        "LGT-0001": "A Luz busca legibilidade, evidência estável e redução da incerteza, mas pode supervalorizar o que é mensurável.",
+        "DRK-0001": "A Escuridão preserva espaço para o não explicado e para possibilidades abertas, mas a incerteza permanente não pode substituir a evidência."
       }
     }
   }
