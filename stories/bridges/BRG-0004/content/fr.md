@@ -608,7 +608,7 @@ L’Obscurité ne bougea pas.
 
 Pour la première fois, Maran comprit que la question était mauvaise.
 
-Il devait chercher non pas ce qu’était 04:17, mais ce que 04:17 avait laissé en lui.
+Il devait chercher non pas ce qu’était 04:17, mais ce que cette heure avait laissé en lui.
 
 La grande secousse avait eu lieu.
 
