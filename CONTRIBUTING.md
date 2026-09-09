@@ -76,3 +76,21 @@ For mixed interactive works, separate code from creative assets where practical:
 - story, dialogue, images, audio, video, worldbuilding and other expressive content → CC BY-SA 4.0.
 
 Accepted adaptations of existing HCU creative content must preserve the attribution and ShareAlike requirements of CC BY-SA 4.0.
+
+
+## Attribution metadata
+
+Meaningful new story, translation, artwork, audio, video, game-narrative, or other creative contributions should include attribution metadata where technically practical.
+
+At minimum, preserve:
+
+- author or contributor name,
+- GitHub username or another stable public identifier when available,
+- contribution role,
+- story or asset identifier,
+- applicable license,
+- whether the work is original, translated, or adapted.
+
+Use `AUTHORS.md` for principal creative authorship and `CONTRIBUTORS.md` for the broader contributor registry.
+
+Git history is part of the attribution record and should not be intentionally rewritten merely to remove legitimate contribution credit.
