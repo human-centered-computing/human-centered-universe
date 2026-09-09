@@ -1096,6 +1096,18 @@ Maran escreveu a última frase no sistema:
 
 Abaixo:
 
+**A TECNOLOGIA NÃO DEVE APENAS USAR O SER HUMANO; DEVE ESTABELECER UMA RELAÇÃO COM ELE.**
+
+Luka:
+
+“A tecnologia realmente estabelece relações?”
+
+Maran parou.
+
+Apagou a frase.
+
+Depois escreveu com mais cuidado:
+
 **TODO SISTEMA QUE EXERCE PODER SOBRE SERES HUMANOS DEVE CONSIDERAR SUA DIGNIDADE, CAPACIDADE DE AÇÃO E DIREITO DE CONTESTAR.**
 
 Luka:
