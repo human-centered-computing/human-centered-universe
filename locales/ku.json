@@ -52,5 +52,14 @@
   "story_builder_description": "Fikrekê binivîse, zimanê çîrokê hilbijêre, bi HUMAN/LIGHT/DARK wê pêş bixe, çîroka edebî biafirîne, bi 30 pîvanan dabeş bike û pelên amadeyî GitHub derxe.",
   "git_narrative_description": "Git parçeyek ji mîmariya vegotinê ye: commit rastiyê diafirîne; girêdan wateyê diguherîne.",
   "language_policy_description": "Îngilîzî zimanê kanonîk, gerdûnî û standard e. Tirkî çavkaniya xebata edîtorî ye; dema nivîsa Tirkî nûtir be, Îngilîzî û wergerên din ji wê dîsa têne çêkirin.",
-  "triangle_state_space": "Qada rewşa sêgoşeyî ya HCU"
+  "triangle_state_space": "Qada rewşa sêgoşeyî ya HCU",
+  "settings": "Mîheng",
+  "settings_intro": "Pêşketina xwendinê û rêwîtiya xwe ya Çavdêr li ser vê amûrê rêve bibe.",
+  "reading_progress": "Pêşketina Xwendinê",
+  "restart_story_description": "Çîroka heyî wek nexwendî nîşan bike û vegere destpêka wê. Hilbijartin û puanên Çavdêr têne parastin.",
+  "restart_current_story": "Çîroka Heyî Ji Nû Ve Dest Pê Bike",
+  "journey_data": "Daneyên Rêwîtiyê",
+  "reset_journey_description": "Dîroka xwendinê, hilbijartin, puanên HUMAN/LIGHT/DARK, Rêya Quantum û tomara destpêka Lerizîna Yekem a li ser vê amûrê paqij bike.",
+  "reset_entire_journey": "Hemû Rêwîtiyê Sıfır Bike",
+  "reset_journey_warning": "Hemû rêwîtiya xwe sıfır bikî? Pêşketina xwendinê, hilbijartin û Rewşa Çavdêr dê ji vê amûrê bi domdarî bên jêbirin."
 }
