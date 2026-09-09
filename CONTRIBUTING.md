@@ -57,3 +57,22 @@ Suggested patterns:
 - history = memory
 
 > **Commit creates reality. Connection transforms meaning.**
+
+
+## Contribution licensing
+
+Human-Centered Universe uses an **inbound = outbound** contribution model:
+
+- source code and software contributions are accepted under **GNU AGPL-3.0**,
+- original story, book, translation, artwork, audio, video, animation, narrative, and other creative contributions are accepted under **CC BY-SA 4.0**.
+
+Contributors retain copyright in their original contributions. By submitting a contribution for inclusion, the contributor confirms that they have the necessary rights to license that contribution under the applicable project license.
+
+Do not submit third-party or personal material unless its rights, consent, and license status are clear.
+
+For mixed interactive works, separate code from creative assets where practical:
+
+- application/game code → AGPL-3.0,
+- story, dialogue, images, audio, video, worldbuilding and other expressive content → CC BY-SA 4.0.
+
+Accepted adaptations of existing HCU creative content must preserve the attribution and ShareAlike requirements of CC BY-SA 4.0.
