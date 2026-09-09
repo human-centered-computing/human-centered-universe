@@ -7,11 +7,11 @@
   "light_center": "Lichtzentrum",
   "dark_center": "Dunkles Zentrum",
   "follow_echo": "Dem Echo folgen",
-  "canonical": "Kanonische türkische Quelle",
+  "canonical": "Kanonische englische Quelle",
   "reviewed_translation": "Geprüfte Übersetzung",
   "community_translation": "Community-Übersetzung",
   "machine_draft_translation": "Maschinenentwurf",
-  "translation_unavailable": "Für diese Sprache ist keine Übersetzung verfügbar. Der aktuelle kanonische türkische Text wird angezeigt.",
+  "translation_unavailable": "Für diese Sprache ist keine Übersetzung verfügbar. Die kanonische englische Geschichte wird angezeigt.",
   "continue_reading": "Weiterlesen",
   "start_reading": "Bei der Ersten Schwingung beginnen",
   "back_in_path": "Auf meinem Pfad zurück",
@@ -51,6 +51,6 @@
   "explore_triangle_intro": "HUMAN + LIGHT + DARK = 100. Jeder Knoten nimmt eine Position im selben dreieckigen Zustandsraum ein.",
   "story_builder_description": "Gib eine Idee ein, wähle die Sprache der Geschichte, entwickle sie durch HUMAN/LIGHT/DARK, erzeuge die literarische Geschichte, klassifiziere sie nach 30 Kriterien und exportiere GitHub-fertige Dateien.",
   "git_narrative_description": "Git ist Teil der Erzählarchitektur: Ein Commit erzeugt Realität; eine Verbindung verändert Bedeutung.",
-  "language_policy_description": "Türkisch ist die kanonische Quelle der Geschichten; Englisch und alle anderen Sprachen sind Übersetzungsebenen des aktuellen türkischen Textes unter derselben Story-ID.",
+  "language_policy_description": "Englisch ist die kanonische, universelle und standardmäßige Sprache. Türkisch ist die redaktionelle Arbeitsquelle, aus der Englisch und andere Übersetzungen neu erzeugt werden, wenn der türkische Text aktueller ist.",
   "triangle_state_space": "Dreieckiger HCU-Zustandsraum"
 }
