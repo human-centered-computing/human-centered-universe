@@ -1,32 +1,45 @@
 # Language Policy
 
-Turkish (`tr`) is the canonical story language and source of truth of Human-Centered Universe.
+English (`en`) is the canonical and universal repository language of Human-Centered Universe.
 
-## Canonical story source
+## Canonical and default language
 
 Every live story node must contain:
 
 ```text
-content/tr.md
+content/en.md
 ```
 
-The Turkish story is the authoritative literary version. English and every other supported language are translation layers derived from the current Turkish story.
+The English version is the canonical published layer, the default reader language, and the fallback when a selected story translation is unavailable.
 
-A translation must preserve the same story ID and narrative meaning. It must not silently introduce an older English version, a summary, or a cultural rewrite.
+## Editorial working source
+
+For the current authoring workflow, Turkish (`tr`) is the editorial working source used with the project author.
+
+When the Turkish story is newer or more complete than an older English version, translations are regenerated from the current Turkish text:
+
+```text
+content/tr.md → en, de, es, fr, it, ru, zh-CN, ja, ar, ku, pt
+```
+
+After the English version is regenerated from the Turkish working source, the new English file becomes the canonical published version again.
+
+This distinction is intentional:
+
+- **English** = canonical, universal, default and fallback language.
+- **Turkish** = editorial working/reference language for the current authoring and translation workflow.
 
 ## Supported reader languages
 
-The initial multilingual reader target is:
-
 ```text
-tr, en, de, es, fr, it, ru, zh-CN, ja, ar, ku, pt
+en, tr, de, es, fr, it, ru, zh-CN, ja, ar, ku, pt
 ```
 
 `ku` means Kurmancî written in the Latin alphabet. `zh-CN` means Simplified Chinese.
 
 ## Translation status
 
-Repository translation states are:
+Supported repository states are:
 
 ```text
 canonical
@@ -35,34 +48,32 @@ community
 machine_draft
 ```
 
-The Turkish source uses:
+The English published layer uses:
 
 ```json
 {"status":"canonical"}
 ```
 
-A translation produced from the current Turkish source starts as:
+A newly generated translation starts as:
 
 ```json
 {"status":"machine_draft"}
 ```
 
-After human review it may be promoted to:
+A human-reviewed translation may be promoted to:
 
 ```json
 {"status":"reviewed"}
 ```
 
+The Turkish working text may be marked `reviewed` when it is the current human-authored reference used to regenerate the multilingual set.
+
 ## Reader fallback
 
-If a selected story language is unavailable, the reader displays the current Turkish canonical story. It must not fall back to an older English story.
+If the selected story language is unavailable, the reader displays the canonical English story.
 
-Interface localization is separate from story localization. If an interface locale is unavailable, the interface may use its configured UI fallback language while the story itself still falls back to Turkish.
-
-## Migration from the former English-canonical model
-
-Older nodes may temporarily retain legacy metadata declaring English as the source language. During migration, the build normalizes Turkish as the runtime canonical source whenever `content/tr.md` exists. Each story's repository metadata should be updated to `source_language: "tr"` when that story is retranslated from Turkish.
+Interface localization and story localization are separate. If an interface locale is unavailable, interface labels also fall back to English.
 
 ## Cultural adaptation
 
-A cultural adaptation that materially changes the story is not a translation. It becomes a new story node with its own ID and explicit relationship to the original node.
+A cultural adaptation that materially changes the story is not treated as a translation. It becomes a new story node with its own ID and explicit relationship to the original node.
