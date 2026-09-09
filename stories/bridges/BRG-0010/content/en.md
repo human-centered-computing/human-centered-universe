@@ -1400,9 +1400,11 @@ Another an opening in the wall.
 
 Both seemed unfinished.
 
-Perhaps their value did not lie in imperfection.
+Perhaps that was what made them valuable.
 
-Perhaps it lay in our inability to close them into a perfect answer.
+Not that they were imperfect.
+
+**That we could not close them into a perfect answer.**
 
 Maran entered three final sentences:
 
