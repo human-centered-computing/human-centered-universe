@@ -25,13 +25,53 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0010/cember-dortgen-gobeklitepe-karahantepe.png",
     "alt": {
       "en": "A cinematic night landscape joins a circular Göbekli Tepe-like enclosure of T-shaped pillars with Karahantepe-like quadrilateral stone spaces, with people inhabiting both forms and a winding path between them; no text appears in the image.",
-      "tr": "Sinematik gece manzarasında T biçimli dikilitaşlardan oluşan Göbekli Tepe benzeri dairesel alan ile Karahantepe benzeri dörtgen taş mekânlar, insanların yaşadığı iki farklı biçim ve aralarındaki kıvrımlı bir yol olarak birlikte görünür; görselde yazı yoktur."
+      "tr": "Sinematik gece manzarasında T biçimli dikilitaşlardan oluşan Göbekli Tepe benzeri dairesel alan ile Karahantepe benzeri dörtgen taş mekânlar, insanların yaşadığı iki farklı biçim ve aralarındaki kıvrımlı bir yol olarak birlikte görünür; görselde yazı yoktur.",
+      "de": "Eine filmische Nachtlandschaft verbindet einen kreisförmigen Göbekli-Tepe-ähnlichen Bereich mit T-förmigen Pfeilern und Karahantepe-ähnliche viereckige Steinräume; Menschen bewohnen beide Formen und ein gewundener Weg verbindet sie; kein Text im Bild.",
+      "es": "Un paisaje nocturno cinematográfico une un recinto circular parecido a Göbekli Tepe con pilares en forma de T y espacios de piedra cuadrangulares parecidos a Karahantepe; personas habitan ambas formas y un camino sinuoso las conecta; no hay texto en la imagen.",
+      "fr": "Un paysage nocturne cinématographique relie une enceinte circulaire rappelant Göbekli Tepe avec des piliers en T à des espaces de pierre quadrangulaires rappelant Karahantepe ; des personnes habitent les deux formes et un chemin sinueux les relie ; aucun texte n’apparaît.",
+      "it": "Un paesaggio notturno cinematografico unisce un recinto circolare simile a Göbekli Tepe con pilastri a T e spazi di pietra quadrangolari simili a Karahantepe; persone abitano entrambe le forme e un sentiero sinuoso le collega; nessun testo nell’immagine.",
+      "ru": "Кинематографичный ночной пейзаж соединяет круговое пространство в духе Гёбекли-Тепе с Т-образными столбами и четырехугольные каменные пространства в духе Карахантепе; люди обживают обе формы, между ними идет извилистая тропа; текста на изображении нет.",
+      "zh-CN": "电影感夜景把类似 Göbekli Tepe 的 T 形石柱圆形围合空间与类似 Karahantepe 的四边形石质空间连接起来；人们生活在两种形态中，一条弯曲道路连接其间；画面无文字。",
+      "ja": "映画的な夜景の中で、T字形石柱による Göbekli Tepe 風の円形囲いと Karahantepe 風の四辺形石造空間が結ばれ、人々が両方の形に暮らし、その間を曲がる道がつないでいる。画像内に文字はない。",
+      "ar": "مشهد ليلي سينمائي يصل بين حيز دائري شبيه بـ Göbekli Tepe بأعمدة على شكل T ومساحات حجرية رباعية شبيهة بـ Karahantepe؛ يعيش الناس في الشكلين ويربط بينهما طريق متعرج؛ لا نص في الصورة.",
+      "ku": "Dîmeneke şevê ya sînematîk çembera mîna Göbekli Tepe bi stûnên forma T û mekanên kevirî yên çargoşe yên mîna Karahantepe bi hev ve girê dide; mirov di her du şêweyan de dijîn û rêyek xwar di navbera wan de ye; di wêneyê de nivîs tune.",
+      "pt": "Uma paisagem noturna cinematográfica une um recinto circular semelhante a Göbekli Tepe com pilares em T a espaços de pedra quadrangulares semelhantes a Karahantepe; pessoas habitam as duas formas e um caminho sinuoso as conecta; não há texto na imagem."
     }
   },
   "links": [
@@ -69,32 +109,82 @@
       "world_seed": true,
       "label": {
         "en": "Circle and Quadrilateral",
-        "tr": "Çember ve Dörtgen"
+        "tr": "Çember ve Dörtgen",
+        "de": "Kreis und Viereck",
+        "es": "Círculo y Cuadrilátero",
+        "fr": "Cercle et Quadrilatère",
+        "it": "Cerchio e Quadrilatero",
+        "ru": "Круг и Четырехугольник",
+        "zh-CN": "圆与四边形",
+        "ja": "円と四辺形",
+        "ar": "الدائرة ورباعي الأضلاع",
+        "ku": "Çember û Çargoşe",
+        "pt": "Círculo e Quadrilátero"
       },
       "prompt": {
         "en": "What is most missing from the system you are thinking about?",
-        "tr": "Düşündüğünüz sistemde en çok hangisi eksik?"
+        "tr": "Düşündüğünüz sistemde en çok hangisi eksik?",
+        "de": "Was fehlt dem System, an das Sie denken, am meisten?",
+        "es": "¿Qué es lo que más falta en el sistema que está pensando?",
+        "fr": "Qu’est-ce qui manque le plus au système auquel vous pensez ?",
+        "it": "Che cosa manca di più al sistema a cui state pensando?",
+        "ru": "Чего больше всего не хватает системе, о которой вы думаете?",
+        "zh-CN": "你正在思考的系统最缺少什么？",
+        "ja": "あなたが考えているシステムに最も足りないものは何ですか？",
+        "ar": "ما أكثر ما ينقص النظام الذي تفكر فيه؟",
+        "ku": "Di pergala ku tu li ser difikirî de herî zêde çi kêm e?",
+        "pt": "O que mais falta no sistema em que você está pensando?"
       },
       "options": [
         {
           "value": "circle",
           "label": {
             "en": "A shared circle for relationship",
-            "tr": "İlişki kuracak ortak bir çember"
+            "tr": "İlişki kuracak ortak bir çember",
+            "de": "Ein gemeinsamer Kreis für Beziehung",
+            "es": "Un círculo compartido para crear relación",
+            "fr": "Un cercle commun pour créer de la relation",
+            "it": "Un cerchio comune per creare relazione",
+            "ru": "Общий круг для отношений",
+            "zh-CN": "用于建立关系的共同圆",
+            "ja": "関係を築くための共通の円",
+            "ar": "دائرة مشتركة لبناء العلاقة",
+            "ku": "Çembereke hevpar ji bo têkiliyê",
+            "pt": "Um círculo compartilhado para criar relação"
           }
         },
         {
           "value": "boundary",
           "label": {
             "en": "Clearer protective boundaries",
-            "tr": "Daha açık koruyucu sınırlar"
+            "tr": "Daha açık koruyucu sınırlar",
+            "de": "Klarere schützende Grenzen",
+            "es": "Límites protectores más claros",
+            "fr": "Des limites protectrices plus claires",
+            "it": "Confini protettivi più chiari",
+            "ru": "Более ясные защищающие границы",
+            "zh-CN": "更清晰的保护性边界",
+            "ja": "より明確な保護する境界",
+            "ar": "حدود واقية أوضح",
+            "ku": "Sînorên parastinê yên zelaltir",
+            "pt": "Limites protetores mais claros"
           }
         },
         {
           "value": "passage",
           "label": {
             "en": "A new passage between relation and boundary",
-            "tr": "İlişki ile sınır arasında yeni bir geçit"
+            "tr": "İlişki ile sınır arasında yeni bir geçit",
+            "de": "Ein neuer Durchgang zwischen Beziehung und Grenze",
+            "es": "Un nuevo paso entre relación y límite",
+            "fr": "Un nouveau passage entre relation et limite",
+            "it": "Un nuovo passaggio tra relazione e confine",
+            "ru": "Новый проход между отношением и границей",
+            "zh-CN": "关系与边界之间的新通道",
+            "ja": "関係と境界の間の新しい通路",
+            "ar": "ممر جديد بين العلاقة والحد",
+            "ku": "Derbasgeheke nû di navbera têkilî û sînorê de",
+            "pt": "Uma nova passagem entre relação e limite"
           }
         }
       ]
@@ -110,6 +200,116 @@
         "DRK-0001": "Sınırsız çeşitlilik, açık ihtimal ortak sınırları, hafızayı ve sorumluluğu çözdüğünde Karanlık ile karşıtlık oluşturur.",
         "COM-0001": "Ortak çemberlerin, koruyucu sınırların ve yeniden kurulabilir geçitlerin birlikte varlığı İnsan Merkezi'nin ilişkisel mimarisiyle yankılanır.",
         "BRG-0001": "Arkeolojik taş peyzajı Taş Ağ ile yankılanır; ancak Neolitik yapı ustalarının niyetleri hakkındaki iddialardan açıkça ayrı tutulur."
+      }
+    },
+    "de": {
+      "title": "Was vollkommen ist, wächst nicht",
+      "summary": "Die kreisförmige Monumentalform von Göbekli Tepe und die annähernd viereckigen Räume von Karahantepe werden zu bewusst begrenzten modernen Metaphern für Beziehung und Grenze. Die Geschichte lehnt es ausdrücklich ab, heutige Bedeutungen auf neolithische Menschen zu projizieren, und definiert menschenzentriertes Wachstum als Fähigkeit, Form zu verändern, ohne Beziehung zu zerstören.",
+      "link_notes": {
+        "BRG-0009": "Endliche Verantwortung und unendliche Möglichkeit resonieren mit der Frage, wie eine lebendige Struktur beim Formwandel ihre Identität bewahren kann.",
+        "LGT-0001": "Vervollkommnete Ordnung kontrastiert mit Licht, wenn Schutz und Optimierung zur Autorität darüber werden, welche Unterschiede erlaubt sind.",
+        "DRK-0001": "Grenzenlose Variation kontrastiert mit Dunkelheit, wenn offene Möglichkeit gemeinsame Grenzen, Erinnerung und Verantwortung auflöst.",
+        "COM-0001": "Das gemeinsame Bestehen von Kreisen, schützenden Grenzen und revidierbaren Durchgängen resoniert mit der relationalen Architektur des Menschlichen Zentrums.",
+        "BRG-0001": "Die archäologische Steinlandschaft resoniert mit dem Steinnetzwerk, bleibt aber ausdrücklich von Behauptungen über die Absichten neolithischer Erbauer getrennt."
+      }
+    },
+    "es": {
+      "title": "Lo perfecto no crece",
+      "summary": "La forma monumental circular de Göbekli Tepe y los espacios próximos al cuadrilátero de Karahantepe se convierten en metáforas modernas cuidadosamente acotadas sobre relación y límite. La historia rechaza explícitamente proyectar significados actuales sobre las personas del Neolítico y define el crecimiento centrado en el ser humano como la capacidad de cambiar de forma sin destruir la relación.",
+      "link_notes": {
+        "BRG-0009": "La responsabilidad finita y la posibilidad infinita resuenan con la pregunta de cómo una estructura viva puede preservar su identidad mientras cambia de forma.",
+        "LGT-0001": "El orden perfeccionado contrasta con la Luz cuando protección y optimización se convierten en autoridad sobre qué diferencias están permitidas.",
+        "DRK-0001": "La variación ilimitada contrasta con la Oscuridad cuando la posibilidad abierta disuelve límites compartidos, memoria y responsabilidad.",
+        "COM-0001": "La coexistencia de círculos comunes, límites protectores y pasajes revisables resuena con la arquitectura relacional del Centro Humano.",
+        "BRG-0001": "El paisaje arqueológico de piedra resuena con la Red de Piedra, pero permanece explícitamente separado de afirmaciones sobre las intenciones de los constructores neolíticos."
+      }
+    },
+    "fr": {
+      "title": "Ce qui est parfait ne grandit pas",
+      "summary": "La forme monumentale circulaire de Göbekli Tepe et les espaces proches du quadrilatère de Karahantepe deviennent des métaphores modernes soigneusement limitées de la relation et de la frontière. Le récit refuse explicitement de projeter des significations contemporaines sur les humains du Néolithique et définit la croissance centrée sur l’humain comme la capacité à changer de forme sans détruire la relation.",
+      "link_notes": {
+        "BRG-0009": "La responsabilité finie et la possibilité infinie résonnent avec la question de savoir comment une structure vivante peut préserver son identité en changeant de forme.",
+        "LGT-0001": "L’ordre perfectionné contraste avec la Lumière lorsque protection et optimisation deviennent une autorité sur les différences autorisées.",
+        "DRK-0001": "La variation illimitée contraste avec l’Obscurité lorsque la possibilité ouverte dissout les limites communes, la mémoire et la responsabilité.",
+        "COM-0001": "La coexistence de cercles communs, de limites protectrices et de passages révisables résonne avec l’architecture relationnelle du Centre Humain.",
+        "BRG-0001": "Le paysage archéologique de pierre résonne avec le Réseau de Pierre tout en restant explicitement séparé des affirmations sur les intentions des bâtisseurs néolithiques."
+      }
+    },
+    "it": {
+      "title": "Ciò che è perfetto non cresce",
+      "summary": "La forma monumentale circolare di Göbekli Tepe e gli spazi prossimi al quadrilatero di Karahantepe diventano metafore moderne, accuratamente delimitate, della relazione e del confine. La storia rifiuta esplicitamente di proiettare significati contemporanei sulle persone del Neolitico e definisce la crescita centrata sull’essere umano come la capacità di cambiare forma senza distruggere la relazione.",
+      "link_notes": {
+        "BRG-0009": "Responsabilità finita e possibilità infinita risuonano con la domanda su come una struttura vivente possa preservare la propria identità mentre cambia forma.",
+        "LGT-0001": "L’ordine perfezionato contrasta con la Luce quando protezione e ottimizzazione diventano autorità su quali differenze siano consentite.",
+        "DRK-0001": "La variazione illimitata contrasta con l’Oscurità quando la possibilità aperta dissolve confini condivisi, memoria e responsabilità.",
+        "COM-0001": "La coesistenza di cerchi comuni, confini protettivi e passaggi rivedibili risuona con l’architettura relazionale del Centro Umano.",
+        "BRG-0001": "Il paesaggio archeologico di pietra risuona con la Rete di Pietra, restando però esplicitamente separato da affermazioni sulle intenzioni dei costruttori neolitici."
+      }
+    },
+    "ru": {
+      "title": "Совершенное не растет",
+      "summary": "Круглая монументальная форма Гёбекли-Тепе и близкие к четырехугольным пространства Карахантепе становятся осторожно ограниченными современными метафорами отношения и границы. История прямо отказывается проецировать современные значения на людей неолита и определяет человекоцентричный рост как способность менять форму, не разрушая отношения.",
+      "link_notes": {
+        "BRG-0009": "Конечная ответственность и бесконечная возможность перекликаются с вопросом о том, как живая структура может сохранять идентичность при изменении формы.",
+        "LGT-0001": "Доведенный до совершенства порядок контрастирует со Светом, когда защита и оптимизация превращаются во власть над тем, какие различия допустимы.",
+        "DRK-0001": "Безграничная вариативность контрастирует с Тьмой, когда открытая возможность растворяет общие границы, память и ответственность.",
+        "COM-0001": "Сосуществование общих кругов, защищающих границ и пересматриваемых проходов перекликается с реляционной архитектурой Человеческого Центра.",
+        "BRG-0001": "Археологический каменный ландшафт перекликается с Каменной Сетью, оставаясь явно отделенным от утверждений о намерениях неолитических строителей."
+      }
+    },
+    "zh-CN": {
+      "title": "完美之物不会成长",
+      "summary": "Göbekli Tepe 的圆形纪念性形态与 Karahantepe 接近四边形的空间，被转化为关于关系与边界的、受到谨慎限制的现代隐喻。故事明确拒绝把当代意义投射到新石器时代的人身上，并把以人为中心的成长定义为：在不破坏关系的情况下改变形态的能力。",
+      "link_notes": {
+        "BRG-0009": "有限责任与无限可能，与一个活的结构在改变形态时如何保持身份这一问题形成呼应。",
+        "LGT-0001": "当保护与优化变成决定哪些差异被允许的权力时，完美化秩序与光明形成对照。",
+        "DRK-0001": "当开放可能性溶解共同边界、记忆与责任时，无限变化与黑暗形成对照。",
+        "COM-0001": "共同圆、保护性边界与可修订通道的并存，与人的中心的关系式架构形成呼应。",
+        "BRG-0001": "考古石质景观与石之网络形成呼应，但明确与关于新石器时代建造者意图的主张区分开。"
+      }
+    },
+    "ja": {
+      "title": "完璧なものは成長しない",
+      "summary": "Göbekli Tepe の円形記念構造と Karahantepe の四辺形に近い空間は、関係と境界についての、慎重に限定された現代的メタファーとなる。物語は現代の意味を新石器時代の人々へ投影することを明確に拒み、人間中心の成長を、関係を壊さずに形を変える能力として定義する。",
+      "link_notes": {
+        "BRG-0009": "有限の責任と無限の可能性は、生きた構造が形を変えながらどのようにアイデンティティを保つかという問いと響き合う。",
+        "LGT-0001": "保護と最適化が許される差異を決める権力になるとき、完成された秩序は光と対照をなす。",
+        "DRK-0001": "開かれた可能性が共有境界・記憶・責任を溶かすとき、無制限の変化は闇と対照をなす。",
+        "COM-0001": "共通の円、保護する境界、見直し可能な通路の共存は、人間の中心の関係的アーキテクチャと響き合う。",
+        "BRG-0001": "考古学的な石の景観は石のネットワークと響き合うが、新石器時代の建造者の意図についての主張とは明確に分離される。"
+      }
+    },
+    "ar": {
+      "title": "ما هو كامل لا ينمو",
+      "summary": "تتحول الهيئة التذكارية الدائرية في Göbekli Tepe والمساحات القريبة من رباعي الأضلاع في Karahantepe إلى استعارتين حديثتين مضبوطتين بعناية للعلاقة والحد. وترفض القصة صراحة إسقاط معاني اليوم على بشر العصر الحجري الحديث، وتعرّف النمو المتمحور حول الإنسان بأنه القدرة على تغيير الشكل من دون تدمير العلاقة.",
+      "link_notes": {
+        "BRG-0009": "تتردد المسؤولية المحدودة والإمكان اللامحدود مع سؤال كيف يمكن لبنية حية أن تحافظ على هويتها وهي تغير شكلها.",
+        "LGT-0001": "يتقابل النظام المصقول مع النور عندما تتحول الحماية والتحسين إلى سلطة تحدد أي اختلافات مسموحة.",
+        "DRK-0001": "يتقابل التنوع غير المحدود مع الظلام عندما تذيب الإمكانية المفتوحة الحدود المشتركة والذاكرة والمسؤولية.",
+        "COM-0001": "يتردد تعايش الدوائر المشتركة والحدود الواقية والممرات القابلة للمراجعة مع العمارة العلائقية للمركز الإنساني.",
+        "BRG-0001": "يتردد المشهد الحجري الأثري مع شبكة الحجر، مع بقائه منفصلًا صراحة عن الادعاءات المتعلقة بنوايا البنّائين في العصر الحجري الحديث."
+      }
+    },
+    "ku": {
+      "title": "Tiştê Bêkêmasî Mezin Nabe",
+      "summary": "Forma monumental a çemberî ya Göbekli Tepe û mekanên Karahantepe yên nêzîkî çargoşeyê dibin metaforên modern ên bi baldarî sînorkirî ji bo têkilî û sînorê. Çîrok bi eşkereyî wateyên îroyîn li ser mirovên Neolîtîk ferz nake û mezinbûna mirov-navendî wek şiyana guhertina şêweyê bêyî tunekirina têkiliyê pênase dike.",
+      "link_notes": {
+        "BRG-0009": "Berpirsiyariya sînordar û ihtîmala bêsînor bi pirsa ku avahiyeke zindî dema şêwe diguhere çawa nasnameya xwe diparêze deng vedidin.",
+        "LGT-0001": "Rêka bêkêmasî bi Ronahiyê re dijber dibe dema parastin û optimîzasyon dibin desthilat li ser kîjan cudahî destûr hene.",
+        "DRK-0001": "Guhertina bêsînor bi Tarîtiyê re dijber dibe dema ihtîmala vekirî sînorên hevpar, bîr û berpirsiyariyê dihelîne.",
+        "COM-0001": "Hevbûna çemberên hevpar, sînorên parastinê û derbasgehên ku dikarin werin nûvekirin bi avahiya têkiliyî ya Navenda Mirov re deng vedide.",
+        "BRG-0001": "Peyzaja kevirî ya arkeolojîk bi Tora Kevir re deng vedide, lê bi eşkereyî ji îdiayên li ser niyeta avakerên Neolîtîk veqetandî ye."
+      }
+    },
+    "pt": {
+      "title": "O que é perfeito não cresce",
+      "summary": "A forma monumental circular de Göbekli Tepe e os espaços próximos do quadrilátero de Karahantepe tornam-se metáforas modernas cuidadosamente delimitadas de relação e limite. A história rejeita explicitamente projetar significados atuais sobre pessoas do Neolítico e define crescimento centrado no ser humano como a capacidade de mudar de forma sem destruir a relação.",
+      "link_notes": {
+        "BRG-0009": "Responsabilidade finita e possibilidade infinita ressoam com a pergunta de como uma estrutura viva pode preservar sua identidade enquanto muda de forma.",
+        "LGT-0001": "A ordem aperfeiçoada contrasta com a Luz quando proteção e otimização se tornam autoridade sobre quais diferenças são permitidas.",
+        "DRK-0001": "A variação ilimitada contrasta com a Escuridão quando a possibilidade aberta dissolve limites compartilhados, memória e responsabilidade.",
+        "COM-0001": "A coexistência de círculos comuns, limites protetores e passagens revisáveis ressoa com a arquitetura relacional do Centro Humano.",
+        "BRG-0001": "A paisagem arqueológica de pedra ressoa com a Rede de Pedra, permanecendo explicitamente separada de afirmações sobre as intenções dos construtores neolíticos."
       }
     }
   }
