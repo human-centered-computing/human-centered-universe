@@ -24,13 +24,53 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0006/dort-isim-bir-kapi.png",
     "alt": {
       "en": "Four real human observers in different environments are linked to a luminous doorway fixed at 04:17, where technology, memory, relationship and uncertainty converge without a single person becoming the center.",
-      "tr": "Farklı ortamlardaki dört gerçek insan gözlemci, 04:17'de sabitlenen ışıklı bir kapıda teknoloji, hafıza, ilişki ve belirsizlikle birbirine bağlanır; hiçbiri tek başına merkeze dönüşmez."
+      "tr": "Farklı ortamlardaki dört gerçek insan gözlemci, 04:17'de sabitlenen ışıklı bir kapıda teknoloji, hafıza, ilişki ve belirsizlikle birbirine bağlanır; hiçbiri tek başına merkeze dönüşmez.",
+      "de": "Vier reale menschliche Beobachter in unterschiedlichen Umgebungen sind mit einer leuchtenden Tür verbunden, die bei 04:17 feststeht; Technologie, Erinnerung, Beziehung und Ungewissheit treffen zusammen, ohne dass eine einzelne Person zum Zentrum wird.",
+      "es": "Cuatro observadores humanos reales en entornos distintos están conectados a una puerta luminosa fijada en 04:17, donde tecnología, memoria, relación e incertidumbre convergen sin que una sola persona se convierta en el centro.",
+      "fr": "Quatre observateurs humains réels dans des environnements différents sont reliés à une porte lumineuse figée à 04:17, où technologie, mémoire, relation et incertitude convergent sans qu'une seule personne devienne le centre.",
+      "it": "Quattro osservatori umani reali in ambienti diversi sono collegati a una porta luminosa fissata alle 04:17, dove tecnologia, memoria, relazione e incertezza convergono senza che una singola persona diventi il centro.",
+      "ru": "Четыре реальных человеческих наблюдателя в разных условиях связаны со светящейся дверью, зафиксированной на 04:17, где технология, память, отношения и неопределенность сходятся, не превращая одного человека в центр.",
+      "zh-CN": "四名身处不同环境的真实人类观察者连接到一扇固定在04:17的发光之门；技术、记忆、关系与不确定性在此汇聚，但没有任何一个人成为中心。",
+      "ja": "異なる環境にいる四人の実在する人間の観測者が、04:17で固定された光る扉につながり、技術・記憶・関係・不確実性が、一人を中心にすることなく交差している。",
+      "ar": "أربعة مراقبين بشريين حقيقيين في بيئات مختلفة مرتبطون بباب مضيء ثابت عند 04:17، حيث تلتقي التقنية والذاكرة والعلاقة وعدم اليقين من دون أن يتحول شخص واحد إلى المركز.",
+      "ku": "Çar temaşekerên mirovî yên rastîn di hawirdorên cuda de bi deriyek ronahî ya li 04:17 sabît re girêdayî ne; teknolojî, bîr, têkilî û nezelalî bi hev re tên bê ku kesek tenê bibe navend.",
+      "pt": "Quatro observadores humanos reais em ambientes diferentes estão ligados a uma porta luminosa fixada em 04:17, onde tecnologia, memória, relação e incerteza convergem sem que uma única pessoa se torne o centro."
     }
   },
   "links": [
@@ -59,6 +99,46 @@
         "BRG-0007": "Ortak kapı ile 04:17 seçim eşiği kronolojiyle değil, gözlem yoluna göre anlamı değişen ilişkisel durumlar olarak birbirine bağlanır.",
         "COM-0001": "Merkezin insanlar arasında oluştuğu fikri, daha sonraki bir aşama varsaymadan İnsan Merkezi'nin ilişkisel mimarisiyle yankılanır."
       }
+    },
+    "de": {
+      "title": "Vier Namen, eine Tür",
+      "summary": "Um 04:17 verengt sich das verteilte Netzwerk auf vier reale Menschen: Maran, Luka, Ayo und Rojin. Verbindung, Verifikation, Beziehung und Erinnerung zeigen gemeinsam, dass das Schöpfungsprotokoll weder Eigentum eines Einzelnen sein noch von einer Person allein geöffnet werden kann."
+    },
+    "es": {
+      "title": "Cuatro nombres, una puerta",
+      "summary": "A las 04:17, la red distribuida se reduce a cuatro personas reales: Maran, Luka, Ayo y Rojin. Conexión, verificación, relación y memoria revelan que el Protocolo de Creación no puede ser propiedad de un individuo ni una puerta que una sola persona pueda abrir."
+    },
+    "fr": {
+      "title": "Quatre noms, une porte",
+      "summary": "À 04:17, le réseau distribué se réduit à quatre personnes réelles : Maran, Luka, Ayo et Rojin. Connexion, vérification, relation et mémoire révèlent ensemble que le Protocole de Création ne peut appartenir à un individu ni être ouvert par une seule personne."
+    },
+    "it": {
+      "title": "Quattro nomi, una porta",
+      "summary": "Alle 04:17 la rete distribuita si restringe a quattro persone reali: Maran, Luka, Ayo e Rojin. Connessione, verifica, relazione e memoria mostrano insieme che il Protocollo di Creazione non può essere proprietà di un singolo individuo né una porta apribile da una sola persona."
+    },
+    "ru": {
+      "title": "Четыре имени, одна дверь",
+      "summary": "В 04:17 распределенная сеть сужается до четырех реальных людей: Марана, Луки, Аё и Роджин. Связь, верификация, отношение и память показывают, что Протокол Сотворения не может принадлежать одному человеку и не может быть открыт одним человеком."
+    },
+    "zh-CN": {
+      "title": "四个名字，一扇门",
+      "summary": "04:17，分布式网络收缩为四个真实的人：Maran、Luka、Ayo 和 Rojin。连接、验证、关系与记忆共同揭示：创造协议不能成为任何个人的财产，也不能由一个人独自打开。"
+    },
+    "ja": {
+      "title": "四つの名前、一つの扉",
+      "summary": "04:17、分散ネットワークは Maran、Luka、Ayo、Rojin という四人の実在する人間へ絞られる。接続・検証・関係・記憶を通じて、創造プロトコルは一人の所有物にも、一人で開ける扉にもなれないことが示される。"
+    },
+    "ar": {
+      "title": "أربعة أسماء، باب واحد",
+      "summary": "عند 04:17 تضيق الشبكة الموزعة إلى أربعة أشخاص حقيقيين: Maran وLuka وAyo وRojin. ويكشف الاتصال والتحقق والعلاقة والذاكرة أن بروتوكول الخلق لا يمكن أن يكون ملكًا لفرد واحد ولا بابًا يفتحه شخص واحد بمفرده."
+    },
+    "ku": {
+      "title": "Çar Nav, Yek Derî",
+      "summary": "Di 04:17 de tora belavbûyî li ser çar mirovên rastîn teng dibe: Maran, Luka, Ayo û Rojin. Girêdan, pejirandin, têkilî û bîr nîşan didin ku Protokola Afirandinê nikare bibe milkê kesek tenê û ne jî deriyek ku yek kes bi tenê veke."
+    },
+    "pt": {
+      "title": "Quatro nomes, uma porta",
+      "summary": "Às 04:17, a rede distribuída se reduz a quatro pessoas reais: Maran, Luka, Ayo e Rojin. Conexão, verificação, relação e memória revelam que o Protocolo de Criação não pode ser propriedade de um indivíduo nem uma porta que uma única pessoa possa abrir."
     }
   }
 }
