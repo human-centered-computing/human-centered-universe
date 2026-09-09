@@ -417,7 +417,9 @@ A bridge did not turn human and machine into the same thing.
 
 It created an explainable passage between them.
 
-The system kept three sources separate:
+## The Reh of the Answer
+
+The Rîh Bridge showed the source of every answer in three separate layers:
 
 **BIOLOGICAL TRACE**  
 A measurable correlate in Maran's neural and biological system.
@@ -440,9 +442,11 @@ It had to say:
 
 Maran called this:
 
-**the root of the answer.**
+**the Reh of the Answer.**
 
-A trustworthy AI had to show not only what it said, but where that statement came from.
+The root of the answer.
+
+Because for him, a trustworthy AI had to show not only what it said, but where that statement came from.
 
 ---
 
