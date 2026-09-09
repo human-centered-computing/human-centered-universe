@@ -22,31 +22,19 @@
   const rateKey = "hcu.narrator.rate";
 
   function uiText(lang) {
-    if (lang === "tr") {
-      return {
-        title: "🎧 Anlatıcı Modu",
-        badge: "GitHub TTS",
-        speed: "Hız",
-        ready: "GitHub üzerinde üretilmiş anlatıcı kaydı",
-        playing: "🎧 Anlatıcı okunuyor",
-        paused: "Duraklatıldı · kaldığın yer kaydedildi",
-        error: "Ses dosyası yüklenemedi.",
-        pending: "Ses hazırlanıyor. GitHub Actions tamamlandığında burada kitap gibi dinleyebileceksin.",
-        pendingBadge: "Hazırlanıyor",
-        unavailable: "Bu bölüm için henüz ses kaydı oluşturulmadı."
-      };
-    }
+    const tr = (key, fallback) => window.HCUI18n?.t?.(key, fallback) || fallback;
     return {
-      title: "🎧 Narrator",
-      badge: "GitHub TTS",
-      speed: "Speed",
-      ready: "GitHub-generated narration",
-      playing: "🎧 Narration playing",
-      paused: "Paused · position saved",
-      error: "Narration audio could not be loaded.",
-      pending: "Narration is being prepared. It will appear here when GitHub Actions finishes.",
-      pendingBadge: "Preparing",
-      unavailable: "Narration has not been generated for this chapter yet."
+      title: tr("narrator_title", "🎧 Narrator"),
+      badge: tr("narrator_badge", "GitHub TTS"),
+      speed: tr("narrator_speed", "Speed"),
+      ready: tr("narrator_ready", "GitHub-generated narration"),
+      playing: tr("narrator_playing", "🎧 Narration playing"),
+      paused: tr("narrator_paused", "Paused · position saved"),
+      error: tr("narrator_error", "Narration audio could not be loaded."),
+      pending: tr("narrator_pending", "Narration is being prepared. It will appear here when GitHub Actions finishes."),
+      pendingBadge: tr("narrator_pending_badge", "Preparing"),
+      unavailable: tr("narrator_unavailable", "Narration has not been generated for this chapter yet."),
+      retry: tr("narrator_retry", "Check again")
     };
   }
 
@@ -120,7 +108,7 @@
       <div class="narrator-title"></div>
       <div class="narrator-pending-message">${t.pending}</div>
       <div class="narrator-controls">
-        <button type="button" class="narrator-button primary" data-n-retry>↻ ${c.lang === "tr" ? "Tekrar kontrol et" : "Check again"}</button>
+        <button type="button" class="narrator-button primary" data-n-retry>↻ ${t.retry}</button>
       </div>
     `;
     section.querySelector(".narrator-title").textContent = chapterTitle(storyContent, c.story);

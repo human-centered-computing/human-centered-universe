@@ -48,6 +48,7 @@ function markdownToHtml(md="") {
   flush(); return out.join("\n");
 }
 function t(key,fallback=key){ return state.data?.locales?.[state.locale]?.[key] || state.data?.locales?.en?.[key] || fallback; }
+window.HCUI18n = { t: (key,fallback=key) => t(key,fallback), get locale(){ return state.locale; } };
 function storyById(id){ return state.data?.stories?.find(s=>s.id===id); }
 function orderedStories(){ return [...(state.data?.stories||[])].sort((a,b)=>(a.observation_order??9999)-(b.observation_order??9999)||a.id.localeCompare(b.id)); }
 function currentStory(){ return storyById(state.storyId) || storyById(state.data?.origin_node) || orderedStories()[0]; }
@@ -293,7 +294,7 @@ async function boot(){
   const params=new URLSearchParams(location.search); const stored=localStorage.getItem("hcu.lang"); const requested=params.get("lang")||stored||state.data.default_language||"en";
   state.locale=(state.data.languages||["en"]).includes(requested)?requested:"en";
   languageSelect.innerHTML=(state.data.languages||["en"]).map(code=>`<option value="${escapeHtml(code)}">${escapeHtml(displayLanguageName(code))} — ${escapeHtml(code)}</option>`).join("");
-  languageSelect.value=state.locale; languageSelect.addEventListener("change",()=>{ state.locale=languageSelect.value; localStorage.setItem("hcu.lang",state.locale); render(); });
+  languageSelect.value=state.locale; languageSelect.addEventListener("change",()=>{ state.locale=languageSelect.value; localStorage.setItem("hcu.lang",state.locale); render(); window.dispatchEvent(new CustomEvent("hcu:languagechange",{detail:{lang:state.locale}})); });
   const requestedStory=params.get("story"); const last=localStorage.getItem("hcu.lastStory");
   state.storyId=storyById(requestedStory)?.id || storyById(last)?.id || state.data.origin_node;
   const requestedMode=params.get("mode"); state.mode=["read","explore","create","settings"].includes(requestedMode)?requestedMode:"read";
