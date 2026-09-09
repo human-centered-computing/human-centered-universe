@@ -68,7 +68,7 @@ Li ser korîdorê gotineke nû xuya bû:
 
 Paşê:
 
-**PÊVAJOYEK KU DAWIYA WÊ TUNE Û AVANIYEKE BÊDAWÎ YA KU WEK TEMAM HATIYE RAMAN KIRIN HEman TIŞT NÎNIN.**
+**PÊVAJOYEK KU DAWIYA WÊ TUNE Û AVANIYEKE BÊDAWÎ YA KU WEK TEMAM HATIYE RAMAN KIRIN HEMAN TIŞT NÎNIN.**
 
 Maran li deriyan nihêrî.
 
@@ -676,11 +676,11 @@ Maran ket deriyê yekem.
 
 Paşê derket.
 
-Ket duyem.
+Ket duyemîn.
 
-Sêyem.
+Sêyemîn.
 
-Sedem.
+Sedemîn.
 
 Her jiyana nû berpirsiyariya ya berê sifir dikir.
 
