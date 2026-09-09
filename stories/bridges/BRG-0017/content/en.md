@@ -2,247 +2,261 @@
 
 ## From the Zero Point of History to Informatics 5.0
 
-Maran had spent many years working with information systems.
+Maran had worked on information systems for many years.
 
-He wrote code.
+He had written code.
 
-He built databases.
+He had built databases.
 
-He studied the systems used by universities, public institutions, and companies.
+He had studied systems used by universities, public institutions, and companies.
 
-Over time, however, he began to notice something.
+But as time passed, he began to notice something.
 
 The problem was no longer that computers were not powerful enough.
 
-Software was already fast.
+Software was fast enough too.
 
 Artificial intelligence could perform more and more tasks.
 
-The real problem was elsewhere.
+The real problem was somewhere else.
 
-**It was how human effort was being used.**
+**It was how human labor was being used.**
 
 ---
 
-A person could work all day and still produce nothing of real value.
+A person could work very hard.
 
-An employee could sit at a desk for hours,
+And still produce nothing of real value.
 
-send dozens of messages,
+An employee could sit at a desk all day,
+
+write dozens of messages,
 
 attend meetings,
 
-enter the same information into different forms again and again,
+enter the same information into different tables again and again,
 
-and still be unable to answer one question at the end of the day:
+and yet at the end of the day be unable to answer one question:
 
 **What did I improve for a human being today?**
 
 Maran did not see this merely as inefficiency.
 
-He saw something deeper.
+He thought it was a deeper problem.
 
-When a person could no longer see meaning in their work,
+Because when a person could not find meaning in their work, it was not only their time that disappeared.
 
-they did not only lose time.
+Little by little,
 
-They slowly lost themselves.
+they disappeared too.
 
 ---
 
-One night he returned to Dostoevsky's *Notes from a Dead House*.
+One night he was once again leafing through Dostoevsky's *Notes from a Dead House*.
 
-A recurring idea in the book pulled together many things he had been carrying for years.
+An idea in the book brought together all the pieces he had carried in his mind for years.
 
-One of the harshest punishments that can be imposed on a human being is not simply difficult labor.
+One of the harshest punishments that could be given to a human being
 
-It is **work that is completely meaningless and useless**.
+was not necessarily physically exhausting work.
 
-Move water from one bucket to another.
+It was to give them **completely meaningless and useless work**.
 
-Then move it back.
+Empty water from one bucket into another.
 
-Carry sand from one place to another.
+Then pour it back again.
 
-Then return it again.
+Move sand from one place to another.
 
-When a person knows that what they are doing has no purpose,
+Then carry it back to where it had been.
 
-the work does not only exhaust the body.
+When a person knew that what they were doing had no meaning,
 
-It erodes the will.
+the work exhausted not only the body,
+
+but also the will.
 
 Maran closed the book.
 
-He looked at the computer on his desk and said to himself:
+For a long time he looked at the computer on the desk.
 
-“We do this in modern institutions in more complicated forms.”
+Then he said to himself:
 
-The buckets were gone.
+“We do the same thing in modern institutions in a more complicated form.”
 
-But meaningless forms remained.
+There were no buckets anymore.
 
-The sand was gone.
+But there were meaningless forms.
 
-But duplicate reports remained.
+There was no sand.
 
-The chains were gone.
+But there were duplicate reports.
 
-But there were tasks with no clear purpose,
+There were no chains.
+
+But there were purposeless assignments,
 
 arbitrary instructions,
 
-meetings with no result,
+meetings with no outcome,
 
-and work assigned merely because hierarchy allowed it.
+and tasks given only because someone occupied a higher position in a hierarchy.
 
 ---
 
-Dostoevsky had also described something else.
+Dostoevsky also described another behavior among prisoners.
 
-People living under rigid control sometimes spent what little they earned in irrational ways, broke rules, or acted destructively.
+Sometimes people spent in a single night what they had obtained through great effort,
 
-From the outside it seemed senseless.
+defied rules,
 
-But underneath was another need:
+and acted in ways that could harm themselves.
+
+From the outside this looked irrational.
+
+But underneath it was another need:
 
 **To feel free.**
 
-To prove that their own will still existed.
+To prove to themselves that they could still exercise their own will.
 
-Maran recognized modern forms of the same rebellion.
+Maran saw different forms of the same behavior inside institutions.
 
-When people were excluded from decisions,
+When a person had been excluded from decisions for years,
 
-when nobody asked for their ideas,
+when no one asked for their ideas,
 
-when their name disappeared from what they produced,
+when their name did not appear on what they produced,
 
-when their work was presented as somebody else's success,
+when their work was presented as someone else's success,
 
-they began to resist the system in quiet ways.
+over time they developed an invisible resistance against the system.
 
-Sometimes they slowed down.
+Sometimes they slowed their work.
 
-Sometimes they did only what they were explicitly ordered to do.
+Sometimes they did only exactly what they had been told to do.
 
-Sometimes they stopped sharing good ideas.
+Sometimes they did not share a good idea.
 
-Sometimes they stayed silent even when they knew the institution would lose.
+Sometimes they remained silent even when they knew the institution would lose.
 
 This was not always laziness.
 
-Sometimes it was the personality quietly insisting:
+Sometimes it was the quiet rebellion of personality:
 
-**“I am not merely a component that receives orders.”**
+**“I am not merely a part that receives orders.”**
 
 ---
 
-Maran returned to the Industry 5.0 approach he had been thinking about for years.
+At this point, Maran reconsidered the Industry 5.0 approach he had been thinking about for years.
 
-Industry 4.0 had asked:
+The major question of Industry 4.0 had been:
 
 **How can we use machines more efficiently?**
 
 Industry 5.0 brought another question:
 
-**How can technology work for human beings?**
+**How can we use technology for human beings?**
 
-Maran carried that question into computing.
+Maran carried this question into informatics.
 
-He gave the idea a name:
+And gave the new concept a name:
 
 # Informatics 5.0
 
-The center of Informatics 5.0 was not the computer.
+At the center of Informatics 5.0 there was no computer.
 
-It was not artificial intelligence.
+No artificial intelligence.
 
-It was not software.
+No software.
 
 At the center was:
 
-**The human being.**
+**the human being.**
 
-Technology would not be designed to replace people.
+Technology would be used not to replace people,
 
-It would reduce unnecessary burdens,
+but to reduce unnecessary burdens,
 
-increase productive capacity,
+increase productivity,
 
 accelerate learning,
 
-and return time to meaningful work.
+and allow people to spend more time on meaningful work.
 
 ---
 
-Maran did not want the idea to remain a philosophy.
+Maran did not want this to remain only a philosophy.
 
 He designed an ecosystem.
 
-Its core was Java-based.
+He built its core around Java.
 
-The reason was not only technical.
+The reason was not only Java's technical characteristics.
 
-For years he had watched institutions build isolated systems over and over again.
+For years, Maran had been frustrated by institutions developing isolated systems disconnected from one another.
 
-Each institution rewrote similar identity management.
+Every institution rewrote the same user-management functions.
 
-Each rebuilt project tracking.
+It rebuilt the same project-tracking system.
 
-Each recreated similar document flows.
+It recreated the same document workflows.
 
-The same problems consumed money and human effort again and again.
+Money and human effort were spent over and over on the same problems.
 
-Informatics 5.0 would reverse this.
+Informatics 5.0 would do the opposite.
 
-**Build once.  
-Validate it.  
-Open it.  
-Improve it together.  
-Reuse it.**
+**Develop once.**  
+**Validate.**  
+**Open it.**  
+**Develop together.**  
+**Reuse.**
 
-A Java-based open core would provide shared services that different institutions could reuse.
+The Java-based open core would consist of shared services that different institutions could use.
 
-Institution-specific and security-sensitive components would remain separate.
+Institution-specific components requiring security would remain separate.
 
-But what humanity did not need to reinvent would remain open.
+But things humanity did not need to rewrite again and again would remain open.
 
-Code could be inspected.
+The code could be inspected.
 
 Bugs could be reported.
 
 People from other countries could contribute.
 
-Even a student could make a small change that improved a large public system.
+Even a student could contribute to a major public system with a small correction.
 
 And most importantly:
 
-**It would be visible who did what.**
+**It would be visible who had done what.**
 
 ---
 
-For Maran this was more than a technical matter.
+For Maran, this was much more than a technical issue.
 
-He had watched people create ideas,
+Because over the years he had seen another problem.
 
-write code,
+People generated ideas,
 
-prepare reports,
+wrote code,
 
-collect field data,
+prepared reports,
 
-solve problems,
+went into the field,
 
-and then see the final success associated only with people holding higher offices.
+solved the problem,
 
-Maran rejected that.
+but in the end the achievement could be associated only with the names of those who held office.
 
-A professor, rector, director, or minister might genuinely help a project succeed.
+Maran opposed this.
 
-If a leader removed obstacles, secured resources, or enabled cooperation, that contribution deserved to be visible.
+A professor, rector, director general, or minister might be at the head of a project.
 
-But everyone else's work had to remain visible too.
+If the support provided by a manager contributed to the project's success,
+
+then of course that contribution should be visible.
+
+But the labor of everyone who contributed to the success should also be visible.
 
 If a student wrote the code,
 
@@ -254,21 +268,27 @@ that contribution belonged to the employee.
 
 If a researcher developed the idea,
 
-the idea had to be attributed accordingly.
+the idea belonged to that researcher.
 
-And if a manager obstructed the work while the team succeeded despite that obstruction,
+If a manager opened the way for the project,
 
-office alone could not turn that person into the owner of the success.
+that contribution would be recorded as well.
 
-Maran's rule was simple:
+But if a manager obstructed the process,
 
-**Success should be shared by verifiable contribution, not by rank.**
+and the project succeeded despite those obstacles,
 
-Informatics 5.0 therefore versioned not only code,
+that person could not be presented as the owner of the achievement merely because of their position.
 
-but **human effort itself**.
+Maran's measure was simple:
 
-Ideas.
+**Achievement should be shared according to verifiable contribution, not title.**
+
+That was why Informatics 5.0 versioned not only code,
+
+but **labor as well**.
+
+Idea.
 
 Code.
 
@@ -288,37 +308,45 @@ Project management.
 
 Institutional support.
 
-All of it could be made visible.
+All of it would be visible.
 
-Human-centered transformation meant more than thanking people.
+Because for Maran, human-centered transformation was more than thanking people.
 
-It meant designing a system in which their contribution could not simply disappear.
+**It meant building a structure in which the system could not forget a person's labor.**
 
 ---
 
-The next question was where to test all this.
+But Maran still faced a major problem.
 
-The answer was Şanlıurfa.
+All of these were good ideas.
 
-Göbekli Tepe gave the region another meaning in Maran's mind:
+But where would they be applied?
+
+The answer was Şanlıurfa again.
+
+Maran no longer saw this geography merely as the place where he had been born or worked.
+
+Because of Göbekli Tepe, he attached a different meaning to it:
 
 **The zero point of history.**
 
-In a land associated with one of humanity's earliest monumental social experiments,
+In a geography where humanity was thought to have created a new social order in the past,
 
-he wanted to test a human-centered order for the digital age.
+he wanted to test the human-centered order of the digital age.
 
 ---
 
-At Harran University a new structure emerged:
+A new structure was created for this at Harran University:
 
-# The Informatics and Human-Centered Transformation Coordination Office
+# Informatics and Human-Centered Transformation Coordination Office
 
-Maran did not want another bureaucracy.
+Maran's goal was not to produce a new bureaucracy.
 
-He wanted to reduce bureaucracy's unnecessary burden on people.
+On the contrary,
 
-The office's first question was not:
+it was to reduce the unnecessary burden of bureaucracy on human beings.
+
+The Coordination Office's first question was not:
 
 “How many projects did we complete this year?”
 
@@ -328,23 +356,23 @@ It was:
 
 The number of meetings was not success.
 
-The number of reports was not success.
+The number of reports written was not success.
 
-Time spent physically present was not success.
+The number of people sitting in offices was not success.
 
-Every activity had to answer:
+Every initiative was asked another question:
 
-**What did this improve for a human being?**
+**What did this work improve for a human being?**
 
 ---
 
-Maran turned the working model into a directive.
+Then Maran turned the working model he had considered for years into a formal directive.
 
-Before work began, six questions had to be clear:
+Before any work began, six things would be asked:
 
-Why is this being done?
+Why is it being done?
 
-Who benefits?
+For whom is it being done?
 
 What is the expected output?
 
@@ -352,77 +380,93 @@ Who is responsible?
 
 How long will it take?
 
-How will success be measured?
+How will it be measured?
 
-If those answers did not exist,
+If there were no answers to these questions,
 
-the work itself had to be questioned.
+the work itself would be questioned.
 
-A task was not meaningful simply because:
+A task would not be considered meaningful merely because:
 
-“A manager asked for it.”
+“The manager asked for it.”
 
-No task could be assigned to punish,
+No task could be assigned merely to punish someone,
 
-intimidate,
+wear them down,
 
-wear down,
+intimidate them,
 
-or devalue a person.
+or make them feel worthless.
 
-Pointless repetition had to be reduced.
+Pointlessly repeated work would be reduced.
 
-People would not be assessed only by time at a desk,
+People would not be evaluated by the number of hours they spent at a desk,
 
-but by value created,
+but by the value they produced,
 
-learning,
+what they learned,
 
-team contribution,
+their contribution to the team,
 
-and public benefit.
+and the public benefit they created.
 
-Maran once explained it to his colleagues with a sentence they remembered:
+One day, Maran explained this to his colleagues this way:
 
 “We will not carry Dostoevsky's buckets into the digital world.”
 
+There was a brief silence in the room.
+
+Then people laughed.
+
+But everyone understood what he meant.
+
 ---
 
-The first months were difficult.
+The first months were not easy.
 
-Some people resisted.
+Some people opposed the system.
 
-Ambiguity had been useful to them.
+Because ambiguity was useful to some.
 
-When the reason for a task was written down,
+When the reason for an assignment was written down,
 
-arbitrary decisions became harder.
+it became harder to make arbitrary decisions.
 
 When contributions were recorded,
 
-claiming another person's work became harder.
+it became harder to appropriate someone else's labor.
 
-When decisions needed reasons,
+When decisions had to be justified,
 
-rank alone became weaker.
+position alone was no longer enough.
 
 When project outcomes were measured,
 
-it became harder to describe failure as success.
+it became harder to present a failed project as successful.
 
 Informatics 5.0 was not only changing technology.
 
-**It was making power relationships visible.**
+**It was making power relations visible.**
+
+And visibility was not always comfortable.
 
 ---
 
-But Maran did not want the new system itself to become another machine of pressure.
+Maran did not step back.
 
-“People are not machines,” he insisted.
+But he did not want to make another mistake either.
 
-“They do not produce output every minute.”
+The new system itself must not become a new mechanism of pressure.
 
-Research was work.
+So he did not create a performance system that measured every movement people made.
+
+“A human being is not a machine,”
+
+he said.
+
+“A human being does not produce output every minute.”
+
+Research was work too.
 
 Learning was work.
 
@@ -430,23 +474,23 @@ Thinking was work.
 
 Experimenting was work.
 
-Being wrong was sometimes necessary.
+Being wrong was work too.
 
-A team might work for weeks without producing the expected result and still create valuable knowledge.
+Sometimes it might be necessary to work for weeks without producing any result at all.
 
-The important thing was not to hide failure.
+What mattered was that failure should not be hidden.
 
 ---
 
-One of the most unusual practices became:
+One of the most unusual practices of Informatics 5.0 emerged from this:
 
-# The Failure and Learning Record
+# Failure and Learning Record
 
-When a project failed, it was not erased.
+If a project failed, it would not be erased.
 
-The team asked:
+The team would be asked:
 
-Why did it fail?
+“Why didn't it work?”
 
 Was the assumption wrong?
 
@@ -454,66 +498,70 @@ Was the data incomplete?
 
 Was there a technical error?
 
-Was the problem definition wrong?
+Was it human behavior?
 
 Were resources insufficient?
 
-What should the next team do differently?
+Was the problem defined incorrectly?
 
-Over time, failed projects became some of the institution's most valuable knowledge.
+Then came the next question:
 
-They prevented others from repeating the same mistake.
+**What should the next person who tries this do differently?**
 
-Maran came to understand:
+After a while, failed projects became some of the institution's most valuable sources of knowledge.
 
-**Institutional memory is not only an archive of successes.  
-It must also remember mistakes.**
+Because they prevented the same mistake from being repeated.
+
+Maran realized something:
+
+**Institutional memory is not only an archive of successes.**  
+**It is also a memory of mistakes.**
 
 ---
 
 Small problems began to be solved in Şanlıurfa.
 
-A process that had taken hours became shorter.
+A process that took hours in one institution became shorter.
 
-Information no longer had to be requested repeatedly in another workflow.
+Elsewhere, people stopped being asked for the same data again and again.
 
-A project could be reused by different institutions.
+A project became shareable across different institutions.
 
-A small code contribution written by a student became useful in other projects.
+A small piece of code developed by a student began to be used in other projects.
 
-Some efforts failed.
+Some initiatives failed.
 
 Some were stopped.
 
 Some were redesigned.
 
-But the process was recorded.
+But the entire process was documented.
 
-Results were anonymized.
+Results were anonymized,
 
-Reusable software cores were released as open source.
+appropriate core software was released as open source,
 
-They entered the Human-Centered Computing network.
+and shared with the world through the Human-Centered Computing network.
 
-Şanlıurfa was no longer only receiving solutions.
+Şanlıurfa was no longer merely a place that received solutions.
 
-**It was producing solutions.**
+**It was a place that produced solutions.**
 
 ---
 
-# The Workshop of Future Inheritance
+# Workshop of Future Inheritance
 
-After a while, Maran began to see the Coordination Office differently.
+After a while, Maran began looking at the work of the Coordination Office differently.
 
-Around the tables were not only programmers.
+There were not only software developers around the tables.
 
-There were students,
+There were students.
 
-academics,
+Academics.
 
-public employees,
+Public employees.
 
-designers,
+Designers,
 
 lawyers,
 
@@ -521,11 +569,11 @@ educators,
 
 engineers,
 
-and open-source contributors from other countries.
+and open-source developers from different countries.
 
-Artificial intelligence systems worked alongside them.
+Artificial intelligence systems were working beside them.
 
-But AI was nobody's boss.
+But artificial intelligence was no one's boss.
 
 It analyzed questions,
 
@@ -537,13 +585,13 @@ compared data,
 
 generated alternatives,
 
-and reduced repetitive work.
+and reduced the tasks humans would otherwise have to repeat again and again.
 
-Final responsibility remained with people.
+The final decision remained with people.
 
-Watching the room one day, Maran thought of Göbekli Tepe.
+One day, while watching this environment, Maran thought of Göbekli Tepe.
 
-Thousands of years earlier, people there had not raised monumental stones alone.
+Thousands of years ago, people had not lifted the great stones there alone.
 
 They had worked together.
 
@@ -559,109 +607,119 @@ Institutional memory.
 
 And artificial intelligence.
 
-In his mind, Maran gave the place a name:
+In his own mind, Maran gave this working environment a name:
 
 **The Workshop of Future Inheritance.**
 
-The goal was not merely to solve today's problem.
+Because the goal was not merely to solve today's problems.
 
-It was to ensure that the next person did not have to begin from zero.
+It was to prevent the next person from having to begin from zero on the same problem.
 
-One person's solution could become another person's starting point.
+A solution produced by one person
 
-A student's code could improve the life of someone in another city.
+would become another person's starting point.
 
-One institution's failure could prevent another institution from making the same mistake.
+A student's code
 
-Open source was no longer only a software license.
+could make life easier for a person living in another city.
+
+The failure of one institution
+
+could prevent another institution from making the same mistake.
+
+For Maran, open source was no longer merely a software license.
 
 **It was a digital memory of labor passed between generations.**
 
 ---
 
-The Informatics 5.0 ecosystem gradually formed three connected layers.
+The Informatics 5.0 ecosystem gradually grew in three layers.
 
-**NextCode** became the national and institutional project and code collaboration layer.
+**NextCode** was the project and code collaboration layer for institutions in Türkiye.
 
-**NextDeveloper** became the common technical standards and developer guidance layer.
+**NextDeveloper** was the space containing shared technical standards and developer guides.
 
-**Human-Centered Computing** became the global open-source layer.
+**Human-Centered Computing** was the open-source network that developers anywhere in the world could join.
 
-A solution developed for a small problem in Şanlıurfa could now be reused in another city,
+In this way, a solution to a small problem in Şanlıurfa
+
+could be used in another city,
 
 another university,
 
-or another country.
+or even another country.
 
-And useful solutions from elsewhere could be adapted instead of rebuilt from scratch.
+Likewise, a good solution developed somewhere else in the world could be adapted to Şanlıurfa instead of being rewritten from scratch.
 
-Maran's old belief was becoming visible:
+What Maran had been saying for years was slowly becoming visible:
 
-**Humanity does not need to solve the same problem thousands of times.**
+**Humanity did not need to solve the same problem thousands of times.**
 
 ---
 
-But the greatest success of Informatics 5.0 was not the software.
+But the real success of Informatics 5.0 was not software.
 
-It was the change in people.
+It was the change taking place in people.
 
-Employees no longer asked only how to finish the task they had been given.
+Employees were no longer trying merely to complete the task assigned to them.
 
 They asked:
 
-Why are we doing this?
+“Why are we doing this?”
 
-Has it already been done?
+“Has this been done before?”
 
-Who will use it?
+“Who will use it?”
 
-Is there an easier way?
+“Is there an easier way?”
 
-Can somebody else reuse it?
+“Could others use this too?”
 
-What did I learn?
+“What did I learn here?”
 
 And most importantly:
 
-**What was my contribution?**
+**“What was my contribution?”**
 
-The rebellion of personality described by Dostoevsky was transforming into something else.
+The rebellion of personality described by Dostoevsky was being transformed into something else within the system Maran was trying to build.
 
-People did not need to break the system merely to prove that they existed.
+A person no longer needed to break the system merely to make themselves visible.
 
-The system already recognized them as individuals.
+Because the system already recognized that person as an individual.
 
-They could speak.
+They could express their own idea.
 
-Their contribution was recorded.
+Their contribution entered the record.
 
-They could object with reasons.
+They could object, with reasons, to a decision they believed was wrong.
 
-They could propose solutions.
+They could propose a new solution.
 
 They could learn.
 
-They could fail.
+And they could fail.
 
-Freedom was no longer only:
+Freedom was no longer only the feeling:
 
-**“I can do what I want.”**
+**“I can do whatever I want.”**
 
-It became:
+It gained another meaning:
 
-**“I can see myself inside what I helped create.”**
+**“I am present in what I do.”**
 
 ---
 
 Years passed.
 
-Maran explained the same need to academics,
+Maran explained the same idea again and again.
 
-administrators,
+Sometimes to academics.
 
-politicians,
+Sometimes to managers.
 
-and developers.
+Sometimes to politicians.
+
+Sometimes to software developers.
 
 Some listened.
 
@@ -671,17 +729,17 @@ Some said:
 
 Some said:
 
-“We do not need another structure.”
+“We do not need a new structure.”
 
-Some assumed Informatics 5.0 was merely another digital transformation program.
+Others thought Informatics 5.0 was merely another digital-transformation project.
 
-Maran kept saying:
+Each time Maran tried to explain the same thing:
 
-“I am not asking for a technology ministry.
+“I am not asking for a ministry of technology.
 
 I am talking about a structure that coordinates how technology should be used for human beings.”
 
-For years, the need remained difficult for many people to see.
+But for years, the need seemed distant to many people.
 
 ---
 
@@ -691,43 +749,47 @@ Artificial intelligence entered every profession.
 
 Public institutions began using different AI systems.
 
-Data systems expanded.
+Data systems grew.
 
-The same digital projects were repeatedly rebuilt in different institutions.
+The same digital projects were developed again and again in different institutions.
 
-Open source became a public policy issue, not only a developer concern.
+Open source was no longer only a concern for software developers.
 
-The boundary between human and AI responsibility,
+The division of responsibilities between humans and artificial intelligence,
 
-intellectual rights,
+intellectual property,
 
 data security,
 
-the future of work,
+the future of human labor,
 
 algorithmic decisions,
 
 digital public services,
 
-and shared institutional infrastructure
+and shared infrastructure between institutions
 
-became national questions.
+became national issues.
 
-What had once been difficult for Maran to explain was now impossible to ignore.
+A need Maran once struggled to explain
+
+was now in front of everyone.
 
 ---
 
-In the future timeline of the Human-Centered Universe, Türkiye began formal work on a new structure.
+A new initiative began in Türkiye.
 
-Its name was the same model Maran had written years earlier:
+Its name was the same as the model Maran had written into his directive years earlier:
 
-# The Ministry of Informatics and Human-Centered Transformation
+# Ministry of Informatics and Human-Centered Transformation
 
-It was no longer merely an academic proposal inside that future.
+This was no longer merely an academic proposal.
 
-Institutions across the country were discussing how it should be established.
+In the future of Human-Centered Universe,
 
-This time the table contained more than theory.
+different institutions in the country had begun discussing how such a structure could be established.
+
+But this time there were not only theories on the table.
 
 There was Şanlıurfa.
 
@@ -743,83 +805,101 @@ There were contribution records.
 
 There were impact measurements.
 
-There were years of lived experience.
+And there was real experience accumulated over years.
 
 ---
 
-When Maran was invited to take part in the founding work, he looked at the invitation for a long time.
+When Maran was invited to participate in the ministry's establishment work, he stared at the screen for a long time.
 
-Years earlier, people had asked:
+Something he had tried to explain to people years earlier now stood before him as an official working document.
+
+Where people once asked:
 
 “Why would we need such a thing?”
 
-Now the question was:
+they were now asking another question:
 
 **“How should we build it?”**
 
-The difference was not only a few words.
+For Maran, the difference was not merely a few words.
 
-It contained years.
+It was years.
 
-Disappointment.
+Disappointments.
 
-Code.
+The code he had written.
 
-Directives.
+The directives he had prepared.
 
-Failed projects.
+Projects that never happened.
 
-Late-night revisions.
+Failed attempts.
 
-Ideas he had tried and failed to explain.
+Documents he corrected in the middle of the night.
+
+Ideas he had tried and failed to explain to people.
 
 ---
 
-At one of the first founding meetings in Ankara, a large map of Türkiye appeared on the screen.
+At the first establishment meeting in Ankara, a large screen was opened.
 
-Maran looked at it and said:
+A map of Türkiye appeared.
 
-“We must not begin from the wrong place.”
+At the center was the proposed national structure of the ministry.
+
+Maran looked at the screen.
+
+Then he said:
+
+“Let's not begin from the wrong place.”
 
 The room became quiet.
 
-“The ministry may be headquartered in Ankara,” he said.
+“What do you mean?”
 
-“But the system must not begin from Ankara.”
+“The ministry's headquarters can be in Ankara.”
 
-He pointed to Şanlıurfa.
+He paused.
 
-“It must begin here.”
+“But the system should not begin in Ankara.”
 
-“Why Şanlıurfa?” someone asked.
+He pointed to Şanlıurfa on the map.
 
-“Because if people at the center decide which local problems matter without listening to the local reality, we will rebuild the old system.”
-
-He enlarged Şanlıurfa.
-
-“The local level identifies the problem.”
-
-He pointed to other cities.
-
-“The local level tests and solves.”
-
-Then he pointed to Ankara.
-
-“The center standardizes, supports, and helps proven solutions travel.”
-
----
+“It should begin here.”
 
 Someone asked:
 
-“So the ministry will not build every project itself?”
+“Why Şanlıurfa?”
+
+Maran answered:
+
+“If we build a system in which people at the center guess which problems are important, we reproduce the old system.”
+
+He enlarged Şanlıurfa.
+
+“The local level will reveal the problem.”
+
+Then he pointed to other cities.
+
+“The local level will solve it.”
+
+He pointed to Ankara.
+
+“The center will standardize, support, and enable successful solutions to move elsewhere.”
+
+---
+
+An official asked:
+
+“So the ministry will not develop every project itself?”
 
 “No.”
 
-“Every software system will not be developed centrally?”
+“Not all software will be built here?”
 
 “No.”
 
-“Then what will it do?”
+“Then what will the ministry do?”
 
 Maran answered:
 
@@ -827,161 +907,193 @@ Maran answered:
 
 ---
 
-The ministry model was built on four layers:
+Four layers were placed at the foundation of the ministry model:
 
-**Local problem identification and pilots.**
+**Local problem identification and pilot implementation.**
 
-**National standards and reuse.**
+**Shared national standards and reuse.**
 
-**Secure institutional project and code collaboration.**
+**A secure institutional project and code network.**
 
-**Global open-source cooperation.**
+**Global open-source collaboration.**
 
-The center would not replace local judgment.
+The center would not be the structure that did everything.
 
-It would not define every local problem.
+It would not think instead of the local level.
 
-It would not operate every local solution.
+It would not identify problems instead of the local level.
 
-Its job was to ensure that learning from one place did not disappear before another place could use it.
+It would not implement solutions instead of the local level.
 
-Success and failure would both enter a national learning system.
+The center
 
-Human responsibility would remain final in human–AI collaboration.
+would prevent what was learned in one place from disappearing in another.
 
-And attribution would not change.
+Success
 
-A minister would not appear as a contributor merely because of office.
+and failure alike
 
-But if a minister truly removed an obstacle,
+would enter the national learning system.
 
-secured resources,
+In human–AI partnership, final responsibility would remain with people.
 
-or enabled collaboration,
+And the contribution system would not change.
+
+Even a minister would not appear as a contributor to a project merely because of office.
+
+But if that person had truly provided support,
+
+removed an obstacle,
+
+created resources,
+
+or enabled cooperation,
 
 that contribution would also be visible.
 
-Informatics 5.0 did not deny hierarchy.
+Because the principle of Informatics 5.0 was not to ignore titles.
 
-**It demanded accurate attribution.**
+**It was to attribute real contribution to the right person.**
 
 ---
 
-That evening in Ankara, Maran thought again of Dostoevsky.
+That evening, when Maran returned to his hotel room in Ankara, he did not open his computer.
 
-Meaningless labor.
+He sat in front of the window for a long time.
 
-The rebellion of personality.
+Dostoevsky came back to his mind.
 
-The need to find purpose even in darkness.
+The prisoners' anger toward meaningless work.
 
-He finally understood the connection completely.
+Their rebellion to prove their own will.
 
-People do not only want freedom.
+And meaningful effort that could keep a human being standing even in darkness.
 
-**They also need to know that what they do means something.**
+At last, Maran saw the connection in full.
 
-Human-centered transformation was not simply about giving people less work.
+A person did not only want to be free.
 
-Nor was it about giving them more technology.
+**They also wanted to know that what they were doing had meaning.**
 
-It was about rebuilding the bond between the human being and the meaning of work.
+Perhaps this was the essence of human-centered transformation.
+
+It was not giving people less work.
+
+Nor was it giving them more technology.
+
+It was rebuilding the bond of meaning between the human being and the work.
 
 ---
 
 He wrote in his notebook:
 
-**What destroys human effort is not work.  
-It is meaninglessness.**
+**What destroys human labor is not work.**  
+**It is meaninglessness.**
 
-Then:
+Under it, he added a second sentence:
 
-**A person experiences freedom not only by choosing, but by being able to see themselves in the result of their work.**
+**A person feels freedom not only when they can choose, but also when they can see themselves in the result of what they do.**
 
-Then:
+Then a third:
 
-**The information systems of the future must make visible not only code, but human contribution.**
+**That is why the information system of the future must make visible not only code, but human contribution as well.**
 
-And finally:
+He thought for a while.
 
-**The greatest digital inheritance is not finished software. It is an open learning system in which people can build fairly on one another's work.**
+Then added one final sentence:
+
+**The greatest digital legacy we can leave to the future is not finished software, but an open learning system in which people can build fairly upon one another's labor.**
 
 ---
 
-The next morning, Maran began his presentation with only two names:
+The next morning, at the establishment meeting, Maran placed only two names on the first slide:
 
 **Göbekli Tepe**
 
 and
 
-**The Ministry of Informatics and Human-Centered Transformation**
+**Ministry of Informatics and Human-Centered Transformation**
 
 Thousands of years separated them.
 
-But to Maran, they were two points in the same story.
+But for Maran they were two points in the same story.
 
-At one point, people had brought stones together and left traces of a new social order.
+At one, people had placed stones side by side and left traces of a new social order.
 
-At the other, people were trying to bring together code,
+At the other, people were trying to bring code,
 
 data,
 
 artificial intelligence,
 
-and human effort in a new order.
+and human labor
 
-Underneath was one sentence:
+together in a new order.
+
+At the bottom of the slide was a single sentence:
 
 **From the zero point of history to the beginning of the future.**
 
-For years the idea had been Maran's dream.
+Maran looked at the screen.
 
-Now others could finally see the need.
+What he had imagined for years was no longer only his dream.
+
+People had seen the need.
 
 Institutions were discussing it.
 
-A model born in the local reality was becoming a foundation for a national structure.
+A model that began locally was becoming the foundation of a national structure.
 
-The greatest success was not the creation of a ministry.
+And the establishment work had truly begun.
 
-It was that an invisible need had finally become visible.
+For Maran, the most valuable part was not that a ministry was being created.
 
-Institutions could change.
+The real achievement
+
+was that a need invisible for years was now visible to society.
+
+Because institutions could change.
 
 Names could change.
 
-Java could one day be replaced by another language.
+Technologies could change.
 
-Artificial intelligence could evolve into forms nobody could yet imagine.
+Java could be replaced by another language.
 
-But the principles had to remain:
+Artificial intelligence could transform into completely different forms.
+
+But the fundamental principle should not change:
 
 **Technology exists for human beings.**
 
-**Office cannot erase contribution.**
+**Office must not come before contribution.**
 
-**Every real contribution must remain visible.**
+**The labor of everyone who contributes must remain visible.**
 
-**Failure must become learning.**
+**Failure is not hidden; it is transformed into learning.**
 
-**Open knowledge should help humanity solve shared problems faster.**
+**Open knowledge is shared so that humanity can solve shared problems faster.**
 
-**Artificial intelligence must expand human capacity, not replace human responsibility.**
+**Artificial intelligence does not replace the human being; it expands human capacity.**
 
-**And nobody should be given meaningless work merely to enforce obedience.**
+**And no human being is given meaningless work merely to enforce obedience.**
 
-Maran looked once more at Şanlıurfa.
+Maran looked once more at the map of Şanlıurfa.
 
 The zero point of history.
 
-A place once seen as far from the centers of power had become the starting point of a new system.
+A place once seen as far from the center of the world
 
-And perhaps that was what he had been trying to understand all along:
+was now the starting point of a new system.
+
+And perhaps this was what Maran had been trying to understand for years:
 
 **Great transformations do not always begin at the center.**
 
-Sometimes they begin somewhere nobody expects,
+Sometimes,
 
-because one person asks:
+in a place no one expects,
 
-**“How can we make this better for the human being?”**
+they begin simply because one person asks:
+
+**“How can we do this better for human beings?”**
