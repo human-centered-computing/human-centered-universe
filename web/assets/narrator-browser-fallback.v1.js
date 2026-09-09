@@ -19,52 +19,31 @@
     };
   };
 
-  const T = {
-    tr: {
-      title: "🔊 Metin Seslendirme",
-      note: "Profesyonel ses hazır olana kadar tarayıcındaki sesle hikâyeyi dinleyebilirsin. API anahtarı gerekmez.",
-      play: "Tarayıcıyla Seslendir",
-      pause: "Duraklat",
-      resume: "Devam Et",
-      stop: "Durdur",
-      prev: "Önceki",
-      next: "Sonraki",
-      voice: "Ses",
-      speed: "Hız",
-      ready: "Metin seslendirme hazır.",
-      reading: "Okunuyor",
-      paused: "Duraklatıldı.",
-      done: "Bölüm tamamlandı.",
-      unsupported: "Bu tarayıcı metin seslendirmeyi desteklemiyor.",
-      empty: "Seslendirilecek hikâye metni bulunamadı.",
-      part: "Paragraf",
-      defaultVoice: "Varsayılan ses",
-      error: "Metin seslendirme başlatılamadı."
-    },
-    en: {
-      title: "🔊 Text to Speech",
-      note: "Listen with a browser voice while professional narration is being prepared. No API key required.",
-      play: "Read with Browser",
-      pause: "Pause",
-      resume: "Resume",
-      stop: "Stop",
-      prev: "Previous",
-      next: "Next",
-      voice: "Voice",
-      speed: "Speed",
-      ready: "Text to speech is ready.",
-      reading: "Reading",
-      paused: "Paused.",
-      done: "Chapter complete.",
-      unsupported: "This browser does not support text to speech.",
-      empty: "No story text was found to read.",
-      part: "Paragraph",
-      defaultVoice: "Default voice",
-      error: "Text to speech could not start."
-    }
+  const text = lang => {
+    const tr = (key, fallback) => window.HCUI18n?.t?.(key, fallback) || fallback;
+    return {
+      title: tr("browser_tts_title", "🔊 Text to Speech"),
+      note: tr("browser_tts_note", "Listen with a browser voice while professional narration is being prepared. No API key required."),
+      play: tr("browser_tts_play", "Read with Browser"),
+      pause: tr("browser_tts_pause", "Pause"),
+      resume: tr("browser_tts_resume", "Resume"),
+      stop: tr("browser_tts_stop", "Stop"),
+      prev: tr("browser_tts_prev", "Previous"),
+      next: tr("browser_tts_next", "Next"),
+      voice: tr("browser_tts_voice", "Voice"),
+      speed: tr("browser_tts_speed", "Speed"),
+      ready: tr("browser_tts_ready", "Text to speech is ready."),
+      reading: tr("browser_tts_reading", "Reading"),
+      paused: tr("browser_tts_paused", "Paused."),
+      done: tr("browser_tts_done", "Chapter complete."),
+      unsupported: tr("browser_tts_unsupported", "This browser does not support text to speech."),
+      empty: tr("browser_tts_empty", "No story text was found to read."),
+      part: tr("browser_tts_part", "Paragraph"),
+      defaultVoice: tr("browser_tts_default_voice", "Default voice"),
+      error: tr("browser_tts_error", "Text to speech could not start.")
+    };
   };
 
-  const text = lang => T[lang] || T.en;
   const stateKey = c => `hcu.browserTts.index.${c.lang}.${c.story}`;
   const voiceKey = lang => `hcu.browserTts.voice.${lang}`;
   const rateKey = "hcu.browserTts.rate";
