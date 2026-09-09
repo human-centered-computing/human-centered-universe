@@ -25,6 +25,36 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "links": [
@@ -59,6 +89,46 @@
         "DRK-0001": "Boşlukları, eksik düğümü ve süreksizlikleri Karanlık'ı yankılar.",
         "COM-0001": "Merkezi rotaya göre değişir; egemen değil ilişkisel bir merkezi yankılar."
       }
+    },
+    "de": {
+      "title": "Das Steinnetz: Wo die Steine antworten",
+      "summary": "Eine reproduzierbare Drohnenmission bei schwachem Licht wird mit Tapetum Sentinel analysiert. Die evidenzgestützte lokale Frage-Antwort-Schicht führt das Team von Auffälligkeiten in Luftbildern zu Untergrundscans, einer verteilten siebenteiligen Steintopologie und einem mathematisch fehlenden Knoten, ohne einen antiken Computer oder physikalische Quantenverschränkung zu behaupten."
+    },
+    "es": {
+      "title": "La Red de Piedra: Donde las piedras responden",
+      "summary": "Una misión reproducible de dron con poca luz se analiza mediante Tapetum Sentinel. Su capa local de preguntas y respuestas basada en evidencia guía al equipo desde anomalías aéreas hasta escaneos subterráneos, una topología de piedra distribuida en siete partes y un nodo matemáticamente ausente, sin afirmar que exista un ordenador antiguo ni entrelazamiento cuántico físico."
+    },
+    "fr": {
+      "title": "Le Réseau de Pierre : Là où les pierres répondent",
+      "summary": "Une mission de drone reproductible en basse lumière est analysée avec Tapetum Sentinel. Sa couche locale de questions-réponses fondée sur les preuves conduit l'équipe des anomalies aériennes aux scans souterrains, à une topologie de pierre distribuée en sept parties et à un nœud mathématiquement manquant, sans affirmer l'existence d'un ordinateur antique ni d'une intrication quantique physique."
+    },
+    "it": {
+      "title": "La Rete di Pietra: Dove le pietre rispondono",
+      "summary": "Una missione di droni ripetibile in scarsa illuminazione viene analizzata con Tapetum Sentinel. Il livello locale di domande e risposte basato sulle prove guida il gruppo dalle anomalie aeree alle scansioni del sottosuolo, a una topologia di pietra distribuita in sette parti e a un nodo matematicamente mancante, senza sostenere l'esistenza di un computer antico o di entanglement quantistico fisico."
+    },
+    "ru": {
+      "title": "Каменная сеть: Там, где камни отвечают",
+      "summary": "Повторяемая миссия дрона при слабом освещении анализируется с помощью Tapetum Sentinel. Локальный слой вопросов и ответов, основанный на доказательствах, ведет команду от аномалий на аэрофотоснимках к подземным сканам, распределенной семичастной каменной топологии и математически отсутствующему узлу, не утверждая существование древнего компьютера или физической квантовой запутанности."
+    },
+    "zh-CN": {
+      "title": "石之网络：石头回答的地方",
+      "summary": "一次可重复的低照度无人机任务通过 Tapetum Sentinel 进行分析。其基于证据的本地问答层引导团队从空中影像异常走向地下扫描、七部分分布式石质拓扑以及一个数学意义上的缺失节点，同时不宣称存在古代计算机或物理量子纠缠。"
+    },
+    "ja": {
+      "title": "石のネットワーク：石が答える場所",
+      "summary": "再現可能な低照度ドローン調査を Tapetum Sentinel で分析し、証拠に基づくローカル質問応答層が、空撮上の異常から地下スキャン、七つに分かれた分散型の石のトポロジー、そして数学的に欠けたノードへチームを導く。ただし古代コンピューターや物理的量子もつれを主張しない。"
+    },
+    "ar": {
+      "title": "شبكة الحجارة: حيث تجيب الحجارة",
+      "summary": "تُحلل مهمة طائرة مسيّرة قابلة للتكرار في الإضاءة المنخفضة عبر Tapetum Sentinel. وتقود طبقة السؤال والجواب المحلية المستندة إلى الأدلة الفريق من الشذوذات الجوية إلى مسوحات تحت الأرض، وطوبولوجيا حجرية موزعة من سبعة أجزاء، وعقدة مفقودة رياضيًا، من دون الادعاء بوجود حاسوب قديم أو تشابك كمي فيزيائي."
+    },
+    "ku": {
+      "title": "Tora Keviran: Cihê ku Kevir Bersiv Didin",
+      "summary": "Mîsyona dronê ya dubarekirî di ronahiya kêm de bi Tapetum Sentinel tê analîzkirin. Qata herêmî ya pirs û bersivê ya li ser delîlan, tîm ji anomaliyên wêneyên hewayî ber bi skanên binerdî, topolojiya kevirî ya belavbûyî ya heft beşî û girêkek matematîkî ya winda ve dibe; bê ku kompîturek kevnar an dolaniya kuantûmî ya fizîkî îdia bike."
+    },
+    "pt": {
+      "title": "A Rede de Pedra: Onde as pedras respondem",
+      "summary": "Uma missão de drone repetível em baixa iluminação é analisada com Tapetum Sentinel. Sua camada local de perguntas e respostas baseada em evidências conduz a equipe de anomalias aéreas a varreduras subterrâneas, uma topologia de pedra distribuída em sete partes e um nó matematicamente ausente, sem afirmar a existência de um computador antigo nem de entrelaçamento quântico físico."
     }
   }
 }
