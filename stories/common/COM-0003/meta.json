@@ -22,6 +22,36 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
@@ -57,6 +87,46 @@
         "BRG-0006": "Ağın örüntüleri dört insan adında birleşir: Maran, Luka, Ayo ve Rojin.",
         "COM-0004": "Dağıtık doğrulama mimarisi Açık Ağın Mimarları'nın öncülü olur."
       }
+    },
+    "de": {
+      "title": "Diejenigen, die den Ruf hörten",
+      "summary": "Hunderte Menschen, die dem Ruf begegnen, bilden ein datenschutzorientiertes, verteiltes Forschungsnetzwerk, das Beobachtung, Schlussfolgerung und Erzählung trennt und die Zentralisierung sensibler menschlicher Daten ablehnt."
+    },
+    "es": {
+      "title": "Quienes oyeron la llamada",
+      "summary": "Cientos de personas que encuentran la llamada forman una red de investigación distribuida y orientada a la privacidad que separa observación, inferencia y narración, y rechaza centralizar datos humanos sensibles."
+    },
+    "fr": {
+      "title": "Ceux qui ont entendu l'appel",
+      "summary": "Des centaines de personnes ayant rencontré l'appel forment un réseau de recherche distribué et respectueux de la vie privée, qui sépare observation, inférence et récit tout en refusant de centraliser des données humaines sensibles."
+    },
+    "it": {
+      "title": "Coloro che udirono la chiamata",
+      "summary": "Centinaia di persone che incontrano la chiamata formano una rete di ricerca distribuita e attenta alla privacy, che separa osservazione, inferenza e narrazione e rifiuta di centralizzare dati umani sensibili."
+    },
+    "ru": {
+      "title": "Те, кто услышал зов",
+      "summary": "Сотни людей, столкнувшихся с зовом, создают распределенную исследовательскую сеть, ориентированную на приватность, которая разделяет наблюдение, вывод и повествование и отказывается централизовать уязвимые человеческие данные."
+    },
+    "zh-CN": {
+      "title": "听见召唤的人",
+      "summary": "数百名听见召唤的人建立了一个以隐私为核心的分布式研究网络，严格区分观察、推断和叙事，并拒绝把敏感的人类数据集中存放。"
+    },
+    "ja": {
+      "title": "呼び声を聞いた者たち",
+      "summary": "呼び声に出会った数百人が、観察・推論・物語を分離し、脆弱な個人データの中央集約を拒む、プライバシー重視の分散型研究ネットワークを形成する。"
+    },
+    "ar": {
+      "title": "الذين سمعوا النداء",
+      "summary": "يشكّل مئات الأشخاص الذين واجهوا النداء شبكة بحث موزعة تحمي الخصوصية، تفصل بين الملاحظة والاستنتاج والسرد، وترفض مركزة البيانات الإنسانية الحساسة."
+    },
+    "ku": {
+      "title": "Yên ku Bang Bihîstin",
+      "summary": "Sedên kesên ku bi bangê re rû bi rû dibin tora lêkolînê ya belavbûyî û taybetmendiyê-parêz ava dikin; tor dîtin, derxistin û vegotinê ji hev cuda dike û navendîkirina daneyên nazik ên mirovan red dike."
+    },
+    "pt": {
+      "title": "Aqueles que ouviram o chamado",
+      "summary": "Centenas de pessoas que encontram o chamado formam uma rede de pesquisa distribuída e orientada à privacidade, que separa observação, inferência e narrativa e rejeita a centralização de dados humanos sensíveis."
     }
   }
 }
