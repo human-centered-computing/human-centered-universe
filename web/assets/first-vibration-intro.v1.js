@@ -57,13 +57,13 @@
     if (!shouldOpen()) return;
     const lang = language();
     const copy = lang === "tr" ? {
-      place: "Girê Miraza ve Xerawreşk (Göbekli Tepe)", title: "İlk Titreşim", prompt: "İlk yankını seç",
+      place: "Miraza - Xerawreşk (Göbekli Tepe)", title: "İlk Titreşim", prompt: "İlk yankını seç",
       note: "Aydınlık ve Karanlık iyi ile kötü değildir. İnsan, düzen ve olasılık arasındaki ilk yönelimini seçiyorsun.",
-      skip: "Girişi geç", scene: "Girê Miraza ve Xerawreşk'te İlk Titreşim etkileşimli giriş sahnesi"
+      skip: "Girişi geç", scene: "Miraza - Xerawreşk'te İlk Titreşim etkileşimli giriş sahnesi"
     } : {
-      place: "Girê Miraza and Xerawreşk (Göbekli Tepe)", title: "First Vibration", prompt: "Choose your first echo",
+      place: "Miraza - Xerawreşk (Göbekli Tepe)", title: "First Vibration", prompt: "Choose your first echo",
       note: "Light and Dark are not good and evil. You are choosing your first orientation among humanity, order, and possibility.",
-      skip: "Skip intro", scene: "Interactive First Vibration opening at Girê Miraza and Xerawreşk"
+      skip: "Skip intro", scene: "Interactive First Vibration opening at Miraza - Xerawreşk"
     };
 
     const intro = document.createElement("section");
