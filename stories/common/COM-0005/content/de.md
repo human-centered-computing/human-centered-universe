@@ -1096,6 +1096,18 @@ Maran schrieb den letzten Satz ins System:
 
 Darunter:
 
+**TECHNOLOGIE DARF DEN MENSCHEN NICHT EINFACH BENUTZEN; SIE MUSS IN EINE BEZIEHUNG MIT IHM TRETEN.**
+
+Luka:
+
+„Kann Technologie wirklich eine Beziehung eingehen?“
+
+Maran hielt inne.
+
+Er löschte den Satz.
+
+Dann schrieb er vorsichtiger:
+
 **JEDES SYSTEM, DAS MACHT ÜBER MENSCHEN AUSÜBT, MUSS MENSCHLICHE WÜRDE, HANDLUNGSFÄHIGKEIT UND DAS RECHT AUF WIDERSPRUCH BERÜCKSICHTIGEN.**
 
 Luka:
