@@ -836,7 +836,7 @@ Luz: **+10**
 
 Oscuridad: **+2**
 
-### Leerías todas las huellas en conjunto.
+### Leeríamos todas las huellas en conjunto.
 
 Evaluaría los hallazgos materiales, nombres de lugar, cambios lingüísticos, agua, caminos y conductas vivas como capas separadas de evidencia capaces de confirmarse o refutarse entre sí.
 
