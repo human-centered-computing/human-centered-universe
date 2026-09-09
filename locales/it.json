@@ -52,5 +52,14 @@
   "story_builder_description": "Inserisci un’idea, scegli la lingua della storia, sviluppala attraverso HUMAN/LIGHT/DARK, genera il racconto letterario, classificalo con 30 criteri ed esporta file pronti per GitHub.",
   "git_narrative_description": "Git fa parte dell’architettura narrativa: un commit crea realtà; una connessione trasforma il significato.",
   "language_policy_description": "L’inglese è la lingua canonica, universale e predefinita. Il turco è la fonte di lavoro editoriale usata per rigenerare l’inglese e le altre traduzioni quando il testo turco è più aggiornato.",
-  "triangle_state_space": "Spazio di stato triangolare HCU"
+  "triangle_state_space": "Spazio di stato triangolare HCU",
+  "settings": "Impostazioni",
+  "settings_intro": "Gestisci i progressi di lettura e il tuo percorso da Osservatore su questo dispositivo.",
+  "reading_progress": "Progresso di lettura",
+  "restart_story_description": "Contrassegna la storia corrente come non letta e torna all’inizio. Le scelte e i punteggi dell’Osservatore vengono mantenuti.",
+  "restart_current_story": "Riavvia storia corrente",
+  "journey_data": "Dati del percorso",
+  "reset_journey_description": "Cancella su questo dispositivo la cronologia di lettura, le scelte, i punteggi HUMAN/LIGHT/DARK, il Percorso Quantistico e il record introduttivo della Prima Vibrazione.",
+  "reset_entire_journey": "Reimposta l’intero percorso",
+  "reset_journey_warning": "Reimpostare l’intero percorso? I progressi di lettura, le scelte e lo Stato dell’Osservatore verranno cancellati definitivamente da questo dispositivo."
 }
