@@ -1,0 +1,67 @@
+name: Generate Story Translations
+
+on:
+  workflow_dispatch:
+    inputs:
+      languages:
+        description: "Comma-separated language codes, e.g. de,es,fr,ru,zh-CN,ja,ar,ku,pt,it"
+        required: false
+        default: "de,es,fr,it,ru,zh-CN,ja,ar,ku,pt"
+      force:
+        description: "Overwrite existing translation files"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate machine-draft translations
+        env:
+          TRANSLATION_API_KEY: ${{ secrets.TRANSLATION_API_KEY }}
+          TRANSLATION_API_BASE: ${{ vars.TRANSLATION_API_BASE }}
+          TRANSLATION_MODEL: ${{ vars.TRANSLATION_MODEL }}
+        run: |
+          FORCE=""
+          if [ "${{ inputs.force }}" = "true" ]; then FORCE="--force"; fi
+          python scripts/generate_story_translations.py --langs "${{ inputs.languages }}" $FORCE
+
+      - name: Validate universe
+        run: python scripts/validate_universe.py
+
+      - name: Translation coverage
+        run: python scripts/check_translation_coverage.py
+
+      - name: Create translation pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet; then
+            echo "No translation changes."
+            exit 0
+          fi
+          BRANCH="translations/machine-draft-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add stories translation-coverage.json
+          git commit -m "Add multilingual machine-draft story translations"
+          git push origin "$BRANCH"
+          gh pr create \
+            --base main \
+            --head "$BRANCH" \
+            --title "Add multilingual machine-draft story translations" \
+            --body "Automated machine-draft translations. Human review is required before changing translation status to reviewed."
