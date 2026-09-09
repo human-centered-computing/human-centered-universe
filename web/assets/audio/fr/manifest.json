@@ -1,0 +1,19 @@
+{
+  "version": 6,
+  "language": "fr",
+  "locale": "fr_FR",
+  "label": "Français",
+  "storage": "github-pages-local",
+  "voice": "fr_FR-siwis-medium",
+  "chapters": [
+    {
+      "id": "BRG-0001",
+      "title": "The Stone Network: Where the Stones Answer",
+      "file": "./BRG-0001.mp3",
+      "duration_seconds": 664.294,
+      "bytes": 7971885,
+      "engine": "Piper",
+      "voice": "fr_FR-siwis-medium"
+    }
+  ]
+}
