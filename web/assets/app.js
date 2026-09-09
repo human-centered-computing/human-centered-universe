@@ -265,7 +265,24 @@ function renderCreate(){
     <article class="create-card"><h2>${t("contribution_guide","Contribution guide")}</h2><p>${t("language_policy_description","English is the canonical source; any language can be a source or translation layer under the same story ID.")}</p><div class="create-actions"><a class="action-button primary" href="${repo}/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">${t("contribution_guide")}</a><a class="action-button" href="${repo}/issues" target="_blank" rel="noopener">${t("issues","Issues")}</a></div></article>
   </div></section>`;
 }
-function render(){ if(!state.data)return; updateStaticUi(); if(state.mode==="explore")renderExplore(); else if(state.mode==="create")renderCreate(); else renderRead(); setUrl(); }
+function renderSettings(){
+  app.innerHTML=`<section class="settings-page"><div class="explore-head"><div><h1>${t("settings","Settings")}</h1><p>${t("settings_intro","Manage reading progress and your Observer journey on this device.")}</p></div></div>
+    <div class="settings-grid">
+      <article class="create-card"><h2>${t("reading_progress","Reading Progress")}</h2><p>${t("restart_story_description","Mark the current story as unread and return to its beginning. Observer choices and scores are preserved.")}</p><button type="button" class="action-button" id="restart-current-story">${t("restart_current_story","Restart Current Story")}</button></article>
+      <article class="create-card danger-card"><h2>${t("journey_data","Journey Data")}</h2><p>${t("reset_journey_description","Clear reading history, choices, HUMAN/LIGHT/DARK scores, Quantum Path, and the First Vibration intro record on this device.")}</p><button type="button" class="action-button danger-button" id="reset-entire-journey">${t("reset_entire_journey","Reset Entire Journey")}</button></article>
+    </div></section>`;
+  document.getElementById("restart-current-story")?.addEventListener("click",()=>{
+    state.readIds.delete(state.storyId); saveObserver(); state.mode="read";
+    modeButtons.forEach(b=>b.classList.toggle("active",b.dataset.mode==="read")); setUrl(); render(); window.scrollTo({top:0,behavior:"smooth"});
+  });
+  document.getElementById("reset-entire-journey")?.addEventListener("click",()=>{
+    const warning=t("reset_journey_warning","Reset your entire journey? Reading progress, choices, and Observer State will be permanently cleared on this device.");
+    if(!window.confirm(warning)) return;
+    ["hcu.readIds","hcu.observerRaw","hcu.choiceLog","hcu.quantumPath","hcu.lastStory","hcu.firstVibrationIntro.v1"].forEach(key=>localStorage.removeItem(key));
+    const url=new URL(location.href); url.searchParams.set("mode","read"); url.searchParams.set("story",state.data.origin_node||"BRG-0002"); url.searchParams.set("intro","1"); url.searchParams.set("lang",state.locale); location.replace(url);
+  });
+}
+function render(){ if(!state.data)return; updateStaticUi(); if(state.mode==="explore")renderExplore(); else if(state.mode==="create")renderCreate(); else if(state.mode==="settings")renderSettings(); else renderRead(); setUrl(); }
 
 function displayLanguageName(code){
   try { return new Intl.DisplayNames(["en"],{type:"language"}).of(code) || code; } catch { return code; }
@@ -279,7 +296,7 @@ async function boot(){
   languageSelect.value=state.locale; languageSelect.addEventListener("change",()=>{ state.locale=languageSelect.value; localStorage.setItem("hcu.lang",state.locale); render(); });
   const requestedStory=params.get("story"); const last=localStorage.getItem("hcu.lastStory");
   state.storyId=storyById(requestedStory)?.id || storyById(last)?.id || state.data.origin_node;
-  const requestedMode=params.get("mode"); state.mode=["read","explore","create"].includes(requestedMode)?requestedMode:"read";
+  const requestedMode=params.get("mode"); state.mode=["read","explore","create","settings"].includes(requestedMode)?requestedMode:"read";
   modeButtons.forEach(button=>{ button.classList.toggle("active",button.dataset.mode===state.mode); button.addEventListener("click",()=>setMode(button.dataset.mode)); });
   recordPath(state.storyId); render();
 }
