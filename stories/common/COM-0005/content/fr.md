@@ -1096,6 +1096,18 @@ Maran écrivit la dernière phrase dans le système :
 
 En dessous :
 
+**LA TECHNOLOGIE NE DOIT PAS SIMPLEMENT UTILISER L’HUMAIN ; ELLE DOIT ENTRER EN RELATION AVEC LUI.**
+
+Luka :
+
+« La technologie peut-elle réellement entrer en relation ? »
+
+Maran s’arrêta.
+
+Il effaça la phrase.
+
+Puis il écrivit plus prudemment :
+
 **TOUT SYSTÈME QUI EXERCE DU POUVOIR SUR LES HUMAINS DOIT TENIR COMPTE DE LEUR DIGNITÉ, DE LEUR CAPACITÉ D’AGIR ET DE LEUR DROIT À CONTESTER.**
 
 Luka :
