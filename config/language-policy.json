@@ -1,0 +1,23 @@
+{
+  "canonical_language": "tr",
+  "default_language": "tr",
+  "fallback_language": "tr",
+  "interface_fallback_language": "en",
+  "supported_languages": [
+    "tr",
+    "en",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "zh-CN",
+    "ja",
+    "ar",
+    "ku",
+    "pt"
+  ],
+  "rtl_languages": ["ar"],
+  "translation_source": "content/tr.md",
+  "translation_status_for_ai_drafts": "machine_draft"
+}
