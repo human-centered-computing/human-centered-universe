@@ -2,162 +2,199 @@
 
 ## One Field Was Never Enough
 
-At university, Maran believed that the future would not be made only of more powerful computers.
+At university, Maran believed the future would not consist only of more powerful computers.
 
-He believed artificial intelligence would enter human life not as one giant machine, but as many specialized systems working beside people: a medical expert beside a doctor, a legal expert beside a lawyer, an educational expert beside a teacher, and a technical expert beside an engineer.
+He thought artificial intelligence would enter human life not as one great machine, but as many artificial systems working in different fields and solving different problems: a medical specialist beside the doctor, a legal specialist beside the lawyer, an education specialist beside the teacher, a technical specialist beside the engineer.
 
-Maran kept asking:
+The question in Maran's mind was:
 
-**If machines become increasingly specialized, what will remain the human role?**
+**If machines become increasingly specialized across more and more fields, what will the human role be?**
 
-That question shaped his own education.
+This question changed his own educational path as well. He did not want to go deep into a single field and close the doors to all others. He wanted to broaden himself enough to connect different fields, then go deep into the problem he truly wanted to solve.
 
-He did not want to disappear into a single specialization. He wanted to move horizontally across fields while going vertically into the problem that truly mattered.
+In his mind, this approach took shape as:
 
-He called this:
-
-**moving from horizontal expertise toward vertical expertise.**
+**moving from horizontal expertise toward vertical expertise**
 
 ---
 
 ## Understanding Machines
 
-Computer engineering became his first major laboratory.
+Computer engineering was his first great laboratory.
 
 He learned programming, algorithms, operating systems, data structures, computer architecture, databases, and networks.
 
-The deepest change, however, was not in the names of the courses. It was in the way he thought.
+But the real transformation did not happen in the names of the courses. It happened in the way he thought.
 
-Mathematics stopped being something used only for exams.
+For the first time, he began to see clearly why the mathematics he had learned since childhood was necessary in the real world.
 
-A formula could process an image, estimate network capacity, explain algorithmic complexity, reveal why a system failed, or model the behavior of a machine.
+A formula was no longer only a question to solve on an exam. It could make image processing possible, calculate the capacity of a network, explain how fast an algorithm would run, show why a system had crashed, and predict the behavior of a machine.
 
-For Maran, mathematics became:
+Maran's relationship with mathematics changed.
 
-**a language for expressing parts of reality.**
+For him, mathematics was no longer simply the world of numbers.
 
-One of the hardest courses was computer networks.
+**It was a way of expressing some parts of reality in another language.**
 
-Packets could be delayed. Links could become congested. Queues could grow. Failures could emerge. The same real system could not always be understood through certainty alone.
+One of the courses that challenged him most at university was computer networks.
 
-The difficulty of networks pushed him deeper into probability.
+At first he thought it was only a technical course explaining how computers connected to one another. But as he went deeper, another world appeared.
 
-He began to see not only computer networks but life itself through probability.
+It was not certain when packets would arrive. Connections could become congested, delays could change, errors could occur, packets could be lost, queues could grow, and traffic could jam in unexpected ways.
 
-An event not occurring did not mean it was impossible.
+Here Maran realized the true importance of probability.
 
-An event occurring did not mean it was inevitable.
+The difficulty of the networks course forced him to go deeper into probability.
 
-People chose.
+And over time, he began to look not only at computer networks but also
+
+**at life through probability.**
+
+The fact that an event did not happen did not mean it was impossible. The fact that an event happened did not mean it was inevitable.
+
+People made decisions.
 
 Conditions changed.
 
-Small probabilities could transform an entire system.
+Small probabilities could sometimes change an entire system.
 
-Life ceased to look like a single predetermined line.
+Different futures could emerge from the same starting point.
+
+In Maran's mind, life stopped being a single correct line.
 
 It became a field of possibilities.
 
-When he interpreted uncertainty in artificial intelligence and required every answer of the Rîh Bridge to display uncertainty, he still carried the trace of that networks course.
+When he thought about quantum ideas, interpreted uncertainty in artificial intelligence, and placed an uncertainty value beside every answer the Rîh Bridge produced, he still carried the trace of that networks course.
 
 ---
 
 ## Machines Were Not Enough
 
-Computer engineering taught Maran how machines worked, but it also showed him that technically correct software could still fail because institutions, management, incentives, and people mattered.
+When he completed computer engineering, he had begun to understand machines.
 
-He added business to his engineering background to understand organizations, management, strategy, decision-making, economics, and human resources.
+But he also saw that machines did nothing by themselves.
+
+A software project could be technically perfect and still fail because it was badly managed. The right technology could be chosen while human resources were used badly. A system could be built, but if the institution did not adopt it, it could become useless.
+
+Maran turned toward another question:
+
+**How are people and institutions managed?**
+
+So he added business to computer engineering.
+
+He began to understand organizations, management, economics, decision processes, human resources, strategy, and how institutions worked.
 
 Computer engineering had taught him to ask:
 
-**How does the system work?**
+**“How does the system work?”**
 
 Business added another question:
 
-**Who operates this system, why, and for what purpose?**
+**“Who operates this system, why, and for what purpose?”**
 
 ---
 
 ## A Wider View of Informatics
 
-Maran completed graduate study in **Computer Animation and Game Technologies** at an informatics institute.
+Maran did not want to see himself only within the boundary of software engineering.
 
-Computers were no longer merely calculating machines.
+He wanted to understand other areas where informatics intersected with human experience.
 
-They generated images, motion, virtual worlds, interaction, attention, perception, and experience.
+For this reason, he completed graduate study in **Computer Animation and Game Technologies** at an informatics institute.
 
-He developed a broader informatics identity alongside his engineering identity.
+Here, the computer was no longer merely a calculating machine. It generated images, produced movement, built virtual worlds, interacted with humans, and could affect a user's attention, perception, decisions, and experience.
 
-At the same time, he remained active in software projects: analyzing systems, coding, designing architectures, and managing projects.
+Through these studies, Maran gained the expertise to look at informatics from a broader perspective.
+
+He was no longer only a computer engineer.
+
+He had also developed an identity as an **informatics specialist** capable of evaluating different technologies and human-machine interaction together.
+
+At the same time, he remained actively involved in software projects.
+
+He analyzed systems, wrote code, designed architectures, and managed projects.
 
 He told himself:
 
-**“I understand machines well enough.”**
+**“I understand machines well enough now.”**
 
-Beside that thought appeared the harder question:
+Beside this appeared a harder question:
 
-**“How well do I understand the human being?”**
+**“But how well do I understand the human being?”**
 
 ---
 
 ## Understanding the Human
 
-Maran turned toward education.
+Maran's interest increasingly shifted toward human thought.
 
-How does a person learn?
+How did a person learn?
 
-How does a child construct meaning?
+How did a child make sense of the world?
 
-What does it mean to measure learning?
+How did knowledge become lasting?
 
-How much can teaching shape the way a person thinks?
+How much could a teacher change the way a person thought?
 
-And if artificial intelligence becomes part of education,
+And when artificial intelligence became part of the educational process,
 
 **how much influence should it have over the formation of human thought?**
 
-Because his background was outside education, he completed undergraduate-level scientific preparation in the field.
+These questions led Maran into education.
 
-From a distance, education could look simple:
+He decided to pursue graduate study in education.
 
-“Students learn.”
+But because he came from another discipline, he went through a scientific preparation process that included undergraduate-level courses in education.
 
-“Teachers teach.”
+At first, the education courses seemed easy to him.
+
+Then he began to go deeper.
+
+When he looked at a concept superficially, it really was easy:
+
+“The student learns.”
+
+“The teacher teaches.”
 
 “Motivation matters.”
 
-“Assessment measures.”
+“Assessment is carried out.”
 
-But deeper questions changed the field:
+But when the questions deepened, the field suddenly became difficult.
 
 **What is learning?**
 
-Are we measuring understanding, memory, performance, or adaptation to an exam?
+How do we know that a person has truly learned?
 
-Does low achievement come from the learner, the teacher, the family, the system, or socioeconomic conditions?
+Are we measuring knowledge, memory, performance, or the ability to adapt to an exam?
 
-Why does the same instruction lead to different outcomes for different people?
+Does a student's low achievement come from the student, the teacher, the family, the system, or socioeconomic conditions?
 
-Maran recognized probability again.
+Why does the same education produce different outcomes in two people?
 
-The human being carried far more variables than a machine.
+Maran felt as if he had returned to the field of probability again.
 
-He learned something important:
+The human being carried far more variables than the machine.
 
-**A field becomes simple from far away.  
-It becomes complex when you enter its depth.**
+This experience taught him something important:
 
-Through scientific preparation, he completed graduate-level work in learning theories, instructional design, educational technologies, research methods, assessment, and human learning.
+**A field becomes simple when viewed from a distance. The deeper you go, the more complex it becomes.**
 
-Machines had taught him one form of complexity.
+Along with the scientific preparation process, he completed his graduate courses in education.
 
-Education taught him another.
+He studied learning theories, instructional design, educational technologies, research methods, measurement and evaluation, and human learning processes.
+
+He had learned to understand machines.
+
+He had tried to understand institutions.
+
+Now he was trying to understand how human thought was shaped.
 
 ---
 
 ## From Horizontal to Vertical
 
-Maran looked at the pieces of his education:
+When Maran looked at his educational history, he saw all the pieces at once:
 
 Computer engineering.
 
@@ -183,109 +220,105 @@ Education.
 
 Human learning.
 
-They were not disconnected degrees.
+At first glance they looked like disconnected fields.
 
-They were his **horizontal expertise**.
+But these were his **horizontal areas of expertise.**
 
-But horizontal expansion could not continue forever.
+Each showed him a different part of reality.
 
-The knowledge had to converge on one problem.
+Horizontal expansion, however, could not continue forever.
 
-Maran returned to computer engineering at the graduate level.
+All this knowledge had to converge on a problem.
 
-This time he did not judge an AI system only by accuracy.
+Maran returned to computer engineering.
 
-He also asked:
+This time at graduate level.
 
-Why did it produce this result?
+He no longer evaluated an algorithm only by its accuracy rate.
 
-Can a human understand the result?
+Alongside how accurately an AI system worked, he now considered why it produced a result, whether a human could understand that result, which data influenced it, when it could be wrong, who was responsible for its decisions, and how well it preserved the human right to decide.
 
-Which data influenced it?
-
-Where can it fail?
-
-Who remains responsible?
-
-Does the system protect the human right to decide?
-
-His horizontal expertise began to converge vertically into:
+He began to bring his horizontally accumulated expertise together in a vertical research field:
 
 # Human-Centered and Explainable Artificial Intelligence
 
-For Maran, the great problem of AI was not only whether machines would become more intelligent.
+For Maran, the fundamental future problem of artificial intelligence was not simply becoming smarter.
 
-It was:
+The real problem was:
 
-**How will human beings live with systems that can calculate beyond them?**
+**How will human beings live with a system that performs calculations more complex than their own?**
 
-If an AI says, “Do this,” can the human understand why?
+When an AI said, “Do this,” would the human understand why?
 
-If the system is wrong, who will notice?
+When the system was wrong, who would notice?
 
-If a model produces the highest-probability answer, does that make it right?
+When an algorithm produced a high-probability answer, should that answer be accepted as correct?
 
-If a human future is predicted from past behavior, does the human become a prisoner of the past?
+When a person's past behavior was used to predict what they would do in the future, would that person become a prisoner of their past?
 
-Probability returned once again.
+The probabilistic thinking Maran had learned in his networks course appeared before him again.
 
-**The most probable answer is not necessarily the right answer.**
+**The highest-probability answer is not necessarily the correct answer.**
 
-A human being can change their mind.
+A human being could change their mind.
 
-Learn.
+Could learn.
 
-Regret.
+Could be wrong.
 
-Act against prediction.
+Could regret.
 
-Perhaps one of the most human capacities is:
+Could do something no one expected.
 
-**choosing a future that past data could not predict.**
+Perhaps one of the most important qualities of being human was precisely this:
+
+**being able to choose a future that past data could not predict.**
 
 ---
 
 ## The Birth of a New Profession
 
-Maran expanded these questions through doctoral research in Europe.
+Maran expanded his work through doctoral research in Europe.
 
-Technology, education, management, ethics, human behavior, institutions, and artificial intelligence became parts of one larger problem.
+Technology, education, management, ethics, human behavior, institutional structures, and artificial intelligence were all parts of the same research question.
 
-A transformation architect could not be only an engineer.
+Improving a system technically was not enough.
 
-Nor only an educator.
+The system transformed the human being as well.
 
-Nor only a manager, lawyer, or AI specialist.
+For this reason, the architect of transformation could not be only an engineer, only an educator, only a manager, only a lawyer, or only an AI specialist.
 
-A new type of professional was needed: someone who could work with domain experts, understand technology, keep the human at the center, use AI where appropriate, measure outcomes, recognize ethical boundaries, and redesign real systems.
+A new kind of expertise was needed: one that could work with domain experts, understand technology, place the human being at the center, use artificial intelligence in the right place, measure outcomes, recognize ethical boundaries, and transform systems in real life.
 
-Maran called this profession:
+Maran gave it a name:
 
 # Human-Centered Transformation Architect
 
-He adopted the name for himself as well.
+The name appeared in his research notes, became a common definition for his projects, and Maran began to define himself through this new profession.
 
-He had not abandoned engineering, education, informatics, business, or AI.
+He had not abandoned computer engineering, educational expertise, informatics knowledge, business perspective, or artificial intelligence research.
 
-He had connected them under one purpose:
+He had united them under one purpose:
 
-**designing systems in which technology expands human capacity instead of diminishing the human being.**
+**designing systems in which the human being does not become smaller before technology, but expands their capacity through technology.**
 
 ---
 
 ## Rîh-a: Spirit, Root, and Essence
 
-Şanlıurfa occupied a special place in Maran's thinking.
+Şanlıurfa held a special place in Maran's world of thought.
 
 Its official name was Şanlıurfa.
 
-But locally another name continued to live:
+But another name also lived locally:
 
 **Rîha.**
 
-Maran did not hear it only as a place name.
+Maran did not hear this only as a place name.
 
-In the local Kurdish associations important to his story, he wrote two structures in his notebook:
+The sounds and semantic associations in local Kurdish usage opened another door in his mind.
+
+In his notebook he had written two separate structures:
 
 **Rîh-a**
 
@@ -293,45 +326,55 @@ and
 
 **Reh-a / Rîh-a**
 
-He read the first through spirit and life:
+He read the first through spirit and life.
 
-**Rîha jiyanê — the spirit of life.**
+As examples, he had written:
 
-**Rîha mirov — the spirit of the human being.**
+**Rîha jiyanê — The spirit of life.**
 
-He also associated another form with root, vein, connection, and essence:
+**Rîha mirov — The spirit / life of the human being.**
 
-**Reha darê — the root of the tree.**
+In another usage, he also thought through **reh**, which he associated with root, vein, connection, and essence.
 
-**Reha pirsgirêkê — the root of the problem.**
+**Reha darê — The root of the tree.**
 
-For Maran this became more than linguistic curiosity.
+**Reha pirsgirêkê — The root / foundation of the problem.**
 
-Rîha became a metaphor for his entire method.
+For Maran, this was not merely linguistic curiosity.
 
-To understand a human being, approach the spirit.
+Rîha was becoming the common metaphor of all his work.
 
-To solve a problem, reach the root.
+Spirit on one side.
 
-He wrote:
+Root on the other.
 
-**Human-centered transformation means reaching the root of the problem without losing the human spirit.**
+If you wanted to understand a human being, you had to approach their spirit.
 
-A third axis appeared:
+If you wanted to solve a problem, you had to descend to its root.
+
+Maran wrote in his notebook:
+
+**“Human-centered transformation means descending to the reh of the pirsgirêk without losing the human rîh.”**
+
+That is:
+
+**Reaching the root of the problem without losing the human spirit.**
+
+And a third meaning became clearer:
 
 **Belief.**
 
-For Maran, belief was not merely religious doctrine.
+For Maran, belief was not only religious acceptance.
 
-It was the human relationship with meaning that cannot yet be fully proven.
+It was a human relationship with meaning that had not yet been proven but nevertheless guided life.
 
-Science could investigate roots.
+Science taught him to investigate the root of a problem.
 
-Technology could measure.
+Technology taught him to measure.
 
-But measurement alone could not explain why humans continue to live, love, remember, and search for meaning beyond what can be measured.
+But measurement alone was not enough to explain why humans continued to live, love, remember, and seek meaning that could not be measured.
 
-Rîh-a therefore became, in Maran's mind, the meeting place of three axes:
+For this reason, Rîh-a became in Maran's mind the place where three axes met:
 
 **Root.**
 
@@ -341,9 +384,11 @@ Rîh-a therefore became, in Maran's mind, the meeting place of three axes:
 
 ---
 
-The hardest project in Maran's life made visible that none of these fields was unnecessary.
+One of the hardest projects of his life made visible that no part of this long educational journey had been unnecessary.
 
-Biology.
+Because the problem before him was not only an engineering problem or an artificial intelligence problem.
+
+There was biology.
 
 Probability.
 
@@ -361,196 +406,178 @@ Freedom.
 
 Belief.
 
-And one more question:
+And there was the question of how much authority an artificial intelligence working with biological data should have over a human being.
 
-How much authority should an artificial intelligence working with biological data have over a human being?
+The system he would build needed to do exactly this:
 
-The system he designed had to preserve distinctions.
+Preserve the living biological traces and life records of the human being while showing the root of every answer it produced.
 
-Where did a response come from?
+Which part came from biology?
 
-Biology?
+Which part from life records?
 
-Life records?
+Which part was produced by artificial intelligence?
 
-AI inference?
+And beyond all of these, where did what the human believed to be the self begin, and where did it end?
 
-If the system produced an answer, it had to reveal its **reh** — its root.
+If the system produced an answer, it must not hide the answer's **reh**, its root.
 
-When interpreting a human being, it could not claim to contain that person's **rîh** — their spirit or essence in full.
+When interpreting a human being, it must not claim to carry that person's **rîh**, their essence, in full.
 
-And in matters of belief, it had to know when not to decide.
+And in matters of belief, it must not decide.
 
-Some questions are measurable.
+Because some questions could be measured, some could be interpreted, and some could find an answer only within the human being's own world of meaning.
 
-Some interpretable.
-
-Some belong to the human world of meaning.
-
-The project received its name:
+So the project named itself:
 
 # The Rîh Bridge
 
-The system open before Maran did not resemble an ordinary AI interface.
+The system open before Maran did not look like a conventional AI interface.
 
-The screen contained more than words.
+There were not only words on the screen.
 
 Neural signals, biological measurements, life records, probability distributions, and AI inferences appeared on the same network.
 
 Maran was developing the system on himself.
 
-His goal was not to create a copy of his mind.
+But his goal was not to create a copy of his mind.
 
-He wanted to build a structure in which the human brain and artificial intelligence could work together without either one erasing the other.
+His aim was to build a structure in which the human brain and artificial intelligence could work together without crushing one another.
 
-The brain would not be reduced to a command source.
+The brain would not be merely a biological device giving commands.
 
-Artificial intelligence would not become a superior decision-maker.
+Artificial intelligence would not become a superior authority making decisions.
 
-A continuous interpretive loop would exist between them.
+Between them there would be a continuous cycle of interpretation.
 
-Maran called the structure:
+On one side, biological intelligence.
+
+On the other, artificial intelligence.
+
+Between them, a bridge that was explainable, auditable, and protected human will.
+
+Maran called this structure:
 
 # The Rîh Bridge
 
-A bridge did not turn human and machine into the same thing.
+A bridge connected two shores.
 
-It created an explainable passage between them.
+But it did not turn the two shores into the same thing.
+
+---
 
 ## The Reh of the Answer
 
 The Rîh Bridge showed the source of every answer in three separate layers:
 
 **BIOLOGICAL TRACE**  
-A measurable correlate in Maran's neural and biological system.
+The measured counterpart in Maran's neural and biological system.
 
 **LIFE ARCHIVE**  
-Something Maran had said, written, chosen, corrected, or deliberately taught the system.
+Records that Maran had spoken, written, chosen, corrected, or consciously taught to the system.
 
 **AI INFERENCE**  
-A probabilistic interpretation generated by the model to connect missing parts.
+A probabilistic interpretation produced by the model to complete missing connections.
 
-These sources could never be merged invisibly.
+These three sources were never invisibly mixed inside an answer.
 
-If a statement came only from the model, the system could not say:
+If a thought was produced only by the model, the system could not say:
 
 **“Maran thinks this.”**
 
 It had to say:
 
-**“This part is an AI inference.”**
+**“This section is an AI inference.”**
 
 Maran called this:
 
-**the Reh of the Answer.**
+**The reh of the answer.**
 
 The root of the answer.
 
-Because for him, a trustworthy AI had to show not only what it said, but where that statement came from.
+Because in his view, a trustworthy artificial intelligence had to show not only what it said, but where what it said came from.
 
 ---
 
 ## Bio-Artificial Intelligence
 
-The biological layer of the Rîh Bridge did not treat electrical activity in the brain as meaning by itself.
+The biological layer of the Rîh Bridge did not treat electrical patterns in the brain as meaning by themselves.
 
-Detecting a signal did not mean knowing a thought with certainty.
+Seeing a signal did not mean that a thought was known with certainty.
 
-Every biological interpretation therefore carried a confidence value.
+For this reason, the system placed a confidence value beside every biological signal.
 
-The AI compared signals with Maran's life archive and with the conscious feedback he provided in the interaction itself.
+The AI compared signals with Maran's life archive and with the conscious feedback he gave at that moment.
 
-Maran could approve an interpretation, correct it, or reject it completely.
+Maran could approve a result, correct it, or reject it completely.
 
-The system learned from Maran;
+In this way, the system did not only learn from Maran;
 
-**and Maran could see how the system was interpreting him.**
+**Maran could also see how the system interpreted him.**
 
-Human and AI observed one another.
+The human and artificial intelligence observed one another reciprocally.
 
-That reciprocity was essential.
+This was exactly what Maran was seeking.
 
-Maran did not want a system that classified a person invisibly.
+Not a system in which the machine classified the human invisibly;
 
-He wanted a partnership in which the human being could inspect how the machine reached a conclusion about them.
+but a partnership in which the human could see how the machine reached each conclusion about them.
 
-The Rîh Bridge could reveal relationships Maran had not noticed.
+While working on a problem, the Rîh Bridge could connect notes in the life archive with neural patterns, generate alternative solutions, and show their probabilities.
 
-While he worked on a problem, it could connect current neural patterns with notes in his life archive, generate alternative solutions, and display their probabilities.
-
-But one line did not change:
+But the last line did not change:
 
 **DECISION AUTHORITY: MARAN**
 
-For Maran, that line was one of the most important parts of the architecture.
+Maran believed this line was one of the most important parts of the system.
 
-No matter how capable AI became, a human-centered system must not turn a human being into a passive user of their own life.
+Because no matter how advanced artificial intelligence became, a human-centered system should not turn the human being into a passive user of their own life.
 
 ---
 
 ## Thinking Together
 
-When Murat and Rodi looked at the Rîh Bridge, they wondered whether the system could read their father's mind.
+The Rîh Bridge did not think in Maran's place.
 
-Maran explained it simply:
+It thought together with him.
 
-“This system is not my mind.”
+It could offer a proposal.
 
-He pointed to the biological traces.
+It could show a contradiction.
 
-“These are signals measured from my body.”
+It could find a forgotten note.
 
-He pointed to the life archive.
+It could compare several possibilities at the same time.
 
-“These are things I actually said and deliberately recorded.”
+It could help Maran notice his own habits of thought.
 
-Then he pointed to the AI layer.
+But it could not believe in his place.
 
-“And these are connections made by the machine.”
+It could not love in his place.
 
-Murat looked at the screen.
+It could not decide in his place.
 
-“Then which one is you?”
+For Maran, the fundamental principle of bio-artificial intelligence was:
 
-Maran smiled.
+**The human will not become an extension of the machine. The machine will be a partner that expands the human field of thought.**
 
-“None of them by itself.”
+In this partnership, artificial intelligence brought speed, calculation, connection, and the power to generate possibilities.
 
-Rodi watched the connections move.
+The human carried meaning, purpose, value, responsibility, and the final decision.
 
-Maran continued:
+They were not the same.
 
-“I am the person here with you, speaking, correcting the system, accepting or rejecting what it produces. The machine helps me. I do not become the machine.”
-
-That sentence became one of the core principles of the Rîh Bridge:
-
-**Bio-artificial intelligence does not replace the human being; it expands the human field of thought.**
-
-The system could offer a suggestion.
-
-It could expose a contradiction.
-
-It could recover a forgotten note.
-
-It could compare several possibilities at once.
-
-It could help Maran notice his own patterns of thought.
-
-But it could not believe for him.
-
-It could not love for him.
-
-It could not decide for him.
+Precisely for that reason, they could work together.
 
 ---
 
 ## Making Uncertainty Visible
 
-One of the most important properties of the Rîh Bridge was that it did not hide uncertainty.
+For Maran, one of the most important features of the Rîh Bridge was that it did not hide uncertainty.
 
-When the system produced an answer, the result was not displayed alone.
+When the system produced an answer, the screen did not show only the result.
 
-Its sources were visible:
+It also showed the sources:
 
 **Biological trace: medium**
 
@@ -560,61 +587,61 @@ Its sources were visible:
 
 **Uncertainty: explicit**
 
-Another answer could show a completely different distribution.
+In another answer, the distribution could be completely different.
 
-Maran did not see this variability as a weakness.
+This variability did not disturb Maran.
 
-It was part of the system's honesty.
+On the contrary, it was part of the system's honesty.
 
-Probability had taught him:
+From probabilistic thinking, Maran had learned:
 
 **The highest-probability answer is not necessarily the correct answer.**
 
-A human being can change their mind.
+A human can change their mind.
 
 Learn something new.
 
-Choose against an established habit.
+Decide against their own habit.
 
-Take a path that existing data did not predict.
+Choose a path that no one expected.
 
-The Rîh Bridge therefore did not reduce a person to forecasts derived from prior behavior.
+For this reason, the Rîh Bridge did not try to reduce the human being to predictions from their records.
 
-Every prediction kept an exit open:
+The system left an exit door beside every prediction:
 
 **“This pattern is based on existing records. Maran may choose differently.”**
 
-For Maran, that sentence was a small but crucial technological expression of human freedom.
+For Maran, this sentence was one of the smallest but most important technological signs of human freedom.
 
 ---
 
 ## Boundaries
 
-Maran treated several rules of the Rîh Bridge as non-negotiable.
+Maran regarded some rules of the Rîh Bridge as non-negotiable.
 
 The system would not take over human decision authority.
 
-Biological data would not be reused for another purpose without explicit consent.
+Biological data would not be used for other purposes without explicit consent.
 
-AI inference would not be presented as an actual thought.
+AI inference would not be presented as actual thought.
 
 Uncertainty would not be hidden.
 
-The system would not imprison a human being inside patterns inferred from recorded behavior.
+The system would not imprison the human being inside their own records.
 
-In areas such as belief, love, value, and identity, it would not claim to know more than it could measure or justify.
+In areas such as belief, love, value, and identity, it would not claim to know more than it could measure.
 
-If Maran's children, family, or other people joined the system, their data would not become extensions of Maran's data.
+When other people joined the system, their data would not be treated as extensions of Maran's data.
 
-Every person would have a center of their own.
+Every human being would have a center of their own.
 
-The purpose of the Rîh Bridge was not to collapse centers into one.
+The task of the Rîh Bridge was not to merge centers and make them one;
 
-It was to create relations between centers.
+**it was to create relationships between centers.**
 
-A bridge connects two shores.
+A bridge connected two shores.
 
-It does not turn them into one shore.
+But it did not turn the two shores into one another.
 
 ---
 
@@ -622,12 +649,11 @@ It does not turn them into one shore.
 
 ## The History the Soil Never Wrote
 
-
 The television was on.
 
 The stones of Göbekli Tepe stood silently on the screen.
 
-Pillars brought out of the earth.
+Pillars uncovered from the earth.
 
 Animal figures.
 
@@ -635,17 +661,17 @@ Signs.
 
 Traces left by human hands on stone.
 
-As Maran watched, the narrator's voice receded.
+As Maran watched the images, the narrator's voice gradually receded.
 
-He no longer heard the words.
+He no longer heard what was being said.
 
 Only one name remained in his mind:
 
 **Girê Miraza.**
 
-The Hill of Wishes.
+Hill of Wishes.
 
-Maran separated the name inside his thoughts.
+Maran broke the name apart in his mind.
 
 **Gir.**
 
@@ -655,11 +681,11 @@ Hill.
 
 Wish.
 
-Murad.
+Desire.
 
-Göbekli Tepe could be an archaeological site known across the world.
+Göbekli Tepe might be an archaeological site known throughout the world.
 
-But Maran was interested in another question:
+But Maran wondered about something else:
 
 **What did people call this place before the excavations?**
 
@@ -671,21 +697,21 @@ He thought of people tying cloth to a tree.
 
 Making wishes.
 
-Coming to the hill without knowing what lay beneath the stones.
+Coming to that hill without knowing what lay beneath the stones.
 
-Perhaps they did not know the history of the structures below them.
+Perhaps they did not know the true history of the structures there.
 
-Perhaps they did, but what they knew had never entered a book.
+Perhaps they did, but what they knew had never entered books.
 
-Perhaps knowledge had stopped being a story
+Perhaps knowledge had ceased to be a story;
 
-and become a habit.
+and had become habit.
 
-Tying cloth to a tree…
+Tying cloth to a tree...
 
-Making a wish on a hill…
+Making a wish on a hill...
 
-Calling a place by a particular name…
+Calling a place by a particular name...
 
 A question formed in Maran's mind:
 
@@ -693,37 +719,37 @@ A question formed in Maran's mind:
 
 The stones had been buried.
 
-Stories had disappeared.
+The stories had disappeared.
 
-Yet the hill still carried a name:
+But the hill's name was still:
 
 **Girê Miraza.**
 
-The Hill of Wishes.
+Hill of Wishes.
 
-Perhaps the name belonged only to more recent memory.
+Perhaps the name was only a memory from recent times.
 
-Perhaps it did not.
+Perhaps not.
 
-Maran did not want to force a definitive answer.
+Maran did not want to give a certain answer.
 
-Something else interested him more:
+Something else interested him:
 
-**The name had survived.**
+**The name had lived.**
 
 ---
 
-Another name came to mind, associated with the place where Göbekli Tepe stood:
+Another name for the area where Göbekli Tepe stood came to his mind:
 
 **Xerabreşkê.**
 
-He separated the word.
+He separated the word in his mind.
 
 **Xerab.**
 
 Ruin.
 
-Broken place.
+Broken.
 
 **Reş.**
 
@@ -733,7 +759,7 @@ Dark.
 
 **Black Ruin.**
 
-Maran leaned closer to the television.
+Maran moved a little closer to the television.
 
 On one side:
 
@@ -747,29 +773,29 @@ Wish.
 
 Ruin.
 
-Placed beside one another, the words created a strange tension in his mind.
+When the two words came together, a strange tension formed in his mind.
 
-People made wishes in one place.
+In one place, people made wishes.
 
-Another name in the same geography spoke of ruins.
+In the same geography, another name spoke of ruin.
 
-Wish and destruction.
+Wish and wreckage.
 
 Hope and what remained behind.
 
-For a moment Maran felt that he was no longer looking at stones, but at soil.
+For a moment, Maran felt as though he was no longer looking at stones, but at the soil.
 
-The stones were visible.
+Because the stones were visible.
 
 The soil concealed.
 
-And perhaps a large part of human history was exactly there:
+And perhaps a great part of human history was exactly there:
 
-**Never written, only left in the ground.**
+**Never written, only left in the soil.**
 
 ---
 
-Maran began entering place names into the Rîh Bridge.
+Maran began entering place names one by one into the Rîh Bridge:
 
 **Girê Miraza.**
 
@@ -797,7 +823,7 @@ Maran began entering place names into the Rîh Bridge.
 
 **Xelfetî.**
 
-The system began arranging them as a data table.
+The system began to display them as a data table.
 
 Maran stopped it.
 
@@ -807,13 +833,13 @@ The Rîh Bridge waited.
 
 “Do not list them.”
 
-“Search for the relations between them.”
+“Search for the relationships among them.”
 
-The display changed.
+The structure on the screen changed.
 
-Words became nodes.
+The words became nodes.
 
-Thin lines began forming between them.
+Fine lines began to form between them.
 
 ---
 
@@ -839,49 +865,49 @@ Then:
 
 **Sêwreg.**
 
-Another name associated in Maran's notes with dark stone, old structures, and ruins.
+Another name associated in Maran's inquiry with black stone, old structures, and ruins.
 
 Maran stopped.
 
 Why was there so much **black**?
 
-One possible answer was in the ground itself.
+One answer lay in the soil itself.
 
 Basalt.
 
-Dark stone.
+Black stone.
 
-People did not merely see the geography they lived in.
+People did not merely see the geography in which they lived.
 
 They named it.
 
 Stone became language.
 
-Geography became a word.
+Geography became word.
 
-And the word could move from tongue to tongue.
+And the word could travel from language to language.
 
-Sounds changed.
+Sound changed.
 
-Languages changed.
+Language changed.
 
 Borders changed.
 
-Yet a piece of the land could continue living inside the word.
+Yet a piece of the land could continue living inside a word.
 
-The Rîh Bridge created a new concept on the screen:
+As Maran thought about this, the Rîh Bridge formed a new concept on the screen:
 
 **LINGUISTIC TRACE**
 
-Maran looked at it.
+Maran looked.
 
 Yes.
 
-Like a biological trace.
+Just like a biological trace.
 
-If a human body could carry traces from what came before,
+If traces from the past could be found in a human body,
 
-could a geography also carry traces through language?
+could traces from the past not also be found in the language of a geography?
 
 ---
 
@@ -897,19 +923,19 @@ Gazelle Spring.
 
 Water.
 
-Again, water.
+Once again, water.
 
 **Rîh-a** appeared in Maran's mind.
 
-Different historical sound layers of the city's name and possible associations with water approached one another in his imagination.
+Different historical sound layers of the city's name and possible associations with water drew close together in his mind.
 
-He looked at the map.
+Maran looked at the map on the screen.
 
-Beside stone there was water.
+Beside stone, there was water.
 
 **Curnê Reş.**
 
-Water troughs of dark stone.
+Water troughs made of black stone.
 
 **Serêkaniyê.**
 
@@ -919,31 +945,31 @@ Head of the spring.
 
 Gazelle Spring.
 
-Another sentence seemed to emerge from geography:
+It was as if another sentence of the geography was appearing:
 
 **Stone and water.**
 
-Maran murmured:
+Maran murmured to himself:
 
-“Perhaps the real archive of a city is not only its buildings…”
+“Perhaps the true archive of cities is not only their buildings...”
 
-His hand moved over the map.
+He moved his hand across the map.
 
-“…but its waterways.”
+“...but their waterways.”
 
-Humans followed water to settle.
+Because humans followed water when settling.
 
 Animals followed water.
 
 Agriculture followed water.
 
-Roads formed around it.
+Roads took shape according to water.
 
-And the name of a spring could remain alive in human memory.
+And the name of a spring could live in human memory.
 
 ---
 
-The Rîh Bridge enlarged another node.
+The Rîh Bridge enlarged a new node.
 
 **Xarran.**
 
@@ -953,17 +979,17 @@ Road.
 
 Crossroads.
 
-Journey.
+Travel.
 
-Maran's attention moved entirely toward it.
+Maran's attention turned entirely toward it.
 
 Crossroads.
 
-He closed his eyes.
+Maran closed his eyes.
 
-He imagined people moving along roads.
+He imagined people moving back and forth along roads.
 
-Traders.
+Merchants.
 
 Migrations.
 
@@ -973,7 +999,7 @@ Stories.
 
 Languages.
 
-A human being did not carry only goods from one city to another.
+A person traveling from one city to another did not carry only goods.
 
 They carried words.
 
@@ -983,7 +1009,7 @@ Stories.
 
 Knowledge.
 
-Perhaps this was why different languages could leave traces inside one another across the same geography.
+Perhaps that was why different languages in the same geography left traces inside one another.
 
 Sumerian.
 
@@ -999,13 +1025,13 @@ Arabic.
 
 Kurdish.
 
-And many others.
+And many more.
 
-One language did not have to erase another completely.
+One language did not always have to erase another completely.
 
-Sometimes it changed only the sound that remained.
+Sometimes it only changed its sound.
 
-A network appeared in Maran's mind.
+A network formed in Maran's mind.
 
 **Xarran was a crossroads.**
 
@@ -1023,15 +1049,15 @@ Then:
 
 **Pirsûs.**
 
-The sound of an old name carried into the present through changing languages and pronunciations.
+The sound of an old name carried into the present through different languages and pronunciations.
 
-Maran looked at its present form.
+Maran looked at the word's present form.
 
-Its earliest and latest forms might not resemble one another closely.
+The first form and the final form might not resemble each other.
 
-Yet an invisible continuity could remain between them.
+Yet an invisible continuity could exist between them.
 
-A sound had lived by changing.
+A sound had survived by changing.
 
 Then:
 
@@ -1047,9 +1073,9 @@ And:
 
 **Kela Romê.**
 
-Again, a fortress.
+Again, fortress.
 
-Stone returned.
+Stone had appeared before him again.
 
 Stone was not merely building material.
 
@@ -1065,11 +1091,11 @@ Grave.
 
 Memory.
 
-Humans left.
+The human left.
 
-Stone remained.
+The stone remained.
 
-And what often carried the meaning of that stone to other humans was again:
+But what carried the meaning of the stone to other humans was often once again:
 
 **the name.**
 
@@ -1079,82 +1105,80 @@ And what often carried the meaning of that stone to other humans was again:
 
 Maran stopped here.
 
-The word had no single certain meaning in his notes.
+The word did not have a certain meaning.
 
 There were different possibilities for its origin.
 
-The uncertainty did not disturb him.
+This uncertainty did not disturb him.
 
-It interested him.
+On the contrary, it interested him.
 
-One of the most important principles he had learned while designing the Rîh Bridge was:
+Because one of the most important principles he had learned while designing the Rîh Bridge was this:
 
-**Do not present the unknown as if it were known.**
+**Do not present what is unknown as though it were known.**
 
-The system displayed:
+The system wrote on the screen:
 
 **ORIGIN: UNCERTAIN**
 
 Maran smiled.
 
-“Leave it that way.”
+“Leave it like that.”
 
 They did not have to fill every gap in history.
 
 Some gaps were part of reality.
 
-Perhaps the task of a researcher was not to insert a story into every empty space,
+Perhaps the researcher's task was not to place a story into every empty space;
 
-but to show honestly
-
-**where the empty space remained.**
+**but to show honestly which point was empty.**
 
 ---
 
 Maran looked again at Göbekli Tepe.
 
-This time he was not looking at the T-shaped pillars,
+This time not at the T-shaped pillars;
 
 but at the soil around them.
 
-One layer beneath another.
+Another layer beneath one layer.
 
-Each layer a surface touched by other people.
+Every layer a surface touched by other humans.
 
-The soil was no longer merely matter to him.
+For Maran, soil was no longer merely matter.
 
 It was a recording system.
 
-But one not designed by humans.
+But a recording system not designed by humans.
 
 A house burned.
 
-Ash entered the soil.
+Its ash mixed with the soil.
 
-An animal left a bone.
+An animal's bone remained.
 
-A vessel broke.
+A pot broke.
 
 Its pieces were buried.
 
 A structure collapsed.
 
-Its stones could enter another structure.
+Its stones could be used in another structure.
 
 A seed fell.
 
-Pollen remained.
+Its pollen remained.
 
-Rain moved the earth.
+Rain carried soil.
 
-Humans moved elsewhere.
+A person moved elsewhere.
 
-All of it left traces in the soil.
+All of these left traces in the earth.
 
 A sentence formed in Maran's mind:
 
 **The soil did not write history.  
-But it did not completely forget what happened.**
+But it did not completely forget anything that happened.**
 
 The Rîh Bridge detected the sentence.
 
@@ -1162,7 +1186,7 @@ A new node opened on the screen:
 
 # SOIL MEMORY
 
-Below it appeared three lines:
+Under it, the system placed three lines:
 
 **MATERIAL TRACE**
 
@@ -1174,13 +1198,13 @@ Place names, sound changes, living words.
 
 **HUMAN BEHAVIOR**
 
-Wishing, visiting, roads, water use, settlement, memory.
+Wishes, visits, roads, water use, settlement, memory.
 
 Maran looked at the screen.
 
-The structure resembled the method he had built into bio-artificial intelligence.
+The same structure he had developed in the bio-artificial intelligence system was before him.
 
-A single type of data was not enough to understand a human being.
+A single piece of data was not enough to understand a human being.
 
 Biological trace alone was not enough.
 
@@ -1188,25 +1212,25 @@ Life records alone were not enough.
 
 AI inference alone was not enough.
 
-**You had to see the relationships.**
+**The relationships had to be seen.**
 
-Perhaps history worked the same way.
+Perhaps the same was true for history.
 
-A stone did not speak by itself.
+A stone did not speak alone.
 
-A word did not speak by itself.
+A word did not speak alone.
 
-A custom did not speak by itself.
+A tradition did not speak alone.
 
-But when considered together,
+But when they were considered together,
 
-they began to say something inside the silence.
+they began to tell something through silence.
 
 ---
 
-Maran placed one name back at the center of the map:
+Maran wrote again at the center of the map:
 
-**Girê Miraza.**
+**Girê Miraza**
 
 The other names gathered around it.
 
@@ -1220,7 +1244,7 @@ Bridge.
 
 **Curnê Reş.**
 
-Dark stone and water.
+Black stone and water.
 
 **Serêkaniyê.**
 
@@ -1236,11 +1260,11 @@ Ruined city.
 
 **Sêwreg.**
 
-The sound of dark stone.
+The sound of black stones.
 
 **Pirsûs.**
 
-A name changing across languages.
+A name changing form between languages.
 
 **Bêrecûk.**
 
@@ -1248,7 +1272,7 @@ Fortress.
 
 **Xelfetî — Kela Romê.**
 
-Again, fortress.
+Fortress again.
 
 **Xarran.**
 
@@ -1256,15 +1280,15 @@ Road.
 
 Crossroads.
 
-Journey.
+Travel.
 
-And above the entire network stood another name:
+And over the entire network stood another name:
 
 # Rîh-a
 
 Maran looked at the screen.
 
-He realized this was not a city map.
+Suddenly he realized this was not a city map.
 
 It was a **memory map.**
 
@@ -1274,25 +1298,25 @@ The memory of water.
 
 The memory of language.
 
-Human memory.
+The memory of humans.
 
 The memory of soil.
 
-Maran was no longer trying to invent the “true story” of Göbekli Tepe.
+What Maran was seeking was no longer to invent the “true story” of Göbekli Tepe.
 
-Quite the opposite.
+On the contrary.
 
-**He was trying to understand a history they did not yet know without forgetting that they did not know it.**
+**It was to try to understand a history they did not yet know without forgetting that they did not know it.**
 
-A material trace could support another trace.
+A trace found in the soil could support another trace.
 
-A place name could point toward another relation.
+A place name could point to another connection.
 
-A custom might carry a distant echo of a forgotten connection.
+A tradition could carry a distant echo of a forgotten relationship.
 
-But none of them was a definitive answer by itself.
+But none of them alone was a certain answer.
 
-The Rîh Bridge displayed three words:
+The Rîh Bridge wrote three words on the screen:
 
 **TRACE.**
 
@@ -1300,15 +1324,15 @@ The Rîh Bridge displayed three words:
 
 **PROBABILITY.**
 
-Maran looked at them.
+Maran looked.
 
-They were not only words of archaeology.
+These were not only the words of archaeology;
 
-They were the words of his entire intellectual journey.
+they were the words of his entire path of thought.
 
 ---
 
-A wide image of Göbekli Tepe filled the television.
+A wide image of Göbekli Tepe appeared on the television.
 
 Hill.
 
@@ -1318,39 +1342,41 @@ Soil.
 
 Stones.
 
-There were now two Göbekli Tepes in Maran's mind.
+In Maran's mind there were now two Göbekli Tepes.
 
-One revealed through excavation.
+One was Göbekli Tepe revealed through excavations.
 
-And another that had never been fully written in any book:
+The other was something never fully written in any book:
 
 **Girê Miraza.**
 
-The hill living in human language.
+The hill living in people's language.
 
 The hill of wishes.
 
-A hill inside a larger geography of ruins, roads, water, dark stone, fortresses, and names.
+The hill near ruins.
 
-Perhaps the past had not vanished completely.
+The hill inside the great geography formed by roads, waters, black stones, fortresses, and names.
 
-Perhaps it had only scattered into different places.
+Perhaps the past had not completely disappeared.
 
-Part of it in stone.
+Perhaps it had only been scattered into different places.
 
-Part in soil.
+A part in stone.
 
-Part in water.
+A part in soil.
 
-Part in human behavior.
+A part in water.
 
-And part in a single place name spoken from one person to another.
+A part in human behavior.
+
+And a part in a single place name one human being said to another.
 
 A thought became clear in Maran's mind:
 
-**Where there was no writing, there was not necessarily no history.**
+**Where there was no writing, it did not mean there was no history.**
 
-It might simply be written in another language.
+It had simply been written in another language.
 
 The language of stone.
 
@@ -1364,27 +1390,27 @@ And sometimes:
 
 **inside names.**
 
-Maran did not look away from the screen.
+Maran did not take his eyes from the screen.
 
-Göbekli Tepe was no longer only a window into the past.
+Göbekli Tepe was no longer only a window into the past for him.
 
-It had become a method.
+It was a method.
 
-A method for connecting traces that humans had not yet learned to read completely.
+A method of connecting traces that humans had not yet learned to read.
 
-Perhaps this was also what the Rîh Bridge was meant to do.
+Perhaps this was what the Rîh Bridge would do as well.
 
-Not produce artificial certainty.
+Not produce certain answers.
 
 Make scattered traces visible.
 
-Show relationships.
+Show the relationships between them.
 
-Separate what was known,
+Distinguish where there was knowledge,
 
-what was only possible,
+where there was only a possibility,
 
-and where a large silence still remained.
+and where a great silence still remained.
 
 Maran looked at the map one last time.
 
@@ -1396,38 +1422,38 @@ Beside it:
 
 **Girê Miraza.**
 
-And between them a single line.
+And a single line between them.
 
-On that line was one word:
+On the line was a word:
 
 **Reh.**
 
 Root.
 
-Maran smiled faintly.
+Maran smiled slightly.
 
-Perhaps this was how one learned to understand the history the soil never wrote:
+Perhaps this was the way to understand the history the soil never wrote:
 
-**Not by forcing answers onto the stones,  
-but by learning to descend toward the reh — the root — of the traces.**
+**Not to search for answers on the stones,  
+but to learn to descend to the reh — the root — of the traces.**
 
 ---
 
-## EXPERIENCE THRESHOLD 04 — THE BOUNDARY BETWEEN HUMAN AND BIO-AI
+## EXPERIENCE THRESHOLD 04 — THE BOUNDARY BETWEEN HUMAN AND BIO-ARTIFICIAL INTELLIGENCE
 
-Imagine a system that works with your biological signals, learns from your life records, and contributes to your thinking through artificial intelligence.
+Imagine a system that works with your own biological signals, learns from your life records, and contributes artificial intelligence to your thinking process.
 
 The system clearly separates your own sources from its inferences.
 
-It shows uncertainty.
+It shows its uncertainty.
 
 It accepts that the final decision belongs to you.
 
-What kind of relationship would you choose?
+What kind of relationship would you establish with this system?
 
 ### Yes, I would use it as a thinking partner.
 
-If the system shows its sources and limits and leaves decision authority with me, I may choose to use biological and AI layers together.
+As long as the system clearly shows its sources and limits and leaves decision authority with me, I could choose to use biological and artificial intelligence layers together.
 
 **Center effect**
 
@@ -1439,7 +1465,7 @@ Dark: **+3**
 
 ### I would use it only for limited and auditable tasks.
 
-I do not reject biological interpretation completely, but I would strictly limit what the system can access, what it can generate, and where it must stop.
+I would not reject interpretation of my biological data completely; however, I would strictly limit which data the system can access, what it can produce, and where it must stop.
 
 **Center effect**
 
@@ -1451,7 +1477,7 @@ Dark: **+2**
 
 ### I would not use it yet.
 
-I would consider the cognitive boundary between human and machine insufficiently clear. I would not reject the possibility, but I would choose not to build such a bridge into my own mental space and would leave the uncertainty open.
+I would consider the cognitive boundary between human and machine insufficiently clear. I would not reject the possibility, but I would not choose to build such a bridge between my mental space and artificial intelligence; I would leave the uncertainty open.
 
 **Center effect**
 
@@ -1463,13 +1489,13 @@ Dark: **+10**
 
 ---
 
-## THE OBSERVER POSITION CHANGES
+## THE OBSERVER'S POSITION CHANGES
 
 Your answer affects your position inside the Human-Centered Universe.
 
 **HUMAN**
 
-Agency, relationship, meaning, responsibility, privacy, and the right to decide.
+Will, relationship, meaning, responsibility, privacy, and the right to decide.
 
 **LIGHT**
 
@@ -1477,11 +1503,11 @@ Knowledge, explainability, verification, measurement, order, and auditability.
 
 **DARK**
 
-Uncertainty, possibility, transformation, exploration, and the unknown.
+Uncertainty, probability, transformation, discovery, and what is not yet known.
 
 No answer turns you into a single center.
 
-Every answer reconstructs your distance from all three.
+Every answer reconstructs your distance from all three centers.
 
 **The reader does not merely observe the story.  
 The answer changes the reader's position inside the universe.**
