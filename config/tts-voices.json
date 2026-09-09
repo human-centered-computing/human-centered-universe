@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "engine": "Piper",
+  "languages": {
+    "tr": {
+      "enabled": true,
+      "locale": "tr_TR",
+      "model": "tr_TR-dfki-medium",
+      "length_scale": 1.08,
+      "label": "Türkçe",
+      "license_review": "Model card lists the DFKI Turkish dataset as CC BY-NC-SA 4.0; non-commercial use only unless replaced."
+    },
+    "en": {
+      "enabled": true,
+      "locale": "en_US",
+      "model": "en_US-lessac-medium",
+      "length_scale": 1.05,
+      "label": "English",
+      "license_review": "Review the voice MODEL_CARD before commercial distribution."
+    },
+    "de": {
+      "enabled": true,
+      "locale": "de_DE",
+      "model": "de_DE-thorsten-medium",
+      "length_scale": 1.05,
+      "label": "Deutsch",
+      "license_review": "Future-ready: generation starts when content/de.md exists. Review MODEL_CARD before commercial use."
+    },
+    "fr": {
+      "enabled": true,
+      "locale": "fr_FR",
+      "model": "fr_FR-siwis-medium",
+      "length_scale": 1.05,
+      "label": "Français",
+      "license_review": "Future-ready: generation starts when content/fr.md exists. Review MODEL_CARD before commercial use."
+    },
+    "es": {
+      "enabled": true,
+      "locale": "es_ES",
+      "model": "es_ES-sharvard-medium",
+      "length_scale": 1.05,
+      "label": "Español",
+      "license_review": "Future-ready: generation starts when content/es.md exists. Review MODEL_CARD before commercial use."
+    },
+    "it": {
+      "enabled": true,
+      "locale": "it_IT",
+      "model": "it_IT-paola-medium",
+      "length_scale": 1.05,
+      "label": "Italiano",
+      "license_review": "Future-ready: generation starts when content/it.md exists. Review MODEL_CARD before commercial use."
+    }
+  }
+}
