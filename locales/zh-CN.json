@@ -52,5 +52,14 @@
   "story_builder_description": "输入想法，选择故事语言，通过 HUMAN/LIGHT/DARK 完善它，生成文学故事，按 30 项标准分类，并导出可直接用于 GitHub 的文件。",
   "git_narrative_description": "Git 是叙事架构的一部分：commit 创造现实；连接改变意义。",
   "language_policy_description": "英语是规范、通用且默认的语言。土耳其语是编辑工作源；当土耳其语文本更新时，用它重新生成英语及其他翻译。",
-  "triangle_state_space": "HCU 三角状态空间"
+  "triangle_state_space": "HCU 三角状态空间",
+  "settings": "设置",
+  "settings_intro": "管理此设备上的阅读进度和观察者旅程。",
+  "reading_progress": "阅读进度",
+  "restart_story_description": "将当前故事标记为未读并返回开头。观察者选择和分数将保留。",
+  "restart_current_story": "重新开始当前故事",
+  "journey_data": "旅程数据",
+  "reset_journey_description": "清除此设备上的阅读历史、选择、HUMAN/LIGHT/DARK 分数、量子路径以及“第一振动”引导记录。",
+  "reset_entire_journey": "重置整个旅程",
+  "reset_journey_warning": "要重置整个旅程吗？阅读进度、选择和观察者状态将从此设备永久清除。"
 }
