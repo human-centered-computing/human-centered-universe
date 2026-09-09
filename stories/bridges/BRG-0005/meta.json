@@ -22,6 +22,36 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
@@ -57,6 +87,46 @@
         "COM-0001": "Aynı bilgiden zehir ve ilaç çıkabilmesi, basit Aydınlık/Karanlık ahlak ikiliğinin reddini önceler.",
         "BRG-0011": "Bir bedenden geriye ne kaldığı sorusu Rih Köprüsü'nde yeniden ortaya çıkar."
       }
+    },
+    "de": {
+      "title": "Şahmaran: Zwischen Gift und Heilung",
+      "summary": "Kawa stellt das Steinnetz neben eine Şahmaran-Erzählung über Wissen, Gift, Heilung, Vertrauen und Verantwortung; das Team hält mythische Erinnerung bewusst von archäologischem Beweis getrennt."
+    },
+    "es": {
+      "title": "Şahmaran: Entre el veneno y la curación",
+      "summary": "Kawa sitúa la Red de Piedra junto a una narración de Şahmaran sobre conocimiento, veneno, curación, confianza y responsabilidad, mientras el equipo mantiene la memoria mítica separada de la prueba arqueológica."
+    },
+    "fr": {
+      "title": "Şahmaran : Entre poison et guérison",
+      "summary": "Kawa met le Réseau de Pierre en regard d’un récit de Şahmaran sur le savoir, le poison, la guérison, la confiance et la responsabilité, tandis que l’équipe maintient la mémoire mythique distincte de la preuve archéologique."
+    },
+    "it": {
+      "title": "Şahmaran: Tra veleno e guarigione",
+      "summary": "Kawa accosta la Rete di Pietra a un racconto di Şahmaran su conoscenza, veleno, guarigione, fiducia e responsabilità, mentre il gruppo mantiene distinta la memoria mitica dalla prova archeologica."
+    },
+    "ru": {
+      "title": "Şahmaran: Между ядом и исцелением",
+      "summary": "Кава сопоставляет Каменную сеть с преданием о Şahmaran, посвященным знанию, яду, исцелению, доверию и ответственности, а команда сохраняет четкую границу между мифической памятью и археологическим доказательством."
+    },
+    "zh-CN": {
+      "title": "Şahmaran：在毒与疗愈之间",
+      "summary": "Kawa 将石之网络与关于知识、毒、疗愈、信任和责任的 Şahmaran 叙事并置，而研究团队始终把神话记忆与考古证据区分开来。"
+    },
+    "ja": {
+      "title": "Şahmaran：毒と癒やしのあいだ",
+      "summary": "Kawa は石のネットワークを、知識・毒・癒やし・信頼・責任をめぐる Şahmaran の物語と並べて読み、調査チームは神話的記憶と考古学的証拠を明確に分けて扱う。"
+    },
+    "ar": {
+      "title": "Şahmaran: بين السُّم والشفاء",
+      "summary": "يضع كاوا شبكة الحجارة إلى جانب رواية Şahmaran عن المعرفة والسم والشفاء والثقة والمسؤولية، بينما يفصل الفريق الذاكرة الأسطورية عن الدليل الأثري."
+    },
+    "ku": {
+      "title": "Şahmaran: Di Navbera Jehr û Şifayê de",
+      "summary": "Kawa Tora Keviran bi çîroka Şahmaran a li ser zanîn, jehr, şifa, bawerî û berpirsiyariyê re li kêleka hev dixwîne; tîm bîra mîtolojîk ji delîla arkeolojîk cuda digire."
+    },
+    "pt": {
+      "title": "Şahmaran: Entre o veneno e a cura",
+      "summary": "Kawa coloca a Rede de Pedra ao lado de uma narrativa de Şahmaran sobre conhecimento, veneno, cura, confiança e responsabilidade, enquanto a equipe mantém a memória mítica separada da prova arqueológica."
     }
   }
 }
