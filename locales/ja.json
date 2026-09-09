@@ -52,5 +52,14 @@
   "story_builder_description": "アイデアを入力し、物語の言語を選び、HUMAN/LIGHT/DARK を通して成熟させ、文学的な物語を生成し、30 の基準で分類して GitHub 用ファイルを書き出します。",
   "git_narrative_description": "Git は物語アーキテクチャの一部です。commit は現実を生み、接続は意味を変容させます。",
   "language_policy_description": "英語が正典・共通・既定の言語です。トルコ語は編集上の作業原文で、トルコ語本文の方が新しい場合は英語と他言語の翻訳をそこから再生成します。",
-  "triangle_state_space": "HCU 三角状態空間"
+  "triangle_state_space": "HCU 三角状態空間",
+  "settings": "設定",
+  "settings_intro": "この端末の読書進捗とオブザーバーの旅を管理します。",
+  "reading_progress": "読書の進捗",
+  "restart_story_description": "現在の物語を未読に戻し、冒頭へ移動します。オブザーバーの選択とスコアは保持されます。",
+  "restart_current_story": "現在の物語を最初から読む",
+  "journey_data": "旅のデータ",
+  "reset_journey_description": "この端末の読書履歴、選択、HUMAN/LIGHT/DARK スコア、量子パス、「最初の振動」の導入記録を消去します。",
+  "reset_entire_journey": "旅全体をリセット",
+  "reset_journey_warning": "旅全体をリセットしますか？読書進捗、選択、オブザーバー状態はこの端末から完全に削除されます。"
 }
