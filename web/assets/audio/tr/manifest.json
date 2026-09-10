@@ -169,6 +169,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "COM-0006",
+      "title": "Bağlandığın Anda Evren Değişir",
+      "file": "./COM-0006.mp3",
+      "duration_seconds": 1162.736,
+      "bytes": 13953194,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "BRG-0015",
       "title": "Yarışmayı Reddeden Okul: Maran ve İlk İnsan Merkezli Dönüşüm Okulu",
       "file": "./BRG-0015.mp3",
