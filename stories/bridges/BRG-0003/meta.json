@@ -6,15 +6,48 @@
   "status": "experimental",
   "source_language": "en",
   "book_order": 2,
-  "culture": ["Riha / Şanlıurfa local memory", "Kurdish and Turkish linguistic memory", "multicultural research network"],
-  "belief_context": ["plural interpretation", "ancestral memory", "dream narrative"],
+  "culture": [
+    "Riha / Şanlıurfa local memory",
+    "Kurdish and Turkish linguistic memory",
+    "multicultural research network"
+  ],
+  "belief_context": [
+    "plural interpretation",
+    "ancestral memory",
+    "dream narrative"
+  ],
   "summary": "Maran returns from Berlin to Riha after an impossible archival signal connects family memory, Göbekli Tepe, multiple languages, and the unfinished question of what kind of body can carry a shared spirit.",
-  "translations": {"en":{"status":"canonical"},"tr":{"status":"reviewed"}},
+  "translations": {
+    "en": {"status": "canonical"},
+    "tr": {"status": "reviewed"},
+    "de": {"status": "machine_draft"},
+    "es": {"status": "machine_draft"},
+    "fr": {"status": "machine_draft"},
+    "it": {"status": "machine_draft"},
+    "ru": {"status": "machine_draft"},
+    "zh-CN": {"status": "machine_draft"},
+    "ja": {"status": "machine_draft"},
+    "ar": {"status": "machine_draft"},
+    "ku": {"status": "machine_draft"},
+    "pt": {"status": "machine_draft"}
+  },
   "links": [
     {"target":"BRG-0004","type":"cause","note":"The shared anomaly at 04:17 leads the group to compare their different experiences."},
     {"target":"BRG-0001","type":"place","note":"The underground opening at Xerawreş becomes the threshold of the Stone Network."},
     {"target":"COM-0001","type":"echo","note":"The dream's image of different hands forming one shape anticipates a human-centered relational field."}
   ],
-  "localized": {"tr":{"title":"Riha: Ad Bir Kapıdır","summary":"İmkânsız görünen bir arşiv sinyali aile hafızasını, Göbekli Tepe'yi, farklı dilleri ve ortak bir ruhu hangi bedenin taşıyabileceği sorusunu birbirine bağlayınca Maran Berlin'den Riha'ya döner."}},
+  "localized": {
+    "tr": {"title":"Riha: Ad Bir Kapıdır","summary":"İmkânsız görünen bir arşiv sinyali aile hafızasını, Göbekli Tepe'yi, farklı dilleri ve ortak bir ruhu hangi bedenin taşıyabileceği sorusunu birbirine bağlayınca Maran Berlin'den Riha'ya döner."},
+    "de": {"title":"Riha: Ein Name ist eine Tür","summary":"Maran kehrt von Berlin nach Riha zurück, nachdem ein unmögliches Archivsignal Familiengedächtnis, Göbekli Tepe, mehrere Sprachen und die offene Frage verbindet, welcher Körper einen gemeinsamen Geist tragen kann."},
+    "es": {"title":"Riha: Un nombre es una puerta","summary":"Maran regresa de Berlín a Riha después de que una señal de archivo imposible conecte la memoria familiar, Göbekli Tepe, múltiples idiomas y la pregunta aún abierta de qué cuerpo puede albergar un espíritu compartido."},
+    "fr": {"title":"Riha : Un nom est une porte","summary":"Maran revient de Berlin à Riha après qu'un signal d'archive impossible relie la mémoire familiale, Göbekli Tepe, plusieurs langues et la question inachevée du corps capable de porter un esprit partagé."},
+    "it": {"title":"Riha: Un nome è una porta","summary":"Maran torna da Berlino a Riha dopo che un impossibile segnale d'archivio collega memoria familiare, Göbekli Tepe, più lingue e la domanda ancora aperta su quale corpo possa portare uno spirito condiviso."},
+    "ru": {"title":"Riha: Имя — это дверь","summary":"Маран возвращается из Берлина в Riha после того, как невозможный архивный сигнал связывает семейную память, Göbekli Tepe, разные языки и незавершенный вопрос о том, какое тело способно нести общий дух."},
+    "zh-CN": {"title":"Riha：名字是一扇门","summary":"一段不可能存在的档案信号把家族记忆、Göbekli Tepe、多种语言以及“什么样的身体能够承载共同灵魂”这一未完成的问题连接起来，Maran 因此从柏林返回 Riha。"},
+    "ja": {"title":"Riha：名前は扉","summary":"あり得ないアーカイブ信号が家族の記憶、Göbekli Tepe、複数の言語、そして共有される魂をどのような身体が担えるのかという未完の問いを結び、Maran はベルリンから Riha へ戻る。"},
+    "ar": {"title":"Riha: الاسم باب","summary":"يعود ماران من برلين إلى Riha بعدما تربط إشارة أرشيفية مستحيلة ذاكرة العائلة وGöbekli Tepe واللغات المختلفة والسؤال المفتوح عن نوع الجسد القادر على حمل روح مشتركة."},
+    "ku": {"title":"Riha: Nav Derî Ye","summary":"Piştî ku sînyalek arşîvî ya ne gengaz bîra malbatê, Göbekli Tepe, zimanên cuda û pirsa ne temam a ka kîjan laş dikare rihê hevpar hilgire bi hev ve girê dide, Maran ji Berlînê vedigere Riha."},
+    "pt": {"title":"Riha: Um nome é uma porta","summary":"Maran retorna de Berlim a Riha depois que um sinal de arquivo impossível conecta memória familiar, Göbekli Tepe, múltiplos idiomas e a pergunta ainda em aberto sobre que tipo de corpo pode carregar um espírito compartilhado."}
+  },
   "deprecation_note": "Retained as an experimental historical node; excluded from the current 21-node live observation graph."
 }
