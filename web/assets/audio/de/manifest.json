@@ -52,6 +52,15 @@
       "voice": "de_DE-thorsten-medium"
     },
     {
+      "id": "BRG-0011",
+      "title": "Rîh-a: The Center of Root, Spirit, and Belief",
+      "file": "./BRG-0011.mp3",
+      "duration_seconds": 2196.088,
+      "bytes": 26353416,
+      "engine": "Piper",
+      "voice": "de_DE-thorsten-medium"
+    },
+    {
       "id": "COM-0006",
       "title": "The Universe Changes the Moment You Connect",
       "file": "./COM-0006.mp3",
