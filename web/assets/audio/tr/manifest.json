@@ -115,6 +115,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "LGT-0001",
+      "title": "Bana Bekleyecek Bir Şey Bırak",
+      "file": "./LGT-0001.mp3",
+      "duration_seconds": 1126.557,
+      "bytes": 13519039,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "DRK-0001",
       "title": "Düşerken Tutunduğun El",
       "file": "./DRK-0001.mp3",
