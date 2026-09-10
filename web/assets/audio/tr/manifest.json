@@ -133,6 +133,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "COM-0005",
+      "title": "İnsan Hiçbir Sistemin Hammaddesi Değildir",
+      "file": "./COM-0005.mp3",
+      "duration_seconds": 1323.964,
+      "bytes": 15887927,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "BRG-0011",
       "title": "Rîh-a: Kökün, Ruhun ve İnancın Merkezi",
       "file": "./BRG-0011.mp3",
