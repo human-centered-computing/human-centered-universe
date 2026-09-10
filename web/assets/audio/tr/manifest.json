@@ -115,6 +115,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "DRK-0001",
+      "title": "Düşerken Tutunduğun El",
+      "file": "./DRK-0001.mp3",
+      "duration_seconds": 1258.632,
+      "bytes": 15103940,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "COM-0001",
       "title": "Savaş Alanını Eve Çevirin",
       "file": "./COM-0001.mp3",
