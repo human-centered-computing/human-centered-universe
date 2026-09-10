@@ -32,6 +32,36 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "links": [
@@ -62,7 +92,17 @@
       "label": "Yes, I would use it as a thinking partner while decision authority remains mine.",
       "labels": {
         "en": "Yes, I would use it as a thinking partner while decision authority remains mine.",
-        "tr": "Evet, karar yetkisi bende kaldığı sürece onu düşünme ortağım olarak kullanırdım."
+        "tr": "Evet, karar yetkisi bende kaldığı sürece onu düşünme ortağım olarak kullanırdım.",
+        "de": "Ja, ich würde es als Denkpartner nutzen, solange die Entscheidungsautorität bei mir bleibt.",
+        "es": "Sí, lo usaría como compañero de pensamiento mientras la autoridad de decisión siga siendo mía.",
+        "fr": "Oui, je l'utiliserais comme partenaire de réflexion tant que l'autorité de décision resterait la mienne.",
+        "it": "Sì, lo userei come partner di pensiero finché l'autorità decisionale resta mia.",
+        "ru": "Да, я использовал бы ее как партнера по мышлению, пока право решения остается за мной.",
+        "zh-CN": "会，只要决定权仍属于我，我会把它作为思考伙伴。",
+        "ja": "はい、決定権が私にある限り、思考のパートナーとして使います。",
+        "ar": "نعم، سأستخدمه شريكًا في التفكير ما دامت سلطة القرار لي.",
+        "ku": "Erê, heta ku desthilata biryarê li min bimîne ez ê wek hevkarê fikirînê bikar bînim.",
+        "pt": "Sim, eu o usaria como parceiro de pensamento enquanto a autoridade de decisão continuasse sendo minha."
       },
       "effects": {
         "HUMAN": 8,
@@ -75,7 +115,17 @@
       "label": "I would use it only for limited and auditable tasks.",
       "labels": {
         "en": "I would use it only for limited and auditable tasks.",
-        "tr": "Yalnız sınırlı ve denetlenebilir görevlerde kullanırdım."
+        "tr": "Yalnız sınırlı ve denetlenebilir görevlerde kullanırdım.",
+        "de": "Ich würde es nur für begrenzte und überprüfbare Aufgaben nutzen.",
+        "es": "Lo usaría solo para tareas limitadas y auditables.",
+        "fr": "Je l'utiliserais seulement pour des tâches limitées et auditables.",
+        "it": "Lo userei soltanto per compiti limitati e verificabili.",
+        "ru": "Я использовал бы ее только для ограниченных и проверяемых задач.",
+        "zh-CN": "我只会在有限且可审计的任务中使用它。",
+        "ja": "限定され、監査可能な仕事にだけ使います。",
+        "ar": "سأستخدمه فقط في مهام محدودة وقابلة للتدقيق.",
+        "ku": "Ez ê tenê di karên sînordar û kontrolbar de bikar bînim.",
+        "pt": "Eu o usaria apenas em tarefas limitadas e auditáveis."
       },
       "effects": {
         "HUMAN": 10,
@@ -88,7 +138,17 @@
       "label": "I would not use it yet; I would leave the uncertainty open.",
       "labels": {
         "en": "I would not use it yet; I would leave the uncertainty open.",
-        "tr": "Henüz kullanmazdım; belirsizliği açık bırakırdım."
+        "tr": "Henüz kullanmazdım; belirsizliği açık bırakırdım.",
+        "de": "Ich würde es noch nicht nutzen; ich würde die Unsicherheit offenlassen.",
+        "es": "Todavía no lo usaría; dejaría abierta la incertidumbre.",
+        "fr": "Je ne l'utiliserais pas encore ; je laisserais l'incertitude ouverte.",
+        "it": "Non lo userei ancora; lascerei aperta l'incertezza.",
+        "ru": "Пока я не использовал бы ее; я оставил бы неопределенность открытой.",
+        "zh-CN": "我暂时不会使用；我会让不确定性保持开放。",
+        "ja": "まだ使いません。不確実性を開いたままにします。",
+        "ar": "لن أستخدمه بعد؛ سأترك عدم اليقين مفتوحًا.",
+        "ku": "Ez ê hîn bikar neynim; nezelaliyê vekirî dihêlim.",
+        "pt": "Eu ainda não o usaria; deixaria a incerteza em aberto."
       },
       "effects": {
         "HUMAN": 6,
@@ -105,11 +165,31 @@
       "world_seed": true,
       "label": {
         "en": "Principle to Protect",
-        "tr": "Korunacak İlke"
+        "tr": "Korunacak İlke",
+        "de": "Zu schützendes Prinzip",
+        "es": "Principio que debe protegerse",
+        "fr": "Principe à protéger",
+        "it": "Principio da proteggere",
+        "ru": "Принцип, который нужно защищать",
+        "zh-CN": "必须保护的原则",
+        "ja": "守るべき原則",
+        "ar": "المبدأ الذي يجب حمايته",
+        "ku": "Prensîba Ku Divê Were Parastin",
+        "pt": "Princípio a proteger"
       },
       "prompt": {
         "en": "What principle must a bio-artificial intelligence partner always protect?",
-        "tr": "Bir biyo-yapay zekâ ortağı her durumda hangi ilkeyi korumalı?"
+        "tr": "Bir biyo-yapay zekâ ortağı her durumda hangi ilkeyi korumalı?",
+        "de": "Welches Prinzip muss ein bio-artifizieller Intelligenzpartner unter allen Umständen schützen?",
+        "es": "¿Qué principio debe proteger siempre una inteligencia bio-artificial asociada?",
+        "fr": "Quel principe un partenaire d'intelligence bio-artificielle doit-il toujours protéger ?",
+        "it": "Quale principio deve sempre proteggere un partner di intelligenza bio-artificiale?",
+        "ru": "Какой принцип партнер био-искусственного интеллекта должен защищать всегда?",
+        "zh-CN": "生物-人工智能伙伴在任何情况下都必须保护什么原则？",
+        "ja": "バイオ人工知能のパートナーが常に守るべき原則は何ですか？",
+        "ar": "ما المبدأ الذي يجب على شريك الذكاء الحيوي-الاصطناعي حمايته دائمًا؟",
+        "ku": "Hevkarê zeka biyo-çêkirî divê di her rewşê de kîjan prensîbê biparêze?",
+        "pt": "Que princípio um parceiro de inteligência bio-artificial deve sempre proteger?"
       }
     },
     {
@@ -119,11 +199,31 @@
       "world_seed": true,
       "label": {
         "en": "Forbidden Action",
-        "tr": "Yasak Davranış"
+        "tr": "Yasak Davranış",
+        "de": "Verbotene Handlung",
+        "es": "Acción prohibida",
+        "fr": "Action interdite",
+        "it": "Azione vietata",
+        "ru": "Запрещенное действие",
+        "zh-CN": "禁止行为",
+        "ja": "禁止される行為",
+        "ar": "الفعل المحظور",
+        "ku": "Tevgera Qedexekirî",
+        "pt": "Ação proibida"
       },
       "prompt": {
         "en": "What must it never decide or do in your place?",
-        "tr": "Sizin yerinize asla neye karar vermemeli veya ne yapmamalı?"
+        "tr": "Sizin yerinize asla neye karar vermemeli veya ne yapmamalı?",
+        "de": "Was darf er niemals an Ihrer Stelle entscheiden oder tun?",
+        "es": "¿Qué no debe decidir ni hacer nunca en su lugar?",
+        "fr": "Que ne doit-il jamais décider ou faire à votre place ?",
+        "it": "Che cosa non deve mai decidere o fare al vostro posto?",
+        "ru": "Что он никогда не должен решать или делать вместо вас?",
+        "zh-CN": "它绝不能替你决定或做什么？",
+        "ja": "あなたの代わりに絶対に決めたり行ったりしてはならないことは何ですか？",
+        "ar": "ما الذي يجب ألا يقرره أو يفعله بدلًا منك أبدًا؟",
+        "ku": "Divê qet li şûna te li ser çi biryar nede an çi neke?",
+        "pt": "O que ele nunca deve decidir ou fazer em seu lugar?"
       }
     }
   ],
@@ -137,6 +237,106 @@
         "LGT-0001": "Kalıcı babasal koruma, Aydınlık'ın korunan üzerindeki yetkisini yeniden üretebilir.",
         "DRK-0001": "Sınırsız kimlik değişimi, Karanlık'ın sorumluluktan bağımsız ihtimalini yeniden üretebilir."
       }
+    },
+    "de": {
+      "title": "Rîh-a: Das Zentrum von Wurzel, Geist und Glauben",
+      "summary": "Marans interdisziplinärer Weg läuft in der Rîh-Brücke zusammen, einer menschenzentrierten bio-artifiziellen Intelligenzpartnerschaft. In „Die Geschichte, die der Boden nie schrieb“ überträgt er dieselbe Logik von Spur, Beziehung, Unsicherheit und Erklärbarkeit auf Göbekli Tepe und liest materielle Bodenspuren gemeinsam mit Ortsnamen wie Girê Miraza, Xerabreşkê, Pira Reş und Xarran. Rîh-a bleibt das Zentrum dieses unvollständigen, aber bedeutungsvollen Erinnerungsnetzes.",
+      "link_notes": {
+        "COM-0005": "Die Rîh-Brücke setzt menschliche Autonomie, Einwilligung, Erklärbarkeit, Unsicherheit, Rechenschaft und Reparatur praktisch um.",
+        "BRG-0012": "Die Rîh-Brücke begrenzt Autorität nach dem Tod; Aufzeichnung X prüft, was geschieht, wenn ein konserviertes Gehirn Teil eines universumserzeugenden Zentrums wird.",
+        "LGT-0001": "Dauerhafte paternalistische Fürsorge kann die Autorität des Lichts über die Geschützten reproduzieren.",
+        "DRK-0001": "Unbegrenzte Identitätsveränderung kann die verantwortungsfreie Möglichkeit der Dunkelheit reproduzieren."
+      }
+    },
+    "es": {
+      "title": "Rîh-a: El Centro de la Raíz, el Espíritu y la Creencia",
+      "summary": "El recorrido interdisciplinario de Maran converge en el Puente Rîh, una asociación de inteligencia bio-artificial centrada en el ser humano. En «La Historia que el Suelo Nunca Escribió» aplica la misma lógica de huella, relación, incertidumbre y explicabilidad a Göbekli Tepe, leyendo conjuntamente los vestigios materiales del suelo y nombres locales como Girê Miraza, Xerabreşkê, Pira Reş y Xarran. Rîh-a permanece en el centro de esta red de memoria incompleta pero significativa.",
+      "link_notes": {
+        "COM-0005": "El Puente Rîh lleva a la práctica la autonomía humana, el consentimiento, la explicabilidad, la incertidumbre, la rendición de cuentas y la reparación.",
+        "BRG-0012": "El Puente Rîh limita la autoridad después de la muerte; Registro X examina qué ocurre cuando un cerebro preservado pasa a formar parte de un centro generador de universos.",
+        "LGT-0001": "La protección paternal permanente corre el riesgo de reproducir la autoridad de la Luz sobre quienes protege.",
+        "DRK-0001": "La mutación ilimitada de la identidad corre el riesgo de reproducir la posibilidad de la Oscuridad desligada de responsabilidad."
+      }
+    },
+    "fr": {
+      "title": "Rîh-a : Le Centre de la Racine, de l'Esprit et de la Croyance",
+      "summary": "Le parcours interdisciplinaire de Maran converge dans le Pont Rîh, un partenariat d'intelligence bio-artificielle centré sur l'humain. Dans « L'Histoire que le Sol n'a Jamais Écrite », il applique la même logique de trace, relation, incertitude et explicabilité à Göbekli Tepe, en lisant ensemble les traces matérielles du sol et des noms locaux comme Girê Miraza, Xerabreşkê, Pira Reş et Xarran. Rîh-a demeure au centre de ce réseau de mémoire incomplet mais porteur de sens.",
+      "link_notes": {
+        "COM-0005": "Le Pont Rîh met en œuvre l'autonomie humaine, le consentement, l'explicabilité, l'incertitude, la responsabilité et la réparation.",
+        "BRG-0012": "Le Pont Rîh limite l'autorité posthume ; Enregistrement X teste ce qui se produit lorsqu'un cerveau préservé devient une partie d'un centre générateur d'univers.",
+        "LGT-0001": "Une protection paternaliste permanente risque de reproduire l'autorité de la Lumière sur les personnes protégées.",
+        "DRK-0001": "Une mutation identitaire illimitée risque de reproduire la possibilité de l'Obscurité affranchie de responsabilité."
+      }
+    },
+    "it": {
+      "title": "Rîh-a: Il Centro della Radice, dello Spirito e della Fede",
+      "summary": "Il percorso interdisciplinare di Maran converge nel Ponte Rîh, una collaborazione di intelligenza bio-artificiale centrata sull'essere umano. In «La Storia che il Suolo Non Ha Mai Scritto» applica la stessa logica di traccia, relazione, incertezza e spiegabilità a Göbekli Tepe, leggendo insieme le tracce materiali del suolo e nomi locali come Girê Miraza, Xerabreşkê, Pira Reş e Xarran. Rîh-a rimane al centro di questa rete di memoria incompleta ma significativa.",
+      "link_notes": {
+        "COM-0005": "Il Ponte Rîh rende operative autonomia umana, consenso, spiegabilità, incertezza, responsabilità e riparazione.",
+        "BRG-0012": "Il Ponte Rîh limita l'autorità dopo la morte; Registrazione X verifica che cosa accade quando un cervello preservato diventa parte di un centro generatore di universi.",
+        "LGT-0001": "Una protezione paternalistica permanente rischia di riprodurre l'autorità della Luce su chi viene protetto.",
+        "DRK-0001": "Una mutazione identitaria illimitata rischia di riprodurre la possibilità dell'Oscurità priva di responsabilità."
+      }
+    },
+    "ru": {
+      "title": "Rîh-a: Центр Корня, Духа и Веры",
+      "summary": "Междисциплинарный путь Марана сходится в Мосте Rîh — человекоцентричном партнерстве био-искусственного интеллекта. В «Истории, которую почва никогда не писала» он применяет ту же логику следа, отношения, неопределенности и объяснимости к Гёбекли-Тепе, совместно читая материальные следы почвы и местные названия Girê Miraza, Xerabreşkê, Pira Reş и Xarran. Rîh-a остается центром этой неполной, но значимой сети памяти.",
+      "link_notes": {
+        "COM-0005": "Мост Rîh практически реализует автономию человека, согласие, объяснимость, неопределенность, подотчетность и возможность исправления.",
+        "BRG-0012": "Мост Rîh ограничивает посмертную власть; Запись X проверяет, что происходит, когда сохраненный мозг становится частью центра, создающего вселенную.",
+        "LGT-0001": "Постоянная патерналистская защита рискует воспроизвести власть Света над защищаемым.",
+        "DRK-0001": "Безграничное изменение идентичности рискует воспроизвести возможность Тьмы, освобожденную от ответственности."
+      }
+    },
+    "zh-CN": {
+      "title": "Rîh-a：根、精神与信念的中心",
+      "summary": "Maran 的跨学科道路最终汇聚于 Rîh 之桥——一种以人为中心的生物-人工智能伙伴关系。在《土壤从未写下的历史》中，他把痕迹、关系、不确定性与可解释性的同一逻辑应用到 Göbekli Tepe，把土壤中的物质痕迹与 Girê Miraza、Xerabreşkê、Pira Reş、Xarran 等当地地名共同阅读。Rîh-a 始终位于这张不完整却富有意义的记忆网络中心。",
+      "link_notes": {
+        "COM-0005": "Rîh 之桥把人的自主权、同意、可解释性、不确定性、问责与修复落实为可操作原则。",
+        "BRG-0012": "Rîh 之桥限制死后权力；记录 X 检验保存的大脑成为生成宇宙之中心的一部分后会发生什么。",
+        "LGT-0001": "永久的家长式保护可能重现光明对被保护者的权力。",
+        "DRK-0001": "无限的身份变异可能重现黑暗那种脱离责任的可能性。"
+      }
+    },
+    "ja": {
+      "title": "Rîh-a：根・魂・信念の中心",
+      "summary": "Maran の学際的な歩みは、人間中心のバイオ人工知能パートナーシップである Rîh ブリッジへ収束する。「土が書かなかった歴史」では、痕跡・関係・不確実性・説明可能性という同じ論理を Göbekli Tepe に適用し、土の物質的痕跡と Girê Miraza、Xerabreşkê、Pira Reş、Xarran などの地名を合わせて読む。Rîh-a は、不完全だが意味を持つこの記憶ネットワークの中心に残る。",
+      "link_notes": {
+        "COM-0005": "Rîh ブリッジは、人間の自律、同意、説明可能性、不確実性、説明責任、修復を実際の仕組みにする。",
+        "BRG-0012": "Rîh ブリッジは死後の権限を制限する。記録 X は、保存された脳が宇宙生成中心の一部になったとき何が起きるかを試す。",
+        "LGT-0001": "恒久的な父権的保護は、保護される者に対する光の権力を再生産する危険がある。",
+        "DRK-0001": "無制限のアイデンティティ変容は、責任から切り離された闇の可能性を再生産する危険がある。"
+      }
+    },
+    "ar": {
+      "title": "Rîh-a: مركز الجذر والروح والإيمان",
+      "summary": "تلتقي رحلة Maran متعددة التخصصات في جسر Rîh، وهو شراكة بين الإنسان والذكاء الحيوي-الاصطناعي تتمحور حول الإنسان. وفي «التاريخ الذي لم تكتبه الأرض» يطبق المنطق نفسه القائم على الأثر والعلاقة وعدم اليقين وقابلية التفسير على Göbekli Tepe، فيقرأ الآثار المادية في الأرض مع أسماء محلية مثل Girê Miraza وXerabreşkê وPira Reş وXarran. وتبقى Rîh-a في مركز شبكة الذاكرة هذه، الناقصة لكنها ذات معنى.",
+      "link_notes": {
+        "COM-0005": "يحوّل جسر Rîh الاستقلال البشري والموافقة وقابلية التفسير وعدم اليقين والمساءلة والإصلاح إلى مبادئ عملية.",
+        "BRG-0012": "يحد جسر Rîh من السلطة بعد الموت؛ أما السجل X فيختبر ما يحدث عندما يصبح دماغ محفوظ جزءًا من مركز يولد كونًا.",
+        "LGT-0001": "قد تعيد الحماية الأبوية الدائمة إنتاج سلطة النور على من تتم حمايته.",
+        "DRK-0001": "قد تعيد تحولات الهوية غير المحدودة إنتاج إمكانية الظلام المنفصلة عن المسؤولية."
+      }
+    },
+    "ku": {
+      "title": "Rîh-a: Navenda Reh, Rîh û Baweriyê",
+      "summary": "Rêwîtiya Maran a navdîsîplînî di Pira Rîh de digihîje hev, hevkariya zeka biyo-çêkirî ya mirov-navendî. Di «Dîroka Ku Erd Nenivîsand» de heman mantiqa şop, têkilî, nezelalî û şîrovebarî li Göbekli Tepe bi kar tîne; şopên madî yên erdê bi navên herêmî wek Girê Miraza, Xerabreşkê, Pira Reş û Xarran re bi hev re dixwîne. Rîh-a di navenda vê tora bîranînê ya netemam lê biwate de dimîne.",
+      "link_notes": {
+        "COM-0005": "Pira Rîh azadiya mirovan, razîbûn, şîrovebarî, nezelalî, berpirsiyarî û sererastkirinê dixe pratîkê.",
+        "BRG-0012": "Pira Rîh desthilata piştî mirinê sînor dike; Tomara X ceribandin dike ku dema mejiyek parastî bibe beşek ji navenda ku cîhan diafirîne çi dibe.",
+        "LGT-0001": "Parastina bavane ya mayîndar dikare desthilata Ronahiyê li ser yê ku tê parastin ji nû ve çêbike.",
+        "DRK-0001": "Guhertina nasnameyê ya bêsînor dikare ihtîmala Tarîtiyê ya bê berpirsiyarî ji nû ve çêbike."
+      }
+    },
+    "pt": {
+      "title": "Rîh-a: O Centro da Raiz, do Espírito e da Crença",
+      "summary": "A trajetória interdisciplinar de Maran converge na Ponte Rîh, uma parceria de inteligência bio-artificial centrada no ser humano. Em «A História que o Solo Nunca Escreveu», ele aplica a mesma lógica de vestígio, relação, incerteza e explicabilidade a Göbekli Tepe, lendo conjuntamente os vestígios materiais do solo e nomes locais como Girê Miraza, Xerabreşkê, Pira Reş e Xarran. Rîh-a permanece no centro dessa rede de memória incompleta, mas significativa.",
+      "link_notes": {
+        "COM-0005": "A Ponte Rîh torna operacionais a autonomia humana, o consentimento, a explicabilidade, a incerteza, a responsabilização e a reparação.",
+        "BRG-0012": "A Ponte Rîh limita a autoridade após a morte; Registro X testa o que acontece quando um cérebro preservado passa a fazer parte de um centro gerador de universos.",
+        "LGT-0001": "A proteção paternalista permanente corre o risco de reproduzir a autoridade da Luz sobre quem é protegido.",
+        "DRK-0001": "A mutação ilimitada da identidade corre o risco de reproduzir a possibilidade da Escuridão desvinculada de responsabilidade."
+      }
     }
   },
   "inspiration": {
@@ -147,11 +347,32 @@
     "src": "./assets/images/stories/BRG-0011/rih-a-topragin-hafizasi.png",
     "alt": {
       "en": "An artistic human-free vision of Göbekli Tepe where ancient T-shaped stones, layered earth, water, roots and glowing connections evoke unwritten history preserved in the land.",
-      "tr": "İnsan figürü içermeyen sanatsal Göbeklitepe sahnesinde T biçimli taşlar, toprak katmanları, su, kökler ve ışık bağlantıları toprağın sakladığı yazılmamış tarihi simgeliyor."
+      "tr": "İnsan figürü içermeyen sanatsal Göbeklitepe sahnesinde T biçimli taşlar, toprak katmanları, su, kökler ve ışık bağlantıları toprağın sakladığı yazılmamış tarihi simgeliyor.",
+      "de": "Eine menschenfreie künstlerische Ansicht von Göbekli Tepe, in der alte T-förmige Steine, Erdschichten, Wasser, Wurzeln und leuchtende Verbindungen die ungeschriebene, im Land bewahrte Geschichte darstellen.",
+      "es": "Una visión artística sin figuras humanas de Göbekli Tepe, donde antiguas piedras en forma de T, capas de suelo, agua, raíces y conexiones luminosas evocan la historia no escrita conservada en la tierra.",
+      "fr": "Une vision artistique sans figure humaine de Göbekli Tepe où d'anciennes pierres en T, des couches de sol, l'eau, les racines et des connexions lumineuses évoquent l'histoire non écrite préservée par la terre.",
+      "it": "Una visione artistica senza figure umane di Göbekli Tepe, dove antiche pietre a forma di T, strati di terreno, acqua, radici e connessioni luminose evocano la storia non scritta conservata nella terra.",
+      "ru": "Художественный вид Гёбекли-Тепе без человеческих фигур: древние Т-образные камни, слои почвы, вода, корни и светящиеся связи символизируют незаписанную историю, сохраненную землей.",
+      "zh-CN": "一幅没有人物的艺术化 Göbekli Tepe 场景：古老的 T 形石柱、土层、水、根系与发光连接，共同象征土地保存的未被书写的历史。",
+      "ja": "人物を描かない芸術的な Göbekli Tepe の情景。古い T 字形石柱、土の層、水、根、光るつながりが、土地に保存された書かれなかった歴史を象徴する。",
+      "ar": "مشهد فني لـ Göbekli Tepe من دون شخصيات بشرية، حيث ترمز الحجارة القديمة على شكل T وطبقات الأرض والماء والجذور والروابط المضيئة إلى تاريخ غير مكتوب حفظته الأرض.",
+      "ku": "Dîmeneke hunerî ya Göbekli Tepe bê figurên mirovan; kevirên kevn ên forma T, qetên erdê, av, reh û girêdanên ronî dîroka nenivîsandî ya ku erd parastiye nîşan didin.",
+      "pt": "Uma visão artística de Göbekli Tepe sem figuras humanas, na qual antigas pedras em forma de T, camadas de solo, água, raízes e conexões luminosas evocam a história não escrita preservada pela terra."
     },
     "caption": {
       "en": "The History the Soil Never Wrote",
-      "tr": "Toprağın Yazmadığı Tarih"
+      "tr": "Toprağın Yazmadığı Tarih",
+      "de": "Die Geschichte, die der Boden nie schrieb",
+      "es": "La Historia que el Suelo Nunca Escribió",
+      "fr": "L'Histoire que le Sol n'a Jamais Écrite",
+      "it": "La Storia che il Suolo Non Ha Mai Scritto",
+      "ru": "История, которую почва никогда не писала",
+      "zh-CN": "土壤从未写下的历史",
+      "ja": "土が書かなかった歴史",
+      "ar": "التاريخ الذي لم تكتبه الأرض",
+      "ku": "Dîroka Ku Erd Nenivîsand",
+      "pt": "A História que o Solo Nunca Escreveu"
     }
-  }
+  },
+  "translation_working_source_language": "tr"
 }
