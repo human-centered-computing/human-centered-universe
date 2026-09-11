@@ -267,12 +267,12 @@
     {
       "observation_order": 24,
       "id": "BRG-0017",
-      "title": "The End of Meaningless Work: From the Zero Point of History to Informatics 5.0",
+      "title": "Ministry of Informatics and Human-Centered Transformation: The First Local Experiment",
       "primary_center": "HUMAN",
       "center_weights": {
-        "HUMAN": 70,
-        "LIGHT": 25,
-        "DARK": 5
+        "HUMAN": 45,
+        "LIGHT": 30,
+        "DARK": 25
       }
     }
   ],
