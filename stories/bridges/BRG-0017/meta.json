@@ -1,125 +1,126 @@
 {
   "id": "BRG-0017",
-  "title": "The End of Meaningless Work: From the Zero Point of History to Informatics 5.0",
-  "original_title": "Anlamsız İşlerin Sonu: Tarihin Sıfır Noktasından Bilişim 5.0’a",
+  "title": "Ministry of Informatics and Human-Centered Transformation: The First Local Experiment",
+  "original_title": "Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı: Yerelde Başlayan İlk Deney",
   "core": "BRIDGE",
   "status": "canon",
-  "source_language": "en",
+  "source_language": "tr",
   "book_order": 17.7,
   "culture": [
     "transcultural",
+    "Harran University",
     "Sanliurfa",
     "Anatolia",
-    "Mesopotamia",
     "Türkiye"
   ],
   "belief_context": [
     "human-centered transformation",
-    "Industry 5.0",
+    "Informatics 5.0",
     "meaningful work",
+    "visible contribution",
     "open source",
     "human-AI partnership",
     "institutional learning",
-    "science-fiction"
+    "local-to-global transformation"
   ],
-  "summary": "Inspired by Industry 5.0 and Dostoevsky's reflections on meaningless labor, Maran designs a Java-based open-source Informatics 5.0 ecosystem in which technology serves human meaning, contribution is visible, failure becomes institutional learning, and reusable solutions move from local pilots in Sanliurfa toward a fictional future national Ministry of Informatics and Human-Centered Transformation.",
+  "summary": "Maran turns a previously established but inactive Informatics Coordination Office at Harran University into the local prototype of a long-envisioned future Ministry of Informatics and Human-Centered Transformation. The experiment combines NextLife, visible and append-only contribution records, impact-oriented work, learning as productive development, open-source reuse and transparent reporting of both success and failure. Harran becomes the first laboratory, Sanliurfa the first wider field, Türkiye the scaling layer, and the world the open horizon.",
   "translations": {
-    "en": {
+    "tr": {
       "status": "canonical"
     },
-    "tr": {
-      "status": "reviewed"
+    "en": {
+      "status": "needs_update"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0017/gelecegin-miras-atolyesi.png",
     "alt": {
-      "en": "A human-centered open-source technology workshop in Sanliurfa, connecting AI, code, local problem-solving, Göbekli Tepe and a national network across Türkiye.",
-      "tr": "Şanlıurfa'da yapay zekâ, açık kaynak kod, yerel sorun çözme, Göbekli Tepe ve Türkiye çapındaki ağı bir araya getiren insan merkezli teknoloji atölyesi."
+      "en": "A human-centered open-source technology workshop in Sanliurfa connecting local experimentation, AI, visible contribution and a wider transformation network.",
+      "tr": "Şanlıurfa'da yerel deney, yapay zekâ, görünür emek, açık kaynak ve daha geniş bir dönüşüm ağını bir araya getiren insan merkezli teknoloji atölyesi."
     },
     "caption": {
-      "en": "The Workshop of Future Inheritance",
-      "tr": "Geleceğin Miras Atölyesi"
+      "en": "The First Local Prototype",
+      "tr": "İlk Yerel Prototip"
     }
   },
   "links": [
     {
       "target": "BRG-0015",
       "type": "transformation",
-      "note": "Maran carries the Human-Centered Transformation method from education into institutional work and national digital infrastructure."
+      "note": "Human-Centered Transformation moves from education into institutional work, measurable human impact and a local public-sector prototype."
     },
     {
       "target": "BRG-0016",
       "type": "transformation",
-      "note": "Politics 5.0 and Informatics 5.0 share the same local-first logic: listen, test, measure, learn, and scale without replacing human responsibility."
+      "note": "Both stories test national-scale ideas locally before proposing wider institutional adoption."
     },
     {
       "target": "COM-0004",
       "type": "theme",
-      "note": "The Open Architects Network becomes a practical open-source ecosystem in which contribution and reuse are visible."
+      "note": "Open collaboration becomes a practical open-source layer in which contribution, reuse and institutional learning can remain visible."
     },
     {
       "target": "COM-0005",
       "type": "theme",
-      "note": "Meaningful work and visible contribution reject the treatment of human beings as raw material for institutions."
+      "note": "Meaningful work and visible contribution reject the treatment of human beings as interchangeable institutional resources."
     },
     {
       "target": "BRG-0008",
       "type": "echo",
-      "note": "Measurement matters, but only when it answers the human-centered question: what did this improve for a person?"
+      "note": "Measurement is meaningful only when it can answer what changed in a human life."
     }
   ],
   "observer_choices": [
     {
-      "key": "protect_meaningful_work",
-      "label": "Protect meaningful work and make real contribution visible.",
+      "key": "protect_meaning",
+      "label": "Protect the meaning of work and human development.",
       "labels": {
-        "en": "Protect meaningful work and make real contribution visible.",
-        "tr": "Anlamlı işi koru ve gerçek katkıyı görünür kıl."
-      },
-      "effects": {
-        "HUMAN": 10,
-        "LIGHT": 4,
-        "DARK": 1
-      }
-    },
-    {
-      "key": "open_and_reuse",
-      "label": "Open reusable solutions so others do not start from zero.",
-      "labels": {
-        "en": "Open reusable solutions so others do not start from zero.",
-        "tr": "Başkaları sıfırdan başlamasın diye yeniden kullanılabilir çözümleri aç."
-      },
-      "effects": {
-        "HUMAN": 5,
-        "LIGHT": 10,
-        "DARK": 1
-      }
-    },
-    {
-      "key": "record_failure",
-      "label": "Keep failure visible and turn it into shared institutional learning.",
-      "labels": {
-        "en": "Keep failure visible and turn it into shared institutional learning.",
-        "tr": "Başarısızlığı görünür tut ve ortak kurumsal öğrenmeye dönüştür."
+        "en": "Protect the meaning of work and human development.",
+        "tr": "Emeğin anlamını ve insanın gelişimini koru."
       },
       "effects": {
         "HUMAN": 6,
-        "LIGHT": 3,
-        "DARK": 10
+        "LIGHT": 2,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "verify_contribution",
+      "label": "Keep contribution, results and decisions verifiable beyond rank and office.",
+      "labels": {
+        "en": "Keep contribution, results and decisions verifiable beyond rank and office.",
+        "tr": "Katkıyı, sonucu ve kararı makamdan bağımsız biçimde doğrulanabilir kıl."
+      },
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 6,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "open_transformation",
+      "label": "Open locally tested models so others can adapt, improve and scale them.",
+      "labels": {
+        "en": "Open locally tested models so others can adapt, improve and scale them.",
+        "tr": "Yerelde sınanan modelleri başkalarının uyarlayıp geliştirebilmesi ve ölçekleyebilmesi için aç."
+      },
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 2,
+        "DARK": 6
       }
     }
   ],
   "localized": {
     "tr": {
-      "title": "Anlamsız İşlerin Sonu: Tarihin Sıfır Noktasından Bilişim 5.0’a",
-      "summary": "Maran, Endüstri 5.0 ve Dostoyevski'nin anlamsız emek üzerine düşüncelerinden hareketle Java tabanlı, açık kaynak Bilişim 5.0 ekosistemini geliştirir. Harran Üniversitesinde kurulan Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü; anlamlı iş, görünür katkı, başarısızlıktan öğrenme ve yerel sorunların açık kaynak çözümlere dönüştürülmesi ilkelerini Şanlıurfa'da sınar. Bu yerel deneyim, Human-Centered Universe'ün geleceğinde Türkiye ölçeğinde Bilişim ve İnsan Merkezli Dönüşüm Bakanlığının kuruluş çalışmalarına taşınır.",
+      "title": "Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı: Yerelde Başlayan İlk Deney",
+      "summary": "Maran, uzun yıllar üzerinde çalıştığı Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı düşüncesinin ilk gerçek basamağını Harran Üniversitesinde kurar. Daha önce kurduğu fakat aktif etmediği Bilişim Koordinatörlüğünü Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü olarak yeniden adlandırıp aktif hâle getirir. Ankara ve Hacettepe'de edindiği merkezi çalışma disiplinini yerelde karşılaştığı sorunlarla birleştirir; NextLife, görünür emek, etki odaklı çalışma, öğrenmenin verim olarak kabulü, açık kaynak ve başarı kadar başarısızlığın da kayda alınmasıyla Harran'ı ilk prototipe, Şanlıurfa'yı ilk geniş saha deneyine, Türkiye'yi ölçekleme katmanına ve dünyayı açık dönüşüm alanına dönüştürmeyi amaçlar.",
       "link_notes": {
-        "BRG-0015": "İnsan Merkezli Dönüşüm yaklaşımı eğitimden kurumsal çalışma ve ulusal bilişim altyapısına taşınır.",
-        "BRG-0016": "Siyaset 5.0 ile Bilişim 5.0 aynı yerel-önce mantığını paylaşır: dinle, dene, ölç, öğren ve insan sorumluluğunu koruyarak ölçekle.",
-        "COM-0004": "Açık Ağın Mimarları, katkı ve yeniden kullanımın görünür olduğu gerçek bir açık kaynak ekosistemine dönüşür.",
-        "COM-0005": "Anlamlı iş ve görünür katkı, insanın kurum için ham maddeye dönüştürülmesini reddeder.",
-        "BRG-0008": "Ölçüm, ancak 'Bu çalışma insan için neyi iyileştirdi?' sorusuna hizmet ettiğinde anlam kazanır."
+        "BRG-0015": "İnsan Merkezli Dönüşüm yaklaşımı eğitimden kurumsal çalışma ve ölçülebilir insan etkisine taşınır.",
+        "BRG-0016": "Her iki anlatıda da ulusal ölçekte düşünülen modeller önce yerelde sınanır, sonuçları kaydedilir ve daha sonra ölçeklenir.",
+        "COM-0004": "Açık iş birliği, katkı ve yeniden kullanımın görünür kaldığı gerçek bir açık kaynak ekosistemine dönüşür.",
+        "COM-0005": "Anlamlı iş ve görünür emek, insanın kurum içinde yalnızca değiştirilebilir bir kaynak olarak görülmesini reddeder.",
+        "BRG-0008": "Ölçüm ancak 'İnsan için ne değişti?' sorusuna cevap verebildiğinde anlam kazanır."
       }
     }
   },
@@ -132,8 +133,8 @@
     }
   ],
   "inspiration": {
-    "source": "Harran Üniversitesi Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü Yönergesi V17 — çalışma taslağı",
-    "type": "fictionalized institutional trajectory",
-    "note": "The uploaded V17 document defines a scientific, technical and administrative Ministry Model proposal only; the actual ministry-establishment phase described in this story is a fictional future event inside Human-Centered Universe."
+    "source": "Harran Üniversitesi Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü Yönergesi V28, Uygulama Usul ve Esasları V6, Teknik Rehber ve Şablonlar V6 ve NextLife Harran Uygulama Ekosistemi",
+    "type": "fictionalized real-world prototype",
+    "note": "The real-world documents define a Harran University coordination model and a scientific, technical and administrative Ministry Model proposal. They do not establish a ministry or grant central-government authority. The story presents the Harran coordination structure as a local prototype and imagines a possible future scaling path through Sanliurfa, Türkiye and the world."
   }
 }
