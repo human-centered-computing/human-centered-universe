@@ -4,7 +4,7 @@
   "original_title": "Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı: Yerelde Başlayan İlk Deney",
   "core": "BRIDGE",
   "status": "canon",
-  "source_language": "tr",
+  "source_language": "en",
   "book_order": 17.7,
   "culture": [
     "transcultural",
@@ -27,11 +27,11 @@
   ],
   "summary": "Maran turns a previously established but inactive Informatics Coordination Office at Harran University into the first local prototype of a long-envisioned future Ministry of Informatics and Human-Centered Transformation. The story creates a symbolic bridge between the historic Harran School as an early center of knowledge and Harran University as a modern laboratory for human-centered digital transformation. Through NextLife, visible and append-only contribution records, impact-oriented work, learning, open-source reuse and transparent reporting of both success and failure, Harran University becomes the first laboratory, Sanliurfa the first wider field, Türkiye the scaling layer, and the world the open horizon.",
   "translations": {
-    "tr": {
+    "en": {
       "status": "canonical"
     },
-    "en": {
-      "status": "needs_update"
+    "tr": {
+      "status": "reviewed"
     }
   },
   "hero_image": {
