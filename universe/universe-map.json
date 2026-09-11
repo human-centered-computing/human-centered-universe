@@ -180,6 +180,13 @@
       "center_weights": {"HUMAN": 70, "LIGHT": 25, "DARK": 5}
     },
     {
+      "observation_order": 25,
+      "id": "BRG-0018",
+      "title": "The History the Soil Never Wrote: Traces of Girê Miraza",
+      "primary_center": "HUMAN",
+      "center_weights": {"HUMAN": 50, "LIGHT": 30, "DARK": 20}
+    },
+    {
       "observation_order": 26,
       "id": "BRG-0019",
       "title": "Ministry of Informatics and Human-Centered Transformation: The First Local Experiment",
