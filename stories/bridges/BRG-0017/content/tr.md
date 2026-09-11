@@ -1,1125 +1,950 @@
-# Anlamsız İşlerin Sonu
+# Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı
 
-## Tarihin Sıfır Noktasından Bilişim 5.0’a
+## Yerelde Başlayan İlk Deney
 
-Maran uzun yıllar bilişim sistemleri üzerinde çalışmıştı.
+Bazı kurumlar önce kanunla kurulur.
 
-Kod yazmıştı.
+Bazıları ise önce bir insanın zihninde doğar.
 
-Veri tabanları kurmuştu.
+Maran'ın zihnindeki kurumun henüz binası yoktu.
 
-Üniversitelerin, kamu kurumlarının ve şirketlerin kullandığı sistemleri incelemişti.
+Bakanı yoktu.
 
-Fakat zaman geçtikçe bir şeyi fark etmeye başladı.
+Teşkilat şeması yoktu.
 
-Sorun artık bilgisayarların yeterince güçlü olmaması değildi.
+Bütçesi yoktu.
 
-Yazılımlar da yeterince hızlıydı.
+Hatta adı bile yıllar boyunca değişmişti.
 
-Yapay zekâ giderek daha fazla işi yapabiliyordu.
+Fakat amacı giderek netleşmişti:
 
-Asıl sorun başka yerdeydi.
+**Teknolojinin insanı yönettiği bir düzen değil, teknolojinin insanın hayatını iyileştirdiği bir düzen kurmak.**
 
-**İnsan emeğinin nasıl kullanıldığıydı.**
+Maran yıllardır bu düşünce üzerinde çalışıyordu.
 
----
-
-Bir insan çok çalışabiliyordu.
-
-Ama hiçbir şey üretemeyebiliyordu.
-
-Bir personel bütün gün masasında oturabiliyor,
-
-onlarca yazışma yapabiliyor,
-
-toplantılara katılabiliyor,
-
-aynı bilgiyi farklı tablolara tekrar tekrar girebiliyor,
-
-fakat günün sonunda şu soruya cevap veremiyordu:
-
-**Bugün bir insan için neyi iyileştirdim?**
-
-Maran bunu yalnızca verimsizlik olarak görmüyordu.
-
-Daha derin bir sorun olduğunu düşünüyordu.
-
-Çünkü insan yaptığı işte anlam göremediğinde yalnızca zamanı kaybolmuyordu.
-
-Kendisi de yavaş yavaş kayboluyordu.
-
----
-
-Bir gece yeniden Dostoyevski'nin *Ölüler Evinden Anılar*'ını karıştırıyordu.
-
-Kitaptaki bir düşünce zihninde yıllardır taşıdığı bütün parçaları bir araya getirdi.
-
-Bir insana verilebilecek en ağır cezalardan biri,
-
-onu fiziksel olarak yoracak bir iş vermek değildi.
-
-Ona **tamamen anlamsız ve faydasız bir iş** vermekti.
-
-Suyu bir kovadan diğerine boşaltmak.
-
-Sonra geri doldurmak.
-
-Kumu bir yerden başka bir yere taşımak.
-
-Sonra yeniden eski yerine götürmek.
-
-İnsan yaptığı şeyin hiçbir anlamı olmadığını bildiğinde,
-
-iş yalnızca bedenini değil,
-
-iradesini de tüketiyordu.
-
-Maran kitabı kapattı.
-
-Uzun süre masanın üzerinde duran bilgisayara baktı.
-
-Sonra kendi kendine:
-
-“Biz bunu modern kurumlarda daha karmaşık biçimde yapıyoruz.”
-
-dedi.
-
-Artık kovalar yoktu.
-
-Ama anlamsız formlar vardı.
-
-Kum yoktu.
-
-Ama birbirinin aynısı raporlar vardı.
-
-Prangalar yoktu.
-
-Ama amacı bilinmeyen görevler,
-
-keyfî talimatlar,
-
-sonucu olmayan toplantılar
-
-ve yalnızca hiyerarşik makamdan dolayı verilen işler vardı.
-
----
-
-Dostoyevski mahkûmların başka bir davranışını da anlatıyordu.
-
-İnsanlar bazen büyük emekle elde ettikleri şeyi bir gecede tüketiyor,
-
-kurallara meydan okuyor,
-
-kendilerine zarar verecek davranışlarda bulunuyordu.
-
-Dışarıdan bakıldığında bu mantıksız görünüyordu.
-
-Ama altında başka bir ihtiyaç vardı:
-
-**Özgür olduğunu hissetmek.**
-
-Kendi iradesini hâlâ kullanabildiğini kendisine kanıtlamak.
-
-Maran aynı davranışın farklı biçimlerini kurumlarda da görüyordu.
-
-Bir insan yıllarca hiçbir kararın parçası yapılmadığında,
-
-fikri sorulmadığında,
-
-ürettiği şeyin üzerinde adı görünmediğinde,
-
-yaptığı iş başka birinin başarısı olarak sunulduğunda,
-
-zamanla sisteme karşı görünmez bir direnç geliştiriyordu.
-
-Bazen işi yavaşlatıyordu.
-
-Bazen sadece kendisine verilen kadarını yapıyordu.
-
-Bazen iyi bir fikri paylaşmıyordu.
-
-Bazen kurumun kaybedeceğini bilmesine rağmen sessiz kalıyordu.
-
-Bu her zaman tembellik değildi.
-
-Bazen kişiliğin sessiz bir isyanıydı:
-
-**“Ben yalnızca emir alan bir parça değilim.”**
-
----
-
-Maran burada kendi yıllardır üzerinde düşündüğü Endüstri 5.0 yaklaşımını yeniden ele aldı.
-
-Endüstri 4.0'ın büyük sorusu şuydu:
-
-**Makineyi nasıl daha verimli kullanabiliriz?**
-
-Endüstri 5.0 başka bir soru getiriyordu:
-
-**Teknolojiyi insan için nasıl kullanabiliriz?**
-
-Maran bu soruyu bilişime taşıdı.
-
-Ve yeni kavramın adını koydu:
-
-# Bilişim 5.0
-
-Bilişim 5.0'ın merkezinde bilgisayar yoktu.
-
-Yapay zekâ yoktu.
-
-Yazılım yoktu.
-
-Merkezde:
-
-**İnsan vardı.**
-
-Teknoloji,
-
-insanın yerine geçmek için değil,
-
-onun gereksiz yükünü azaltmak,
-
-üretkenliğini artırmak,
-
-öğrenmesini hızlandırmak
-
-ve anlamlı işlere daha fazla zaman ayırmasını sağlamak için kullanılacaktı.
-
----
-
-Maran bunun yalnızca bir felsefe olarak kalmasını istemedi.
-
-Bir ekosistem tasarladı.
-
-Çekirdeğini Java tabanlı kurdu.
-
-Bunun nedeni yalnızca Java'nın teknik özellikleri değildi.
-
-Maran yıllar boyunca farklı kurumların birbirinden kopuk sistemler geliştirmesinden rahatsız olmuştu.
-
-Her kurum aynı kullanıcı yönetimini yeniden yazıyordu.
-
-Aynı proje takip sistemini yeniden geliştiriyordu.
-
-Aynı belge akışını yeniden oluşturuyordu.
-
-Aynı problemler için tekrar tekrar para ve insan emeği harcanıyordu.
-
-Bilişim 5.0 bunun tersini yapacaktı.
-
-**Bir kez geliştir.**  
-**Doğrula.**  
-**Açık hâle getir.**  
-**Birlikte geliştir.**  
-**Yeniden kullan.**
-
-Java tabanlı açık çekirdek,
-
-farklı kurumların kullanabileceği ortak servislerden oluşacaktı.
-
-Kurumların kendilerine özgü ve güvenlik gerektiren parçaları ayrı tutulacaktı.
-
-Ama insanlığın tekrar tekrar yazmasına gerek olmayan şeyler açık olacaktı.
-
-Kod görülebilecekti.
-
-Hata bildirilebilecekti.
-
-Başka ülkelerden insanlar katkı sunabilecekti.
-
-Bir öğrenci bile küçük bir düzeltmeyle büyük bir kamu sistemine katkıda bulunabilecekti.
-
-Ve en önemlisi:
-
-**Kimin ne yaptığı görülebilecekti.**
-
----
-
-Maran için bu konu teknik olmaktan çok daha fazlasıydı.
-
-Çünkü yıllar boyunca başka bir problem görmüştü.
-
-İnsanlar fikir üretiyor,
-
-kod yazıyor,
-
-rapor hazırlıyor,
-
-sahaya çıkıyor,
-
-problemi çözüyor,
-
-ama sonunda ortaya çıkan başarı yalnızca makam sahibi insanların isimleriyle anılabiliyordu.
-
-Maran buna karşıydı.
-
-Bir projenin başında profesör, rektör, genel müdür ya da bakan olabilir.
-
-Yöneticinin sağladığı destek projenin başarısına katkı sunuyorsa,
-
-bu katkının görünür olması doğaldı.
-
-Ama başarıya katkı sağlayan herkesin emeği de görünmeliydi.
-
-Kodu öğrenci yazdıysa,
-
-kod katkısı öğrencinindi.
-
-Saha verisini personel topladıysa,
-
-o katkı personelindi.
-
-Fikri bir araştırmacı geliştirdiyse,
-
-fikir ona aitti.
-
-Bir yönetici projenin önünü açmışsa,
-
-onun katkısı da kaydedilecekti.
-
-Ama bir yönetici süreci engellemiş,
-
-proje bu engellere rağmen başarılı olmuşsa,
-
-yalnız makamı nedeniyle başarının sahibi gibi gösterilemeyecekti.
-
-Maran'ın ölçüsü basitti:
-
-**Başarıyı makam değil, doğrulanabilir katkı paylaşmalıydı.**
-
-Bilişim 5.0 bu yüzden yalnızca kodu değil,
-
-**emeği de sürümlüyordu.**
-
-Fikir.
-
-Kod.
-
-Analiz.
-
-Tasarım.
-
-Test.
-
-Dokümantasyon.
-
-Saha çalışması.
-
-Mentorluk.
-
-Proje yönetimi.
-
-Kurumsal destek.
-
-Hepsi görünür olacaktı.
-
-Çünkü Maran için insan merkezli dönüşüm,
-
-insana teşekkür etmekten daha fazlasıydı.
-
-**İnsanın emeğinin sistem tarafından unutulamayacağı bir yapı kurmaktı.**
-
----
-
-Fakat Maran'ın önünde hâlâ büyük bir problem vardı.
-
-Bütün bunlar güzel fikirlerdi.
-
-Ama nerede uygulanacaktı?
-
-Cevap yine Şanlıurfa oldu.
-
-Maran artık bu coğrafyayı yalnız doğduğu veya çalıştığı yer olarak görmüyordu.
-
-Göbekli Tepe nedeniyle ona farklı bir anlam yüklüyordu:
-
-**Tarihin sıfır noktası.**
-
-İnsanlığın geçmişte yeni bir toplumsal düzen kurduğu düşünülen coğrafyada,
-
-bu kez dijital çağın insan merkezli düzenini denemek istiyordu.
-
----
-
-Harran Üniversitesinde bunun için yeni bir yapı kuruldu:
-
-# Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü
-
-Maran'ın amacı yeni bir bürokrasi üretmek değildi.
-
-Tam tersine,
-
-bürokrasinin insan üzerindeki gereksiz yükünü azaltmaktı.
-
-Koordinatörlüğün ilk sorusu:
-
-“Bu yıl kaç proje yaptık?”
-
-değildi.
-
-Şuydu:
-
-**“Hangi sorunu çözdük?”**
-
-Toplantı sayısı başarı değildi.
-
-Yazılan rapor sayısı başarı değildi.
-
-Kaç kişinin odasında bulunduğu başarı değildi.
-
-Her çalışmada başka bir soru soruluyordu:
-
-**Bu çalışma insan için neyi iyileştirdi?**
-
----
-
-Sonra Maran yıllardır düşündüğü çalışma modelini yönergeye dönüştürdü.
-
-Her iş başlamadan önce altı şey sorulacaktı:
-
-Neden yapılıyor?
-
-Kimin için yapılıyor?
-
-Beklenen çıktı nedir?
-
-Kim sorumludur?
-
-Ne kadar sürecektir?
-
-Nasıl ölçülecektir?
-
-Bu soruların cevabı yoksa,
-
-o iş sorgulanacaktı.
-
-Bir görev yalnızca:
-
-“Yönetici istedi.”
-
-diye anlamlı sayılmayacaktı.
-
-Bir insan cezalandırılsın,
-
-yıldırılsın,
-
-sindirilsin
-
-veya değersiz hissetsin diye görev verilemeyecekti.
-
-Amaçsızca tekrarlanan işler azaltılacaktı.
-
-İnsanlar masada geçirdikleri saatle değil,
-
-ürettikleri değer,
-
-öğrendikleri şey,
-
-ekibe katkıları
-
-ve kamu yararı üzerinden değerlendirilecekti.
-
-Maran bunu bir gün çalışma arkadaşlarına şöyle anlattı:
-
-“Dostoyevski'nin kovalarını dijital dünyaya taşımayacağız.”
-
-Odada kısa bir sessizlik oldu.
-
-Sonra gülüşmeler başladı.
-
-Ama herkes ne demek istediğini anlamıştı.
-
----
-
-İlk aylar kolay geçmedi.
-
-Bazı insanlar sisteme karşı çıktı.
-
-Çünkü belirsizlik bazıları için avantajdı.
-
-Bir işin neden verildiği yazıldığında,
-
-keyfî karar vermek zorlaşıyordu.
-
-Katkılar kayıt altına alındığında,
-
-başkasının emeğini sahiplenmek zorlaşıyordu.
-
-Kararlar gerekçelendirildiğinde,
-
-makam tek başına yeterli olmuyordu.
-
-Proje sonuçları ölçüldüğünde,
-
-başarısız bir işi başarılıymış gibi anlatmak zorlaşıyordu.
-
-Bilişim 5.0 yalnız teknolojiyi değiştirmiyordu.
-
-**Güç ilişkilerini görünür hâle getiriyordu.**
-
-Ve görünürlük her zaman rahat değildi.
-
----
-
-Maran geri adım atmadı.
-
-Ama başka bir hata da yapmak istemedi.
-
-Yeni sistemin kendisi yeni bir baskı mekanizmasına dönüşmemeliydi.
-
-Bu yüzden insanların her hareketini ölçen bir performans sistemi kurmadı.
-
-“İnsan makine değildir.”
-
-diyordu.
-
-“Her dakika çıktı üretmez.”
-
-Araştırmak da çalışmaydı.
-
-Öğrenmek de.
-
-Düşünmek de.
-
-Denemek de.
-
-Yanılmak da.
-
-Bazen hiçbir sonuç elde edemeden haftalarca çalışmak da gerekli olabilirdi.
-
-Önemli olan başarısızlığın gizlenmemesiydi.
-
----
-
-Bilişim 5.0'ın en sıra dışı uygulamalarından biri bu oldu:
-
-# Başarısızlık ve Öğrenme Kaydı
-
-Bir proje başarısız olursa silinmeyecekti.
-
-Ekipten:
-
-“Neden olmadı?”
-
-diye sorulacaktı.
-
-Yanlış varsayım mı?
-
-Eksik veri mi?
-
-Teknik hata mı?
-
-İnsan davranışı mı?
-
-Yetersiz kaynak mı?
-
-Yanlış problem tanımı mı?
-
-Sonra şu soru gelecekti:
-
-**Bir daha deneyen kişi neyi farklı yapmalı?**
-
-Bir süre sonra başarısız projeler kurumun en değerli bilgi kaynaklarından biri hâline geldi.
-
-Çünkü aynı yanlışın tekrar yapılmasını engelliyorlardı.
-
-Maran şunu fark etti:
-
-**Kurumsal hafıza yalnız başarıların arşivi değildir.**  
-**Hataların da hafızasıdır.**
-
----
-
-Şanlıurfa'da küçük problemler çözülmeye başladı.
-
-Bir kurumda saatler alan süreç kısaldı.
-
-Başka bir yerde aynı veri tekrar tekrar istenmekten kurtuldu.
-
-Bir proje farklı kurumlar arasında paylaşılabilir hâle geldi.
-
-Bir öğrencinin geliştirdiği küçük bir kod parçası başka projelerde kullanılmaya başladı.
-
-Bazı çalışmalar başarısız oldu.
-
-Bazıları durduruldu.
-
-Bazıları yeniden tasarlandı.
-
-Ama bütün süreç kayıt altındaydı.
-
-Sonuçlar anonimleştiriliyor,
-
-uygun olan çekirdek yazılımlar açık kaynak hâline getiriliyor
-
-ve Human-Centered Computing ağı üzerinden dünyaya açılıyordu.
-
-Şanlıurfa artık yalnız çözüm alan bir yer değildi.
-
-**Çözüm üreten bir yerdi.**
-
----
-
-# Geleceğin Miras Atölyesi
-
-Bir süre sonra Maran Koordinatörlüğün çalışmalarına başka bir gözle bakmaya başladı.
-
-Masaların etrafında yalnız yazılımcılar yoktu.
-
-Öğrenciler vardı.
-
-Akademisyenler vardı.
-
-Kamu çalışanları vardı.
-
-Tasarımcılar,
-
-hukukçular,
-
-eğitimciler,
-
-mühendisler
-
-ve farklı ülkelerden açık kaynak geliştiricileri vardı.
-
-Yanlarında yapay zekâ sistemleri çalışıyordu.
-
-Ama yapay zekâ kimsenin patronu değildi.
-
-Soruları analiz ediyor,
-
-benzer projeleri buluyor,
-
-kod öneriyor,
-
-verileri karşılaştırıyor,
-
-alternatifler üretiyor
-
-ve insanların tekrar tekrar yapmak zorunda kaldığı işleri azaltıyordu.
-
-Nihai karar ise insanlarda kalıyordu.
-
-Maran bir gün bu ortamı izlerken Göbekli Tepe'yi düşündü.
-
-Binlerce yıl önce insanlar burada büyük taşları tek başlarına kaldırmamıştı.
-
-Birlikte çalışmışlardı.
-
-Şimdi önündeki insanlar da başka türden taşlar kaldırıyordu:
-
-Kod.
-
-Veri.
-
-Bilgi.
-
-Kurumsal hafıza.
-
-Ve yapay zekâ.
-
-Maran bu çalışma ortamına kendi zihninde bir isim verdi:
-
-**Geleceğin Miras Atölyesi.**
-
-Çünkü burada amaç yalnız bugünün problemlerini çözmek değildi.
-
-Bir sonraki insanın aynı probleme yeniden sıfırdan başlamasını engellemekti.
-
-Bir kişinin ürettiği çözüm,
-
-başka bir insanın başlangıç noktası olacaktı.
-
-Bir öğrencinin kodu,
-
-başka bir şehirde yaşayan insanın hayatını kolaylaştırabilecekti.
-
-Bir kurumun başarısızlığı,
-
-başka bir kurumun aynı hatayı yapmasını önleyebilecekti.
-
-Maran için artık açık kaynak yalnızca bir yazılım lisansı değildi.
-
-**Kuşaklar arasında aktarılan dijital bir emek hafızasıydı.**
-
----
-
-Bilişim 5.0 ekosistemi zamanla üç katmanda büyüdü.
-
-**NextCode**, Türkiye'deki kurumların proje ve kod iş birliği katmanıydı.
-
-**NextDeveloper**, ortak teknik standartların ve geliştirici rehberlerinin bulunduğu alandı.
-
-**Human-Centered Computing** ise dünyanın herhangi bir yerindeki geliştiricinin katılabildiği açık kaynak ağıydı.
-
-Böylece Şanlıurfa'daki küçük bir problemin çözümü,
-
-başka bir şehirde,
-
-başka bir üniversitede,
-
-hatta başka bir ülkede kullanılabiliyordu.
-
-Aynı şekilde dünyanın başka yerinde geliştirilmiş iyi bir çözüm de sıfırdan tekrar yazılmak yerine Şanlıurfa'ya uyarlanabiliyordu.
-
-Maran'ın yıllardır söylediği şey yavaş yavaş görünür hâle geliyordu:
-
-**İnsanlığın aynı problemi binlerce kez çözmeye çalışması gerekmiyordu.**
-
----
-
-Ancak Bilişim 5.0'ın asıl başarısı yazılım değildi.
-
-İnsanlarda meydana gelen değişimdi.
-
-Çalışanlar artık yalnız kendilerine verilen görevi tamamlamaya çalışmıyordu.
-
-Soruyorlardı:
-
-“Bunu neden yapıyoruz?”
-
-“Daha önce yapılmış mı?”
-
-“Kim kullanacak?”
-
-“Daha kolay yolu var mı?”
-
-“Bunu başkaları da kullanabilir mi?”
-
-“Ben burada ne öğrendim?”
-
-Ve en önemlisi:
-
-**“Benim katkım neydi?”**
-
-Dostoyevski'nin anlattığı kişiliğin isyanı,
-
-Maran'ın kurmaya çalıştığı sistemde başka bir şeye dönüşüyordu.
-
-İnsan kendisini göstermek için sistemi kırmak zorunda kalmıyordu.
-
-Çünkü sistem zaten onun birey olduğunu kabul ediyordu.
-
-Kendi fikrini söyleyebiliyordu.
-
-Katkısı kayda giriyordu.
-
-Yanlış olduğunu düşündüğü bir karara gerekçeyle itiraz edebiliyordu.
-
-Yeni bir çözüm önerebiliyordu.
-
-Öğrenebiliyordu.
-
-Ve başarısız olabiliyordu.
-
-Özgürlük artık yalnızca:
-
-**“İstediğimi yapabilirim.”**
-
-duygusu değildi.
-
-Başka bir anlam kazanmıştı:
-
-**“Yaptığım şeyin içinde ben de varım.”**
-
----
-
-Yıllar geçti.
-
-Maran defalarca aynı fikri anlattı.
-
-Bazen akademisyenlere.
-
-Bazen yöneticilere.
-
-Bazen siyasetçilere.
-
-Bazen yazılımcılara.
-
-Bazıları dinledi.
-
-Bazıları:
-
-“Zaten bilişim kurumlarımız var.”
-
-dedi.
-
-Bazıları:
-
-“Yeni bir yapıya gerek yok.”
-
-dedi.
-
-Bazıları ise Bilişim 5.0'ı yalnızca başka bir dijital dönüşüm projesi sandı.
-
-Maran her defasında aynı şeyi anlatmaya çalışıyordu:
-
-“Ben teknoloji bakanlığı istemiyorum.
-
-Ben teknolojinin insan için nasıl kullanılacağını koordine edecek bir yapıdan bahsediyorum.”
-
-Ama yıllarca bu ihtiyaç birçok kişiye uzak görünüyordu.
-
----
-
-Sonra dünya değişti.
-
-Yapay zekâ bütün mesleklerin içine girdi.
-
-Kamu kurumları farklı yapay zekâ sistemleri kullanmaya başladı.
-
-Veri sistemleri büyüdü.
-
-Aynı dijital projeler farklı kurumlarda tekrar tekrar geliştirildi.
-
-Açık kaynak artık yalnız yazılımcıların konusu olmaktan çıktı.
-
-İnsan ile yapay zekâ arasındaki görev sınırları,
-
-fikrî haklar,
-
-veri güvenliği,
-
-insan emeğinin geleceği,
-
-algoritmik kararlar,
-
-dijital kamu hizmetleri
-
-ve kurumlar arası ortak altyapı
-
-ulusal sorunlar hâline geldi.
-
-Bir zamanlar Maran'ın anlatmakta zorlandığı ihtiyaç,
-
-artık herkesin önündeydi.
-
----
-
-Türkiye'de yeni bir çalışma başladı.
-
-Adı yıllar önce Maran'ın yönergesine yazdığı modelle aynıydı:
+Hayalindeki yapı bir gün Türkiye'de kurulabilecek bir:
 
 # Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı
 
-Artık bu yalnız bir akademik öneri değildi.
+idi.
 
-Human-Centered Universe'ün geleceğinde,
+Ama böyle bir yapı masa başında tasarlanamazdı.
 
-ülkenin farklı kurumları bu yapının nasıl kurulacağını tartışmaya başlamıştı.
+Bir ülkeye uygulanmadan önce bir yerde denenmeliydi.
 
-Fakat bu kez masada yalnız teoriler yoktu.
+İnsanlarla karşılaşmalıydı.
 
-Şanlıurfa vardı.
+Başarılı olmalıydı.
 
-Pilotlar vardı.
+Başarısız olmalıydı.
 
-Başarılar vardı.
+Eleştirilmeliydi.
 
-Başarısızlıklar vardı.
+Düzeltilmeliydi.
 
-Açık kaynak projeler vardı.
+Ve bütün bunların kaydı tutulmalıydı.
 
-Katkı kayıtları vardı.
-
-Etki ölçümleri vardı.
-
-Ve yıllarca birikmiş gerçek deneyim vardı.
+Maran bunun ilk basamağını Harran Üniversitesinde kurmaya karar verdi.
 
 ---
 
-Maran bakanlığın kuruluş çalışmalarına davet edildiğinde uzun süre ekrana baktı.
+# Ankara'dan Harran'a
 
-Yıllar önce birçok insana anlatmaya çalıştığı şey artık karşısında resmî bir çalışma dosyası olarak duruyordu.
+Maran uzun yıllar Ankara'da yaşamıştı.
 
-Bir zamanlar:
+Hacettepe Üniversitesinde bilişim projeleri üzerinde çalışmış, farklı yüksek lisans eğitimleri almış ve büyük bir kurumun nasıl çalıştığını içeriden gözlemlemişti.
 
-“Böyle bir şeye neden ihtiyacımız olsun?”
+Merkezde çalışmanın kendine özgü bir disiplini vardı.
 
-diyenlerin yerine şimdi başka bir soru soruluyordu:
+Uzmanlık vardı.
 
-**“Bunu nasıl kurmalıyız?”**
+İnsan kaynağı vardı.
 
-Maran için aradaki fark yalnız birkaç kelime değildi.
+Kurumsal hafıza vardı.
 
-Yıllardı.
+Farklı alanlardan insanlara ulaşmak daha kolaydı.
 
-Hayal kırıklıklarıydı.
+Bir sorun ortaya çıktığında o sorunla ilgili bilgiye, uzmana veya geçmiş deneyime ulaşma ihtimali yüksekti.
 
-Yazdığı kodlardı.
+Maran bu yapının güçlü taraflarını öğrenmişti.
 
-Hazırladığı yönergelerdi.
+Fakat yıllar sonra yerelde çalışmaya başladığında başka bir Türkiye ile karşılaştı.
 
-Olmayan projelerdi.
+Merkezde küçük görünen bazı problemler yerelde büyük sonuçlar doğurabiliyordu.
 
-Başarısız denemelerdi.
+İnsan kaynağı daha sınırlıydı.
 
-Gecenin bir yarısında düzelttiği belgelerdi.
+Bir kişinin yapması gereken iş bazen birkaç farklı uzmanlık alanına yayılıyordu.
 
-İnsanlara anlatmaya çalışıp anlatamadığı fikirlerdi.
+Bazı işler alışkanlık nedeniyle sürdürülüyordu.
+
+Bazı insanlar ne kadar çalışırsa çalışsın ortaya koydukları emek görünmüyordu.
+
+İyi fikirler bazen makamların arasında kayboluyordu.
+
+Bir problemi gören insan ile problemi çözmeye yetkili insan arasında uzun mesafeler vardı.
+
+Ve belki de en önemlisi:
+
+**İnsanlar çoğu zaman yaptıkları işin sonunda ne değiştiğini göremiyordu.**
+
+Maran bu sorunları çözmeye hemen çalışmadı.
+
+Önce not etti.
+
+Bir sorun.
+
+Sonra başka bir sorun.
+
+Bir başarısızlık.
+
+Bir iyi uygulama.
+
+Bir çalışanın söylediği cümle.
+
+Bir öğrencinin yaşadığı zorluk.
+
+Bir yöneticinin çözmeye çalıştığı süreç.
+
+Bir yazılımcının tekrar tekrar yapmak zorunda kaldığı iş.
+
+Notlar yıllar içinde büyüdü.
+
+Ve sonunda birbirinden bağımsız görünen problemlerin aslında aynı soruya çıktığını fark etti:
+
+> **Kurum insan için mi çalışıyordu, insan kurum için mi?**
 
 ---
 
-Kuruluş toplantılarının ilkinde Ankara'da büyük bir ekran açıldı.
+# İlk Yapı
 
-Türkiye haritası görünüyordu.
+Maran Harran Üniversitesine geldiğinde bir Bilişim Koordinatörlüğü kurdu.
 
-Merkezde bakanlık için düşünülen ulusal yapı vardı.
+Fakat onu hemen aktif hâle getirmedi.
 
-Maran ekrana baktı.
+Çünkü yalnızca yeni bir bilişim birimi oluşturmanın yeterli olmadığını düşünüyordu.
 
-Sonra:
+Yeni bir kurum kurup eski çalışma anlayışını devam ettirmek dönüşüm olmayacaktı.
 
-“Yanlış yerden başlamayalım.”
+Bir süre bekledi.
 
-dedi.
+Gözlemledi.
 
-Odada sessizlik oldu.
+Not aldı.
+
+Düşündü.
+
+Sonunda kararını verdi.
+
+Bilişim Koordinatörlüğünün adı değişecekti.
+
+Ama esas değişiklik tabelada olmayacaktı.
+
+Yeni adı:
+
+# Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü
+
+olacaktı.
+
+Bilişim devam edecekti.
+
+Yazılım geliştirilecekti.
+
+Yapay zekâ kullanılacaktı.
+
+Veriler işlenecekti.
+
+Süreçler dijitalleşecekti.
+
+Fakat bütün bunların üzerinde yeni bir soru bulunacaktı:
+
+# Bunun insan hayatındaki karşılığı nedir?
+
+Koordinatörlük böylece aktif hâle gelecekti.
+
+Ve yıllardır zihinde yaşayan büyük yapının ilk gerçek prototipi başlayacaktı.
+
+---
+
+# Bakanlıktan Önce Laboratuvar
+
+Maran'ın amacı Harran Üniversitesinde küçük bir bakanlık kurmak değildi.
+
+Bu zaten hukuken de mümkün değildi.
+
+Ama üniversite bir **deney alanı** olabilirdi.
+
+Yeni çalışma modelleri burada denenebilirdi.
+
+Yeni dijital sistemler burada geliştirilebilirdi.
+
+İnsan ve yapay zekâ arasındaki görev paylaşımı burada sınanabilirdi.
+
+Açık kaynak üretim modelleri denenebilirdi.
+
+Çalışanların katkısının nasıl kayıt altına alınacağı araştırılabilirdi.
+
+Uzaktan ve hibrit çalışmanın nerede faydalı, nerede zararlı olduğu görülebilirdi.
+
+İnsan performansının saatle değil etkiyle değerlendirilmesinin sınırları araştırılabilirdi.
+
+Ve en önemlisi:
+
+**Başarısızlıklar saklanmayabilirdi.**
+
+Çünkü proje yalnızca iyi sonuçları göstermek için kurulmayacaktı.
+
+Olumsuz sonuçlar da raporlanacaktı.
+
+Harran'da yapılan her deneme şu soruların cevabını üretecekti:
+
+Ne çalıştı?
+
+Ne çalışmadı?
+
+Neden çalışmadı?
+
+Kim fayda gördü?
+
+Kim zarar gördü?
+
+Ne kadar zaman kazanıldı?
+
+Ne kadar maliyet oluştu?
+
+İnsanların hayatında gerçekten bir değişiklik oldu mu?
+
+Ve bu model başka yerde uygulanabilir mi?
+
+Bu raporlar önce Şanlıurfa'nın,
+
+sonra Türkiye'nin,
+
+daha sonra dünyanın kullanabileceği bir deney hafızasına dönüşecekti.
+
+---
+
+# NextLife
+
+Bu düşüncenin dijital karşılığına **NextLife** adı verildi.
+
+NextLife yalnızca bir yazılım değildi.
+
+Maran onu geleceğin insan merkezli bilişiminin ilk denemesi olarak görüyordu.
+
+Eski bilişim anlayışında soru çoğu zaman şuydu:
+
+**“Sistem ne yapabiliyor?”**
+
+Yeni anlayışta soru değişiyordu:
+
+**“İnsan bu sistem sayesinde ne yapabiliyor?”**
+
+NextLife bu nedenle insanı uygulamaların arasında kaybolan bir kullanıcı olmaktan çıkarmaya çalışıyordu.
+
+İnsan önce tanınacaktı.
+
+**NextID.**
+
+Kurum içindeki yeri anlaşılacaktı.
+
+**NextOrg.**
+
+Yetkileri belirlenecekti.
+
+**NextRole.**
+
+Sonra kişinin ihtiyacı olan çalışma ortamı oluşturulacaktı.
+
+**NextLife.**
+
+Ama sistemin en önemli katmanı görünmeyen bir katmandı.
+
+**Emek.**
+
+---
+
+# Emeğin Hafızası
+
+Maran yerelde çalışırken önemli bir problem fark etmişti.
+
+İnsanların emeği ile makamları arasında garip bir ilişki vardı.
+
+Bir proje üzerinde on kişi çalışabiliyordu.
+
+Ama yıllar sonra yalnızca yöneticinin adı hatırlanabiliyordu.
+
+Problemi bulan kişi unutulabiliyordu.
+
+Kodu yazan unutulabiliyordu.
+
+Sahada deneyen unutulabiliyordu.
+
+Yanlış kararı engelleyen unutulabiliyordu.
+
+Genç bir çalışanın fikri bir süre sonra başka birinin fikriymiş gibi anlatılabiliyordu.
+
+Bunun insan üzerinde ağır bir etkisi vardı.
+
+İnsan yalnızca ücret için çalışmıyordu.
+
+**Emeğinin bir anlamı olduğunu görmek istiyordu.**
+
+Bu nedenle yeni sistemde temel bir ilke kabul edildi:
+
+# Doğrulanmış emek silinmeyecektir.
+
+Bir insanın katkısı kayıt altına alındığında;
+
+yönetici değişse de,
+
+birimin adı değişse de,
+
+proje başka kuruma taşınsa da,
+
+yıllar geçse de
+
+o katkı geçmişte kalacaktı.
+
+Yeni insanlar yeni katkılar ekleyebilirdi.
+
+Ama eski emek başka birinin üzerine yazılamazdı.
+
+Makam katkı üretmiyorsa tek başına katkı sayılmayacaktı.
+
+Alt unvandaki bir insan büyük katkı yaptıysa o katkı görünür olacaktı.
+
+Çünkü sistemde yükselen şey makam değil,
+
+**emek olmalıydı.**
+
+Maran bunun çalışan motivasyonunu değiştirebileceğine inanıyordu.
+
+İnsan yaptığı şeyin kaybolmayacağını bildiğinde,
+
+yalnızca bugünkü yöneticisi için değil,
+
+gelecekte bırakacağı iz için de çalışabilirdi.
+
+---
+
+# Anlamsız İş
+
+Maran yıllar önce okuduğu bir sözü sık sık hatırlıyordu.
+
+Bir insanı cezalandırmanın en ağır yollarından birinin, ona **anlamını bilmediği ve hiçbir sonuç üretmeyen bir işi sürekli yaptırmak** olduğu anlatılıyordu.
+
+Bu düşünce onun zihninde yıllarca kalmıştı.
+
+Çünkü modern çalışma hayatında fiziksel cezalar yoktu.
+
+Ama başka bir şey vardı.
+
+İnsanlar bazen yıllarca aynı işlemi yapıyor,
+
+neden yaptığını bilmiyor,
+
+sonucunu göremiyor
+
+ve yaptığı işin kim için neyi değiştirdiğini öğrenemiyordu.
+
+Maran bunu insan merkezli olmayan çalışmanın en büyük sorunlarından biri olarak görüyordu.
+
+Bir insan emek veriyorsa şunu görebilmeliydi:
+
+**Benim yaptığım iş kimin hayatında ne değiştirdi?**
+
+Bir öğrenci daha kolay mı kayıt yaptı?
+
+Bir hasta daha az mı bekledi?
+
+Bir çalışan haftada iki saat zaman mı kazandı?
+
+Bir öğretim elemanı gereksiz bürokrasiden kurtuldu mu?
+
+Bir süreç daha güvenli mi oldu?
+
+Bir vatandaş hizmete daha kolay mı ulaştı?
+
+İşin anlamı görünür olduğunda emek de görünür olacaktı.
+
+Ve emek görünür olduğunda insan yaptığı işe başka türlü bakacaktı.
+
+---
+
+# Birinci Merkez — HUMAN
+
+İnsan Merkezi NextLife'ın önüne geldi.
+
+İlk sorusu basitti:
+
+> **İnsan için ne değişti?**
+
+Maran uzun bir teknik sunum hazırlamıştı.
+
+Kaç uygulama geliştirildiğini gösterebilirdi.
+
+Kaç satır kod yazıldığını anlatabilirdi.
+
+Kaç görev tamamlandığını gösterebilirdi.
+
+Kaç proje açıldığını söyleyebilirdi.
+
+İnsan Merkezi hiçbirini sormadı.
+
+“Bir insanın hayatında ne değişti?”
+
+diye tekrar sordu.
+
+Maran sustu.
+
+O anda insan merkezli dönüşümün gerçek ölçüsünü anladı.
+
+Teknik çıktı insan merkezli çıktı değildi.
+
+Bir sistemin çalışması,
+
+insana fayda sağladığı anlamına gelmiyordu.
+
+Bu nedenle her proje daha başlamadan önce bir soru yazılacaktı:
+
+**Beklenen insan merkezli etki nedir?**
+
+Ve proje bittikten sonra başka bir soru:
+
+**Gerçekte ne oldu?**
+
+İkisinin arasındaki fark da raporlanacaktı.
+
+## Saat Değil Etki
+
+İnsan Merkezi daha sonra büyük bir saat çıkardı.
+
+Saatin üzerinde kırk rakamı vardı.
+
+“Bu nedir?”
+
+“Haftalık çalışma süresi.”
+
+“Bir insan kırk saat çalışırsa verimli midir?”
+
+“Her zaman değil.”
+
+“Yirmi saatte aynı sonucu üretirse?”
+
+Maran cevap vermedi.
+
+İnsan Merkezi devam etti:
+
+“Peki on saatte insanların hayatında büyük bir değişim oluşturursa?”
+
+Maran burada önemli bir ayrım yaptı.
+
+Mevzuattan doğan çalışma süreleri ve görevler devam edecekti.
+
+Ama insanın yaptığı işin değerini yalnızca sandalyede oturduğu süreyle ölçmek doğru olmayacaktı.
+
+Yeni değerlendirme başka göstergeleri de görecekti:
+
+Üretilen çıktı.
+
+Çözülen problem.
+
+Doğrulanabilir katkı.
+
+İnsan üzerindeki etki.
+
+Kazanılan zaman.
+
+Artan kalite.
+
+Öğrenilen bilgi.
+
+Geliştirilen yetkinlik.
+
+Çünkü bazen çalışanın o gün ürettiği en değerli şey bir belge olmayabilirdi.
+
+Yeni bir şey öğrenmiş olabilirdi.
+
+Bir kurs tamamlamış olabilirdi.
+
+Bir teknolojiyi araştırmış olabilirdi.
+
+Eksik olduğu konuda kendisini geliştirmiş olabilirdi.
+
+Ve bu da sistem açısından bir kayıp değil,
+
+**gelecekteki üretim kapasitesine yapılan yatırım** olabilirdi.
+
+İnsan Merkezi bunu kabul etti.
+
+Ama bir uyarı yaptı:
+
+> **İnsanın her anını performansa dönüştürme.**
+
+Bir insan kitap okuyorsa yalnızca yarın daha çok iş üretsin diye okumamalıydı.
+
+İnsan gelişiminin kendi başına da değeri vardı.
+
+Maran bu uyarıyı sistemin merkezine yazdı.
+
+---
+
+# İkinci Merkez — LIGHT
+
+Işık Merkezi farklı bir şey istiyordu.
+
+**Kanıt.**
+
+“İnsanların hayatını iyileştirdiğini söylüyorsun.”
+
+“Göster.”
+
+Bir işlem önceden kaç gün sürüyordu?
+
+Şimdi kaç gün sürüyor?
+
+Ne kadar maliyet vardı?
+
+Ne kadar azaldı?
+
+Kaç insan etkilendi?
+
+Memnuniyet değişti mi?
+
+Hata sayısı düştü mü?
+
+İnsanların üzerinde yeni bir yük oluştu mu?
+
+Maran burada raporlamanın önemini gördü.
+
+Yalnızca başarı hikâyesi anlatmak yeterli olmayacaktı.
+
+Veri gerekiyordu.
+
+Başlangıç değeri.
+
+Hedef.
+
+Sonuç.
+
+Olumsuz etki.
+
+Başarısızlık.
+
+Işık Merkezi daha sonra katkı kayıtlarına baktı.
+
+“Bu fikri kim ortaya attı?”
+
+Sistem gösterdi.
+
+“Bu kodu kim yazdı?”
+
+Gösterdi.
+
+“Bu sorunu kim fark etti?”
+
+Gösterdi.
+
+“Projeyi kim yönetti?”
+
+Gösterdi.
+
+“Kim başarısız oldu?”
+
+Onu da gösterdi.
+
+Işık Merkezi gülümsedi.
+
+“İşte şimdi öğrenebilirsiniz.”
+
+Çünkü başarısızlık görünmezse kurum yalnızca başarılarından değil,
+
+**hatalarını unutma yeteneğinden** oluşmaya başlardı.
+
+---
+
+# Üçüncü Merkez — DARK
+
+Karanlık Merkezi geleceğe bakıyordu.
+
+Harran'daki küçük yapı onun için yalnızca başlangıçtı.
+
+“Bunu neden burada yapıyorsun?”
+
+diye sordu.
+
+Maran cevap verdi:
+
+“Çünkü bir sistemi bütün Türkiye'ye önermeden önce küçük bir yerde denemek istiyorum.”
+
+“Sonra?”
+
+“Şanlıurfa.”
+
+“Sonra?”
+
+“Türkiye.”
+
+“Sonra?”
+
+Maran gökyüzüne baktı.
+
+“Dünya.”
+
+Karanlık Merkezi sordu:
 
 “Nasıl?”
 
-“Bakanlığın merkezi Ankara olabilir.”
+Cevap:
 
-Bir süre durdu.
+# Açık kaynak.
 
-“Ama sistem Ankara'dan başlamamalı.”
+Harran'da geliştirilen ve güvenlik veya mahremiyet nedeniyle kapalı kalması gerekmeyen genellenebilir yazılım bileşenleri paylaşılacaktı.
 
-Haritada Şanlıurfa'yı gösterdi.
+Şanlıurfa'daki başka insanlar kullanabilecekti.
 
-“Buradan başlamalı.”
+Türkiye'deki başka üniversiteler geliştirebilecekti.
 
-Birisi:
+Başka ülkelerdeki geliştiriciler inceleyebilecekti.
 
-“Neden Şanlıurfa?”
+Bir insan kodu alıp kendi toplumunun ihtiyacına uyarlayabilecekti.
 
-diye sordu.
+Bir hata bulduğunda düzeltebilecekti.
 
-Maran cevap verdi:
+Yeni bir fikir geliştirdiğinde geri verebilecekti.
 
-“Çünkü merkezdeki insanların hangi sorunların önemli olduğunu tahmin ettiği bir sistem kurarsak eski sistemi yeniden üretiriz.”
+Ve yaptığı katkı kaybolmayacaktı.
 
-Şanlıurfa'yı büyüttü.
+Böylece Harran'da başlayan bir fikir tek bir kuruma ait kapalı bilgi olarak kalmayacaktı.
 
-“Yerel sorun ortaya çıkaracak.”
-
-Sonra başka şehirleri gösterdi.
-
-“Yerel çözecek.”
-
-Ankara'yı gösterdi.
-
-“Merkez standartlaştıracak, destekleyecek ve başarılı çözümün başka yerlere taşınmasını sağlayacak.”
+**İnsanlığın ortak dönüşüm hafızasının parçası olabilecekti.**
 
 ---
 
-Bir görevli:
+# Şanlıurfa
 
-“Yani bakanlık bütün projeleri kendisi geliştirmeyecek mi?”
+Koordinatörlüğün ilk gerçek sınavı Harran'ın duvarlarının dışında olacaktı.
 
-diye sordu.
+Şanlıurfa.
 
-Maran:
+Maran'ın hedefi üniversitede çalışan mükemmel bir demo göstermek değildi.
+
+Gerçek sorunlarla karşılaşmaktı.
+
+Tarım.
+
+Eğitim.
+
+Sağlık.
+
+Hukuk.
+
+Ulaşım.
+
+Kamu hizmetleri.
+
+Afet.
+
+Çevre.
+
+Çalışma hayatı.
+
+İnsanlar sorunlarını NextVoice üzerinden iletebilecekti.
+
+Kişinin hangi kurumun görevli olduğunu bilmesi gerekmeyecekti.
+
+Çünkü bürokratik organizasyonu bilmek vatandaşın görevi değildi.
+
+İnsan problemi anlatacaktı.
+
+NextAI benzer kayıtları, geçmiş projeleri ve ulaşılabilir verileri inceleyebilecekti.
+
+Ama tek bir şikâyeti otomatik olarak gerçek kabul etmeyecekti.
+
+Sorunu araştıracaktı.
+
+Belirsizliği gösterecekti.
+
+Alternatifler oluşturacaktı.
+
+Ve sonunda karar yine yetkili insanda kalacaktı.
+
+Bir problem projeye dönüşürse NextProject başlayacaktı.
+
+Araştırma yapılacaktı.
+
+Prototip geliştirilecekti.
+
+Sahada denenecekti.
+
+Sonuç ölçülecekti.
+
+Ve bir rapor oluşacaktı:
+
+**Ne yaptık?**
+
+**Ne işe yaradı?**
+
+**Ne işe yaramadı?**
+
+**Ne öğrendik?**
+
+**Başka yerde uygulanabilir mi?**
+
+Bu rapor Şanlıurfa'nın hafızasında kalmayacaktı.
+
+---
+
+# Türkiye
+
+Yeterince proje tamamlandığında başka bir aşama başlayacaktı.
+
+Harran'da üretilen fikirler,
+
+Şanlıurfa'da sınanan modeller
+
+ve sahadan elde edilen olumlu–olumsuz sonuçlar bir araya gelecekti.
+
+Her başarılı çözüm için bir **ulusal aktarım dosyası** hazırlanabilecekti.
+
+Teknik mimari.
+
+Maliyet.
+
+Mevzuat.
+
+İnsan etkisi.
+
+Riskler.
+
+Açık kaynak bileşenleri.
+
+Başarısızlıklar.
+
+Ölçekleme koşulları.
+
+Böylece gelecekte Türkiye:
+
+“İnsan merkezli dönüşüm nasıl yapılabilir?”
+
+diye sorduğunda yalnızca teorik bir raporla karşılaşmayacaktı.
+
+Yıllarca gerçek kurumlarda ve gerçek insanlar üzerinde denenmiş bir bilgi birikimi bulunacaktı.
+
+İşte Maran'ın yıllardır hayalini kurduğu Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı fikrinin anlamı burada ortaya çıkıyordu.
+
+Bakanlık önce kurulup ne yapacağını aramayacaktı.
+
+**Ne yapması gerektiği önce yerelde sınanacaktı.**
+
+Harran ilk basamak olacaktı.
+
+Şanlıurfa ikinci.
+
+Türkiye üçüncü.
+
+Dünya ise hiçbir zaman son basamak olmayacaktı.
+
+Çünkü dönüşümün sonu yoktu.
+
+---
+
+# Bakanlık Modelinin Gerçek Görevi
+
+Maran yıllar boyunca merkezi yapılarda çalışmıştı.
+
+Yereldeki sorunları görmüştü.
+
+Ve sonunda iki dünyanın birbirinden öğrenmesi gerektiğini anlamıştı.
+
+Merkezin gücü:
+
+bilgi,
+
+uzmanlık,
+
+ölçek,
+
+kurumsal hafıza
+
+ve koordinasyondu.
+
+Yerelin gücü ise:
+
+gerçek hayat,
+
+soruna yakınlık,
+
+hızlı geri bildirim,
+
+çeşitlilik
+
+ve deneyimdi.
+
+İnsan Merkezli Dönüşüm Bakanlığı bir gün kurulursa görevi bütün çözümleri Ankara'da üretmek olmamalıydı.
+
+Tam tersine,
+
+yerelde ortaya çıkan bilgiyi görebilen,
+
+yerel deneyimleri doğrulayabilen,
+
+işe yarayan modeli başka yerlere taşıyabilen,
+
+kurumların birbirinden öğrenmesini sağlayan
+
+bir sistem olmalıydı.
+
+Merkez yereli yönetmek için değil,
+
+**yerelde üretilen bilgiyi çoğaltmak için** var olmalıydı.
+
+---
+
+# Üç Merkezin Son Sorusu
+
+HUMAN sordu:
+
+“Bir çalışan senin sisteminde daha çok mu çalışacak?”
+
+Maran cevapladı:
 
 “Hayır.”
 
-“Bütün yazılımlar burada yapılmayacak mı?”
+“Daha anlamlı çalışmasını istiyorum.”
 
-“Hayır.”
+LIGHT sordu:
 
-“Peki bakanlık ne yapacak?”
+“Bunu nasıl anlayacaksın?”
 
-Maran cevap verdi:
+“İnsan üzerindeki etkiyi ölçerek.”
 
-**“İnsanların aynı sorunları tekrar tekrar yalnız çözmek zorunda kalmadığı bir sistem kuracak.”**
+DARK sordu:
 
----
+“Ya sistemin yanlışsa?”
 
-Bakanlık modelinin temeline dört katman yerleştirildi:
+Maran durdu.
 
-**Yerelde sorun tespiti ve pilot.**
+Sonra cevap verdi:
 
-**Ulusal düzeyde ortak standart ve yeniden kullanım.**
+“Onu da kaydedeceğiz.”
 
-**Güvenli kurumsal proje ve kod ağı.**
+Üç merkez ilk kez aynı anda sessiz kaldı.
 
-**Küresel açık kaynak iş birliği.**
+Çünkü insan merkezli dönüşümün en güçlü tarafı mükemmel olduğunu iddia etmek değildi.
 
-Merkez her şeyi yapan yapı olmayacaktı.
-
-Yerelin yerine düşünmeyecekti.
-
-Yerelin yerine sorun belirlemeyecekti.
-
-Yerelin yerine uygulama yapmayacaktı.
-
-Merkez,
-
-bir yerde öğrenilen şeyin başka bir yerde kaybolmasını engelleyecekti.
-
-Başarı da,
-
-başarısızlık da
-
-ulusal öğrenme sistemine girecekti.
-
-İnsan–yapay zekâ ortaklığında nihai sorumluluk insanda kalacaktı.
-
-Ve katkı sistemi değişmeyecekti.
-
-Bir bakan bile yalnız makamından dolayı projede katkı sahibi görünmeyecekti.
-
-Ama gerçekten destek vermişse,
-
-engel kaldırmışsa,
-
-kaynak oluşturmuşsa,
-
-iş birliğini sağlamışsa,
-
-onun katkısı da görünür olacaktı.
-
-Çünkü Bilişim 5.0'ın ilkesi makamı yok saymak değildi.
-
-**Gerçek katkıyı doğru kişiye yazmaktı.**
+**Yanlış olduğunu gösterebilecek bir sistem kurmaktı.**
 
 ---
 
-O akşam Maran Ankara'daki otel odasına döndüğünde bilgisayarını açmadı.
+# İlk Basamak
 
-Pencerenin önünde uzun süre oturdu.
+Maran yıllar önce Ankara'da başladığı yolculuğu düşündü.
 
-Aklına yine Dostoyevski geldi.
+Merkezi çalışma disiplinini öğrenmişti.
 
-Mahkûmların anlamsız işe karşı duyduğu öfke.
+Yerelin problemlerini görmüştü.
 
-Kendi iradesini kanıtlamak için yaptığı isyan.
+İkisini bir araya getirerek yeni bir model tasarlamıştı.
 
-Ve insanı karanlıkta bile ayakta tutan anlamlı uğraş.
+Şimdi Harran Üniversitesinde daha önce kurduğu fakat aktif etmediği Bilişim Koordinatörlüğünü yeniden şekillendiriyordu.
 
-Maran sonunda bağlantıyı bütünüyle görüyordu.
+Yeni adı:
 
-İnsan yalnızca özgür olmak istemiyordu.
+# Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü
 
-**Yaptığı şeyin bir anlamı olduğunu da bilmek istiyordu.**
+olacaktı.
 
-Belki de insan merkezli dönüşümün özü buydu.
+Bu küçük bir isim değişikliği gibi görünüyordu.
 
-İnsana daha az iş vermek değildi.
+Ama Maran için yıllardır düşündüğü daha büyük yapının ilk fiziksel adımıydı.
 
-Daha fazla teknoloji vermek de değildi.
+Henüz bir bakanlık yoktu.
 
-İnsan ile işi arasındaki anlam bağını yeniden kurmaktı.
+Henüz modelin doğru olduğu da kanıtlanmamıştı.
+
+Hatta bazı fikirlerin yanlış çıkması mümkündü.
+
+Ama artık bunların yalnızca zihinde tartışılması gerekmeyecekti.
+
+Gerçek insanlarla,
+
+gerçek projelerle,
+
+gerçek sonuçlarla
+
+denenebilecekti.
+
+Ve bütün dünya isterse bu deneyi izleyebilecekti.
+
+Kodları görebilecekti.
+
+Raporları okuyabilecekti.
+
+Başarıları inceleyebilecekti.
+
+Hatalardan yararlanabilecekti.
+
+Katkı sağlayabilecekti.
+
+Belki Harran'da çözülen küçük bir problem dünyanın başka bir yerinde milyonlarca insanın hayatını değiştirecekti.
+
+Belki de Harran'da yapılan bir hata başka bir toplumun aynı hatayı yapmasını engelleyecekti.
+
+İkisinin de değeri vardı.
+
+Çünkü artık başarı yalnızca yapılan iş değildi.
+
+# İnsanlığın öğrendiği şeydi.
+
+Maran Koordinatörlüğün yeni adını son kez okudu.
+
+Sonra sistemin ilk ilkesini altına yazdı:
+
+> **İnsanın zamanı değerlidir.**  
+> **İnsanın emeği görünür olmalıdır.**  
+> **İnsanın gelişimi de üretimdir.**  
+> **Teknoloji insan için çalışmalıdır.**
+
+Altına küçük bir not daha ekledi:
+
+> **Harran bir son değil. İlk prototiptir.**
+
+Ve sistemi aktif etti.
 
 ---
 
-Defterine yazdı:
+# Gözlemciye Soru
 
-**İnsan emeğini yok eden şey çalışma değildir.**  
-**Anlamsızlıktır.**
+Bu modeli sen tasarlıyor olsaydın önce hangisini korurdun?
 
-Altına ikinci cümleyi ekledi:
+## HUMAN — Emeğin anlamı
 
-**İnsan özgürlüğünü yalnız seçim yaparak değil, yaptığı işin sonucunda kendisini görebildiğinde de hisseder.**
+İnsan yaptığı işin başka insanların hayatında neyi değiştirdiğini görebilmeli; gelişimi, öğrenmesi ve görünmeyen katkıları da değerli kabul edilmelidir.
 
-Sonra bir üçüncü cümle:
+**HUMAN +6  
+LIGHT +2  
+DARK +2**
 
-**Bu yüzden geleceğin bilişim sistemi yalnız kodu değil, insanın katkısını da görünür kılmalıdır.**
+## LIGHT — Emeğin kanıtı
 
-Bir süre düşündü.
+Katkı, sonuç ve kararlar doğrulanabilir biçimde kaydedilmeli; makamdan bağımsız olarak gerçek emek görünür kalmalıdır.
 
-Son bir cümle daha yazdı:
+**HUMAN +2  
+LIGHT +6  
+DARK +2**
 
-**Geleceğe bırakılabilecek en büyük dijital miras, bitmiş yazılımlar değil; insanların birbirinin emeğinin üzerine adil biçimde inşa edebildiği açık bir öğrenme sistemidir.**
+## DARK — Dönüşümün özgürlüğü
 
----
+Yerelde geliştirilen modeller açık kaynakla paylaşılmalı; Şanlıurfa'dan Türkiye'ye ve dünyaya yayılarak başkalarının değiştirmesine ve geliştirmesine izin verilmelidir.
 
-Bir sonraki sabah kuruluş toplantısında Maran ilk slayta yalnızca iki yerin adını yazdı:
+**HUMAN +2  
+LIGHT +2  
+DARK +6**
 
-**Göbekli Tepe**
+Üç seçeneğin arasında ise hâlâ cevaplanmamış bir soru duruyordu:
 
-ve
+**İnsan merkezli bir sistem, insanı ölçmeden emeği nasıl ölçebilir?**
 
-**Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı**
-
-Aralarında binlerce yıl vardı.
-
-Ama Maran için aynı hikâyenin iki noktasıydılar.
-
-Birinde insanlar taşları yan yana getirerek yeni bir toplumsal düzenin izlerini bırakmıştı.
-
-Diğerinde insanlar kodu,
-
-veriyi,
-
-yapay zekâyı
-
-ve insan emeğini yeni bir düzende bir araya getirmeye çalışıyordu.
-
-Sunumun altında tek cümle vardı:
-
-**Tarihin sıfır noktasından geleceğin başlangıcına.**
-
-Maran ekrana baktı.
-
-Yıllar boyunca hayal ettiği şey artık yalnız onun hayali değildi.
-
-İnsanlar ihtiyacı görmüştü.
-
-Kurumlar tartışıyordu.
-
-Yerelde başlayan model ulusal bir yapının temelini oluşturuyordu.
-
-Ve kuruluş çalışmaları artık gerçekten başlamıştı.
-
-Maran için bunun en değerli tarafı bir bakanlık kurulması değildi.
-
-Asıl başarı,
-
-yıllarca görünmeyen bir ihtiyacın artık toplum tarafından görülmesiydi.
-
-Çünkü kurumlar değişebilirdi.
-
-İsimler değişebilirdi.
-
-Teknolojiler değişebilirdi.
-
-Java'nın yerini başka bir dil alabilirdi.
-
-Yapay zekâ bambaşka biçimlere dönüşebilirdi.
-
-Ama temel ilke değişmemeliydi:
-
-**Teknoloji insan için vardır.**
-
-**Makam katkının önüne geçemez.**
-
-**Katkı sağlayan herkesin emeği görünür olmalıdır.**
-
-**Başarısızlık saklanmaz; öğrenmeye dönüştürülür.**
-
-**Açık bilgi insanlığın ortak sorunlarını daha hızlı çözmek için paylaşılır.**
-
-**Yapay zekâ insanın yerine geçmez; insanın kapasitesini büyütür.**
-
-**Ve hiçbir insana yalnızca itaat etsin diye anlamsız bir iş verilmez.**
-
-Maran son kez Şanlıurfa haritasına baktı.
-
-Tarihin sıfır noktası.
-
-Bir zamanlar dünyanın merkezinden uzak görünen yer,
-
-şimdi yeni bir sistemin başlangıç noktasıydı.
-
-Ve belki de Maran'ın yıllardır anlamaya çalıştığı şey buydu:
-
-**Büyük dönüşümler her zaman merkezden başlamaz.**
-
-Bazen,
-
-kimsenin beklemediği bir yerde,
-
-bir insan yalnızca şu soruyu sorduğu için başlar:
-
-**“Bunu insan için daha iyi nasıl yapabiliriz?”**
+Belki de Harran'daki deneyin cevaplaması gereken ilk gerçek soru buydu.
