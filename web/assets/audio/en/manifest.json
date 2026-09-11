@@ -196,6 +196,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0019",
+      "title": "Ministry of Informatics and Human-Centered Transformation: The First Local Experiment",
+      "file": "./BRG-0019.mp3",
+      "duration_seconds": 724.402,
+      "bytes": 8693178,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
