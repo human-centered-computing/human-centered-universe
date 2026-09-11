@@ -215,7 +215,7 @@
     },
     {
       "id": "BRG-0017",
-      "title": "Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı: Yerelde Başlayan İlk Deney",
+      "title": "Anlamsız İşlerin Sonu: Tarihin Sıfır Noktasından Bilişim 5.0’a",
       "file": "./BRG-0017.mp3",
       "duration_seconds": 1601.202,
       "bytes": 19214778,
@@ -228,6 +228,15 @@
       "file": "./BRG-0018.mp3",
       "duration_seconds": 1030.217,
       "bytes": 12362964,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
+      "id": "BRG-0019",
+      "title": "Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı: Yerelde Başlayan İlk Deney",
+      "file": "./BRG-0019.mp3",
+      "duration_seconds": 1730.847,
+      "bytes": 20770526,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
     },
