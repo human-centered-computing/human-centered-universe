@@ -9,6 +9,7 @@
   "culture": [
     "transcultural",
     "Harran University",
+    "Harran School",
     "Sanliurfa",
     "Anatolia",
     "Türkiye"
@@ -21,9 +22,10 @@
     "open source",
     "human-AI partnership",
     "institutional learning",
-    "local-to-global transformation"
+    "local-to-global transformation",
+    "knowledge transmission"
   ],
-  "summary": "Maran turns a previously established but inactive Informatics Coordination Office at Harran University into the local prototype of a long-envisioned future Ministry of Informatics and Human-Centered Transformation. The experiment combines NextLife, visible and append-only contribution records, impact-oriented work, learning as productive development, open-source reuse and transparent reporting of both success and failure. Harran becomes the first laboratory, Sanliurfa the first wider field, Türkiye the scaling layer, and the world the open horizon.",
+  "summary": "Maran turns a previously established but inactive Informatics Coordination Office at Harran University into the first local prototype of a long-envisioned future Ministry of Informatics and Human-Centered Transformation. The story creates a symbolic bridge between the historic Harran School as an early center of knowledge and Harran University as a modern laboratory for human-centered digital transformation. Through NextLife, visible and append-only contribution records, impact-oriented work, learning, open-source reuse and transparent reporting of both success and failure, Harran University becomes the first laboratory, Sanliurfa the first wider field, Türkiye the scaling layer, and the world the open horizon.",
   "translations": {
     "tr": {
       "status": "canonical"
@@ -35,12 +37,12 @@
   "hero_image": {
     "src": "./assets/images/stories/BRG-0017/gelecegin-miras-atolyesi.png",
     "alt": {
-      "en": "A human-centered open-source technology workshop in Sanliurfa connecting local experimentation, AI, visible contribution and a wider transformation network.",
-      "tr": "Şanlıurfa'da yerel deney, yapay zekâ, görünür emek, açık kaynak ve daha geniş bir dönüşüm ağını bir araya getiren insan merkezli teknoloji atölyesi."
+      "en": "A human-centered open-source technology workshop linking Harran University's modern transformation experiment with the historic Harran School, Sanliurfa, AI, visible contribution and a wider global network.",
+      "tr": "Harran Üniversitesindeki modern insan merkezli dönüşüm deneyini tarihî Harran Okulu, Şanlıurfa, yapay zekâ, görünür emek, açık kaynak ve küresel ağla birleştiren teknoloji atölyesi."
     },
     "caption": {
-      "en": "The First Local Prototype",
-      "tr": "İlk Yerel Prototip"
+      "en": "From the Harran School to the First Local Prototype",
+      "tr": "Harran Okulundan İlk Yerel Prototipe"
     }
   },
   "links": [
@@ -114,7 +116,7 @@
   "localized": {
     "tr": {
       "title": "Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı: Yerelde Başlayan İlk Deney",
-      "summary": "Maran, uzun yıllar üzerinde çalıştığı Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı düşüncesinin ilk gerçek basamağını Harran Üniversitesinde kurar. Daha önce kurduğu fakat aktif etmediği Bilişim Koordinatörlüğünü Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü olarak yeniden adlandırıp aktif hâle getirir. Ankara ve Hacettepe'de edindiği merkezi çalışma disiplinini yerelde karşılaştığı sorunlarla birleştirir; NextLife, görünür emek, etki odaklı çalışma, öğrenmenin verim olarak kabulü, açık kaynak ve başarı kadar başarısızlığın da kayda alınmasıyla Harran'ı ilk prototipe, Şanlıurfa'yı ilk geniş saha deneyine, Türkiye'yi ölçekleme katmanına ve dünyayı açık dönüşüm alanına dönüştürmeyi amaçlar.",
+      "summary": "Maran, uzun yıllar üzerinde çalıştığı Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı düşüncesinin ilk gerçek basamağını Harran Üniversitesinde kurar. Daha önce kurduğu fakat aktif etmediği Bilişim Koordinatörlüğünü Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü olarak yeniden adlandırıp aktif hâle getirir. Ankara ve Hacettepe Üniversitesinde edindiği merkezi çalışma disiplinini yerelde karşılaştığı sorunlarla birleştirir. Tarihî Harran Okulu ile bugünkü Harran Üniversitesi arasında doğrudan kurumsal devamlılık iddiası kurmadan, bilginin üretilmesi ve yayılması bakımından sembolik bir köprü kurar. NextLife, görünür emek, etki odaklı çalışma, öğrenmenin değer olarak kabulü, açık kaynak ve başarı kadar başarısızlığın da kayda alınmasıyla Harran Üniversitesini ilk prototipe, Şanlıurfa'yı ilk geniş saha deneyine, Türkiye'yi ölçekleme katmanına ve dünyayı açık dönüşüm alanına dönüştürmeyi amaçlar.",
       "link_notes": {
         "BRG-0015": "İnsan Merkezli Dönüşüm yaklaşımı eğitimden kurumsal çalışma ve ölçülebilir insan etkisine taşınır.",
         "BRG-0016": "Her iki anlatıda da ulusal ölçekte düşünülen modeller önce yerelde sınanır, sonuçları kaydedilir ve daha sonra ölçeklenir.",
@@ -135,6 +137,6 @@
   "inspiration": {
     "source": "Harran Üniversitesi Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü Yönergesi V28, Uygulama Usul ve Esasları V6, Teknik Rehber ve Şablonlar V6 ve NextLife Harran Uygulama Ekosistemi",
     "type": "fictionalized real-world prototype",
-    "note": "The real-world documents define a Harran University coordination model and a scientific, technical and administrative Ministry Model proposal. They do not establish a ministry or grant central-government authority. The story presents the Harran coordination structure as a local prototype and imagines a possible future scaling path through Sanliurfa, Türkiye and the world."
+    "note": "The real-world documents define a Harran University coordination model and a scientific, technical and administrative Ministry Model proposal. They do not establish a ministry or grant central-government authority. The story presents the Harran University coordination structure as a local prototype and uses the historic Harran School only as a symbolic knowledge-history reference rather than claiming institutional continuity."
   }
 }
