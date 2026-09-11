@@ -35,6 +35,17 @@
       "status": "reviewed"
     }
   },
+  "hero_image": {
+    "src": "./assets/images/stories/BRG-0019/brg-0019-gorsel-hikaye.webp",
+    "alt": {
+      "en": "Animated visual journey through the Harran University human-centered transformation prototype, showing heritage, the NextLife ecosystem and the path from local work to global open collaboration.",
+      "tr": "Harran Üniversitesindeki insan merkezli dönüşüm prototipini; tarihî bilgi mirasını, NextLife ekosistemini ve yerelden dünyaya açık iş birliği yolunu gösteren hareketli görsel anlatı."
+    },
+    "caption": {
+      "en": "Three scenes move from heritage and human-AI collaboration to the NextLife institutional ecosystem and the Harran University–Şanlıurfa–Türkiye–world transformation network.",
+      "tr": "Üç sahne; bilgi mirası ve insan-yapay zekâ iş birliğinden NextLife kurumsal ekosistemine, oradan Harran Üniversitesi-Şanlıurfa-Türkiye-dünya dönüşüm ağına ilerler."
+    }
+  },
   "links": [
     {
       "target": "BRG-0017",
