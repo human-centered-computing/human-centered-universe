@@ -1,7 +1,7 @@
 {
   "id": "BRG-0019",
-  "title": "Ministry of Informatics and Human-Centered Transformation: The First Local Experiment",
-  "original_title": "Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı: Yerelde Başlayan İlk Deney",
+  "title": "Ministry of Informatics and Human-Centered Transformation: The First Local Prototype",
+  "original_title": "Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı: Yereldeki İlk Çalışma",
   "core": "BRIDGE",
   "status": "canon",
   "source_language": "en",
@@ -26,7 +26,7 @@
     "local-to-global transformation",
     "knowledge transmission"
   ],
-  "summary": "Maran turns a previously established but inactive Informatics Coordination Office at Harran University into the first local prototype of a long-envisioned future Ministry of Informatics and Human-Centered Transformation. The story links central experience, local problems, NextLife, visible contribution, impact-oriented work, learning, open-source reuse and transparent reporting of both success and failure. Harran University becomes the first laboratory, Sanliurfa the first wider field, Türkiye the scaling layer, and the world the open horizon.",
+  "summary": "Maran activates a previously established Informatics Coordination Office at Harran University under a new human-centered mission, turning it into the first local prototype of a long-envisioned future Ministry of Informatics and Human-Centered Transformation model. Central institutional experience, local problems and the NextLife ecosystem meet in a concrete cycle from NextVoice to NextAI, human review, NextProject, verifiable contribution, impact measurement, failure learning and open-source reuse. Harran University becomes the laboratory, Sanliurfa the wider field, Türkiye the transfer and scaling layer, and the world an open collaborative horizon.",
   "translations": {
     "en": {
       "status": "canonical"
@@ -39,7 +39,7 @@
     {
       "target": "BRG-0017",
       "type": "transformation",
-      "note": "The Informatics 5.0 philosophy and meaningful-work model become a real local institutional prototype at Harran University."
+      "note": "The Informatics 5.0 philosophy and meaningful-work model become a distinct real-world local institutional prototype at Harran University without replacing the earlier story."
     },
     {
       "target": "BRG-0015",
@@ -105,10 +105,10 @@
   ],
   "localized": {
     "tr": {
-      "title": "Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı: Yerelde Başlayan İlk Deney",
-      "summary": "Maran, uzun yıllar üzerinde çalıştığı Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı düşüncesinin ilk gerçek basamağını Harran Üniversitesinde kurar. Daha önce kurduğu fakat aktif etmediği Bilişim Koordinatörlüğünü Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü olarak yeniden adlandırıp aktif hâle getirir. Ankara ve Hacettepe Üniversitesinde edindiği merkezi çalışma disiplinini yerelde karşılaştığı sorunlarla birleştirir. NextLife, görünür emek, etki odaklı çalışma, öğrenmenin değer olarak kabulü, açık kaynak ve başarı kadar başarısızlığın da kayda alınmasıyla Harran Üniversitesini ilk prototipe, Şanlıurfa'yı ilk geniş saha deneyine, Türkiye'yi ölçekleme katmanına ve dünyayı açık dönüşüm alanına dönüştürmeyi amaçlar.",
+      "title": "Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı: Yereldeki İlk Çalışma",
+      "summary": "Maran, uzun yıllar üzerinde çalıştığı Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı modelinin ilk yerel prototipini Harran Üniversitesinde başlatır. Daha önce kurduğu fakat aktif etmediği Bilişim Koordinatörlüğünü Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü olarak yeniden adlandırıp aktif hâle getirir. Ankara ve Hacettepe Üniversitesinde edindiği merkezi çalışma disiplinini yerelde karşılaştığı sorunlarla birleştirir. NextVoice ile gelen gerçek bir sorun NextAI tarafından analiz edilir, insan tarafından değerlendirilir, NextProject'e dönüşür ve katkı, insan etkisi, başarı ile başarısızlık kayıt altına alınır. NextLife; görünür emek, etki odaklı çalışma, öğrenmenin değer kabul edilmesi ve açık kaynakla Harran Üniversitesini laboratuvara, Şanlıurfa'yı ilk geniş saha deneyine, Türkiye'yi transfer ve ölçekleme katmanına, dünyayı ise açık ortak geliştirme alanına dönüştürmeyi amaçlar.",
       "link_notes": {
-        "BRG-0017": "Bilişim 5.0 ve anlamlı iş düşüncesi burada Harran Üniversitesinde gerçek bir yerel kurumsal prototipe dönüşür.",
+        "BRG-0017": "Bilişim 5.0 ve anlamlı iş düşüncesi, önceki hikâyeyi değiştirmeden burada Harran Üniversitesinde ayrı bir gerçek proje prototipine dönüşür.",
         "BRG-0015": "İnsan Merkezli Dönüşüm yaklaşımı eğitimden kurumsal çalışma ve ölçülebilir insan etkisine taşınır.",
         "BRG-0016": "Her iki anlatıda da ulusal ölçekte düşünülen modeller önce yerelde sınanır ve daha sonra ölçeklenir.",
         "COM-0004": "Açık iş birliği, katkı ve yeniden kullanımın görünür kaldığı gerçek bir açık kaynak ekosistemine dönüşür.",
