@@ -4,7 +4,7 @@
 
 Sabah Harran Üniversitesindeki koridor henüz sessizdi.
 
-Maran, yıllar önce kurduğu ama aktif hâle getirmediği Bilişim Koordinatörlüğünün kapısında durdu.
+Maran, yıllar önce kurduğu fakat aktif hâle getirmediği Bilişim Koordinatörlüğünün kapısında durdu.
 
 Kapının üzerindeki isim değişecekti.
 
@@ -78,737 +78,1485 @@ Kurumsal hafıza vardı.
 
 Bir problem ortaya çıktığında daha önce benzer bir problem yaşamış birine ulaşmak çoğu zaman mümkündü.
 
-Farklı alanların uzmanları aynı masada buluşabiliyordu.
+Planlama, raporlama ve koordinasyon daha görünürdü.
 
-Planlama,
+Maran bu disiplinin değerini öğrendi.
 
-raporlama,
+Sonra yerelde çalışmaya başladı.
 
-standartlaştırma
+Ve başka bir gerçeklikle karşılaştı.
 
-ve koordinasyon daha görünürdü.
-
-Maran merkezde çalışırken bu disiplinin değerini öğrendi.
-
-Ama yıllar sonra yerelde çalışmaya başladığında başka bir Türkiye gördü.
-
-Merkezde küçük görünen bir sorun yerelde büyük bir engel olabiliyordu.
+Merkezde küçük görünen bazı sorunların yerelde çok büyük sonuçlar doğurduğunu gördü.
 
 İnsan kaynağı daha sınırlıydı.
 
-Bir kişi aynı anda birkaç farklı uzmanlık alanının yükünü taşıyabiliyordu.
+Bir kişi aynı anda birkaç farklı uzmanlık alanına yetişmek zorunda kalabiliyordu.
 
-Bazı işler neden yapıldığı unutulduğu hâlde devam ediyordu.
+Bazı işler yalnızca geçmişten öyle geldiği için devam ediyordu.
 
-Bazı çalışanlar çok emek veriyor fakat sonuçta ne değiştiğini göremiyordu.
+Aynı bilgi tekrar tekrar giriliyor,
 
-Bazı fikirler makamlardan geçerken sahibini kaybediyordu.
+aynı belge farklı yerlerde yeniden üretiliyor,
 
-Bir problemi ilk fark eden kişi ile o problemi çözme yetkisine sahip kişi arasında uzun bir mesafe oluşabiliyordu.
+birbirinden habersiz birimler benzer işleri yeniden yapıyordu.
 
-Maran bunları ilk gördüğünde hemen bir sistem kurmadı.
+Bazı çalışanlar büyük emek harcıyor fakat emeklerinin sonucunu göremiyordu.
+
+Bazı iyi fikirler makamların arasında kayboluyordu.
+
+Bir problemi gören insan ile çözmeye yetkili insan arasındaki mesafe bazen çok uzundu.
+
+Maran bunları hemen çözmeye çalışmadı.
 
 Önce not aldı.
 
+Bir sorun.
+
+Bir tekrar.
+
 Bir gecikme.
-
-Bir gereksiz tekrar.
-
-Bir başarısız proje.
 
 Bir çalışan şikâyeti.
 
-Bir öğrencinin yaşadığı güçlük.
+Bir başarılı uygulama.
 
-Bir yöneticinin çözemediği süreç.
+Bir başarısız proje.
 
-Bir yazılımcının başka bir kurumda zaten çözülmüş bir problemi yeniden kodlamak zorunda kalması.
+Bir öğrencinin yaşadığı zorluk.
 
-Bir fikir sahibinin adının zamanla kaybolması.
+Bir yöneticinin çözmeye çalıştığı süreç.
 
-Defterindeki notlar çoğaldıkça birbirinden bağımsız görünen problemlerin aynı yere çıktığını fark etti:
+Bir yazılımcının aynı işi yeniden yapmak zorunda kalması.
+
+Notlar zamanla birbirine bağlandı.
+
+Ve sonunda hepsi aynı soruya çıkmaya başladı:
 
 > **Kurum insan için mi çalışıyordu, insan kurum için mi?**
 
-Bu soru yıllar boyunca onunla kaldı.
-
 ---
 
-# Harran Okulu: Geçmişten Gelen Bir Hatırlatma
+# Harran Okulu: Geçmişten Gelen Soru
 
-Harran Üniversitesi adı Maran için başka bir çağrışım daha taşıyordu.
+Maran'ın çalıştığı üniversitenin adı ona başka bir kapı açıyordu.
 
-Bu coğrafya, tarihin eski bilim ve öğretim merkezlerinden biri olarak anılan **Harran Okulu**nun hafızasını taşıyordu.
+Harran coğrafyası, tarihin eski bilim ve yükseköğretim merkezlerinden biri olarak anılan **Harran Okulu**nun hatırasını taşıyordu.
 
-Yüzyıllar önce burada insanlar gökyüzünü gözlemlemiş,
+Maran tarihî Harran Okulu ile bugünkü Harran Üniversitesi arasında doğrudan bir kurumsal devamlılık iddiası kurmuyordu.
 
-matematik tartışmış,
+Onun ilgisini çeken şey başka bir bağdı:
 
-felsefe üretmiş,
+**Bilginin bir yerde üretilmesi, tartışılması, doğrulanması ve sonra daha geniş bir dünyaya taşınması.**
 
-tıp ve astronomi gibi alanlarda bilgi paylaşmıştı.
+Geçmişte bunu sağlayan araçlar kitaplar, gözlemler, tartışmalar ve öğrencilerdi.
 
-Maran bugünkü Harran Üniversitesi ile tarihî Harran Okulu arasında doğrudan kurumsal bir devamlılık iddiası kurmuyordu.
+Bugünün araçları ise farklıydı:
 
-Onun dikkatini çeken başka bir şeydi:
+bilgisayarlar,
 
-**Bilginin bir yerde üretilmesi, başka bilgilerle karşılaşması ve sonra daha geniş bir dünyaya yayılması.**
+yapay zekâ,
 
-Harran Okulu bunu kendi çağının araçlarıyla yapmıştı.
+açık kaynak yazılım,
 
-Bugünün araçları farklıydı.
+veri,
 
-Bilgisayarlar.
+dağıtık çalışma
 
-Yapay zekâ.
+ve küresel ağlar.
 
-Açık kaynak.
-
-Veri.
-
-Dağıtık çalışma.
-
-Küresel ağlar.
-
-Ama soru hâlâ aynıydı:
+Ama soru aynı kalmıştı:
 
 > **Bilgi ne için üretiliyor?**
 
-Bir kurumun duvarları içinde kalmak için mi?
+Maran'ın cevabı basitti:
 
-Bir makamın gücünü artırmak için mi?
+**İnsan hayatını daha iyi hâle getirebildiği ölçüde anlam kazanıyor.**
 
-Yoksa başka insanların hayatını iyileştirmek için mi?
+Bu nedenle Harran Üniversitesi yalnızca bir uygulama noktası değil,
 
-Maran'ın Harran Üniversitesi için düşündüğü deney bu nedenle yalnızca teknolojik değildi.
-
-Bilginin,
-
-emeğin,
-
-başarının
-
-ve başarısızlığın
-
-nasıl paylaşılacağını yeniden düşünme denemesiydi.
+bilginin yeniden sınanacağı ilk laboratuvar olacaktı.
 
 ---
 
-# Bir İsmi Değiştirmek
-
-Maran Harran Üniversitesine geldiğinde Bilişim Koordinatörlüğünü kurmuştu.
-
-Fakat onu aktif etmemişti.
-
-Çünkü zaman içinde yalnızca yeni bir bilişim birimi kurmanın yeterli olmayacağını düşünmeye başlamıştı.
-
-Eski çalışma biçimi aynı kaldıktan sonra yeni bir tabela gerçek bir dönüşüm yaratmazdı.
-
-Bir bilişim birimi yalnızca bilgisayarları,
-
-sunucuları,
-
-yazılımları
-
-ve ağları düşünürse teknik olarak başarılı olabilir,
-
-ama insanların hayatında hiçbir şeyi iyileştirmeyebilirdi.
-
-Maran bu nedenle ismi değiştirmeye karar verdi.
-
-Ama kelimelerin sırası önemliydi.
-
-**Bilişim** kalacaktı.
-
-Çünkü teknoloji gerekliydi.
-
-Yanına **İnsan Merkezli Dönüşüm** gelecekti.
-
-Çünkü teknoloji amaç değildi.
-
-Yeni Koordinatörlüğün ilk sorusu:
-
-“Kaç sunucumuz var?”
-
-veya
-
-“Kaç uygulama geliştirdik?”
-
-olmayacaktı.
-
-İlk soru şuydu:
-
-# Bunun insan hayatındaki karşılığı nedir?
-
-Bir sistem insanın zamanını mı kazandırdı?
-
-Bir çalışan gereksiz tekrar işinden mi kurtuldu?
-
-Bir öğrenci hizmete daha kolay mı erişti?
-
-Bir akademisyen daha fazla araştırma zamanı mı kazandı?
-
-Bir yönetici daha doğru veriye mi ulaştı?
-
-Bir vatandaş hangi kuruma gideceğini bilmeden de sorununu anlatabildi mi?
-
-Bir proje başka bir kurumun aynı işi sıfırdan yapmasını engelledi mi?
-
-Maran için bilişimin gerçek çıktısı artık yalnızca çalışan yazılım değildi.
-
-**İnsan hayatındaki doğrulanabilir değişimdi.**
-
----
-
-# Bakanlıktan Önce Yerel Prototip
+# Bakanlıktan Önce Laboratuvar
 
 Maran'ın amacı Harran Üniversitesinde küçük bir bakanlık kurmak değildi.
 
-Koordinatörlüğün böyle bir yetkisi yoktu.
+Koordinatörlüğün böyle bir yetkisi de yoktu.
 
-Üniversite başka kamu kurumlarının görevlerini de üstlenemezdi.
+Ama Harran Üniversitesi bir **araştırma, geliştirme ve uygulama laboratuvarı** olabilirdi.
 
-Fakat Harran Üniversitesi başka bir şey olabilirdi:
+Yeni çalışma modelleri burada denenebilirdi.
 
-# Bir prototip alanı.
+Yeni dijital sistemler burada geliştirilebilirdi.
 
-Yeni çalışma yöntemleri burada sınanabilirdi.
+İnsan ile yapay zekâ arasındaki görev paylaşımı burada sınanabilirdi.
 
-İnsan ve yapay zekâ arasındaki görev paylaşımı burada denenebilirdi.
+Açık kaynak üretim yöntemleri burada uygulanabilirdi.
 
-Açık kaynak üretimin nerede yararlı, nerede riskli olduğu görülebilirdi.
+Katkının makamdan bağımsız nasıl görünür tutulacağı burada test edilebilirdi.
 
-Uzaktan ve hibrit çalışmanın hangi işlerde verim sağladığı ölçülebilirdi.
+Uzaktan ve hibrit çalışmanın nerede yararlı, nerede sorunlu olduğu burada ölçülebilirdi.
 
-Katkının makamdan bağımsız nasıl kaydedileceği test edilebilirdi.
+İnsan performansını yalnızca çalışma saatiyle değil, üretilen sonuç, gelişim ve insan etkisiyle değerlendirme düşüncesinin sınırları burada görülebilirdi.
 
-Saat yerine sonuç ve insan etkisini dikkate alan çalışma anlayışının sınırları görülebilirdi.
+Ve başarısızlıklar da saklanmayacaktı.
 
-Ve her denemeden sonra iki rapor hazırlanabilirdi:
+Her çalışma sonunda şu sorular sorulacaktı:
 
-**Ne işe yaradı?**
+Ne çalıştı?
 
-ve
+Ne çalışmadı?
 
-**Ne işe yaramadı?**
+Neden çalışmadı?
 
-Maran ikinci raporun en az birincisi kadar önemli olduğunu düşünüyordu.
+Kim fayda gördü?
 
-Çünkü yalnız başarılarını kaydeden kurumlar aynı hataları tekrar tekrar yapabilirdi.
+Kim olumsuz etkilendi?
 
-Başarısızlığını kaydeden kurum ise öğrenebilirdi.
+Ne kadar zaman kazanıldı?
 
-Bu nedenle Harran Üniversitesindeki çalışma bir vitrin değil,
+Ne kadar maliyet oluştu?
 
-**öğrenme laboratuvarı** olacaktı.
+İnsanların hayatında gerçekten bir değişiklik oldu mu?
+
+Bir sonraki denemede neyi farklı yapmalıyız?
+
+Ve bu model başka bir yerde uygulanabilir mi?
+
+Bu soruların cevapları Harran Üniversitesinde kalmayacaktı.
+
+Önce Şanlıurfa'nın,
+
+sonra Türkiye'nin,
+
+daha sonra dünyanın kullanabileceği bir deney hafızasına dönüşecekti.
+
+Bu düşüncenin dijital karşılığına bir isim verilmişti:
+
+# NextLife
 
 ---
 
-# NextLife: İnsan Merkezli Bilişimin Dijital Omurgası
+# NextLife: Kurum İçin Tek, Her Kullanıcı İçin Kişisel
 
-Bu düşüncenin dijital karşılığına **NextLife** adı verildi.
+Maran NextLife'ı tek bir uygulama olarak düşünmüyordu.
 
-NextLife tek bir uygulama değildi.
+Bir insanın kurumsal dijital hayatına girdiğinde ihtiyaç duyduğu farklı hizmetlerin ortak bir ekosistemde buluşmasını istiyordu.
 
-Bir insanın kimliğini,
+Bugün bir çalışan kimlik için başka,
 
-rolünü,
+belge için başka,
 
-yetkisini,
+proje için başka,
 
-iş akışını,
+toplantı için başka,
 
-geri bildirimini,
+görev için başka,
 
-projesini,
+eğitim için başka,
 
-katkısını
+geri bildirim için başka bir sisteme giriyordu.
 
-ve yapay zekâ desteğini ortak bir çalışma evreninde bir araya getirmeyi amaçlayan ekosistemdi.
+Sistemler çoğu zaman birbirini tanımıyordu.
 
-İnsan sisteme girdiğinde önce kim olduğu anlaşılacaktı:
+Aynı insan her uygulamada yeniden tanımlanıyordu.
 
-**NextID.**
+NextLife'ın temel fikri bunu tersine çevirmekti:
 
-Hangi kurumda ve hangi yapıda yer aldığı:
+> **İnsan uygulamaların arasında dolaşmayacak; uygulamalar insanın yetkili olduğu çalışma alanında onun etrafında birleşecekti.**
+
+Maran bunu anlatmak için ekibiyle birlikte hayalî bir çalışma günü kurdu.
+
+Bir çalışan sabah sisteme giriyor,
+
+öğleden sonra bir projeye katkı veriyor,
+
+bir sorunu bildiriyor,
+
+belge hazırlıyor,
+
+toplantıya katılıyor,
+
+bir eğitim tamamlıyor
+
+ve günün sonunda yaptığı işin sonucunu görebiliyordu.
+
+Bu yolculuk NextLife'ın otuz uygulamasının neden var olduğunu anlatıyordu.
+
+---
+
+# Birinci Katman: İnsan Sisteme Giriyor
+
+Çalışan bilgisayarını açtığında karşısına ilk olarak **NextID** çıktı.
+
+NextID'nin görevi insanın kim olduğunu doğrulamaktı.
+
+Kullanıcı hesabı,
+
+oturum,
+
+çok faktörlü doğrulama,
+
+tek oturum açma
+
+ve gerektiğinde dış kimlik sağlayıcıları burada yönetiliyordu.
+
+Ama NextID yalnızca şunu söylüyordu:
+
+**“Bu kişi kim?”**
+
+Kişinin kurum içindeki yerini başka bir uygulama biliyordu:
 
 **NextOrg.**
 
-Hangi sorumluluk ve yetkilere sahip olduğu:
+NextOrg kurumun organizasyon hafızasıydı.
 
-**NextRole.**
+Hangi birim vardı?
 
-Kendi ihtiyacına göre kişiselleşen çalışma alanı:
+Hangi birim hangisine bağlıydı?
 
-**NextLife.**
+Bir kişinin pozisyonu neydi?
 
-Bir süreç ilerleyecekse:
+Hangi idari veya akademik yapı içindeydi?
 
-**NextFlow.**
+Vekâleten kim görev yapıyordu?
 
-Bir görev oluşacaksa:
+NextOrg bu bağlamı tutuyordu.
 
-**NextTask.**
+Sonra **NextRole** devreye giriyordu.
 
-Bir yetkili onayı gerekiyorsa:
+NextRole şu soruya cevap veriyordu:
 
-**NextApproval.**
+**“Bu kişi burada ne yapabilir?”**
 
-İnsan bir sorun, öneri veya memnuniyet bildirecekse:
+Bir belgeyi yalnızca görebilir mi?
 
-**NextVoice.**
+Düzenleyebilir mi?
 
-Yapay zekâ kayıtlar ve doğrulanabilir kaynaklar arasında bağlantı kuracaksa:
+Onaylayabilir mi?
+
+Bir projede yalnızca katılımcı mı,
+
+yoksa proje yöneticisi mi?
+
+Geçici bir yetkisi var mı?
+
+Bir yetki başka bir kişiye devredilmiş mi?
+
+NextRole unvan ile yetkiyi birbirine karıştırmadan,
+
+yetkiyi görev ve bağlama göre sınırlandırıyordu.
+
+Maran burada özellikle bir ayrım yapılmasını istedi.
+
+**NextPrivacy** yetki sistemi değildi.
+
+NextPrivacy insanın mahremiyet ve veri tercihlerini yönetiyordu.
+
+Hangi iletişim kanalını tercih ediyor?
+
+Hangi görünürlük düzeyine izin veriyor?
+
+Hangi analitik kullanım için rıza veriyor?
+
+Kişisel tercihleri ne?
+
+Yetkiyi NextRole belirliyor,
+
+mahremiyet tercihlerini NextPrivacy taşıyordu.
+
+Bir de sistemin davranışını belirleyen **NextConfig** vardı.
+
+NextConfig kurumun veya kullanıcının yapılandırmalarını,
+
+modül ayarlarını,
+
+özelliklerin açık veya kapalı olmasını
+
+ve dinamik sistem seçeneklerini yönetiyordu.
+
+O da bir yetkilendirme uygulaması değildi.
+
+Böylece insan sisteme girdiğinde beş ayrı soru cevaplanmış oluyordu:
+
+Kim?
+
+Nerede?
+
+Ne yapabilir?
+
+Mahremiyet tercihleri ne?
+
+Sistem onun için nasıl yapılandırılmalı?
+
+Bütün bunların birleştiği kişisel çalışma alanının adı ise **NextLife** idi.
+
+NextLife kullanıcıya kurumdaki dijital hayatını tek bir çatı altında gösteriyordu.
+
+Görevleri,
+
+belgeleri,
+
+projeleri,
+
+toplantıları,
+
+onayları,
+
+eğitimleri,
+
+ödemeleri
+
+ve kendisi için anlamlı diğer hizmetleri burada bir araya geliyordu.
+
+Kurum aynı platformu kullanıyor,
+
+ama herkes kendi rolüne ve ihtiyacına göre farklı bir çalışma alanı görüyordu.
+
+**Kurum için tek, her kullanıcı için kişisel.**
+
+---
+
+# İkinci Katman: Yapay Zekâ Karar Vermiyor, İnsana Yardım Ediyor
+
+NextLife'ın içinde ortak bir zekâ katmanı vardı:
 
 **NextAI.**
 
-Sorun gerçek bir projeye dönüşecekse:
+NextAI bir metni özetleyebiliyor,
 
-**NextProject.**
+bildirimleri sınıflandırabiliyor,
 
-Kod üretilecekse:
+belgelerden önemli varlıkları çıkarabiliyor,
 
-**NextCode.**
+taslak cevap önerebiliyor,
 
-Geliştirici rehberi ve ortak teknik bilgi gerekiyorsa:
+riskleri işaretleyebiliyor,
 
-**NextDeveloper.**
+arama sonuçlarını anlamlandırabiliyor,
 
-Ama Maran'a göre bu yapıların hiçbirinin tek başına anlamı yoktu.
+benzer sorunları gruplayabiliyor,
 
-Hepsini birbirine bağlayan görünmez bir katman vardı:
+bir proje için olası çözüm yolları önerebiliyordu.
 
-# İnsan emeği.
+Ama Maran bu uygulamanın üzerine görünmez bir sınır çizdi:
 
----
+> **NextAI karar mercii değildir.**
 
-# İlk Ses
+Yapay zekâ önerir,
 
-Koordinatörlük aktif olduktan sonra Maran sistemin gerçek bir sorunla karşılaşmasını istedi.
+kaynak gösterir,
 
-Bir sabah NextVoice'a kısa bir bildirim düştü:
+belirsizliği açıklar,
 
-> “Aynı bilgiyi üç farklı yere giriyorum. Her seferinde yeniden belge hazırlıyorum. Nedenini bilmiyorum.”
+alternatifleri görünür kılar.
 
-Tek başına bu mesaj büyük bir problem kanıtlamıyordu.
+Bağlayıcı kararı yetkili insan verir.
 
-Belki kişisel bir deneyimdi.
+Çünkü bilgi üretmek ile sorumluluk taşımak aynı şey değildi.
 
-Belki yanlış anlaşılmaydı.
+Yapay zekânın ürettiği sonuçların insan tarafından anlaşılmadan onaylanması da yeterli olmayacaktı.
 
-Belki gerçekten gereksiz bir süreç vardı.
+“İnsan imzaladı” demek,
 
-NextAI'nın görevi karar vermek değildi.
+insanın gerçekten karar verdiği anlamına gelmeyebilirdi.
 
-Benzer bildirimleri aradı.
+Bu nedenle kullanıcı yapay zekânın önerisini reddedebilmeli,
 
-Süreç kayıtlarıyla karşılaştırdı.
+değiştirebilmeli
 
-Daha önce yapılmış projeleri buldu.
+ve neden farklı karar verdiğini açıklayabilmeliydi.
 
-Belirsizlikleri gösterdi.
+NextAI'nın ürettiği bilgiler görünür hâle geldiğinde **NextView** devreye giriyordu.
 
-Ve bir **Problem ve Çözüm Analizi** oluşturdu.
+NextView raporları,
 
-Analizde yalnızca “sorun var” yazmıyordu.
+gösterge panolarını,
 
-Sorunun tanımı,
+performans göstergelerini,
 
-etkilenen insanlar,
+grafikleri,
 
-olasılık ve yaygınlık,
+matrisleri
 
-muhtemel kök nedenler,
+ve proje veya süreç durumlarını insanların anlayabileceği biçimde sunuyordu.
 
-ilgili kurum veya birimler,
+Bu nedenle ayrıca bir **NextReport** uygulaması yapılmasına gerek görülmedi.
 
-alternatif çözümler,
+Raporlama ve görselleştirme görevi NextView'ın içindeydi.
 
-beklenen insan etkisi,
+Maran'ın istediği şey daha fazla uygulama değil,
 
-ölçüm yöntemi,
-
-kaynak ihtiyacı,
-
-hukuk,
-
-etik,
-
-veri
-
-ve güvenlik riskleri ayrı ayrı görünüyordu.
-
-Raporun sonunda yapay zekâ tek bir cümle yazmadı:
-
-“Bunu yapın.”
-
-Onun yerine şunu söyledi:
-
-**“Karar desteği hazır.”**
-
-Karar insana aitti.
+görevlerin açık ve çakışmasız olmasıydı.
 
 ---
 
-# İlk Proje
+# Üçüncü Katman: İş Nasıl İlerliyor?
 
-Koordinatör analiz raporunu inceledi.
+Bir kurum yalnız insanlardan ve belgelerden oluşmuyordu.
 
-Sorunun gerçek olabileceğine dair yeterli işaret vardı.
+İşlerin bir başlangıcı,
 
-Bir **NextProject** kaydı açıldı.
+adımları,
 
-Projede roller tanımlandı.
+sorumluları,
 
-Süreç sahibi.
+kararları
 
-Veri sahibi.
+ve bitişi vardı.
 
-Proje sorumlusu.
+Bunu yöneten uygulama **NextFlow** idi.
 
-Teknik sorumlu.
+NextFlow bir sürecin hangi adımlardan geçeceğini,
 
-İnsan etkisini doğrulayacak kişi.
+hangi durumda nereye ilerleyeceğini,
 
-Hak ve lisans sorumlusu.
+hangi kuralın ne zaman çalışacağını,
 
-Bakım sorumlusu.
+bekleme süresini,
 
-Yetkili karar ve onay mercileri.
+hizmet seviyesini
 
-Kimsenin katkısı yalnızca makamı nedeniyle yazılmadı.
+ve işin kime yönlendirileceğini tanımlıyordu.
 
-Bir öğrenci arayüz sorununu bulursa bu katkı öğrencinindi.
+Böylece süreç, yazılım kodunun içine gömülmüş görünmez kurallar olmaktan çıkıyordu.
 
-Bir idari personel gerçek sürecin nasıl işlediğini açıklarsa bu katkı onundu.
+İnsanlar işin nasıl ilerlediğini görebiliyordu.
 
-Bir yazılımcı otomasyonu geliştirirse kod katkısı ona aitti.
+Bir yerde karar gerekiyorsa **NextApproval** devreye giriyordu.
 
-Bir yönetici gerekli izni vererek engeli kaldırdıysa onun katkısı da görünürdü.
+NextApproval onay zincirini,
 
-Ama proje üzerindeki unvan hiçbir zaman bütün katkıların sahibi anlamına gelmiyordu.
+kabul,
 
-Maran sistemde görmek istediği temel ilkeyi burada ifade etti:
+ret,
 
-> **Makam geçicidir. Doğrulanmış katkı kalıcıdır.**
+geri gönderme,
+
+karar kaydı
+
+ve imza durumunu yönetiyordu.
+
+Maran ayrıca ayrı bir elektronik imza uygulaması oluşturmadı.
+
+Çünkü imzalanan şey bir belgeydi,
+
+karar ise bir onay sürecinin parçasıydı.
+
+Bu nedenle elektronik imza gerektiğinde **NextDocument + NextApproval** birlikte çalışacaktı.
+
+İşin bir kişiye veya birime verilmesi gerektiğinde **NextTask** kullanılıyordu.
+
+NextTask sorumluyu,
+
+son tarihi,
+
+önceliği,
+
+alt görevleri,
+
+görevin durumunu
+
+ve görevin hangi süreç veya projeyle ilişkili olduğunu gösteriyordu.
+
+Daha büyük ve süreli bir çalışma ise **NextProject** içinde yönetiliyordu.
+
+NextProject yalnız görev listesi değildi.
+
+Projenin hedefini,
+
+kilometre taşlarını,
+
+iş paketlerini,
+
+kaynaklarını,
+
+risklerini,
+
+teslimatlarını,
+
+paydaşlarını
+
+ve proje boyunca oluşan katkıları bir arada tutuyordu.
+
+İnsanlar konuşmadan proje yürütülemeyeceği için **NextMeeting** vardı.
+
+NextMeeting toplantının gündemini,
+
+katılımcılarını,
+
+tutanağını,
+
+alınan kararları
+
+ve çıkan aksiyonları kaydediyordu.
+
+Toplantıda “şunu yapalım” denildiğinde söz havada kalmıyordu.
+
+Gerekirse NextTask'a görev,
+
+NextApproval'a karar,
+
+NextProject'e proje aksiyonu olarak aktarılabiliyordu.
+
+Zaman boyutunu ise **NextCalendar** yönetiyordu.
+
+Kişisel takvim,
+
+kurum takvimi,
+
+proje takvimi,
+
+toplantılar,
+
+randevular,
+
+son tarihler
+
+ve planlanan çalışmalar aynı zaman ekseninde görülebiliyordu.
+
+Maran böylece “iş var” demenin yeterli olmadığını düşünüyordu.
+
+İşin akışı,
+
+kararı,
+
+sorumlusu,
+
+projesi,
+
+toplantısı
+
+ve zamanı birbirine bağlanmalıydı.
+
+---
+
+# Dördüncü Katman: Kurum Konuşuyor ve İnsanlar Sesini Duyuruyor
+
+NextLife'ın yalnız yukarıdan aşağı çalışan bir yönetim sistemi olmasını istemiyordu.
+
+İnsanların da kuruma veri,
+
+fikir,
+
+şikâyet,
+
+öneri
+
+ve karar katabilmesi gerekiyordu.
+
+Bunun için dört farklı uygulama vardı ve birbirlerinin yerine kullanılmamalıydılar.
+
+**NextCollect**, anket ve form toplama sistemiydi.
+
+Araştırma yapılacaksa,
+
+belirli bir gruptan yapılandırılmış bilgi alınacaksa,
+
+saha verisi toplanacaksa
+
+ve sonuçlar analiz edilecekse NextCollect kullanılacaktı.
+
+Ama NextCollect bir seçim sistemi değildi.
+
+İnsanın günlük hayatta kuruma söylemek istediği şeyler için **NextVoice** vardı.
+
+Öneri,
+
+şikâyet,
+
+talep,
+
+memnuniyet,
+
+dilek,
+
+sorun
+
+ve ihtiyaç burada dile getirilebiliyordu.
+
+Kullanıcının doğru kurumu veya doğru birimi bilmesi gerekmiyordu.
+
+İnsan problemi anlatacaktı.
+
+Kendi seçimi kaydedilecekti.
+
+Yapay zekâ veya Koordinatörlük ilgili olabilecek kurumları ayrıca değerlendirebilecekti,
+
+ama kullanıcının ilk söylediği şey sessizce değiştirilmeyecekti.
+
+Karar verme veya kurumsal seçim gerektiğinde ise **NextVote** kullanılacaktı.
+
+Aday,
+
+oy pusulası,
+
+oy,
+
+sonuç,
+
+gizli oy gereksinimi,
+
+yetkili seçmen
+
+ve denetlenebilir seçim kayıtları bu uygulamanın konusuydu.
+
+Anket NextCollect'ti.
+
+Geri bildirim NextVoice'tu.
+
+Seçim ve oylama NextVote'tu.
+
+Bu ayrım özellikle korunacaktı.
+
+İnsanlara bilgi ulaştıran katman ise **NextMessage** idi.
+
+Kişiden kişiye veya gruba mesaj,
+
+dosya,
+
+sistem bildirimi,
+
+hatırlatma,
+
+süreç uyarısı,
+
+proje bildirimi burada görülebiliyordu.
+
+E-posta veya SMS gibi dış kanallar gerektiğinde NextConnect üzerinden bağlanabiliyordu.
+
+Böylece kurum yalnız veri toplayan bir yapı olmaktan çıkıyor,
+
+insanla konuşabilen ve insanı dinleyebilen bir yapıya dönüşüyordu.
+
+---
+
+# Beşinci Katman: Kurumsal Hafıza Kaybolmuyor
+
+Bir kurumun önemli bir bölümü insanların kafasında değil,
+
+belgelerinde ve verilerinde yaşıyordu.
+
+Bu nedenle **NextDocument** belge ve kayıt yönetiminin merkeziydi.
+
+Belgeler,
+
+klasörler,
+
+metadata,
+
+sürümler,
+
+şablonlar,
+
+birbirleriyle ilişkileri,
+
+erişim bilgileri,
+
+arşiv
+
+ve elektronik kayıt alanları burada tutuluyordu.
+
+Bir belgenin kim tarafından ne zaman değiştirildiği görünür olabiliyordu.
+
+Büyük dosyaları,
+
+medyayı,
+
+nesne depolamayı,
+
+yedekleme ve saklama politikalarını ise **NextStorage** yönetiyordu.
+
+NextDocument belgenin anlamını ve yaşam döngüsünü bilir;
+
+NextStorage onun fiziksel dijital içeriğini güvenli biçimde saklayabilirdi.
+
+Fakat yıllar içinde milyonlarca kayıt oluştuğunda başka bir problem doğuyordu:
+
+**Bulmak.**
+
+Bunun için **NextSearch** vardı.
+
+NextSearch belge,
+
+proje,
+
+mesaj,
+
+kod,
+
+destek kaydı
+
+ve diğer yetkili içerikler üzerinde merkezi arama yapabiliyordu.
+
+Ancak arama “her şeyi herkese göster” anlamına gelmiyordu.
+
+NextSearch yetki farkındalığıyla çalışmalıydı.
+
+Kullanıcı yalnızca görmeye yetkili olduğu sonuçları bulabilmeliydi.
+
+NextAI gerektiğinde aramaya yardım edebilir,
+
+ama erişim sınırlarını aşamazdı.
+
+Ham verinin düzenli yönetimi için ise **NextData** vardı.
+
+Hangi veri kaynağı var?
+
+Hangi veri seti kime ait?
+
+Veri nasıl akıyor?
+
+Hangi dönüşümden geçiyor?
+
+Kalitesi nasıl?
+
+Kim erişebilir?
+
+Analiz için hangi veri setleri hazırlanmış?
+
+NextData veri kataloğu,
+
+veri akışları,
+
+ETL süreçleri,
+
+veri kalitesi
+
+ve analitik veri setleri için ortak yönetim katmanı olacaktı.
+
+Maran'a göre veri çokluğu bilgi değildi.
+
+Önemli olan verinin kaynağının,
+
+anlamının,
+
+kalitesinin
+
+ve yetkisinin bilinmesiydi.
+
+---
+
+# Altıncı Katman: Yazılımı Kim Üretiyor, Sistem Nasıl Ayakta Kalıyor?
+
+NextLife yalnız son kullanıcıların gördüğü ekranlardan oluşmuyordu.
+
+Arkasında geliştiricilerin,
+
+entegrasyonların,
+
+logların,
+
+izlemenin
+
+ve desteğin bulunduğu başka bir dünya vardı.
+
+Bu dünyanın giriş kapısı **NextDeveloper** idi.
+
+NextDeveloper geliştirici portalı ve teknik rehberdi.
+
+API'ler,
+
+SDK'lar,
+
+yetkilendirme örnekleri,
+
+başlangıç uygulamaları,
+
+entegrasyon rehberleri,
+
+mimari açıklamalar
+
+ve geliştirme politikaları burada bulunacaktı.
+
+Ama NextDeveloper kaynak kod deposu değildi.
+
+Kaynak kod için **NextCode** vardı.
+
+NextCode kurum içi veya kapalı kalması gereken yazılım projelerinin Git tabanlı geliştirme alanıydı.
+
+Repo,
+
+branch,
+
+commit,
+
+pull request,
+
+kod inceleme,
+
+merge,
+
+webhook
+
+ve pipeline süreçleri burada yürütülebiliyordu.
+
+Genellenebilir ve güvenle paylaşılabilir açık kaynak çekirdek ise **Human-Centered Computing** gibi küresel açık kaynak alanlarında yayımlanabilecekti.
+
+Kuruma özgü,
+
+gizli veya güvenlik hassasiyeti taşıyan kod NextCode'da kalabilecekti.
+
+Maran'ın amacı bütün sistemleri sıfırdan yeniden yazmak değildi.
+
+Üniversitelerin zaten öğrenci,
+
+personel,
+
+finans
+
+ve başka uzman sistemleri vardı.
+
+Bunları çöpe atıp yeniden yapmak büyük bir israf olurdu.
+
+Bu nedenle **NextConnect** tasarlandı.
+
+NextConnect entegrasyon ve API geçidiydi.
+
+REST,
+
+SOAP,
+
+GraphQL,
+
+webhook,
+
+olaylar,
+
+veri dönüşümleri,
+
+adaptörler
+
+ve protokol dönüşümleri üzerinden eski ve yeni sistemlerin konuşmasını sağlıyordu.
+
+Böylece NextLife bir dev değiştirme projesi değil,
+
+mevcut sistemleri gerektiğinde birbirine bağlayan bir üst ekosistem olabilecekti.
+
+Bir sistem çalışırken ne olduğunu bilmek için **NextLog** vardı.
+
+Uygulama logları,
+
+denetim izleri,
+
+hata kayıtları,
+
+istek kayıtları,
+
+güvenlik olayları
+
+ve süreç kayıtları burada tutuluyordu.
+
+NextLog geçmişte ne olduğunu anlatıyordu.
+
+**NextMonitor** ise sistemin şu anda nasıl olduğunu izliyordu.
+
+Servis ayakta mı?
+
+Yanıt süresi nasıl?
+
+Hata oranı artmış mı?
+
+Kaynak kullanımı normal mi?
+
+Hizmet seviyesi hedefi karşılanıyor mu?
+
+Bir alarm üretmek gerekiyor mu?
+
+NextMonitor bu sorulara cevap veriyordu.
+
+Teknik veya kullanıcı kaynaklı bir sorun ortaya çıktığında **NextSupport** devreye giriyordu.
+
+Yardım masası,
+
+talep kaydı,
+
+olay ve problem yönetimi,
+
+bilgi bankası,
+
+hizmet seviyesi takibi
+
+ve kullanıcı geri bildiriminden çözüme giden destek süreci burada tutuluyordu.
+
+Maran bu altı uygulamayı sistemin görünmeyen omurgası olarak görüyordu.
+
+Çünkü iyi bir arayüz yapmak yeterli değildi.
+
+Sistemin geliştirilebilir,
+
+bağlanabilir,
+
+izlenebilir,
+
+denetlenebilir
+
+ve desteklenebilir olması gerekiyordu.
+
+---
+
+# Yedinci Katman: Hizmet ve Öğrenme
+
+İnsan merkezli bir sistem yalnız işi yönetmemeliydi.
+
+İnsanın kurum içindeki gerçek ihtiyaçlarına da dokunmalıydı.
+
+Bunlardan biri ödemeydi.
+
+**NextPay**, ödeme ve tahsilat entegrasyon katmanıydı.
+
+Kurum içi ücretler,
+
+tahsilatlar,
+
+POS,
+
+sanal POS
+
+ve ödeme sağlayıcılarıyla bağlantı burada yönetilebilirdi.
+
+Ama NextPay yeni bir banka veya muhasebe sistemi kurmaya çalışmayacaktı.
+
+Var olan finansal sistemlerle entegre olacaktı.
+
+Diğer ihtiyaç ise öğrenmeydi.
+
+**NextLearn**, insanın gelişimini kurumsal çalışmanın parçası hâline getiriyordu.
+
+Ders,
+
+program,
+
+içerik,
+
+kayıt,
+
+ödev,
+
+değerlendirme,
+
+sertifika,
+
+gelişim takibi
+
+ve gerektiğinde mevcut öğrenme yönetim sistemleriyle entegrasyon burada yürütülebiliyordu.
+
+Bu uygulama Maran için özellikle önemliydi.
+
+Çünkü bir insanın eksik olduğu konuda eğitim alması,
+
+kendi kendine çalışması
+
+ve yeni bir yetkinlik kazanması “iş yapmadığı zaman” olarak görülmemeliydi.
+
+Doğru yerde öğrenmek de gelecekteki insan ve kurum kapasitesine katkıydı.
+
+---
+
+# Otuz Uygulama, Tek Amaç
+
+Maran ekrana baktığında otuz uygulama görmüyordu.
+
+Bir insanın kurum içindeki yolculuğunu görüyordu.
+
+**NextID** onu tanıyordu.
+
+**NextOrg** kurum içindeki yerini biliyordu.
+
+**NextRole** ne yapabileceğini belirliyordu.
+
+**NextPrivacy** mahremiyet tercihlerini koruyordu.
+
+**NextConfig** çalışma ortamını yapılandırıyordu.
+
+**NextLife** bütün bunları kişisel bir çalışma alanında birleştiriyordu.
+
+**NextAI** analiz ve öneriyle yardım ediyordu.
+
+**NextView** sonucu görünür kılıyordu.
+
+**NextFlow** işi akışa dönüştürüyordu.
+
+**NextApproval** karar ve onayı kaydediyordu.
+
+**NextTask** sorumluluğu kişiye veya birime bağlıyordu.
+
+**NextProject** büyük işi proje hafızasına dönüştürüyordu.
+
+**NextMeeting** konuşulanı karara ve aksiyona bağlıyordu.
+
+**NextCalendar** bütün bunları zamana yerleştiriyordu.
+
+**NextCollect** yapılandırılmış veri ve anket topluyordu.
+
+**NextVoice** insanın sorununu, önerisini ve memnuniyetini taşıyordu.
+
+**NextVote** güvenli kurumsal oylamayı yönetiyordu.
+
+**NextMessage** insanlara gerekli bilgiyi ulaştırıyordu.
+
+**NextDocument** kurumsal belge hafızasını tutuyordu.
+
+**NextStorage** dijital dosyaları saklıyordu.
+
+**NextSearch** yetkili bilgiye ulaşmayı sağlıyordu.
+
+**NextData** verinin kaynağını, kalitesini ve akışını yönetiyordu.
+
+**NextDeveloper** geliştiricinin rehberiydi.
+
+**NextCode** yazılım üretiminin kaynak ve katkı geçmişini tutuyordu.
+
+**NextConnect** eski ve yeni sistemleri birbirine bağlıyordu.
+
+**NextLog** ne olduğunu kaydediyordu.
+
+**NextMonitor** sistemin sağlığını izliyordu.
+
+**NextSupport** sorunları destek sürecine dönüştürüyordu.
+
+**NextPay** ödemeleri mevcut finansal yapılarla bağlıyordu.
+
+**NextLearn** insanın öğrenmesini ve gelişimini görünür kılıyordu.
+
+Otuz uygulamanın ortak sorusu ise tekti:
+
+> **Bu teknoloji insanın hayatında neyi iyileştiriyor?**
+
+---
+
+# İlk Ses, İlk Proje
+
+Koordinatörlüğün ilk günlerinde bir çalışan NextVoice'a kısa bir kayıt bıraktı:
+
+“Bir bilgiyi üç farklı yere tekrar tekrar giriyoruz.”
+
+Eski sistemde bu cümle bir şikâyet olarak kalabilirdi.
+
+NextLife'ta ise yolculuk yeni başlıyordu.
+
+NextVoice kaydı aldı.
+
+Kullanıcının ilk ifadesini değiştirmedi.
+
+NextAI benzer kayıtları ve ulaşabildiği yetkili bilgileri analiz etti.
+
+Tek bir şikâyeti otomatik olarak kurumun genel gerçeği kabul etmedi.
+
+Benzer durumları,
+
+muhtemel nedenleri,
+
+belirsizlikleri
+
+ve olası çözüm yollarını gösterdi.
+
+Koordinatörlükte bir insan raporu değerlendirdi.
+
+“Bu gerçekten yaygın bir sorun mu?”
+
+diye sordu.
+
+NextCollect ile ilgili çalışanlardan yapılandırılmış veri toplandı.
+
+NextData mevcut veri kaynaklarını gösterdi.
+
+NextSearch geçmişte aynı süreçle ilgili belge ve destek kayıtlarını buldu.
+
+NextSupport'ta benzer talepler olduğu görüldü.
+
+Artık sorun tek bir kişinin hissi olmaktan çıkmış,
+
+ama yine de insan tarafından doğrulanması gereken bir çalışma konusu hâline gelmişti.
+
+NextProject üzerinde proje açıldı.
+
+NextOrg hangi birimlerin süreçte bulunduğunu gösterdi.
+
+NextRole kimlerin hangi verilere erişebileceğini ve hangi işlemleri yapabileceğini sınırladı.
+
+NextTask görevleri dağıttı.
+
+NextCalendar görüşmeleri planladı.
+
+NextMeeting toplantıları, kararları ve aksiyonları kaydetti.
+
+NextDocument mevcut formları ve prosedürleri topladı.
+
+Bir değişiklik için onay gerektiğinde NextApproval kullanıldı.
+
+Elektronik imza gereken belge NextDocument ile NextApproval birlikte çalışarak sürece girdi.
+
+NextConnect eski kurumsal sistemlerden gerekli veriyi alarak aynı bilginin yeniden girilmesini azaltacak entegrasyonu kurdu.
+
+NextDeveloper geliştiricilere kullanılacak API'leri ve kuralları gösterdi.
+
+NextCode üzerinde geliştirilen kodun kim tarafından yazıldığı,
+
+kim tarafından incelendiği
+
+ve hangi sürümde değiştiği kaydedildi.
+
+NextLog testlerde oluşan hataları tuttu.
+
+NextMonitor yeni servisin çalışma durumunu izledi.
+
+NextMessage pilot kullanıcıları değişikliklerden haberdar etti.
+
+NextLearn yeni süreci kullanacak personele kısa bir eğitim sundu.
+
+Ve NextView sonunda herkesin anlayabileceği birkaç gösterge gösterdi:
+
+İşlem süresi ne kadar azaldı?
+
+Tekrarlanan veri girişi ne kadar düştü?
+
+Kaç kişi etkilendi?
+
+Hata oranı nasıl değişti?
+
+Kullanıcı deneyimi iyileşti mi?
+
+Teknik olarak sistem çalışıyordu.
+
+Ama İnsan Merkezi henüz “başarılı” demedi.
+
+Çünkü bazı kullanıcılar yeni ekranı anlamakta zorlanıyordu.
+
+Bazıları yapılan ölçümlerin kendilerini takip etmek için kullanılacağından kaygılanıyordu.
+
+Bazıları eski alışkanlıklarını değiştirmek istemiyordu.
+
+Proje yeniden açıldı.
+
+NextVoice yeni geri bildirimleri aldı.
+
+NextLearn eğitimleri değiştirdi.
+
+NextPrivacy görünürlük ve tercihlerin nasıl yönetildiğini daha açık anlattı.
+
+NextView insanlara yalnız yöneticilerin değil,
+
+kendi yaptıkları işin sonucunu da gösterdi.
+
+Yeni sürüm hazırlandı.
+
+Eski sürüm silinmedi.
+
+Çünkü başarısızlık da kurumsal hafızanın parçasıydı.
 
 ---
 
 # Emeğin Hafızası
 
-Eski sistemlerde proje bittikten sonra katkılar kolayca unutulabiliyordu.
+Maran yerelde çalışırken tekrar tekrar aynı probleme rastlamıştı.
 
-Maran bunu değiştirmek istiyordu.
+Bir proje üzerinde birçok insan çalışabiliyordu.
 
-NextLife içinde katkı geçmişi sessizce yeniden yazılmayacaktı.
+Ama yıllar sonra yalnızca makam sahibi birkaç kişinin adı hatırlanabiliyordu.
 
-Bir kayıt yanlışsa silinip yok olmayacaktı.
+Problemi ilk fark eden unutulabiliyordu.
 
-Düzeltme yeni kayıt olarak eklenecekti.
+Fikri geliştiren unutulabiliyordu.
 
-Böylece hem ilk kayıt,
+Kodu yazan unutulabiliyordu.
 
-hem hata,
+Saha verisini toplayan unutulabiliyordu.
 
-hem de düzeltme görülebilecekti.
+Yanlış kararı engelleyen unutulabiliyordu.
 
-İnsanların katkıları zamanla bir **emek hafızasına** dönüşecekti.
+Genç bir çalışanın fikri zamanla başka birinin fikriymiş gibi anlatılabiliyordu.
 
-Maran bunun performans sisteminden farklı olduğunu özellikle vurguladı.
+Bu nedenle yeni sistemde temel bir ilke vardı:
 
-Amaç insanın her hareketini izlemek değildi.
+# Doğrulanmış emek silinmemelidir.
 
-Amaç emeğin kaybolmasını engellemekti.
+Katkı kaydı bir kişinin makamını değil,
 
-Çünkü ölçüm ile gözetim arasındaki mesafe bazen çok küçüktü.
+gerçekte yaptığı işi göstermeliydi.
 
-Bir sistem “katkıyı görünür kılacağım” derken insanı hayatının her dakikasını kanıtlamaya zorlayabilirdi.
+Fikir.
 
-Bu nedenle yeni sistemde başka bir ilke ortaya çıktı:
+Analiz.
 
-> **Ölçülen insan değil, işin sonucu ve doğrulanabilir katkı olmalıdır.**
+Kod.
+
+Test.
+
+Belge.
+
+Saha çalışması.
+
+Mentorluk.
+
+Proje yönetimi.
+
+Kurumsal destek.
+
+Bakım.
+
+Hepsi ayrı ayrı görülebilmeliydi.
+
+Yönetici değişse de geçmiş katkı kaybolmamalıydı.
+
+Bir hata varsa eski kayıt gizlice değiştirilmemeli,
+
+yeni bir düzeltme kaydı eklenmeliydi.
+
+Çünkü Maran'ın aradığı şey yalnızca şeffaflık değildi.
+
+**Kurumsal hafızanın adaletiydi.**
 
 ---
 
-# Saat Değil İnsan Etkisi
+# Saat Değil, İnsan Hayatındaki Etki
 
-Maran yıllarca çalışma hayatında aynı görüntüyü görmüştü.
+Maran'ın üzerinde en çok durduğu konulardan biri çalışma süresiydi.
 
-Bir insan sekiz saat masasının başında oturabiliyor,
-
-ama yaptığı işin nedenini bilmiyor olabiliyordu.
-
-Başka bir insan birkaç saat içinde önemli bir problemi çözüyor,
-
-sonra yeni bir konu öğrenmek için zaman ayırıyordu.
-
-Hangisi daha verimliydi?
-
-Maran'a göre bu sorunun cevabı yalnız saate bakılarak verilemezdi.
-
-Elbette mevzuattan doğan çalışma süreleri,
+Mevzuattan doğan çalışma süreleri,
 
 görevler
 
 ve sorumluluklar devam edecekti.
 
-Ama proje değerlendirmesinde yalnız fiziksel mevcudiyet veya geçirilen süre yeterli değildi.
+Ama bir insanın değerini yalnızca masasında kaç saat oturduğuna göre ölçmek insan merkezli olmayacaktı.
 
-Başka şeyler de görülmeliydi:
+Yeni yaklaşım başka şeyleri de görmeliydi:
 
-Çözülen problem.
+Hangi problemi çözdü?
 
-Üretilen çıktı.
+Nasıl bir çıktı üretti?
 
-İnsan üzerindeki etki.
+Kimin hayatında ne değişti?
 
-Kazanılan zaman.
+Ne kadar zaman kazandırdı?
 
-Artan kalite.
+Kaliteyi artırdı mı?
 
-Azalan hata.
+Ekibin öğrenmesine katkı verdi mi?
 
-Paylaşılan bilgi.
+Kendini geliştirdi mi?
 
-Öğrenilen yeni yetkinlik.
+Eksik olduğu konuda eğitim aldı mı?
 
-Bir insan o gün bir çıktı üretmemiş olabilir,
+Yeni bir yetkinlik kazandı mı?
 
-ama eksik olduğu alanda eğitim almış olabilir.
+Fakat burada tehlikeli bir sınır vardı.
 
-Yeni bir yöntem öğrenmiş olabilir.
+İnsan merkezli sistem,
 
-Başkasına öğretmiş olabilir.
+insanın her hareketini puanlayan bir gözetim sistemine dönüşebilirdi.
 
-Bir sorunun neden çözülemediğini ortaya çıkarmış olabilir.
+Bu nedenle Maran başka bir ilke yazdı:
 
-Bunların hepsi gelecekteki üretim kapasitesini artırabilirdi.
+> **Ölçülen insan değil, işin sonucu ve doğrulanabilir katkı olmalıdır.**
 
-Maran için öğrenmek de çalışmanın bir parçasıydı.
+İnsanın değeri hiçbir performans göstergesine indirgenemezdi.
 
-Ama burada da sınır vardı.
-
-İnsanın her anını “performans puanı”na çevirmek insan merkezli değildi.
-
-İnsan yalnızca üretim birimi değildi.
+Ölçüm yalnızca işin ve sistemin daha iyi anlaşılması için araç olmalıydı.
 
 ---
 
-# İlk Sonuç
+# İnsan Merkezi
 
-Proje birkaç hafta sonra ilk prototipini üretti.
-
-Aynı bilginin tekrar tekrar girilmesini azaltan bir akış oluşturuldu.
-
-NextFlow süreci sadeleştirdi.
-
-NextApproval gerekli onayları ayırdı.
-
-NextTask gereksiz görevleri görünür hâle getirdi.
-
-Teknik olarak sistem çalışıyordu.
-
-İşlem süresi azalmıştı.
-
-Maran'ın önüne ilk başarı raporu geldi.
-
-Fakat rapor yayınlanmadan önce HUMAN ortaya çıktı.
-
----
-
-# Birinci Merkez — HUMAN
-
-HUMAN tek bir soru sordu:
+İnsan Merkezi NextLife'ın karşısına çıktığında ilk sorusu şuydu:
 
 > **İnsan için ne değişti?**
 
-Maran işlem süresinin düştüğünü gösterdi.
+Kaç uygulama geliştirildiğiyle ilgilenmedi.
 
-HUMAN yeniden sordu:
+Kaç satır kod yazıldığını sormadı.
 
-“İnsan için ne değişti?”
+Kaç toplantı yapıldığını başarı kabul etmedi.
 
-Bir çalışan haftada iki saat kazanmıştı.
+Şunu sordu:
 
-Başka bir çalışan aynı işlemi daha az hata ile tamamlıyordu.
+Bir insan daha az mı bekledi?
 
-Bir öğrenci artık aynı belgeyi birkaç kez yüklemek zorunda kalmıyordu.
+Gereksiz işten kurtuldu mu?
 
-Ama kullanıcı testlerinde başka bir gerçek ortaya çıktı.
+Emeğinin sonucunu görebildi mi?
 
-Bazı insanlar yeni arayüzü anlamakta zorlanıyordu.
+Hizmete daha kolay ulaştı mı?
 
-Bir çalışan yeni sistemin kendi performansını gizlice ölçtüğünü düşünüyordu.
+Daha adil bir süreç yaşadı mı?
 
-Başka biri görevinin otomasyon nedeniyle değersizleşeceğinden endişeliydi.
+Daha iyi öğrendi mi?
 
-HUMAN şöyle dedi:
+Kendini geliştirebildi mi?
 
-> **Teknik olarak iyileştirdiğin süreç insanın kaygısını artırıyorsa dönüşüm tamamlanmamıştır.**
+İşini daha anlamlı buldu mu?
 
-Proje tekrar açıldı.
+Sonra uyardı:
 
-Arayüz sadeleştirildi.
+> **İnsanı veriye indirgeme. İnsan, ölçebildiğinden daha fazlasıdır.**
 
-Açıklamalar eklendi.
+İnsan Merkezi için sistemin amacı insanın yalnızca üretkenliğini artırmak değildi.
 
-Eğitim hazırlandı.
+İnsanın zamanını,
 
-Hangi verinin neden toplandığı açıklandı.
+onurunu,
 
-Performans ölçüm sınırları görünür hâle getirildi.
+iradesini,
 
-İlk sürüm silinmedi.
+gelişimini
 
-Çünkü ilk sürümün hatası da öğrenmenin parçasıydı.
+ve anlamlı çalışma hakkını korumaktı.
 
 ---
 
-# İkinci Merkez — LIGHT
+# Aydınlık Merkezi
 
-LIGHT raporu eline aldı.
+Aydınlık Merkezi farklı bir soru sordu:
 
-“İşlem süresini azalttığını söylüyorsun.”
+> **Bunu nasıl biliyoruz?**
 
-“Kanıt?”
+İnsanların hayatını iyileştirdiğini söylüyorsun.
 
-Başlangıç süresi gösterildi.
+Kanıtın ne?
 
-Yeni süre gösterildi.
+Bir süreç eskiden ne kadar sürüyordu?
 
-Hata oranı karşılaştırıldı.
+Şimdi ne kadar sürüyor?
 
-Kullanıcı geri bildirimleri gösterildi.
+Hata oranı değişti mi?
 
-Projeye kimlerin katkı verdiği listelendi.
+Maliyet arttı mı azaldı mı?
 
-Hangi kararın hangi yetkiyle alındığı kaydedildi.
+Kim katkı verdi?
 
-Yapay zekânın önerisi ile insanın verdiği karar birbirinden ayrıldı.
+Kim hangi kararı verdi?
 
-LIGHT başını salladı.
+Yapay zekâ hangi kaynağa dayanarak öneri yaptı?
 
-Sonra başka bir soru sordu:
+Belirsizlik nerede?
 
-“Her şeyi herkese mi göstereceksin?”
+Olumsuz sonuçlar kaydedildi mi?
 
-Maran bu sorunun cevabını biliyordu.
+Aydınlık Merkezi NextID,
 
-Hayır.
+NextRole,
+
+NextLog,
+
+NextDocument,
+
+NextProject,
+
+NextCode
+
+ve NextView gibi sistemlerdeki izlenebilirliğin değerini gördü.
+
+Ama sonra ekranları kişisel verilerle doldurdu.
+
+Ve uyardı:
+
+> **Şeffaflık, mahremiyetin yok edilmesi değildir.**
+
+Her şey herkese açık olmamalıydı.
 
 Kişisel veri,
-
-özel hayat,
 
 kurumsal sır,
 
 güvenlik bilgisi
 
-ve kritik altyapı ayrıntıları açık alana taşınmayacaktı.
+ve kritik altyapı bilgileri korunmalıydı.
 
-Şeffaflık ile mahremiyet aynı şey değildi.
+Aydınlık Merkezi'nin amacı her şeyi görünür yapmak değil,
 
-Açık kaynak ile sınırsız açıklık da aynı şey değildi.
-
-LIGHT son ilkesini bıraktı:
-
-> **Görünürlük, sorumluluğu artırmalıdır; mahremiyeti yok etmemelidir.**
+**doğru şeyi doğru kişiye doğrulanabilir biçimde görünür yapmak**tı.
 
 ---
 
-# Üçüncü Merkez — DARK
+# Karanlık Merkezi
 
-DARK çalışan prototipe baktı.
+Karanlık Merkezi'nin sorusu başka türlüydü:
 
-“Şimdi ne olacak?”
+> **Başka ne mümkün?**
 
-“Projeyi tamamlayacağız.”
+Harran Üniversitesinde geliştirilen bir çözüm başka bir üniversitede kullanılabilir miydi?
 
-“Sonra?”
+Şanlıurfa'daki bir problem dünyanın başka bir yerindeki bir geliştirici tarafından çözülebilir miydi?
 
-“Başka birimde kullanabiliriz.”
+Bir öğrenci açık kaynak projeye katkı verip binlerce insanın hayatını etkileyebilir miydi?
 
-“Sonra?”
+Bir proje başarısız olduğunda başarısızlık raporu başka bir kurumun aynı hatayı yapmasını önleyebilir miydi?
 
-“Şanlıurfa'da benzer problemi yaşayan başka kurumlara uyarlanabilir.”
+Karanlık Merkezi özgürlük,
 
-“Sonra?”
+deney,
 
-“Türkiye'de kullanılabilir.”
+belirsizlik,
 
-DARK son kez sordu:
+yeni ihtimaller
 
-“Sonra?”
+ve dönüşüm alanıydı.
 
-Maran cevap verdi:
+Ama o da uyardı:
 
-“Dünya.”
+> **Sınırların olmadığı deney, dönüşüm değil kontrolsüzlüktür.**
 
-DARK gülümsedi.
+Açık kaynak her verinin açık olması demek değildi.
 
-Ama hemen ardından uyardı:
+Yapay zekâ insan sorumluluğunun yerine geçmemeliydi.
 
-“Bir çözüm bir yerde çalıştı diye her yerde çalışacağını sanma.”
+Deney yapmak yetki sınırlarını ortadan kaldırmamalıydı.
 
-İşte açık kaynağın gerçek anlamı burada ortaya çıktı.
+Yeni bir çalışma biçimi insanı özgürleştirmek yerine görünmez biçimde daha fazla çalıştırmamalıydı.
 
-Genellenebilir ve güvenle paylaşılabilir çekirdek açılacaktı.
+Karanlık Merkezi değişim için gerekliydi.
 
-Başkaları kodu görebilecekti.
+Ama Aydınlık Merkezi'nin kanıtına
 
-Değiştirebilecekti.
-
-Kendi toplumuna uyarlayabilecekti.
-
-Hata bulabilecekti.
-
-Yeni katkı yapabilecekti.
-
-Ama yerel bağlam silinmeyecekti.
-
-Her yeni uygulama yeniden sınanacaktı.
-
-DARK'ın ilkesi şuydu:
-
-> **Açık kaynak kopyalamak için değil, birlikte geliştirmek için vardır.**
+ve İnsan Merkezi'nin sınırına ihtiyaç duyuyordu.
 
 ---
 
-# Üç Merkezin Dengesi
+# Üç Merkez Aynı Masada
 
-Maran o gün üç merkezin aslında üç farklı denetim mekanizması olduğunu fark etti.
+Bir gün üç merkez aynı projeye baktı.
 
-HUMAN soruyordu:
+İnsan Merkezi sordu:
 
-**“İnsan için ne değişti?”**
+“İnsan için ne değişti?”
 
-LIGHT soruyordu:
+Aydınlık Merkezi sordu:
 
-**“Bunu nasıl biliyoruz?”**
+“Bunu nasıl biliyoruz?”
 
-DARK soruyordu:
+Karanlık Merkezi sordu:
 
-**“Başka ne mümkün?”**
+“Daha iyi başka ne yapabiliriz?”
 
-Yalnız HUMAN olursa iyi niyet vardı ama kanıt zayıf kalabilirdi.
+Maran o anda üç merkezin birbirinin rakibi olmadığını daha iyi anladı.
 
-Yalnız LIGHT olursa her şey ölçülebilir hâle gelir ama insan sayılara indirgenebilirdi.
+İnsan Merkezi tek başına kalırsa iyi niyet kanıtsız kalabilirdi.
 
-Yalnız DARK olursa yenilik hızlanır ama sorumluluk ve güvenlik kaybolabilirdi.
+Aydınlık Merkezi tek başına kalırsa ölçüm ve düzen insanın önüne geçebilirdi.
 
-İnsan merkezli dönüşüm,
+Karanlık Merkezi tek başına kalırsa dönüşüm kontrolsüz deneye dönüşebilirdi.
 
-üç merkezin birbirini sınırlandırdığı yerde ortaya çıkıyordu.
+Üçü birlikte olduğunda ise başka bir denge ortaya çıkıyordu:
+
+> **İnsan olmadan amaç yoktur.**
+>
+> **Aydınlık olmadan doğrulama yoktur.**
+>
+> **Karanlık olmadan dönüşüm yoktur.**
 
 ---
 
-# Şanlıurfa: İlk Geniş Saha
+# Harran Üniversitesinden Şanlıurfa'ya
 
-Harran Üniversitesi ilk laboratuvar olacaktı.
+Harran Üniversitesi ilk laboratuvardı.
 
-Ama gerçek hayat üniversite sınırlarından daha büyüktü.
+Ama Maran'ın amacı burada başarılı bir demo hazırlayıp durmak değildi.
 
-İkinci halka **Şanlıurfa** olacaktı.
+Bir model yalnız kontrollü ortamda çalışıyorsa gerçek hayatta sınanmamış demekti.
+
+İkinci halka Şanlıurfa olacaktı.
 
 Eğitim.
 
@@ -822,369 +1570,248 @@ Afet yönetimi.
 
 Çevre.
 
+Kamu hizmetleri.
+
 Ulaşım.
 
 Çalışma hayatı.
 
-Kamu hizmetleri.
+Gerçek sorunlar NextVoice üzerinden gelebilir,
 
-İnsanlar bir problemi anlatırken hangi kurumun sorumlu olduğunu bilmek zorunda kalmamalıydı.
+NextAI tarafından kaynak ve belirsizlikleriyle analiz edilebilir,
 
-NextVoice önce insanın sesini alacaktı.
+insanlar tarafından değerlendirilebilir,
 
-Kullanıcının yaptığı ilk seçim korunacaktı.
+NextProject üzerinden projeye dönüşebilir,
 
-Sistem gerekiyorsa ilgili olabilecek kurumları ayrı olarak önerecekti.
+sahada denenebilir,
 
-NextAI benzer kayıtları,
+NextView üzerinden insan etkisi ölçülebilir
 
-önceki projeleri
+ve sonuçlar açıkça raporlanabilirdi.
 
-ve doğrulanabilir kaynakları incelemeye yardım edecekti.
+Başarı kadar başarısızlık da kaydedilecekti.
 
-Ama tek bir şikâyeti toplumun kesin gerçeği ilan etmeyecekti.
+Çünkü başarısız bir deneme,
 
-Koordinatörlük araştırabilecek,
+eğer doğru raporlanırsa,
 
-analiz edebilecek,
-
-proje başlatabilecek,
-
-prototip geliştirebilecekti.
-
-Fakat başka bir kurum adına karar vermeyecek,
-
-veri erişimi,
-
-bütçe,
-
-satın alma,
-
-saha uygulaması
-
-ve dış kurum taahhüdü gerektiğinde yetkili mercilerin kararını bekleyecekti.
-
-Çünkü hız,
-
-**yetkinin yerine geçemezdi.**
+başka bir yerde yapılacak başarılı çalışmanın başlangıcı olabilirdi.
 
 ---
 
-# Türkiye: Ölçekleme Değil, Öğrenmeyi Taşıma
+# Şanlıurfa'dan Türkiye'ye
 
-Yıllar içinde yeterince proje biriktiğinde üçüncü halka oluşacaktı.
+Yeterince gerçek deney biriktiğinde model üçüncü halkaya geçebilirdi:
 
-Harran Üniversitesinde geliştirilen yöntemler,
+Türkiye.
 
-Şanlıurfa'da sınanan uygulamalar,
+Ama Maran'ın hayalindeki Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı bütün çözümleri Ankara'da üretmeye çalışan bir merkez olmayacaktı.
 
-başarılar,
+Tam tersine,
 
-başarısızlıklar,
+yerelde ortaya çıkan problemleri görebilen,
 
-maliyetler,
+yerelde üretilen çözümleri doğrulayabilen,
 
-riskler
+işe yarayan modelleri başka yerlere taşıyabilen,
 
-ve insan etkisi bir araya getirilecekti.
+kurumların birbirinden öğrenmesini sağlayan
 
-Aktarılabilir projeler için bir **ulusal transfer dosyası** hazırlanabilecekti.
+bir koordinasyon ve dönüşüm modeli olmalıydı.
 
-Dosyada yalnız çalışan kod olmayacaktı.
+Bir çözüm Harran Üniversitesinde geliştirildiyse,
 
-Problemin tanımı.
+Şanlıurfa'da sınandıysa,
 
-Başlangıç verisi.
+başarısı ve başarısızlığı ölçüldüyse,
 
-İnsan etkisi.
+Türkiye'nin başka bir yerinde sıfırdan başlanması gerekmeyebilirdi.
 
-Teknik mimari.
+Bir ulusal aktarım dosyası hazırlanabilirdi:
 
-Mevzuat gereksinimleri.
+Sorun neydi?
 
-Maliyet.
+Çözüm neydi?
 
-Bakım modeli.
+Teknik mimari nasıldı?
 
-Veri ve güvenlik sınırları.
+Hangi mevzuat sınırları vardı?
 
-Açık kaynak bileşenleri.
+Maliyeti neydi?
 
-Başarısız denemeler.
+İnsan üzerindeki etkisi neydi?
 
-Başka yerde uygulanırken dikkat edilmesi gereken koşullar.
+Riskleri nelerdi?
 
-Böylece Türkiye bir gün:
+Hangi açık kaynak bileşenleri yeniden kullanılabilirdi?
 
-**“Bilişim ve insan merkezli dönüşümü ulusal ölçekte nasıl koordine etmeliyiz?”**
+Nerede başarısız oldu?
 
-diye sorduğunda yalnız teorik bir rapor olmayacaktı.
+Başka yerde uygulanması için ne değiştirilmeliydi?
 
-Gerçek deneylerden oluşan bir hafıza bulunacaktı.
+Böylece merkez yereli yönetmek için değil,
 
-Maran'ın yıllardır düşündüğü **Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı Modeli** işte burada anlam kazanıyordu.
-
-Önce kurum kurulup kendisine iş aranmayacaktı.
-
-Önce ihtiyaç görülecek,
-
-yöntem sınanacak,
-
-başarı ve başarısızlık raporlanacak,
-
-sonra gerçekten gerekli olan ulusal yapı tartışılacaktı.
+**yerelde üretilen doğrulanmış bilgiyi çoğaltmak için** var olabilirdi.
 
 ---
 
-# Merkez Yerelin Yerine Geçmemeli
+# Türkiye'den Dünyaya, Dünyadan Yeniden Yerele
 
-Maran Ankara'da merkezi çalışma disiplinini öğrenmişti.
+Dördüncü halka dünyaydı.
 
-Şanlıurfa'da yerelin gerçek sorunlarını görmüştü.
+Genellenebilir ve güvenli yazılım bileşenleri açık kaynak olarak paylaşılabilirdi.
 
-Zamanla iki yapının birbirinin rakibi olmadığını anladı.
+Başka ülkelerdeki geliştiriciler kodu inceleyebilir,
 
-Merkezin gücü:
+hata bulabilir,
 
-uzmanlık,
+yeni özellik geliştirebilir,
 
-standart,
+kendi toplumlarının ihtiyaçlarına uyarlayabilir
 
-koordinasyon,
+ve katkılarını tekrar ortak yapıya sunabilirdi.
 
-kurumsal hafıza
+Katkı kaybolmamalıydı.
 
-ve ölçekti.
+İnsan nerede yaşarsa yaşasın yaptığı doğrulanabilir katkı görünür kalmalıydı.
 
-Yerelin gücü:
+Ama bu yol tek yönlü değildi.
 
-probleme yakınlık,
+Harran Üniversitesinden dünyaya giden bir çözüm,
 
-çeşitlilik,
+dünyadaki katkılarla gelişip tekrar Şanlıurfa'ya dönebilirdi.
 
-hızlı geri bildirim,
+Böylece dönüşüm bir merkezden çevreye dağılan emir değil,
 
-saha bilgisi
-
-ve deneydi.
-
-Gelecekte kurulabilecek ulusal bir yapı bütün çözümleri Ankara'da üretmeye çalışırsa eski sorunu yeniden yaratabilirdi.
-
-Maran'ın modelinde merkezin görevi yerelin yerine düşünmek değildi.
-
-Yerelde üretilen doğru bilgiyi görmek,
-
-doğrulamak,
-
-yaymak
-
-ve başka kurumların aynı probleme yeniden sıfırdan başlamasını engellemekti.
-
-> **Merkez çözümün sahibi değil, öğrenmenin taşıyıcısı olmalıydı.**
+**yerel ile küresel arasında sürekli dolaşan öğrenme ağı** olabilirdi.
 
 ---
 
-# Harran Okulundan Açık Kaynağa
+# Bakanlık Modelinin Gerçek Sorusu
 
-Bir akşam Maran tarihî Harran Okulu'nun görüntüsüne yeniden baktı.
+Maran yıllarca düşündüğü yapının sonunda ne olması gerektiğini artık daha net görüyordu.
 
-Yüzyıllar önce bilgi insanların seyahat etmesiyle,
+Asıl soru:
 
-kitapların taşınmasıyla,
+“Yeni bir bakanlık kurulmalı mı?”
 
-öğrencilerin ve hocaların buluşmasıyla yayılıyordu.
+değildi.
 
-Bugün bir fikir saniyeler içinde başka bir kıtaya ulaşabiliyordu.
+Daha önce cevaplanması gereken sorular vardı:
 
-Bir kod satırı Şanlıurfa'da yazılıp başka bir ülkede çalıştırılabiliyordu.
+Bu modele gerçekten ihtiyaç var mı?
 
-Bir hata Harran Üniversitesinde bulunup dünyanın başka bir yerindeki projeyi iyileştirebiliyordu.
+Harran Üniversitesindeki prototip çalışıyor mu?
 
-Bir öğrencinin kodu,
+Çalışan insanlar için hayatı iyileştiriyor mu?
 
-bir akademisyenin araştırması,
+Şanlıurfa'da gerçek problemlere çözüm üretebiliyor mu?
 
-bir çalışanın saha deneyimi,
+Başka kurumlar bunu kullanabiliyor mu?
 
-bir vatandaşın geri bildirimi
+Açık kaynak yaklaşımı yeniden kullanımı artırıyor mu?
 
-aynı açık öğrenme zincirinin parçaları olabiliyordu.
+Katkı kaydı çalışan motivasyonunu gerçekten etkiliyor mu?
 
-Maran için geçmiş ile gelecek arasındaki sembolik köprü buydu.
+Etki odaklı çalışma verimliliği artırırken insanı gözetim altında hissettiriyor mu?
 
-Harran Okulu'nun taşlarını yeniden yapmak değil.
+Yapay zekâ insan kararını destekliyor mu,
 
-**Bilginin insanlığa hizmet etmek için dolaşmasını yeniden düşünmek.**
+yoksa fark edilmeden onun yerine mi geçiyor?
 
-Açık kaynak bu çağın yollarından biriydi.
+Başarısızlıklar gerçekten raporlanıyor mu?
 
-Katkı hafızası ise bu yolculuk sırasında emeğin kaybolmasını engelleyen izdi.
+Bu soruların cevabı oluşmadan kurulacak büyük bir yapı yalnızca yeni bir bürokrasi üretebilirdi.
 
----
+Bu nedenle Harran Üniversitesindeki çalışma küçük değildi.
 
-# Dünya: Son Durak Değil, Açık Ufuk
-
-Maran'ın zihnindeki ölçek basitti:
-
-**Harran Üniversitesi — dene.**
-
-**Şanlıurfa — gerçek hayatta sınama.**
-
-**Türkiye — doğrulanan bilgiyi ölçekle ve paylaş.**
-
-**Dünya — açık biçimde birlikte geliştir.**
-
-Ama dünya son aşama değildi.
-
-Çünkü başka bir ülkede yapılan katkı yeniden Şanlıurfa'ya dönebilirdi.
-
-Başka bir üniversitenin geliştirdiği çözüm Harran Üniversitesindeki modeli değiştirebilirdi.
-
-Bir başarısızlık başka bir toplumun aynı hatayı yapmasını engelleyebilirdi.
-
-Sistem doğrusal değildi.
-
-Bir öğrenme döngüsüydü.
-
-Yerelden dünyaya,
-
-dünyadan yeniden yerele.
+**Büyük bir fikrin yanlış olabileceğini de gösterebilecek kadar gerçek olması gerekiyordu.**
 
 ---
 
-# Üç Merkezin Son Sınavı
+# İlk Basamak
 
-HUMAN sordu:
+Maran tekrar Koordinatörlüğün kapısının önüne geldi.
 
-“Bu sistem insanı daha çok mu çalıştıracak?”
+Sabah başlayan sessizlik artık yoktu.
 
-Maran cevapladı:
+İçeride insanlar konuşuyor,
 
-“Hayır. Daha anlamlı çalışmasını sağlamaya çalışacak.”
+ekranlarda projeler açılıyor,
 
-LIGHT sordu:
+kod yazılıyor,
 
-“Bunu nasıl anlayacaksın?”
+geri bildirimler inceleniyor,
 
-“İnsan üzerindeki etkiyi ve doğrulanabilir katkıyı karşılaştırarak.”
+bazı fikirler kabul ediliyor,
 
-DARK sordu:
+bazıları reddediliyor,
 
-“Ya modelin yanlışsa?”
+bazı projeler başarısız oluyor,
 
-Maran durdu.
+bazıları yeniden başlatılıyordu.
 
-Bu kez cevap vermekte zorlanmadı.
+Maran tabelaya bir kez daha baktı:
 
-“Onu da yayınlayacağız.”
+**Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü.**
 
-Üç merkez sessizleşti.
+Bu bir son değildi.
 
-Çünkü insan merkezli dönüşümün gücü kendisini mükemmel ilan etmek değildi.
+Bir bakanlık da değildi.
 
-**Yanlış olduğunu gösterebilecek mekanizmaları kendi içine yerleştirmekti.**
+Bir iddia bile değildi.
 
----
+**Bir prototipti.**
 
-# Yereldeki İlk Çalışma
+Ve prototipin görevi haklı çıkmak değil,
 
-Maran yeniden Koordinatörlüğün kapısına geldi.
+**gerçeği ortaya çıkarmaktı.**
 
-Yıllar önce Ankara'da öğrendiği merkezi çalışma disiplinini düşündü.
+Altına dört cümle yazdı:
 
-Hacettepe Üniversitesindeki projeleri,
+> **İnsanın zamanı değerlidir.**
+>
+> **İnsanın emeği görünür olmalıdır.**
+>
+> **İnsanın gelişimi de katkıdır.**
+>
+> **Teknoloji insan için çalışmalıdır.**
 
-yüksek lisans eğitimlerini,
+Sonra beşinci cümleyi ekledi:
 
-yıllarca tuttuğu notları,
+> **Yanlışsak, onu da görünür kılacağız.**
 
-yerelde karşılaştığı sorunları,
+Çünkü Harran Üniversitesindeki ilk çalışma yalnız başarılı bir model üretmeye çalışmıyordu.
 
-Bilişim 5.0 fikrini,
-
-NextLife'ı
-
-ve sonunda yeniden adlandırdığı bu küçük birimi düşündü.
-
-Henüz bir Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı yoktu.
-
-Modelin doğru olduğu da kanıtlanmış değildi.
-
-Bazı fikirler başarısız olabilirdi.
-
-Bazı uygulamalar beklenmedik zararlar oluşturabilirdi.
-
-Bazı ölçütler yanlış seçilebilirdi.
-
-Bazı projeler hiç sonuç vermeyebilirdi.
-
-Ama artık bunların yalnızca zihinde tartışılması gerekmeyecekti.
-
-Gerçek insanlarla,
-
-gerçek projelerle,
-
-gerçek sonuçlarla sınanabilecekti.
-
-Ve mümkün olduğu ölçüde sonuçlar paylaşılacaktı.
-
-Başarı da.
-
-Başarısızlık da.
-
-Maran kapının üzerindeki yeni ismi son kez okudu:
-
-# Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü
-
-Sonra ilk ilkeleri yazdı:
-
-> **İnsanın zamanı değerlidir.**  
-> **İnsanın emeği görünür olmalıdır.**  
-> **Makam katkının yerine geçemez.**  
-> **İnsanın gelişimi de bir değerdir.**  
-> **Teknoloji insan için çalışmalıdır.**  
-> **Yapay zekâ destek olur; nihai sorumluluğu devralmaz.**  
-> **Başarı kadar başarısızlık da kaydedilmelidir.**  
-> **Paylaşılabilir bilgi açık olmalı, korunması gereken bilgi korunmalıdır.**
-
-Altına bir cümle daha ekledi:
-
-> **Harran Üniversitesi bir son değil; ilk prototiptir.**
-
-Ve sistemi aktif etti.
+**Doğru modele ulaşmak için öğrenen bir sistem kurmaya çalışıyordu.**
 
 ---
 
 # Gözlemcinin Seçimi
 
-Bu model senin elinde olsaydı ilk olarak hangi ilkeyi güçlendirirdin?
+Bu sistemi sen tasarlıyor olsaydın ilk olarak hangi merkezi güçlendirirdin?
 
-## HUMAN — Emeğin Anlamı
+## İnsan Merkezi — Emeğin anlamı
 
-İnsan yaptığı işin başka insanların hayatında neyi değiştirdiğini görebilmeli; öğrenmesi, gelişimi ve görünmeyen katkıları da değerli kabul edilmelidir.
+İnsan yaptığı işin başka insanların hayatında neyi değiştirdiğini görebilmeli; zamanı, onuru, gelişimi, öğrenmesi ve görünmeyen katkıları da değerli kabul edilmelidir.
 
-**HUMAN +6  
-LIGHT +2  
-DARK +2**
+**İnsan Merkezi +6 · Aydınlık Merkezi +2 · Karanlık Merkezi +2**
 
-## LIGHT — Emeğin Kanıtı
+## Aydınlık Merkezi — Emeğin kanıtı
 
-Katkı, karar, sonuç, başarı ve başarısızlık doğrulanabilir biçimde kaydedilmeli; gerçek emek makamdan bağımsız olarak görünür kalmalıdır.
+Katkı, sonuç, yetki ve kararlar doğrulanabilir olmalı; makamdan bağımsız gerçek emek görünür kalmalı; başarı kadar başarısızlık da kayıt altına alınmalıdır.
 
-**HUMAN +2  
-LIGHT +6  
-DARK +2**
+**İnsan Merkezi +2 · Aydınlık Merkezi +6 · Karanlık Merkezi +2**
 
-## DARK — Dönüşümün Açıklığı
+## Karanlık Merkezi — Dönüşümün özgürlüğü
 
-Harran Üniversitesinde sınanan ve güvenle paylaşılabilen modeller açık kaynakla çoğalmalı; Şanlıurfa'dan Türkiye'ye ve dünyaya yayılırken başkalarının değiştirmesine ve geliştirmesine izin verilmelidir.
+Yerelde sınanan modeller açık kaynakla paylaşılmalı; başkalarının uyarlamasına, geliştirmesine ve yeni ihtimaller oluşturmasına izin verilmelidir.
 
-**HUMAN +2  
-LIGHT +2  
-DARK +6**
+**İnsan Merkezi +2 · Aydınlık Merkezi +2 · Karanlık Merkezi +6**
 
-Üç seçeneğin ortasında ise henüz cevaplanmamış bir soru vardı:
+Üç seçeneğin ortasında ise hâlâ çözülmemiş bir soru vardı:
 
-# İnsan merkezli bir sistem, insanı ölçmeden emeği nasıl ölçebilir?
+> **İnsan merkezli bir sistem, insanı ölçmeden emeği nasıl ölçebilir?**
 
-Belki de Harran Üniversitesindeki ilk çalışmanın çözmesi gereken en önemli problem buydu.
+Belki de Harran Üniversitesindeki deneyin cevaplaması gereken en önemli sorulardan biri buydu.
