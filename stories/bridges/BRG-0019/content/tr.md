@@ -234,13 +234,13 @@ daha sonra dünyanın kullanabileceği bir deney hafızasına dönüşecekti.
 
 Bu düşüncenin dijital karşılığına bir isim verilmişti:
 
-# NextLife
+# Next-Life
 
 ---
 
-# NextLife: Kurum İçin Tek, Her Kullanıcı İçin Kişisel
+# Next-Life: Kurum İçin Tek, Her Kullanıcı İçin Kişisel
 
-Maran NextLife'ı tek bir uygulama olarak düşünmüyordu.
+Maran Next-Life'ı tek bir uygulama olarak düşünmüyordu.
 
 Bir insanın kurumsal dijital hayatına girdiğinde ihtiyaç duyduğu farklı hizmetlerin ortak bir ekosistemde buluşmasını istiyordu.
 
@@ -262,7 +262,7 @@ Sistemler çoğu zaman birbirini tanımıyordu.
 
 Aynı insan her uygulamada yeniden tanımlanıyordu.
 
-NextLife'ın temel fikri bunu tersine çevirmekti:
+Next-Life'ın temel fikri bunu tersine çevirmekti:
 
 > **İnsan uygulamaların arasında dolaşmayacak; uygulamalar insanın yetkili olduğu çalışma alanında onun etrafında birleşecekti.**
 
@@ -282,15 +282,15 @@ bir eğitim tamamlıyor
 
 ve günün sonunda yaptığı işin sonucunu görebiliyordu.
 
-Bu yolculuk NextLife'ın otuz uygulamasının neden var olduğunu anlatıyordu.
+Bu yolculuk Next-Life'ın otuz uygulamasının neden var olduğunu anlatıyordu.
 
 ---
 
 # Birinci Katman: İnsan Sisteme Giriyor
 
-Çalışan bilgisayarını açtığında karşısına ilk olarak **NextID** çıktı.
+Çalışan bilgisayarını açtığında karşısına ilk olarak **Next-ID** çıktı.
 
-NextID'nin görevi insanın kim olduğunu doğrulamaktı.
+Next-ID'nin görevi insanın kim olduğunu doğrulamaktı.
 
 Kullanıcı hesabı,
 
@@ -302,15 +302,15 @@ tek oturum açma
 
 ve gerektiğinde dış kimlik sağlayıcıları burada yönetiliyordu.
 
-Ama NextID yalnızca şunu söylüyordu:
+Ama Next-ID yalnızca şunu söylüyordu:
 
 **“Bu kişi kim?”**
 
 Kişinin kurum içindeki yerini başka bir uygulama biliyordu:
 
-**NextOrg.**
+**Next-Org.**
 
-NextOrg kurumun organizasyon hafızasıydı.
+Next-Org kurumun organizasyon hafızasıydı.
 
 Hangi birim vardı?
 
@@ -322,11 +322,11 @@ Hangi idari veya akademik yapı içindeydi?
 
 Vekâleten kim görev yapıyordu?
 
-NextOrg bu bağlamı tutuyordu.
+Next-Org bu bağlamı tutuyordu.
 
-Sonra **NextRole** devreye giriyordu.
+Sonra **Next-Role** devreye giriyordu.
 
-NextRole şu soruya cevap veriyordu:
+Next-Role şu soruya cevap veriyordu:
 
 **“Bu kişi burada ne yapabilir?”**
 
@@ -344,15 +344,15 @@ Geçici bir yetkisi var mı?
 
 Bir yetki başka bir kişiye devredilmiş mi?
 
-NextRole unvan ile yetkiyi birbirine karıştırmadan,
+Next-Role unvan ile yetkiyi birbirine karıştırmadan,
 
 yetkiyi görev ve bağlama göre sınırlandırıyordu.
 
 Maran burada özellikle bir ayrım yapılmasını istedi.
 
-**NextPrivacy** yetki sistemi değildi.
+**Next-Privacy** yetki sistemi değildi.
 
-NextPrivacy insanın mahremiyet ve veri tercihlerini yönetiyordu.
+Next-Privacy insanın mahremiyet ve veri tercihlerini yönetiyordu.
 
 Hangi iletişim kanalını tercih ediyor?
 
@@ -362,13 +362,13 @@ Hangi analitik kullanım için rıza veriyor?
 
 Kişisel tercihleri ne?
 
-Yetkiyi NextRole belirliyor,
+Yetkiyi Next-Role belirliyor,
 
-mahremiyet tercihlerini NextPrivacy taşıyordu.
+mahremiyet tercihlerini Next-Privacy taşıyordu.
 
-Bir de sistemin davranışını belirleyen **NextConfig** vardı.
+Bir de sistemin davranışını belirleyen **Next-Config** vardı.
 
-NextConfig kurumun veya kullanıcının yapılandırmalarını,
+Next-Config kurumun veya kullanıcının yapılandırmalarını,
 
 modül ayarlarını,
 
@@ -390,9 +390,9 @@ Mahremiyet tercihleri ne?
 
 Sistem onun için nasıl yapılandırılmalı?
 
-Bütün bunların birleştiği kişisel çalışma alanının adı ise **NextLife** idi.
+Bütün bunların birleştiği kişisel çalışma alanının adı ise **Next-Life** idi.
 
-NextLife kullanıcıya kurumdaki dijital hayatını tek bir çatı altında gösteriyordu.
+Next-Life kullanıcıya kurumdaki dijital hayatını tek bir çatı altında gösteriyordu.
 
 Görevleri,
 
@@ -420,11 +420,11 @@ ama herkes kendi rolüne ve ihtiyacına göre farklı bir çalışma alanı gör
 
 # İkinci Katman: Yapay Zekâ Karar Vermiyor, İnsana Yardım Ediyor
 
-NextLife'ın içinde ortak bir zekâ katmanı vardı:
+Next-Life'ın içinde ortak bir zekâ katmanı vardı:
 
-**NextAI.**
+**Next-AI.**
 
-NextAI bir metni özetleyebiliyor,
+Next-AI bir metni özetleyebiliyor,
 
 bildirimleri sınıflandırabiliyor,
 
@@ -442,7 +442,7 @@ bir proje için olası çözüm yolları önerebiliyordu.
 
 Ama Maran bu uygulamanın üzerine görünmez bir sınır çizdi:
 
-> **NextAI karar mercii değildir.**
+> **Next-AI karar mercii değildir.**
 
 Yapay zekâ önerir,
 
@@ -468,9 +468,9 @@ değiştirebilmeli
 
 ve neden farklı karar verdiğini açıklayabilmeliydi.
 
-NextAI'nın ürettiği bilgiler görünür hâle geldiğinde **NextView** devreye giriyordu.
+Next-AI'nın ürettiği bilgiler görünür hâle geldiğinde **Next-View** devreye giriyordu.
 
-NextView raporları,
+Next-View raporları,
 
 gösterge panolarını,
 
@@ -482,9 +482,9 @@ matrisleri
 
 ve proje veya süreç durumlarını insanların anlayabileceği biçimde sunuyordu.
 
-Bu nedenle ayrıca bir **NextReport** uygulaması yapılmasına gerek görülmedi.
+Bu nedenle ayrıca bir **Next-Report** uygulaması yapılmasına gerek görülmedi.
 
-Raporlama ve görselleştirme görevi NextView'ın içindeydi.
+Raporlama ve görselleştirme görevi Next-View'ın içindeydi.
 
 Maran'ın istediği şey daha fazla uygulama değil,
 
@@ -506,9 +506,9 @@ kararları
 
 ve bitişi vardı.
 
-Bunu yöneten uygulama **NextFlow** idi.
+Bunu yöneten uygulama **Next-Flow** idi.
 
-NextFlow bir sürecin hangi adımlardan geçeceğini,
+Next-Flow bir sürecin hangi adımlardan geçeceğini,
 
 hangi durumda nereye ilerleyeceğini,
 
@@ -524,9 +524,9 @@ Böylece süreç, yazılım kodunun içine gömülmüş görünmez kurallar olma
 
 İnsanlar işin nasıl ilerlediğini görebiliyordu.
 
-Bir yerde karar gerekiyorsa **NextApproval** devreye giriyordu.
+Bir yerde karar gerekiyorsa **Next-Approval** devreye giriyordu.
 
-NextApproval onay zincirini,
+Next-Approval onay zincirini,
 
 kabul,
 
@@ -544,11 +544,11 @@ Maran ayrıca ayrı bir elektronik imza uygulaması oluşturmadı.
 
 karar ise bir onay sürecinin parçasıydı.
 
-Bu nedenle elektronik imza gerektiğinde **NextDocument + NextApproval** birlikte çalışacaktı.
+Bu nedenle elektronik imza gerektiğinde **Next-Document + Next-Approval** birlikte çalışacaktı.
 
-İşin bir kişiye veya birime verilmesi gerektiğinde **NextTask** kullanılıyordu.
+İşin bir kişiye veya birime verilmesi gerektiğinde **Next-Task** kullanılıyordu.
 
-NextTask sorumluyu,
+Next-Task sorumluyu,
 
 son tarihi,
 
@@ -560,9 +560,9 @@ görevin durumunu
 
 ve görevin hangi süreç veya projeyle ilişkili olduğunu gösteriyordu.
 
-Daha büyük ve süreli bir çalışma ise **NextProject** içinde yönetiliyordu.
+Daha büyük ve süreli bir çalışma ise **Next-Project** içinde yönetiliyordu.
 
-NextProject yalnız görev listesi değildi.
+Next-Project yalnız görev listesi değildi.
 
 Projenin hedefini,
 
@@ -580,9 +580,9 @@ paydaşlarını
 
 ve proje boyunca oluşan katkıları bir arada tutuyordu.
 
-İnsanlar konuşmadan proje yürütülemeyeceği için **NextMeeting** vardı.
+İnsanlar konuşmadan proje yürütülemeyeceği için **Next-Meeting** vardı.
 
-NextMeeting toplantının gündemini,
+Next-Meeting toplantının gündemini,
 
 katılımcılarını,
 
@@ -594,13 +594,13 @@ ve çıkan aksiyonları kaydediyordu.
 
 Toplantıda “şunu yapalım” denildiğinde söz havada kalmıyordu.
 
-Gerekirse NextTask'a görev,
+Gerekirse Next-Task'a görev,
 
-NextApproval'a karar,
+Next-Approval'a karar,
 
-NextProject'e proje aksiyonu olarak aktarılabiliyordu.
+Next-Project'e proje aksiyonu olarak aktarılabiliyordu.
 
-Zaman boyutunu ise **NextCalendar** yönetiyordu.
+Zaman boyutunu ise **Next-Calendar** yönetiyordu.
 
 Kişisel takvim,
 
@@ -634,7 +634,7 @@ ve zamanı birbirine bağlanmalıydı.
 
 # Dördüncü Katman: Kurum Konuşuyor ve İnsanlar Sesini Duyuruyor
 
-NextLife'ın yalnız yukarıdan aşağı çalışan bir yönetim sistemi olmasını istemiyordu.
+Next-Life'ın yalnız yukarıdan aşağı çalışan bir yönetim sistemi olmasını istemiyordu.
 
 İnsanların da kuruma veri,
 
@@ -648,7 +648,7 @@ ve karar katabilmesi gerekiyordu.
 
 Bunun için dört farklı uygulama vardı ve birbirlerinin yerine kullanılmamalıydılar.
 
-**NextCollect**, anket ve form toplama sistemiydi.
+**Next-Collect**, anket ve form toplama sistemiydi.
 
 Araştırma yapılacaksa,
 
@@ -656,11 +656,11 @@ belirli bir gruptan yapılandırılmış bilgi alınacaksa,
 
 saha verisi toplanacaksa
 
-ve sonuçlar analiz edilecekse NextCollect kullanılacaktı.
+ve sonuçlar analiz edilecekse Next-Collect kullanılacaktı.
 
-Ama NextCollect bir seçim sistemi değildi.
+Ama Next-Collect bir seçim sistemi değildi.
 
-İnsanın günlük hayatta kuruma söylemek istediği şeyler için **NextVoice** vardı.
+İnsanın günlük hayatta kuruma söylemek istediği şeyler için **Next-Voice** vardı.
 
 Öneri,
 
@@ -686,7 +686,7 @@ Yapay zekâ veya Koordinatörlük ilgili olabilecek kurumları ayrıca değerlen
 
 ama kullanıcının ilk söylediği şey sessizce değiştirilmeyecekti.
 
-Karar verme veya kurumsal seçim gerektiğinde ise **NextVote** kullanılacaktı.
+Karar verme veya kurumsal seçim gerektiğinde ise **Next-Vote** kullanılacaktı.
 
 Aday,
 
@@ -702,15 +702,15 @@ yetkili seçmen
 
 ve denetlenebilir seçim kayıtları bu uygulamanın konusuydu.
 
-Anket NextCollect'ti.
+Anket Next-Collect'ti.
 
-Geri bildirim NextVoice'tu.
+Geri bildirim Next-Voice'tu.
 
-Seçim ve oylama NextVote'tu.
+Seçim ve oylama Next-Vote'tu.
 
 Bu ayrım özellikle korunacaktı.
 
-İnsanlara bilgi ulaştıran katman ise **NextMessage** idi.
+İnsanlara bilgi ulaştıran katman ise **Next-Message** idi.
 
 Kişiden kişiye veya gruba mesaj,
 
@@ -724,7 +724,7 @@ süreç uyarısı,
 
 proje bildirimi burada görülebiliyordu.
 
-E-posta veya SMS gibi dış kanallar gerektiğinde NextConnect üzerinden bağlanabiliyordu.
+E-posta veya SMS gibi dış kanallar gerektiğinde Next-Connect üzerinden bağlanabiliyordu.
 
 Böylece kurum yalnız veri toplayan bir yapı olmaktan çıkıyor,
 
@@ -738,7 +738,7 @@ Bir kurumun önemli bir bölümü insanların kafasında değil,
 
 belgelerinde ve verilerinde yaşıyordu.
 
-Bu nedenle **NextDocument** belge ve kayıt yönetiminin merkeziydi.
+Bu nedenle **Next-Document** belge ve kayıt yönetiminin merkeziydi.
 
 Belgeler,
 
@@ -766,19 +766,19 @@ medyayı,
 
 nesne depolamayı,
 
-yedekleme ve saklama politikalarını ise **NextStorage** yönetiyordu.
+yedekleme ve saklama politikalarını ise **Next-Storage** yönetiyordu.
 
-NextDocument belgenin anlamını ve yaşam döngüsünü bilir;
+Next-Document belgenin anlamını ve yaşam döngüsünü bilir;
 
-NextStorage onun fiziksel dijital içeriğini güvenli biçimde saklayabilirdi.
+Next-Storage onun fiziksel dijital içeriğini güvenli biçimde saklayabilirdi.
 
 Fakat yıllar içinde milyonlarca kayıt oluştuğunda başka bir problem doğuyordu:
 
 **Bulmak.**
 
-Bunun için **NextSearch** vardı.
+Bunun için **Next-Search** vardı.
 
-NextSearch belge,
+Next-Search belge,
 
 proje,
 
@@ -792,15 +792,15 @@ ve diğer yetkili içerikler üzerinde merkezi arama yapabiliyordu.
 
 Ancak arama “her şeyi herkese göster” anlamına gelmiyordu.
 
-NextSearch yetki farkındalığıyla çalışmalıydı.
+Next-Search yetki farkındalığıyla çalışmalıydı.
 
 Kullanıcı yalnızca görmeye yetkili olduğu sonuçları bulabilmeliydi.
 
-NextAI gerektiğinde aramaya yardım edebilir,
+Next-AI gerektiğinde aramaya yardım edebilir,
 
 ama erişim sınırlarını aşamazdı.
 
-Ham verinin düzenli yönetimi için ise **NextData** vardı.
+Ham verinin düzenli yönetimi için ise **Next-Data** vardı.
 
 Hangi veri kaynağı var?
 
@@ -816,7 +816,7 @@ Kim erişebilir?
 
 Analiz için hangi veri setleri hazırlanmış?
 
-NextData veri kataloğu,
+Next-Data veri kataloğu,
 
 veri akışları,
 
@@ -840,7 +840,7 @@ ve yetkisinin bilinmesiydi.
 
 # Altıncı Katman: Yazılımı Kim Üretiyor, Sistem Nasıl Ayakta Kalıyor?
 
-NextLife yalnız son kullanıcıların gördüğü ekranlardan oluşmuyordu.
+Next-Life yalnız son kullanıcıların gördüğü ekranlardan oluşmuyordu.
 
 Arkasında geliştiricilerin,
 
@@ -852,9 +852,9 @@ izlemenin
 
 ve desteğin bulunduğu başka bir dünya vardı.
 
-Bu dünyanın giriş kapısı **NextDeveloper** idi.
+Bu dünyanın giriş kapısı **Next-Developer** idi.
 
-NextDeveloper geliştirici portalı ve teknik rehberdi.
+Next-Developer geliştirici portalı ve teknik rehberdi.
 
 API'ler,
 
@@ -870,11 +870,11 @@ mimari açıklamalar
 
 ve geliştirme politikaları burada bulunacaktı.
 
-Ama NextDeveloper kaynak kod deposu değildi.
+Ama Next-Developer kaynak kod deposu değildi.
 
-Kaynak kod için **NextCode** vardı.
+Kaynak kod için **Next-Code** vardı.
 
-NextCode kurum içi veya kapalı kalması gereken yazılım projelerinin Git tabanlı geliştirme alanıydı.
+Next-Code kurum içi veya kapalı kalması gereken yazılım projelerinin Git tabanlı geliştirme alanıydı.
 
 Repo,
 
@@ -896,7 +896,7 @@ Genellenebilir ve güvenle paylaşılabilir açık kaynak çekirdek ise **Human-
 
 Kuruma özgü,
 
-gizli veya güvenlik hassasiyeti taşıyan kod NextCode'da kalabilecekti.
+gizli veya güvenlik hassasiyeti taşıyan kod Next-Code'da kalabilecekti.
 
 Maran'ın amacı bütün sistemleri sıfırdan yeniden yazmak değildi.
 
@@ -910,9 +910,9 @@ ve başka uzman sistemleri vardı.
 
 Bunları çöpe atıp yeniden yapmak büyük bir israf olurdu.
 
-Bu nedenle **NextConnect** tasarlandı.
+Bu nedenle **Next-Connect** tasarlandı.
 
-NextConnect entegrasyon ve API geçidiydi.
+Next-Connect entegrasyon ve API geçidiydi.
 
 REST,
 
@@ -930,11 +930,11 @@ adaptörler
 
 ve protokol dönüşümleri üzerinden eski ve yeni sistemlerin konuşmasını sağlıyordu.
 
-Böylece NextLife bir dev değiştirme projesi değil,
+Böylece Next-Life bir dev değiştirme projesi değil,
 
 mevcut sistemleri gerektiğinde birbirine bağlayan bir üst ekosistem olabilecekti.
 
-Bir sistem çalışırken ne olduğunu bilmek için **NextLog** vardı.
+Bir sistem çalışırken ne olduğunu bilmek için **Next-Log** vardı.
 
 Uygulama logları,
 
@@ -948,9 +948,9 @@ güvenlik olayları
 
 ve süreç kayıtları burada tutuluyordu.
 
-NextLog geçmişte ne olduğunu anlatıyordu.
+Next-Log geçmişte ne olduğunu anlatıyordu.
 
-**NextMonitor** ise sistemin şu anda nasıl olduğunu izliyordu.
+**Next-Monitor** ise sistemin şu anda nasıl olduğunu izliyordu.
 
 Servis ayakta mı?
 
@@ -964,9 +964,9 @@ Hizmet seviyesi hedefi karşılanıyor mu?
 
 Bir alarm üretmek gerekiyor mu?
 
-NextMonitor bu sorulara cevap veriyordu.
+Next-Monitor bu sorulara cevap veriyordu.
 
-Teknik veya kullanıcı kaynaklı bir sorun ortaya çıktığında **NextSupport** devreye giriyordu.
+Teknik veya kullanıcı kaynaklı bir sorun ortaya çıktığında **Next-Support** devreye giriyordu.
 
 Yardım masası,
 
@@ -1004,7 +1004,7 @@ ve desteklenebilir olması gerekiyordu.
 
 Bunlardan biri ödemeydi.
 
-**NextPay**, ödeme ve tahsilat entegrasyon katmanıydı.
+**Next-Pay**, ödeme ve tahsilat entegrasyon katmanıydı.
 
 Kurum içi ücretler,
 
@@ -1016,13 +1016,13 @@ sanal POS
 
 ve ödeme sağlayıcılarıyla bağlantı burada yönetilebilirdi.
 
-Ama NextPay yeni bir banka veya muhasebe sistemi kurmaya çalışmayacaktı.
+Ama Next-Pay yeni bir banka veya muhasebe sistemi kurmaya çalışmayacaktı.
 
 Var olan finansal sistemlerle entegre olacaktı.
 
 Diğer ihtiyaç ise öğrenmeydi.
 
-**NextLearn**, insanın gelişimini kurumsal çalışmanın parçası hâline getiriyordu.
+**Next-Learn**, insanın gelişimini kurumsal çalışmanın parçası hâline getiriyordu.
 
 Ders,
 
@@ -1060,65 +1060,65 @@ Maran ekrana baktığında otuz uygulama görmüyordu.
 
 Bir insanın kurum içindeki yolculuğunu görüyordu.
 
-**NextID** onu tanıyordu.
+**Next-ID** onu tanıyordu.
 
-**NextOrg** kurum içindeki yerini biliyordu.
+**Next-Org** kurum içindeki yerini biliyordu.
 
-**NextRole** ne yapabileceğini belirliyordu.
+**Next-Role** ne yapabileceğini belirliyordu.
 
-**NextPrivacy** mahremiyet tercihlerini koruyordu.
+**Next-Privacy** mahremiyet tercihlerini koruyordu.
 
-**NextConfig** çalışma ortamını yapılandırıyordu.
+**Next-Config** çalışma ortamını yapılandırıyordu.
 
-**NextLife** bütün bunları kişisel bir çalışma alanında birleştiriyordu.
+**Next-Life** bütün bunları kişisel bir çalışma alanında birleştiriyordu.
 
-**NextAI** analiz ve öneriyle yardım ediyordu.
+**Next-AI** analiz ve öneriyle yardım ediyordu.
 
-**NextView** sonucu görünür kılıyordu.
+**Next-View** sonucu görünür kılıyordu.
 
-**NextFlow** işi akışa dönüştürüyordu.
+**Next-Flow** işi akışa dönüştürüyordu.
 
-**NextApproval** karar ve onayı kaydediyordu.
+**Next-Approval** karar ve onayı kaydediyordu.
 
-**NextTask** sorumluluğu kişiye veya birime bağlıyordu.
+**Next-Task** sorumluluğu kişiye veya birime bağlıyordu.
 
-**NextProject** büyük işi proje hafızasına dönüştürüyordu.
+**Next-Project** büyük işi proje hafızasına dönüştürüyordu.
 
-**NextMeeting** konuşulanı karara ve aksiyona bağlıyordu.
+**Next-Meeting** konuşulanı karara ve aksiyona bağlıyordu.
 
-**NextCalendar** bütün bunları zamana yerleştiriyordu.
+**Next-Calendar** bütün bunları zamana yerleştiriyordu.
 
-**NextCollect** yapılandırılmış veri ve anket topluyordu.
+**Next-Collect** yapılandırılmış veri ve anket topluyordu.
 
-**NextVoice** insanın sorununu, önerisini ve memnuniyetini taşıyordu.
+**Next-Voice** insanın sorununu, önerisini ve memnuniyetini taşıyordu.
 
-**NextVote** güvenli kurumsal oylamayı yönetiyordu.
+**Next-Vote** güvenli kurumsal oylamayı yönetiyordu.
 
-**NextMessage** insanlara gerekli bilgiyi ulaştırıyordu.
+**Next-Message** insanlara gerekli bilgiyi ulaştırıyordu.
 
-**NextDocument** kurumsal belge hafızasını tutuyordu.
+**Next-Document** kurumsal belge hafızasını tutuyordu.
 
-**NextStorage** dijital dosyaları saklıyordu.
+**Next-Storage** dijital dosyaları saklıyordu.
 
-**NextSearch** yetkili bilgiye ulaşmayı sağlıyordu.
+**Next-Search** yetkili bilgiye ulaşmayı sağlıyordu.
 
-**NextData** verinin kaynağını, kalitesini ve akışını yönetiyordu.
+**Next-Data** verinin kaynağını, kalitesini ve akışını yönetiyordu.
 
-**NextDeveloper** geliştiricinin rehberiydi.
+**Next-Developer** geliştiricinin rehberiydi.
 
-**NextCode** yazılım üretiminin kaynak ve katkı geçmişini tutuyordu.
+**Next-Code** yazılım üretiminin kaynak ve katkı geçmişini tutuyordu.
 
-**NextConnect** eski ve yeni sistemleri birbirine bağlıyordu.
+**Next-Connect** eski ve yeni sistemleri birbirine bağlıyordu.
 
-**NextLog** ne olduğunu kaydediyordu.
+**Next-Log** ne olduğunu kaydediyordu.
 
-**NextMonitor** sistemin sağlığını izliyordu.
+**Next-Monitor** sistemin sağlığını izliyordu.
 
-**NextSupport** sorunları destek sürecine dönüştürüyordu.
+**Next-Support** sorunları destek sürecine dönüştürüyordu.
 
-**NextPay** ödemeleri mevcut finansal yapılarla bağlıyordu.
+**Next-Pay** ödemeleri mevcut finansal yapılarla bağlıyordu.
 
-**NextLearn** insanın öğrenmesini ve gelişimini görünür kılıyordu.
+**Next-Learn** insanın öğrenmesini ve gelişimini görünür kılıyordu.
 
 Otuz uygulamanın ortak sorusu ise tekti:
 
@@ -1128,19 +1128,19 @@ Otuz uygulamanın ortak sorusu ise tekti:
 
 # İlk Ses, İlk Proje
 
-Koordinatörlüğün ilk günlerinde bir çalışan NextVoice'a kısa bir kayıt bıraktı:
+Koordinatörlüğün ilk günlerinde bir çalışan Next-Voice'a kısa bir kayıt bıraktı:
 
 “Bir bilgiyi üç farklı yere tekrar tekrar giriyoruz.”
 
 Eski sistemde bu cümle bir şikâyet olarak kalabilirdi.
 
-NextLife'ta ise yolculuk yeni başlıyordu.
+Next-Life'ta ise yolculuk yeni başlıyordu.
 
-NextVoice kaydı aldı.
+Next-Voice kaydı aldı.
 
 Kullanıcının ilk ifadesini değiştirmedi.
 
-NextAI benzer kayıtları ve ulaşabildiği yetkili bilgileri analiz etti.
+Next-AI benzer kayıtları ve ulaşabildiği yetkili bilgileri analiz etti.
 
 Tek bir şikâyeti otomatik olarak kurumun genel gerçeği kabul etmedi.
 
@@ -1158,55 +1158,55 @@ Koordinatörlükte bir insan raporu değerlendirdi.
 
 diye sordu.
 
-NextCollect ile ilgili çalışanlardan yapılandırılmış veri toplandı.
+Next-Collect ile ilgili çalışanlardan yapılandırılmış veri toplandı.
 
-NextData mevcut veri kaynaklarını gösterdi.
+Next-Data mevcut veri kaynaklarını gösterdi.
 
-NextSearch geçmişte aynı süreçle ilgili belge ve destek kayıtlarını buldu.
+Next-Search geçmişte aynı süreçle ilgili belge ve destek kayıtlarını buldu.
 
-NextSupport'ta benzer talepler olduğu görüldü.
+Next-Support'ta benzer talepler olduğu görüldü.
 
 Artık sorun tek bir kişinin hissi olmaktan çıkmış,
 
 ama yine de insan tarafından doğrulanması gereken bir çalışma konusu hâline gelmişti.
 
-NextProject üzerinde proje açıldı.
+Next-Project üzerinde proje açıldı.
 
-NextOrg hangi birimlerin süreçte bulunduğunu gösterdi.
+Next-Org hangi birimlerin süreçte bulunduğunu gösterdi.
 
-NextRole kimlerin hangi verilere erişebileceğini ve hangi işlemleri yapabileceğini sınırladı.
+Next-Role kimlerin hangi verilere erişebileceğini ve hangi işlemleri yapabileceğini sınırladı.
 
-NextTask görevleri dağıttı.
+Next-Task görevleri dağıttı.
 
-NextCalendar görüşmeleri planladı.
+Next-Calendar görüşmeleri planladı.
 
-NextMeeting toplantıları, kararları ve aksiyonları kaydetti.
+Next-Meeting toplantıları, kararları ve aksiyonları kaydetti.
 
-NextDocument mevcut formları ve prosedürleri topladı.
+Next-Document mevcut formları ve prosedürleri topladı.
 
-Bir değişiklik için onay gerektiğinde NextApproval kullanıldı.
+Bir değişiklik için onay gerektiğinde Next-Approval kullanıldı.
 
-Elektronik imza gereken belge NextDocument ile NextApproval birlikte çalışarak sürece girdi.
+Elektronik imza gereken belge Next-Document ile Next-Approval birlikte çalışarak sürece girdi.
 
-NextConnect eski kurumsal sistemlerden gerekli veriyi alarak aynı bilginin yeniden girilmesini azaltacak entegrasyonu kurdu.
+Next-Connect eski kurumsal sistemlerden gerekli veriyi alarak aynı bilginin yeniden girilmesini azaltacak entegrasyonu kurdu.
 
-NextDeveloper geliştiricilere kullanılacak API'leri ve kuralları gösterdi.
+Next-Developer geliştiricilere kullanılacak API'leri ve kuralları gösterdi.
 
-NextCode üzerinde geliştirilen kodun kim tarafından yazıldığı,
+Next-Code üzerinde geliştirilen kodun kim tarafından yazıldığı,
 
 kim tarafından incelendiği
 
 ve hangi sürümde değiştiği kaydedildi.
 
-NextLog testlerde oluşan hataları tuttu.
+Next-Log testlerde oluşan hataları tuttu.
 
-NextMonitor yeni servisin çalışma durumunu izledi.
+Next-Monitor yeni servisin çalışma durumunu izledi.
 
-NextMessage pilot kullanıcıları değişikliklerden haberdar etti.
+Next-Message pilot kullanıcıları değişikliklerden haberdar etti.
 
-NextLearn yeni süreci kullanacak personele kısa bir eğitim sundu.
+Next-Learn yeni süreci kullanacak personele kısa bir eğitim sundu.
 
-Ve NextView sonunda herkesin anlayabileceği birkaç gösterge gösterdi:
+Ve Next-View sonunda herkesin anlayabileceği birkaç gösterge gösterdi:
 
 İşlem süresi ne kadar azaldı?
 
@@ -1230,13 +1230,13 @@ Bazıları eski alışkanlıklarını değiştirmek istemiyordu.
 
 Proje yeniden açıldı.
 
-NextVoice yeni geri bildirimleri aldı.
+Next-Voice yeni geri bildirimleri aldı.
 
-NextLearn eğitimleri değiştirdi.
+Next-Learn eğitimleri değiştirdi.
 
-NextPrivacy görünürlük ve tercihlerin nasıl yönetildiğini daha açık anlattı.
+Next-Privacy görünürlük ve tercihlerin nasıl yönetildiğini daha açık anlattı.
 
-NextView insanlara yalnız yöneticilerin değil,
+Next-View insanlara yalnız yöneticilerin değil,
 
 kendi yaptıkları işin sonucunu da gösterdi.
 
@@ -1360,7 +1360,7 @@ Bu nedenle Maran başka bir ilke yazdı:
 
 # İnsan Merkezi
 
-İnsan Merkezi NextLife'ın karşısına çıktığında ilk sorusu şuydu:
+İnsan Merkezi Next-Life'ın karşısına çıktığında ilk sorusu şuydu:
 
 > **İnsan için ne değişti?**
 
@@ -1434,19 +1434,19 @@ Belirsizlik nerede?
 
 Olumsuz sonuçlar kaydedildi mi?
 
-Aydınlık Merkezi NextID,
+Aydınlık Merkezi Next-ID,
 
-NextRole,
+Next-Role,
 
-NextLog,
+Next-Log,
 
-NextDocument,
+Next-Document,
 
-NextProject,
+Next-Project,
 
-NextCode
+Next-Code
 
-ve NextView gibi sistemlerdeki izlenebilirliğin değerini gördü.
+ve Next-View gibi sistemlerdeki izlenebilirliğin değerini gördü.
 
 Ama sonra ekranları kişisel verilerle doldurdu.
 
@@ -1576,17 +1576,17 @@ Ulaşım.
 
 Çalışma hayatı.
 
-Gerçek sorunlar NextVoice üzerinden gelebilir,
+Gerçek sorunlar Next-Voice üzerinden gelebilir,
 
-NextAI tarafından kaynak ve belirsizlikleriyle analiz edilebilir,
+Next-AI tarafından kaynak ve belirsizlikleriyle analiz edilebilir,
 
 insanlar tarafından değerlendirilebilir,
 
-NextProject üzerinden projeye dönüşebilir,
+Next-Project üzerinden projeye dönüşebilir,
 
 sahada denenebilir,
 
-NextView üzerinden insan etkisi ölçülebilir
+Next-View üzerinden insan etkisi ölçülebilir
 
 ve sonuçlar açıkça raporlanabilirdi.
 
