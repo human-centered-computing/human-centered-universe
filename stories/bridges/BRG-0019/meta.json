@@ -32,16 +32,38 @@
     "tr": {"status": "reviewed"}
   },
   "hero_image": {
-    "src": "./assets/images/stories/BRG-0019/brg-0019-gorsel-hikaye.webp",
+    "src": "./assets/images/stories/BRG-0019/01-miras-ve-yapay-zeka.webp",
     "alt": {
-      "en": "Animated visual journey through the Harran University human-centered transformation prototype, showing heritage, the NextLife ecosystem and the path from local work to global open collaboration.",
-      "tr": "Harran Üniversitesindeki insan merkezli dönüşüm prototipini; tarihî bilgi mirasını, NextLife ekosistemini ve yerelden dünyaya açık iş birliği yolunu gösteren hareketli görsel anlatı."
-    },
-    "caption": {
-      "en": "Three scenes move from heritage and human-AI collaboration to the NextLife institutional ecosystem and the Harran University–Şanlıurfa–Türkiye–world transformation network.",
-      "tr": "Üç sahne; bilgi mirası ve insan-yapay zekâ iş birliğinden NextLife kurumsal ekosistemine, oradan Harran Üniversitesi-Şanlıurfa-Türkiye-dünya dönüşüm ağına ilerler."
+      "en": "Heritage and human-AI collaboration in the Harran University human-centered transformation story.",
+      "tr": "Harran Üniversitesi insan merkezli dönüşüm hikâyesinde bilgi mirası ile insan-yapay zekâ iş birliğini gösteren sahne."
     }
   },
+  "story_gallery": [
+    {
+      "key": "heritage_ai",
+      "src": "./assets/images/stories/BRG-0019/01-miras-ve-yapay-zeka.webp",
+      "alt": {
+        "en": "Historic knowledge heritage meets contemporary human-AI collaboration at Harran University.",
+        "tr": "Tarihî bilgi mirası ile Harran Üniversitesindeki çağdaş insan-yapay zekâ iş birliğini bir arada gösteren sahne."
+      }
+    },
+    {
+      "key": "nextlife_ecosystem",
+      "src": "./assets/images/stories/BRG-0019/02-nextlife-ekosistemi.webp",
+      "alt": {
+        "en": "The NextLife applications operating together as a human-centered institutional ecosystem.",
+        "tr": "NextLife uygulamalarının insan merkezli kurumsal dönüşüm ekosistemi olarak birlikte çalıştığı sahne."
+      }
+    },
+    {
+      "key": "local_to_global",
+      "src": "./assets/images/stories/BRG-0019/03-yerelden-dunyaya-ag.webp",
+      "alt": {
+        "en": "An open transformation network expanding from Harran University through Sanliurfa and Türkiye to the world.",
+        "tr": "Harran Üniversitesinden Şanlıurfa ve Türkiye üzerinden dünyaya açılan açık dönüşüm ağını gösteren sahne."
+      }
+    }
+  ],
   "links": [
     {"target": "BRG-0017", "type": "transformation", "note": "The Informatics 5.0 philosophy and meaningful-work model become a distinct real-world local institutional prototype at Harran University without replacing the earlier story."},
     {"target": "BRG-0015", "type": "transformation", "note": "Human-Centered Transformation moves from education into institutional work, measurable human impact and public-sector experimentation."},
