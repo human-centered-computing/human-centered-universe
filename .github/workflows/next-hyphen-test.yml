@@ -1,0 +1,43 @@
+name: One-shot Next Hyphen Pronunciation Test
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/next-hyphen-test.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  hyphenate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Hyphenate Next application names in BRG-0019 Turkish text
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path("stories/bridges/BRG-0019/content/tr.md")
+          text = path.read_text(encoding="utf-8")
+          updated, count = re.subn(r"\bNext(?=[A-Z])", "Next-", text)
+          path.write_text(updated, encoding="utf-8")
+          print(f"Updated {count} Next application-name occurrences.")
+          PY
+
+      - name: Commit pronunciation test
+        run: |
+          if git diff --quiet -- stories/bridges/BRG-0019/content/tr.md; then
+            echo "No change needed."
+            exit 0
+          fi
+          git config user.name "HCU Content Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add stories/bridges/BRG-0019/content/tr.md
+          git commit -m "Test hyphenated Next names in BRG-0019 Turkish narration"
+          git push origin HEAD:main
