@@ -1,0 +1,51 @@
+name: One-shot BRG-0019 Hyphen Narration
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/next-hyphen-narration.yml"
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install system audio tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Piper TTS
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install "piper-tts>=1.5,<2"
+
+      - name: Configure narration bot
+        run: |
+          git config user.name "HCU Narration Bot"
+          git config user.email "actions@users.noreply.github.com"
+
+      - name: Generate Turkish BRG-0019 narration
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python scripts/generate_multilingual_narration.py \
+            --language tr \
+            --story BRG-0019 \
+            --checkpoint
