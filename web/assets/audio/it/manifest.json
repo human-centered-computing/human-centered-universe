@@ -77,6 +77,15 @@
       "bytes": 11223503,
       "engine": "Piper",
       "voice": "it_IT-paola-medium"
+    },
+    {
+      "id": "HUM-0004",
+      "title": "The Sixth Sense: The Human Decides",
+      "file": "./HUM-0004.mp3",
+      "duration_seconds": 366.785,
+      "bytes": 4401782,
+      "engine": "Piper",
+      "voice": "it_IT-paola-medium"
     }
   ]
 }
