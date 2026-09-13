@@ -4,6 +4,8 @@
 
 Maran stood alone at the center of the twelve pillars of Miraza–Xerawreşk.
 
+His name meant **snakes** in Kurdish. Like the snakes carved into stone, he was trying to understand the unseen movements within the darkness.
+
 The night was so dark that even when he raised his hands before his chest, he could not see his fingers. His eyes told him nothing. His ears heard only the wind passing between the stones; his nose carried the scent of damp earth; his skin felt the cold of the night.
 
 His five senses were working.
