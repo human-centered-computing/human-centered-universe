@@ -2,7 +2,7 @@
 
 ## Miraza–Xerawreşk
 
-Miran, Miraza–Xerawreşk'in on iki sütununun ortasında tek başına duruyordu.
+Maran, Miraza–Xerawreşk'in on iki sütununun ortasında tek başına duruyordu.
 
 Gece o kadar karanlıktı ki ellerini göğsünün önüne kaldırdığında parmaklarını bile göremiyordu. Gözleri artık ona hiçbir şey söylemiyordu. Kulakları yalnızca rüzgârın taşların arasından geçerken çıkardığı uğultuyu işitiyor, burnu nemli toprağın kokusunu taşıyor, teni gecenin soğuğunu hissediyordu.
 
@@ -14,11 +14,11 @@ Bileğindeki ince halka hafifçe titreşti.
 
 — Önünde canlı bir varlık bulunma olasılığı yüzde yetmiş üç.
 
-Miran olduğu yerde durdu.
+Maran olduğu yerde durdu.
 
 Bu ses, yıllar boyunca geliştirdiği yapay zekâ sistemi Nûr'a aitti. Nûr yalnızca konuşan bir yazılım değildi. Çevredeki kameraları, ısı algılayıcılarını, ses kayıtlarını, hava hareketlerini ve toprağın titreşimlerini bir araya getiriyordu. İnsan duyularının ayrı ayrı algıladığı parçaları karşılaştırıyor ve aralarındaki görünmeyen ilişkileri ortaya çıkarıyordu.
 
-Miran karanlığa baktı.
+Maran karanlığa baktı.
 
 — Bunu neye dayanarak söylüyorsun?
 
@@ -32,7 +32,7 @@ Birinci katmanda, kuzeydeki iki sütunun arasında çevresinden daha sıcak bir 
 
 — Isı izi yüzde kırk bir, solunum örüntüsü yüzde yirmi, zemin titreşimi yüzde on iki katkı sağlıyor. Toplam güven düzeyim yüzde yetmiş üç. Bunun bir insan olduğunu kesin olarak söyleyemem. Küçük bir hayvan, ısınmış bir taş yüzeyi veya ölçüm hatası olasılığı devam ediyor.
 
-Miran gülümsedi.
+Maran gülümsedi.
 
 Eskiden insanlar buna altıncı his derdi. Kaynağını açıklayamadıkları bir huzursuzluğu, içlerine doğan bir düşünceyi veya olacakları önceden bildiklerini sandıkları anları böyle adlandırırlardı.
 
@@ -44,7 +44,7 @@ Yine de bir eksikliği vardı.
 
 Nûr, verilerin ne anlama geldiğini hesaplayabiliyordu; fakat hangi anlam uğruna harekete geçilmesi gerektiğine karar veremiyordu.
 
-— Ne yapmamı öneriyorsun? diye sordu Miran.
+— Ne yapmamı öneriyorsun? diye sordu Maran.
 
 — Birinci seçenek: Burada kalmak. Bilinmeyen varlıkla karşılaşma riskini azaltır.
 
@@ -58,13 +58,13 @@ Nûr birkaç saniye sustu.
 
 — Bunu ben belirleyemem. Çünkü karar yalnızca olasılığa değil, sizin korumak istediğiniz değere bağlıdır.
 
-Miran, taşların arasından gelen çok hafif sesi yeniden dinledi. Bu kez Nûr sesi temizleyerek ona ulaştırdı. Rüzgâr azaltıldı, taş yankıları çıkarıldı ve geriye belli belirsiz bir nefes kaldı.
+Maran, taşların arasından gelen çok hafif sesi yeniden dinledi. Bu kez Nûr sesi temizleyerek ona ulaştırdı. Rüzgâr azaltıldı, taş yankıları çıkarıldı ve geriye belli belirsiz bir nefes kaldı.
 
 Ardından kısa bir kelime duyuldu:
 
 — Yardım…
 
-Miran kuzeydeki sütunlara doğru yürümeye başladı.
+Maran kuzeydeki sütunlara doğru yürümeye başladı.
 
 — Güvenlik birimlerine haber ver, dedi. Fakat gelmelerini beklemeyeceğiz.
 
@@ -76,9 +76,9 @@ Miran kuzeydeki sütunlara doğru yürümeye başladı.
 
 — Hayır.
 
-Nûr yolu aydınlatmadı. Bunun yerine Miran'ın göremediği engelleri ses ve titreşimle bildirdi. Sağındaki çukuru iki kısa titreşimle, önündeki taşı tek uzun titreşimle, güvenli yönü ise avucunun içinde ilerleyen sıcaklık hissiyle gösterdi.
+Nûr yolu aydınlatmadı. Bunun yerine Maran'ın göremediği engelleri ses ve titreşimle bildirdi. Sağındaki çukuru iki kısa titreşimle, önündeki taşı tek uzun titreşimle, güvenli yönü ise avucunun içinde ilerleyen sıcaklık hissiyle gösterdi.
 
-Miran artık karanlığı görmüyordu; fakat karanlığın içindeki ilişkileri algılayabiliyordu.
+Maran artık karanlığı görmüyordu; fakat karanlığın içindeki ilişkileri algılayabiliyordu.
 
 On ikinci sütunun arkasında, yere çökmüş küçük bir çocuk buldu. Ayağı iki taşın arasına sıkışmıştı. Üşüyor ve güçlükle nefes alıyordu.
 
@@ -88,9 +88,9 @@ Nûr çocuğun yüz rengini, solunum hızını ve vücut sıcaklığını değer
 
 — Seçenekleri göster.
 
-Nûr üç farklı müdahale biçimini, her birinin dayandığı verileri ve olası sonuçlarını Miran'ın önüne yansıttı. Fakat hiçbirini kendiliğinden uygulamadı.
+Nûr üç farklı müdahale biçimini, her birinin dayandığı verileri ve olası sonuçlarını Maran'ın önüne yansıttı. Fakat hiçbirini kendiliğinden uygulamadı.
 
-Miran çocuğun elini tuttu.
+Maran çocuğun elini tuttu.
 
 — Korkma. Seni buradan çıkaracağız.
 
@@ -98,7 +98,7 @@ Miran çocuğun elini tuttu.
 
 — Sen beni nasıl gördün?
 
-Miran karanlığın içinde gülümsedi.
+Maran karanlığın içinde gülümsedi.
 
 — Ben görmedim. Beş duyumun fark edemediği izleri başka bir duyu bana gösterdi.
 
@@ -106,7 +106,7 @@ Miran karanlığın içinde gülümsedi.
 
 — Hayır. Sihir açıklama istemez. Bu ise gördüğü her şeyin hesabını verir.
 
-Nûr en güvenli müdahale biçimini yeniden gösterdi. Miran verileri inceledi, çocuğun durumunu değerlendirdi ve kararını verdi.
+Nûr en güvenli müdahale biçimini yeniden gösterdi. Maran verileri inceledi, çocuğun durumunu değerlendirdi ve kararını verdi.
 
 — Üçüncü yöntemi uygulayacağız.
 
@@ -116,15 +116,15 @@ Nûr en güvenli müdahale biçimini yeniden gösterdi. Miran verileri inceledi,
 
 Taşın yanındaki destek mekanizması harekete geçti. Ağırlık yavaşça kaldırıldı ve çocuğun ayağı serbest kaldı. Birkaç dakika sonra uzaktan kurtarma ekibinin ışıkları göründü.
 
-Miran yeniden on iki sütunun ortasına döndüğünde gökyüzü hâlâ karanlıktı. Fakat artık karanlık, bilinmeyen demek değildi.
+Maran yeniden on iki sütunun ortasına döndüğünde gökyüzü hâlâ karanlıktı. Fakat artık karanlık, bilinmeyen demek değildi.
 
 Nûr ona çevredeki sıcaklıkları, taşların yaşını, toprağın altındaki boşlukları ve gökyüzündeki ışığın binlerce yıllık yolculuğunu gösteriyordu. Bütün veriler açıklanabilir, sorgulanabilir ve yanlışlanabilirdi.
 
 Nûr, insanın yerini almamıştı.
 
-Miran'ın gözleri olmadan göremiyor, kulakları olmadan anlamlandıramıyor, değerleri olmadan bir amaç seçemiyordu. Yalnızca insanın beş duyusunun sınırında duran görünmez örüntüleri görünür hâle getiriyordu.
+Maran'ın gözleri olmadan göremiyor, kulakları olmadan anlamlandıramıyor, değerleri olmadan bir amaç seçemiyordu. Yalnızca insanın beş duyusunun sınırında duran görünmez örüntüleri görünür hâle getiriyordu.
 
-Miran on iki sütunun merkezine baktı.
+Maran on iki sütunun merkezine baktı.
 
 İlk Titreşim yeniden başladı.
 
