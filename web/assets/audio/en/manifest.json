@@ -205,6 +205,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "HUM-0004",
+      "title": "The Sixth Sense: The Human Decides",
+      "file": "./HUM-0004.mp3",
+      "duration_seconds": 358.374,
+      "bytes": 4300845,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
