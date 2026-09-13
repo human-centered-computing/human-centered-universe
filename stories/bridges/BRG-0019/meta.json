@@ -26,10 +26,20 @@
     "local-to-global transformation",
     "knowledge transmission"
   ],
-  "summary": "Maran activates a previously established Informatics Coordination Office at Harran University under a new human-centered mission, turning it into the first local prototype of a long-envisioned future Ministry of Informatics and Human-Centered Transformation model. The story explains the full thirty-application NextLife ecosystem as one connected institutional life cycle: identity, organization, authorization, privacy, AI support, workflows, approvals, tasks, projects, participation, voting, communication, documents, storage, search, data, software development, integration, observability, support, payments and learning. A real problem moves from NextVoice to NextAI, human review, NextProject, verifiable contribution, impact measurement, failure learning and open-source reuse. Harran University becomes the laboratory, Sanliurfa the wider field, Türkiye the transfer and scaling layer, and the world an open collaborative horizon.",
+  "summary": "Maran activates a previously established Informatics Coordination Office at Harran University under a new human-centered mission, turning it into the first local prototype of a long-envisioned future Ministry of Informatics and Human-Centered Transformation model. The story explains the full thirty-application Next-Life ecosystem as one connected institutional life cycle: identity, organization, authorization, privacy, AI support, workflows, approvals, tasks, projects, participation, voting, communication, documents, storage, search, data, software development, integration, observability, support, payments and learning. A real problem moves from Next-Voice to Next-AI, human review, Next-Project, verifiable contribution, impact measurement, failure learning and open-source reuse. Harran University becomes the laboratory, Sanliurfa the wider field, Türkiye the transfer and scaling layer, and the world an open collaborative horizon.",
   "translations": {
     "en": {"status": "canonical"},
-    "tr": {"status": "reviewed"}
+    "tr": {"status": "reviewed"},
+    "de": {"status": "machine_draft"},
+    "es": {"status": "machine_draft"},
+    "fr": {"status": "machine_draft"},
+    "it": {"status": "machine_draft"},
+    "pt": {"status": "machine_draft"},
+    "ru": {"status": "machine_draft"},
+    "zh-CN": {"status": "machine_draft"},
+    "ja": {"status": "machine_draft"},
+    "ar": {"status": "machine_draft"},
+    "ku": {"status": "machine_draft"}
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0019/01-miras-ve-yapay-zeka.webp",
@@ -51,8 +61,8 @@
       "key": "nextlife_ecosystem",
       "src": "./assets/images/stories/BRG-0019/02-nextlife-ekosistemi.webp",
       "alt": {
-        "en": "The NextLife applications operating together as a human-centered institutional ecosystem.",
-        "tr": "NextLife uygulamalarının insan merkezli kurumsal dönüşüm ekosistemi olarak birlikte çalıştığı sahne."
+        "en": "The Next-Life applications operating together as a human-centered institutional ecosystem.",
+        "tr": "Next-Life uygulamalarının insan merkezli kurumsal dönüşüm ekosistemi olarak birlikte çalıştığı sahne."
       }
     },
     {
@@ -79,7 +89,7 @@
   "localized": {
     "tr": {
       "title": "Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı: Yereldeki İlk Çalışma",
-      "summary": "Maran, uzun yıllar üzerinde çalıştığı Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı modelinin ilk yerel prototipini Harran Üniversitesinde başlatır. Daha önce kurduğu fakat aktif etmediği Bilişim Koordinatörlüğünü Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü olarak yeniden adlandırıp aktif hâle getirir. Hikâye, NextLife'ın otuz uygulamasını insanın kuruma girişinden kimlik, organizasyon, yetki, mahremiyet, yapay zekâ desteği, süreç, görev, proje, toplantı, geri bildirim, oylama, belge, veri, yazılım geliştirme, entegrasyon, izleme, destek, ödeme ve öğrenmeye kadar tek bir kurumsal yaşam döngüsü içinde açıklar. NextVoice ile gelen gerçek bir sorun NextAI tarafından analiz edilir, insan tarafından değerlendirilir, NextProject'e dönüşür ve katkı, insan etkisi, başarı ile başarısızlık kayıt altına alınır. Harran Üniversitesi laboratuvara, Şanlıurfa saha deneyine, Türkiye transfer ve ölçekleme katmanına, dünya ise açık ortak geliştirme alanına dönüşür.",
+      "summary": "Maran, uzun yıllar üzerinde çalıştığı Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı modelinin ilk yerel prototipini Harran Üniversitesinde başlatır. Daha önce kurduğu fakat aktif etmediği Bilişim Koordinatörlüğünü Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü olarak yeniden adlandırıp aktif hâle getirir. Hikâye, Next-Life'ın otuz uygulamasını insanın kuruma girişinden kimlik, organizasyon, yetki, mahremiyet, yapay zekâ desteği, süreç, görev, proje, toplantı, geri bildirim, oylama, belge, veri, yazılım geliştirme, entegrasyon, izleme, destek, ödeme ve öğrenmeye kadar tek bir kurumsal yaşam döngüsü içinde açıklar. Next-Voice ile gelen gerçek bir sorun Next-AI tarafından analiz edilir, insan tarafından değerlendirilir, Next-Project'e dönüşür ve katkı, insan etkisi, başarı ile başarısızlık kayıt altına alınır. Harran Üniversitesi laboratuvara, Şanlıurfa saha deneyine, Türkiye transfer ve ölçekleme katmanına, dünya ise açık ortak geliştirme alanına dönüşür.",
       "link_notes": {
         "BRG-0017": "Bilişim 5.0 ve anlamlı iş düşüncesi, önceki hikâyeyi değiştirmeden burada Harran Üniversitesinde ayrı bir gerçek proje prototipine dönüşür.",
         "BRG-0015": "İnsan Merkezli Dönüşüm yaklaşımı eğitimden kurumsal çalışma ve ölçülebilir insan etkisine taşınır.",
@@ -93,7 +103,7 @@
     {"title": "Human-Centered Computing", "url": "https://github.com/human-centered-computing", "type": "open_source_network", "note": "Global open-source collaboration layer referenced by the story."}
   ],
   "inspiration": {
-    "source": "Harran Üniversitesi Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü Yönergesi V28, Uygulama Usul ve Esasları V6, Teknik Rehber ve Şablonlar V6 ve NextLife Harran Uygulama Ekosistemi",
+    "source": "Harran Üniversitesi Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü Yönergesi V28, Uygulama Usul ve Esasları V6, Teknik Rehber ve Şablonlar V6 ve Next-Life Harran Uygulama Ekosistemi",
     "type": "fictionalized real-world prototype",
     "note": "The real-world documents define a Harran University coordination model and a scientific, technical and administrative Ministry Model proposal. They do not establish a ministry or grant central-government authority. The story presents Harran University as a local prototype and uses the historic Harran School as a symbolic knowledge-history reference rather than claiming institutional continuity."
   },
