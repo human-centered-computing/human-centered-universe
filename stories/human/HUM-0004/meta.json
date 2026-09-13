@@ -7,6 +7,7 @@
   "culture": [
     "Miraza–Xerawreşk",
     "Göbekli Tepe",
+    "Maran — Kurdish for snakes",
     "human-centered artificial intelligence",
     "explainable AI",
     "augmented human perception"
@@ -17,20 +18,24 @@
     "technology and responsibility",
     "distinction between spiritual intuition and explainable perception"
   ],
-  "summary": "In the darkness of Miraza–Xerawreşk, Miran's five senses cannot locate a trapped child. Nûr combines thermal, acoustic and ground-vibration evidence, exposes its confidence and uncertainty, and offers alternatives without choosing a value on Miran's behalf. The encounter defines artificial intelligence as an explainable sixth sense that extends human perception while leaving purpose, judgment and final responsibility with the human.",
+  "summary": "In the darkness of Miraza–Xerawreşk, Maran's five senses cannot locate a trapped child. Nûr combines thermal, acoustic and ground-vibration evidence, exposes its confidence and uncertainty, and offers alternatives without choosing a value on Maran's behalf. The encounter defines artificial intelligence as an explainable sixth sense that extends human perception while leaving purpose, judgment and final responsibility with the human.",
   "translations": {
-    "en": {"status": "canonical"},
-    "tr": {"status": "reviewed"}
+    "en": {
+      "status": "canonical"
+    },
+    "tr": {
+      "status": "reviewed"
+    }
   },
   "hero_image": {
     "src": "./assets/images/stories/HUM-0004/altinci-duyu-aciklanabilir-yapay-zeka.webp",
     "alt": {
-      "en": "Miran approaches a child among the dark pillars of Miraza–Xerawreşk while explainable thermal, acoustic and ground-vibration evidence reveals the path.",
-      "tr": "Miran, karanlık Miraza–Xerawreşk sütunları arasında bir çocuğa yaklaşırken açıklanabilir ısı, ses ve zemin titreşimi verileri yolu görünür kılıyor."
+      "en": "Maran approaches a child among the dark pillars of Miraza–Xerawreşk while explainable thermal, acoustic and ground-vibration evidence reveals the path.",
+      "tr": "Maran, karanlık Miraza–Xerawreşk sütunları arasında bir çocuğa yaklaşırken açıklanabilir ısı, ses ve zemin titreşimi verileri yolu görünür kılıyor."
     },
     "caption": {
-      "en": "Artificial intelligence reveals evidence and uncertainty; Miran chooses the value and makes the final decision.",
-      "tr": "Yapay zekâ kanıtı ve belirsizliği gösterir; değeri seçen ve nihai kararı veren Miran'dır."
+      "en": "Artificial intelligence reveals evidence and uncertainty; Maran chooses the value and makes the final decision.",
+      "tr": "Yapay zekâ kanıtı ve belirsizliği gösterir; değeri seçen ve nihai kararı veren Maran'dır."
     }
   },
   "links": [
@@ -56,7 +61,11 @@
     }
   ],
   "primary_center": "HUMAN",
-  "center_weights": {"HUMAN": 45, "LIGHT": 40, "DARK": 15},
+  "center_weights": {
+    "HUMAN": 45,
+    "LIGHT": 40,
+    "DARK": 15
+  },
   "observer_choices": [
     {
       "key": "keep_final_decision_human",
@@ -65,7 +74,11 @@
         "en": "Keep purpose, judgment and final responsibility with the human.",
         "tr": "Amacı, değerlendirmeyi ve nihai sorumluluğu insanda tut."
       },
-      "effects": {"HUMAN": 10, "LIGHT": 4, "DARK": 2}
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 4,
+        "DARK": 2
+      }
     },
     {
       "key": "demand_explainable_evidence",
@@ -74,7 +87,11 @@
         "en": "Require the system to expose its evidence, confidence and limits.",
         "tr": "Sistemin kanıtını, güven düzeyini ve sınırlarını göstermesini iste."
       },
-      "effects": {"HUMAN": 4, "LIGHT": 10, "DARK": 2}
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 10,
+        "DARK": 2
+      }
     },
     {
       "key": "investigate_beyond_five_senses",
@@ -83,13 +100,17 @@
         "en": "Investigate the uncertain patterns beyond the reach of the five senses.",
         "tr": "Beş duyunun erişemediği belirsiz örüntüleri araştır."
       },
-      "effects": {"HUMAN": 4, "LIGHT": 3, "DARK": 10}
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 3,
+        "DARK": 10
+      }
     }
   ],
   "localized": {
     "tr": {
       "title": "Altıncı Duyu: Kararı İnsan Verir",
-      "summary": "Miraza–Xerawreşk'in karanlığında Miran'ın beş duyusu taşların arasında sıkışan çocuğu bulmaya yetmez. Nûr; ısı, solunum ve zemin titreşimi verilerini birleştirir, güven düzeyiyle belirsizliğini açıklar ve Miran adına değer seçmeden seçenekleri gösterir. Karşılaşma, yapay zekâyı insan algısını genişleten açıklanabilir bir altıncı duyu olarak tanımlar; amaç, karar ve nihai sorumluluk insanda kalır.",
+      "summary": "Miraza–Xerawreşk'in karanlığında Maran'ın beş duyusu taşların arasında sıkışan çocuğu bulmaya yetmez. Nûr; ısı, solunum ve zemin titreşimi verilerini birleştirir, güven düzeyiyle belirsizliğini açıklar ve Maran adına değer seçmeden seçenekleri gösterir. Karşılaşma, yapay zekâyı insan algısını genişleten açıklanabilir bir altıncı duyu olarak tanımlar; amaç, karar ve nihai sorumluluk insanda kalır.",
       "link_notes": {
         "HUM-0001": "Tapetum Sentinel'in algı ilkeleri, yapay zekânın insan kararının yerine geçmeyen açıklanabilir altıncı duyu modeline dönüşür.",
         "BRG-0013": "Gerçeklik Köprüsü, her sinyalin, güven düzeyinin ve belirsizliğin incelenebilir ve insan denetimine açık kalmasını gerektirir.",
