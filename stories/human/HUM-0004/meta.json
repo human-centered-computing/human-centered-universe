@@ -25,17 +25,67 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/HUM-0004/altinci-duyu-aciklanabilir-yapay-zeka.webp",
     "alt": {
       "en": "Maran approaches a child among the dark pillars of Miraza–Xerawreşk while explainable thermal, acoustic and ground-vibration evidence reveals the path.",
-      "tr": "Maran, karanlık Miraza–Xerawreşk sütunları arasında bir çocuğa yaklaşırken açıklanabilir ısı, ses ve zemin titreşimi verileri yolu görünür kılıyor."
+      "tr": "Maran, karanlık Miraza–Xerawreşk sütunları arasında bir çocuğa yaklaşırken açıklanabilir ısı, ses ve zemin titreşimi verileri yolu görünür kılıyor.",
+      "de": "Maran nähert sich einem Kind zwischen den dunklen Säulen von Miraza–Xerawreşk, während erklärbare Wärme-, Schall- und Bodenschwingungsdaten den Weg sichtbar machen.",
+      "es": "Maran se acerca a un niño entre los oscuros pilares de Miraza–Xerawreşk mientras datos térmicos, acústicos y de vibración del suelo explicables revelan el camino.",
+      "fr": "Maran s'approche d'un enfant parmi les piliers sombres de Miraza–Xerawreşk tandis que des données thermiques, acoustiques et vibratoires explicables révèlent le chemin.",
+      "it": "Maran si avvicina a un bambino tra gli oscuri pilastri di Miraza–Xerawreşk mentre dati termici, acustici e di vibrazione del terreno spiegabili rivelano il percorso.",
+      "ru": "Maran приближается к ребёнку среди тёмных столбов Miraza–Xerawreşk, а объяснимые тепловые, звуковые и вибрационные данные указывают путь.",
+      "zh-CN": "Maran 走向 Miraza–Xerawreşk 黑暗石柱间的孩子，可解释的热、声音与地面振动证据揭示道路。",
+      "ja": "Maran が Miraza–Xerawreşk の暗い石柱の間で子どもへ近づき、説明可能な熱・音・地面振動の証拠が道を示している。",
+      "ar": "يقترب Maran من طفل بين أعمدة Miraza–Xerawreşk المظلمة، بينما تكشف بيانات حرارية وصوتية واهتزازية قابلة للتفسير الطريق.",
+      "ku": "Maran di nav stûnên tarî yên Miraza–Xerawreşkê de nêzî zarokekî dibe û daneyên ravebar ên germî, dengî û lerizîna axê rê nîşan didin.",
+      "pt": "Maran se aproxima de uma criança entre os pilares escuros de Miraza–Xerawreşk enquanto evidências térmicas, acústicas e de vibração do solo explicáveis revelam o caminho."
     },
     "caption": {
       "en": "Artificial intelligence reveals evidence and uncertainty; Maran chooses the value and makes the final decision.",
-      "tr": "Yapay zekâ kanıtı ve belirsizliği gösterir; değeri seçen ve nihai kararı veren Maran'dır."
+      "tr": "Yapay zekâ kanıtı ve belirsizliği gösterir; değeri seçen ve nihai kararı veren Maran'dır.",
+      "de": "Die künstliche Intelligenz zeigt Belege und Unsicherheit; Maran wählt den Wert und trifft die endgültige Entscheidung.",
+      "es": "La inteligencia artificial muestra las pruebas y la incertidumbre; Maran elige el valor y toma la decisión final.",
+      "fr": "L'intelligence artificielle montre les preuves et l'incertitude ; Maran choisit la valeur et prend la décision finale.",
+      "it": "L'intelligenza artificiale mostra prove e incertezza; Maran sceglie il valore e prende la decisione finale.",
+      "ru": "Искусственный интеллект показывает доказательства и неопределённость; Maran выбирает ценность и принимает окончательное решение.",
+      "zh-CN": "人工智能展示证据与不确定性；Maran 选择价值并作出最终决定。",
+      "ja": "人工知能は証拠と不確実性を示し、Maran が守る価値を選び、最終決定を下す。",
+      "ar": "يعرض الذكاء الاصطناعي الأدلة وعدم اليقين؛ ويختار Maran القيمة ويتخذ القرار النهائي.",
+      "ku": "Zîrekiya çêkirî delîl û nediyariyê nîşan dide; Maran nirxê hilbijêre û biryara dawî dide.",
+      "pt": "A inteligência artificial mostra evidências e incerteza; Maran escolhe o valor e toma a decisão final."
     }
   },
   "links": [
@@ -72,7 +122,17 @@
       "label": "Keep purpose, judgment and final responsibility with the human.",
       "labels": {
         "en": "Keep purpose, judgment and final responsibility with the human.",
-        "tr": "Amacı, değerlendirmeyi ve nihai sorumluluğu insanda tut."
+        "tr": "Amacı, değerlendirmeyi ve nihai sorumluluğu insanda tut.",
+        "de": "Lass Ziel, Urteil und endgültige Verantwortung beim Menschen.",
+        "es": "Mantén el propósito, el juicio y la responsabilidad final en el ser humano.",
+        "fr": "Laisse le but, le jugement et la responsabilité finale à l'humain.",
+        "it": "Mantieni scopo, giudizio e responsabilità finale nelle mani dell'essere umano.",
+        "ru": "Оставь цель, суждение и окончательную ответственность человеку.",
+        "zh-CN": "让目的、判断和最终责任留在人类手中。",
+        "ja": "目的、判断、最終責任を人間に残す。",
+        "ar": "أبقِ الغاية والحكم والمسؤولية النهائية بيد الإنسان.",
+        "ku": "Armanc, nirxandin û berpirsiyariya dawî li mirov bihêle.",
+        "pt": "Mantenha o propósito, o julgamento e a responsabilidade final com o ser humano."
       },
       "effects": {
         "HUMAN": 10,
@@ -85,7 +145,17 @@
       "label": "Require the system to expose its evidence, confidence and limits.",
       "labels": {
         "en": "Require the system to expose its evidence, confidence and limits.",
-        "tr": "Sistemin kanıtını, güven düzeyini ve sınırlarını göstermesini iste."
+        "tr": "Sistemin kanıtını, güven düzeyini ve sınırlarını göstermesini iste.",
+        "de": "Verlange, dass das System seine Belege, Konfidenz und Grenzen offenlegt.",
+        "es": "Exige que el sistema muestre sus pruebas, su nivel de confianza y sus límites.",
+        "fr": "Exige que le système expose ses preuves, son niveau de confiance et ses limites.",
+        "it": "Richiedi che il sistema mostri le prove, il livello di confidenza e i propri limiti.",
+        "ru": "Требуй, чтобы система показывала доказательства, уровень уверенности и свои пределы.",
+        "zh-CN": "要求系统公开其证据、置信度和局限。",
+        "ja": "システムに証拠、信頼度、限界の提示を求める。",
+        "ar": "اطلب من النظام إظهار أدلته ومستوى ثقته وحدوده.",
+        "ku": "Ji pergalê bixwaze ku delîl, asta baweriyê û sînorên xwe nîşan bide.",
+        "pt": "Exija que o sistema exponha suas evidências, seu nível de confiança e seus limites."
       },
       "effects": {
         "HUMAN": 4,
@@ -98,7 +168,17 @@
       "label": "Investigate the uncertain patterns beyond the reach of the five senses.",
       "labels": {
         "en": "Investigate the uncertain patterns beyond the reach of the five senses.",
-        "tr": "Beş duyunun erişemediği belirsiz örüntüleri araştır."
+        "tr": "Beş duyunun erişemediği belirsiz örüntüleri araştır.",
+        "de": "Untersuche unsichere Muster jenseits der Reichweite der fünf Sinne.",
+        "es": "Investiga los patrones inciertos que están fuera del alcance de los cinco sentidos.",
+        "fr": "Explore les motifs incertains hors de portée des cinq sens.",
+        "it": "Esplora gli schemi incerti oltre la portata dei cinque sensi.",
+        "ru": "Исследуй неопределённые закономерности за пределами пяти чувств.",
+        "zh-CN": "探索五种感官无法触及的不确定模式。",
+        "ja": "五感の届かない不確かなパターンを調べる。",
+        "ar": "استكشف الأنماط غير المؤكدة التي تتجاوز نطاق الحواس الخمس.",
+        "ku": "Şêwazên nediyar ên li derveyî gihîştina pênc hestan vekole.",
+        "pt": "Investigue os padrões incertos além do alcance dos cinco sentidos."
       },
       "effects": {
         "HUMAN": 4,
@@ -117,6 +197,46 @@
         "BRG-0017": "Hikâye, yapay zekânın insan kapasitesini genişlettiği; yetki ve sorumluluğun insanda kaldığı Bilişim 5.0 ilkesini anlatır.",
         "BRG-0002": "İlk Titreşim, doğaüstü bir emir olarak değil açıklanabilir algı olarak geri döner ve başlangıç sahnesini insan iradesine bağlar."
       }
+    },
+    "de": {
+      "title": "Der sechste Sinn: Der Mensch entscheidet",
+      "summary": "In der Dunkelheit von Miraza–Xerawreşk reichen Marans fünf Sinne nicht aus, um ein eingeklemmtes Kind zu finden. Nûr verbindet Wärme-, Atem- und Bodenschwingungsdaten, legt Konfidenz und Unsicherheit offen und zeigt Möglichkeiten, ohne an Marans Stelle einen Wert zu wählen. KI wird zum erklärbaren sechsten Sinn; Ziel, Entscheidung und endgültige Verantwortung bleiben beim Menschen."
+    },
+    "es": {
+      "title": "El sexto sentido: El ser humano decide",
+      "summary": "En la oscuridad de Miraza–Xerawreşk, los cinco sentidos de Maran no bastan para encontrar a un niño atrapado. Nûr combina datos térmicos, respiratorios y de vibración del suelo, expone su confianza e incertidumbre y ofrece opciones sin elegir un valor por Maran. La IA se define como un sexto sentido explicable; el propósito, la decisión y la responsabilidad final siguen siendo humanos."
+    },
+    "fr": {
+      "title": "Le sixième sens : L'humain décide",
+      "summary": "Dans l'obscurité de Miraza–Xerawreşk, les cinq sens de Maran ne suffisent pas à trouver un enfant piégé. Nûr combine les données thermiques, respiratoires et vibratoires, expose sa confiance et son incertitude, puis propose des options sans choisir une valeur à la place de Maran. L'IA devient un sixième sens explicable ; le but, la décision et la responsabilité finale restent humains."
+    },
+    "it": {
+      "title": "Il sesto senso: Decide l'essere umano",
+      "summary": "Nell'oscurità di Miraza–Xerawreşk, i cinque sensi di Maran non bastano a trovare un bambino intrappolato. Nûr combina dati termici, respiratori e di vibrazione del terreno, espone confidenza e incertezza e offre alternative senza scegliere un valore al posto di Maran. L'IA diventa un sesto senso spiegabile; scopo, decisione e responsabilità finale restano umani."
+    },
+    "ru": {
+      "title": "Шестое чувство: Решает человек",
+      "summary": "Во тьме Miraza–Xerawreşk пяти чувств Maran недостаточно, чтобы найти ребёнка, зажатого между камнями. Nûr объединяет тепловые данные, дыхание и колебания почвы, показывает уверенность и неопределённость и предлагает варианты, не выбирая ценность вместо Maran. ИИ становится объяснимым шестым чувством, а цель, решение и окончательная ответственность остаются у человека."
+    },
+    "zh-CN": {
+      "title": "第六感：由人类作出决定",
+      "summary": "在 Miraza–Xerawreşk 的黑暗中，Maran 的五种感官不足以找到被困的孩子。Nûr 汇集热、呼吸与地面振动数据，公开置信度和不确定性，并提供选项而不替 Maran 选择价值。人工智能成为可解释的第六感；目的、决定与最终责任仍属于人类。"
+    },
+    "ja": {
+      "title": "第六感――決めるのは人間",
+      "summary": "Miraza–Xerawreşk の闇の中で、Maran の五感だけでは石に挟まれた子どもを見つけられない。Nûr は熱、呼吸、地面振動のデータを統合し、信頼度と不確実性を示し、Maran に代わって価値を選ぶことなく選択肢を提示する。AI は説明可能な第六感となり、目的、決定、最終責任は人間に残る。"
+    },
+    "ar": {
+      "title": "الحاسة السادسة: الإنسان هو من يقرّر",
+      "summary": "في ظلام Miraza–Xerawreşk لا تكفي حواس Maran الخمس للعثور على طفل عالق بين الحجارة. يجمع Nûr بيانات الحرارة والتنفس واهتزاز الأرض، ويعرض مستوى الثقة وعدم اليقين، ويقدم خيارات من دون أن يختار قيمة بدلًا من Maran. يصبح الذكاء الاصطناعي حاسة سادسة قابلة للتفسير، بينما تبقى الغاية والقرار والمسؤولية النهائية بيد الإنسان."
+    },
+    "ku": {
+      "title": "Hesta Şeşem: Mirov Biryar Dide",
+      "summary": "Di tariya Miraza–Xerawreşkê de pênc hestên Maran ji bo dîtina zarokekî di nav keviran de girtî têr nakin. Nûr daneyên germî, bêhnkişandinê û lerizîna axê li hev tîne, asta baweriyê û nediyariyê nîşan dide û bêyî ku li şûna Maran nirxekê hilbijêre vebijarkan pêşkêş dike. AI dibe hesteke şeşem a ravebar; armanc, biryar û berpirsiyariya dawî li mirov dimînin."
+    },
+    "pt": {
+      "title": "O sexto sentido: O ser humano decide",
+      "summary": "Na escuridão de Miraza–Xerawreşk, os cinco sentidos de Maran não bastam para encontrar uma criança presa entre pedras. Nûr combina dados térmicos, respiratórios e de vibração do solo, expõe confiança e incerteza e oferece opções sem escolher um valor no lugar de Maran. A IA torna-se um sexto sentido explicável; propósito, decisão e responsabilidade final permanecem humanos."
     }
   }
 }
