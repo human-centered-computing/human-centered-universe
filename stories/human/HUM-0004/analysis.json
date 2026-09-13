@@ -1,0 +1,55 @@
+{
+  "schema": "hcu-story-analysis",
+  "generation_mode": "idea-maturation-three-center",
+  "primary_center": "HUMAN",
+  "center_weights": {"HUMAN": 45, "LIGHT": 40, "DARK": 15},
+  "center_raw_scores": {"HUMAN": 91, "LIGHT": 82, "DARK": 31},
+  "classification": {
+    "method": "30-criterion HCU narrative analysis after three-center idea maturation",
+    "status": "ai-generated-draft",
+    "confidence": 0.95,
+    "note": "HUMAN leads because Miran selects the value, authorizes the action, cares for the child and retains final responsibility. LIGHT is nearly equal through measurable evidence, source separation, confidence disclosure, explainability, verification and safety. DARK contributes through the unseen signal, uncertainty, alternative hypotheses and the decision to investigate beyond ordinary perception without treating darkness as evil or mystical."
+  },
+  "analysis": {
+    "HUMAN": {
+      "dignity_personhood": 9,
+      "agency_choice": 10,
+      "consent_boundaries": 8,
+      "relationship_care": 10,
+      "justice_fairness": 8,
+      "responsibility_repair": 10,
+      "identity_belonging_culture": 8,
+      "emotion_experience": 9,
+      "meaning_memory_mortality": 9,
+      "wellbeing_vulnerability": 10
+    },
+    "LIGHT": {
+      "order_structure": 8,
+      "knowledge_evidence": 10,
+      "visibility_explainability": 10,
+      "measurement_standardization": 9,
+      "safety_protection": 10,
+      "predictability_planning": 8,
+      "rules_institutions": 5,
+      "coordination_efficiency": 7,
+      "continuity_preservation": 6,
+      "verification_auditability": 9
+    },
+    "DARK": {
+      "uncertainty_unknown": 8,
+      "freedom_alternative": 4,
+      "creativity_invention": 4,
+      "exploration_experiment": 5,
+      "dissent_resistance": 2,
+      "rupture_disruption": 1,
+      "transformation_change": 3,
+      "risk_volatility": 3,
+      "plurality_forking": 1,
+      "emergence_surprise": 0
+    }
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}
