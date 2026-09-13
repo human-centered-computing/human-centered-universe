@@ -4,6 +4,8 @@
 
 Maran, Miraza–Xerawreşk'in on iki sütununun ortasında tek başına duruyordu.
 
+Adı Kürtçede **yılanlar** anlamına geliyordu. Taşlara işlenmiş yılanlar gibi o da karanlığın içindeki görünmeyen hareketleri anlamaya çalışıyordu.
+
 Gece o kadar karanlıktı ki ellerini göğsünün önüne kaldırdığında parmaklarını bile göremiyordu. Gözleri artık ona hiçbir şey söylemiyordu. Kulakları yalnızca rüzgârın taşların arasından geçerken çıkardığı uğultuyu işitiyor, burnu nemli toprağın kokusunu taşıyor, teni gecenin soğuğunu hissediyordu.
 
 Beş duyusu çalışıyordu.
