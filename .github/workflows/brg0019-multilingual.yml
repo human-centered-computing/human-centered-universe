@@ -1,0 +1,148 @@
+name: Generate BRG-0019 Multilingual
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/brg0019-multilingual.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Translate current Turkish BRG-0019 into all reader languages
+        env:
+          TRANSLATION_API_KEY: ${{ secrets.TRANSLATION_API_KEY }}
+          TRANSLATION_API_BASE: ${{ vars.TRANSLATION_API_BASE }}
+          TRANSLATION_MODEL: ${{ vars.TRANSLATION_MODEL }}
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json, os, re, time, urllib.request, urllib.error
+
+          root = Path('.')
+          story_dir = root / 'stories' / 'bridges' / 'BRG-0019'
+          source_path = story_dir / 'content' / 'tr.md'
+          meta_path = story_dir / 'meta.json'
+          source = source_path.read_text(encoding='utf-8')
+
+          api_key = os.environ.get('TRANSLATION_API_KEY', '').strip()
+          api_base = os.environ.get('TRANSLATION_API_BASE', '').strip().rstrip('/')
+          model = os.environ.get('TRANSLATION_MODEL', '').strip()
+          if not api_key or not api_base or not model:
+              raise SystemExit('Translation API configuration is missing.')
+
+          targets = {
+              'en': 'English',
+              'de': 'German',
+              'es': 'Spanish',
+              'fr': 'French',
+              'it': 'Italian',
+              'ru': 'Russian',
+              'zh-CN': 'Simplified Chinese',
+              'ja': 'Japanese',
+              'ar': 'Arabic',
+              'ku': 'Kurdish (Kurmanji)',
+              'pt': 'Portuguese',
+          }
+
+          next_names = [
+              'Next-Life','Next-AI','Next-View','Next-ID','Next-Role','Next-Org','Next-Privacy','Next-Config',
+              'Next-Developer','Next-Code','Next-Connect','Next-Log','Next-Monitor','Next-Support','Next-Flow',
+              'Next-Approval','Next-Task','Next-Project','Next-Meeting','Next-Calendar','Next-Collect','Next-Voice',
+              'Next-Vote','Next-Message','Next-Document','Next-Storage','Next-Search','Next-Data','Next-Pay','Next-Learn'
+          ]
+          bare_map = {name.replace('-', ''): name for name in next_names}
+
+          system = (
+              'You are a literary translator for Human-Centered Universe. Translate faithfully, not creatively. '
+              'Preserve the complete Markdown structure, headings, blockquotes, emphasis, questions, repetitions and paragraph rhythm. '
+              'Do not summarize, shorten, omit, add commentary, or wrap the answer in code fences. '
+              'Translate Human Center, Light Center and Dark Center naturally into the target language when they appear as reader-facing story concepts. '
+              'Preserve proper names, story IDs and all Next-* product names EXACTLY as written, including the hyphen after Next. '
+              'The story describes a real-world prototype through fiction; do not change factual qualifiers about authority, institutions or the future ministry model. '
+              'Return only the translated Markdown.'
+          )
+
+          def call(target_code, target_name):
+              user = (
+                  f'Target language: {target_name} ({target_code}).\n'
+                  'Translate the following current Turkish story completely into the target language. '
+                  'Keep every Next-* application name unchanged.\n\n'
+                  '--- SOURCE START ---\n' + source + '\n--- SOURCE END ---'
+              )
+              payload = json.dumps({
+                  'model': model,
+                  'temperature': 0.15,
+                  'messages': [
+                      {'role': 'system', 'content': system},
+                      {'role': 'user', 'content': user},
+                  ],
+              }).encode('utf-8')
+              req = urllib.request.Request(
+                  api_base + '/chat/completions',
+                  data=payload,
+                  headers={'Authorization': f'Bearer {api_key}', 'Content-Type': 'application/json'},
+                  method='POST',
+              )
+              with urllib.request.urlopen(req, timeout=300) as resp:
+                  body = json.loads(resp.read().decode('utf-8'))
+              text = body['choices'][0]['message']['content'].strip()
+              if text.startswith('```'):
+                  lines = text.splitlines()
+                  if lines and lines[0].startswith('```'): lines = lines[1:]
+                  if lines and lines[-1].strip() == '```': lines = lines[:-1]
+                  text = '\n'.join(lines).strip()
+              if not text:
+                  raise RuntimeError(f'Empty translation for {target_code}')
+              # Normalize accidental loss of the agreed Next-* hyphen convention.
+              for bare, hyphenated in bare_map.items():
+                  text = re.sub(rf'\b{re.escape(bare)}\b', hyphenated, text)
+              return text.rstrip() + '\n'
+
+          for code, label in targets.items():
+              print(f'TRANSLATE BRG-0019: tr -> {code} ({label})')
+              translated = call(code, label)
+              (story_dir / 'content' / f'{code}.md').write_text(translated, encoding='utf-8')
+              time.sleep(0.5)
+
+          meta = json.loads(meta_path.read_text(encoding='utf-8'))
+          translations = meta.setdefault('translations', {})
+          translations['en'] = {'status': 'canonical'}
+          translations['tr'] = {'status': 'reviewed'}
+          for code in targets:
+              if code != 'en':
+                  translations[code] = {'status': 'machine_draft'}
+          meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          print('BRG-0019 multilingual files generated.')
+          PY
+
+      - name: Validate universe
+        run: python scripts/validate_universe.py
+
+      - name: Commit multilingual BRG-0019
+        run: |
+          if git diff --quiet -- stories/bridges/BRG-0019; then
+            echo "No multilingual changes."
+            exit 0
+          fi
+          git config user.name "HCU Translation Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add stories/bridges/BRG-0019
+          git commit -m "Add multilingual BRG-0019 translations"
+          git push origin HEAD:main
