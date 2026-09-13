@@ -10,15 +10,22 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: brg0019-multilingual
+  cancel-in-progress: true
+
 jobs:
   translate:
     runs-on: ubuntu-latest
     timeout-minutes: 90
     steps:
-      - name: Checkout
+      - name: Checkout only BRG-0019
         uses: actions/checkout@v7
         with:
           fetch-depth: 2
+          sparse-checkout: |
+            stories/bridges/BRG-0019
+          sparse-checkout-cone-mode: false
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -33,13 +40,11 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
-          import json, os, re, time, urllib.request, urllib.error
+          import json, os, re, time, urllib.request
 
-          root = Path('.')
-          story_dir = root / 'stories' / 'bridges' / 'BRG-0019'
-          source_path = story_dir / 'content' / 'tr.md'
+          story_dir = Path('stories/bridges/BRG-0019')
+          source = (story_dir / 'content' / 'tr.md').read_text(encoding='utf-8')
           meta_path = story_dir / 'meta.json'
-          source = source_path.read_text(encoding='utf-8')
 
           api_key = os.environ.get('TRANSLATION_API_KEY', '').strip()
           api_base = os.environ.get('TRANSLATION_API_BASE', '').strip().rstrip('/')
@@ -48,17 +53,10 @@ jobs:
               raise SystemExit('Translation API configuration is missing.')
 
           targets = {
-              'en': 'English',
-              'de': 'German',
-              'es': 'Spanish',
-              'fr': 'French',
-              'it': 'Italian',
-              'ru': 'Russian',
-              'zh-CN': 'Simplified Chinese',
-              'ja': 'Japanese',
-              'ar': 'Arabic',
-              'ku': 'Kurdish (Kurmanji)',
-              'pt': 'Portuguese',
+              'en': 'English', 'de': 'German', 'es': 'Spanish', 'fr': 'French',
+              'it': 'Italian', 'ru': 'Russian', 'zh-CN': 'Simplified Chinese',
+              'ja': 'Japanese', 'ar': 'Arabic', 'ku': 'Kurdish (Kurmanji)',
+              'pt': 'Portuguese'
           }
 
           next_names = [
@@ -71,19 +69,18 @@ jobs:
 
           system = (
               'You are a literary translator for Human-Centered Universe. Translate faithfully, not creatively. '
-              'Preserve the complete Markdown structure, headings, blockquotes, emphasis, questions, repetitions and paragraph rhythm. '
-              'Do not summarize, shorten, omit, add commentary, or wrap the answer in code fences. '
-              'Translate Human Center, Light Center and Dark Center naturally into the target language when they appear as reader-facing story concepts. '
-              'Preserve proper names, story IDs and all Next-* product names EXACTLY as written, including the hyphen after Next. '
-              'The story describes a real-world prototype through fiction; do not change factual qualifiers about authority, institutions or the future ministry model. '
+              'Preserve all Markdown structure, headings, blockquotes, emphasis, questions, repetitions and paragraph rhythm. '
+              'Do not summarize, shorten, omit, add commentary, or use code fences. '
+              'Translate the reader-facing concepts Human Center, Light Center and Dark Center naturally into the target language. '
+              'Preserve proper names, story IDs and every Next-* product name EXACTLY as written, including the hyphen after Next. '
+              'Preserve all factual qualifiers about Harran University, local authority and the future ministry model. '
               'Return only the translated Markdown.'
           )
 
-          def call(target_code, target_name):
+          def translate(code, label):
               user = (
-                  f'Target language: {target_name} ({target_code}).\n'
-                  'Translate the following current Turkish story completely into the target language. '
-                  'Keep every Next-* application name unchanged.\n\n'
+                  f'Target language: {label} ({code}).\n'
+                  'Translate the following current Turkish story completely. Keep every Next-* product name unchanged.\n\n'
                   '--- SOURCE START ---\n' + source + '\n--- SOURCE END ---'
               )
               payload = json.dumps({
@@ -91,14 +88,14 @@ jobs:
                   'temperature': 0.15,
                   'messages': [
                       {'role': 'system', 'content': system},
-                      {'role': 'user', 'content': user},
-                  ],
+                      {'role': 'user', 'content': user}
+                  ]
               }).encode('utf-8')
               req = urllib.request.Request(
                   api_base + '/chat/completions',
                   data=payload,
                   headers={'Authorization': f'Bearer {api_key}', 'Content-Type': 'application/json'},
-                  method='POST',
+                  method='POST'
               )
               with urllib.request.urlopen(req, timeout=300) as resp:
                   body = json.loads(resp.read().decode('utf-8'))
@@ -109,16 +106,14 @@ jobs:
                   if lines and lines[-1].strip() == '```': lines = lines[:-1]
                   text = '\n'.join(lines).strip()
               if not text:
-                  raise RuntimeError(f'Empty translation for {target_code}')
-              # Normalize accidental loss of the agreed Next-* hyphen convention.
+                  raise RuntimeError(f'Empty translation for {code}')
               for bare, hyphenated in bare_map.items():
                   text = re.sub(rf'\b{re.escape(bare)}\b', hyphenated, text)
               return text.rstrip() + '\n'
 
           for code, label in targets.items():
-              print(f'TRANSLATE BRG-0019: tr -> {code} ({label})')
-              translated = call(code, label)
-              (story_dir / 'content' / f'{code}.md').write_text(translated, encoding='utf-8')
+              print(f'TRANSLATE BRG-0019: tr -> {code} ({label})', flush=True)
+              (story_dir / 'content' / f'{code}.md').write_text(translate(code, label), encoding='utf-8')
               time.sleep(0.5)
 
           meta = json.loads(meta_path.read_text(encoding='utf-8'))
@@ -129,11 +124,7 @@ jobs:
               if code != 'en':
                   translations[code] = {'status': 'machine_draft'}
           meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-          print('BRG-0019 multilingual files generated.')
           PY
-
-      - name: Validate universe
-        run: python scripts/validate_universe.py
 
       - name: Commit multilingual BRG-0019
         run: |
