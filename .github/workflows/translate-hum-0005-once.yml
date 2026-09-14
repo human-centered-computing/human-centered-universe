@@ -1,0 +1,108 @@
+name: One-shot HUM-0005 Translations
+
+on:
+  push:
+    branches:
+      - codex/hum-0005-translation-run
+    paths:
+      - ".github/workflows/translate-hum-0005-once.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Translate HUM-0005 into the ten missing languages
+        env:
+          TRANSLATION_API_KEY: ${{ secrets.TRANSLATION_API_KEY }}
+          TRANSLATION_API_BASE: ${{ vars.TRANSLATION_API_BASE }}
+          TRANSLATION_MODEL: ${{ vars.TRANSLATION_MODEL }}
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json, os, time, urllib.request
+
+          root = Path("stories/human/HUM-0005")
+          source = (root / "content/tr.md").read_text(encoding="utf-8")
+          targets = {
+              "de": "German", "es": "Spanish", "fr": "French", "it": "Italian",
+              "ru": "Russian", "zh-CN": "Simplified Chinese", "ja": "Japanese",
+              "ar": "Arabic", "ku": "Kurdish Kurmanji", "pt": "Portuguese",
+          }
+          api_key = os.environ.get("TRANSLATION_API_KEY", "").strip()
+          api_base = os.environ.get("TRANSLATION_API_BASE", "").strip().rstrip("/")
+          model = os.environ.get("TRANSLATION_MODEL", "").strip()
+          if not api_key or not api_base or not model:
+              raise SystemExit("Translation API configuration is incomplete")
+
+          system = (
+              "You are a literary translator for Human-Centered Universe. Translate the complete Turkish story "
+              "faithfully without shortening, adding or explaining. Preserve Markdown structure, headings, blockquotes, "
+              "horizontal rules, emphasis, event names, IDs, percentages, times and proper names. Keep NextProject, "
+              "Contribution Event, AttributionReviewRequested, ManagerAssessmentAdded, ImpactObserved, ImpactVerified, "
+              "Private Incubation and Contribution Measurement Engine as technical terms. Translate Aydınlık, Karanlık "
+              "and İnsan as Light, Darkness and Human in the target language. Return only translated Markdown."
+          )
+
+          for code, language in targets.items():
+              payload = json.dumps({
+                  "model": model,
+                  "temperature": 0.1,
+                  "messages": [
+                      {"role": "system", "content": system},
+                      {"role": "user", "content": f"Target language: {language} ({code})\n\n{source}"},
+                  ],
+              }).encode("utf-8")
+              request = urllib.request.Request(
+                  api_base + "/chat/completions", data=payload,
+                  headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+                  method="POST",
+              )
+              with urllib.request.urlopen(request, timeout=300) as response:
+                  body = json.loads(response.read().decode("utf-8"))
+              text = body["choices"][0]["message"]["content"].strip()
+              if text.startswith("```"):
+                  lines = text.splitlines()[1:]
+                  if lines and lines[-1].strip() == "```": lines.pop()
+                  text = "\n".join(lines).strip()
+              if len(text) < 5000:
+                  raise RuntimeError(f"Translation for {code} is unexpectedly short")
+              (root / "content" / f"{code}.md").write_text(text + "\n", encoding="utf-8")
+              print(f"Generated {code}: {len(text)} characters")
+              time.sleep(0.5)
+
+          meta_path = root / "meta.json"
+          meta = json.loads(meta_path.read_text(encoding="utf-8"))
+          for code in targets:
+              meta.setdefault("translations", {})[code] = {"status": "machine_draft"}
+          meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          PY
+
+      - name: Validate generated translations
+        run: |
+          python scripts/validate_universe.py
+          python scripts/build_reader.py
+          python - <<'PY'
+          from pathlib import Path
+          expected = {"en","tr","de","es","fr","it","ru","zh-CN","ja","ar","ku","pt"}
+          found = {p.stem for p in Path("stories/human/HUM-0005/content").glob("*.md")}
+          assert found == expected, (found, expected)
+          print("HUM-0005 language coverage: 12/12")
+          PY
+
+      - name: Commit generated translations
+        run: |
+          git config user.name "HCU Translation Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add stories/human/HUM-0005
+          git commit -m "Generate HUM-0005 translations"
+          git push origin HEAD
