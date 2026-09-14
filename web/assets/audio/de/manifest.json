@@ -86,6 +86,15 @@
       "bytes": 4576698,
       "engine": "Piper",
       "voice": "de_DE-thorsten-medium"
+    },
+    {
+      "id": "HUM-0005",
+      "title": "The Sixth Sense of Labor",
+      "file": "./HUM-0005.mp3",
+      "duration_seconds": 752.457,
+      "bytes": 9029844,
+      "engine": "Piper",
+      "voice": "de_DE-thorsten-medium"
     }
   ]
 }
