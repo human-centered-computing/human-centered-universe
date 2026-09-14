@@ -1,0 +1,55 @@
+{
+  "schema": "hcu-story-analysis",
+  "generation_mode": "idea-maturation-three-center",
+  "primary_center": "HUMAN",
+  "center_weights": {"HUMAN": 40, "LIGHT": 32, "DARK": 28},
+  "center_raw_scores": {"HUMAN": 96, "LIGHT": 77, "DARK": 68},
+  "classification": {
+    "method": "30-criterion HCU narrative analysis after three-center idea maturation",
+    "status": "ai-generated-draft",
+    "confidence": 0.96,
+    "note": "HUMAN leads because contributors retain consent, attribution, appeal, context and final authority. LIGHT is strong through evidence, explainability, append-only history, verification and transparent scoring rules. DARK protects privacy, unfinished ideas, uncertainty, dissent, failure and alternatives, preventing visibility from becoming surveillance."
+  },
+  "analysis": {
+    "HUMAN": {
+      "dignity_personhood": 10,
+      "agency_choice": 10,
+      "consent_boundaries": 10,
+      "relationship_care": 9,
+      "justice_fairness": 10,
+      "responsibility_repair": 10,
+      "identity_belonging_culture": 8,
+      "emotion_experience": 9,
+      "meaning_memory_mortality": 10,
+      "wellbeing_vulnerability": 10
+    },
+    "LIGHT": {
+      "order_structure": 8,
+      "knowledge_evidence": 10,
+      "visibility_explainability": 10,
+      "measurement_standardization": 8,
+      "safety_protection": 8,
+      "predictability_planning": 7,
+      "rules_institutions": 7,
+      "coordination_efficiency": 7,
+      "continuity_preservation": 6,
+      "verification_auditability": 10
+    },
+    "DARK": {
+      "uncertainty_unknown": 8,
+      "freedom_alternative": 9,
+      "creativity_invention": 8,
+      "exploration_experiment": 7,
+      "dissent_resistance": 8,
+      "rupture_disruption": 5,
+      "transformation_change": 7,
+      "risk_volatility": 5,
+      "plurality_forking": 6,
+      "emergence_surprise": 5
+    }
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}

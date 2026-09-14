@@ -199,6 +199,13 @@
       "title": "The Sixth Sense: The Human Decides",
       "primary_center": "HUMAN",
       "center_weights": {"HUMAN": 45, "LIGHT": 40, "DARK": 15}
+    },
+    {
+      "observation_order": 28,
+      "id": "HUM-0005",
+      "title": "The Sixth Sense of Labor",
+      "primary_center": "HUMAN",
+      "center_weights": {"HUMAN": 40, "LIGHT": 32, "DARK": 28}
     }
   ],
   "experimental_nodes": [
