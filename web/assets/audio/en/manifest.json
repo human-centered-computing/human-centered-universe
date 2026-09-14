@@ -214,6 +214,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "HUM-0005",
+      "title": "The Sixth Sense of Labor",
+      "file": "./HUM-0005.mp3",
+      "duration_seconds": 941.244,
+      "bytes": 11295287,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
