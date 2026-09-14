@@ -250,6 +250,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "HUM-0005",
+      "title": "Emeğin Altıncı Duyusu",
+      "file": "./HUM-0005.mp3",
+      "duration_seconds": 1094.844,
+      "bytes": 13138487,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: Gecede Açılan Göz",
       "file": "./HUM-0001.mp3",
