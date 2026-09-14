@@ -22,17 +22,47 @@
   "summary": "When a hospital's old performance system records nine hours but zero completed tasks, NextProject detects the invisible work behind an accessibility problem. Dilan and her team use evidence, human approval, append-only history and delayed impact verification to make labor visible without turning people into scores. A debate among Light, Darkness and Human then establishes the system's ethical boundary: transparency must expose contribution, privacy must protect freedom, and final judgment must remain human.",
   "translations": {
     "en": {"status": "canonical"},
-    "tr": {"status": "reviewed"}
+    "tr": {"status": "reviewed"},
+    "de": {"status": "machine_draft"},
+    "es": {"status": "machine_draft"},
+    "fr": {"status": "machine_draft"},
+    "it": {"status": "machine_draft"},
+    "ru": {"status": "machine_draft"},
+    "zh-CN": {"status": "machine_draft"},
+    "ja": {"status": "machine_draft"},
+    "ar": {"status": "machine_draft"},
+    "ku": {"status": "machine_draft"},
+    "pt": {"status": "machine_draft"}
   },
   "hero_image": {
     "src": "./assets/images/stories/HUM-0005/01-invisible-contribution.webp",
     "alt": {
       "en": "Dilan works late in a hospital software office as explainable evidence trails converge into a warm pulse representing a detected contribution.",
-      "tr": "Dilan hastanenin yazılım ofisinde çalışırken açıklanabilir kanıt izleri, tespit edilen katkıyı temsil eden sıcak bir titreşimde birleşiyor."
+      "tr": "Dilan hastanenin yazılım ofisinde çalışırken açıklanabilir kanıt izleri, tespit edilen katkıyı temsil eden sıcak bir titreşimde birleşiyor.",
+      "de": "Dilan arbeitet spät im Softwarebüro eines Krankenhauses, während erklärbare Beweisspuren zu einem warmen Impuls zusammenlaufen.",
+      "es": "Dilan trabaja hasta tarde en la oficina de software de un hospital mientras rastros explicables convergen en un pulso cálido.",
+      "fr": "Dilan travaille tard dans le service informatique d’un hôpital tandis que des preuves explicables convergent vers une pulsation chaleureuse.",
+      "it": "Dilan lavora fino a tardi nell’ufficio software di un ospedale mentre tracce spiegabili convergono in un impulso caldo.",
+      "ru": "Дилан работает допоздна в ИТ-отделе больницы, а объяснимые следы доказательств сходятся в тёплом импульсе.",
+      "zh-CN": "迪兰在医院软件办公室工作到深夜，可解释的证据轨迹汇聚成象征已发现贡献的温暖脉冲。",
+      "ja": "病院のソフトウェア室で夜遅くまで働くディランの周囲で、説明可能な証拠の軌跡が温かな脈動へ収束する。",
+      "ar": "تعمل ديلان حتى وقت متأخر في مكتب برمجيات مستشفى، بينما تتجمع مسارات أدلة قابلة للتفسير في نبضة دافئة.",
+      "ku": "Dilan di ofîsa nivîsbariya nexweşxaneyê de dereng dixebite û şopên delîlên ravekirî di lerzeke germ de dicivin.",
+      "pt": "Dilan trabalha até tarde no setor de software de um hospital enquanto rastros explicáveis convergem em um pulso caloroso."
     },
     "caption": {
       "en": "NextProject detects scattered evidence of labor but asks the human to confirm its meaning and ownership.",
-      "tr": "NextProject dağınık emek kanıtlarını tespit eder; anlamını ve sahipliğini doğrulaması için insana sorar."
+      "tr": "NextProject dağınık emek kanıtlarını tespit eder; anlamını ve sahipliğini doğrulaması için insana sorar.",
+      "de": "NextProject erkennt verstreute Arbeitsnachweise; Bedeutung und Urheberschaft bestätigt der Mensch.",
+      "es": "NextProject detecta pruebas dispersas del trabajo; la persona confirma su significado y autoría.",
+      "fr": "NextProject détecte les preuves dispersées du travail ; la personne en confirme le sens et la propriété.",
+      "it": "NextProject rileva prove sparse del lavoro; la persona ne conferma significato e titolarità.",
+      "ru": "NextProject обнаруживает разрозненные свидетельства труда, а человек подтверждает их смысл и авторство.",
+      "zh-CN": "NextProject发现分散的劳动证据，但由人确认其含义与归属。",
+      "ja": "NextProjectは散在する労働の証拠を検出し、その意味と帰属は人が確認する。",
+      "ar": "يكتشف NextProject أدلة العمل المتفرقة، ويطلب من الإنسان تأكيد معناها وملكيتها.",
+      "ku": "NextProject delîlên belavbûyî yên kedê dibîne; mirov wate û xwedîtiya wan piştrast dike.",
+      "pt": "O NextProject detecta evidências dispersas do trabalho; a pessoa confirma seu significado e autoria."
     }
   },
   "story_gallery": [
@@ -41,11 +71,31 @@
       "src": "./assets/images/stories/HUM-0005/01-invisible-contribution.webp",
       "alt": {
         "en": "Dilan works late while evidence from code, testing and accessibility observations converges into a detected contribution.",
-        "tr": "Dilan geç saate kadar çalışırken kod, test ve erişilebilirlik gözlemlerinden gelen kanıtlar tespit edilen katkıda birleşiyor."
+        "tr": "Dilan geç saate kadar çalışırken kod, test ve erişilebilirlik gözlemlerinden gelen kanıtlar tespit edilen katkıda birleşiyor.",
+        "de": "Während Dilan spät arbeitet, laufen Belege aus Code, Tests und Barrierefreiheitsbeobachtungen in einem erkannten Beitrag zusammen.",
+        "es": "Mientras Dilan trabaja hasta tarde, las pruebas de código, pruebas técnicas y accesibilidad convergen en una contribución detectada.",
+        "fr": "Pendant que Dilan travaille tard, les preuves issues du code, des tests et de l’accessibilité convergent vers une contribution détectée.",
+        "it": "Mentre Dilan lavora fino a tardi, prove da codice, test e accessibilità convergono in un contributo rilevato.",
+        "ru": "Пока Дилан работает допоздна, свидетельства из кода, тестов и наблюдений за доступностью сходятся в обнаруженном вкладе.",
+        "zh-CN": "迪兰工作至深夜，代码、测试和无障碍观察的证据汇聚为一项被发现的贡献。",
+        "ja": "ディランが夜遅くまで働く中、コード、テスト、アクセシビリティ観察の証拠が検出された貢献へ集約される。",
+        "ar": "بينما تعمل ديلان حتى وقت متأخر، تتجمع أدلة الشفرة والاختبارات وملاحظات إمكانية الوصول في مساهمة مكتشفة.",
+        "ku": "Dema Dilan dereng dixebite, delîlên kod, ceribandin û gihîştinê di beşdariyeke dîtî de dicivin.",
+        "pt": "Enquanto Dilan trabalha até tarde, evidências de código, testes e acessibilidade convergem em uma contribuição detectada."
       },
       "caption": {
         "en": "The system sees the work event; Dilan determines its context and ownership.",
-        "tr": "Sistem çalışma olayını görür; bağlamını ve sahipliğini Dilan belirler."
+        "tr": "Sistem çalışma olayını görür; bağlamını ve sahipliğini Dilan belirler.",
+        "de": "Das System erkennt das Arbeitsereignis; Dilan bestimmt Kontext und Urheberschaft.",
+        "es": "El sistema detecta el evento de trabajo; Dilan determina su contexto y autoría.",
+        "fr": "Le système détecte l’événement de travail ; Dilan en détermine le contexte et la propriété.",
+        "it": "Il sistema rileva l’evento di lavoro; Dilan ne determina contesto e titolarità.",
+        "ru": "Система видит рабочее событие; Дилан определяет его контекст и авторство.",
+        "zh-CN": "系统识别工作事件；迪兰决定其背景和归属。",
+        "ja": "システムは作業イベントを捉え、ディランが文脈と帰属を決める。",
+        "ar": "يرى النظام حدث العمل، وتحدد ديلان سياقه وملكيته.",
+        "ku": "Pergal bûyera kar dibîne; Dilan çarçove û xwedîtiya wê diyar dike.",
+        "pt": "O sistema vê o evento de trabalho; Dilan determina seu contexto e autoria."
       }
     },
     {
@@ -53,11 +103,31 @@
       "src": "./assets/images/stories/HUM-0005/02-shared-attribution.webp",
       "alt": {
         "en": "Dilan, Zilan, Yusuf and Selim examine a contribution network around a circular table.",
-        "tr": "Dilan, Zilan, Yusuf ve Selim dairesel masa etrafında ortak katkı ağını inceliyor."
+        "tr": "Dilan, Zilan, Yusuf ve Selim dairesel masa etrafında ortak katkı ağını inceliyor.",
+        "de": "Dilan, Zilan, Yusuf und Selim untersuchen an einem runden Tisch ein gemeinsames Beitragsnetz.",
+        "es": "Dilan, Zilan, Yusuf y Selim examinan una red de contribuciones alrededor de una mesa circular.",
+        "fr": "Dilan, Zilan, Yusuf et Selim examinent un réseau de contributions autour d’une table ronde.",
+        "it": "Dilan, Zilan, Yusuf e Selim esaminano una rete di contributi attorno a un tavolo circolare.",
+        "ru": "Дилан, Зилан, Юсуф и Селим изучают сеть вкладов за круглым столом.",
+        "zh-CN": "迪兰、兹兰、优素福和塞利姆围坐圆桌审视共同贡献网络。",
+        "ja": "ディラン、ジラン、ユスフ、セリムが円卓を囲み、共同貢献のネットワークを検討する。",
+        "ar": "تفحص ديلان وزيلان ويوسف وسليم شبكة مساهمات حول طاولة دائرية.",
+        "ku": "Dilan, Zilan, Yusuf û Selim li dora maseyeke girover tora beşdariyê dinirxînin.",
+        "pt": "Dilan, Zilan, Yusuf e Selim examinam uma rede de contribuições em torno de uma mesa circular."
       },
       "caption": {
         "en": "An outcome is represented as interdependent roles rather than credit assigned to a single hero.",
-        "tr": "Sonuç, tek bir kahramana verilen başarı yerine birbirine bağımlı roller olarak gösterilir."
+        "tr": "Sonuç, tek bir kahramana verilen başarı yerine birbirine bağımlı roller olarak gösterilir.",
+        "de": "Ein Ergebnis erscheint als Zusammenspiel abhängiger Rollen statt als Verdienst eines einzelnen Helden.",
+        "es": "El resultado se representa como roles interdependientes, no como mérito de un único héroe.",
+        "fr": "Le résultat est représenté par des rôles interdépendants plutôt que par le mérite d’un héros unique.",
+        "it": "Il risultato è rappresentato come ruoli interdipendenti, non come merito di un unico eroe.",
+        "ru": "Результат показан как взаимодействие взаимозависимых ролей, а не заслуга одного героя.",
+        "zh-CN": "成果被呈现为相互依存的角色，而非归功于单一英雄。",
+        "ja": "成果は一人の英雄の功績ではなく、相互依存する役割として表される。",
+        "ar": "تُمثَّل النتيجة بأدوار مترابطة بدلاً من نسب الفضل إلى بطل واحد.",
+        "ku": "Encam wek rolên bi hev ve girêdayî tê nîşandan, ne wek serkeftina lehengê yekane.",
+        "pt": "O resultado aparece como papéis interdependentes, não como mérito de um único herói."
       }
     },
     {
@@ -65,11 +135,31 @@
       "src": "./assets/images/stories/HUM-0005/03-light-dark-human-debate.webp",
       "alt": {
         "en": "Light reveals evidence, Darkness protects a developing idea and Human mediates between them at the center.",
-        "tr": "Aydınlık kanıtları gösterirken Karanlık gelişmekte olan fikri koruyor; İnsan ikisinin ortasında karar veriyor."
+        "tr": "Aydınlık kanıtları gösterirken Karanlık gelişmekte olan fikri koruyor; İnsan ikisinin ortasında karar veriyor.",
+        "de": "Licht zeigt die Belege, Dunkelheit schützt eine entstehende Idee und der Mensch vermittelt in der Mitte.",
+        "es": "La Luz revela la evidencia, la Oscuridad protege una idea en desarrollo y el Humano media entre ambas.",
+        "fr": "La Lumière révèle les preuves, l’Obscurité protège une idée en devenir et l’Humain arbitre entre elles.",
+        "it": "La Luce rivela le prove, l’Oscurità protegge un’idea in sviluppo e l’Umano media tra loro.",
+        "ru": "Свет раскрывает доказательства, Тьма защищает развивающуюся идею, а Человек выступает посредником.",
+        "zh-CN": "光明揭示证据，黑暗保护尚在发展的想法，人类在二者之间作出调和。",
+        "ja": "光が証拠を示し、闇が育ちつつあるアイデアを守り、人間が中央で両者を仲介する。",
+        "ar": "يكشف النور الأدلة، ويحمي الظلام فكرة قيد التطور، ويتوسط الإنسان بينهما.",
+        "ku": "Ronahî delîlan eşkere dike, Tarî fikreke di pêşketinê de diparêze û Mirov di navbera wan de navbeynkar e.",
+        "pt": "A Luz revela as evidências, a Escuridão protege uma ideia em desenvolvimento e o Humano faz a mediação."
       },
       "caption": {
         "en": "Transparency, privacy and human agency must constrain one another without becoming enemies.",
-        "tr": "Şeffaflık, mahremiyet ve insan iradesi düşmana dönüşmeden birbirini sınırlamalıdır."
+        "tr": "Şeffaflık, mahremiyet ve insan iradesi düşmana dönüşmeden birbirini sınırlamalıdır.",
+        "de": "Transparenz, Privatsphäre und menschliche Handlungsfreiheit müssen einander begrenzen, ohne Feinde zu werden.",
+        "es": "La transparencia, la privacidad y la agencia humana deben limitarse mutuamente sin convertirse en enemigas.",
+        "fr": "Transparence, vie privée et pouvoir d’agir humain doivent se limiter sans devenir ennemis.",
+        "it": "Trasparenza, privacy e capacità d’azione umana devono limitarsi a vicenda senza diventare nemiche.",
+        "ru": "Прозрачность, приватность и человеческая субъектность должны ограничивать друг друга, не становясь врагами.",
+        "zh-CN": "透明、隐私与人的能动性必须彼此制约，而不应彼此敌对。",
+        "ja": "透明性、プライバシー、人間の主体性は、敵対せずに互いを制約しなければならない。",
+        "ar": "يجب أن تقيد الشفافية والخصوصية والفاعلية البشرية بعضها بعضاً من دون أن تصبح أعداء.",
+        "ku": "Zelalbûn, taybetmendî û desthilatdariya mirovî divê bêyî ku bibin dijmin hev sînordar bikin.",
+        "pt": "Transparência, privacidade e agência humana devem limitar-se mutuamente sem se tornarem inimigas."
       }
     },
     {
@@ -77,11 +167,31 @@
       "src": "./assets/images/stories/HUM-0005/04-human-centered-future.webp",
       "alt": {
         "en": "Dilan leaves a collaborative hospital where contribution, mentorship, accessibility and human impact are visible without time clocks or rankings.",
-        "tr": "Dilan; katkı, mentorluk, erişilebilirlik ve insan etkisinin mesai saati ya da sıralama olmadan görünür olduğu hastaneden ayrılıyor."
+        "tr": "Dilan; katkı, mentorluk, erişilebilirlik ve insan etkisinin mesai saati ya da sıralama olmadan görünür olduğu hastaneden ayrılıyor.",
+        "de": "Dilan verlässt ein kooperatives Krankenhaus, in dem Beitrag, Mentoring, Barrierefreiheit und menschliche Wirkung ohne Stechuhr oder Rangliste sichtbar sind.",
+        "es": "Dilan sale de un hospital colaborativo donde contribución, mentoría, accesibilidad e impacto humano son visibles sin fichajes ni clasificaciones.",
+        "fr": "Dilan quitte un hôpital collaboratif où contribution, mentorat, accessibilité et impact humain sont visibles sans pointeuse ni classement.",
+        "it": "Dilan lascia un ospedale collaborativo dove contributo, mentoring, accessibilità e impatto umano sono visibili senza timbrature o classifiche.",
+        "ru": "Дилан покидает больницу, где вклад, наставничество, доступность и влияние на людей видимы без табелей и рейтингов.",
+        "zh-CN": "迪兰离开协作型医院；贡献、指导、无障碍和人类影响无需工时钟或排名也清晰可见。",
+        "ja": "ディランは、貢献、メンタリング、アクセシビリティ、人への影響が勤務時計や順位付けなしに見える協働型病院を後にする。",
+        "ar": "تغادر ديلان مستشفى تعاونياً تظهر فيه المساهمة والإرشاد وإمكانية الوصول والأثر الإنساني من دون ساعات دوام أو تصنيفات.",
+        "ku": "Dilan ji nexweşxaneyeke hevkar derdikeve ku tê de beşdarî, şêwirmendî, gihîştin û bandora mirovî bê saeta kar û rêzname dîtbar in.",
+        "pt": "Dilan deixa um hospital colaborativo onde contribuição, mentoria, acessibilidade e impacto humano são visíveis sem relógio de ponto ou rankings."
       },
       "caption": {
         "en": "Contribution becomes visible without reducing the person to presence, productivity or a single score.",
-        "tr": "Katkı görünür olur; insan mevcudiyete, üretkenliğe veya tek bir puana indirgenmez."
+        "tr": "Katkı görünür olur; insan mevcudiyete, üretkenliğe veya tek bir puana indirgenmez.",
+        "de": "Beitrag wird sichtbar, ohne den Menschen auf Anwesenheit, Produktivität oder eine einzelne Punktzahl zu reduzieren.",
+        "es": "La contribución se vuelve visible sin reducir a la persona a presencia, productividad o una única puntuación.",
+        "fr": "La contribution devient visible sans réduire la personne à sa présence, sa productivité ou un score unique.",
+        "it": "Il contributo diventa visibile senza ridurre la persona a presenza, produttività o un singolo punteggio.",
+        "ru": "Вклад становится видимым, но человек не сводится к присутствию, продуктивности или одной оценке.",
+        "zh-CN": "贡献变得可见，但人不会被简化为出勤、生产率或单一分数。",
+        "ja": "人を在席時間、生産性、単一スコアに還元することなく、貢献が可視化される。",
+        "ar": "تصبح المساهمة مرئية من دون اختزال الإنسان في الحضور أو الإنتاجية أو درجة واحدة.",
+        "ku": "Beşdarî dîtbar dibe bêyî ku mirov bi hebûn, berhemdarî an puanekê tenê were kêmkirin.",
+        "pt": "A contribuição torna-se visível sem reduzir a pessoa à presença, produtividade ou pontuação única."
       }
     }
   ],
@@ -115,7 +225,17 @@
       "label": "Use evidence to support judgment, but leave consequential decisions to people.",
       "labels": {
         "en": "Use evidence to support judgment, but leave consequential decisions to people.",
-        "tr": "Kanıtı değerlendirmeyi desteklemek için kullan; sonuç doğuran kararları insana bırak."
+        "tr": "Kanıtı değerlendirmeyi desteklemek için kullan; sonuç doğuran kararları insana bırak.",
+        "de": "Nutze Belege zur Unterstützung des Urteils, aber überlasse folgenreiche Entscheidungen den Menschen.",
+        "es": "Usa la evidencia para apoyar el juicio, pero deja las decisiones trascendentes a las personas.",
+        "fr": "Utiliser les preuves pour éclairer le jugement, mais laisser aux personnes les décisions lourdes de conséquences.",
+        "it": "Usa le prove a sostegno del giudizio, ma lascia alle persone le decisioni con conseguenze.",
+        "ru": "Используйте доказательства для поддержки оценки, но оставляйте значимые решения людям.",
+        "zh-CN": "用证据辅助判断，但将影响重大的决定留给人。",
+        "ja": "証拠は判断の支援に使い、重大な結果を伴う決定は人に委ねる。",
+        "ar": "استخدم الأدلة لدعم الحكم، واترك القرارات ذات العواقب للناس.",
+        "ku": "Delîlan ji bo piştgiriya nirxandinê bi kar bîne, lê biryarên encamgir bide mirovan.",
+        "pt": "Use evidências para apoiar o julgamento, mas deixe decisões de consequência para as pessoas."
       },
       "effects": {"HUMAN": 10, "LIGHT": 4, "DARK": 3}
     },
@@ -124,7 +244,17 @@
       "label": "Make contribution evidence and assessment rules transparent and verifiable.",
       "labels": {
         "en": "Make contribution evidence and assessment rules transparent and verifiable.",
-        "tr": "Katkı kanıtlarını ve değerlendirme kurallarını şeffaf ve doğrulanabilir kıl."
+        "tr": "Katkı kanıtlarını ve değerlendirme kurallarını şeffaf ve doğrulanabilir kıl.",
+        "de": "Mache Beitragsnachweise und Bewertungsregeln transparent und überprüfbar.",
+        "es": "Haz transparentes y verificables las pruebas de contribución y las reglas de evaluación.",
+        "fr": "Rendre les preuves de contribution et les règles d’évaluation transparentes et vérifiables.",
+        "it": "Rendi trasparenti e verificabili le prove del contributo e le regole di valutazione.",
+        "ru": "Сделайте доказательства вклада и правила оценки прозрачными и проверяемыми.",
+        "zh-CN": "让贡献证据和评估规则透明且可验证。",
+        "ja": "貢献の証拠と評価規則を透明かつ検証可能にする。",
+        "ar": "اجعل أدلة المساهمة وقواعد التقييم شفافة وقابلة للتحقق.",
+        "ku": "Delîlên beşdariyê û rêbazên nirxandinê zelal û rastbar bike.",
+        "pt": "Torne transparentes e verificáveis as evidências de contribuição e as regras de avaliação."
       },
       "effects": {"HUMAN": 4, "LIGHT": 10, "DARK": 2}
     },
@@ -133,12 +263,62 @@
       "label": "Protect unfinished ideas, privacy and the human freedom to fail.",
       "labels": {
         "en": "Protect unfinished ideas, privacy and the human freedom to fail.",
-        "tr": "Tamamlanmamış fikirleri, mahremiyeti ve insanın başarısız olma özgürlüğünü koru."
+        "tr": "Tamamlanmamış fikirleri, mahremiyeti ve insanın başarısız olma özgürlüğünü koru.",
+        "de": "Schütze unfertige Ideen, Privatsphäre und die menschliche Freiheit zu scheitern.",
+        "es": "Protege las ideas inacabadas, la privacidad y la libertad humana de fracasar.",
+        "fr": "Protéger les idées inachevées, la vie privée et la liberté humaine d’échouer.",
+        "it": "Proteggi le idee incompiute, la privacy e la libertà umana di fallire.",
+        "ru": "Защищайте незавершённые идеи, приватность и право человека на неудачу.",
+        "zh-CN": "保护未完成的想法、隐私以及人失败的自由。",
+        "ja": "未完成のアイデア、プライバシー、そして失敗する人間の自由を守る。",
+        "ar": "احمِ الأفكار غير المكتملة والخصوصية وحرية الإنسان في الفشل.",
+        "ku": "Fikirên neqediyayî, taybetmendî û azadiya mirovî ya têkçûnê biparêze.",
+        "pt": "Proteja ideias inacabadas, a privacidade e a liberdade humana de falhar."
       },
       "effects": {"HUMAN": 4, "LIGHT": 2, "DARK": 10}
     }
   ],
   "localized": {
+    "de": {
+      "title": "Der sechste Sinn der Arbeit",
+      "summary": "Als das alte Leistungssystem eines Krankenhauses neun Arbeitsstunden, aber keine erledigte Aufgabe registriert, erkennt NextProject die unsichtbare Arbeit hinter einem Barrierefreiheitsproblem. Dilan und ihr Team machen Arbeit durch Belege, menschliche Zustimmung, eine nur erweiterbare Ereignishistorie und spätere Wirkungsprüfung sichtbar. Die Debatte zwischen Licht, Dunkelheit und Mensch setzt die ethische Grenze: Transparenz zeigt Beiträge, Privatsphäre schützt Freiheit und das letzte Urteil bleibt menschlich."
+    },
+    "es": {
+      "title": "El sexto sentido del trabajo",
+      "summary": "Cuando el antiguo sistema de rendimiento de un hospital registra nueve horas pero ninguna tarea terminada, NextProject detecta el trabajo invisible tras un problema de accesibilidad. Dilan y su equipo hacen visible el trabajo mediante evidencia, aprobación humana, un historial de solo anexado y verificación diferida del impacto. El debate entre Luz, Oscuridad y Humano fija el límite ético: la transparencia revela la contribución, la privacidad protege la libertad y el juicio final sigue siendo humano."
+    },
+    "fr": {
+      "title": "Le sixième sens du travail",
+      "summary": "Lorsque l’ancien système d’évaluation d’un hôpital enregistre neuf heures mais aucune tâche achevée, NextProject détecte le travail invisible derrière un problème d’accessibilité. Dilan et son équipe rendent le travail visible grâce aux preuves, à l’approbation humaine, à un historique uniquement extensible et à la vérification différée de l’impact. Le débat entre Lumière, Obscurité et Humain fixe la limite éthique : la transparence révèle la contribution, la vie privée protège la liberté et le jugement final reste humain."
+    },
+    "it": {
+      "title": "Il sesto senso del lavoro",
+      "summary": "Quando il vecchio sistema di valutazione di un ospedale registra nove ore ma nessun compito completato, NextProject rileva il lavoro invisibile dietro un problema di accessibilità. Dilan e il suo team rendono visibile il lavoro attraverso prove, approvazione umana, una cronologia append-only e la verifica differita dell’impatto. Il dibattito tra Luce, Oscurità e Umano definisce il limite etico: la trasparenza mostra il contributo, la privacy protegge la libertà e il giudizio finale resta umano."
+    },
+    "ru": {
+      "title": "Шестое чувство труда",
+      "summary": "Когда старая система оценки больницы фиксирует девять часов, но ни одной завершённой задачи, NextProject обнаруживает невидимый труд за решением проблемы доступности. Дилан и её команда делают труд видимым с помощью доказательств, человеческого подтверждения, дополняемой истории событий и отложенной проверки влияния. Спор Света, Тьмы и Человека задаёт этическую границу: прозрачность раскрывает вклад, приватность защищает свободу, а окончательное решение остаётся за человеком."
+    },
+    "zh-CN": {
+      "title": "劳动的第六感",
+      "summary": "医院旧绩效系统记录了九小时工作，却显示零项完成任务；NextProject由此发现无障碍问题背后的隐形劳动。迪兰和团队通过证据、人工确认、只追加的事件历史及延迟影响验证，让劳动变得可见。光明、黑暗与人类的辩论划定了伦理边界：透明应揭示贡献，隐私应保护自由，最终判断必须由人作出。"
+    },
+    "ja": {
+      "title": "労働の第六感",
+      "summary": "病院の旧来の評価システムが九時間の勤務を記録しながら完了タスクをゼロとしたとき、NextProjectはアクセシビリティ問題の背後にある見えない労働を検出する。ディランたちは、証拠、人による承認、追記専用の履歴、遅れて現れる影響の検証によって労働を可視化する。光・闇・人間の議論が倫理的境界を定める。透明性は貢献を示し、プライバシーは自由を守り、最終判断は人に残される。"
+    },
+    "ar": {
+      "title": "الحاسة السادسة للعمل",
+      "summary": "حين يسجل نظام الأداء القديم في مستشفى تسع ساعات ولا يسجل أي مهمة مكتملة، يكتشف NextProject العمل غير المرئي وراء مشكلة في إمكانية الوصول. تجعل ديلان وفريقها العمل مرئياً بالأدلة والموافقة البشرية وسجل الأحداث الإلحاقي والتحقق المؤجل من الأثر. ويحدد نقاش النور والظلام والإنسان الحد الأخلاقي: تكشف الشفافية المساهمة، وتحمي الخصوصية الحرية، ويبقى الحكم النهائي للإنسان."
+    },
+    "ku": {
+      "title": "Hesta Şeşem a Kedê",
+      "summary": "Dema pergala kevn a performansa nexweşxaneyê neh saet kar lê sifir karên qediyayî tomar dike, NextProject keda nedîtbar a li pişt pirsgirêka gihîştinê dibîne. Dilan û tîma wê bi delîl, erêkirina mirovî, dîroka bûyerên ku tenê lê tê zêdekirin û piştrastkirina dereng a bandorê kedê dikin dîtbar. Nîqaşa Ronahî, Tarî û Mirov sînorê exlaqî datîne: zelalbûn beşdariyê nîşan dide, taybetmendî azadiyê diparêze û biryara dawî li cem mirov dimîne."
+    },
+    "pt": {
+      "title": "O sexto sentido do trabalho",
+      "summary": "Quando o antigo sistema de desempenho de um hospital registra nove horas, mas nenhuma tarefa concluída, o NextProject detecta o trabalho invisível por trás de um problema de acessibilidade. Dilan e sua equipe tornam o trabalho visível com evidências, aprovação humana, histórico somente de acréscimos e verificação posterior do impacto. O debate entre Luz, Escuridão e Humano estabelece o limite ético: a transparência revela a contribuição, a privacidade protege a liberdade e o julgamento final permanece humano."
+    },
     "tr": {
       "title": "Emeğin Altıncı Duyusu",
       "summary": "Hastanenin eski performans sistemi dokuz saatlik çalışmayı sıfır tamamlanmış görev olarak kaydederken NextProject, erişilebilirlik sorununun arkasındaki görünmeyen emeği tespit eder. Dilan ve ekibi; kanıt, insan onayı, yalnızca olay ekleyen tarihçe ve gecikmeli etki doğrulamasıyla emeği görünür kılar. Aydınlık, Karanlık ve İnsan arasındaki tartışma sistemin etik sınırını belirler: şeffaflık katkıyı göstermeli, mahremiyet özgürlüğü korumalı ve nihai karar insanda kalmalıdır.",
