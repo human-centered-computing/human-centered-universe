@@ -1,0 +1,153 @@
+{
+  "id": "HUM-0005",
+  "title": "The Sixth Sense of Labor",
+  "original_title": "Emeğin Altıncı Duyusu",
+  "status": "canon",
+  "source_language": "en",
+  "culture": [
+    "NextLife",
+    "NextProject",
+    "human-centered work",
+    "evidence-based contribution",
+    "explainable artificial intelligence",
+    "collective attribution"
+  ],
+  "belief_context": [
+    "human dignity and agency",
+    "visibility and privacy",
+    "labor and social value",
+    "accountability without surveillance",
+    "technology as an explainable sixth sense"
+  ],
+  "summary": "When a hospital's old performance system records nine hours but zero completed tasks, NextProject detects the invisible work behind an accessibility problem. Dilan and her team use evidence, human approval, append-only history and delayed impact verification to make labor visible without turning people into scores. A debate among Light, Darkness and Human then establishes the system's ethical boundary: transparency must expose contribution, privacy must protect freedom, and final judgment must remain human.",
+  "translations": {
+    "en": {"status": "canonical"},
+    "tr": {"status": "reviewed"}
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/HUM-0005/01-invisible-contribution.webp",
+    "alt": {
+      "en": "Dilan works late in a hospital software office as explainable evidence trails converge into a warm pulse representing a detected contribution.",
+      "tr": "Dilan hastanenin yazılım ofisinde çalışırken açıklanabilir kanıt izleri, tespit edilen katkıyı temsil eden sıcak bir titreşimde birleşiyor."
+    },
+    "caption": {
+      "en": "NextProject detects scattered evidence of labor but asks the human to confirm its meaning and ownership.",
+      "tr": "NextProject dağınık emek kanıtlarını tespit eder; anlamını ve sahipliğini doğrulaması için insana sorar."
+    }
+  },
+  "story_gallery": [
+    {
+      "key": "invisible_contribution",
+      "src": "./assets/images/stories/HUM-0005/01-invisible-contribution.webp",
+      "alt": {
+        "en": "Dilan works late while evidence from code, testing and accessibility observations converges into a detected contribution.",
+        "tr": "Dilan geç saate kadar çalışırken kod, test ve erişilebilirlik gözlemlerinden gelen kanıtlar tespit edilen katkıda birleşiyor."
+      },
+      "caption": {
+        "en": "The system sees the work event; Dilan determines its context and ownership.",
+        "tr": "Sistem çalışma olayını görür; bağlamını ve sahipliğini Dilan belirler."
+      }
+    },
+    {
+      "key": "shared_attribution",
+      "src": "./assets/images/stories/HUM-0005/02-shared-attribution.webp",
+      "alt": {
+        "en": "Dilan, Zilan, Yusuf and Selim examine a contribution network around a circular table.",
+        "tr": "Dilan, Zilan, Yusuf ve Selim dairesel masa etrafında ortak katkı ağını inceliyor."
+      },
+      "caption": {
+        "en": "An outcome is represented as interdependent roles rather than credit assigned to a single hero.",
+        "tr": "Sonuç, tek bir kahramana verilen başarı yerine birbirine bağımlı roller olarak gösterilir."
+      }
+    },
+    {
+      "key": "three_center_debate",
+      "src": "./assets/images/stories/HUM-0005/03-light-dark-human-debate.webp",
+      "alt": {
+        "en": "Light reveals evidence, Darkness protects a developing idea and Human mediates between them at the center.",
+        "tr": "Aydınlık kanıtları gösterirken Karanlık gelişmekte olan fikri koruyor; İnsan ikisinin ortasında karar veriyor."
+      },
+      "caption": {
+        "en": "Transparency, privacy and human agency must constrain one another without becoming enemies.",
+        "tr": "Şeffaflık, mahremiyet ve insan iradesi düşmana dönüşmeden birbirini sınırlamalıdır."
+      }
+    },
+    {
+      "key": "human_centered_future",
+      "src": "./assets/images/stories/HUM-0005/04-human-centered-future.webp",
+      "alt": {
+        "en": "Dilan leaves a collaborative hospital where contribution, mentorship, accessibility and human impact are visible without time clocks or rankings.",
+        "tr": "Dilan; katkı, mentorluk, erişilebilirlik ve insan etkisinin mesai saati ya da sıralama olmadan görünür olduğu hastaneden ayrılıyor."
+      },
+      "caption": {
+        "en": "Contribution becomes visible without reducing the person to presence, productivity or a single score.",
+        "tr": "Katkı görünür olur; insan mevcudiyete, üretkenliğe veya tek bir puana indirgenmez."
+      }
+    }
+  ],
+  "links": [
+    {
+      "target": "HUM-0004",
+      "type": "transformation",
+      "note": "The explainable sixth sense moves from perceiving hidden physical signals to perceiving hidden patterns of labor while human judgment remains final."
+    },
+    {
+      "target": "BRG-0017",
+      "type": "theme",
+      "note": "NextProject operationalizes the Informatics 5.0 principle by replacing presence-based supervision with evidence of meaningful human contribution."
+    },
+    {
+      "target": "COM-0005",
+      "type": "theme",
+      "note": "The system refuses to treat workers as time, data or scoring inputs and preserves dignity, privacy, development and appeal rights."
+    },
+    {
+      "target": "HUM-0002",
+      "type": "parallel",
+      "note": "Like the human-centered legal system, contribution governance separates machine evidence from authority and keeps consequential decisions contestable and human."
+    }
+  ],
+  "primary_center": "HUMAN",
+  "center_weights": {"HUMAN": 40, "LIGHT": 32, "DARK": 28},
+  "observer_choices": [
+    {
+      "key": "leave_final_judgment_human",
+      "label": "Use evidence to support judgment, but leave consequential decisions to people.",
+      "labels": {
+        "en": "Use evidence to support judgment, but leave consequential decisions to people.",
+        "tr": "Kanıtı değerlendirmeyi desteklemek için kullan; sonuç doğuran kararları insana bırak."
+      },
+      "effects": {"HUMAN": 10, "LIGHT": 4, "DARK": 3}
+    },
+    {
+      "key": "make_contribution_visible",
+      "label": "Make contribution evidence and assessment rules transparent and verifiable.",
+      "labels": {
+        "en": "Make contribution evidence and assessment rules transparent and verifiable.",
+        "tr": "Katkı kanıtlarını ve değerlendirme kurallarını şeffaf ve doğrulanabilir kıl."
+      },
+      "effects": {"HUMAN": 4, "LIGHT": 10, "DARK": 2}
+    },
+    {
+      "key": "protect_private_incubation",
+      "label": "Protect unfinished ideas, privacy and the human freedom to fail.",
+      "labels": {
+        "en": "Protect unfinished ideas, privacy and the human freedom to fail.",
+        "tr": "Tamamlanmamış fikirleri, mahremiyeti ve insanın başarısız olma özgürlüğünü koru."
+      },
+      "effects": {"HUMAN": 4, "LIGHT": 2, "DARK": 10}
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Emeğin Altıncı Duyusu",
+      "summary": "Hastanenin eski performans sistemi dokuz saatlik çalışmayı sıfır tamamlanmış görev olarak kaydederken NextProject, erişilebilirlik sorununun arkasındaki görünmeyen emeği tespit eder. Dilan ve ekibi; kanıt, insan onayı, yalnızca olay ekleyen tarihçe ve gecikmeli etki doğrulamasıyla emeği görünür kılar. Aydınlık, Karanlık ve İnsan arasındaki tartışma sistemin etik sınırını belirler: şeffaflık katkıyı göstermeli, mahremiyet özgürlüğü korumalı ve nihai karar insanda kalmalıdır.",
+      "link_notes": {
+        "HUM-0004": "Açıklanabilir altıncı duyu, gizli fiziksel sinyalleri algılamaktan görünmeyen emek örüntülerini algılamaya genişler; nihai değerlendirme yine insanda kalır.",
+        "BRG-0017": "NextProject, mesai temelli gözetimi anlamlı insan katkısının kanıtıyla değiştirerek Bilişim 5.0 ilkesini uygulamaya taşır.",
+        "COM-0005": "Sistem çalışanı zaman, veri veya puanlama girdisine indirgemez; onuru, mahremiyeti, gelişimi ve itiraz hakkını korur.",
+        "HUM-0002": "İnsan merkezli hukuk sistemi gibi katkı yönetişimi de makine kanıtını yetkiden ayırır ve sonuç doğuran kararları tartışılabilir ve insani tutar."
+      }
+    }
+  }
+}
