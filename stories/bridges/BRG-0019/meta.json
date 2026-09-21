@@ -28,18 +28,54 @@
   ],
   "summary": "Maran activates a previously established Informatics Coordination Office at Harran University under a new human-centered mission, turning it into the first local prototype of a long-envisioned future Ministry of Informatics and Human-Centered Transformation model. The story explains the full thirty-application Next-Life ecosystem as one connected institutional life cycle: identity, organization, authorization, privacy, AI support, workflows, approvals, tasks, projects, participation, voting, communication, documents, storage, search, data, software development, integration, observability, support, payments and learning. A real problem moves from Next-Voice to Next-AI, human review, Next-Project, verifiable contribution, impact measurement, failure learning and open-source reuse. Harran University becomes the laboratory, Sanliurfa the wider field, Türkiye the transfer and scaling layer, and the world an open collaborative horizon.",
   "translations": {
-    "en": {"status": "canonical"},
-    "tr": {"status": "reviewed"},
-    "de": {"status": "machine_draft"},
-    "es": {"status": "machine_draft"},
-    "fr": {"status": "machine_draft"},
-    "it": {"status": "machine_draft"},
-    "pt": {"status": "machine_draft"},
-    "ru": {"status": "machine_draft"},
-    "zh-CN": {"status": "machine_draft"},
-    "ja": {"status": "machine_draft"},
-    "ar": {"status": "machine_draft"},
-    "ku": {"status": "machine_draft"}
+    "en": {
+      "status": "canonical",
+      "human_reviewed": true
+    },
+    "tr": {
+      "status": "reviewed",
+      "human_reviewed": true
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "es": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "fr": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "it": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "pt": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "ru": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "zh-CN": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "ja": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "ar": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "ku": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    }
   },
   "hero_image": {
     "src": "./assets/images/stories/BRG-0019/01-miras-ve-yapay-zeka.webp",
@@ -75,16 +111,72 @@
     }
   ],
   "links": [
-    {"target": "BRG-0017", "type": "transformation", "note": "The Informatics 5.0 philosophy and meaningful-work model become a distinct real-world local institutional prototype at Harran University without replacing the earlier story."},
-    {"target": "BRG-0015", "type": "transformation", "note": "Human-Centered Transformation moves from education into institutional work, measurable human impact and public-sector experimentation."},
-    {"target": "BRG-0016", "type": "transformation", "note": "Both narratives test nationally oriented ideas locally before wider institutional adoption."},
-    {"target": "COM-0004", "type": "theme", "note": "Open collaboration becomes a practical open-source layer in which contribution, reuse and institutional learning remain visible."},
-    {"target": "COM-0005", "type": "theme", "note": "Meaningful work and visible contribution reject treating human beings as interchangeable institutional resources."}
+    {
+      "target": "BRG-0017",
+      "type": "transformation",
+      "note": "The Informatics 5.0 philosophy and meaningful-work model become a distinct real-world local institutional prototype at Harran University without replacing the earlier story."
+    },
+    {
+      "target": "BRG-0015",
+      "type": "transformation",
+      "note": "Human-Centered Transformation moves from education into institutional work, measurable human impact and public-sector experimentation."
+    },
+    {
+      "target": "BRG-0016",
+      "type": "transformation",
+      "note": "Both narratives test nationally oriented ideas locally before wider institutional adoption."
+    },
+    {
+      "target": "COM-0004",
+      "type": "theme",
+      "note": "Open collaboration becomes a practical open-source layer in which contribution, reuse and institutional learning remain visible."
+    },
+    {
+      "target": "COM-0005",
+      "type": "theme",
+      "note": "Meaningful work and visible contribution reject treating human beings as interchangeable institutional resources."
+    }
   ],
   "observer_choices": [
-    {"key": "protect_meaning", "label": "Protect the meaning of work and human development.", "labels": {"en": "Protect the meaning of work and human development.", "tr": "Emeğin anlamını ve insanın gelişimini koru."}, "effects": {"HUMAN": 6, "LIGHT": 2, "DARK": 2}},
-    {"key": "verify_contribution", "label": "Keep contribution, results and decisions verifiable beyond rank and office.", "labels": {"en": "Keep contribution, results and decisions verifiable beyond rank and office.", "tr": "Katkıyı, sonucu ve kararı makamdan bağımsız biçimde doğrulanabilir kıl."}, "effects": {"HUMAN": 2, "LIGHT": 6, "DARK": 2}},
-    {"key": "open_transformation", "label": "Open locally tested models so others can adapt, improve and scale them.", "labels": {"en": "Open locally tested models so others can adapt, improve and scale them.", "tr": "Yerelde sınanan modelleri başkalarının uyarlayıp geliştirebilmesi ve ölçekleyebilmesi için aç."}, "effects": {"HUMAN": 2, "LIGHT": 2, "DARK": 6}}
+    {
+      "key": "protect_meaning",
+      "label": "Protect the meaning of work and human development.",
+      "labels": {
+        "en": "Protect the meaning of work and human development.",
+        "tr": "Emeğin anlamını ve insanın gelişimini koru."
+      },
+      "effects": {
+        "HUMAN": 6,
+        "LIGHT": 2,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "verify_contribution",
+      "label": "Keep contribution, results and decisions verifiable beyond rank and office.",
+      "labels": {
+        "en": "Keep contribution, results and decisions verifiable beyond rank and office.",
+        "tr": "Katkıyı, sonucu ve kararı makamdan bağımsız biçimde doğrulanabilir kıl."
+      },
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 6,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "open_transformation",
+      "label": "Open locally tested models so others can adapt, improve and scale them.",
+      "labels": {
+        "en": "Open locally tested models so others can adapt, improve and scale them.",
+        "tr": "Yerelde sınanan modelleri başkalarının uyarlayıp geliştirebilmesi ve ölçekleyebilmesi için aç."
+      },
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 2,
+        "DARK": 6
+      }
+    }
   ],
   "localized": {
     "tr": {
@@ -100,7 +192,12 @@
     }
   },
   "external_resources": [
-    {"title": "Human-Centered Computing", "url": "https://github.com/human-centered-computing", "type": "open_source_network", "note": "Global open-source collaboration layer referenced by the story."}
+    {
+      "title": "Human-Centered Computing",
+      "url": "https://github.com/human-centered-computing",
+      "type": "open_source_network",
+      "note": "Global open-source collaboration layer referenced by the story."
+    }
   ],
   "inspiration": {
     "source": "Harran Üniversitesi Bilişim ve İnsan Merkezli Dönüşüm Koordinatörlüğü Yönergesi V28, Uygulama Usul ve Esasları V6, Teknik Rehber ve Şablonlar V6 ve Next-Life Harran Uygulama Ekosistemi",

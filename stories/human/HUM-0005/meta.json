@@ -21,18 +21,54 @@
   ],
   "summary": "When a hospital's old performance system records nine hours but zero completed tasks, NextProject detects the invisible work behind an accessibility problem. Dilan and her team use evidence, human approval, append-only history and delayed impact verification to make labor visible without turning people into scores. A debate among Light, Darkness and Human then establishes the system's ethical boundary: transparency must expose contribution, privacy must protect freedom, and final judgment must remain human.",
   "translations": {
-    "en": {"status": "canonical"},
-    "tr": {"status": "reviewed"},
-    "de": {"status": "machine_draft"},
-    "es": {"status": "machine_draft"},
-    "fr": {"status": "machine_draft"},
-    "it": {"status": "machine_draft"},
-    "ru": {"status": "machine_draft"},
-    "zh-CN": {"status": "machine_draft"},
-    "ja": {"status": "machine_draft"},
-    "ar": {"status": "machine_draft"},
-    "ku": {"status": "machine_draft"},
-    "pt": {"status": "machine_draft"}
+    "en": {
+      "status": "canonical",
+      "human_reviewed": true
+    },
+    "tr": {
+      "status": "reviewed",
+      "human_reviewed": true
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "es": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "fr": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "it": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "ru": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "zh-CN": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "ja": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "ar": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "ku": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    },
+    "pt": {
+      "status": "machine_draft",
+      "human_reviewed": false
+    }
   },
   "hero_image": {
     "src": "./assets/images/stories/HUM-0005/01-invisible-contribution.webp",
@@ -218,7 +254,11 @@
     }
   ],
   "primary_center": "HUMAN",
-  "center_weights": {"HUMAN": 40, "LIGHT": 32, "DARK": 28},
+  "center_weights": {
+    "HUMAN": 40,
+    "LIGHT": 32,
+    "DARK": 28
+  },
   "observer_choices": [
     {
       "key": "leave_final_judgment_human",
@@ -237,7 +277,11 @@
         "ku": "Delîlan ji bo piştgiriya nirxandinê bi kar bîne, lê biryarên encamgir bide mirovan.",
         "pt": "Use evidências para apoiar o julgamento, mas deixe decisões de consequência para as pessoas."
       },
-      "effects": {"HUMAN": 10, "LIGHT": 4, "DARK": 3}
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 4,
+        "DARK": 3
+      }
     },
     {
       "key": "make_contribution_visible",
@@ -256,7 +300,11 @@
         "ku": "Delîlên beşdariyê û rêbazên nirxandinê zelal û rastbar bike.",
         "pt": "Torne transparentes e verificáveis as evidências de contribuição e as regras de avaliação."
       },
-      "effects": {"HUMAN": 4, "LIGHT": 10, "DARK": 2}
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 10,
+        "DARK": 2
+      }
     },
     {
       "key": "protect_private_incubation",
@@ -275,7 +323,11 @@
         "ku": "Fikirên neqediyayî, taybetmendî û azadiya mirovî ya têkçûnê biparêze.",
         "pt": "Proteja ideias inacabadas, a privacidade e a liberdade humana de falhar."
       },
-      "effects": {"HUMAN": 4, "LIGHT": 2, "DARK": 10}
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 2,
+        "DARK": 10
+      }
     }
   ],
   "localized": {

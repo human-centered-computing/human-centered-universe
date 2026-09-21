@@ -1,45 +1,33 @@
 # Language Policy
 
-English (`en`) is the canonical and universal repository language of Human-Centered Universe.
+English (`en`) is the canonical, default and fallback publication language of Human-Centered Universe. Turkish (`tr`) is the human-controlled editorial working source.
 
-## Canonical and default language
+## Translation pipeline
 
-Every live story node must contain:
-
-```text
-content/en.md
-```
-
-The English version is the canonical published layer, the default reader language, and the fallback when a selected story translation is unavailable.
-
-## Editorial working source
-
-For the current authoring workflow, Turkish (`tr`) is the editorial working source used with the project author.
-
-When the Turkish story is newer or more complete than an older English version, translations are regenerated from the current Turkish text:
+The project uses this explicit sequence:
 
 ```text
-content/tr.md → en, de, es, fr, it, ru, zh-CN, ja, ar, ku, pt
+human-controlled Turkish → AI-translated English → human control of English
+human-controlled English → AI translation into de, es, fr, it, ru, zh-CN, ja, ar, ku, pt
 ```
 
-After the English version is regenerated from the Turkish working source, the new English file becomes the canonical published version again.
+The English publication layer becomes canonical only after human control. Other language versions are AI translations from that controlled English layer and have not received human language review.
 
-This distinction is intentional:
+## Required metadata
 
-- **English** = canonical, universal, default and fallback language.
-- **Turkish** = editorial working/reference language for the current authoring and translation workflow.
+Every declared translation contains both `status` and `human_reviewed`:
 
-## Supported reader languages
-
-```text
-en, tr, de, es, fr, it, ru, zh-CN, ja, ar, ku, pt
+```json
+{
+  "en": {"status": "canonical", "human_reviewed": true},
+  "tr": {"status": "reviewed", "human_reviewed": true},
+  "de": {"status": "machine_draft", "human_reviewed": false}
+}
 ```
 
-`ku` means Kurmancî written in the Latin alphabet. `zh-CN` means Simplified Chinese.
+The same rule applies to every available non-English/non-Turkish language.
 
-## Translation status
-
-Supported repository states are:
+Supported status values remain:
 
 ```text
 canonical
@@ -48,32 +36,20 @@ community
 machine_draft
 ```
 
-The English published layer uses:
+`canonical` describes the controlled English publication layer. `reviewed` describes the controlled Turkish editorial source. `machine_draft` means AI-produced and not human-reviewed. No other language may be presented as human-reviewed until an actual language review is completed and recorded.
 
-```json
-{"status":"canonical"}
+## Supported reader languages
+
+```text
+en, tr, de, es, fr, it, ru, zh-CN, ja, ar, ku, pt
 ```
 
-A newly generated translation starts as:
-
-```json
-{"status":"machine_draft"}
-```
-
-A human-reviewed translation may be promoted to:
-
-```json
-{"status":"reviewed"}
-```
-
-The Turkish working text may be marked `reviewed` when it is the current human-authored reference used to regenerate the multilingual set.
+`ku` means Kurmancî in the Latin alphabet. `zh-CN` means Simplified Chinese.
 
 ## Reader fallback
 
-If the selected story language is unavailable, the reader displays the canonical English story.
-
-Interface localization and story localization are separate. If an interface locale is unavailable, interface labels also fall back to English.
+If a selected story language is unavailable, the reader displays canonical English. Interface localization and story localization are separate; unavailable interface labels also fall back to English.
 
 ## Cultural adaptation
 
-A cultural adaptation that materially changes the story is not treated as a translation. It becomes a new story node with its own ID and explicit relationship to the original node.
+A cultural adaptation that materially changes a story is not a translation. It becomes a new story node with its own ID and an explicit relationship to the original node.

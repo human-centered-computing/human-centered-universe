@@ -40,4 +40,27 @@ for (const [id, relative] of Object.entries(stories)) {
     if (exists && !meta.translations?.[lang]) throw new Error(`${key}: content exists without metadata`);
   }
 }
-console.log("Translation coverage v2 passed. Known gaps: HUM-0003/it, HUM-0003/pt.");
+function collectMetaFiles(directory) {
+  return fs.readdirSync(directory, { withFileTypes: true }).flatMap(entry => {
+    const target = path.join(directory, entry.name);
+    if (entry.isDirectory()) return collectMetaFiles(target);
+    return entry.name === "meta.json" ? [target] : [];
+  });
+}
+for (const metaPath of collectMetaFiles(path.join(root, "stories"))) {
+  const meta = JSON.parse(fs.readFileSync(metaPath, "utf8"));
+  const translations = meta.translations || {};
+  if (translations.en?.status !== "canonical" || translations.en?.human_reviewed !== true) {
+    throw new Error(`${meta.id}/en: must be canonical and human_reviewed=true`);
+  }
+  if (translations.tr?.status !== "reviewed" || translations.tr?.human_reviewed !== true) {
+    throw new Error(`${meta.id}/tr: must be reviewed and human_reviewed=true`);
+  }
+  for (const [lang, entry] of Object.entries(translations)) {
+    if (lang === "en" || lang === "tr") continue;
+    if (entry.status !== "machine_draft" || entry.human_reviewed !== false) {
+      throw new Error(`${meta.id}/${lang}: AI translation must be machine_draft and human_reviewed=false`);
+    }
+  }
+}
+console.log("Translation coverage and human-review provenance passed. Known gaps: HUM-0003/it, HUM-0003/pt.");

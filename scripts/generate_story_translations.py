@@ -102,7 +102,7 @@ def main():
             continue
         source = source_path.read_text(encoding="utf-8")
         translations = meta.setdefault("translations", {})
-        translations.setdefault("en", {"status": "canonical"})
+        english_meta = translations.setdefault("en", {})\n        english_meta.update({"status": "canonical", "human_reviewed": True})
 
         for lang in targets:
             target_path = mp.parent / "content" / f"{lang}.md"
@@ -117,7 +117,7 @@ def main():
             print(f"TRANSLATE {sid}: en -> {lang} ({label})")
             translated = call_chat(api_base, api_key, model, label, lang, source)
             target_path.write_text(translated, encoding="utf-8")
-            translations[lang] = {"status": "machine_draft"}
+            translations[lang] = {"status": "machine_draft", "human_reviewed": False}
             mp.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
             processed += 1
             if args.sleep:
