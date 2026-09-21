@@ -23,6 +23,36 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
@@ -90,6 +120,46 @@
         "COM-0004": "İlişkisel karar yöntemi sabit bir anlatı kronolojisi gerektirmeden dağıtık ağ biçimleriyle yankılanır.",
         "COM-0005": "Vazgeçilmez korumalar ile uyarlanabilir kuralları ayırma ihtiyacı burada geliştirilen karar sorularıyla yankılanır."
       }
+    },
+    "de": {
+      "title": "Verwandelt das Schlachtfeld in ein Zuhause",
+      "summary": "Vor Maran erschienen gleichzeitig zwei Welten."
+    },
+    "es": {
+      "title": "Convierte el campo de batalla en un hogar",
+      "summary": "Dos mundos aparecieron al mismo tiempo ante Maran."
+    },
+    "fr": {
+      "title": "Transformez le champ de bataille en foyer",
+      "summary": "Deux mondes apparurent en même temps devant Maran."
+    },
+    "it": {
+      "title": "Trasforma il campo di battaglia in una casa",
+      "summary": "Davanti a Maran apparvero contemporaneamente due mondi."
+    },
+    "pt": {
+      "title": "Transforme o Campo de Batalha em Lar",
+      "summary": "Diante de Maran, dois mundos apareceram ao mesmo tempo."
+    },
+    "ru": {
+      "title": "Преврати поле боя в дом",
+      "summary": "Перед Мараном одновременно появились два мира."
+    },
+    "zh-CN": {
+      "title": "把战场变成家",
+      "summary": "Maran 面前同时出现了两个世界。"
+    },
+    "ja": {
+      "title": "戦場を家に変える",
+      "summary": "Maran の前に、二つの世界が同時に現れた。"
+    },
+    "ar": {
+      "title": "حوّلوا ساحة الحرب إلى بيت",
+      "summary": "ظهر أمام ماران عالمان في الوقت نفسه."
+    },
+    "ku": {
+      "title": "Qada Şerê Bike Mal",
+      "summary": "Li ber Maran du cîhan di heman demê de xuya bûn."
     }
   }
 }

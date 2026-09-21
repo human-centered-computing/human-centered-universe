@@ -24,6 +24,36 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
@@ -97,6 +127,46 @@
         "LGT-0001": "Açık evren tavsiye, güvenlik ve öngörünün gözlemciyi hapseden bir yola dönüşmesine karşı durur.",
         "DRK-0001": "Sınırsız dallanma ve ihtimal ancak ilişkiler, sonuçlar ve insan sorumluluğu korunuyorsa değerini korur."
       }
+    },
+    "de": {
+      "title": "Während wir nach einem neuen System suchten, bauten wir ein Universum",
+      "summary": "Vor Maran war ein leerer Bildschirm."
+    },
+    "es": {
+      "title": "Construimos un Universo Mientras Buscábamos un Nuevo Sistema",
+      "summary": "Ante Maran había una pantalla vacía."
+    },
+    "fr": {
+      "title": "Nous avons construit un univers en cherchant un nouveau système",
+      "summary": "Devant Maran se trouvait un écran vide."
+    },
+    "it": {
+      "title": "Abbiamo costruito un universo mentre cercavamo un nuovo sistema",
+      "summary": "Davanti a Maran c'era uno schermo vuoto."
+    },
+    "pt": {
+      "title": "Enquanto procurávamos um novo sistema, construímos um universo",
+      "summary": "Havia uma tela vazia diante de Maran."
+    },
+    "ru": {
+      "title": "В поисках новой системы мы построили вселенную",
+      "summary": "Перед Мараном был пустой экран."
+    },
+    "zh-CN": {
+      "title": "寻找新系统时，我们建起了一个宇宙",
+      "summary": "Maran 面前是一块空白屏幕。"
+    },
+    "ja": {
+      "title": "新しいシステムを探しながら、私たちは宇宙をつくった",
+      "summary": "Maran の前には空白の画面があった。"
+    },
+    "ar": {
+      "title": "ونحن نبحث عن نظام جديد، بنينا كونًا",
+      "summary": "كانت أمام ماران شاشة فارغة."
+    },
+    "ku": {
+      "title": "Dema Em Li Pergalek Nû Digeryan, Me Evrenek Ava Kir",
+      "summary": "Li pêş Maran ekranek vala hebû."
     }
   }
 }

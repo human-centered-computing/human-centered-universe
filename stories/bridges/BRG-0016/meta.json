@@ -28,6 +28,36 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
@@ -114,6 +144,46 @@
         "COM-0005": "İnsan, politik veya algoritmik bir optimizasyon sisteminin ham maddesine dönüştürülemez.",
         "BRG-0008": "Ölçüm gereklidir; fakat ölçülebilen gösterge, arkasındaki insan gerçekliğinin bütünü değildir."
       }
+    },
+    "de": {
+      "title": "Menschenzentrierte Politik: Von Berlin zum Nullpunkt der Geschichte",
+      "summary": "Maran dachte, dass Politik seit Langem mit der falschen Frage begann."
+    },
+    "es": {
+      "title": "Política Centrada en el Ser Humano: De Berlín al Punto Cero de la Historia",
+      "summary": "Maran pensaba que la política llevaba mucho tiempo comenzando con la pregunta equivocada."
+    },
+    "fr": {
+      "title": "Politique centrée sur l’humain : de Berlin au point zéro de l’histoire",
+      "summary": "Maran pensait que la politique commençait depuis longtemps par la mauvaise question."
+    },
+    "it": {
+      "title": "Politica Centrata sull’Essere Umano: da Berlino al Punto Zero della Storia",
+      "summary": "Maran pensava che da molto tempo la politica partisse dalla domanda sbagliata."
+    },
+    "pt": {
+      "title": "Política Centrada no Ser Humano: de Berlim ao Ponto Zero da História",
+      "summary": "Maran pensava que, há muito tempo, a política começava pela pergunta errada."
+    },
+    "ru": {
+      "title": "Человекоцентричная политика: от Берлина к нулевой точке истории",
+      "summary": "Маран считал, что политика уже давно начинается с неправильного вопроса."
+    },
+    "zh-CN": {
+      "title": "以人为中心的政治：从柏林到历史的零点",
+      "summary": "马兰认为，政治长期以来都从一个错误的问题开始。"
+    },
+    "ja": {
+      "title": "人間中心の政治：ベルリンから歴史のゼロ地点へ",
+      "summary": "マランは、政治は長いあいだ間違った問いから始まってきたと考えていた。"
+    },
+    "ar": {
+      "title": "السياسة المتمحورة حول الإنسان: من برلين إلى نقطة الصفر في التاريخ",
+      "summary": "كان ماران يعتقد أن السياسة بدأت منذ زمن طويل بسؤال خاطئ."
+    },
+    "ku": {
+      "title": "Siyaseta Mirov-Navendî: Ji Berlînê Heta Xala Sifir a Dîrokê",
+      "summary": "Maran difikirî ku siyaset ji demek dirêj ve bi pirseke şaş dest pê dike."
     }
   },
   "external_resources": [
