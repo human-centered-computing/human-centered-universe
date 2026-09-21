@@ -40,10 +40,10 @@ triggers narration regeneration for the changed story/language pair when that
 language has an enabled voice in `config/tts-voices.json`.
 
 The workflow first plans the affected languages, then runs one language shard
-at a time. Each shard has its own 180-minute budget, so a complete multilingual
-backfill cannot be cancelled merely because the combined run exceeds three
-hours. Finished MP3 files are checkpointed to `main`; GitHub Pages is requested
-once after all selected shards finish.
+at a time. Each shard has its own 360-minute budget, so a complete multilingual
+backfill cannot be cancelled merely because the combined run exceeds the old
+three-hour limit. Finished MP3 files are checkpointed to `main`; GitHub Pages is
+requested once after all selected shards finish.
 
 ## Manual generation
 Actions → Generate Multilingual Narration → Run workflow
