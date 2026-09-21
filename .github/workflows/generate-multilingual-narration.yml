@@ -22,6 +22,7 @@ on:
     paths:
       - "stories/**/content/*.md"
       - "config/tts-voices.json"
+      - ".github/narration-backfill-trigger"
 
 permissions:
   contents: write
@@ -119,9 +120,16 @@ jobs:
               $RESUME_ARG \
               --checkpoint
           else
+            RESUME_ARG=""
+            if git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- \
+              .github/narration-backfill-trigger | grep -qx ".github/narration-backfill-trigger"; then
+              RESUME_ARG="--resume"
+            fi
+
             python scripts/generate_multilingual_narration.py \
               --language "${{ matrix.language }}" \
               --changed-from "${{ github.event.before }}" \
+              $RESUME_ARG \
               --checkpoint
           fi
 
