@@ -29,6 +29,36 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
@@ -121,6 +151,46 @@
         "COM-0005": "Anlamlı iş ve görünür katkı, insanın kurum için ham maddeye dönüştürülmesini reddeder.",
         "BRG-0008": "Ölçüm, ancak 'Bu çalışma insan için neyi iyileştirdi?' sorusuna hizmet ettiğinde anlam kazanır."
       }
+    },
+    "de": {
+      "title": "Das Ende sinnloser Arbeit",
+      "summary": "Maran hatte viele Jahre an Informationssystemen gearbeitet."
+    },
+    "es": {
+      "title": "El fin del trabajo sin sentido",
+      "summary": "Maran había trabajado durante muchos años en sistemas informáticos."
+    },
+    "fr": {
+      "title": "La fin du travail dépourvu de sens",
+      "summary": "Maran avait travaillé pendant de longues années sur des systèmes informatiques."
+    },
+    "it": {
+      "title": "La fine del lavoro senza senso",
+      "summary": "Maran aveva lavorato per molti anni sui sistemi informatici."
+    },
+    "pt": {
+      "title": "O fim do trabalho sem sentido",
+      "summary": "Maran havia trabalhado durante muitos anos com sistemas de informação."
+    },
+    "ru": {
+      "title": "Конец бессмысленной работы",
+      "summary": "Маран много лет работал над информационными системами."
+    },
+    "zh-CN": {
+      "title": "无意义工作的终结",
+      "summary": "Maran 多年来一直从事信息系统工作。"
+    },
+    "ja": {
+      "title": "意味のない仕事の終わり",
+      "summary": "Maran は長年、情報システムに携わってきた。"
+    },
+    "ar": {
+      "title": "نهاية العمل بلا معنى",
+      "summary": "عمل ماران سنوات طويلة على أنظمة المعلومات."
+    },
+    "ku": {
+      "title": "Dawiya Karên Bêwate",
+      "summary": "Maran bi salan li ser pergalên enformatîkê xebitîbû."
     }
   },
   "external_resources": [

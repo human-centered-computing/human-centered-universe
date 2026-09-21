@@ -24,6 +24,36 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
@@ -91,6 +121,46 @@
         "LGT-0001": "Güvenlik ve optimizasyon değerli girdiler olarak kalır; fakat itiraz ve insan eyleyebilme gücü olmadan geri döndürülemez uygulamayı meşrulaştıramaz.",
         "DRK-0001": "Alternatif modeller ve çoğul uygulama mümkündür; fakat gerçek dünya sonuçları kanıt, sorumluluk ve onarım gerektirir."
       }
+    },
+    "de": {
+      "title": "Bevor ein System in die Realität überführt wird",
+      "summary": "Vor Maran stand ein System, das vollkommen wirkte."
+    },
+    "es": {
+      "title": "Antes de llevar un sistema a la realidad",
+      "summary": "Frente a Maran había un sistema que parecía perfecto."
+    },
+    "fr": {
+      "title": "Avant de transférer un système dans la réalité",
+      "summary": "Devant Maran se trouvait un système qui paraissait parfait."
+    },
+    "it": {
+      "title": "Prima di portare un sistema nella realtà",
+      "summary": "Davanti a Maran c’era un sistema che sembrava perfetto."
+    },
+    "pt": {
+      "title": "Antes de levar um sistema para a realidade",
+      "summary": "Diante de Maran havia um sistema que parecia perfeito."
+    },
+    "ru": {
+      "title": "Прежде чем переносить систему в реальность",
+      "summary": "Перед Мараном находилась система, которая казалась совершенной."
+    },
+    "zh-CN": {
+      "title": "在把一个系统带入现实之前",
+      "summary": "马兰面前有一个看起来近乎完美的系统。"
+    },
+    "ja": {
+      "title": "システムを現実へ移す前に",
+      "summary": "マランの前には、完璧に見えるシステムがあった。"
+    },
+    "ar": {
+      "title": "قبل نقل نظام إلى الواقع",
+      "summary": "كان أمام ماران نظام يبدو كاملًا."
+    },
+    "ku": {
+      "title": "Berî Ku Pergalek Bibî Ser Rastiyê",
+      "summary": "Li ber Maran pergala ku bêqusûr xuya dikir hebû."
     }
   }
 }

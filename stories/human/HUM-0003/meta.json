@@ -25,6 +25,30 @@
     },
     "tr": {
       "status": "machine_draft"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
@@ -201,6 +225,38 @@
         "HUM-0001": "Tapetum Sentinel gibi şehir yapay zekâsı da insanın yerine geçmez; algıyı ve kararı destekler.",
         "COM-0005": "Kent sakinlerini ekonomik, teknolojik veya veri sistemlerinin hammaddesi haline getirmeme ilkesiyle bağlantı kurar."
       }
+    },
+    "de": {
+      "title": "Human-Centered Transformation City: Die Stadt, die niemals endet",
+      "summary": "Die Sommerhitze von Siverek flimmerte am Nachmittag über dem Boden."
+    },
+    "es": {
+      "title": "Ciudad de Transformación Centrada en el Ser Humano: La ciudad que nunca termina",
+      "summary": "El calor del verano de Siverek temblaba sobre la tierra por la tarde."
+    },
+    "fr": {
+      "title": "Ville de Transformation Centrée sur l’Humain : La ville qui ne finit jamais",
+      "summary": "La chaleur estivale de Siverek faisait vibrer l’air au-dessus du sol dans l’après-midi."
+    },
+    "ru": {
+      "title": "Город человекоцентричной трансформации: Город, который никогда не заканчивается",
+      "summary": "Летняя жара Сиверека дрожала над землей после полудня."
+    },
+    "zh-CN": {
+      "title": "以人为中心的转型之城：永不完成的城市",
+      "summary": "午后的 Siverek，夏日热浪在地面上颤动。"
+    },
+    "ja": {
+      "title": "人間中心変革都市：終わらない都市",
+      "summary": "午後、Siverek の夏の熱気が地面の上で揺らめいていた。"
+    },
+    "ar": {
+      "title": "مدينة التحول المتمحور حول الإنسان: المدينة التي لا تنتهي",
+      "summary": "كانت حرارة صيف سيفريك ترتجف فوق الأرض في فترة بعد الظهر."
+    },
+    "ku": {
+      "title": "Bajarê Veguherîna Mirov Navendî: Bajarê ku Qet Naqede",
+      "summary": "Germiya havîna Siverekan piştî nîvro li ser erdê dilerizî."
     }
   }
 }

@@ -24,6 +24,36 @@
     },
     "tr": {
       "status": "reviewed"
+    },
+    "de": {
+      "status": "machine_draft"
+    },
+    "es": {
+      "status": "machine_draft"
+    },
+    "fr": {
+      "status": "machine_draft"
+    },
+    "it": {
+      "status": "machine_draft"
+    },
+    "pt": {
+      "status": "machine_draft"
+    },
+    "ru": {
+      "status": "machine_draft"
+    },
+    "zh-CN": {
+      "status": "machine_draft"
+    },
+    "ja": {
+      "status": "machine_draft"
+    },
+    "ar": {
+      "status": "machine_draft"
+    },
+    "ku": {
+      "status": "machine_draft"
     }
   },
   "hero_image": {
@@ -104,6 +134,46 @@
         "BRG-0002": "Bu dünya Karanlık'ı kötülük olarak değil; ihtimal, çoğulluk, belirsizlik, yaratım ve dönüşüm kapasitesi olarak büyütür.",
         "BRG-0010": "Sınırsız çeşitlilik ile ortak sınırları koruma problemi, önce-sonra aşamaları olarak değil farklı gözlem yollarında birbirini görünür kılan kuantumsal yankılar olarak bağlanır."
       }
+    },
+    "de": {
+      "title": "Die Hand, an der du dich beim Fallen festhältst",
+      "summary": "Als Maran die Augen öffnete, lag kein Weg vor ihm."
+    },
+    "es": {
+      "title": "La mano a la que te aferras al caer",
+      "summary": "Cuando Maran abrió los ojos, no había ningún camino frente a él."
+    },
+    "fr": {
+      "title": "La main à laquelle tu t'accroches en tombant",
+      "summary": "Lorsque Maran ouvrit les yeux, aucun chemin ne s'étendait devant lui."
+    },
+    "it": {
+      "title": "La mano a cui ti aggrappi mentre cadi",
+      "summary": "Quando Maran aprì gli occhi, davanti a lui non c'era alcuna strada."
+    },
+    "pt": {
+      "title": "A mão à qual você se agarra ao cair",
+      "summary": "Quando Maran abriu os olhos, não havia caminho diante dele."
+    },
+    "ru": {
+      "title": "Рука, за которую ты держишься, когда падаешь",
+      "summary": "Когда Маран открыл глаза, перед ним не было дороги."
+    },
+    "zh-CN": {
+      "title": "坠落时你抓住的那只手",
+      "summary": "Maran 睁开眼睛时，面前没有道路。"
+    },
+    "ja": {
+      "title": "落ちるときにつかむ手",
+      "summary": "Maran が目を開けたとき、目の前に道はなかった。"
+    },
+    "ar": {
+      "title": "اليد التي تتمسك بها وأنت تسقط",
+      "summary": "عندما فتح ماران عينيه، لم يكن أمامه طريق."
+    },
+    "ku": {
+      "title": "Desta ku Dema Dikevî Pê Digirî",
+      "summary": "Dema Maran çavên xwe vekir, li ber wî rê tune bû."
     }
   }
 }
