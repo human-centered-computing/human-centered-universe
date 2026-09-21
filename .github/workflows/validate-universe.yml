@@ -29,5 +29,8 @@ jobs:
       - name: Test multilingual coverage
         run: node scripts/test_translation_coverage.mjs
 
+      - name: Test narration shard planner
+        run: python scripts/test_narration_planner.py
+
       - name: Build Mermaid universe graph
         run: python scripts/build_graph.py

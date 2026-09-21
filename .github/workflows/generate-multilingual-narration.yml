@@ -22,8 +22,6 @@ on:
     paths:
       - "stories/**/content/*.md"
       - "config/tts-voices.json"
-      - "scripts/generate_multilingual_narration.py"
-      - ".github/workflows/generate-multilingual-narration.yml"
 
 permissions:
   contents: write
@@ -34,18 +32,51 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      languages: ${{ steps.plan.outputs.languages }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Plan language shards
+        id: plan
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          REQUESTED_LANGUAGE: ${{ inputs.language || 'all' }}
+          BASE_SHA: ${{ github.event.before || '' }}
+          HEAD_SHA: ${{ github.sha }}
+        run: |
+          LANGUAGES=$(python scripts/plan_narration_languages.py \
+            --event "$EVENT_NAME" \
+            --requested "$REQUESTED_LANGUAGE" \
+            --base "$BASE_SHA" \
+            --head "$HEAD_SHA")
+          echo "languages=$LANGUAGES" >> "$GITHUB_OUTPUT"
+          echo "Narration language shards: $LANGUAGES"
+
   generate:
+    needs: plan
+    if: ${{ needs.plan.outputs.languages != '[]' }}
     runs-on: ubuntu-latest
     timeout-minutes: 180
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        language: ${{ fromJSON(needs.plan.outputs.languages) }}
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 2
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
@@ -83,12 +114,13 @@ jobs:
             fi
 
             python scripts/generate_multilingual_narration.py \
-              --language "${{ inputs.language }}" \
+              --language "${{ matrix.language }}" \
               --story "${{ inputs.story_id }}" \
               $RESUME_ARG \
               --checkpoint
           else
             python scripts/generate_multilingual_narration.py \
+              --language "${{ matrix.language }}" \
               --changed-from "${{ github.event.before }}" \
               --checkpoint
           fi
@@ -97,5 +129,17 @@ jobs:
         if: ${{ !cancelled() }}
         run: |
           git status --short
-          echo "Completed narration targets are checkpointed individually."
-          echo "Each checkpoint also requests a GitHub Pages deployment."
+          echo "Completed ${{ matrix.language }} narration targets are checkpointed individually."
+
+  deploy:
+    needs: [plan, generate]
+    if: ${{ always() && needs.plan.outputs.languages != '[]' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy latest completed checkpoints
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh workflow run deploy-pages.yml \
+            --repo human-centered-computing/human-centered-universe \
+            --ref main
