@@ -33,6 +33,14 @@ class NarrationPlannerTest(unittest.TestCase):
             self.enabled,
         )
 
+    def test_backfill_trigger_selects_all_languages(self):
+        self.assertEqual(
+            PLANNER.languages_for_paths(
+                [".github/narration-backfill-trigger"], self.enabled
+            ),
+            self.enabled,
+        )
+
     def test_unrelated_change_selects_no_language(self):
         self.assertEqual(
             PLANNER.languages_for_paths(["docs/ROADMAP.md"], self.enabled),
