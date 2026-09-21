@@ -6,6 +6,15 @@
   "culture": [],
   "belief_context": [],
   "summary": "Short English summary.",
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "A real place, artifact, memory, experience or body of research that grounds the story."
+    ],
+    "imaginative_transformation": "How the roots become metaphor, speculative technology, myth or a possible future inside one uninterrupted narrative experience.",
+    "emergent_question": "What new human question becomes possible when reality and imagination meet?",
+    "provenance": []
+  },
   "translations": {"en": {"status": "canonical"}},
   "links": [],
   "primary_center": "HUMAN",

@@ -44,6 +44,28 @@ def valid_weights(weights, where):
     if abs(sum(vals) - 100) > 1e-9:
         errors.append(f"{where}: center_weights must sum to 100")
 
+def valid_reality_weaving(value, where):
+    if value is None:
+        return
+    if not isinstance(value, dict):
+        errors.append(f"{where}: reality_weaving must be an object")
+        return
+    if value.get("mode") != "woven":
+        errors.append(f"{where}: reality_weaving mode must be woven")
+    roots = value.get("reality_roots")
+    if not isinstance(roots, list) or not roots or not all(isinstance(x, str) and x.strip() for x in roots):
+        errors.append(f"{where}: reality_weaving requires non-empty reality_roots")
+    for key in {"imaginative_transformation", "emergent_question"}:
+        if not isinstance(value.get(key), str) or not value[key].strip():
+            errors.append(f"{where}: reality_weaving requires {key}")
+    provenance = value.get("provenance", [])
+    if not isinstance(provenance, list):
+        errors.append(f"{where}: reality_weaving provenance must be a list")
+    else:
+        for i, source in enumerate(provenance):
+            if not isinstance(source, dict) or not source.get("title") or not source.get("uri"):
+                errors.append(f"{where}: reality_weaving provenance {i+1} requires title/uri")
+
 for mp in STORIES.rglob("meta.json"):
     try:
         d = json.loads(mp.read_text(encoding="utf-8"))
@@ -64,6 +86,8 @@ for mp in STORIES.rglob("meta.json"):
 
     if d.get("status") not in VALID_STATUS:
         errors.append(f"{mp}: invalid status")
+
+    valid_reality_weaving(d.get("reality_weaving"), str(mp))
 
     content_dir = mp.parent / "content"
     canonical_file = content_dir / f"{CANONICAL_LANGUAGE}.md"

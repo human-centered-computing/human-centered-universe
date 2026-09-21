@@ -1,4 +1,5 @@
 const CENTER_KEYS = ["HUMAN", "LIGHT", "DARK"];
+const OBSERVER_BASELINE = {HUMAN:34,LIGHT:33,DARK:33};
 const GENERIC_CHOICES = [
   {key:"human_direction", label_key:"generic_choice_human", label:"Follow the human meaning, agency, and relationship in this story.", effects:{HUMAN:10,LIGHT:2,DARK:2}},
   {key:"light_direction", label_key:"generic_choice_light", label:"Seek greater clarity, structure, knowledge, and protection.", effects:{HUMAN:2,LIGHT:10,DARK:2}},
@@ -11,7 +12,7 @@ const state = {
   mode: "read",
   storyId: null,
   readIds: new Set(JSON.parse(localStorage.getItem("hcu.readIds") || "[]")),
-  observerRaw: JSON.parse(localStorage.getItem("hcu.observerRaw") || '{"HUMAN":0,"LIGHT":0,"DARK":0}'),
+  observerRaw: JSON.parse(localStorage.getItem("hcu.observerRaw") || JSON.stringify(OBSERVER_BASELINE)),
   choiceLog: JSON.parse(localStorage.getItem("hcu.choiceLog") || "[]"),
   path: JSON.parse(localStorage.getItem("hcu.quantumPath") || "[]")
 };
@@ -279,7 +280,7 @@ function renderSettings(){
   document.getElementById("reset-entire-journey")?.addEventListener("click",()=>{
     const warning=t("reset_journey_warning","Reset your entire journey? Reading progress, choices, and Observer State will be permanently cleared on this device.");
     if(!window.confirm(warning)) return;
-    ["hcu.readIds","hcu.observerRaw","hcu.choiceLog","hcu.quantumPath","hcu.lastStory","hcu.firstVibrationIntro.v1"].forEach(key=>localStorage.removeItem(key));
+    ["hcu.readIds","hcu.observerRaw","hcu.choiceLog","hcu.quantumPath","hcu.lastStory","hcu.firstVibrationIntro.v1","hcu.firstVibrationIntro.v2"].forEach(key=>localStorage.removeItem(key));
     const url=new URL(location.href); url.searchParams.set("mode","read"); url.searchParams.set("story",state.data.origin_node||"BRG-0002"); url.searchParams.set("intro","1"); url.searchParams.set("lang",state.locale); location.replace(url);
   });
 }

@@ -22,3 +22,9 @@ A fork is not failure.
 The observation order in `universe-map.json` is a recommended entry path only. It is not absolute chronology.
 
 Reader choices create an Observer State and may recommend a different unread next node. The reader remains free to choose another node.
+
+## Reality Weaving
+
+Canon stories may weave documented reality, cultural memory, belief, philosophy, metaphor and imagined futures into one uninterrupted experience. The default reader does not divide that experience with visible truth-category badges.
+
+Where provenance matters, a story may keep a `reality_weaving` record in metadata. The record preserves roots and transformations without forcing the narrative itself to separate reality from imagination. See `REALITY_WEAVING.md`.

@@ -216,6 +216,18 @@ Bu, HCU'nun **Kuantum Zaman** modelidir:
 
 ---
 
+## Gerçeklik Dokuma
+
+HCU, gerçek ile hayali birbirine karşı iki ayrı odaya bölmez. Gerçek bir yer, kültürel bir hafıza, felsefi bir soru ve hayal edilmiş bir gelecek aynı sahneye girebilir; görünür kategori etiketleri deneyimi kesmeden birbirini dönüştürebilir.
+
+> **Gerçek, hayalin köküdür. Hayal, gerçeğin henüz gerçekleşmemiş ihtimalidir. İkisinin buluşması yeni bir düşünce evreni yaratır.**
+
+Önemli kökler ve dönüşümler; yazarlık, araştırma ve daha sonra inceleme amacıyla görünmeyen bir metadata izi olarak korunabilir. Bu iz anlatının büyüsünü bozmadan hafızayı korur. Kurguyu kanıta dönüştürmez ve kültürel çoğulluğu tek bir yoruma indirgemez.
+
+Ayrıntılı model için [`universe/REALITY_WEAVING.md`](universe/REALITY_WEAVING.md) belgesine bakın.
+
+---
+
 ## Evren Oluşturucu — Story Node Builder
 
 HCU yalnızca okunmak için tasarlanmadı.
@@ -343,6 +355,8 @@ Yeni bir arayüz dili eklendiğinde, `README/` altında aynı dil koduyla yeni R
 > **Gözlem mutlak kronoloji yerine ilişkisel anlatı zamanı oluşturur.**
 
 > **Farklı hikâyelerin aynı hikâyeye dönüşmesi gerekmez. İlişkileri onları aynı evrenin parçası yapar.**
+
+> **Gerçek ile hayal tek bir deneyime dönüşebilir; kökleri ise evrenin hafızasında izlenebilir kalır.**
 
 > **İnsan hiçbir sistemin ham maddesi değildir.**
 

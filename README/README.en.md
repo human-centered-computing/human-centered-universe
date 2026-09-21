@@ -280,6 +280,18 @@ It is **not** a claim that HCU has discovered or implemented a new physical law 
 
 ---
 
+## Reality Weaving
+
+HCU does not divide reality and imagination into opposing rooms. A real place, a cultural memory, a philosophical question and an imagined future may enter the same scene and transform one another without visible category labels interrupting the experience.
+
+> **Reality is the root of imagination. Imagination is the unrealized possibility of reality. Their meeting creates a new universe of thought.**
+
+Important roots and transformations may be preserved as an invisible metadata trace for authorship, research and later examination. The trace protects memory without breaking the narrative spell. It does not convert fiction into evidence or reduce cultural plurality to a single interpretation.
+
+See [`universe/REALITY_WEAVING.md`](../universe/REALITY_WEAVING.md).
+
+---
+
 ## Consciousness, choice, and narrative destiny
 
 HCU does not treat the reader as a passive consumer.
@@ -447,6 +459,8 @@ When a new interface locale is added, add a matching localized README file under
 > **Observation creates relational narrative time, not absolute chronology.**
 
 > **Different stories do not have to become the same story. Their relationships make them part of the same universe.**
+
+> **Reality and imagination may become one experience while their roots remain traceable in the universe's memory.**
 
 > **Human beings are not raw material for any system.**
 

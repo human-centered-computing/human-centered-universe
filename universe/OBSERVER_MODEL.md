@@ -4,7 +4,9 @@ The reader is an Observer inside the HCU story graph.
 
 ## Observer State
 
-An observer's choices contribute HUMAN, LIGHT and DARK effects. The accumulated values are normalized to a 100-point state.
+An observer begins from a near-balanced baseline of `HUMAN 34 / LIGHT 33 / DARK 33`. Choices contribute HUMAN, LIGHT and DARK effects. The accumulated values are normalized to a 100-point state.
+
+The baseline prevents the first choice from erasing the other two centers. A choice creates a tendency, not a permanent identity.
 
 Example:
 
