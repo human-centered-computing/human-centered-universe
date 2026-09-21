@@ -21,40 +21,52 @@
   "summary": "A repeatable low-light drone mission is analyzed through Tapetum Sentinel, whose evidence-backed local question answering guides the team from aerial anomalies to subsurface scans, a distributed seven-part stone topology, and a mathematically missing node without claiming an ancient computer or physical quantum entanglement.",
   "translations": {
     "en": {
-      "status": "canonical"
+      "status": "canonical",
+      "human_reviewed": true
     },
     "tr": {
-      "status": "reviewed"
+      "status": "reviewed",
+      "human_reviewed": true
     },
     "de": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "es": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "fr": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "it": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ru": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "zh-CN": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ja": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ar": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ku": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "pt": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     }
   },
   "links": [

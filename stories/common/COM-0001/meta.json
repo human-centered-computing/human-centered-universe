@@ -19,40 +19,52 @@
   "summary": "Light and Dark make competing claims over safety and freedom. Maran rejects both a fixed midpoint and a third ruling power, redefining the Human Center as a relational decision method that preserves valuable capacities while limiting domination, keeping evidence, consent, responsibility and contestability visible.",
   "translations": {
     "en": {
-      "status": "canonical"
+      "status": "canonical",
+      "human_reviewed": true
     },
     "tr": {
-      "status": "reviewed"
+      "status": "reviewed",
+      "human_reviewed": true
     },
     "de": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "es": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "fr": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "it": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "pt": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ru": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "zh-CN": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ja": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ar": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ku": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     }
   },
   "hero_image": {

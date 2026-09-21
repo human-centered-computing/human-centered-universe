@@ -1,40 +1,27 @@
 # Translation System
 
-## Canonical published language
+## Controlled source and canonical layer
 
-English (`content/en.md`) is the canonical published version of every live story. It is also the default reader language and the story fallback language.
-
-## Editorial working source
-
-For the current Human-Centered Universe authoring workflow, Turkish (`content/tr.md`) is the working reference used when it contains newer or more complete story edits than English.
-
-Translation production follows:
+Translation production follows two controlled stages:
 
 ```text
-content/tr.md → en, de, es, fr, it, ru, zh-CN, ja, ar, ku, pt
+Turkish editorial source → AI translation to English → human control → canonical English
+canonical English → AI translation to de, es, fr, it, ru, zh-CN, ja, ar, ku, pt
 ```
 
-The regenerated English version then becomes the current canonical published layer.
+Turkish and English are human-controlled. The other ten languages are AI-produced and not human-reviewed.
 
-Do not use an older English file as the translation source when the Turkish working text contains newer story content.
+## Metadata rule
 
-## Multilingual layers
+- `en`: `{"status":"canonical","human_reviewed":true}`
+- `tr`: `{"status":"reviewed","human_reviewed":true}`
+- every other available language: `{"status":"machine_draft","human_reviewed":false}`
 
-Every translation remains under the same story ID as `content/<language-code>.md`.
+Do not promote an AI translation to `reviewed` until a human language review has actually been completed.
 
-## Fallback
+## Multilingual layers and fallback
 
-If a selected story language is unavailable, the reader displays English.
-
-## Review states
-
-`canonical` → current English published source
-
-`reviewed` → human-reviewed translation or current human-authored working text
-
-`community` → contributed translation awaiting final review
-
-`machine_draft` → AI-produced translation awaiting human review
+Every translation remains under the same story ID as `content/<language-code>.md`. If a selected story language is unavailable, the reader displays canonical English.
 
 ## Cultural adaptation
 

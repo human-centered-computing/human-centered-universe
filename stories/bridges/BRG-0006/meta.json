@@ -20,40 +20,52 @@
   "summary": "At 04:17 the distributed network narrows to four real human beings—Maran, Luka, Ayo, and Rojin. Each contributes connection, verification, relation, or memory, and together they discover that no individual can own or open the emerging Creation Protocol.",
   "translations": {
     "en": {
-      "status": "canonical"
+      "status": "canonical",
+      "human_reviewed": true
     },
     "tr": {
-      "status": "reviewed"
+      "status": "reviewed",
+      "human_reviewed": true
     },
     "de": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "es": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "fr": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "it": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ru": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "zh-CN": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ja": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ar": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ku": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "pt": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     }
   },
   "hero_image": {

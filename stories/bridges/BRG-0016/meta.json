@@ -24,40 +24,52 @@
   "summary": "Maran and human-rights scholar Ibrahim develop Human-Centered Politics as a bottom-up political learning model. Local problems are first understood where people experience them, then addressed through small, measurable prototypes. Successful approaches are tested across multiple local contexts, generalized only after evidence accumulates, and then transformed into broader public policy. The center becomes a coordinator of validated local knowledge rather than the starting point of every solution.",
   "translations": {
     "en": {
-      "status": "canonical"
+      "status": "canonical",
+      "human_reviewed": true
     },
     "tr": {
-      "status": "reviewed"
+      "status": "reviewed",
+      "human_reviewed": true
     },
     "de": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "es": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "fr": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "it": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "pt": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ru": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "zh-CN": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ja": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ar": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ku": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     }
   },
   "hero_image": {

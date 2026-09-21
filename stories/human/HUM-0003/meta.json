@@ -21,34 +21,44 @@
   "summary": "In Siverek, a proposal for a modern city matures through the Light, Dark and Human Centers into a living transformation methodology: measure what matters, test before scaling, connect energy-water-food-health-education systems, learn openly from failure, preserve human authority over technology, and adapt the method rather than copying the city.",
   "translations": {
     "en": {
-      "status": "canonical"
+      "status": "canonical",
+      "human_reviewed": true
     },
     "tr": {
-      "status": "machine_draft"
+      "status": "reviewed",
+      "human_reviewed": true
     },
     "de": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "es": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "fr": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ru": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "zh-CN": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ja": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ar": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     },
     "ku": {
-      "status": "machine_draft"
+      "status": "machine_draft",
+      "human_reviewed": false
     }
   },
   "hero_image": {

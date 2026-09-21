@@ -17,8 +17,29 @@
     "ku",
     "pt"
   ],
-  "rtl_languages": ["ar"],
+  "rtl_languages": [
+    "ar"
+  ],
   "translation_working_source_language": "tr",
-  "translation_source": "content/tr.md",
-  "translation_status_for_ai_drafts": "machine_draft"
+  "translation_source": "content/en.md",
+  "translation_status_for_ai_drafts": "machine_draft",
+  "canonical_generation_source_language": "tr",
+  "canonical_generation_source": "content/tr.md",
+  "translation_source_language": "en",
+  "human_reviewed_languages": [
+    "en",
+    "tr"
+  ],
+  "ai_unreviewed_languages": [
+    "de",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "zh-CN",
+    "ja",
+    "ar",
+    "ku",
+    "pt"
+  ]
 }
