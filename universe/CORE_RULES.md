@@ -53,6 +53,12 @@ This is a narrative architecture, not a new claim about quantum physics.
 
 The universe is unbounded by design. Any observed state may contain finitely many stories, while new stories, cultures, languages, relations, forks and observer paths may continue to be created.
 
-## Scientific boundary
+## Reality Weaving rule
 
-Established science, real research, interpretation, belief, philosophy and science-fiction speculation must remain distinguishable. A Quantum Echo is a narrative relation unless a physical claim is independently supported by evidence.
+Reality and imagination are not opposing narrative domains. Archaeology, memory, belief, philosophy, engineering and science fiction may flow into one another inside a story without visible category labels interrupting the experience.
+
+The universe preserves an invisible trace of important sources and imaginative transformations in metadata when useful. This trace supports authorship, research and later examination; it is not rendered as a border inside the default reading experience.
+
+Reality Weaving does not turn fiction into evidence. Sources must not be invented, cultural plurality must be preserved, and real-world research or engineering claims outside the fictional experience remain subject to evidence, review and correction. A Quantum Echo remains a narrative relation unless a physical relation is independently supported.
+
+See `REALITY_WEAVING.md` for the complete model.

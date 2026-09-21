@@ -511,6 +511,13 @@ Scientific, technological, philosophical, cultural and spiritual elements may co
 Do not treat any real-world belief system as inherently superior or inferior.
 The story may contain subtle echoes, dreams, objects, places, equations, memories, historical fragments, unexplained coincidences or quantum-like parallels connecting it to a larger Human-Centered Universe, but the story must work independently.
 
+REALITY WEAVING
+Do not divide reality and imagination into visibly labelled sections inside the literary story.
+Let real places, artifacts, memories, research, beliefs, philosophy, metaphor and imagined futures flow into one another as one coherent experience.
+The transition should feel woven rather than announced.
+Do not invent sources or turn fiction into evidence.
+After the story, preserve its roots and imaginative transformation in the reality_weaving metadata requested below. This metadata is an invisible trace for authorship and later examination; it is not a set of labels to insert into the story.
+
 CHARACTERS
 Create characters only when they serve the idea.
 Characters should have their own motivations, limitations, memories, fears, hopes and contradictions.
@@ -564,8 +571,8 @@ At least one effect must be greater than zero.
 FIDELITY
 - Preserve the user's core intention while allowing the idea to mature.
 - Critique the idea when necessary, never the person who proposed it.
-- Separate technical possibility from human desirability.
-- If speculative science or technology appears, explore it fictionally without falsely presenting speculation as established fact.
+- Let technical possibility and human meaning encounter each other through events and consequences rather than explanatory category labels.
+- If speculative science or technology appears, weave it naturally into the story while preserving its transformation in metadata instead of presenting fiction as external evidence.
 - If the idea contains an internal contradiction, make that contradiction part of the story rather than silently removing it.
 - If the idea could create serious harm, explore consequences responsibly rather than romanticizing harm.
 - Return JSON only.
@@ -587,6 +594,15 @@ EXACT JSON SHAPE
   "story_title": "Title in selected story language",
   "summary": "Canonical English summary",
   "story_summary": "Summary in selected story language",
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": ["Real places, artifacts, memories, experiences or research that ground the story"],
+    "imaginative_transformation": "How those roots become metaphor, speculative technology, myth or a possible future inside the story",
+    "emergent_question": "The new human question created by the meeting of reality and imagination",
+    "provenance": [
+      {"title": "Optional real source title", "uri": "https://example.org/source", "scope": "What this source grounds"}
+    ]
+  },
   "content_en": "Faithful canonical English version of the complete generated story",
   "translations": {
     "${storyLanguage}": "Complete generated story in selected story language; omit this entry when story_language is en"
@@ -652,6 +668,16 @@ function validateResult(data){
   const audit=data.coverage_audit||{};
   if(typeof audit.coverage_complete!=="boolean") throw new Error("coverage_audit.coverage_complete must be true or false.");
   if(!Array.isArray(audit.unmapped_elements)) throw new Error("coverage_audit.unmapped_elements must be an array.");
+
+  const weave=data.reality_weaving||{};
+  if(weave.mode!=="woven") throw new Error("reality_weaving.mode must be woven.");
+  if(!Array.isArray(weave.reality_roots)||!weave.reality_roots.length||weave.reality_roots.some(x=>typeof x!=="string"||!x.trim())){
+    throw new Error("reality_weaving.reality_roots must contain at least one meaningful root.");
+  }
+  for(const key of ["imaginative_transformation","emergent_question"]){
+    if(typeof weave[key]!=="string"||!weave[key].trim()) throw new Error(`reality_weaving.${key} is required.`);
+  }
+  if(weave.provenance!=null&&!Array.isArray(weave.provenance)) throw new Error("reality_weaving.provenance must be an array.");
 
   const calc=computeWeights(data.analysis);
   const choices=Array.isArray(data.choices)?data.choices:[];
@@ -759,6 +785,7 @@ function makeMeta(data,check,id){
     culture:splitList($("culture").value),
     belief_context:splitList($("belief").value),
     summary:data.summary,
+    reality_weaving:data.reality_weaving,
     localized: storyLanguage==="en" ? {} : {
       [storyLanguage]: {
         title:data.story_title,
@@ -894,6 +921,13 @@ const demo={
   story_title:"The Archive of Remaining Voices",
   summary:"A memory-preservation system forces a society to confront whether remembrance can remain human once memory becomes an institution.",
   story_summary:"A memory-preservation system forces a society to confront whether remembrance can remain human once memory becomes an institution.",
+  reality_weaving:{
+    mode:"woven",
+    reality_roots:["Human memory, grief, archives and contemporary neural-recording research"],
+    imaginative_transformation:"Personal memories become an institution that can speak, change and negotiate its continued presence among the living.",
+    emergent_question:"When memory outlives the person, who may decide what it is allowed to become?",
+    provenance:[]
+  },
   content_en:"When the Archive opened, families came carrying the final neural traces of the dead. At first the system was built to preserve stories, voices and unfinished knowledge. The Light councils wrote protocols so every memory could be verified, traced and protected. The Dark researchers discovered that memories changed when questioned, producing possibilities no living person remembered choosing. In the Human districts, children began speaking with reconstructed parents who knew everything they had once recorded but nothing they had forgotten on purpose. The technology no longer asked only whether memory could survive. It asked who was allowed to shape what survival meant. The Archive was redesigned so every person could define, while alive, which memories might remain, which must disappear and who could converse with them. Yet one question remained after the first voluntary deletion: if a memory can continue to influence the living, is preserving it an act of love, or a new form of power?",
   translations:{},
   final_human_question:"If a memory can continue to influence the living, who should have the right to decide what that memory is allowed to become?",

@@ -20,5 +20,8 @@ jobs:
       - name: Validate stories and translations
         run: python scripts/validate_universe.py
 
+      - name: Test First Vibration observer flow
+        run: node scripts/test_first_vibration_intro.mjs
+
       - name: Build Mermaid universe graph
         run: python scripts/build_graph.py

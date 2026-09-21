@@ -101,6 +101,19 @@ HUMAN + LIGHT + DARK = 100
 
 This is a narrative-position model, not a proof that the underlying real-world idea is scientifically true or morally correct.
 
+## Reality Weaving
+
+The builder asks the AI to let real places, memories, research, beliefs, philosophy and imagined futures flow into one coherent literary experience without inserting visible truth-category labels into the story.
+
+The exported `reality_weaving` metadata preserves:
+
+- the real or lived roots of the story,
+- their imaginative transformation,
+- the new question created by their meeting,
+- and optional provenance links.
+
+This trace remains available for authorship and later examination while the default reader preserves the unity of the narrative experience.
+
 ## Observer choices
 
 Each story can export 3–5 observer choices. Every choice has HUMAN / LIGHT / DARK effects. The live reader accumulates these effects into the observer state and uses that evolving profile to recommend unread stories.
