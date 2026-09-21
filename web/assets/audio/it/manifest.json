@@ -70,6 +70,15 @@
       "voice": "it_IT-paola-medium"
     },
     {
+      "id": "BRG-0013",
+      "title": "Before Moving a System into Reality",
+      "file": "./BRG-0013.mp3",
+      "duration_seconds": 1657.783,
+      "bytes": 19893752,
+      "engine": "Piper",
+      "voice": "it_IT-paola-medium"
+    },
+    {
       "id": "COM-0006",
       "title": "The Universe Changes the Moment You Connect",
       "file": "./COM-0006.mp3",
