@@ -1,14 +1,9 @@
-# HCU Multilingual GitHub TTS v5
+# HCU Multilingual GitHub TTS v6
 
-## Current repository languages
-The repository currently contains complete story content in:
-- Turkish (`tr`)
-- English (`en`)
-
-These two languages begin working immediately after the first workflow run.
-
-## Future-ready languages
-The TTS configuration also includes:
+## Enabled narration languages
+The TTS configuration currently includes:
+- Turkish (`tr`) — `tr_TR-dfki-medium`
+- English (`en`) — `en_US-lessac-medium`
 - German (`de`) — `de_DE-thorsten-medium`
 - French (`fr`) — `fr_FR-siwis-medium`
 - Spanish (`es`) — `es_ES-sharvard-medium`
@@ -19,7 +14,11 @@ story file exists, such as:
 
 `stories/bridges/BRG-0002/content/de.md`
 
-No empty or machine-translated story file is created by this workflow.
+No empty or translated story file is created by this workflow. Narration is
+generated only from an existing story-language Markdown file.
+
+Portuguese, Russian, Simplified Chinese, Japanese, Arabic and Kurdish story
+layers remain readable but do not yet have enabled Piper voices.
 
 ## Output
 Audio is stored by language:
@@ -39,6 +38,12 @@ Any change to:
 
 triggers narration regeneration for the changed story/language pair when that
 language has an enabled voice in `config/tts-voices.json`.
+
+The workflow first plans the affected languages, then runs one language shard
+at a time. Each shard has its own 180-minute budget, so a complete multilingual
+backfill cannot be cancelled merely because the combined run exceeds three
+hours. Finished MP3 files are checkpointed to `main`; GitHub Pages is requested
+once after all selected shards finish.
 
 ## Manual generation
 Actions → Generate Multilingual Narration → Run workflow
