@@ -61,6 +61,15 @@
       "voice": "fr_FR-siwis-medium"
     },
     {
+      "id": "BRG-0012",
+      "title": "We Built a Universe While Searching for a New System",
+      "file": "./BRG-0012.mp3",
+      "duration_seconds": 1572.023,
+      "bytes": 18864632,
+      "engine": "Piper",
+      "voice": "fr_FR-siwis-medium"
+    },
+    {
       "id": "COM-0006",
       "title": "The Universe Changes the Moment You Connect",
       "file": "./COM-0006.mp3",
