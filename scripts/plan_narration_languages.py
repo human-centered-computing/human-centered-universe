@@ -23,7 +23,10 @@ def enabled_languages() -> list[str]:
 
 
 def languages_for_paths(paths: list[str], enabled: list[str]) -> list[str]:
-    if "config/tts-voices.json" in paths:
+    if (
+        "config/tts-voices.json" in paths
+        or ".github/narration-backfill-trigger" in paths
+    ):
         return enabled
 
     changed = set()
