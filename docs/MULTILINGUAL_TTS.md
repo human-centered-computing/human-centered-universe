@@ -54,6 +54,13 @@ Examples:
 - language=`tr`, story_id=`BRG-0002`
 - language=`de`, story_id=`BRG-0002`
 
+## Resumable backfill
+Increment `.github/narration-backfill-trigger` when all enabled languages must
+resume from the audio already committed to the repository. This selects every
+enabled language shard, skips valid existing MP3 files and generates only the
+missing narration. Ordinary story edits do not use resume mode, so a changed
+story still regenerates its corresponding audio.
+
 ## Licensing
 Piper supports many languages, but each voice has its own MODEL_CARD and
 possibly its own dataset license. Do not assume one voice's license applies to
