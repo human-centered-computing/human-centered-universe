@@ -1,0 +1,95 @@
+{
+  "id": "WRK-0002",
+  "title": "The Clock",
+  "original_title": "Saat",
+  "core": "WORK",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 2,
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "philosophical",
+    "social",
+    "literary"
+  ],
+  "summary": "A fragmented work-cycle chapter about saat, continuing the ambiguous House of Work memoir.",
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "Modern work routines",
+      "Institutional hierarchy",
+      "Human labor and organizational measurement"
+    ],
+    "imaginative_transformation": "The workplace and closed-house readings remain simultaneously possible.",
+    "emergent_question": "What remains human when a system becomes internalized?"
+  },
+  "translations": {
+    "en": {
+      "status": "canonical",
+      "human_reviewed": true
+    },
+    "tr": {
+      "status": "reviewed",
+      "human_reviewed": true
+    }
+  },
+  "links": [
+    {
+      "target": "WRK-0001",
+      "type": "memory",
+      "note": "The previous work-cycle chapter echoes into this one."
+    },
+    {
+      "target": "WRK-0003",
+      "type": "future",
+      "note": "The next chapter carries the same transformation forward."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Saat",
+      "summary": "Çalışma Evinden Anılar döngüsünde saat üzerine parçalı bir bölüm."
+    },
+    "en": {
+      "title": "The Clock",
+      "summary": "A fragmented chapter of the House of Work cycle."
+    }
+  },
+  "observer_choices": [
+    {
+      "key": "human",
+      "label": "Follow the human meaning and lived experience.",
+      "effects": {
+        "HUMAN": 6,
+        "LIGHT": 2,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "light",
+      "label": "Seek clarity, structure, and understanding.",
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 6,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "dark",
+      "label": "Follow the unresolved tension and freedom.",
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 2,
+        "DARK": 6
+      }
+    }
+  ],
+  "center_weights": {
+    "HUMAN": 40,
+    "LIGHT": 35,
+    "DARK": 25
+  },
+  "primary_center": "HUMAN"
+}
