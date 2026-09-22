@@ -1,7 +1,7 @@
 {
   "id": "WRK-0015",
-  "title": "The Last Extra Task",
-  "original_title": "Son Fazladan İş",
+  "title": "Extra",
+  "original_title": "Fazladan",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -48,11 +48,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Son Fazladan İş",
+      "title": "Fazladan",
       "summary": "Çalışma Evinden Anılar döngüsünde son fazladan i̇ş üzerine parçalı bölüm."
     },
     "en": {
-      "title": "The Last Extra Task",
+      "title": "Extra",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
