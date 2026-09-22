@@ -1,7 +1,7 @@
 {
   "id": "WRK-0003",
-  "title": "The Chair",
-  "original_title": "Sandalye",
+  "title": "The Place",
+  "original_title": "Yer",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -49,11 +49,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Sandalye",
+      "title": "Yer",
       "summary": "Çalışma Evinden Anılar döngüsünde sandalye üzerine parçalı bir bölüm."
     },
     "en": {
-      "title": "The Chair",
+      "title": "The Place",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
