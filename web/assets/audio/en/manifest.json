@@ -160,6 +160,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0020",
+      "title": "Memories from the House of Work",
+      "file": "./BRG-0020.mp3",
+      "duration_seconds": 563.513,
+      "bytes": 6762520,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "BRG-0015",
       "title": "The School That Refused to Compete: Maran and the First Human-Centered Transformation School",
       "file": "./BRG-0015.mp3",
