@@ -1,21 +1,75 @@
-# The Leave
+# Going Outside
 
-Leave was a strange word. It meant absence, but also permission.
+One day I needed to go outside.
 
-To leave, I needed approval. The place could continue without me. I could not always imagine continuing without the place.
+First they asked why.
 
-Some people saved their leave. Months passed. Days accumulated.
+“I have something to do.”
 
-“Why don't you use them?”
+“What?”
+
+“Something private.”
+
+The person across from me looked at me.
+
+“There is no such thing as private here.”
+
+He handed me a paper.
+
+I wrote where I was going.
+
+When I would return.
+
+I signed.
+
+Then I waited.
+
+Permission came.
+
+I reached the door.
+
+They looked at the paper.
+
+Then at me.
+
+“What time will you return?”
+
+I told them.
+
+The door opened.
+
+I went outside.
+
+A few hours later I returned.
+
+The door opened again.
+
+I went in.
+
+“Welcome back.”
+
+The words disturbed me.
+
+Had I really been welcomed back?
+
+Or had I simply returned?
+
+After a while leave days began to accumulate.
+
+Some people never used them.
+
+“Why?”
 
 “Where would I go?”
 
-One week I took leave. My desk was empty. Nothing collapsed. Someone sat there temporarily. Files moved. Calls were answered.
+One man saved his leave for years.
 
-When I returned, everything was almost the same.
+When he finally went outside, he did not know what to do.
 
-I had expected to be missed. Instead I discovered that absence could be ordinary.
+That was when I began to see the difference between permission to go outside and freedom.
 
-If the system could survive without me, why had I believed I could not live without it?
+Leave means being allowed to leave.
 
-I never answered the question. I only began to notice the difference between permission to leave and the ability to leave.
+Freedom means that once outside, nobody decides where you must go.
+
+I did not yet understand how difficult the second part was.
