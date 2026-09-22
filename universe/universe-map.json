@@ -321,7 +321,7 @@
     },
     {
       "observation_order": 29,
-      "id": "BRG-0020",
+      "id": "WRK-0001",
       "title": "Memories from the House of Work",
       "primary_center": "HUMAN",
       "center_weights": {
@@ -332,13 +332,167 @@
     },
     {
       "observation_order": 30,
-      "id": "BRG-0021",
+      "id": "WRK-0002",
       "title": "The Clock",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 40,
         "LIGHT": 35,
         "DARK": 25
+      }
+    },
+    {
+      "observation_order": 31,
+      "id": "WRK-0003",
+      "title": "The Chair",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 50,
+        "LIGHT": 25,
+        "DARK": 25
+      }
+    },
+    {
+      "observation_order": 32,
+      "id": "WRK-0004",
+      "title": "The Form",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 45,
+        "LIGHT": 30,
+        "DARK": 25
+      }
+    },
+    {
+      "observation_order": 33,
+      "id": "WRK-0005",
+      "title": "The Meeting",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 50,
+        "LIGHT": 30,
+        "DARK": 20
+      }
+    },
+    {
+      "observation_order": 34,
+      "id": "WRK-0006",
+      "title": "The Leave",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 45,
+        "LIGHT": 30,
+        "DARK": 25
+      }
+    },
+    {
+      "observation_order": 35,
+      "id": "WRK-0007",
+      "title": "The Number",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 55,
+        "LIGHT": 25,
+        "DARK": 20
+      }
+    },
+    {
+      "observation_order": 36,
+      "id": "WRK-0008",
+      "title": "The Exception",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 40,
+        "LIGHT": 30,
+        "DARK": 30
+      }
+    },
+    {
+      "observation_order": 37,
+      "id": "WRK-0009",
+      "title": "The Transfer",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 45,
+        "LIGHT": 25,
+        "DARK": 30
+      }
+    },
+    {
+      "observation_order": 38,
+      "id": "WRK-0010",
+      "title": "The Corridor",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 40,
+        "LIGHT": 35,
+        "DARK": 25
+      }
+    },
+    {
+      "observation_order": 39,
+      "id": "WRK-0011",
+      "title": "The Meal",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 60,
+        "LIGHT": 25,
+        "DARK": 15
+      }
+    },
+    {
+      "observation_order": 40,
+      "id": "WRK-0012",
+      "title": "The Rumor",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 45,
+        "LIGHT": 30,
+        "DARK": 25
+      }
+    },
+    {
+      "observation_order": 41,
+      "id": "WRK-0013",
+      "title": "The Sick Day",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 50,
+        "LIGHT": 25,
+        "DARK": 25
+      }
+    },
+    {
+      "observation_order": 42,
+      "id": "WRK-0014",
+      "title": "The Replacement",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 45,
+        "LIGHT": 30,
+        "DARK": 25
+      }
+    },
+    {
+      "observation_order": 43,
+      "id": "WRK-0015",
+      "title": "The Last Extra Task",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 55,
+        "LIGHT": 30,
+        "DARK": 15
+      }
+    },
+    {
+      "observation_order": 44,
+      "id": "WRK-0016",
+      "title": "The House Inside",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 65,
+        "LIGHT": 25,
+        "DARK": 10
       }
     }
   ],
