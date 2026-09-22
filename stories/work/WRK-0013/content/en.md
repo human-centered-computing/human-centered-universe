@@ -1,17 +1,69 @@
-# The Sick Day
+# The Body
 
-The system had a schedule. The body did not.
+The system had a clock.
 
-One morning I could not stand properly. I called. The first question was not “Are you all right?” It was “Who will do the work?”
+The body did not.
 
-I understood the question. Work had to continue. But something inside me resisted the idea that my body was an interruption.
+One morning I could not stand.
 
-Messages arrived: “Can you send that file?” “Where is the document?” “Just one thing.”
+The clock rang.
 
-The day that was supposed to be mine remained partly occupied by the system.
+I stopped it.
 
-By evening I understood something simple: a machine can be designed around availability; a human being cannot.
+It rang again.
 
-When I returned, the chair, the clock and the work were waiting.
+I stopped it again.
 
-Only my body had learned that waiting has limits.
+On the third time I got up.
+
+My head was spinning.
+
+I called.
+
+The first question was not:
+
+“What happened?”
+
+It was:
+
+“Who will do it today?”
+
+I understood the question.
+
+The work had to continue.
+
+But that day, for the first time, I felt like a missing piece of a task.
+
+Then the messages came.
+
+“Where is the file?”
+
+“Can you send this?”
+
+“One more thing.”
+
+My body was in bed.
+
+My work was still speaking to me.
+
+The next day I returned.
+
+The chair was there.
+
+The clock was working.
+
+The file was on the desk.
+
+Nobody asked what my body had done the day before.
+
+There was a record of the absence.
+
+There was no record of what it had felt like.
+
+That day I thought:
+
+A system can divide a person into duties.
+
+It cannot divide tiredness, fear, pain and the need for rest with the same ease.
+
+Sometimes the body is the last witness the system forgets.
