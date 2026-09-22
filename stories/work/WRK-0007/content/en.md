@@ -1,17 +1,65 @@
-# The Number
+# Those Who Are Counted
 
-A number appeared on the screen. Then another. Soon every task had a number.
+One day everyone began to be counted.
 
-More was better. More cases. More forms. More closures.
+How many people?
 
-A person once asked, “What about the people behind the numbers?” The question did not fit the table.
+How many hours?
 
-I remembered a doctor who listened carefully and saw fewer people. Another moved quickly and saw many. The second number looked better, but the first often solved what the second merely passed forward.
+How many tasks?
 
-The table could count visits. It could not easily count attention.
+How many results?
 
-We began rewarding what could be counted. People adapted. The numbers improved.
+At first we were pleased.
 
-Something else quietly deteriorated.
+Now nobody's effort would remain invisible.
 
-The system was not obviously broken. It was becoming successful at the wrong thing.
+Then we learned how the numbers were produced.
+
+If a task could be divided into two, it became two tasks.
+
+If a problem could be closed quickly, that was better.
+
+If a person spoke for a long time, time was being consumed.
+
+Someone who spoke briefly looked more efficient.
+
+I remembered a doctor.
+
+He listened to patients carefully.
+
+The line moved slowly.
+
+Another doctor moved quickly.
+
+He saw many more people.
+
+The second number looked better.
+
+But the first doctor often solved what the second had only sent forward.
+
+There was no column for that.
+
+Soon people began choosing work that could be measured.
+
+Nobody had to tell them.
+
+The system showed what it rewarded.
+
+People learned.
+
+The numbers rose.
+
+The tables looked better.
+
+But some problems began returning.
+
+The tasks were closing.
+
+The problems were not.
+
+Then I understood:
+
+A system can record success when people become very good at doing the wrong thing.
+
+And as the success number rises, it can become harder to see the mistake.
