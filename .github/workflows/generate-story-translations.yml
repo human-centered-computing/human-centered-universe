@@ -12,6 +12,9 @@ on:
         required: false
         type: boolean
         default: false
+  push:
+    paths:
+      - ".github/translation-trigger"
 
 permissions:
   contents: write
@@ -37,7 +40,7 @@ jobs:
         run: |
           FORCE=""
           if [ "${{ inputs.force }}" = "true" ]; then FORCE="--force"; fi
-          python scripts/generate_story_translations.py --langs "${{ inputs.languages }}" $FORCE
+          python scripts/generate_story_translations.py --langs "${{ inputs.languages || 'de,es,fr,it,ru,zh-CN,ja,ar,ku,pt' }}" $FORCE
 
       - name: Validate universe
         run: python scripts/validate_universe.py
@@ -60,8 +63,4 @@ jobs:
           git add stories translation-coverage.json
           git commit -m "Add multilingual machine-draft story translations"
           git push origin "$BRANCH"
-          gh pr create \
-            --base main \
-            --head "$BRANCH" \
-            --title "Add multilingual machine-draft story translations" \
-            --body "Automated machine-draft translations. Human review is required before changing translation status to reviewed."
+          gh pr create             --base main             --head "$BRANCH"             --title "Add multilingual machine-draft story translations"             --body "Automated machine-draft translations. Human review is required before changing translation status to reviewed."
