@@ -1,7 +1,7 @@
 {
   "id": "WRK-0008",
-  "title": "The Exception",
-  "original_title": "İstisna",
+  "title": "Once",
+  "original_title": "Bir Kezlik",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -48,11 +48,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "İstisna",
+      "title": "Bir Kezlik",
       "summary": "Çalışma Evinden Anılar döngüsünde i̇stisna üzerine parçalı bölüm."
     },
     "en": {
-      "title": "The Exception",
+      "title": "Once",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
