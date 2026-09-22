@@ -28,10 +28,45 @@
   },
   "links": [
     {
-      "target": "BRG-0020",
-      "type": "continuation",
-      "note": "Continues the House of Work cycle."
+      "target": "WRK-0001",
+      "type": "future",
+      "note": "Connects this earlier bridge to the House of Work cycle."
     }
   ],
-  "translation_working_source_language": "en"
+  "translation_working_source_language": "en",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 50,
+    "LIGHT": 30,
+    "DARK": 20
+  },
+  "observer_choices": [
+    {
+      "key": "human",
+      "label": "Follow the human meaning and lived experience.",
+      "effects": {
+        "HUMAN": 6,
+        "LIGHT": 2,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "light",
+      "label": "Seek clarity, structure, and understanding.",
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 6,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "dark",
+      "label": "Follow the unresolved tension.",
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 2,
+        "DARK": 6
+      }
+    }
+  ]
 }
