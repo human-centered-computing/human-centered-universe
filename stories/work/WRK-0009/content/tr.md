@@ -1,17 +1,73 @@
-# Devir
+# WRK-0009 — Devir
 
-Listedeki isimler değişti. Bir sabah tanıdığım bir isim yoktu. Yeni bir isim geldi.
+Bir adam gitti.
 
-Masa kaldı. Dosyalar kaldı. Şifreler değişti.
+Yerine başka biri geldi.
 
-Gelen kişiye talimat verildi. Ama talimat hafıza değildi.
+Bana:
 
-Bir dosyanın neden önemli olduğunu anlatmaya çalıştım. Bunun için bir alan yoktu. Bir geçmiş anlattım. Kaydedilecek yeri yoktu.
+“Bunları anlat.”
 
-Her devir süreklilik vaat eder. Ama küçük uyarıları, kararların nedenlerini, isimleri ve yalnızca birinin zihninde yaşayan bilgiyi de siler.
+dediler.
 
-Yıllar sonra ben de devredildim. Masa gösterildi, liste gösterildi, şifre verildi.
+Dosyaları gösterdim.
 
-Kimse yılları vermedi.
+Kâğıtları.
 
-Kurumlar sorumluluğu deneyimden çok daha kolay devreder.
+İmzaları.
+
+Kayıtları.
+
+Sonra kâğıtta olmayanları anlattım.
+
+“Bu adam böyle konuşur.”
+
+“Şu dosyayı unutma.”
+
+“Burada biraz bekle.”
+
+“Bunu yazmazlar ama bil.”
+
+Yeni gelen not aldı.
+
+“Başka?”
+
+“Var.”
+
+“Ne?”
+
+“Burada bazı şeyleri bilmek için uzun süre kalmak gerekir.”
+
+“Ne kadar?”
+
+“Bilmiyorum.”
+
+Adam gitti.
+
+Ben kaldım.
+
+Bir süre sonra ben de başka birine devrettim.
+
+Sonra başka biri bana devretti.
+
+İnsanlar değişti.
+
+Kâğıtlar kaldı.
+
+Masa kaldı.
+
+Numaralar kaldı.
+
+Ama insanların yaşarken öğrendiği küçük haritalar kayboldu.
+
+Bir gün yıllar önce ayrılmış birinin notunu buldum.
+
+Bir cümle vardı:
+
+“Buraya gelen herkes önce dosyaları öğrenir. Sonra dosyaların insanlardan daha kolay hatırlandığını fark eder.”
+
+Altında imza yoktu.
+
+Kimin yazdığını bilmiyordum.
+
+Belki de bazı şeyler özellikle isimsiz kalıyordu.
