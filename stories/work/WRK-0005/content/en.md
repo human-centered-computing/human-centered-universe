@@ -1,17 +1,77 @@
-# The Meeting
+# The Gathering
 
-The meeting began at ten. At ten fifteen we were still deciding how to begin. At ten thirty someone suggested another meeting.
+One day we were called.
 
-There was an agenda. We discussed the first item, then whether it should be discussed.
+They did not say where we were going.
 
-After an hour someone said, “We should decide.” Everyone agreed.
+“Gather.”
 
-The decision was to prepare a document. The document required another meeting.
+Everyone stood.
 
-The minutes arrived two days later. They recorded everything precisely, including what we had supposedly agreed.
+We entered a room.
 
-I could not find the moment when we agreed.
+Chairs were arranged.
 
-Once I calculated how many hours we spent discussing the use of hours. The number was larger than expected.
+The door closed.
 
-After that I stopped looking at the clock during meetings. Not because time had stopped, but because everyone already knew it was passing.
+For a while nobody spoke.
+
+Then someone stood.
+
+He said something.
+
+Someone else answered.
+
+Another person took notes.
+
+At one point they spoke about someone waiting outside.
+
+What he should do.
+
+How much longer he could wait.
+
+Why he was late.
+
+Inside, we were talking about him.
+
+Outside, he was waiting for us.
+
+At the end we were told a decision would be made.
+
+No decision was made.
+
+“Let us meet again.”
+
+Everyone stood.
+
+We went into the corridor.
+
+The man outside was still there.
+
+“What did you decide?” he asked.
+
+Nobody answered.
+
+After a while I stopped wondering why meetings were held.
+
+Sometimes we gathered not to decide, but to make it look as though a decision had been made.
+
+Sometimes simply being in the same room was considered enough.
+
+One day I heard someone ask:
+
+“How many hours did we spend together today?”
+
+“Three.”
+
+“And what did we do?”
+
+Silence.
+
+“We gathered.”
+
+I wrote that down.
+
+Then I tore up the note.
+
+Some sentences look more important once they enter the record.
