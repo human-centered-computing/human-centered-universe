@@ -1,17 +1,77 @@
-# The Rumor
+# What Is Said
 
-Official information arrived slowly. Rumors arrived first. Nobody trusted them. Everybody listened.
+Official information arrived slowly.
 
-Someone said the list would change. Another said the room would move. Someone else said a person would be transferred.
+What people said arrived first.
 
-Nothing was confirmed. Everything was discussed.
+One morning everyone was quiet.
 
-I learned that uncertainty creates its own institution. When people do not know what will happen, they build explanations, and explanations travel faster than documents.
+Something had happened.
 
-One day I asked where a rumor had started.
+Nobody knew what.
 
-“Nobody knows. That is how I heard it.”
+By noon there were three stories.
 
-The worst part was not knowing whether it was true. It was changing your behavior before you knew.
+Someone was leaving.
 
-The rumor changed the room before reality arrived.
+Someone was arriving.
+
+A place was being changed.
+
+By evening there was a fifth story.
+
+Which one was true?
+
+Nobody knew.
+
+But the next morning people's behavior had changed.
+
+Some kept away from those who might be affected.
+
+Some tried harder to make themselves visible.
+
+Some became quieter.
+
+A rumor did not need to be true.
+
+It only needed people to believe it.
+
+One day someone came to me.
+
+“They are talking about you too.”
+
+“What are they saying?”
+
+“I do not know.”
+
+“Who told you?”
+
+“I do not know.”
+
+“Then why did you tell me?”
+
+He shrugged.
+
+“I heard it too.”
+
+That was how rumor worked.
+
+Nobody owned it.
+
+Everyone carried it.
+
+Later the official paper arrived.
+
+None of the rumors was true.
+
+By then it no longer mattered.
+
+People had already changed places.
+
+Some had changed their decisions.
+
+Some had stopped trusting one another.
+
+The paper brought the truth.
+
+The rumor had already changed the room.
