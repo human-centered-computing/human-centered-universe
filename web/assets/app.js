@@ -287,10 +287,12 @@ function trianglePoint(w){
 }
 function renderExplore(){
   const stories=orderedStories();
+  const categoryCounts=CENTER_KEYS.reduce((acc,center)=>{ acc[center]=stories.filter(s=>primaryCenter(s)===center).length; return acc; },{});
   const points=stories.map(s=>{ const pt=trianglePoint(storyWeights(s)); const read=state.readIds.has(s.id); const label=`${storyTitle(s)} · ${formatWeights(storyWeights(s))}`; return `<g class="triangle-node" data-story="${s.id}" tabindex="0" role="button" aria-label="${escapeHtml(label)}"><circle cx="${pt.x}" cy="${pt.y}" r="${s.id===state.data.origin_node?9:6}" class="${primaryCenter(s)} ${read?"read":""}"><title>${escapeHtml(label)}</title></circle></g>`; }).join("");
   const cards=stories.map(s=>`<article class="story-node" data-story="${s.id}" tabindex="0" role="button"><div><span class="node-id">${escapeHtml(s.id)}</span><span class="badge ${primaryCenter(s)}">${escapeHtml(centerLabel(primaryCenter(s)))}</span>${state.readIds.has(s.id)?`<span class="read-dot">${t("read_status","Read")}</span>`:""}</div><h3>${escapeHtml(storyTitle(s))}</h3><p>${escapeHtml(storySummary(s))}</p>${weightBars(storyWeights(s))}</article>`).join("");
   app.innerHTML=`<section>
     <div class="explore-head"><div><h1>${t("explore","Explore")}</h1><p>${t("explore_triangle_intro","HUMAN + LIGHT + DARK = 100. Every node occupies a position in the same triangular state space.")}</p></div><input id="story-search" class="search-box" type="search" placeholder="${t("search","Search stories")}"></div>
+    <div class="explore-counts" aria-label="Story counts by category">${CENTER_KEYS.map(center=>`<div class="explore-count"><span class="badge ${center}">${escapeHtml(centerLabel(center))}</span><strong>${categoryCounts[center]}</strong><small>${escapeHtml(t("stories_count_label","stories"))}</small></div>`).join("")}</div>
     <div class="triangle-card"><svg viewBox="0 0 600 500" aria-label="${escapeHtml(t("triangle_state_space","HCU triangular state space"))}"><polygon points="300,45 55,455 545,455" class="triangle-shape"/><text x="300" y="27" text-anchor="middle" class="triangle-label HUMAN">${escapeHtml(centerLabel("HUMAN")).toUpperCase()}</text><text x="45" y="485" text-anchor="start" class="triangle-label LIGHT">${escapeHtml(centerLabel("LIGHT")).toUpperCase()}</text><text x="555" y="485" text-anchor="end" class="triangle-label DARK">${escapeHtml(centerLabel("DARK")).toUpperCase()}</text>${points}</svg></div>
     <div id="node-grid" class="node-grid">${cards}</div>
   </section>`;
