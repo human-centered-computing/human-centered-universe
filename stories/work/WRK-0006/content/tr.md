@@ -1,21 +1,77 @@
-# İzin
+# WRK-0006 — Dışarı Çıkmak
 
-İzin tuhaf bir kelimeydi. Yokluk demekti ama aynı zamanda izin verilmesi demekti.
+Bir gün dışarı çıkmam gerekti.
 
-Ayrılmak için onay gerekiyordu. Yer bensiz devam edebilirdi. Ben yer olmadan devam etmeyi her zaman düşünemiyordum.
+Önce nedenini sordular.
 
-Bazıları izinlerini biriktirirdi. Aylar geçer, günler birikirdi.
+“Bir işim var.”
 
-“Neden kullanmıyorsun?”
+“Ne işi?”
+
+“Özel.”
+
+Karşımdaki adam yüzüme baktı.
+
+“Burada özel diye bir şey yok.”
+
+Bir kâğıt uzattı.
+
+Nereye gideceğimi yazdım.
+
+Ne zaman döneceğimi yazdım.
+
+İmzaladım.
+
+Sonra bekledim.
+
+İzin çıktı.
+
+Kapıya geldim.
+
+Kâğıda baktılar.
+
+Sonra bana.
+
+“Dönüş saatin?”
+
+Söyledim.
+
+Kapı açıldı.
+
+Dışarı çıktım.
+
+Birkaç saat sonra geri döndüm.
+
+Kapı yine açıldı.
+
+İçeri girdim.
+
+“Hoş geldin.”
+
+dediler.
+
+Bu cümle beni rahatsız etti.
+
+Çünkü gerçekten hoş gelmiş miydim?
+
+Yoksa yalnızca geri dönmüş müydüm?
+
+Bir süre sonra izin günleri birikmeye başladı.
+
+Bazıları izinlerini kullanmıyordu.
+
+“Neden?”
 
 “Nereye gideceğim?”
 
-Bir hafta izin aldım. Masam boş kaldı. Hiçbir şey çökmemişti. Biri geçici olarak oturdu. Dosyalar hareket etti, telefonlar cevaplandı.
+Bir adam yıllarca izin biriktirdi.
 
-Döndüğümde her şey neredeyse aynıydı.
+Sonunda dışarı çıktığında ne yapacağını bilmiyordu.
 
-Özleneceğimi düşünmüştüm. Yokluğun sıradan olabileceğini gördüm.
+Bunu görünce izin ile özgürlük arasında fark olduğunu düşündüm.
 
-Sistem bensiz yaşayabiliyorsa neden onsuz yaşayamayacağımı düşünmüştüm?
+İzin, dışarı çıkabilmekti.
 
-Cevaplamadım. Yalnızca izin ile gerçekten ayrılabilme arasındaki farkı görmeye başladım.
+Özgürlük ise dışarı çıktıktan sonra nereye gideceğine kimsenin karar vermemesiydi.
+
+Bu ikinci kısmın daha zor olduğunu o zaman anlamadım.
