@@ -1,7 +1,7 @@
 {
   "id": "WRK-0005",
-  "title": "The Meeting",
-  "original_title": "Toplantı",
+  "title": "The Gathering",
+  "original_title": "Toplanma",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -49,11 +49,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Toplantı",
+      "title": "Toplanma",
       "summary": "Çalışma Evinden Anılar döngüsünde toplantı üzerine parçalı bir bölüm."
     },
     "en": {
-      "title": "The Meeting",
+      "title": "The Gathering",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
