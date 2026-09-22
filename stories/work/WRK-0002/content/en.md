@@ -1,33 +1,67 @@
-# The Clock
+# Before Eight
 
-## Eight
+After a while I no longer needed to ask what time it was.
 
-The first thing I learned was not a rule. It was a time.
+I knew when I woke.
 
-Eight.
+At first an alarm woke me. Then I began waking before it.
 
-At eight, the doors opened. At eight, names became visible. The day began whether the body was ready or not.
+One morning it was 6:42.
 
-One morning I arrived eight minutes late. Nobody shouted. Someone looked at the clock, then at me.
+It was early.
 
-“You are late.”
+I got up anyway.
 
-I wanted to explain that the work had not begun without me. He did not ask.
+Nobody had told me to prepare.
 
-## Twelve
+I prepared.
 
-At twelve, the rhythm changed. People stood, ate, returned. For a short while nobody asked what had been completed.
+Inside, the clock was not only on the wall. It was in the corridor. On doors. On papers. In people's faces.
 
-Then the clock moved again.
+When someone was late, people looked at the clock first.
 
-## Five
+When someone had to leave early, they pointed to the time.
 
-At five, people began to leave. Those who stayed were sometimes called dedicated.
+When a task took too long:
 
-Years later I understood that the clock did not merely tell us when to arrive and leave. It taught us to divide ourselves into permitted pieces.
+“Time is running out.”
 
-## Inside
+Sometimes people talked more about how long a task had taken than about what it had done.
 
-One evening the clock on the wall stopped. Nobody noticed for several minutes. We continued working.
+One day the wall clock stopped.
 
-The clock had already moved inside us.
+Nobody noticed for several minutes.
+
+Then someone asked:
+
+“What time is it?”
+
+Everyone looked at another clock.
+
+Phones came out.
+
+The clock was taken down.
+
+Until a new one arrived, people still came and left at the same hours.
+
+That day I saw that the order could continue without a clock.
+
+Later I stopped worrying when the clock broke.
+
+The real clock was already working inside us.
+
+One night I woke at three.
+
+I stared at the ceiling.
+
+Then I thought about the next morning.
+
+I went back to sleep.
+
+I woke before the alarm.
+
+Once the clock told me when the day began.
+
+Now the clock only reminded me of something I already knew.
+
+I was the one who decided that the day had begun.
