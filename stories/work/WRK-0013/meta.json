@@ -1,7 +1,7 @@
 {
   "id": "WRK-0013",
-  "title": "The Sick Day",
-  "original_title": "Hastalık Günü",
+  "title": "The Body",
+  "original_title": "Beden",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -48,11 +48,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Hastalık Günü",
+      "title": "Beden",
       "summary": "Çalışma Evinden Anılar döngüsünde hastalık günü üzerine parçalı bölüm."
     },
     "en": {
-      "title": "The Sick Day",
+      "title": "The Body",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
