@@ -160,24 +160,6 @@
       "voice": "en_US-lessac-medium"
     },
     {
-      "id": "BRG-0020",
-      "title": "Memories from the House of Work",
-      "file": "./BRG-0020.mp3",
-      "duration_seconds": 563.513,
-      "bytes": 6762520,
-      "engine": "Piper",
-      "voice": "en_US-lessac-medium"
-    },
-    {
-      "id": "BRG-0021",
-      "title": "The Clock",
-      "file": "./BRG-0021.mp3",
-      "duration_seconds": 50.338,
-      "bytes": 604414,
-      "engine": "Piper",
-      "voice": "en_US-lessac-medium"
-    },
-    {
       "id": "BRG-0015",
       "title": "The School That Refused to Compete: Maran and the First Human-Centered Transformation School",
       "file": "./BRG-0015.mp3",
@@ -237,6 +219,15 @@
       "file": "./HUM-0005.mp3",
       "duration_seconds": 941.244,
       "bytes": 11295287,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
+      "id": "WRK-0016",
+      "title": "Outside",
+      "file": "./WRK-0016.mp3",
+      "duration_seconds": 143.569,
+      "bytes": 1723186,
       "engine": "Piper",
       "voice": "en_US-lessac-medium"
     },
