@@ -1,21 +1,77 @@
-# Sandalye
+# WRK-0003 — Yer
 
-Çok sandalye vardı. Neredeyse aynı görünüyorlardı.
+İnsanlar yerlerini kolay unutmaz.
 
-Biri daha büyüktü, biri pencereye yakındı, biri başka bir masanın arkasındaydı. Farkı kimin nerede oturduğunu izleyerek öğrendim.
+Ben de unutmadım.
 
-Bir sabah boş bir sandalyeye oturdum.
+İlk yerim kapıya yakındı. Kapının açılıp kapanmasını görebiliyordum.
 
-“O senin yerin değil.”
+Sonra beni başka yere aldılar.
 
-İşaret yoktu. İsim yoktu. Yalnızca sandalye vardı. Kalktım.
+Pencerenin yanı.
 
-Bazı sandalyeler daha yüksekti. Onlarda oturanlar daha az konuşur ama sözleri daha uzağa giderdi. Hiyerarşinin bazen yalnızca mobilyaya ihtiyacı olduğunu anladım.
+Sonra koridorun sonu.
 
-Yıllar sonra biri gitti. Sandalyesi boş kaldı.
+Yer değiştikçe insanların bana bakışı değişti.
 
-Kişi gitmişti ama yeri kalmıştı.
+Bir gün boş bir sandalyeye oturdum.
 
-Sonunda kendi sandalyemi buldum. Şeklini fark etmemeye başladım.
+“Orası senin değil.”
 
-Beni korkutan buydu: sandalye doğal geldiğinde, nerede olmamız gerektiğini söyleyecek kimseye ihtiyaç kalmıyordu.
+“Neresi benim?”
+
+Kendi yerimi gösterdiler.
+
+Sandalyeler birbirine benziyordu.
+
+Ama aynı değildi.
+
+Bazılarında insanlar daha yüksek sesle konuşurdu.
+
+Bazılarında daha sessiz.
+
+Bazı sandalyelerde oturanlar bekletilmezdi.
+
+Bazılarında oturanlar çağrılmayı beklerdi.
+
+Bir gün bir adam geldi. Benim yanımdaki sandalyeye baktı.
+
+“Burası boş mu?”
+
+“Boş.”
+
+Oturmak üzereyken durdu.
+
+“Gerçekten boş mu?”
+
+Ne demek istediğini anlamadım.
+
+Sonra sandalye boş olduğu halde neden kimsenin ona oturmadığını öğrendim.
+
+Bir yer boş kalabilir.
+
+Ama sahipsiz olmayabilir.
+
+Yıllar sonra bana daha iyi bir yer verdiler.
+
+İnsanlar daha dikkatli konuşmaya başladı.
+
+Aynı bendim.
+
+Sadece yerim değişmişti.
+
+O zaman insanın bazen kendi değerini değil, bulunduğu yerin değerini taşıdığını düşündüm.
+
+Bir süre sonra yeni gelenlere yer gösteren ben oldum.
+
+“Buraya otur.”
+
+dedim.
+
+Bunu söylerken ilk günkü sesi hatırladım.
+
+Bana gösterilen yer artık benim elimdeydi.
+
+Sandalye değişmişti.
+
+Cümle aynı kalmıştı.
