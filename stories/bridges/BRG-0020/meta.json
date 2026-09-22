@@ -6,75 +6,28 @@
   "status": "canon",
   "source_language": "en",
   "book_order": 20,
-  "culture": [
-    "transcultural"
-  ],
-  "belief_context": [
-    "philosophical",
-    "social",
-    "literary",
-    "science-fiction"
-  ],
+  "culture": ["transcultural"],
+  "belief_context": ["philosophical", "social", "literary", "science-fiction"],
   "summary": "A fragmented memoir of a place that can be read as a workplace or a closed institution. Through people, routines, hierarchy, performance, invisible labor, stolen ideas and silence, the narrator gradually discovers how a system can reshape the human being who enters it.",
   "reality_weaving": {
     "mode": "woven",
-    "reality_roots": [
-      "Modern work routines",
-      "Institutional hierarchy",
-      "Human labor and organizational measurement"
-    ],
+    "reality_roots": ["Modern work routines", "Institutional hierarchy", "Human labor and organizational measurement"],
     "imaginative_transformation": "The workplace and the closed house overlap without either being named as the sole reality.",
     "emergent_question": "When a person freely enters a system every day, where does obligation end and freedom begin?"
   },
   "translations": {
-    "en": {
-      "status": "canonical",
-      "human_reviewed": true
-    },
-    "tr": {
-      "status": "machine_draft",
-      "human_reviewed": false
-    },
-    "de": {
-      "status": "machine_draft",
-      "human_reviewed": false
-    },
-    "es": {
-      "status": "machine_draft",
-      "human_reviewed": false
-    },
-    "fr": {
-      "status": "machine_draft",
-      "human_reviewed": false
-    },
-    "it": {
-      "status": "machine_draft",
-      "human_reviewed": false
-    },
-    "ru": {
-      "status": "machine_draft",
-      "human_reviewed": false
-    },
-    "zh-CN": {
-      "status": "machine_draft",
-      "human_reviewed": false
-    },
-    "ja": {
-      "status": "machine_draft",
-      "human_reviewed": false
-    },
-    "ar": {
-      "status": "machine_draft",
-      "human_reviewed": false
-    },
-    "ku": {
-      "status": "machine_draft",
-      "human_reviewed": false
-    },
-    "pt": {
-      "status": "machine_draft",
-      "human_reviewed": false
-    }
+    "en": {"status": "canonical", "human_reviewed": true},
+    "tr": {"status": "reviewed", "human_reviewed": true},
+    "de": {"status": "machine_draft", "human_reviewed": false},
+    "es": {"status": "machine_draft", "human_reviewed": false},
+    "fr": {"status": "machine_draft", "human_reviewed": false},
+    "it": {"status": "machine_draft", "human_reviewed": false},
+    "ru": {"status": "machine_draft", "human_reviewed": false},
+    "zh-CN": {"status": "machine_draft", "human_reviewed": false},
+    "ja": {"status": "machine_draft", "human_reviewed": false},
+    "ar": {"status": "machine_draft", "human_reviewed": false},
+    "ku": {"status": "machine_draft", "human_reviewed": false},
+    "pt": {"status": "machine_draft", "human_reviewed": false}
   },
   "links": [
     {
