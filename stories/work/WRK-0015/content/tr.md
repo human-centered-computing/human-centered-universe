@@ -1,25 +1,77 @@
-# Son Fazladan İş
+# WRK-0015 — Fazladan
 
-Yıllarca mesai saatinden sonra kaldım. Her zaman bir dosya, bir mesaj, bir sorun daha vardı. Buna sorumluluk diyordum.
+Yıllarca fazladan kaldım.
 
-Bir akşam saate baktım. İş bitmemişti.
+Bir dosya daha.
 
-“Her şeyi bitirmem gerektiğini kim söyledi?”
+Bir saat daha.
 
-Kimse cevap vermedi.
+Bir açıklama daha.
 
-Dosyayı kapattım, kalanı yazdım ve çıktım.
+Birinin işi yetişsin diye biraz daha.
 
-Hiçbir şey olmadı. Ertesi sabah dünya hâlâ yerindeydi.
+Bunu sorumluluk sandım.
 
-Biri “Eskiden kalırdın,” dedi.
+Bir akşam saat ilerledi.
 
-“Evet.”
+Herkes gitmeye başladı.
 
-“Artık neden kalmıyorsun?”
+Bana bir dosya verdiler.
 
-“Başka zamanlarım var.”
+“Bunu da bugün.”
 
-Sorumluluktan kaçmıyordum. Sorumluluğun sürekli hazır bulunmak anlamına gelmesini reddediyordum.
+Dosyaya baktım.
 
-Son fazladan yaptığım işi hatırlıyorum. Önemli olduğu için değil; bir gereksiz saate hayır demenin, saatlerin ne için olduğunu sormak olduğunu anladığım için.
+Saate baktım.
+
+“Yarın.”
+
+“Bugün olması gerekiyor.”
+
+“Yarın yaparım.”
+
+“Sen yaparsan daha kolay.”
+
+“Biliyorum.”
+
+“Öyleyse?”
+
+Dosyayı kapattım.
+
+“Bugün yapmayacağım.”
+
+Karşımdaki kişi sustu.
+
+Dosyayı aldı.
+
+Gitti.
+
+Kapıdan çıktım.
+
+Kimse arkamdan gelmedi.
+
+Bir süre dışarıda yürüdüm.
+
+Dünyanın hâlâ yerinde olduğunu görünce şaşırdım.
+
+Ertesi sabah içeri girdiğimde herkes çalışıyordu.
+
+Dosya başka birine verilmişti.
+
+İş yapılmıştı.
+
+Benim fazladan saatim olmadan da.
+
+Bunu düşünmek kolay değildi.
+
+Çünkü yıllarca kendime gerekli olduğumu anlatmıştım.
+
+Belki gerekli olan bendim.
+
+Belki yalnızca hazır bulunmam.
+
+Belki de sistem, hazır bulunan insanı vazgeçilmez sanıyordu.
+
+O gün ilk kez fazladan emeğin her zaman değer yaratmadığını düşündüm.
+
+Bazen yalnızca sınırı geciktiriyordu.
