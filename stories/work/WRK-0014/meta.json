@@ -1,0 +1,94 @@
+{
+  "id": "WRK-0014",
+  "title": "The Replacement",
+  "original_title": "Yerine Gelen",
+  "core": "WORK",
+  "status": "canon",
+  "source_language": "en",
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "philosophical",
+    "social",
+    "literary"
+  ],
+  "summary": "A fragmented memoir chapter about yerine gelen in the House of Work cycle.",
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "Modern work routines",
+      "Institutional hierarchy",
+      "Human labor and organizational measurement"
+    ],
+    "imaginative_transformation": "The workplace and closed-house readings remain simultaneously plausible.",
+    "emergent_question": "What remains human when a system becomes internalized?"
+  },
+  "translations": {
+    "en": {
+      "status": "canonical",
+      "human_reviewed": true
+    },
+    "tr": {
+      "status": "reviewed",
+      "human_reviewed": true
+    }
+  },
+  "links": [
+    {
+      "target": "WRK-0013",
+      "type": "memory",
+      "note": "The previous work chapter echoes into this one."
+    },
+    {
+      "target": "WRK-0015",
+      "type": "future",
+      "note": "The next chapter carries the transformation forward."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Yerine Gelen",
+      "summary": "Çalışma Evinden Anılar döngüsünde yerine gelen üzerine parçalı bölüm."
+    },
+    "en": {
+      "title": "The Replacement",
+      "summary": "A fragmented chapter of the House of Work cycle."
+    }
+  },
+  "observer_choices": [
+    {
+      "key": "human",
+      "label": "Follow the human meaning and lived experience.",
+      "effects": {
+        "HUMAN": 6,
+        "LIGHT": 2,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "light",
+      "label": "Seek clarity, structure, and understanding.",
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 6,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "dark",
+      "label": "Follow the unresolved tension and freedom.",
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 2,
+        "DARK": 6
+      }
+    }
+  ],
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 45,
+    "LIGHT": 30,
+    "DARK": 25
+  }
+}
