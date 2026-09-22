@@ -1,0 +1,46 @@
+{
+  "id": "BRG-0023",
+  "title": "The Form",
+  "themes": [
+    "work",
+    "institution",
+    "human agency"
+  ],
+  "narrative_form": "short bridge narrative",
+  "temporal_model": "linked observation",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 45,
+    "LIGHT": 30,
+    "DARK": 25
+  },
+  "observer_choices": [
+    {
+      "key": "human",
+      "label": "Follow the human meaning and lived experience.",
+      "effects": {
+        "HUMAN": 6,
+        "LIGHT": 2,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "light",
+      "label": "Seek clarity, structure, and understanding.",
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 6,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "dark",
+      "label": "Follow the unresolved tension.",
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 2,
+        "DARK": 6
+      }
+    }
+  ]
+}
