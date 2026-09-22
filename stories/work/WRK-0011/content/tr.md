@@ -1,17 +1,67 @@
-# Yemek
+# WRK-0011 — Yemek
 
-Öğlen bir şey değişirdi. Sandalyeler yaklaşır, insanlar farklı konuşurdu. Kısa bir süre kimse unvan olmazdı.
+Yemek saatinde herkes değişirdi.
 
-Biri çocuğundan bahsederdi. Biri gülerdi. Biri ekmek paylaşırdı. Biri diğerine yorulup yorulmadığını sorardı.
+Bunu ilk yıllarda anlamadım.
 
-Kimse sayı sormazdı.
+Masaya oturunca dosyalar susardı.
 
-Masanın hiyerarşisi yoktu, en azından bir süreliğine.
+Saat bir süreliğine önemini kaybederdi.
 
-Sonra saat ilerlerdi. İnsanlar kalkar, unvanlar geri gelirdi. Masalar ve sayılar beklerdi.
+Biri çocuğundan söz ederdi.
 
-Hiçbir şey olmamış gibi odalara dönerdik.
+Biri evinden.
 
-Ama ben hatırlardım.
+Biri parasından.
 
-Sistem insanları ölçmeyi bıraktığında insan görünür olurdu.
+Biri hastalığından.
+
+Bir adam ekmeğini ikiye bölerdi.
+
+Bir başkası çorbasından verirdi.
+
+Kimse bunları saymazdı.
+
+Kimse:
+
+“Bugün kaç kişiye yardım ettin?”
+
+diye sormazdı.
+
+Belki bu yüzden konuşmak daha kolaydı.
+
+Bir gün yaşlı adam:
+
+“Burada insan olduğunu en çok ne zaman hatırlıyorsun?” diye sordu.
+
+“Yemekte.”
+
+“Ben de.”
+
+Bir süre sustu.
+
+Sonra:
+
+“İş bittiğinde de.”
+
+dedi.
+
+“Neden?”
+
+“Çünkü o zaman senden bir şey istemiyorlar.”
+
+Tam o sırada zil çaldı.
+
+Herkes kalktı.
+
+Sandalyeler çekildi.
+
+Konuşmalar yarım kaldı.
+
+İnsanlar yeniden yerlerine döndü.
+
+Biraz önce gülümseyen yüzler ciddileşti.
+
+O gün anladım:
+
+Bazen insanın insan olarak görünmesi için sistemin onu bir süre ölçmeyi bırakması yetiyordu.
