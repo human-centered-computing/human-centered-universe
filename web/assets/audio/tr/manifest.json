@@ -187,6 +187,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "BRG-0021",
+      "title": "Saat",
+      "file": "./BRG-0021.mp3",
+      "duration_seconds": 58.149,
+      "bytes": 698141,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "COM-0006",
       "title": "Bağlandığın Anda Evren Değişir",
       "file": "./COM-0006.mp3",
