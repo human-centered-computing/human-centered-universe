@@ -1,17 +1,69 @@
-# Hastalık Günü
+# WRK-0013 — Beden
 
-Sistemin bir programı vardı. Bedenin yoktu.
+Sistemin bir saati vardı.
 
-Bir sabah düzgün ayağa kalkamadım. Aradım. İlk soru “İyi misin?” olmadı. “İşi kim yapacak?” oldu.
+Bedenin yoktu.
 
-Soruyu anlıyordum. İş devam etmeliydi. Ama bedenimin bir kesinti olduğu fikrine içimden biri karşı çıktı.
+Bir sabah kalkamadım.
 
-Mesajlar geldi: “Dosyayı gönderebilir misin?” “Belge nerede?” “Bir şey daha var.”
+Saat çaldı.
 
-Benim olması gereken günün bir parçası hâlâ sisteme aitti.
+Susturdum.
 
-Akşam basit bir şeyi anladım: Makine kullanılabilirlik üzerine kurulabilir; insan kurulamaz.
+Tekrar çaldı.
 
-Döndüğümde sandalye, saat ve iş bekliyordu.
+Yine susturdum.
 
-Sadece bedenim beklemenin sınırları olduğunu öğrenmişti.
+Üçüncüde kalktım.
+
+Başım dönüyordu.
+
+Aradım.
+
+İlk soru:
+
+“Ne oldu?”
+
+değildi.
+
+“Bugün kim yapacak?”
+
+oldu.
+
+Soruyu anladım.
+
+İşin devam etmesi gerekiyordu.
+
+Ama o gün ilk kez kendimi bir işin eksik parçası gibi hissettim.
+
+Sonra mesajlar geldi.
+
+“Dosya nerede?”
+
+“Şunu gönderebilir misin?”
+
+“Bir şey daha var.”
+
+Bedenim yatakta kalmıştı.
+
+İşim hâlâ benimle konuşuyordu.
+
+Ertesi gün döndüm.
+
+Sandalye yerindeydi.
+
+Saat çalışıyordu.
+
+Dosya masadaydı.
+
+Kimse bedenimin dün ne yaptığını sormadı.
+
+Çünkü bedenin kaydı vardı, ama yaşadığı şeyin kaydı yoktu.
+
+O gün şunu düşündüm:
+
+Bir düzen, insanı görevlerine ayırabilir.
+
+Ama insanın yorgunluğunu, korkusunu, ağrısını ve dinlenme ihtiyacını aynı kolaylıkla parçalara ayıramaz.
+
+Beden bazen sistemin unuttuğu son tanıktı.
