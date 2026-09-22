@@ -1,0 +1,57 @@
+{
+  "id": "WRK-0001",
+  "title": "Memories from the House of Work",
+  "original_title": "Çalışma Evinden Anılar",
+  "core": "WORK",
+  "status": "canon",
+  "source_language": "en",
+  "book_order": 1,
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "philosophical",
+    "social",
+    "literary",
+    "science-fiction"
+  ],
+  "summary": "A fragmented memoir of a place that can be read as a workplace or a closed institution. Through people, routines, hierarchy, performance, invisible labor, stolen ideas and silence, the narrator gradually discovers how a system can reshape the human being who enters it.",
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "Modern work routines",
+      "Institutional hierarchy",
+      "Human labor and organizational measurement"
+    ],
+    "imaginative_transformation": "The workplace and the closed house overlap without either being named as the sole reality.",
+    "emergent_question": "When a person freely enters a system every day, where does obligation end and freedom begin?"
+  },
+  "translations": {
+    "en": {
+      "status": "canonical",
+      "human_reviewed": true
+    },
+    "tr": {
+      "status": "reviewed",
+      "human_reviewed": true
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0002",
+      "type": "echo",
+      "note": "The work house continues the Human-Centered Universe's exploration of how human beings create systems and are then reshaped by them."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Çalışma Evinden Anılar",
+      "summary": "Bir işyeri ya da kapalı bir kurum olarak okunabilen bir mekânın parçalı anıları. İnsanlar, rutinler, hiyerarşi, performans, görünmeyen emek, sahiplenilen fikirler ve sessizlik üzerinden sistemin insanı nasıl dönüştürebildiği anlatılır."
+    },
+    "en": {
+      "title": "Memories from the House of Work",
+      "summary": "A fragmented memoir of a place that can be read as a workplace or a closed institution."
+    }
+  },
+  "translation_working_source_language": "en"
+}
