@@ -1,7 +1,7 @@
 {
   "id": "WRK-0006",
-  "title": "The Leave",
-  "original_title": "İzin",
+  "title": "Going Outside",
+  "original_title": "Dışarı Çıkmak",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -49,11 +49,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "İzin",
+      "title": "Dışarı Çıkmak",
       "summary": "Çalışma Evinden Anılar döngüsünde i̇zin üzerine parçalı bir bölüm."
     },
     "en": {
-      "title": "The Leave",
+      "title": "Going Outside",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
