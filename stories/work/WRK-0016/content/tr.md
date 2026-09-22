@@ -1,29 +1,155 @@
-# İçimizdeki Ev
+# WRK-0016 — Dışarı
 
-Kimse istemediği halde sekizde geldim.
+Sonunda çıktım.
 
-O zaman anladım: Saat artık duvarda değildi. İçimdeydi.
+Ne kadar zaman geçtiğini bilmiyorum.
 
-Kimsenin söylemediği kurallara uyuyordum. Biri düzeltmeden kendimi düzeltiyordum. İşimi ölçüyor, sayılarımı karşılaştırıyordum. Oda boşken bile amirin sesini duyuyordum.
+Yıllar mı?
 
-Bir akşam kapının önünde durdum. İlk kez evden mi çıktığımı, yoksa evi yanımda mı taşıdığımı bilmiyordum.
+On yıllar mı?
 
-Dışarıda kimse sayı sormadı. Kimse nerede oturacağımı söylemedi. Kimse form vermedi.
+Bunu hesaplamadım.
 
-Bir talimat bekledim. Gelmedi.
+Kapı açıldı.
 
-“Kimse beni ölçmediğinde ben kimim?”
+Dışarı çıktım.
 
-Cevap vermedim. Soru yeterliydi.
+Kimse arkamdan gelmedi.
 
-Küçük şeylerle başladım: ne zaman duracağımı seçmek, neden diye sormak, saymadan dinlemek, isimleri hatırlamak, hakkını verene övgüyü vermek.
+Kimse:
 
-Ev kaybolmadı. Çok derine girmişti.
+“Geri dön.”
 
-Ama insanın içindeki bir ev değiştirilebilir. Bir oda açılabilir. Bir duvar taşınabilir. Bir kapı genişletilebilir.
+demedi.
 
-Artık evi yıkmak istemiyordum.
+Bir süre yürüdüm.
 
-Yeniden kurmak istiyordum.
+Sonra durdum.
 
-Ve onu yeniden kuracak kişi, içinde yaşayan kişi olmalıydı.
+Nereye gideceğimi bilmiyordum.
+
+Yıllarca ne zaman nerede olmam gerektiğini bilmiştim.
+
+Şimdi kimse söylemiyordu.
+
+Eve gittim.
+
+Ertesi sabah sekizde uyandım.
+
+Kimse çağırmamıştı.
+
+Yine de kalktım.
+
+Üzerimi giydim.
+
+Masaya oturdum.
+
+Saat sekiz on.
+
+Sekiz yirmi.
+
+Sekiz buçuk.
+
+Kimse gelmedi.
+
+Kapı açıktı.
+
+Kalktım.
+
+Kapının önünde durdum.
+
+Dışarı baktım.
+
+Sonra geri döndüm.
+
+İçerideki oda değişmemişti.
+
+Saat.
+
+Masa.
+
+Sandalye.
+
+Kâğıt.
+
+Hepsi yerindeydi.
+
+O zaman anladım:
+
+İçeriden çıkmak, kapıdan geçmekten daha uzun sürüyordu.
+
+Yıllarca bana kuralları öğretmişlerdi.
+
+Sonra kuralların hiçbirinin yazılı olmadığını fark ettim.
+
+Kendimi ben düzeltiyordum.
+
+Kimse çağırmadan geliyordum.
+
+Kimse söylemeden susuyordum.
+
+Kimse istemeden fazladan iş düşünüyordum.
+
+Kimse ölçmeden kendimi ölçüyordum.
+
+Dışarı çıkmıştım.
+
+Ama içerideki düzen benimle gelmişti.
+
+Masadaki boş kâğıdı aldım.
+
+İlk kez kimseden istenmeyen bir soru yazdım:
+
+**Bütün bunlar ne içindi?**
+
+Cevap gelmedi.
+
+Bekledim.
+
+Sonra beklemeyi bıraktım.
+
+Kâğıdı katladım.
+
+Cebime koydum.
+
+Kapıyı açtım.
+
+Bu kez dışarı çıktım.
+
+Arkamda bir kapı vardı.
+
+Önümde yol.
+
+İçimde ise hâlâ o ev.
+
+Onu yıkmak istemedim.
+
+Çünkü bazı evler yıkıldığında insan kendisini de altında bırakır.
+
+Duvarlarını yeniden düşünmek istedim.
+
+Saatin yerini değiştirmek.
+
+Kapının yönünü değiştirmek.
+
+Sandalyeyi gerektiğinde kaldırmak.
+
+Kâğıda ne için olduğunu sormak.
+
+Sayıların arkasındaki insanı görmek.
+
+Ve gerektiğinde:
+
+“Hayır.”
+
+diyebilmek.
+
+İlk kez kendi evimin içinde yürümeye başladım.
+
+Nereye gittiğimi bilmiyordum.
+
+Ama artık biri bana nereye gitmem gerektiğini söylemediği için kaybolmuş sayılmıyordum.
+
+Belki özgürlük dışarıda değildi.
+
+Belki yalnızca kapının anlamını değiştirmekle başlıyordu.
