@@ -1,7 +1,7 @@
 {
   "id": "WRK-0012",
-  "title": "The Rumor",
-  "original_title": "Söylenti",
+  "title": "What Is Said",
+  "original_title": "Söylenenler",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -48,11 +48,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Söylenti",
+      "title": "Söylenenler",
       "summary": "Çalışma Evinden Anılar döngüsünde söylenti üzerine parçalı bölüm."
     },
     "en": {
-      "title": "The Rumor",
+      "title": "What Is Said",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
