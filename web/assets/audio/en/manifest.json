@@ -169,6 +169,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "BRG-0021",
+      "title": "The Clock",
+      "file": "./BRG-0021.mp3",
+      "duration_seconds": 50.338,
+      "bytes": 604414,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "BRG-0015",
       "title": "The School That Refused to Compete: Maran and the First Human-Centered Transformation School",
       "file": "./BRG-0015.mp3",
