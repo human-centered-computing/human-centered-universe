@@ -1,19 +1,61 @@
-# İstisna
+# WRK-0008 — Bir Kezlik
 
-Kural açıktı. Herkes bilirdi. Herkes uyardı. Ta ki biri uymayana kadar.
+Kural açıktı.
 
-Geç geldi. Kimse geç kaldı demedi. Erken çıktı. Kimse yok yazmadı. Bir adımı atladı. Biri onun yerine tamamladı.
+Herkes bilirdi.
+
+Sonra biri uymadı.
+
+Geç geldi.
+
+Kimse bir şey söylemedi.
+
+Erken çıktı.
+
+Kimse arkasından bakmadı.
+
+Bir işi atladı.
+
+Başka biri tamamladı.
 
 “Neden?”
 
-“Ne yaptığını biliyor.”
+“Özel durum.”
 
-Kuralların iki katmanı olduğunu öğrendim. Biri yazılıdır. Diğeri yazının dışına kimin çıkabileceğine karar verir.
+Aynı şeyi başka biri yaptığında özel durum olmadı.
 
-Yeni gelenler ilk katmanı öğrenir. Eskiler ikincisini.
+“Kurallar var.”
 
-Bu yüzden aynı hareket birisi için hata, başka biri için takdir olabilir.
+Kuralların iki katmanı olduğunu o zaman öğrendim.
 
-Bir gün bana da istisna tanındı. Bunu iyilik sandım.
+Biri kâğıtta yazılıydı.
 
-Sonra mesajı anladım: kural mutlak değildi ve erişim önemliydi.
+Diğeri kâğıdın dışında.
+
+Yeni gelenler ilkini öğrenirdi.
+
+Eskiler ikincisini.
+
+Bir gün bana da bir istisna tanındı.
+
+Bunu iyilik sandım.
+
+Sonra bunun bir işaret olduğunu anladım.
+
+Bana kuralın herkes için aynı görünmediğini göstermişlerdi.
+
+Bir süre sonra ben de bazı şeyleri sormamaya başladım.
+
+Kimin neden çağrıldığını.
+
+Kimin neden beklemediğini.
+
+Kimin neden dışarı çıktığını.
+
+Kimin neden geri dönmediğini.
+
+İstisna büyüdükçe kural küçülüyordu.
+
+Ama düzen bozulmuyordu.
+
+Belki de düzenin önemli bir kısmı zaten kuralın kendisinde değil, kuralın kime nasıl uygulanacağını bilmekteydi.
