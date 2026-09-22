@@ -187,15 +187,6 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
-      "id": "BRG-0021",
-      "title": "Saat",
-      "file": "./BRG-0021.mp3",
-      "duration_seconds": 58.149,
-      "bytes": 698141,
-      "engine": "Piper",
-      "voice": "tr_TR-dfki-medium"
-    },
-    {
       "id": "COM-0006",
       "title": "Bağlandığın Anda Evren Değişir",
       "file": "./COM-0006.mp3",
@@ -264,6 +255,15 @@
       "file": "./HUM-0005.mp3",
       "duration_seconds": 1094.844,
       "bytes": 13138487,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
+      "id": "WRK-0001",
+      "title": "Çalışma Evinden Anılar",
+      "file": "./WRK-0001.mp3",
+      "duration_seconds": 172.669,
+      "bytes": 2072391,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
     },
