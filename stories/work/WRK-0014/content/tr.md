@@ -1,19 +1,79 @@
-# Yerine Gelen
+# WRK-0014 — Yerime Gelen
 
-Yeni kişi pazartesi geldi. Biri anahtarları, biri şifreyi, biri dosyaları verdi. Herkes çabuk öğreneceğini söyledi.
+Yeni kişi geldiğinde gençti.
 
-Kimse nedenleri vermedi.
+Benim ilk geldiğim zamanki gibi çok soru soruyordu.
 
-Bir dosyanın neden önemli olduğunu, bir kişinin neden farklı açıklamaya ihtiyaç duyduğunu, küçük bir istisnanın neden büyük bir sorunu önlediğini.
+“Bu kapı nereye çıkıyor?”
 
-Bunlar talimatlarda yoktu.
+“Bu kayıt neden tutuluyor?”
 
-Bir hata yaptı. Düzelttik. Sonra bir hata daha yaptı. Ben de aynı hataları yaptığımı hatırladım; o zaman nedenleri bilen insanlar hâlâ oradaydı.
+“Burada insanlar ne kadar kalıyor?”
 
-“Yerine gelen” sözü basitti; bir insanın başka birinin yerine geçip hiçbir şeyi değiştirmeyeceğini düşündürüyordu.
+“Bu yer neden boş?”
 
-Ama insanlar görünmeyen haritalar taşır. Biri gittiğinde harita da gider.
+Sorularını cevapladım.
 
-Yeni kişi sonunda öğrendi. Sonra başka biri geldi.
+Çünkü artık cevap vermeyi biliyordum.
 
-Sistem bedenleri değiştirmekte iyiydi; bedenlerin öğrendiklerini korumakta değil.
+Ona dosyaları gösterdim.
+
+Kayıtları.
+
+Kuralları.
+
+İnsanları.
+
+Sonra kâğıtta olmayanları anlatmaya çalıştım.
+
+“Şu kişiye dikkat et.”
+
+“Bu dosya burada bekler.”
+
+“Bunu yazmazlar.”
+
+“Bunu herkes bilir.”
+
+Bir gün bana:
+
+“Peki burada ne değişebilir?”
+
+diye sordu.
+
+Uzun süre sustum.
+
+“Bilmiyorum.”
+
+Ertesi gün benim yerime oturdu.
+
+Ben karşısında durdum.
+
+Sandalyenin aynı sandalye olduğunu gördüm.
+
+Masa aynıydı.
+
+Kâğıtlar aynıydı.
+
+İnsanların yüzleri aynıydı.
+
+Sadece ben yoktum.
+
+Bir süre sonra dışarı çıktım.
+
+Kapının önünde durup geriye baktım.
+
+İçeride yeni gelen oturuyordu.
+
+Benim yıllar önce oturduğum gibi.
+
+O anda anladım:
+
+İnsanlar değiştirilebiliyordu.
+
+Yerler kalıyordu.
+
+Fakat yerlerin taşıdığı görünmeyen hafıza her defasında biraz daha eksiliyordu.
+
+Bir insanın yerine biri gelebilirdi.
+
+Ama onun yaşadığı yılların yerine kimse gelemezdi.
