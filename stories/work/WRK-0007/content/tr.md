@@ -1,17 +1,65 @@
-# Sayı
+# WRK-0007 — Sayılanlar
 
-Ekranda bir sayı belirdi. Sonra bir tane daha. Kısa sürede her işin bir sayısı oldu.
+Bir gün herkes sayılmaya başladı.
 
-Daha fazla daha iyiydi: daha çok başvuru, form, kapanan iş.
+Kaç kişi?
 
-Bir gün biri “Sayıların arkasındaki insanlar ne olacak?” diye sordu. Soru tabloya sığmıyordu.
+Kaç saat?
 
-Dikkatle dinleyen bir doktoru hatırladım. Daha az hasta görürdü. Başka bir doktor hızlıydı ve çok hasta görürdü. İkinci sayı daha iyiydi; ama ilk doktor çoğu zaman diğerinin yalnızca ileriye gönderdiği sorunu çözerdi.
+Kaç iş?
 
-Tablo ziyaretleri sayabilirdi. Dikkati kolayca sayamazdı.
+Kaç sonuç?
 
-Ölçülebilen şeyi ödüllendirmeye başladık. İnsanlar uyum sağladı. Sayılar iyileşti.
+İlk başta sevindik.
 
-Başka bir şey sessizce bozuldu.
+Artık kimsenin emeği görünmez kalmayacaktı.
 
-Sistem açıkça bozulmuyordu. Yanlış şeyi başarıyla yapmayı öğreniyordu.
+Sonra sayıların nasıl üretildiğini öğrendik.
+
+Bir iş ikiye bölünebiliyorsa iki işti.
+
+Bir sorun hızlı kapanıyorsa daha iyiydi.
+
+Bir insan uzun konuşuyorsa zamanı tüketiyordu.
+
+Kısa konuşan daha verimli görünüyordu.
+
+Bir doktoru hatırlıyorum.
+
+Hastaları uzun dinlerdi.
+
+Sıra yavaş ilerlerdi.
+
+Başka bir doktor daha hızlıydı.
+
+Daha fazla insan görür, daha fazla sayı üretirdi.
+
+Tabloda ikinci doktor daha iyi görünüyordu.
+
+Fakat ilk doktorun dinlediği insanlar daha az geri geliyordu.
+
+Bunu ölçen bir sütun yoktu.
+
+Bir süre sonra insanlar ölçülebilen işleri seçmeye başladı.
+
+Kimse onlara bunu açıkça söylemedi.
+
+Sistem yalnızca neyi ödüllendirdiğini gösterdi.
+
+İnsanlar öğrendi.
+
+Sayılar yükseldi.
+
+Tablolar güzelleşti.
+
+Ama bazı sorunlar geri dönmeye başladı.
+
+İşler kapanıyordu.
+
+Sorunlar kapanmıyordu.
+
+O zaman şunu anladım:
+
+Yanlış şeyi çok iyi yaparsanız, sistem bunu başarı olarak kaydedebilir.
+
+Ve başarı sayısı yükseldikçe, yanlış şeyi yaptığınızı görmek daha da zorlaşabilir.
