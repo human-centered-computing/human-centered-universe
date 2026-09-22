@@ -1,415 +1,137 @@
-# Çalışma Evinden Anılar
+# WRK-0001 — İçeri Girdiğim Gün
 
-## İlk Gün
+Beni içeri aldıkları günü tam hatırlamıyorum.
 
-Beni kapıdan kimin geçirdiğini hatırlamıyorum. İçeride beni bekleyen bir yer olduğunu ve birinin, isteyip istemediğimi sormadan, orayı gösterdiğini hatırlıyorum.
+Kapının önünde beklediğimi hatırlıyorum. İçeriden çıkanlar vardı. İçeri girecekler vardı. Kimse acele etmiyordu ama herkesin bir zamanı vardı.
 
-“Buraya otur,” dedi.
+Adımı söyledim.
 
-Oturdum.
+Bir kâğıda baktılar.
 
-Her yerde insanlar vardı ama neredeyse kimse konuşmuyordu. Aynı hareketleri o kadar çok tekrar etmişlerdi ki bedenleri onları zihinlerinden önce öğrenmiş gibiydi.
+Sonra yüzüme.
 
-Bir şey yapmaya geldiğimi düşünüyordum.
+“Tamam.”
 
-Fikirlerim vardı. İnsanların kurduğu bir yerin yine insanlar tarafından başka türlü kurulabileceğine inanıyordum.
+Kapı açıldı.
 
-İçlerinden yaşlı biri bana bakıp gülümsedi.
+İçeri girdim.
 
-“Anlayacaksın,” dedi.
+Arkamdan kapanan kapının kilitlenip kilitlenmediğini o gün anlamadım.
 
-İşi anlayacağımı sandım.
+Bana bir yer gösterdiler.
 
-Yerini anlayacağımı bilmiyordum.
+“Burası senin.”
 
-## Kayıt
+Bir sandalye vardı. Masanın üzerinde boş bir kâğıt.
 
-Her geliş kaydedilirdi.
+Oturmadım. Önce etrafa baktım.
 
-Nedenini sordum.
+İnsanlar çalışıyor gibiydi. Bazıları konuşuyor, bazıları susuyor, bazıları önündeki kâğıtları tekrar tekrar okuyordu. Bir köşede saat vardı.
 
-“Geldiğini bilsinler diye.”
+Yanıma yaşlı bir adam geldi.
 
-“Ama buradayım.”
-
-“Bu aynı şey değil.”
-
-Bir insanın orada bulunması bana yeterli görünüyordu. Fakat ismin yanındaki işaret, insanın kendisinden daha önemliydi.
-
-Bir gün kaydı bırakmayı unuttum.
-
-O gün yaptığım hiçbir şey kaybolmamıştı. İş oradaydı. İnsanlar beni görmüştü. Sonuç masanın üzerindeydi.
-
-Yine de bir şey yanlıştı.
-
-İsmimin neden eksik olduğunu sordular.
-
-Anlattım.
-
-Dinlediler.
-
-Sonra kaydı düzeltmemi istediler.
-
-O zaman sistemlerin bazen var olanı değil, görünür olması gerektiğine karar verdikleri şeyi ölçtüğünü anlamaya başladım.
-
-## Kurallar
-
-Her yerde kurallar vardı.
-
-Bazıları yazılıydı. Bazıları ise kurala uymayanlara ne olduğunu izleyerek öğrenilirdi.
-
-Bir gün bir kuralın nedenini sordum.
-
-Yanımdaki adam düşündü.
-
-“Her zaman vardı.”
-
-“Bu bir neden değil.”
-
-Bana gereksiz derecede karmaşık bir şey söylemişim gibi baktı.
-
-“Elimizdeki neden bu.”
-
-Sonra sormayı bıraktım.
-
-Kuralı kabul ettiğim için değil; kuralın nedenini sormamayı öğrenmenin, kuralın kendisinden daha güçlü olduğunu gördüğüm için.
-
-## Amir Denilen Adam
-
-Her zaman sert değildi.
-
-Onu anlamayı zorlaştıran da buydu.
-
-Bazen birini gereksiz bir talepten korurdu. Bazen iyi bir öneriyi açıklama yapmadan reddederdi. Bazen dikkatle dinler, sonra hiçbir şey söylemezdi.
-
-İnsanlar konuşmadan önce yüzüne bakardı.
-
-Onun görünür kılabildiği şeyin, emredebileceği şey kadar önemli olduğunu fark ettim.
-
-Bir insanın emeği aylarca görünmeyebilirdi.
-
-Sonra onun birkaç sözüyle aynı emek önemli hale gelirdi.
-
-İnsanların yalnızca onayını değil, onun gördüğü dünyanın içinde var olmayı istediklerini anlamaya başladım.
-
-## Kimin Fikriydi?
-
-Gereksiz tekrarlardan hoşlanmayan bir adam vardı.
-
-Zor bir işi kolaylaştıracak basit bir yöntem bulmuştu. Bunu amire anlattı.
-
-Amir dinledi.
-
-“İlginç,” dedi.
-
-Hiçbir şey olmadı.
-
-Sonra başka bir toplantıda aynı fikir ortaya çıktı.
-
-“Bir süredir düşünüyorum,” diye başladı amir.
-
-Oda dinledi.
-
-Yöntem kabul edildi. Herkes gelişmeyi övdü.
-
-Fikri bulan adam sessizce oturdu.
-
-Sonra neden bir şey söylemediğini sordum.
-
-Omuz silkti.
-
-“Ne diyeceğim?”
-
-“Bunun senin fikrin olduğunu.”
-
-Gülümsemesi neşeli değildi.
-
-“İşe yarar hale gelmeden önce benim fikrimdi.”
-
-O zaman bir fikrin, onu üreten kişiye dokunulmadan da elinden alınabileceğini anladım.
-
-En kötüsü övgüyü kaybetmek değildi.
-
-Bir sonraki fikri sunmamayı öğrenmekti.
-
-## Görünmeyen Emek
-
-Adı neredeyse hiçbir yerde geçmeyen bir kadın vardı.
-
-Bir şey eksildiğinde fark ederdi.
-
-Bir hata bırakıldığında düzeltirdi.
-
-Birinin yardıma ihtiyacı olduğunda sorunu çoğu zaman çoktan anlamış olurdu.
-
-Onun işi sayılmazdı.
-
-Bir gün gelmedi.
-
-Yer çalışmaya devam etti ama kötü çalıştı.
-
-İnsanlar eksik parçaları aradı.
-
-Ancak o zaman, hiç kaydedilmemiş bir emeğin ne kadar çok şeyi ayakta tuttuğunu gördüler.
-
-Biri, “Bunu rapora eklemeliyiz,” dedi.
-
-Diğeri, “Nasıl ölçeceğiz?” diye cevap verdi.
-
-Kimse bilmiyordu.
-
-Emek gerçekti.
-
-Ölçüm değildi.
-
-## Sayılabilenler
-
-Yeni bir sistem geldi.
-
-Her şey ölçülecekti.
-
-İlk başta herkes sevindi.
-
-Sonunda emek görünür olacaktı.
-
-Kısa sürede herkes hangi hareketlerin sayı ürettiğini öğrendi.
-
-İnsanlar o hareketleri seçmeye başladı.
-
-İnsana yardım eden ama sayı üretmeyen işler ertelendi.
-
-Sayı üreten ama az şey çözen işler hızla tamamlandı.
-
-Tablolar güzelleşti.
-
-Ev daha yoğun görünmeye başladı.
-
-İnsanlar birbirini kutladı.
-
-Nedenini açıklayamasam da yer bana daha cansız görünüyordu.
-
-## Gizli Kalitesizlik
-
-Bir kişi hızıyla tanındı.
-
-Herkesten fazla iş tamamlıyordu.
-
-Sayıları mükemmeldi.
-
-Ama aynı sorunlar geri dönüyordu.
-
-İşleri bitirmeyi öğrenmişti; mutlaka çözmeyi değil.
-
-Kimse işlerin neden geri geldiğini sormuyordu.
-
-Sistem yalnızca kaç işin kapandığını soruyordu.
-
-İnsan, ölçüyü karşılayıp ölçünün arkasındaki amacı yine de başarısız bırakabilir.
-
-Garip ders buydu.
-
-Sayı ne kadar iyi görünürse, sayının göremediği şeye bakmak o kadar kolay unutuluyordu.
-
-## Yeni Gelen
-
-Yeni biri geldi.
-
-Sorular soruyordu.
-
-Bu kural neden var?
-
-Bu form neden var?
-
-Bu sıra neden böyle?
-
-Neden tekrar ediyoruz?
-
-Başta insanlar gülerdi.
-
-Sonra rahatsız olmaya başladılar.
-
-Sonunda biri ona:
-
-“İşleri zorlaştırma,” dedi.
-
-Anlamadı.
-
-Soruların işleri daha açık hale getirdiğini sanıyordu.
-
-Sonra değiştiğini gördüm.
-
-Eskiden reddettiği cevapları vermeye başladı.
-
-Başka bir yeni gelen neden böyle yapıldığını sorunca:
-
-“Burada böyle yapılır,” dedi.
-
-Sesini tanıdım.
-
-Bana anlayacağımı söyleyen adamın sesiydi.
-
-## Sessizler
-
-Herkesin fikri varmış gibi görünen odalar vardı.
-
-Kimse konuşmazdı.
-
-Bir gün nedenini sordum.
-
-“Daha önce konuştuk.”
-
-“Sonra?”
-
-“Hiçbir şey olmadı.”
-
-Bu cevap yetti.
-
-Sessizlik her zaman korkudan doğmaz.
-
-Bazen konuşmanın hiçbir şeyi değiştirmediğine dair tekrar tekrar görülen kanıttan doğar.
-
-Bir süre sonra sessizlik verimli hale gelir.
-
-Açıklama istemez.
-
-İz bırakmaz.
-
-Direniş olarak ölçülemez.
-
-## Fazlasını Yapma
-
-Bir adam her zaman gerekenden fazlasını yapardı.
-
-Diğerleri giderken kalırdı. Kendisine verilmemiş sorunları çözerdi. Sorumluluk taşırdı.
-
-Sonra bir gün durdu.
-
-Yazılanı yaptı.
-
-Daha fazlasını yapmadı.
-
-İnsanlar fark etti.
-
-“Eskiden daha fazlasını yapardın.”
+“İlk günün mü?”
 
 “Evet.”
 
-“Ne oldu?”
+“Birazdan alışırsın.”
 
-Önündeki işe baktı.
+“Neye?”
 
-“Bunu kimin için yaptığımı bilmeyi bıraktım.”
+Gülümsedi.
 
-Kimse cevap vermedi.
+“Buraya.”
 
-İş yine tamamlandı.
+Sonra gitti.
 
-Sayı fazla düşmedi.
+İlk gün bunun iyi niyetli bir söz olduğunu düşündüm.
 
-Sadece görünmeyen bir şey ortadan kalktı.
+Bana bir numara verdiler.
 
-## Başarının Sahibi
+“Adım var.”
 
-Bir şey başarısız olduğunda insanlar aşağıya baktı.
+“Adın da var.”
 
-Birisi hata yapmıştı.
+Numarayı kâğıda yazdım.
 
-Birisi bir adımı kaçırmıştı.
+Sonra geldiğim saat yazıldı.
 
-Birisi kurala uymamıştı.
+Sonra imza.
 
-Bir şey başarılı olduğunda hikâye yukarı doğru hareket etti.
+Sonra başka bir imza.
 
-İşi yapanlar arka plana çekildi.
+Her şeyin bir kaydı vardı.
 
-Başarıyı duyuran kişi onun yüzü oldu.
+Bir gün kaydı unutunca yaptığım hiçbir şey kaybolmadı. İnsanlar beni görmüştü. İş tamamlanmıştı. Fakat kayıt yoktu.
 
-Bunu hiçbir kural emretmiyordu.
+“Burada görünmüyorsun,” dediler.
 
-Sadece o kadar sık oluyordu ki doğal görünmeye başlamıştı.
+O zaman ilk kez insanın yaptığı şeyle yaptığı şeyin kaydı arasında bir duvar olduğunu fark ettim.
 
-Sorumluluğun bir yönü olduğunu gördüm.
+İlk haftalarda çok soru sordum.
 
-Hata aşağı doğru iner.
+Bu kapı neden böyle?
 
-Tanıma yukarı doğru çıkar.
+Bu sıra neden böyle?
 
-## İsimsizler
+Neden burada bekliyoruz?
 
-İşleri her yerde olan, isimleri hiçbir yerde olmayan insanlar vardı.
+Neden şu kişi girebiliyor da bu kişi bekliyor?
 
-Başkalarının bozduğunu onarırdı.
+Bir süre sonra cevaplar değişti.
 
-Başkalarının anlamadığını açıklarlardı.
+“Usul böyle.”
 
-Başkalarının yarım bıraktığı işleri taşırdılar.
+“Her zaman böyleydi.”
 
-Başarılı insanların listesi yayımlandığında onların adı yoktu.
+“Bunu sonra anlarsın.”
 
-Birine bunun canını sıkıp sıkmadığını sordum.
+Sonuncusunu en çok duydum.
 
-“Alışıyorsun,” dedi.
+Bir gün yeni biri geldi.
 
-Bu sözü daha önce duymuştum.
+Bana benzeyen bir yüzü vardı.
 
-Bir insan, kendisinden bir şey alındığını fark etmeyi bırakmadan önce kaç şeye alışabilir diye düşündüm.
+Etrafına bakıyordu.
 
-## Kapının İki Tarafı
+Yanına gittim.
 
-Bir kapı vardı.
+“İlk günün mü?”
 
-İçeridekiler dışarı çıkmak istiyordu.
+“Evet.”
 
-Dışarıdakiler içeri girmek.
+Bir an durdum.
 
-Bir gün yanında durup ikisini de izledim.
+Sonra ona:
 
-Dışarıdakiler özgürlüğü hayal ediyordu.
+“Birazdan alışırsın.”
 
-İçeridekiler rahatlamayı.
+dedim.
 
-Kapı açıldığında insanlar yer değiştirdi.
+Bunu söylerken kendi sesimi tanıyamadım.
 
-Bir an herkes memnun görünüyordu.
+O gün anladım ki insan burada yalnızca kuralları öğrenmiyordu.
 
-Sonra hareketler yeniden başladı.
+Kuralları başkasına öğretmeyi de öğreniyordu.
 
-Artık hangi tarafın içerisi olduğunu söyleyemiyordum.
+Akşam kapı açıldı.
 
-## Ne İçin?
+Herkes dışarı çıktı.
 
-İnsanları hatırlıyorum.
+Ben de çıktım.
 
-Kurala bağlı olanları.
+Bir süre sonra arkamdaki kapıya baktım.
 
-Soranları.
+Açık mıydı?
 
-Sormayı bırakanları.
+Kapalı mıydı?
 
-Fikirleri başkalarının isimlerine karışanları.
+Bilmiyordum.
 
-Emeği hiç sayılmayanları.
+Ertesi sabah yine oradaydım.
 
-Sayı üretmeyi öğrenenleri.
+Bunu kimse benden istememişti.
 
-Sessizleşerek yaşamayı öğrenenleri.
+Belki de ilk gün öğrendiğim en önemli şey buydu:
 
-En çok da kapıyı hatırlıyorum.
-
-Ve hiçbirimizin yeterince sık sormadığı soruyu.
-
-Bütün bunlar ne içindi?
-
-Cevabı hiç bulamadım.
-
-Belki de başından beri kaçındığımız soru buydu.
-
-Belki evin amacını anlamamıza hiç ihtiyacı yoktu.
-
-Yalnızca içeri girmeye devam etmemizi istiyordu.
-
-Ve belki de en tuhaf olan şuydu:
-
-Ben mi eve girmiştim,
-
-yoksa ev mi benim içime girmişti?
+Bazı kapılar kilitlenmeden de insanı içeride tutabiliyordu.
