@@ -1,6 +1,8 @@
 name: Deploy Interactive Reader
 
 on:
+  push:
+    branches: [main]
   workflow_run:
     workflows: ["Validate Universe"]
     types: [completed]
@@ -18,19 +20,19 @@ concurrency:
 
 jobs:
   build:
-    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        if: github.event_name != 'workflow_run'
+        uses: actions/checkout@v7
+
       - name: Checkout validated commit
         if: github.event_name == 'workflow_run'
         uses: actions/checkout@v7
         with:
           ref: ${{ github.event.workflow_run.head_sha }}
-
-      - name: Checkout manual dispatch
-        if: github.event_name == 'workflow_dispatch'
-        uses: actions/checkout@v7
 
       - name: Setup Python
         uses: actions/setup-python@v7
