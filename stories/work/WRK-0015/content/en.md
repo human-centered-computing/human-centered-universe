@@ -1,25 +1,77 @@
-# The Last Extra Task
+# Extra
 
-For years I stayed after the hour. There was always one more file, one more message, one more problem. I called it responsibility.
+For years I stayed longer.
 
-One evening I looked at the clock. The work was not finished.
+One more file.
 
-“Who said I had to finish everything?”
+One more hour.
 
-Nobody answered.
+One more explanation.
 
-I closed the file, wrote what remained, and left.
+A little longer so someone else's work would be finished.
 
-Nothing happened. The next morning the world was still there.
+I called it responsibility.
 
-Someone said, “You used to stay.”
+One evening the time passed.
 
-“Yes.”
+Everyone began to leave.
 
-“Why don't you anymore?”
+Someone handed me a file.
 
-“I have other time.”
+“This too. Today.”
 
-I was not refusing responsibility. I was refusing the idea that responsibility meant permanent availability.
+I looked at the file.
 
-I still remember the last extra task I completed. Not because it was important, but because after it I understood that saying no to one unnecessary hour could be a way of asking what the hours were for.
+Then at the clock.
+
+“Tomorrow.”
+
+“It needs to be today.”
+
+“I will do it tomorrow.”
+
+“It will be easier if you do it.”
+
+“I know.”
+
+“Then?”
+
+I closed the file.
+
+“Not today.”
+
+The other person became silent.
+
+He took the file.
+
+He left.
+
+I went outside.
+
+Nobody followed me.
+
+I walked for a while.
+
+When I saw that the world was still there, I was surprised.
+
+The next morning everyone was working.
+
+The file had been given to someone else.
+
+The work had been done.
+
+Without my extra hour.
+
+That was not easy to think about.
+
+For years I had told myself that I was necessary.
+
+Perhaps I was.
+
+Perhaps it was only my constant availability.
+
+Perhaps the system made a person who was always ready seem indispensable.
+
+That day I thought for the first time that extra labor does not always create value.
+
+Sometimes it only delays the boundary.
