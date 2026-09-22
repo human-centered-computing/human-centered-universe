@@ -1,7 +1,7 @@
 {
   "id": "WRK-0002",
-  "title": "The Clock",
-  "original_title": "Saat",
+  "title": "Before Eight",
+  "original_title": "Sekizden Önce",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -49,11 +49,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Saat",
+      "title": "Sekizden Önce",
       "summary": "Çalışma Evinden Anılar döngüsünde saat üzerine parçalı bir bölüm."
     },
     "en": {
-      "title": "The Clock",
+      "title": "Before Eight",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
