@@ -1,31 +1,77 @@
-# Saat
+# WRK-0002 — Sekizden Önce
 
-## Sekiz
+Bir süre sonra saatin kaç olduğunu sormama gerek kalmadı.
 
-Öğrendiğim ilk şey bir kural değildi. Bir saatti.
+Uyandığımda bilirdim.
 
-Sekiz.
+İlk zamanlar alarm çalardı. Sonra alarmdan önce uyanmaya başladım.
 
-Sekizde kapılar açılır, isimler görünür olurdu. Beden hazır olsun ya da olmasın gün başlardı.
+Bir sabah altı kırk iki.
 
-Bir sabah sekizi sekiz geçe geldim. Kimse bağırmadı. Biri saate, sonra bana baktı.
+Henüz erkendi.
 
-“Geç kaldın.”
+Yine de kalktım.
 
-## On İki
+Kimse “hazırlan” dememişti.
 
-On ikide ritim değişirdi. İnsanlar kalkar, yemek yer, dönerdi. Kısa bir süre kimse ne kadar iş tamamlandığını sormazdı.
+Ama hazırlandım.
 
-Sonra saat yeniden ilerlerdi.
+İçeride saat yalnızca duvarda değildi. Koridorda vardı. Kapının üzerinde vardı. Kâğıtlarda vardı. İnsanların yüzlerinde vardı.
 
-## Beş
+Geç kalan birine önce saate bakılırdı.
 
-Beşte insanlar çıkmaya başlardı. Kalanlar bazen fedakâr sayılırdı.
+Birinin erken çıkması gerektiğinde saat gösterilirdi.
 
-Yıllar sonra saatin bize yalnızca geliş ve gidişi değil, kendimizi izin verilen parçalara bölmeyi öğrettiğini anladım.
+Bir iş uzadığında:
 
-## İçimizde
+“Vakit dar.”
 
-Bir akşam duvardaki saat durdu. Kimse birkaç dakika fark etmedi. Çalışmaya devam ettik.
+denirdi.
 
-Saat çoktan içimize girmişti.
+Bazen bir insanın yaptığı işten çok, o iş için harcadığı süre konuşulurdu.
+
+Bir gün duvardaki saat durdu.
+
+Akrep ile yelkovan aynı yerde kaldı.
+
+Kimse birkaç dakika fark etmedi.
+
+Sonra biri:
+
+“Kaç oldu?”
+
+diye sordu.
+
+Herkes başka saatlere baktı.
+
+Telefonlar çıkarıldı.
+
+Saat söküldü.
+
+Yeni saat gelene kadar insanlar yine aynı saatlerde gelip gittiler.
+
+O gün saat olmadan da düzenin devam ettiğini gördüm.
+
+Daha sonra saatin bozulmasından korkmamaya başladım.
+
+Çünkü asıl saat içimizde çalışıyordu.
+
+Bir gece evde uyandım.
+
+Saat üçtü.
+
+Bir süre tavana baktım.
+
+Sonra aklıma ertesi sabah geldi.
+
+Yeniden uyudum.
+
+Saat çalmadan kalktım.
+
+Bir zamanlar bana günün ne zaman başladığını saat söylüyordu.
+
+Artık saat yalnızca bana günün başladığını hatırlatıyordu.
+
+Günün gerçekten başlayıp başlamadığına ise kimse bakmıyordu.
+
+Ben bakıyordum.
