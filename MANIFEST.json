@@ -10,7 +10,7 @@
     "LIGHT",
     "DARK"
   ],
-  "live_nodes": 24,
+  "live_nodes": 25,
   "experimental_nodes": [
     "BRG-0003"
   ],
