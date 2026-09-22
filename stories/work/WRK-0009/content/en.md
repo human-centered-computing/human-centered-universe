@@ -1,17 +1,71 @@
-# The Transfer
+# Handover
 
-Names changed on the list. One morning a familiar name was gone. A new name appeared.
+A man left.
 
-The desk remained. The files remained. The passwords changed.
+Someone else came in his place.
 
-The person who arrived received instructions. But instructions were not memory.
+I was told:
 
-I tried to explain why a file mattered. There was no field for that. I explained a history. There was no place to record it.
+“Explain these.”
 
-Every transfer promised continuity. Yet every transfer also erased small warnings, reasons, names and knowledge that lived only in someone's head.
+I showed the files.
 
-Years later I received a transfer myself. Someone showed me the desk, the list and a password.
+The papers.
 
-Nobody gave me the years.
+The signatures.
 
-Institutions can transfer responsibility much more easily than experience.
+The records.
+
+Then I tried to explain what was not on paper.
+
+“This person speaks this way.”
+
+“Do not forget that file.”
+
+“Wait here.”
+
+“They do not write this down, but you should know it.”
+
+The new person took notes.
+
+“Anything else?”
+
+“Yes.”
+
+“What?”
+
+“To know some things here, you have to stay a long time.”
+
+“How long?”
+
+“I do not know.”
+
+The man left.
+
+I stayed.
+
+After some time I handed things over to someone else.
+
+Then someone else handed them to me.
+
+People changed.
+
+The papers remained.
+
+The desk remained.
+
+The numbers remained.
+
+But the small maps people learned while living there disappeared.
+
+One day I found a note written by someone who had left years before.
+
+One sentence said:
+
+“Everyone who comes here learns the files first. Then they discover that files are easier to remember than people.”
+
+There was no signature.
+
+I did not know who had written it.
+
+Perhaps some things remained without names for a reason.
