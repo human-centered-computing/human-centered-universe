@@ -1,6 +1,10 @@
 name: Generate Story Translations
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/translation-trigger"
   workflow_dispatch:
     inputs:
       languages:
