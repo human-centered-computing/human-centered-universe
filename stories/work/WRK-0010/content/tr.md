@@ -1,15 +1,73 @@
-# Koridor
+# WRK-0010 — Koridor
 
-Her zaman hareket vardı. İnsanlar dosyaları bir odadan diğerine taşırdı. Hareketi ilerleme sanırdım.
+Koridoru zamanla ezberledim.
 
-Bir gün bir dosyayı takip ettim. Birinci oda ikinciye, ikinci üçüncüye, üçüncü tekrar birinciye gönderdi.
+Hangi kapının ne zaman açıldığını.
 
-Hiçbir şey değişmemişti. Sadece dosya dolaşmıştı.
+Hangi kapının önünde beklenmesi gerektiğini.
 
-Koridor hep hareketliydi. Hareketli koridor önemli bir şeyler olduğu hissini veriyordu.
+Hangi köşede konuşulduğunu.
 
-Sonunda bir kapı vardı. İnsanlar sorunlarla girer, formlarla çıkardı. Sorun çoğu zaman kalırdı.
+Hangi köşede susulduğunu.
 
-Yıllar sonra bazı sistemlerin işi engellemediğini anladım. İşi dolaştırdığını.
+Bir yere çağrıldığımda yolu düşünmüyordum.
 
-İnsan bütün gün yürüyebilir ve başladığı yerde kalabilirdi.
+Ayaklarım biliyordu.
+
+Bir gün genç biri yanıma katıldı.
+
+“Nereye gidiyoruz?”
+
+“Bilmiyorum.”
+
+“Ne kadar sürecek?”
+
+“Bilmiyorum.”
+
+Yürümeye devam ettik.
+
+Bir kapıdan girdik.
+
+Başka bir koridora çıktık.
+
+Sonra başka bir kapı.
+
+Bir dosyayı da yanımızda taşıyorduk.
+
+Dosya bir odadan diğerine geçti.
+
+Sonunda tekrar ilk odaya döndü.
+
+Hiçbir şey değişmemişti.
+
+Sadece biz yorulmuştuk.
+
+Koridor hareket veriyordu.
+
+Hareket, ilerleme gibi görünüyordu.
+
+Bir gün yaşlı bir adam koridorun sonunda oturuyordu.
+
+“Burada ne kadar bekliyorsun?”
+
+“Uzun.”
+
+“Neyi?”
+
+“Çağrılmayı.”
+
+“Kim çağıracak?”
+
+Başını kaldırdı.
+
+“Bilmiyorum.”
+
+Yanından geçtim.
+
+Bir süre sonra aynı yerde kendimi buldum.
+
+O zaman koridorun yalnızca odalar arasında olmadığını düşündüm.
+
+Bazen insanın içinde de uzuyordu.
+
+Aynı yere dönüp duruyor, yine de yol aldığını sanıyordu.
