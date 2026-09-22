@@ -1,0 +1,8 @@
+{
+  "id": "WORK",
+  "name": "Work Cycle",
+  "description": "The House of Work narrative cycle: time, procedure, measurement, hierarchy, labor, alienation, human agency and rebuilding.",
+  "status": "active",
+  "story_prefix": "WRK",
+  "path": "stories/work"
+}
