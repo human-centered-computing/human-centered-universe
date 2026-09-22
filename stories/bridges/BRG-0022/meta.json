@@ -1,0 +1,37 @@
+{
+  "id": "BRG-0022",
+  "title": "The Chair",
+  "original_title": "Sandalye",
+  "core": "WORK",
+  "status": "canon",
+  "source_language": "en",
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "work",
+    "labor",
+    "institution",
+    "alienation",
+    "human-centered"
+  ],
+  "summary": "A short memoir fragment from the House of Work, continuing the ambiguity between workplace and closed institution.",
+  "translations": {
+    "en": {
+      "status": "canonical",
+      "human_reviewed": true
+    },
+    "tr": {
+      "status": "reviewed",
+      "human_reviewed": true
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0020",
+      "type": "continuation",
+      "note": "Continues the House of Work cycle."
+    }
+  ],
+  "translation_working_source_language": "en"
+}
