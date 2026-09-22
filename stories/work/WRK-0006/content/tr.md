@@ -1,61 +1,21 @@
 # İzin
 
-## Bir İzin
+İzin tuhaf bir kelimeydi. Yokluk demekti ama aynı zamanda izin verilmesi demekti.
 
-İzin tuhaf bir kelimeydi.
+Ayrılmak için onay gerekiyordu. Yer bensiz devam edebilirdi. Ben yer olmadan devam etmeyi her zaman düşünemiyordum.
 
-Yokluk anlamına geliyordu ama aynı zamanda izin verilmesi demekti.
+Bazıları izinlerini biriktirirdi. Aylar geçer, günler birikirdi.
 
-Ayrılmak için onay gerekiyordu.
-
-Yer bensiz devam edebilirdi.
-
-Ben yer olmadan devam etmeyi her zaman düşünemiyordum.
-
-## Birikmek
-
-Bazıları izinlerini biriktirirdi.
-
-Aylar geçerdi.
-
-Günler birikirdi.
-
-“Neden kullanmıyorsun?” diye sordum.
-
-Gülümsediler.
+“Neden kullanmıyorsun?”
 
 “Nereye gideceğim?”
 
-Şaka yapıp yapmadıklarını anlayamadım.
-
-## Boş Masa
-
-Bir hafta izin aldım.
-
-Masam boş kaldı.
-
-Hiçbir şey çökmemişti.
-
-Geçici olarak biri oturdu.
-
-Dosyalar hareket etti.
-
-Telefonlar cevaplandı.
+Bir hafta izin aldım. Masam boş kaldı. Hiçbir şey çökmemişti. Biri geçici olarak oturdu. Dosyalar hareket etti, telefonlar cevaplandı.
 
 Döndüğümde her şey neredeyse aynıydı.
 
-Özleneceğimi düşünmüştüm.
-
-Yokluğun sıradan olabileceğini gördüm.
-
-## Özgürlük
-
-Bu beni rahatsız etti.
+Özleneceğimi düşünmüştüm. Yokluğun sıradan olabileceğini gördüm.
 
 Sistem bensiz yaşayabiliyorsa neden onsuz yaşayamayacağımı düşünmüştüm?
 
-Soruyu taşıdım.
-
-Cevaplamadım.
-
-Sadece ayrılma izni ile gerçekten ayrılabilme arasındaki farkı görmeye başladım.
+Cevaplamadım. Yalnızca izin ile gerçekten ayrılabilme arasındaki farkı görmeye başladım.

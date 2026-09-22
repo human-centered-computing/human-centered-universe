@@ -1,65 +1,17 @@
 # The Meeting
 
-## The Room
+The meeting began at ten. At ten fifteen we were still deciding how to begin. At ten thirty someone suggested another meeting.
 
-The meeting began at ten.
+There was an agenda. We discussed the first item, then whether it should be discussed.
 
-At ten fifteen, we were still deciding how to begin.
+After an hour someone said, “We should decide.” Everyone agreed.
 
-At ten thirty, someone suggested another meeting.
+The decision was to prepare a document. The document required another meeting.
 
-Nobody laughed.
+The minutes arrived two days later. They recorded everything precisely, including what we had supposedly agreed.
 
-## The Agenda
+I could not find the moment when we agreed.
 
-There was an agenda.
+Once I calculated how many hours we spent discussing the use of hours. The number was larger than expected.
 
-We discussed the first item.
-
-Then we discussed whether the first item should be discussed.
-
-Someone took notes.
-
-The notes became evidence that the discussion had happened.
-
-The decision itself remained unclear.
-
-## The Decision
-
-After an hour, someone said:
-
-“We should decide.”
-
-Everyone agreed.
-
-The decision was to prepare a document.
-
-The document required another meeting.
-
-## The Minutes
-
-The minutes arrived two days later.
-
-They were precise.
-
-They recorded who had spoken, what had been proposed, and what had been agreed.
-
-I read them twice.
-
-I could not find the moment when we had agreed.
-
-But the minutes said we had.
-
-So perhaps we had.
-
-## Time
-
-I once calculated how many hours we spent discussing the use of hours.
-
-The number was larger than I expected.
-
-After that, I stopped looking at the clock during meetings.
-
-Not because time had stopped.
-
-Because everyone already knew it was passing.
+After that I stopped looking at the clock during meetings. Not because time had stopped, but because everyone already knew it was passing.

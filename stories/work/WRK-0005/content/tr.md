@@ -1,65 +1,17 @@
 # Toplantı
 
-## Oda
+Toplantı saat onda başladı. On beş geçe hâlâ nasıl başlayacağımıza karar veriyorduk. On buçukta biri başka bir toplantı önerdi.
 
-Toplantı saat onda başladı.
+Bir gündem vardı. İlk maddeyi, sonra ilk maddenin tartışılıp tartışılmamasını tartıştık.
 
-On buçukta hâlâ nasıl başlayacağımıza karar veriyorduk.
+Bir saat sonra biri “Karar vermeliyiz,” dedi. Herkes kabul etti.
 
-On buçukta biri başka bir toplantı önerdi.
+Karar bir belge hazırlamaktı. Belge başka bir toplantı gerektiriyordu.
 
-Kimse gülmedi.
+Tutanak iki gün sonra geldi. Her şeyi, hatta üzerinde anlaştığımızı söylediği şeyleri bile kesin biçimde yazmıştı.
 
-## Gündem
+Anlaştığımız anı bulamadım.
 
-Bir gündem vardı.
+Bir gün saatleri kullanmayı konuşmak için kaç saat harcadığımızı hesapladım. Sayı beklediğimden büyüktü.
 
-İlk maddeyi tartıştık.
-
-Sonra ilk maddenin tartışılıp tartışılmaması gerektiğini tartıştık.
-
-Biri not aldı.
-
-Notlar, tartışmanın yapıldığına dair kanıt oldu.
-
-Kararın kendisi belirsiz kaldı.
-
-## Karar
-
-Bir saat sonra biri:
-
-“Karar vermeliyiz,” dedi.
-
-Herkes kabul etti.
-
-Karar bir belge hazırlanmasıydı.
-
-Belge başka bir toplantı gerektiriyordu.
-
-## Tutanak
-
-Tutanak iki gün sonra geldi.
-
-Kesindi.
-
-Kimin konuştuğunu, ne önerildiğini ve neye karar verildiğini yazıyordu.
-
-İki kez okudum.
-
-Karar verdiğimiz anı bulamadım.
-
-Ama tutanak vermiş olduğumuzu söylüyordu.
-
-Demek ki vermiştik.
-
-## Zaman
-
-Bir gün saatleri kullanmayı konuşmak için kaç saat harcadığımızı hesapladım.
-
-Sayı beklediğimden büyüktü.
-
-Ondan sonra toplantılarda saate bakmayı bıraktım.
-
-Zaman durduğu için değil.
-
-Herkes onun geçtiğini zaten biliyordu.
+Sonra toplantılarda saate bakmayı bıraktım. Zaman durduğu için değil, herkes onun geçtiğini zaten bildiği için.

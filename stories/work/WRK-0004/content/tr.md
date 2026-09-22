@@ -1,83 +1,23 @@
 # Form
 
-## Kâğıt
-
-Formda kutular vardı.
-
-İsim. Tarih. Gerekçe. İmza.
-
-Doldurdum.
-
-Bir kutu gereksizdi.
-
-Neden olduğunu sordum.
+Formda kutular vardı: isim, tarih, gerekçe, imza. Bir kutu gereksizdi. Nedenini sordum.
 
 “Her zaman vardı.”
 
-Kuralı hatırladım.
+Bir gün her şey hazırdı. İş tamamlanmıştı. Bir imza eksikti.
 
-## Eksik İmza
-
-Bir gün her şey hazırdı.
-
-İş tamamlanmıştı.
-
-Karar açıktı.
-
-Ama bir imza eksikti.
-
-Hiçbir şey ilerleyemedi.
-
-“Kim imzalayacak?”
-
-“Biri.”
+Hiçbir şey ilerlemedi.
 
 “Neden?”
 
 “Çünkü form bunu istiyor.”
 
-Amaç ortadan kaybolmuştu.
+Amaç kaybolmuştu. Prosedür kalmıştı.
 
-Prosedür kalmıştı.
+Başka bir gün bilgi doğruydu ama yanlış kutuya yazılmıştı. Düzelttim ve gerçek kabul edildi.
 
-## Gerçeği Düzeltmek
+Sonra formlar hakkında formlar doldurmaya başladık.
 
-Formu geri gönderdim.
-
-Bir satır yanlıştı.
-
-Bilgi doğruydu ama yanlış yere yazılmıştı.
-
-Satırı düzelttim.
-
-Dosya kabul edildi.
-
-O gün bir sistemin doğru cevabı yanlış kutuda olduğu için reddedebileceğini öğrendim.
-
-## Daha Fazla Form
-
-Sonra başka bir form geldi.
-
-Sonra bir başkası.
-
-Formlar hakkında formlar doldurmaya başladık.
-
-Birisi sürecin sadeleştirilip sadeleştirilemeyeceğini sordu.
-
-Cevap hayır değildi.
-
-Başka bir formdu.
-
-## Boş Kutu
-
-Yıllar sonra eski bir form buldum.
-
-Bir kutu hâlâ boştu.
-
-Şöyle soruyordu:
-
-“Bu ne için?”
+Yıllar sonra eski bir form buldum. Bir kutu boştu. Şöyle soruyordu: “Bu ne için?”
 
 Kimse doldurmamıştı.
-
-Belki de çünkü cevabın yazılacağı bir yer yoktu.
