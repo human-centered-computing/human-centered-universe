@@ -1,17 +1,81 @@
-# Toplantı
+# WRK-0005 — Toplanma
 
-Toplantı saat onda başladı. On beş geçe hâlâ nasıl başlayacağımıza karar veriyorduk. On buçukta biri başka bir toplantı önerdi.
+Bir gün çağrıldık.
 
-Bir gündem vardı. İlk maddeyi, sonra ilk maddenin tartışılıp tartışılmamasını tartıştık.
+Nereye gideceğimizi söylemediler.
 
-Bir saat sonra biri “Karar vermeliyiz,” dedi. Herkes kabul etti.
+“Toplanın.”
 
-Karar bir belge hazırlamaktı. Belge başka bir toplantı gerektiriyordu.
+Herkes ayağa kalktı.
 
-Tutanak iki gün sonra geldi. Her şeyi, hatta üzerinde anlaştığımızı söylediği şeyleri bile kesin biçimde yazmıştı.
+Bir odaya girdik.
 
-Anlaştığımız anı bulamadım.
+Sandalyeler sıralanmıştı.
 
-Bir gün saatleri kullanmayı konuşmak için kaç saat harcadığımızı hesapladım. Sayı beklediğimden büyüktü.
+Kapı kapandı.
 
-Sonra toplantılarda saate bakmayı bıraktım. Zaman durduğu için değil, herkes onun geçtiğini zaten bildiği için.
+Bir süre kimse konuşmadı.
+
+Sonra biri ayağa kalktı.
+
+Bir şeyler söyledi.
+
+Başka biri cevap verdi.
+
+Bir başkası not aldı.
+
+Bir ara dışarıda bekleyen birinden söz edildi.
+
+Ne yapması gerektiği konuşuldu.
+
+Ne kadar daha bekleyebileceği.
+
+Neden geciktiği.
+
+İçeride onun hakkında konuşuluyordu.
+
+Dışarıda o bizi bekliyordu.
+
+Toplanmanın sonunda karar alınacağı söylendi.
+
+Karar alınmadı.
+
+“Tekrar görüşelim.”
+
+Herkes kalktı.
+
+Koridora çıktık.
+
+Dışarıdaki adam hâlâ oradaydı.
+
+“Ne karar verdiniz?” diye sordu.
+
+Kimse cevap vermedi.
+
+Bir süre sonra toplantıların ne için yapıldığını merak etmeyi bıraktım.
+
+Bazen karar almak için değil, karar alınmış gibi görünmesi için toplanıyorduk.
+
+Bazen de herkesin aynı odada bulunması yeterli sayılıyordu.
+
+Bir gün birinin:
+
+“Bugün kaç saat toplandık?”
+
+diye sorduğunu duydum.
+
+Başka biri:
+
+“Üç.”
+
+“Peki ne yaptık?”
+
+Sessizlik.
+
+“Toplandık.”
+
+O gün bunu not ettim.
+
+Sonra notu yırttım.
+
+Çünkü bazı cümleler kayda girdiğinde olduğundan daha önemli görünüyordu.
