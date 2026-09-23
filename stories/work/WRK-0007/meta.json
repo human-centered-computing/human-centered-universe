@@ -1,7 +1,7 @@
 {
   "id": "WRK-0007",
-  "title": "Those Who Are Counted",
-  "original_title": "Sayılanlar",
+  "title": "Being Counted",
+  "original_title": "Sayılmak",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -48,11 +48,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Sayılanlar",
+      "title": "Sayılmak",
       "summary": "Çalışma Evinden Anılar döngüsünde sayı üzerine parçalı bölüm."
     },
     "en": {
-      "title": "Those Who Are Counted",
+      "title": "Being Counted",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
