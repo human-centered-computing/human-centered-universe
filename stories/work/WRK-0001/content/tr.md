@@ -1,137 +1,227 @@
-# WRK-0001 — Kapı
+# WRK-0001 — Eşik
 
-Beni içeri aldıkları günü tam hatırlamıyorum.
+Kapının önünde bekliyordum.
 
-Kapının önünde beklediğimi hatırlıyorum. İçeriden çıkanlar vardı. İçeri girecekler vardı. Kimse acele etmiyordu ama herkesin bir zamanı vardı.
+Elimde birkaç kâğıt vardı. Birinde adım, diğerinde bir numara yazıyordu. Hangisinin daha önemli olduğunu bilmiyordum.
 
-Adımı söyledim.
+İçeriden insanlar çıkıyordu. Bazıları ellerinde dosyalar taşıyor, bazıları hiçbir şey taşımadan yürüyordu. İçeri girmek için bekleyenler ise sessizdi.
 
-Bir kâğıda baktılar.
+Yanımdaki adam bana baktı.
 
-Sonra yüzüme.
+“İlk kez mi?”
 
-“Tamam.”
+“Evet.”
 
-Kapı açıldı.
+“Birazdan çağırırlar.”
+
+“Ne için?”
+
+Omuzlarını kaldırdı.
+
+“İçeri girince anlarsın.”
+
+Kapıya baktım.
+
+Kapının üzerinde herhangi bir şey yazmıyordu.
+
+Bir süre sonra ismim söylendi.
 
 İçeri girdim.
 
-Arkamdan kapanan kapının kilitlenip kilitlenmediğini o gün anlamadım.
-
-Bana bir yer gösterdiler.
+Bana bir masa gösterdiler.
 
 “Burası senin.”
 
-Bir sandalye vardı. Masanın üzerinde boş bir kâğıt.
+Masanın üzerinde birkaç dosya vardı. Sandalye boştu.
 
-Oturmadım. Önce etrafa baktım.
+Oturmadan önce etrafa baktım.
 
-İnsanlar çalışıyor gibiydi. Bazıları konuşuyor, bazıları susuyor, bazıları önündeki kâğıtları tekrar tekrar okuyordu. Bir köşede saat vardı.
+İnsanlar çalışıyordu. Bazıları konuşuyor, bazıları susuyor, bazıları önlerindeki kâğıtları tekrar tekrar okuyordu.
 
-Yanıma yaşlı bir adam geldi.
+Birisi yanıma geldi.
 
-“İlk günün mü?”
+“Şunları sıraya koy.”
 
-“Evet.”
+Dosyaları aldım.
 
-“Birazdan alışırsın.”
+“Neye göre?”
 
-“Neye?”
+“Buradaki sıraya göre.”
 
-Gülümsedi.
+“Buradaki sıra hangisi?”
 
-“Buraya.”
+Kâğıdı gösterdi.
 
-Sonra gitti.
+Baktım.
 
-İlk gün bunun iyi niyetli bir söz olduğunu düşündüm.
+Gerçekten bir sıra vardı.
 
-Bana bir numara verdiler.
+Ama neden o sıra olduğunu bilmiyordum.
 
-“Adım var.”
+Dosyaları yerleştirdim.
 
-“Adın da var.”
+Sonra başka bir dosya geldi.
 
-Numarayı kâğıda yazdım.
+“Bunu da beklet.”
 
-Sonra geldiğim saat yazıldı.
+“Ne kadar?”
 
-Sonra imza.
+“Bekle.”
 
-Sonra başka bir imza.
+“Ne zamana kadar?”
 
-Her şeyin bir kaydı vardı.
+“Çağırırlar.”
 
-Bir gün kaydı unutunca yaptığım hiçbir şey kaybolmadı. İnsanlar beni görmüştü. İş tamamlanmıştı. Fakat kayıt yoktu.
+İlk gün en çok duyduğum kelime buydu.
 
-“Burada görünmüyorsun,” dediler.
+**Bekle.**
 
-O zaman ilk kez insanın yaptığı şeyle yaptığı şeyin kaydı arasında bir duvar olduğunu fark ettim.
+Bir süre sonra ben de kullanmaya başladım.
 
-İlk haftalarda çok soru sordum.
+Biri bir şey sorduğunda:
 
-Bu kapı neden böyle?
+“Bekle.”
 
-Bu sıra neden böyle?
+Bir dosya geldiğinde:
 
-Neden burada bekliyoruz?
+“Bekle.”
 
-Neden şu kişi girebiliyor da bu kişi bekliyor?
+Birisi kapının önünde durduğunda:
 
-Bir süre sonra cevaplar değişti.
+“Biraz bekleyin.”
 
-“Usul böyle.”
+İnsan, bazı kelimeleri ne zaman öğrendiğini fark etmiyordu.
 
-“Her zaman böyleydi.”
+Bir gün masamda eski bir kâğıt buldum.
 
-“Bunu sonra anlarsın.”
+Üzerinde birkaç cümle vardı.
 
-Sonuncusunu en çok duydum.
+**Sonucu kim görecek?**
+
+Altında:
+
+**Bu neden böyle?**
+
+Bir başka satırda:
+
+**Tekrar kontrol edildi.**
+
+Son satırda:
+
+**Kim kontrol etti?**
+
+Kâğıdın kime ait olduğunu bilmiyordum.
+
+Yan masadaki adama sordum.
+
+“Bunu sen mi yazdın?”
+
+“Hayır.”
+
+“Kim yazdı?”
+
+“Bilmiyorum.”
+
+Kâğıdı tekrar masama bıraktım.
+
+Bir süre sonra masam değişti.
+
+Nedenini kimse açıklamadı.
+
+Yeni masada daha fazla dosya vardı.
+
+İnsanlar bana daha farklı davranıyordu.
+
+Daha önce sormadıkları şeyleri soruyorlardı.
+
+Ben de cevap veriyordum.
+
+Bir gün öğle arasında yanımda oturan kadın:
+
+“Burada herkes başka biri,” dedi.
+
+“Nasıl?”
+
+“Burada başka, dışarıda başka.”
+
+Sonra yemeğine devam etti.
+
+Kimse bu cümleyi açıklamadı.
+
+Bir süre sonra insanların dışarıdaki hayatlarını öğrenmeye başladım.
+
+Birinin çocuğu vardı.
+
+Birinin borcu.
+
+Birinin hasta annesi.
+
+Birinin gitmek istediği başka bir şehir.
+
+Bunların hiçbiri dosyalarda görünmüyordu.
+
+Dosyalarda isimler vardı.
+
+Numaralar vardı.
+
+Tarihler vardı.
+
+İmzalar vardı.
+
+Ama insanın neden sabah geldiği yazmıyordu.
 
 Bir gün yeni biri geldi.
 
-Bana benzeyen bir yüzü vardı.
+Elinde benim ilk gün taşıdığım kâğıtlara benzeyen kâğıtlar vardı.
 
-Etrafına bakıyordu.
+Etrafına baktı.
 
-Yanına gittim.
+Sonra yanıma geldi.
 
-“İlk günün mü?”
+“Burada ne yapılıyor?”
 
-“Evet.”
+Ağzımdan ilk çıkan kelime:
 
-Bir an durdum.
+“Bekle.”
 
-Sonra ona:
+Sonra durdum.
 
-“Birazdan alışırsın.”
+Kendi sesimi duydum.
 
-dedim.
+Bir süre ona baktım.
 
-Bunu söylerken kendi sesimi tanıyamadım.
+“Ne yapacağım?” diye sordu.
 
-O gün anladım ki insan burada yalnızca kuralları öğrenmiyordu.
+Bu kez cevap veremedim.
 
-Kuralları başkasına öğretmeyi de öğreniyordu.
+Masanın üzerindeki dosyalara baktım.
 
-Akşam kapı açıldı.
+Sonra kapıya.
 
-Herkes dışarı çıktı.
+Sonra ona.
 
-Ben de çıktım.
+“Bilmiyorum.”
 
-Bir süre sonra arkamdaki kapıya baktım.
+Adam şaşırdı.
 
-Açık mıydı?
+Ben de şaşırmıştım.
 
-Kapalı mıydı?
+Çünkü bunu daha önce hiç söylememiştim.
 
-Bilmiyordum.
+Kapıya doğru yürüdüm.
 
-Ertesi sabah yine oradaydım.
+Kapıyı biraz açık bıraktım.
 
-Bunu kimse benden istememişti.
+Arkamdan onun sesini duydum.
 
-Belki de ilk gün öğrendiğim en önemli şey buydu:
+“Peki kime soracağım?”
 
-Bazı kapılar kilitlenmeden de insanı içeride tutabiliyordu.
+Durmadım.
+
+“Sen sor.”
+
+Dedim.
+
+Kapıyı biraz daha açık bıraktım.
+
+Ve yürüdüm.
