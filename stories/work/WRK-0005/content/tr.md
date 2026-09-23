@@ -1,4 +1,4 @@
-# WRK-0005 — Toplanma
+# WRK-0005 — Karar
 
 Bir gün çağrıldık.
 
