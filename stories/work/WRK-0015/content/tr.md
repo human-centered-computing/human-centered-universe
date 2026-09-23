@@ -1,4 +1,4 @@
-# WRK-0015 — Fazladan
+# WRK-0015 — Fazlası
 
 Yıllarca fazladan kaldım.
 
