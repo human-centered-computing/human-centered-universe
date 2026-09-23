@@ -1,7 +1,7 @@
 {
   "id": "WRK-0011",
-  "title": "The Meal",
-  "original_title": "Yemek",
+  "title": "The Table",
+  "original_title": "Masa",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -48,11 +48,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Yemek",
+      "title": "Masa",
       "summary": "Çalışma Evinden Anılar döngüsünde yemek üzerine parçalı bölüm."
     },
     "en": {
-      "title": "The Meal",
+      "title": "The Table",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
