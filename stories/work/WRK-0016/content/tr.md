@@ -1,4 +1,4 @@
-# WRK-0016 — Dışarı
+# WRK-0016 — İçeride
 
 Sonunda çıktım.
 
