@@ -1,7 +1,7 @@
 {
   "id": "WRK-0012",
   "title": "What Is Said",
-  "original_title": "Söylenenler",
+  "original_title": "Söylenen",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -48,7 +48,7 @@
   ],
   "localized": {
     "tr": {
-      "title": "Söylenenler",
+      "title": "Söylenen",
       "summary": "Çalışma Evinden Anılar döngüsünde söylenti üzerine parçalı bölüm."
     },
     "en": {
