@@ -1,10 +1,10 @@
 {
   "id": "WRK-0001",
-  "title": "The Door",
-  "original_title": "Kapı",
+  "title": "The Threshold",
+  "original_title": "Eşik",
   "core": "WORK",
   "status": "canon",
-  "source_language": "en",
+  "source_language": "tr",
   "book_order": 1,
   "culture": [
     "transcultural"
@@ -15,7 +15,7 @@
     "literary",
     "science-fiction"
   ],
-  "summary": "A fragmented memoir of a place that can be read as a workplace or a closed institution. Through people, routines, hierarchy, performance, invisible labor, stolen ideas and silence, the narrator gradually discovers how a system can reshape the human being who enters it.",
+  "summary": "A fragmented memoir of a place that can be read as a workplace or a closed institution. Through waiting, routines, hierarchy, files and repeated instructions, the narrator gradually discovers how the language of a system can become part of a person.",
   "reality_weaving": {
     "mode": "woven",
     "reality_roots": [
@@ -23,35 +23,41 @@
       "Institutional hierarchy",
       "Human labor and organizational measurement"
     ],
-    "imaginative_transformation": "The workplace and the closed house overlap without either being named as the sole reality.",
-    "emergent_question": "When a person freely enters a system every day, where does obligation end and freedom begin?"
+    "imaginative_transformation": "The workplace and the closed institution remain simultaneously plausible. A door, a desk and a queue can belong to either world without the story naming one as the sole reality.",
+    "emergent_question": "What happens when a person begins to speak the language of the system they entered?"
   },
   "translations": {
-    "en": {
-      "status": "canonical",
-      "human_reviewed": true
-    },
     "tr": {
       "status": "reviewed",
+      "human_reviewed": true
+    },
+    "en": {
+      "status": "canonical",
       "human_reviewed": true
     }
   },
   "links": [
     {
-      "target": "BRG-0002",
-      "type": "echo",
-      "note": "The work house continues the Human-Centered Universe's exploration of how human beings create systems and are then reshaped by them."
+      "target": "WRK-0002",
+      "type": "memory",
+      "note": "The threshold becomes a question of place, belonging, and who has the right to occupy a desk."
     }
   ],
   "localized": {
     "tr": {
-      "title": "Kapı",
-      "summary": "Bir işyeri ya da kapalı bir kurum olarak okunabilen bir mekânın parçalı anıları. İnsanlar, rutinler, hiyerarşi, performans, görünmeyen emek, sahiplenilen fikirler ve sessizlik üzerinden sistemin insanı nasıl dönüştürebildiği anlatılır."
+      "title": "Eşik",
+      "summary": "Bir işyeri ya da kapalı bir kurum olarak okunabilen bir mekânda beklemek, çalışmak ve sistemin dilini öğrenmek üzerine parçalı bir anlatı."
     },
     "en": {
-      "title": "The Door",
-      "summary": "A fragmented memoir of a place that can be read as a workplace or a closed institution."
+      "title": "The Threshold",
+      "summary": "A fragmented memoir about waiting, working, and learning the language of a system that may be either a workplace or a closed institution."
     }
   },
-  "translation_working_source_language": "en"
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0001/esik.jpg",
+    "alt": {
+      "tr": "Karanlık ve aydınlık iki dünyanın birleştiği bir eşikte, elinde dosyalarla içeriye doğru yürüyen anlatıcı; bir tarafta kapalı kurum, diğer tarafta çalışma mekânı.",
+      "en": "The narrator walking through a threshold with files in hand, where a dark closed institution and a bright workplace appear as two sides of the same world."
+    }
+  }
 }
