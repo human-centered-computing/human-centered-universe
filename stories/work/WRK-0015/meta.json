@@ -1,7 +1,7 @@
 {
   "id": "WRK-0015",
-  "title": "Extra",
-  "original_title": "Fazladan",
+  "title": "The Extra",
+  "original_title": "Fazlası",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -48,11 +48,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Fazladan",
+      "title": "Fazlası",
       "summary": "Çalışma Evinden Anılar döngüsünde son fazladan i̇ş üzerine parçalı bölüm."
     },
     "en": {
-      "title": "Extra",
+      "title": "The Extra",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
