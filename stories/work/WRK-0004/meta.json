@@ -4,92 +4,27 @@
   "original_title": "Kâğıt",
   "core": "WORK",
   "status": "canon",
-  "source_language": "en",
+  "source_language": "tr",
   "book_order": 4,
-  "culture": [
-    "transcultural"
-  ],
-  "belief_context": [
-    "philosophical",
-    "social",
-    "literary"
-  ],
-  "summary": "A fragmented work-cycle chapter about form, continuing the ambiguous House of Work memoir.",
+  "culture": ["transcultural"],
+  "belief_context": ["philosophical","social","literary"],
+  "summary": "A fragmented memoir about forms, signatures, categories, and the distance between recording an event and actually responding to it. The paper becomes complete while the person's request remains unresolved.",
   "reality_weaving": {
     "mode": "woven",
-    "reality_roots": [
-      "Modern work routines",
-      "Institutional hierarchy",
-      "Human labor and organizational measurement"
-    ],
-    "imaginative_transformation": "The workplace and closed-house readings remain simultaneously possible.",
-    "emergent_question": "What remains human when a system becomes internalized?"
+    "reality_roots": ["Modern work routines","Institutional hierarchy","Human labor and organizational measurement"],
+    "imaginative_transformation": "The workplace and closed-institution readings remain simultaneously plausible. Forms, signatures, blank fields, and procedural language gradually replace the person's own account.",
+    "emergent_question": "What happens to a person's experience when the form becomes more complete than the life it is meant to record?"
   },
   "translations": {
-    "en": {
-      "status": "canonical",
-      "human_reviewed": true
-    },
-    "tr": {
-      "status": "reviewed",
-      "human_reviewed": true
-    }
+    "tr": {"status": "reviewed", "human_reviewed": true},
+    "en": {"status": "canonical", "human_reviewed": true}
   },
   "links": [
-    {
-      "target": "WRK-0003",
-      "type": "memory",
-      "note": "The previous work-cycle chapter echoes into this one."
-    },
-    {
-      "target": "WRK-0005",
-      "type": "future",
-      "note": "The next chapter carries the same transformation forward."
-    }
+    {"target": "WRK-0003", "type": "memory", "note": "The previous chapter's voices become written statements, summaries, and unanswered questions."},
+    {"target": "WRK-0005", "type": "future", "note": "The next chapter carries the blank spaces and unresolved request into a larger absence."}
   ],
   "localized": {
-    "tr": {
-      "title": "Kâğıt",
-      "summary": "Çalışma Evinden Anılar döngüsünde form üzerine parçalı bir bölüm."
-    },
-    "en": {
-      "title": "The Paper",
-      "summary": "A fragmented chapter of the House of Work cycle."
-    }
-  },
-  "observer_choices": [
-    {
-      "key": "human",
-      "label": "Follow the human meaning and lived experience.",
-      "effects": {
-        "HUMAN": 6,
-        "LIGHT": 2,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "light",
-      "label": "Seek clarity, structure, and understanding.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 6,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "dark",
-      "label": "Follow the unresolved tension and freedom.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 2,
-        "DARK": 6
-      }
-    }
-  ],
-  "center_weights": {
-    "HUMAN": 45,
-    "LIGHT": 30,
-    "DARK": 25
-  },
-  "primary_center": "HUMAN"
+    "tr": {"title": "Kâğıt", "summary": "Formlar, imzalar ve boş alanlar üzerinden insanın yaşadığı şey ile kayda geçirilmesi gereken şey arasındaki mesafeyi anlatan parçalı bir bölüm."},
+    "en": {"title": "The Paper", "summary": "A fragmented chapter about forms, signatures, blank fields, and the distance between a person's experience and what the record can contain."}
+  }
 }
