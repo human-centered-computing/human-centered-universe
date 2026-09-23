@@ -1,4 +1,4 @@
-# WRK-0014 — Yerime Gelen
+# WRK-0014 — Yerine
 
 Yeni kişi geldiğinde gençti.
 
