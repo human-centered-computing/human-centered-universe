@@ -1,67 +1,289 @@
-# WRK-0002 — Before Eight
+# WRK-0002 — The Place
 
-After a while I no longer needed to ask what time it was.
+It was easy to tell where the desk was.
 
-I knew when I woke.
+People sat at their desks without looking at them. As if everyone knew who each desk belonged to, even when there was no name on it.
 
-At first an alarm woke me. Then I began waking before it.
+One day a newcomer sat at an empty desk.
 
-One morning it was 6:42.
+The woman stopped when she saw him.
 
-It was early.
+“That isn’t your place.”
 
-I got up anyway.
+He looked up.
 
-Nobody had told me to prepare.
+“It’s empty.”
 
-I prepared.
+“Empty.”
 
-Inside, the clock was not only on the wall. It was in the corridor. On doors. On papers. In people's faces.
+She looked at the desk.
 
-When someone was late, people looked at the clock first.
+“But it’s his.”
 
-When someone had to leave early, they pointed to the time.
+“I thought no one was here.”
 
-When a task took too long:
+“He won’t come.”
 
-“Time is running out.”
+“When will he?”
 
-Sometimes people talked more about how long a task had taken than about what it had done.
+The woman did not answer.
 
-One day the wall clock stopped.
+The man stood up.
 
-Nobody noticed for several minutes.
+There was a file on the desk, a pen without a cap, and a half-finished glass of something.
 
-Then someone asked:
+“What will happen to these?”
 
-“What time is it?”
+“Leave them.”
 
-Everyone looked at another clock.
+The man did not touch the file.
 
-Phones came out.
+Another desk was pointed out.
 
-The clock was taken down.
+“Sit there.”
 
-Until a new one arrived, people still came and left at the same hours.
+I sat at that desk.
 
-That day I saw that the order could continue without a clock.
+When I opened the drawer, I found several pens, a small stapler, and a key whose purpose I did not know.
 
-Later I stopped worrying when the clock broke.
+I picked up the key.
 
-The real clock was already working inside us.
+I showed it to the man at the next desk.
 
-One night I woke at three.
+“What does this key open?”
 
-I stared at the ceiling.
+He looked at it.
 
-Then I thought about the next morning.
+“I don’t know.”
 
-I went back to sleep.
+“Could it belong to the old desk?”
 
-I woke before the alarm.
+“Could be.”
 
-Once the clock told me when the day began.
+“Whose was it?”
 
-Now the clock only reminded me of something I already knew.
+“I don’t know.”
 
-I was the one who decided that the day had begun.
+I put the key back in the drawer.
+
+After a while, the same file came to me.
+
+Someone else’s handwriting was on the first page.
+
+On the second page, I came across a sentence I had said before.
+
+I read the sentence again.
+
+There was someone else’s signature beside it.
+
+“That sentence was written at my desk.”
+
+The person who brought the file looked at me.
+
+“At your desk.”
+
+“Yes.”
+
+“Now it’s here.”
+
+I did not close the file.
+
+When my desk was changed, they put the same file in front of me.
+
+At the previous desk, no one had asked me anything.
+
+Here, everyone did.
+
+The file was the same.
+
+The questions were different.
+
+One day I looked at the desk by the window.
+
+No one had sat there for a long time.
+
+But the desk was not empty.
+
+There was a glass on it.
+
+A pen without a cap.
+
+A thin file.
+
+Inside the file I found a small piece of paper.
+
+It said:
+
+**If we do this this way…**
+
+Underneath, in another handwriting:
+
+**Think again.**
+
+I left the paper on the desk.
+
+The woman beside me saw it.
+
+“This place isn’t empty.”
+
+“Who sits here?”
+
+“Someone knows.”
+
+“Do you?”
+
+“No.”
+
+I went to the window.
+
+I looked outside.
+
+Then at the desk.
+
+After a while I picked up the file.
+
+There were procedures inside.
+
+Dates.
+
+Signatures.
+
+Notes.
+
+Many different handwritings.
+
+But there was nothing that showed who the desk belonged to.
+
+I put the file back.
+
+Another day my desk was changed again.
+
+This time I sat farther away.
+
+The same file came in front of me.
+
+I opened the first page.
+
+Then the second.
+
+Then the third.
+
+I noticed something.
+
+There was a small scratch along the edge of the file.
+
+I had seen it before.
+
+“This file was on my desk before.”
+
+The person beside me said:
+
+“Could be.”
+
+“Where is this?”
+
+“Your place.”
+
+“The previous desk?”
+
+“Someone else’s.”
+
+“Wasn’t it my place?”
+
+“Not anymore.”
+
+The person took the file and carried it to another desk.
+
+After a while I stopped beside someone else’s desk.
+
+A coat was hanging behind the chair.
+
+There were files on the desk.
+
+“This is his desk.”
+
+“He won’t come.”
+
+“How long has it been?”
+
+“I don’t know.”
+
+“The files?”
+
+“They’ll stay here.”
+
+“Won’t someone look at them?”
+
+“They will.”
+
+“Who?”
+
+There was no answer.
+
+People were leaving.
+
+The desks remained.
+
+There was a small scratch on the edge of one desk.
+
+A dried ink stain on another.
+
+A half-broken pen in a drawer.
+
+A fold in the corner of a file.
+
+None of them had a name beside them.
+
+“Who did it?”
+
+“No one remembers.”
+
+In the files, everything was more orderly.
+
+Who took it.
+
+Who sent it.
+
+Who checked it.
+
+Who signed it.
+
+Which desk it came from.
+
+Which desk it went to.
+
+But on the first page of the file, it was impossible to tell where it had begun.
+
+One line had been left blank.
+
+I looked at that blank space for a long time.
+
+Then another chair was pulled out.
+
+A newcomer was about to sit down.
+
+He looked at me.
+
+“Is this yours?”
+
+“For now, I’m here.”
+
+He looked at the desk for a while.
+
+Then he asked:
+
+“Is this place empty?”
+
+I looked at the desk.
+
+The file.
+
+The pen.
+
+The glass.
+
+The drawer.
+
+I did not answer.
+
+The man did not sit.
