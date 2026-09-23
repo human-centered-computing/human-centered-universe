@@ -1,4 +1,4 @@
-# WRK-0008 — Bir Kezlik
+# WRK-0008 — Bir Kez
 
 Kural açıktı.
 
