@@ -1,4 +1,4 @@
-# The Gathering
+# WRK-0005 — The Decision
 
 One day we were called.
 
