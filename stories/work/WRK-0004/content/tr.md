@@ -40,9 +40,29 @@ Orada başka bir kâğıt verdiler.
 
 “Öyle gerekiyor.”
 
+Bir süre sonra önümdeki kâğıda baktım.
+
+Kutular vardı.
+
+Satırlar vardı.
+
+İmzalar için yerler vardı.
+
+Ama benim anlatmak istediğim şey için bir yer yoktu.
+
+“Benim durumum buraya sığmaz.”
+
+dedim.
+
+Kâğıdı getiren kişi:
+
+“Bir kutuya sığması gerekiyor.”
+
+dedi.
+
 Günler geçti.
 
-Sonunda ilk istediğim şeyi unuttum.
+Sonunda ilk istediğim şeyi unutmaya başladım.
 
 Bir gün dosyayı açtım.
 
@@ -66,24 +86,52 @@ Bana baktılar.
 
 Sanki yanlış bir şey sormuştum.
 
-Sonra anladım:
+Bir başka kâğıtta tek bir cümle gördüm.
 
-Bazen bir şeyin yapılmış olması yetmiyordu.
+**Bunu kim söyledi?**
 
-Doğru biçimde kaydedilmiş olması gerekiyordu.
+Altında cevap yoktu.
 
-Bir insanın yaşadığı olay, kâğıtta doğru kutuya girmiyorsa eksik sayılabiliyordu.
+Başka bir sayfada:
 
-Yıllar sonra eski bir form buldum.
+**İnsan nerede?**
 
-Kutulardan biri boştu.
+Bu sorunun da karşısında boşluk vardı.
 
-Üzerinde tek bir soru vardı:
+Dosyanın sonunda küçük bir bölüm vardı.
+
+**Hazırlayan:**
+
+Altı boştu.
+
+Bir süre o boşluğa baktım.
+
+Sonra dosyanın içindeki cümleleri tekrar okudum.
+
+Bazıları benim söylediklerime benziyordu.
+
+Bazıları benim yazdıklarıma.
+
+Ama hiçbirinin yanında benim adım yoktu.
+
+Bir gün eski bir form buldum.
+
+Kâğıdın kenarında bir not vardı:
+
+**Buraya benim elim değmedi.**
+
+Kimin yazdığını bilmiyordum.
+
+Altında yine boş bir alan vardı.
+
+Yıllar sonra aynı soruyu başka bir yerde gördüm.
 
 “Bu ne için?”
 
-Kimse cevaplamamıştı.
+Bu kez cevap vermedim.
+
+Çünkü bazı yerlerde amaç sorusu, prosedür sorusundan daha tehlikeliydi.
 
 Kâğıdı kapattım.
 
-Çünkü bazı yerlerde amaç sorusu, prosedür sorusundan daha tehlikeliydi.
+Ama üzerindeki boşluklar kapanmadı.
