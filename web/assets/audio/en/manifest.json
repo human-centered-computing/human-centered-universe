@@ -232,6 +232,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "WRK-0002",
+      "title": "Before Eight",
+      "file": "./WRK-0002.mp3",
+      "duration_seconds": 280.372,
+      "bytes": 3364825,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "WRK-0016",
       "title": "What Becomes Visible",
       "file": "./WRK-0016.mp3",
