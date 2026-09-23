@@ -260,16 +260,16 @@
     },
     {
       "id": "WRK-0001",
-      "title": "Kapı",
+      "title": "Eşik",
       "file": "./WRK-0001.mp3",
-      "duration_seconds": 256.94,
-      "bytes": 3083643,
+      "duration_seconds": 255.634,
+      "bytes": 3067969,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
     },
     {
       "id": "WRK-0002",
-      "title": "Sekizden Önce",
+      "title": "Yer",
       "file": "./WRK-0002.mp3",
       "duration_seconds": 310.883,
       "bytes": 3730957,
