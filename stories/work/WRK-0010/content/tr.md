@@ -1,4 +1,4 @@
-# WRK-0010 — Koridor
+# WRK-0010 — Geçiş
 
 Koridoru zamanla ezberledim.
 
