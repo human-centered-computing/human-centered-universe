@@ -15,7 +15,7 @@
     "literary",
     "science-fiction"
   ],
-  "summary": "A fragmented memoir about place, belonging and traces left behind in a workplace or closed institution. Desks, files, handwriting, objects and unnamed marks remain while the people associated with them disappear or move on.",
+  "summary": "A fragmented memoir about place, belonging, and the traces people leave behind in a workplace or closed institution. Desks, files, handwriting, objects and unnamed marks remain while people disappear, move on, or are replaced.",
   "reality_weaving": {
     "mode": "woven",
     "reality_roots": [
@@ -24,7 +24,7 @@
       "Human labor and organizational memory"
     ],
     "imaginative_transformation": "The workplace and closed-house readings remain simultaneously possible. A desk can be a place of work, a cell-like station, or simply a place temporarily assigned to a person.",
-    "emergent_question": "When a person leaves a place, what remains theirs, and what makes a place belong to anyone at all?"
+    "emergent_question": "When a person leaves a place, what remains of them, and what makes a place belong to anyone at all?"
   },
   "translations": {
     "tr": {
@@ -37,7 +37,7 @@
     }
   },
   "hero_image": {
-    "src": "./assets/images/stories/WRK-0002/yer.jpg",
+    "src": "./assets/images/stories/WRK-0002/yer.jpg?v=2",
     "alt": {
       "tr": "Karanlık ve aydınlık iki atmosferin birleştiği eski bir çalışma mekânında, masasının başında oturan anlatıcı; dosyalar, boş masalar ve geride kalan izler.",
       "en": "The narrator seated at a desk in an old workplace where dark and warm spaces merge, surrounded by files, empty desks, and traces left behind."
