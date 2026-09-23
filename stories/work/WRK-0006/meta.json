@@ -1,7 +1,7 @@
 {
   "id": "WRK-0006",
-  "title": "Going Outside",
-  "original_title": "Dışarı Çıkmak",
+  "title": "Outside",
+  "original_title": "Dışarı",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -49,11 +49,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Dışarı Çıkmak",
+      "title": "Dışarı",
       "summary": "Çalışma Evinden Anılar döngüsünde i̇zin üzerine parçalı bir bölüm."
     },
     "en": {
-      "title": "Going Outside",
+      "title": "Outside",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
