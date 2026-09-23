@@ -1,10 +1,52 @@
 {
   "id": "WRK-0001",
-  "title": "Memories from the House of Work",
-  "themes": ["labor", "hierarchy", "invisible work", "performance", "quality", "idea ownership", "alienation", "freedom"],
+  "title": "The Threshold",
+  "themes": [
+    "labor",
+    "hierarchy",
+    "invisible work",
+    "performance",
+    "quality",
+    "idea ownership",
+    "alienation",
+    "freedom"
+  ],
   "narrative_form": "fragmented memoir",
-  "temporal_model": "nonlinear; no explicit chronological ordering",
+  "temporal_model": "nonlinear; linked cycle",
   "ambiguity": "workplace and closed institution remain simultaneously plausible",
-  "core_question": "What happens when a human-created system begins to reshape the human being inside it?",
-  "linked_story": "BRG-0002"
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 40,
+    "LIGHT": 35,
+    "DARK": 25
+  },
+  "observer_choices": [
+    {
+      "key": "human",
+      "label": "Follow the human experience of entering, adapting to, and questioning the system.",
+      "effects": {
+        "HUMAN": 6,
+        "LIGHT": 2,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "light",
+      "label": "Seek clarity, structure, and the rules behind the system.",
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 6,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "dark",
+      "label": "Follow the unresolved tension, silence, and ambiguity of the institution.",
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 2,
+        "DARK": 6
+      }
+    }
+  ]
 }
