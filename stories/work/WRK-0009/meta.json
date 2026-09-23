@@ -1,7 +1,7 @@
 {
   "id": "WRK-0009",
-  "title": "Handover",
-  "original_title": "Devir",
+  "title": "What Remains Behind",
+  "original_title": "Ardında Kalan",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -48,11 +48,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Devir",
+      "title": "Ardında Kalan",
       "summary": "Çalışma Evinden Anılar döngüsünde devir üzerine parçalı bölüm."
     },
     "en": {
-      "title": "Handover",
+      "title": "What Remains Behind",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
