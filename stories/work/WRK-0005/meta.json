@@ -1,7 +1,7 @@
 {
   "id": "WRK-0005",
-  "title": "The Gathering",
-  "original_title": "Toplanma",
+  "title": "The Decision",
+  "original_title": "Karar",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -49,11 +49,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Toplanma",
+      "title": "Karar",
       "summary": "Çalışma Evinden Anılar döngüsünde toplantı üzerine parçalı bir bölüm."
     },
     "en": {
-      "title": "The Gathering",
+      "title": "The Decision",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
