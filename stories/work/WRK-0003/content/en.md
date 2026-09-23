@@ -1,69 +1,169 @@
-# WRK-0003 — The Place
+# WRK-0003 — The Voice
 
-People do not easily forget their place.
+I heard the voices first.
 
-Neither did I.
+I learned where they came from later.
 
-My first place was near the door. I could see it opening and closing.
+Sometimes from behind a door.
 
-Then they moved me.
+Sometimes from the end of the corridor.
 
-Near the window.
+Sometimes from the desk beside mine.
 
-Then to the end of the corridor.
+One day I heard two people arguing.
 
-As my place changed, so did the way people looked at me.
+“I didn’t say that.”
 
-One morning I sat in an empty chair.
+“You did.”
 
-“That is not your place.”
+“I heard you.”
 
-“Where is my place?”
+“Who heard?”
 
-They pointed.
+There was silence for a while.
 
-The chairs looked alike.
+Then someone said:
 
-But they were not the same.
+“Put it in writing.”
 
-People spoke louder from some of them.
+The next day I saw the same conversation on paper.
 
-More quietly from others.
+The sentences were neater.
 
-Some people were never made to wait.
+They sounded like no one’s voice.
 
-Others waited to be called.
+It was clear who had said what.
 
-One day a man came and looked at the chair beside me.
+But not how anyone had said it.
 
-“Is this empty?”
+After a while, a device for recording conversations arrived.
 
-“Yes.”
+It was a small device.
 
-He was about to sit, then stopped.
+It was left among the desks.
 
-“Is it really empty?”
+No one looked at it.
 
-I did not understand.
+But everyone knew it was there.
 
-Later I learned that a place can be empty without being unclaimed.
+One day I found a piece of paper beside it.
 
-Years later I was given a better place.
+There was one word on it.
 
-People began speaking more carefully around me.
+**AGAIN**
 
-I was the same person.
+Below it:
 
-Only my place had changed.
+**AGAIN**
 
-For a while I thought that sometimes a person carries the value of the place rather than his own.
+And one more line:
 
-After some time I became the one who showed newcomers where to sit.
+**AGAIN**
 
-“Sit here,” I said.
+I asked who had left the paper.
 
-As I said it, I remembered the voice from my first day.
+“I don’t know.”
 
-The chair had changed.
+“Who said that?”
 
-The sentence had not.
+The man beside me looked at me.
+
+“Which one?”
+
+I did not answer.
+
+There was a summary of a conversation in one of the files.
+
+One sentence caught my attention.
+
+**Who said that?**
+
+There was no answer below it.
+
+Only a blank space.
+
+After a while I entered a meeting.
+
+People spoke.
+
+Some took notes.
+
+Some nodded.
+
+Some said nothing.
+
+At the end of the meeting someone said:
+
+“Leave this blank.”
+
+“How much?”
+
+“As much as necessary.”
+
+A blank space remained on the paper.
+
+No one filled it.
+
+One day I sat beside a man who had been silent.
+
+He said nothing for a long time.
+
+Then:
+
+“No one is listening.”
+
+“I am listening.”
+
+He looked at me.
+
+“You hear.”
+
+Then he fell silent.
+
+After a while, that same man’s voice appeared in a file.
+
+It was a single sentence.
+
+Beside it was written:
+
+**APPROVED**
+
+I closed the file.
+
+After a while, I began seeing the same word in other files.
+
+**APPROVED.**
+
+It said who had approved it.
+
+But not why.
+
+One day I listened to the old recordings.
+
+There were voices.
+
+There were words.
+
+There were pauses.
+
+But in some places the recording had been cut.
+
+There were gaps between the recordings.
+
+I looked at those gaps for a long time.
+
+Then I heard the same question again.
+
+“Who said that?”
+
+This time I did not answer.
+
+Because I had understood that knowing whose voice it was and knowing what that voice meant were not the same thing.
+
+The recording device was still on the desk.
+
+No one touched it.
+
+But everyone kept speaking.
+
+And I kept listening.
