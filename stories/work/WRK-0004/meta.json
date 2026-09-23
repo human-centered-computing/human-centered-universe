@@ -1,7 +1,7 @@
 {
   "id": "WRK-0004",
-  "title": "What the Paper Wants",
-  "original_title": "Kâğıdın İstediği",
+  "title": "The Paper",
+  "original_title": "Kâğıt",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -49,11 +49,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Kâğıdın İstediği",
+      "title": "Kâğıt",
       "summary": "Çalışma Evinden Anılar döngüsünde form üzerine parçalı bir bölüm."
     },
     "en": {
-      "title": "What the Paper Wants",
+      "title": "The Paper",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
