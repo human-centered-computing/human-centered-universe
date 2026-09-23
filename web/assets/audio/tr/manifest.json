@@ -260,10 +260,10 @@
     },
     {
       "id": "WRK-0001",
-      "title": "Çalışma Evinden Anılar",
+      "title": "Kapı",
       "file": "./WRK-0001.mp3",
-      "duration_seconds": 172.669,
-      "bytes": 2072391,
+      "duration_seconds": 172.8,
+      "bytes": 2073958,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
     },
