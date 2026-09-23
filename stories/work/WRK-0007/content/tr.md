@@ -1,4 +1,4 @@
-# WRK-0007 — Sayılanlar
+# WRK-0007 — Sayılmak
 
 Bir gün herkes sayılmaya başladı.
 
