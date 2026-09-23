@@ -1,4 +1,4 @@
-# WRK-0012 — Söylenenler
+# WRK-0012 — Söylenen
 
 Resmî bilgi yavaş gelirdi.
 
