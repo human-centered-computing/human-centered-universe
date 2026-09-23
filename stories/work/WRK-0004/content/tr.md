@@ -1,4 +1,4 @@
-# WRK-0004 — Kâğıdın İstediği
+# WRK-0004 — Kâğıt
 
 Bir gün bir şey istemem gerekti.
 
