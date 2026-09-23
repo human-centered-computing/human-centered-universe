@@ -1,77 +1,291 @@
-# WRK-0002 — Sekizden Önce
+# WRK-0002 — Yer
 
-Bir süre sonra saatin kaç olduğunu sormama gerek kalmadı.
+Masanın nerede olduğunu anlamak kolaydı.
 
-Uyandığımda bilirdim.
+İnsanlar masalarına bakmadan oturuyorlardı. Sanki her masanın kime ait olduğu, üzerinde herhangi bir isim bulunmasa bile biliniyordu.
 
-İlk zamanlar alarm çalardı. Sonra alarmdan önce uyanmaya başladım.
+Bir gün boş bir masaya yeni biri oturdu.
 
-Bir sabah altı kırk iki.
+Kadın onu görünce durdu.
 
-Henüz erkendi.
+“Orası senin yerin değil.”
 
-Yine de kalktım.
+Adam başını kaldırdı.
 
-Kimse “hazırlan” dememişti.
+“Boş.”
 
-Ama hazırlandım.
+“Boş.”
 
-İçeride saat yalnızca duvarda değildi. Koridorda vardı. Kapının üzerinde vardı. Kâğıtlarda vardı. İnsanların yüzlerinde vardı.
+Kadın masaya baktı.
 
-Geç kalan birine önce saate bakılırdı.
+“Ama onun.”
 
-Birinin erken çıkması gerektiğinde saat gösterilirdi.
+“Kimsenin burada olmadığını sanıyordum.”
 
-Bir iş uzadığında:
+“Gelmez.”
 
-“Vakit dar.”
+“Ne zaman gelir?”
 
-denirdi.
+Kadın cevap vermedi.
 
-Bazen bir insanın yaptığı işten çok, o iş için harcadığı süre konuşulurdu.
+Adam ayağa kalktı.
 
-Bir gün duvardaki saat durdu.
+Masanın üzerinde bir dosya, kapaksız bir kalem ve yarısı içilmiş bir bardak vardı.
 
-Akrep ile yelkovan aynı yerde kaldı.
+“Bunlar ne olacak?”
 
-Kimse birkaç dakika fark etmedi.
+“Bırak.”
 
-Sonra biri:
+Adam dosyaya dokunmadı.
 
-“Kaç oldu?”
+Başka bir masa gösterildi.
 
-diye sordu.
+“Şuraya otur.”
 
-Herkes başka saatlere baktı.
+O masaya oturdum.
 
-Telefonlar çıkarıldı.
+Çekmeceyi açtığımda birkaç kalem, küçük bir zımba ve ne işe yaradığını bilmediğim bir anahtar buldum.
 
-Saat söküldü.
+Anahtarı elime aldım.
 
-Yeni saat gelene kadar insanlar yine aynı saatlerde gelip gittiler.
+Yan masadaki adama gösterdim.
 
-O gün saat olmadan da düzenin devam ettiğini gördüm.
+“Bu neyin anahtarı?”
 
-Daha sonra saatin bozulmasından korkmamaya başladım.
+Baktı.
 
-Çünkü asıl saat içimizde çalışıyordu.
+“Bilmiyorum.”
 
-Bir gece evde uyandım.
+“Eski masanın olabilir mi?”
 
-Saat üçtü.
+“Olabilir.”
 
-Bir süre tavana baktım.
+“Kimindi?”
 
-Sonra aklıma ertesi sabah geldi.
+“Bilmiyorum.”
 
-Yeniden uyudum.
+Anahtarı çekmeceye geri koydum.
 
-Saat çalmadan kalktım.
+Bir süre sonra aynı dosya önüme geldi.
 
-Bir zamanlar bana günün ne zaman başladığını saat söylüyordu.
+İlk sayfasında başka birinin yazısı vardı.
 
-Artık saat yalnızca bana günün başladığını hatırlatıyordu.
+İkinci sayfada benim daha önce söylediğim bir cümleye rastladım.
 
-Günün gerçekten başlayıp başlamadığına ise kimse bakmıyordu.
+Cümleyi tekrar okudum.
 
-Ben bakıyordum.
+Yanında başka birinin imzası vardı.
+
+“Bu cümle benim masamda yazılmıştı.”
+
+Dosyayı getiren kişi bana baktı.
+
+“Senin masanda.”
+
+“Evet.”
+
+“Şimdi burada.”
+
+Dosyayı kapatmadım.
+
+Masam değiştiğinde aynı dosyayı önüme koydular.
+
+Önceki masada kimse bana sormamıştı.
+
+Burada herkes soruyordu.
+
+Dosya aynıydı.
+
+Sorular değişmişti.
+
+Bir gün pencerenin yanındaki masaya baktım.
+
+Uzun zamandır kimse oturmuyordu.
+
+Ama masa boş değildi.
+
+Üzerinde bir bardak vardı.
+
+Kapaksız bir kalem.
+
+İnce bir dosya.
+
+Dosyanın arasında küçük bir kâğıt buldum.
+
+Üzerinde:
+
+**Eğer bunu böyle yaparsak…**
+
+yazıyordu.
+
+Altında başka bir el yazısıyla:
+
+**Tekrar düşün.**
+
+Kâğıdı masaya bıraktım.
+
+Yanımdaki kadın bunu gördü.
+
+“Burası boş değil.”
+
+“Kim oturuyor?”
+
+“Bilen vardır.”
+
+“Sen biliyor musun?”
+
+“Hayır.”
+
+Pencerenin önüne gittim.
+
+Dışarı baktım.
+
+Sonra masaya.
+
+Bir süre sonra dosyayı aldım.
+
+İçinde işlemler vardı.
+
+Tarihler.
+
+İmzalar.
+
+Notlar.
+
+Bir sürü el yazısı.
+
+Ama masanın kime ait olduğunu gösteren bir şey yoktu.
+
+Dosyayı yerine bıraktım.
+
+Başka bir gün benim masam yine değişti.
+
+Bu kez daha uzakta bir yere oturdum.
+
+Önüme aynı dosya geldi.
+
+İlk sayfayı açtım.
+
+Sonra ikinciyi.
+
+Sonra üçüncüyü.
+
+Bir şey fark ettim.
+
+Dosyanın kenarında küçük bir çizik vardı.
+
+Daha önce de görmüştüm.
+
+“Bu dosya daha önce benim masamdaydı.”
+
+Yanımdaki kişi:
+
+“Olabilir.”
+
+“Burası neresi?”
+
+“Senin yerin.”
+
+“Daha önceki masa?”
+
+“Başkasının.”
+
+“Benim yerim değil miydi?”
+
+“Artık değil.”
+
+Bunu söyleyen kişi dosyayı aldı ve başka bir masaya götürdü.
+
+Bir süre sonra başka birinin masasının yanında durdum.
+
+Sandalyenin arkasında bir mont asılıydı.
+
+Masanın üzerinde dosyalar vardı.
+
+“Burası onun masası.”
+
+“Gelmez.”
+
+“Ne zamandır?”
+
+“Bilmiyorum.”
+
+“Dosyaları?”
+
+“Burada kalacak.”
+
+“Peki biri bakmayacak mı?”
+
+“Bakacak.”
+
+“Kim?”
+
+Cevap gelmedi.
+
+İnsanlar gidiyordu.
+
+Masalar kalıyordu.
+
+Bir masanın kenarında küçük bir çizik gördüm.
+
+Başka bir masada kurumuş mürekkep lekesi.
+
+Bir çekmecenin içinde yarısı kırılmış bir kalem.
+
+Bir dosyanın köşesinde kat izi.
+
+Bunların hiçbirinin yanında isim yoktu.
+
+“Kim yaptı?”
+
+“Hatırlayan yok.”
+
+Dosyalarda ise her şey daha düzenliydi.
+
+Kim aldı.
+
+Kim gönderdi.
+
+Kim kontrol etti.
+
+Kim imzaladı.
+
+Hangi masadan çıktığı.
+
+Hangi masaya gittiği.
+
+Ama dosyanın ilk sayfasında, nerede başladığı belli değildi.
+
+Bir satır boş bırakılmıştı.
+
+O boşluğa uzun süre baktım.
+
+Sonra başka bir sandalye çekildi.
+
+Yeni gelen biri oturmak üzereydi.
+
+Bana baktı.
+
+“Burası senin mi?”
+
+“Şu an burada benim.”
+
+Bir süre masaya baktı.
+
+Sonra sordu:
+
+“Burası boş mu?”
+
+Masaya baktım.
+
+Dosya.
+
+Kalem.
+
+Bardak.
+
+Çekmece.
+
+Cevap vermedim.
+
+Adam da oturmadı.
