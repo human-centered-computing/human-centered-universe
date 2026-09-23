@@ -1,10 +1,10 @@
 {
   "id": "WRK-0003",
-  "title": "The Place",
-  "original_title": "Yer",
+  "title": "The Voice",
+  "original_title": "Ses",
   "core": "WORK",
   "status": "canon",
-  "source_language": "en",
+  "source_language": "tr",
   "book_order": 3,
   "culture": [
     "transcultural"
@@ -14,24 +14,24 @@
     "social",
     "literary"
   ],
-  "summary": "A fragmented work-cycle chapter about sandalye, continuing the ambiguous House of Work memoir.",
+  "summary": "A fragmented memoir about voice, recording, silence, and the transformation of living speech into institutional text. What is heard and what is written remain close, but never identical.",
   "reality_weaving": {
     "mode": "woven",
     "reality_roots": [
       "Modern work routines",
       "Institutional hierarchy",
-      "Human labor and organizational measurement"
+      "Human labor and organizational memory"
     ],
-    "imaginative_transformation": "The workplace and closed-house readings remain simultaneously possible.",
-    "emergent_question": "What remains human when a system becomes internalized?"
+    "imaginative_transformation": "The workplace and closed-institution readings remain simultaneously plausible. Voices, recordings, written summaries, and deliberate blanks create an institution whose rules are heard before they are understood.",
+    "emergent_question": "When a voice is recorded and rewritten, what remains of what was actually said?"
   },
   "translations": {
-    "en": {
-      "status": "canonical",
-      "human_reviewed": true
-    },
     "tr": {
       "status": "reviewed",
+      "human_reviewed": true
+    },
+    "en": {
+      "status": "canonical",
       "human_reviewed": true
     }
   },
@@ -39,22 +39,22 @@
     {
       "target": "WRK-0002",
       "type": "memory",
-      "note": "The previous work-cycle chapter echoes into this one."
+      "note": "The previous chapter's places leave traces; this chapter asks what happens to the voices that pass through them."
     },
     {
       "target": "WRK-0004",
       "type": "future",
-      "note": "The next chapter carries the same transformation forward."
+      "note": "The next chapter shifts from recorded speech to the paper that gives speech a formal shape."
     }
   ],
   "localized": {
     "tr": {
-      "title": "Yer",
-      "summary": "Çalışma Evinden Anılar döngüsünde sandalye üzerine parçalı bir bölüm."
+      "title": "Ses",
+      "summary": "Ses, kayıt, sessizlik ve konuşulanın kurumsal metne dönüşmesi üzerinden gerçeğin nasıl değiştiğini anlatan parçalı bir bölüm."
     },
     "en": {
-      "title": "The Place",
-      "summary": "A fragmented chapter of the House of Work cycle."
+      "title": "The Voice",
+      "summary": "A fragmented chapter about voice, recording, silence, and what is lost when speech becomes institutional text."
     }
   },
   "observer_choices": [
