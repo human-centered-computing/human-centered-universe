@@ -1,7 +1,7 @@
 {
   "id": "WRK-0014",
-  "title": "The One Who Replaces Me",
-  "original_title": "Yerime Gelen",
+  "title": "The Replacement",
+  "original_title": "Yerine",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -48,11 +48,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Yerime Gelen",
+      "title": "Yerine",
       "summary": "Çalışma Evinden Anılar döngüsünde yerine gelen üzerine parçalı bölüm."
     },
     "en": {
-      "title": "The One Who Replaces Me",
+      "title": "The Replacement",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
