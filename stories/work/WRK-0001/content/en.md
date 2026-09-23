@@ -1,135 +1,227 @@
-# WRK-0001 — The Door
+# WRK-0001 — The Threshold
 
-I do not remember who let me through the door. I remember waiting outside. People were coming out. Others were going in. Nobody seemed hurried, yet everyone had a time.
+I was waiting in front of the door.
 
-I gave my name.
+I had a few papers in my hand. One had my name on it, another had a number. I did not know which one was more important.
 
-They looked at a paper, then at me.
+People were coming out from inside. Some carried files in their hands; others walked out carrying nothing. Those waiting to go in were silent.
 
-“Fine.”
+The man beside me looked at me.
 
-The door opened.
+“First time?”
 
-I went in.
+“Yes.”
 
-I was shown a place.
+“They’ll call you soon.”
+
+“For what?”
+
+He shrugged.
+
+“You’ll understand when you go inside.”
+
+I looked at the door.
+
+There was nothing written on it.
+
+After a while, my name was called.
+
+I went inside.
+
+They showed me a desk.
 
 “This is yours.”
 
-There was a chair. On the desk, a blank sheet of paper.
+There were several files on the desk. The chair was empty.
 
-I did not sit. I looked around first.
+Before sitting down, I looked around.
 
-People seemed to be working. Some spoke, some were silent, some read the same papers again and again. There was a clock in one corner.
+People were working. Some were talking, some were silent, some were reading the papers in front of them over and over.
 
-An older man came over.
+Someone came over to me.
 
-“Your first day?”
+“Put these in order.”
 
-“Yes.”
+I took the files.
 
-“You’ll get used to it.”
+“According to what?”
 
-“To what?”
+“According to the order here.”
 
-He smiled.
+“Which order is that?”
 
-“To this place.”
+He pointed to the paper.
 
-Then he left.
+I looked.
 
-At first I thought it was kindness.
+There really was an order.
 
-They gave me a number.
+But I did not know why it was that order.
 
-“I have a name.”
+I arranged the files.
 
-“You have that too.”
+Then another file arrived.
 
-I wrote the number down.
+“Put this one on hold.”
 
-Then my arrival time was recorded.
+“For how long?”
 
-Then a signature.
+“Wait.”
 
-Then another signature.
+“Until when?”
 
-Everything had a record.
+“They’ll call.”
 
-One day I forgot to make the record. Nothing I had done disappeared. People had seen me. The work was finished.
+That was the word I heard most on my first day.
 
-Still, something was wrong.
+**Wait.**
 
-“Your name is missing.”
+After a while, I started using it too.
 
-I explained.
+When someone asked me something:
 
-They listened.
+“Wait.”
 
-Then they asked me to correct the record.
+When a file arrived:
 
-That was the first time I saw a wall between what a person had done and what the record said the person had done.
+“Wait.”
 
-During my first weeks I asked many questions.
+When someone stood in front of the door:
 
-Why is this door like this?
+“Please wait a little.”
 
-Why do we wait here?
+A person did not notice when they learned certain words.
 
-Why can this person enter while that person waits?
+One day I found an old piece of paper on my desk.
 
-For a while, people answered.
+There were several sentences on it.
 
-Then the answers changed.
+**Who will see the result?**
 
-“That is the procedure.”
+Underneath:
 
-“It has always been this way.”
+**Why is this like this?**
 
-“You’ll understand later.”
+On another line:
 
-I heard the last one most often.
+**Checked again.**
+
+And on the last line:
+
+**Who checked it?**
+
+I did not know who the paper belonged to.
+
+I asked the man at the next desk.
+
+“Did you write this?”
+
+“No.”
+
+“Who did?”
+
+“I don’t know.”
+
+I put the paper back on my desk.
+
+After a while, my desk was changed.
+
+No one explained why.
+
+There were more files at the new desk.
+
+People treated me differently.
+
+They were asking me things they had never asked before.
+
+And I was answering them.
+
+One day, during lunch, the woman sitting beside me said:
+
+“Everyone here is someone else.”
+
+“How?”
+
+“Different here, different outside.”
+
+Then she continued eating.
+
+No one explained what she meant.
+
+After a while, I began to learn about people’s lives outside.
+
+One had a child.
+
+One had debts.
+
+One had a sick mother.
+
+One wanted to go to another city.
+
+None of these things appeared in the files.
+
+The files had names.
+
+Numbers.
+
+Dates.
+
+Signatures.
+
+But they did not say why a person came in that morning.
 
 One day a new person arrived.
 
-He looked around the way I had once looked around.
+He was carrying papers like the ones I had carried on my first day.
 
-I went over.
+He looked around.
 
-“First day?”
+Then he came over to me.
 
-“Yes.”
+“What is done here?”
 
-I paused.
+The first word that came out of my mouth was:
 
-Then I said:
+“Wait.”
 
-“You’ll get used to it.”
+Then I stopped.
 
-As I said it, I recognized my own voice.
+I heard my own voice.
 
-That day I understood that a person did not merely learn the rules here.
+I looked at him for a moment.
 
-A person learned how to teach them to someone else.
+“What am I supposed to do?” he asked.
 
-At the end of the day the door opened.
+This time I could not answer.
 
-Everyone went out.
+I looked at the files on the desk.
 
-I went out too.
+Then at the door.
 
-I looked back.
+Then at him.
 
-Was the door open?
+“I don’t know.”
 
-Was it closed?
+He was surprised.
 
-I could not tell.
+So was I.
 
-The next morning I was there again.
+Because I had never said that before.
 
-Nobody had ordered me to come.
+I walked toward the door.
 
-Perhaps that was the first important thing I learned:
+I left it slightly open.
 
-Some doors do not need a lock to keep a person inside.
+I heard his voice behind me.
+
+“Then who should I ask?”
+
+I did not stop.
+
+“You ask.”
+
+I said.
+
+I left the door a little more open.
+
+And walked away.
