@@ -2,9 +2,9 @@
 
 I was waiting in front of the door.
 
-I had a few papers in my hand. One had my name on it, another had a number. I did not know which one was more important.
+I had a few papers in my hand. My name was written on one, a number on another. I did not know which one was more important.
 
-People were coming out from inside. Some carried files in their hands; others walked out carrying nothing. Those waiting to go in were silent.
+People were coming out from inside. Some carried files in their hands; others walked without carrying anything. Those waiting to go in were silent.
 
 The man beside me looked at me.
 
@@ -36,7 +36,7 @@ There were several files on the desk. The chair was empty.
 
 Before sitting down, I looked around.
 
-People were working. Some were talking, some were silent, some were reading the papers in front of them over and over.
+People were working. Some were talking, some were silent, some were reading the papers in front of them again and again.
 
 Someone came over to me.
 
@@ -62,7 +62,7 @@ I arranged the files.
 
 Then another file arrived.
 
-“Put this one on hold.”
+“Put this on hold.”
 
 “For how long?”
 
@@ -70,9 +70,9 @@ Then another file arrived.
 
 “Until when?”
 
-“They’ll call.”
+“They’ll call you.”
 
-That was the word I heard most on my first day.
+That was the word I heard most often on my first day.
 
 **Wait.**
 
@@ -86,27 +86,27 @@ When a file arrived:
 
 “Wait.”
 
-When someone stood in front of the door:
+When someone stood at the door:
 
 “Please wait a little.”
 
-A person did not notice when they learned certain words.
+You did not notice when you learned certain words.
 
 One day I found an old piece of paper on my desk.
 
-There were several sentences on it.
+There were a few sentences on it.
 
 **Who will see the result?**
 
-Underneath:
+Below it:
 
-**Why is this like this?**
+**Why is it like this?**
 
 On another line:
 
 **Checked again.**
 
-And on the last line:
+On the last line:
 
 **Who checked it?**
 
@@ -132,21 +132,21 @@ There were more files at the new desk.
 
 People treated me differently.
 
-They were asking me things they had never asked before.
+They asked me things they had not asked before.
 
-And I was answering them.
+And I answered.
 
 One day, during lunch, the woman sitting beside me said:
 
-“Everyone here is someone else.”
+“Everyone is someone else here.”
 
-“How?”
+“What do you mean?”
 
-“Different here, different outside.”
+“Someone else here, someone else outside.”
 
 Then she continued eating.
 
-No one explained what she meant.
+No one explained the sentence.
 
 After a while, I began to learn about people’s lives outside.
 
@@ -156,23 +156,23 @@ One had debts.
 
 One had a sick mother.
 
-One wanted to go to another city.
+One wanted to move to another city.
 
 None of these things appeared in the files.
 
 The files had names.
 
-Numbers.
+They had numbers.
 
-Dates.
+They had dates.
 
-Signatures.
+They had signatures.
 
-But they did not say why a person came in that morning.
+But they did not say why a person came in every morning.
 
-One day a new person arrived.
+One day, someone new arrived.
 
-He was carrying papers like the ones I had carried on my first day.
+He was holding papers like the ones I had carried on my first day.
 
 He looked around.
 
@@ -188,11 +188,11 @@ Then I stopped.
 
 I heard my own voice.
 
-I looked at him for a moment.
+I looked at him for a while.
 
 “What am I supposed to do?” he asked.
 
-This time I could not answer.
+This time, I could not answer.
 
 I looked at the files on the desk.
 
@@ -224,4 +224,4 @@ I said.
 
 I left the door a little more open.
 
-And walked away.
+And I walked away.
