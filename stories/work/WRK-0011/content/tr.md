@@ -1,4 +1,4 @@
-# WRK-0011 — Yemek
+# WRK-0011 — Masa
 
 Yemek saatinde herkes değişirdi.
 
