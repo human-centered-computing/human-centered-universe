@@ -1,10 +1,10 @@
 {
   "id": "WRK-0002",
-  "title": "Before Eight",
-  "original_title": "Sekizden Önce",
+  "title": "The Place",
+  "original_title": "Yer",
   "core": "WORK",
   "status": "canon",
-  "source_language": "en",
+  "source_language": "tr",
   "book_order": 2,
   "culture": [
     "transcultural"
@@ -12,84 +12,57 @@
   "belief_context": [
     "philosophical",
     "social",
-    "literary"
+    "literary",
+    "science-fiction"
   ],
-  "summary": "A fragmented work-cycle chapter about saat, continuing the ambiguous House of Work memoir.",
+  "summary": "A fragmented memoir about place, belonging and traces left behind in a workplace or closed institution. Desks, files, handwriting, objects and unnamed marks remain while the people associated with them disappear or move on.",
   "reality_weaving": {
     "mode": "woven",
     "reality_roots": [
       "Modern work routines",
       "Institutional hierarchy",
-      "Human labor and organizational measurement"
+      "Human labor and organizational memory"
     ],
-    "imaginative_transformation": "The workplace and closed-house readings remain simultaneously possible.",
-    "emergent_question": "What remains human when a system becomes internalized?"
+    "imaginative_transformation": "The workplace and closed-house readings remain simultaneously possible. A desk can be a place of work, a cell-like station, or simply a place temporarily assigned to a person.",
+    "emergent_question": "When a person leaves a place, what remains theirs, and what makes a place belong to anyone at all?"
   },
   "translations": {
-    "en": {
-      "status": "canonical",
-      "human_reviewed": true
-    },
     "tr": {
       "status": "reviewed",
       "human_reviewed": true
+    },
+    "en": {
+      "status": "canonical",
+      "human_reviewed": true
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0002/yer.jpg",
+    "alt": {
+      "tr": "Karanlık ve aydınlık iki atmosferin birleştiği eski bir çalışma mekânında, masasının başında oturan anlatıcı; dosyalar, boş masalar ve geride kalan izler.",
+      "en": "The narrator seated at a desk in an old workplace where dark and warm spaces merge, surrounded by files, empty desks, and traces left behind."
     }
   },
   "links": [
     {
       "target": "WRK-0001",
       "type": "memory",
-      "note": "The previous work-cycle chapter echoes into this one."
+      "note": "The threshold of the previous chapter becomes a question of where a person belongs."
     },
     {
       "target": "WRK-0003",
       "type": "future",
-      "note": "The next chapter carries the same transformation forward."
+      "note": "The next chapter shifts attention from place to voice and what remains recorded."
     }
   ],
   "localized": {
     "tr": {
-      "title": "Sekizden Önce",
-      "summary": "Çalışma Evinden Anılar döngüsünde saat üzerine parçalı bir bölüm."
+      "title": "Yer",
+      "summary": "Masa, dosya ve geride kalan izler üzerinden bir yere ait olmanın ve bir yerin insana ait olmasının belirsizliği anlatılır."
     },
     "en": {
-      "title": "Before Eight",
-      "summary": "A fragmented chapter of the House of Work cycle."
+      "title": "The Place",
+      "summary": "A fragmented chapter about belonging, desks, files, and the traces people leave behind."
     }
-  },
-  "observer_choices": [
-    {
-      "key": "human",
-      "label": "Follow the human meaning and lived experience.",
-      "effects": {
-        "HUMAN": 6,
-        "LIGHT": 2,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "light",
-      "label": "Seek clarity, structure, and understanding.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 6,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "dark",
-      "label": "Follow the unresolved tension and freedom.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 2,
-        "DARK": 6
-      }
-    }
-  ],
-  "center_weights": {
-    "HUMAN": 40,
-    "LIGHT": 35,
-    "DARK": 25
-  },
-  "primary_center": "HUMAN"
+  }
 }
