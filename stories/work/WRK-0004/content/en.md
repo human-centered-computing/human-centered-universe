@@ -6,7 +6,7 @@ I said it aloud.
 
 “Put it in writing.”
 
-I took a sheet.
+I took a sheet of paper.
 
 I wrote my name.
 
@@ -20,7 +20,7 @@ The signature.
 
 The next day it came back.
 
-“Something is missing.”
+“Missing.”
 
 “What?”
 
@@ -30,19 +30,35 @@ I filled it.
 
 Another signature was required.
 
-I went somewhere else.
+I went somewhere else to get it.
 
 There they gave me another sheet.
 
-“Fill this too.”
+“Fill this out too.”
 
 “Why?”
 
-“It is required.”
+“That is what is required.”
+
+After a while I looked at the paper in front of me.
+
+There were boxes.
+
+There were lines.
+
+There were spaces for signatures.
+
+But there was nowhere for what I was trying to explain.
+
+“My situation does not fit here,” I said.
+
+The person who brought the paper said:
+
+“It has to fit into a box.”
 
 Days passed.
 
-Eventually I forgot what I had asked for.
+Eventually I began to forget what I had asked for in the first place.
 
 One day I opened the file.
 
@@ -58,32 +74,62 @@ Everything was there.
 
 Except the thing I had asked for.
 
-“What happened to it?”
+“What happened to it?” I asked.
 
 “The form is complete.”
 
 “I am asking about the matter.”
 
-They looked at me as if I had asked the wrong question.
+They looked at me.
 
-Then I understood:
+As if I had asked the wrong question.
 
-Sometimes it is not enough for something to be done.
+On another sheet I saw a single sentence.
 
-It must also be recorded in the correct form.
+**Who said that?**
 
-A person's experience can remain incomplete if it does not fit the right box.
+There was no answer below it.
 
-Years later I found an old form.
+On another page:
 
-One box was empty.
+**Where is the person?**
 
-It contained a single question:
+There was a blank space beside that question too.
+
+At the end of the file there was a small section.
+
+**Prepared by:**
+
+It was blank.
+
+I looked at that space for a while.
+
+Then I read the sentences in the file again.
+
+Some sounded like things I had said.
+
+Some sounded like things I had written.
+
+But my name was beside none of them.
+
+One day I found an old form.
+
+There was a note along the edge of the paper:
+
+**My hand did not touch this.**
+
+I did not know who had written it.
+
+There was another blank space beneath it.
+
+Years later I saw the same question somewhere else.
 
 “What is this for?”
 
-Nobody had answered.
+This time I did not answer.
+
+Because in some places, asking about purpose is more dangerous than asking about procedure.
 
 I closed the paper.
 
-In some places, asking about purpose is more dangerous than asking about procedure.
+But the blank spaces did not close.
