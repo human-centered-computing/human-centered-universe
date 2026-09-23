@@ -6,28 +6,55 @@
   "status": "canon",
   "source_language": "tr",
   "book_order": 1,
-  "culture": ["transcultural"],
-  "belief_context": ["philosophical", "social", "literary", "science-fiction"],
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "philosophical",
+    "social",
+    "literary",
+    "science-fiction"
+  ],
   "summary": "A fragmented memoir of a place that can be read as a workplace or a closed institution. Through waiting, routines, hierarchy, files and repeated instructions, the narrator gradually discovers how the language of a system can become part of a person.",
   "reality_weaving": {
     "mode": "woven",
-    "reality_roots": ["Modern work routines", "Institutional hierarchy", "Human labor and organizational measurement"],
+    "reality_roots": [
+      "Modern work routines",
+      "Institutional hierarchy",
+      "Human labor and organizational measurement"
+    ],
     "imaginative_transformation": "The workplace and the closed institution remain simultaneously plausible. A door, a desk and a queue can belong to either world without the story naming one as the sole reality.",
     "emergent_question": "What happens when a person begins to speak the language of the system they entered?"
   },
   "translations": {
-    "tr": {"status": "reviewed", "human_reviewed": true},
-    "en": {"status": "canonical", "human_reviewed": true}
+    "tr": {
+      "status": "reviewed",
+      "human_reviewed": true
+    },
+    "en": {
+      "status": "canonical",
+      "human_reviewed": true
+    }
   },
   "links": [
-    {"target": "WRK-0002", "type": "memory", "note": "The threshold becomes a question of place, belonging, and who has the right to occupy a desk."}
+    {
+      "target": "WRK-0002",
+      "type": "memory",
+      "note": "The threshold becomes a question of place, belonging, and who has the right to occupy a desk."
+    }
   ],
   "localized": {
-    "tr": {"title": "Eşik", "summary": "Bir işyeri ya da kapalı bir kurum olarak okunabilen bir mekânda beklemek, çalışmak ve sistemin dilini öğrenmek üzerine parçalı bir anlatı."},
-    "en": {"title": "The Threshold", "summary": "A fragmented memoir about waiting, working, and learning the language of a system that may be either a workplace or a closed institution."}
+    "tr": {
+      "title": "Eşik",
+      "summary": "Bir işyeri ya da kapalı bir kurum olarak okunabilen bir mekânda beklemek, çalışmak ve sistemin dilini öğrenmek üzerine parçalı bir anlatı."
+    },
+    "en": {
+      "title": "The Threshold",
+      "summary": "A fragmented memoir about waiting, working, and learning the language of a system that may be either a workplace or a closed institution."
+    }
   },
   "hero_image": {
-    "src": "./assets/images/stories/WRK-0001/esik.jpg",
+    "src": "./assets/images/stories/WRK-0001/esik.jpg?v=2",
     "alt": {
       "tr": "Karanlık ve aydınlık iki dünyanın birleştiği bir eşikte, elinde dosyalarla içeriye doğru yürüyen anlatıcı; bir tarafta kapalı kurum, diğer tarafta çalışma mekânı.",
       "en": "The narrator walking through a threshold with files in hand, where a dark closed institution and a bright workplace appear as two sides of the same world."
