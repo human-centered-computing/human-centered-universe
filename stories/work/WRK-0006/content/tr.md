@@ -1,4 +1,4 @@
-# WRK-0006 — Dışarı Çıkmak
+# WRK-0006 — Dışarı
 
 Bir gün dışarı çıkmam gerekti.
 
