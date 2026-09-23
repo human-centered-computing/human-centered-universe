@@ -1,7 +1,7 @@
 {
   "id": "WRK-0016",
-  "title": "Inside",
-  "original_title": "İçeride",
+  "title": "What Becomes Visible",
+  "original_title": "Görünen",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -13,16 +13,17 @@
     "social",
     "literary"
   ],
-  "summary": "A fragmented memoir chapter about i̇çimizdeki ev in the House of Work cycle.",
+  "summary": "A fragmented memoir chapter that recalls Dostoevsky's Notes from a Dead House and asks what separates meaningful work from punishment: visible purpose, visible results, and visible contribution.",
   "reality_weaving": {
     "mode": "woven",
     "reality_roots": [
       "Modern work routines",
       "Institutional hierarchy",
-      "Human labor and organizational measurement"
+      "Human labor and organizational measurement",
+      "Contribution tracking"
     ],
-    "imaginative_transformation": "The workplace and closed-house readings remain simultaneously plausible.",
-    "emergent_question": "What remains human when a system becomes internalized?"
+    "imaginative_transformation": "The workplace and closed-house readings remain simultaneously plausible while a new contribution system changes the meaning of work.",
+    "emergent_question": "What separates work from punishment when people can see the result and their own contribution?"
   },
   "translations": {
     "en": {
@@ -38,28 +39,28 @@
     {
       "target": "WRK-0015",
       "type": "memory",
-      "note": "The previous work chapter echoes into this one."
+      "note": "The previous chapter's withdrawal from extra effort leads into the question of meaningful work."
     },
     {
       "target": "WRK-0001",
-      "type": "future",
-      "note": "The next chapter carries the transformation forward."
+      "type": "memory",
+      "note": "The door motif returns from the opening chapter."
     }
   ],
   "localized": {
     "tr": {
-      "title": "İçeride",
-      "summary": "Çalışma Evinden Anılar döngüsünde i̇çimizdeki ev üzerine parçalı bölüm."
+      "title": "Görünen",
+      "summary": "Dostoyevski'nin Ölüler Evinden Anılar'ını hatırlayan anlatıcı, çalışma ile ceza arasındaki farkı sonuç ve görünür emek üzerinden yeniden sorgular."
     },
     "en": {
-      "title": "Inside",
-      "summary": "A fragmented chapter of the House of Work cycle."
+      "title": "What Becomes Visible",
+      "summary": "Remembering Dostoevsky's Notes from a Dead House, the narrator reconsiders the difference between work and punishment through visible results and visible contribution."
     }
   },
   "observer_choices": [
     {
       "key": "human",
-      "label": "Follow the human meaning and lived experience.",
+      "label": "Follow the human meaning of work and contribution.",
       "effects": {
         "HUMAN": 6,
         "LIGHT": 2,
@@ -68,7 +69,7 @@
     },
     {
       "key": "light",
-      "label": "Seek clarity, structure, and understanding.",
+      "label": "Follow the structure of results, contribution, and accountability.",
       "effects": {
         "HUMAN": 2,
         "LIGHT": 6,
@@ -77,7 +78,7 @@
     },
     {
       "key": "dark",
-      "label": "Follow the unresolved tension and freedom.",
+      "label": "Follow the unresolved tension between work, punishment, and freedom.",
       "effects": {
         "HUMAN": 2,
         "LIGHT": 2,
@@ -87,8 +88,8 @@
   ],
   "primary_center": "HUMAN",
   "center_weights": {
-    "HUMAN": 65,
+    "HUMAN": 70,
     "LIGHT": 25,
-    "DARK": 10
+    "DARK": 5
   }
 }
