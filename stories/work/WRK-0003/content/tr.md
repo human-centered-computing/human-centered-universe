@@ -1,77 +1,177 @@
-# WRK-0003 — Yer
+# WRK-0003 — Ses
 
-İnsanlar yerlerini kolay unutmaz.
+Sesleri önce duyuyordum.
 
-Ben de unutmadım.
+Nereden geldiklerini sonra öğreniyordum.
 
-İlk yerim kapıya yakındı. Kapının açılıp kapanmasını görebiliyordum.
+Bazen bir kapının ardından.
 
-Sonra beni başka yere aldılar.
+Bazen koridorun sonundan.
 
-Pencerenin yanı.
+Bazen yan masadan.
 
-Sonra koridorun sonu.
+Bir gün iki kişinin tartıştığını duydum.
 
-Yer değiştikçe insanların bana bakışı değişti.
+“Ben öyle söylemedim.”
 
-Bir gün boş bir sandalyeye oturdum.
+“Söyledin.”
 
-“Orası senin değil.”
+“Duydum.”
 
-“Neresi benim?”
+“Kim duydu?”
 
-Kendi yerimi gösterdiler.
+Bir süre sessizlik oldu.
 
-Sandalyeler birbirine benziyordu.
+Sonra biri:
 
-Ama aynı değildi.
+“Bunu yazılı hâle getirin.”
 
-Bazılarında insanlar daha yüksek sesle konuşurdu.
+dedi.
 
-Bazılarında daha sessiz.
+Ertesi gün aynı konuşmayı kâğıtta gördüm.
 
-Bazı sandalyelerde oturanlar bekletilmezdi.
+Cümleler daha düzgündü.
 
-Bazılarında oturanlar çağrılmayı beklerdi.
+Kimsenin sesine benzemiyordu.
 
-Bir gün bir adam geldi. Benim yanımdaki sandalyeye baktı.
+Kimin ne söylediği belliydi.
 
-“Burası boş mu?”
+Ama kimin nasıl söylediği yoktu.
 
-“Boş.”
+Bir süre sonra konuşmaların kaydedildiği bir cihaz geldi.
 
-Oturmak üzereyken durdu.
+Küçük bir cihazdı.
 
-“Gerçekten boş mu?”
+Masaların arasına bırakıldı.
 
-Ne demek istediğini anlamadım.
+Kimse ona bakmıyordu.
 
-Sonra sandalye boş olduğu halde neden kimsenin ona oturmadığını öğrendim.
+Ama herkes onun orada olduğunu biliyordu.
 
-Bir yer boş kalabilir.
+Bir gün cihazın yanında bir kâğıt gördüm.
 
-Ama sahipsiz olmayabilir.
+Üzerinde tek kelime vardı.
 
-Yıllar sonra bana daha iyi bir yer verdiler.
+**TEKRAR**
 
-İnsanlar daha dikkatli konuşmaya başladı.
+Altında yine:
 
-Aynı bendim.
+**TEKRAR**
 
-Sadece yerim değişmişti.
+Bir satır daha:
 
-O zaman insanın bazen kendi değerini değil, bulunduğu yerin değerini taşıdığını düşündüm.
+**TEKRAR**
 
-Bir süre sonra yeni gelenlere yer gösteren ben oldum.
+Kâğıdı kimin bıraktığını sordum.
 
-“Buraya otur.”
+“Bilmiyorum.”
 
-dedim.
+“Bunu kim söyledi?”
 
-Bunu söylerken ilk günkü sesi hatırladım.
+Yanımdaki adam bana baktı.
 
-Bana gösterilen yer artık benim elimdeydi.
+“Hangisini?”
 
-Sandalye değişmişti.
+Cevap vermedim.
 
-Cümle aynı kalmıştı.
+Bir dosyada bir konuşmanın özeti vardı.
+
+Bir cümle dikkatimi çekti.
+
+**Bunu kim söyledi?**
+
+Altında cevap yoktu.
+
+Sadece boş bir alan vardı.
+
+Bir süre sonra bir toplantıya girdim.
+
+İnsanlar konuştu.
+
+Bazıları not aldı.
+
+Bazıları başını salladı.
+
+Bazıları hiç konuşmadı.
+
+Toplantının sonunda biri:
+
+“Bunu boş bırakın.”
+
+dedi.
+
+“Ne kadarını?”
+
+“Gereken kadarını.”
+
+Kâğıtta bir boşluk kaldı.
+
+Kimse doldurmadı.
+
+Bir gün sessiz duran bir adamın yanında oturdum.
+
+Uzun süre hiçbir şey söylemedi.
+
+Sonra:
+
+“Dinleyen yok.”
+
+dedi.
+
+“Ben dinliyorum.”
+
+Bana baktı.
+
+“Sen duyuyorsun.”
+
+Sonra sustu.
+
+Bir süre sonra aynı adamın sesi bir dosyada karşıma çıktı.
+
+Tek bir cümleydi.
+
+Yanında:
+
+**UYGUN**
+
+yazıyordu.
+
+Dosyayı kapattım.
+
+Bir süre sonra aynı kelime başka dosyalarda da görünmeye başladı.
+
+**UYGUN.**
+
+Kimin uygun bulduğu yazıyordu.
+
+Ama neden uygun bulduğu yazmıyordu.
+
+Bir gün eski kayıtları dinledim.
+
+Sesler vardı.
+
+Kelimeler vardı.
+
+Duraksamalar vardı.
+
+Ama bazı yerlerde kayıt kesiliyordu.
+
+Kayıtların arasında boşluklar vardı.
+
+O boşluklara uzun süre baktım.
+
+Sonra aynı soruyu tekrar duydum.
+
+“Bunu kim söyledi?”
+
+Bu kez cevap vermedim.
+
+Çünkü sesin kime ait olduğunu bilmekle, o sesin ne anlama geldiğini bilmenin aynı şey olmadığını anlamıştım.
+
+Kayıt cihazı masanın üzerinde duruyordu.
+
+Kimse ona dokunmuyordu.
+
+Ama herkes konuşmaya devam ediyordu.
+
+Ben de dinlemeye devam ettim.
