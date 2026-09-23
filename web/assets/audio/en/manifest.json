@@ -224,16 +224,16 @@
     },
     {
       "id": "WRK-0001",
-      "title": "The Door",
+      "title": "The Threshold",
       "file": "./WRK-0001.mp3",
-      "duration_seconds": 229.616,
-      "bytes": 2755754,
+      "duration_seconds": 230.583,
+      "bytes": 2767352,
       "engine": "Piper",
       "voice": "en_US-lessac-medium"
     },
     {
       "id": "WRK-0002",
-      "title": "Before Eight",
+      "title": "The Place",
       "file": "./WRK-0002.mp3",
       "duration_seconds": 280.372,
       "bytes": 3364825,
