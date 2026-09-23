@@ -1,25 +1,30 @@
 {
   "id": "WRK-0016",
-  "title": "The House Inside",
+  "title": "What Becomes Visible",
   "themes": [
     "labor",
-    "institution",
+    "meaningful work",
+    "contribution visibility",
     "alienation",
-    "human agency"
+    "human agency",
+    "institutional systems"
   ],
   "narrative_form": "fragmented memoir",
   "temporal_model": "nonlinear; linked cycle",
   "ambiguity": "workplace and closed institution remain simultaneously plausible",
+  "literary_reference": "Dostoevsky's Notes from a Dead House is recalled as a conceptual point of departure; the chapter develops an original contemporary question rather than reproducing the source.",
+  "central_question": "What separates work from punishment when a person can see the result and their own contribution?",
+  "transformation": "A new system exposes the intended result before execution and records individual contributions without erasing other contributors.",
   "primary_center": "HUMAN",
   "center_weights": {
-    "HUMAN": 65,
+    "HUMAN": 70,
     "LIGHT": 25,
-    "DARK": 10
+    "DARK": 5
   },
   "observer_choices": [
     {
       "key": "human",
-      "label": "Follow the human meaning and lived experience.",
+      "label": "Follow the human meaning of work and contribution.",
       "effects": {
         "HUMAN": 6,
         "LIGHT": 2,
@@ -28,7 +33,7 @@
     },
     {
       "key": "light",
-      "label": "Seek clarity, structure, and understanding.",
+      "label": "Follow the structure of results, contribution, and accountability.",
       "effects": {
         "HUMAN": 2,
         "LIGHT": 6,
@@ -37,7 +42,7 @@
     },
     {
       "key": "dark",
-      "label": "Follow the unresolved tension and freedom.",
+      "label": "Follow the unresolved tension between work, punishment, and freedom.",
       "effects": {
         "HUMAN": 2,
         "LIGHT": 2,
