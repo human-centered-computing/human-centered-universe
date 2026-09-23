@@ -1,7 +1,7 @@
 {
   "id": "WRK-0001",
-  "title": "Memories from the House of Work",
-  "original_title": "Çalışma Evinden Anılar",
+  "title": "The Door",
+  "original_title": "Kapı",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -45,11 +45,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Çalışma Evinden Anılar",
+      "title": "Kapı",
       "summary": "Bir işyeri ya da kapalı bir kurum olarak okunabilen bir mekânın parçalı anıları. İnsanlar, rutinler, hiyerarşi, performans, görünmeyen emek, sahiplenilen fikirler ve sessizlik üzerinden sistemin insanı nasıl dönüştürebildiği anlatılır."
     },
     "en": {
-      "title": "Memories from the House of Work",
+      "title": "The Door",
       "summary": "A fragmented memoir of a place that can be read as a workplace or a closed institution."
     }
   },
