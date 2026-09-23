@@ -62,7 +62,7 @@ Dosyaları yerleştirdim.
 
 Sonra başka bir dosya geldi.
 
-“Bunu da beklet.”
+“Bunu beklet.”
 
 “Ne kadar?”
 
