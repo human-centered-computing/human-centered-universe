@@ -268,6 +268,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "WRK-0002",
+      "title": "Sekizden Önce",
+      "file": "./WRK-0002.mp3",
+      "duration_seconds": 310.883,
+      "bytes": 3730957,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "WRK-0016",
       "title": "Görünen",
       "file": "./WRK-0016.mp3",
