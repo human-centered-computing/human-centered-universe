@@ -1,7 +1,7 @@
 {
   "id": "WRK-0010",
-  "title": "The Corridor",
-  "original_title": "Koridor",
+  "title": "The Passage",
+  "original_title": "Geçiş",
   "core": "WORK",
   "status": "canon",
   "source_language": "en",
@@ -48,11 +48,11 @@
   ],
   "localized": {
     "tr": {
-      "title": "Koridor",
+      "title": "Geçiş",
       "summary": "Çalışma Evinden Anılar döngüsünde koridor üzerine parçalı bölüm."
     },
     "en": {
-      "title": "The Corridor",
+      "title": "The Passage",
       "summary": "A fragmented chapter of the House of Work cycle."
     }
   },
