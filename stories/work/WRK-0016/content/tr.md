@@ -1,155 +1,304 @@
-# WRK-0016 — İçeride
+# WRK-0016 — Görünen
 
-Sonunda çıktım.
+Dostoyevski'nin *Ölüler Evinden Anılar* kitabı aklıma uzun zaman sonra geldi.
 
-Ne kadar zaman geçtiğini bilmiyorum.
+Neden o gün hatırladığımı bilmiyorum.
 
-Yıllar mı?
+Belki önümde duran kâğıttandı.
 
-On yıllar mı?
+Belki de bana verilen işin ne olduğunu anlamaya çalışırken, yıllar önce okuduğum o kitabın içinden bir cümle yeniden çıkmıştı.
 
-Bunu hesaplamadım.
+İnsanı yalnızca ağır çalıştırmanın yetmediğini anlatıyordu Dostoyevski. Bir insana yaptığı işin bütünüyle anlamsız olduğunu hissettirmek, onu ezmenin başka bir yoluydu.
 
-Kapı açıldı.
+Bir işi yapmak.
 
-Dışarı çıktım.
+Sonra aynı işi yeniden yapmak.
 
-Kimse arkamdan gelmedi.
+Sonra yeniden.
 
-Kimse:
+Sonunda insan yalnızca bedeninin değil, yaptığı şeyin de yorulduğunu hissediyordu.
 
-“Geri dön.”
+Kitabı kapattım.
 
-demedi.
+Önümdeki kâğıda baktım.
 
-Bir süre yürüdüm.
+Sonra kendime ilk defa açıkça sordum:
 
-Sonra durdum.
+**Benim yaptığım çalışmanın bununla ne farkı vardı?**
 
-Nereye gideceğimi bilmiyordum.
+Bu sorunun cevabı kolay değildi.
 
-Yıllarca ne zaman nerede olmam gerektiğini bilmiştim.
+Çünkü burada kimse bana zincir takmamıştı.
 
-Şimdi kimse söylemiyordu.
+Kimse beni masaya zorla oturtmamıştı.
 
-Eve gittim.
+Her sabah kendim geliyordum.
 
-Ertesi sabah sekizde uyandım.
+Kartımı kendim okutuyordum.
 
-Kimse çağırmamıştı.
+Masama kendim oturuyordum.
 
-Yine de kalktım.
+Akşam olduğunda kendim çıkıyordum.
 
-Üzerimi giydim.
+Öyleyse fark neydi?
 
-Masaya oturdum.
+Onlar da çalışıyordu.
 
-Saat sekiz on.
+Ben de çalışıyordum.
 
-Sekiz yirmi.
+Onların bazı işleri hiçbir yere varmıyordu.
 
-Sekiz buçuk.
+Benim bazı işlerim de.
 
-Kimse gelmedi.
+Onların yaptığı işin sonucu bazen görünmüyordu.
 
-Kapı açıktı.
+Benim yaptığım işin sonucu da çoğu zaman başka bir dosyanın içinde kayboluyordu.
 
-Kalktım.
+Onların günü bitiyor, ertesi gün aynı iş yeniden başlıyordu.
 
-Kapının önünde durdum.
+Benimki de.
 
-Dışarı baktım.
+Bir süre düşündüm.
 
-Sonra geri döndüm.
+Belki fark kapıda değildi.
 
-İçerideki oda değişmemişti.
+Belki fark, insanın yaptığı iş ile kurduğu ilişkideydi.
 
-Saat.
+O gün bize yeni bir şey gösterdiler.
 
-Masa.
+Bizi yine aynı odaya aldılar.
 
-Sandalye.
+Yine masalar vardı.
 
-Kâğıt.
+Yine kâğıtlar vardı.
 
-Hepsi yerindeydi.
+Yine bir görevli vardı.
+
+Fakat bu kez önümüze bırakılan kâğıtta yalnızca yapılacak iş yazmıyordu.
+
+En üstte başka bir başlık vardı:
+
+**Sonuç.**
+
+Altında, iş tamamlandığında neyin ortaya çıkması gerektiği açıkça yazılmıştı.
+
+Uzun süre baktım.
+
+Yanımdaki adama:
+
+“Bu ne?”
+
+diye sordum.
+
+“Bilmiyorum.”
+
+dedi.
+
+Görevli yaklaştı.
+
+“Bunu daha önce yapmadınız.”
+
+“Ne yapacağız?”
+
+“Sonuca ulaşacaksınız.”
+
+“Nasıl?”
+
+“Bunu siz bulacaksınız.”
+
+İlk defa böyle bir cevap duyuyordum.
+
+Yıllarca önce iş verilmiş, sonra nasıl yapılacağı söylenmişti.
+
+Şimdi önce neye ulaşmamız gerektiğini biliyorduk.
+
+Nasıl ulaşacağımızı ise bize bırakıyorlardı.
+
+İlk başta kimse hareket etmedi.
+
+Sonra biri bir fikir söyledi.
+
+Başka biri fikrin eksik olduğunu düşündü.
+
+Üçüncü kişi başka bir yol önerdi.
+
+Ben ikisini birleştirdim.
+
+Bir başkası ortaya çıkan hatayı buldu.
+
+İş ilerledikçe kimin ne yaptığı birbirine karıştı.
+
+Fakat bu kez karışmak, kaybolmak anlamına gelmiyordu.
+
+Çünkü sistem yapılan her katkıyı ayrı ayrı kaydediyordu.
+
+Bir fikir.
+
+Bir değişiklik.
+
+Bir düzeltme.
+
+Bir uygulama.
+
+Bir tamamlayıcı katkı.
+
+Sonuç ortaya çıktığında ekranda yalnızca sonuç yoktu.
+
+Sonucun altında isimler vardı.
+
+Benim adım da.
+
+Yanımdaki adamın adı da.
+
+Fikrini ilk söyleyenin adı da.
+
+Hatanın yerini bulan kişinin adı da.
+
+Birbirimizin adını silmemiştik.
+
+Birimizin görünmesi için diğerinin kaybolması gerekmemişti.
+
+Uzun süre ekrana baktım.
+
+Yıllardır yaptığım işleri düşündüm.
+
+Bir zamanlar söylediğim fikirleri.
+
+Kimsenin kullanmadığı için unuttuğum önerileri.
+
+Başka birinin adıyla devam eden çalışmaları.
+
+Kimin yaptığı bilinmeden kullanılan dosyaları.
+
+Sonuç verdiği halde kimin emeği olduğu bilinmeyen işleri.
 
 O zaman anladım:
 
-İçeriden çıkmak, kapıdan geçmekten daha uzun sürüyordu.
+**İşim kaybolmamıştı.**
 
-Yıllarca bana kuralları öğretmişlerdi.
+**Emeğim görünmez olmuştu.**
 
-Sonra kuralların hiçbirinin yazılı olmadığını fark ettim.
+Belki beni yıllarca yoran şey işin ağırlığı değildi.
 
-Kendimi ben düzeltiyordum.
+Belki asıl yorgunluk, insanın yaptığı şey ile arasındaki bağın kopmasıydı.
 
-Kimse çağırmadan geliyordum.
+İş devam ediyor.
 
-Kimse söylemeden susuyordum.
+Dosya devam ediyor.
 
-Kimse istemeden fazladan iş düşünüyordum.
+Sonuç devam ediyor.
 
-Kimse ölçmeden kendimi ölçüyordum.
+Ama insanın adı, katkısı ve izi giderek siliniyorsa, bir süre sonra insan kendi yaptığı işe bile yabancılaşmaya başlıyor.
 
-Dışarı çıkmıştım.
+Dostoyevski'nin anlattığı o anlamsız işlerle benim yaptığım işlerin arasında şimdi başka bir fark görüyordum.
 
-Ama içerideki düzen benimle gelmişti.
+Bir iş gerçekten ağır olabilir.
 
-Masadaki boş kâğıdı aldım.
+Uzun sürebilir.
 
-İlk kez kimseden istenmeyen bir soru yazdım:
+İnsanı yorabilir.
 
-**Bütün bunlar ne içindi?**
+Fakat insan yaptığı işin neden yapıldığını biliyor, sonucunu görebiliyor ve kendi emeğinin o sonuçta bir yeri olduğunu hissediyorsa, o iş yalnızca bir ceza değildir.
 
-Cevap gelmedi.
+Fakat insana sürekli olarak:
 
-Bekledim.
+“Bunu yap.”
 
-Sonra beklemeyi bıraktım.
+denir,
 
-Kâğıdı katladım.
+neden yaptığı söylenmez,
 
-Cebime koydum.
+sonuç gösterilmez,
 
-Kapıyı açtım.
+katkısı kaydedilmez,
 
-Bu kez dışarı çıktım.
+fikri başka birinin adına geçer
 
-Arkamda bir kapı vardı.
+ve yaptığı her şey yalnızca bir sayı haline gelirse,
 
-Önümde yol.
+işin adı çalışma olarak kalabilir.
 
-İçimde ise hâlâ o ev.
+Fakat insanın içinde taşıdığı anlam değişir.
 
-Onu yıkmak istemedim.
+O gün sorumu yeniden sordum:
 
-Çünkü bazı evler yıkıldığında insan kendisini de altında bırakır.
+**Çalışma ile ceza arasındaki fark nedir?**
 
-Duvarlarını yeniden düşünmek istedim.
+Cevabın kapıda olmadığını artık biliyordum.
 
-Saatin yerini değiştirmek.
+Saatte de değildi.
 
-Kapının yönünü değiştirmek.
+Masanın şeklinde de.
 
-Sandalyeyi gerektiğinde kaldırmak.
+Belki cevap şuydu:
 
-Kâğıda ne için olduğunu sormak.
+**İnsan yaptığı işin sonucunda kendisinden bir iz görebiliyor mu?**
 
-Sayıların arkasındaki insanı görmek.
+Yeni sistemde ilk defa bunu görebiliyordum.
 
-Ve gerektiğinde:
+Bir işi başlatmıştık.
 
-“Hayır.”
+Birlikte değiştirmiştik.
 
-diyebilmek.
+Birlikte tamamlamıştık.
 
-İlk kez kendi evimin içinde yürümeye başladım.
+Ve sonuç ortaya çıktığında hiç kimse diğerinin emeğini kendisine mal etmemişti.
 
-Nereye gittiğimi bilmiyordum.
+Bunun büyük bir şey olduğunu düşünmedim.
 
-Ama artık biri bana nereye gitmem gerektiğini söylemediği için kaybolmuş sayılmıyordum.
+Aslında olması gerekenin bu olduğunu düşündüm.
 
-Belki özgürlük dışarıda değildi.
+İnsanların birlikte bir şey üretmesi ve üretirken birbirlerini silmemesi.
 
-Belki yalnızca kapının anlamını değiştirmekle başlıyordu.
+İlk kez çalışmanın başka türlü olabileceğini gördük.
+
+Kimse bize özgür olduğumuzu söylemedi.
+
+Kimse duvarları yıkmadı.
+
+Kapılar aynıydı.
+
+Saat yine aynı saati gösteriyordu.
+
+Fakat yaptığımız işin anlamı değişmişti.
+
+Akşam çıkarken kapıya baktım.
+
+İlk günlerde olduğu gibi kapının kilitli olup olmadığını düşünmedim.
+
+İlk defa başka bir şeyi düşündüm:
+
+**Belki bir insanı çalıştırmak başka şeydi, onun emeğine değer vermek başka.**
+
+Kapıdan çıktım.
+
+Ertesi sabah yine geldim.
+
+Bu kez önümde yeni bir görev vardı.
+
+Ama yalnızca bir görev değildi.
+
+Ulaşılacak bir sonuç vardı.
+
+Ve o sonucun içinde benim de bir katkım olacaktı.
+
+Belki çalışma ile ceza arasındaki fark tam olarak burada başlıyordu.
+
+**İnsan yaptığı şeyin sonucunu görebildiğinde ve o sonucun içinde kendi emeğini bulabildiğinde.**
+
+O gün ekrana son kez baktım.
+
+Adım oradaydı.
+
+Başka isimlerle birlikte.
+
+Ve ilk defa bundan rahatsız olmadım.
+
+Çünkü artık biliyordum:
+
+**Bir başkasının görünmesi, benim görünmez olmam anlamına gelmiyordu.**
+
+Belki insan merkezli çalışma dediğimiz şey, önce bundan başlamalıydı.
+
+İnsanın emeğini kendisinden ayırmamak.
+
