@@ -394,6 +394,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "WRK-0020",
+      "title": "Error",
+      "file": "./WRK-0020.mp3",
+      "duration_seconds": 349.936,
+      "bytes": 4199594,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
