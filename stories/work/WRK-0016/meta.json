@@ -52,5 +52,12 @@
       "tr": "Aynı hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
       "en": "Artistic image without text, evoking work and a closed institution for The Same."
     }
+  },
+  "series": {
+    "id": "workplace-memoirs",
+    "title": {
+      "tr": "İşyerinden Anılar",
+      "en": "Memories from the Workplace"
+    }
   }
 }

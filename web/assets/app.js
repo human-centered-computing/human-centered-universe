@@ -70,6 +70,9 @@ function storyTitle(story){
   return story?.localized?.[state.locale]?.title || story?.title || story?.id || "";
 }
 function storySummary(story){ return story?.localized?.[state.locale]?.summary || story?.summary || ""; }
+function storySeriesTitle(story){
+  return story?.series?.title?.[state.locale] || story?.series?.title?.en || "";
+}
 function storyWeights(story){
   const w=story?.center_weights || {};
   return {HUMAN:Number(w.HUMAN||0),LIGHT:Number(w.LIGHT||0),DARK:Number(w.DARK||0)};
@@ -238,6 +241,9 @@ function renderRead(){
   const story=currentStory(); if(!story) return;
   state.storyId=story.id; recordPath(story.id);
   const requested=story.content?.[state.locale]; const fallbackLang=story.source_language||state.data?.fallback_language||"en"; const content=requested||story.content?.[fallbackLang]||story.content?.en||""; const fallback=!requested;
+  const seriesTitle=storySeriesTitle(story);
+  const readingContent=seriesTitle?content.replace(/^#\s+[^\n]+\n*/,""):content;
+  const workHeading=seriesTitle?`<header class="work-heading"><h1>${escapeHtml(seriesTitle)}</h1><h2>${escapeHtml(storyTitle(story))}</h2></header>`:"";
   const related=(story.links||[]).map(link=>({link,story:storyById(link.target)})).filter(x=>x.story);
   const w=storyWeights(story); const p=primaryCenter(story); const nextResult=recommendNext(story.id); const next=nextResult?.story;
   const choices=choicesFor(story);
@@ -258,8 +264,9 @@ function renderRead(){
       ${fallback?`<div class="fallback">${t("translation_unavailable")}</div>`:""}
       <div class="story-kicker"><span class="badge ${p}">${escapeHtml(centerLabel(p))}</span><span>${escapeHtml(story.id)}</span><span>·</span><span>${escapeHtml(requested?state.locale:fallbackLang)} · ${translationStatus(story,requested?state.locale:fallbackLang)}</span></div>
       <div class="story-profile"><strong>${t("center_profile","Center profile")}</strong>${weightBars(w)}</div>
+      ${workHeading}
       ${storyHero(story)}
-      <div class="story-content">${markdownToHtml(content)}</div>
+      <div class="story-content">${markdownToHtml(readingContent)}</div>
       <section class="choice-panel"><h2>${t("choose_path","Choose what calls you next")}</h2><p class="muted">${t("choice_help","Preview how a choice changes your Observer State, then confirm it once. The recommendation uses your complete profile, story connections, and recent path; you remain free to choose any node.")}</p>${choiceStatus}<div class="choice-grid">${choiceButtons}</div><div id="choice-preview" class="choice-preview" hidden></div></section>
       <div class="reader-toolbar"><button class="action-button" id="back-path" ${!backId?"disabled":""}>← ${t("back_in_path","Back in my path")}</button><button class="action-button" id="mark-read">${state.readIds.has(story.id)?t("read_again","Read again"):t("mark_read","Mark as read")}</button><button class="action-button primary" id="open-explore">${t("other_possibilities","Explore other possibilities")}</button></div>
       ${recommendation}
@@ -290,7 +297,7 @@ function renderExplore(){
   const stories=orderedStories();
   const categoryCounts=CENTER_KEYS.reduce((acc,center)=>{ acc[center]=stories.filter(s=>primaryCenter(s)===center).length; return acc; },{});
   const points=stories.map(s=>{ const pt=trianglePoint(storyWeights(s)); const read=state.readIds.has(s.id); const label=`${storyTitle(s)} · ${formatWeights(storyWeights(s))}`; return `<g class="triangle-node" data-story="${s.id}" tabindex="0" role="button" aria-label="${escapeHtml(label)}"><circle cx="${pt.x}" cy="${pt.y}" r="${s.id===state.data.origin_node?9:6}" class="${primaryCenter(s)} ${read?"read":""}"><title>${escapeHtml(label)}</title></circle></g>`; }).join("");
-  const cards=stories.map(s=>`<article class="story-node" data-story="${s.id}" tabindex="0" role="button"><div><span class="node-id">${escapeHtml(s.id)}</span><span class="badge ${primaryCenter(s)}">${escapeHtml(centerLabel(primaryCenter(s)))}</span>${state.readIds.has(s.id)?`<span class="read-dot">${t("read_status","Read")}</span>`:""}</div><h3>${escapeHtml(storyTitle(s))}</h3><p>${escapeHtml(storySummary(s))}</p>${weightBars(storyWeights(s))}</article>`).join("");
+  const cards=stories.map(s=>`<article class="story-node" data-story="${s.id}" tabindex="0" role="button"><div><span class="node-id">${escapeHtml(s.id)}</span><span class="badge ${primaryCenter(s)}">${escapeHtml(centerLabel(primaryCenter(s)))}</span>${state.readIds.has(s.id)?`<span class="read-dot">${t("read_status","Read")}</span>`:""}</div>${storySeriesTitle(s)?`<small class="series-label">${escapeHtml(storySeriesTitle(s))}</small>`:""}<h3>${escapeHtml(storyTitle(s))}</h3><p>${escapeHtml(storySummary(s))}</p>${weightBars(storyWeights(s))}</article>`).join("");
   app.innerHTML=`<section>
     <div class="explore-head"><div><h1>${t("explore","Explore")}</h1><p>${t("explore_triangle_intro","HUMAN + LIGHT + DARK = 100. Every node occupies a position in the same triangular state space.")}</p></div><input id="story-search" class="search-box" type="search" placeholder="${t("search","Search stories")}"></div>
     <div class="explore-counts" aria-label="Story counts by category">${CENTER_KEYS.map(center=>`<div class="explore-count"><span class="badge ${center}">${escapeHtml(centerLabel(center))}</span><strong>${categoryCounts[center]}</strong><small>${escapeHtml(t("stories_count_label","stories"))}</small></div>`).join("")}</div>
