@@ -1,0 +1,1837 @@
+{
+  "story_count": 67,
+  "languages": [
+    "en",
+    "tr",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "zh-CN",
+    "ja",
+    "ar",
+    "ku",
+    "pt"
+  ],
+  "coverage": {
+    "en": {
+      "complete": 67,
+      "missing": []
+    },
+    "tr": {
+      "complete": 67,
+      "missing": []
+    },
+    "de": {
+      "complete": 32,
+      "missing": [
+        {
+          "id": "BRG-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0001",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0002",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0003",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0004",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0005",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0006",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0007",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0008",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0009",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0010",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0011",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0012",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0013",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0014",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0015",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0016",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0017",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0018",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0019",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0020",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0021",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0027",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0028",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0029",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0030",
+          "file": false,
+          "declared": false
+        }
+      ]
+    },
+    "es": {
+      "complete": 32,
+      "missing": [
+        {
+          "id": "BRG-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0001",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0002",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0003",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0004",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0005",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0006",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0007",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0008",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0009",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0010",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0011",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0012",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0013",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0014",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0015",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0016",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0017",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0018",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0019",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0020",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0021",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0027",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0028",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0029",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0030",
+          "file": false,
+          "declared": false
+        }
+      ]
+    },
+    "fr": {
+      "complete": 32,
+      "missing": [
+        {
+          "id": "BRG-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0001",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0002",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0003",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0004",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0005",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0006",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0007",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0008",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0009",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0010",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0011",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0012",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0013",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0014",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0015",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0016",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0017",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0018",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0019",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0020",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0021",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0027",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0028",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0029",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0030",
+          "file": false,
+          "declared": false
+        }
+      ]
+    },
+    "it": {
+      "complete": 31,
+      "missing": [
+        {
+          "id": "BRG-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "HUM-0003",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0001",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0002",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0003",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0004",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0005",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0006",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0007",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0008",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0009",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0010",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0011",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0012",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0013",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0014",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0015",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0016",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0017",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0018",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0019",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0020",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0021",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0027",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0028",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0029",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0030",
+          "file": false,
+          "declared": false
+        }
+      ]
+    },
+    "ru": {
+      "complete": 32,
+      "missing": [
+        {
+          "id": "BRG-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0001",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0002",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0003",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0004",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0005",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0006",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0007",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0008",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0009",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0010",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0011",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0012",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0013",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0014",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0015",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0016",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0017",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0018",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0019",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0020",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0021",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0027",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0028",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0029",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0030",
+          "file": false,
+          "declared": false
+        }
+      ]
+    },
+    "zh-CN": {
+      "complete": 32,
+      "missing": [
+        {
+          "id": "BRG-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0001",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0002",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0003",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0004",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0005",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0006",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0007",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0008",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0009",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0010",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0011",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0012",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0013",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0014",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0015",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0016",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0017",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0018",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0019",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0020",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0021",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0027",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0028",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0029",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0030",
+          "file": false,
+          "declared": false
+        }
+      ]
+    },
+    "ja": {
+      "complete": 32,
+      "missing": [
+        {
+          "id": "BRG-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0001",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0002",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0003",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0004",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0005",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0006",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0007",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0008",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0009",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0010",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0011",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0012",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0013",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0014",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0015",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0016",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0017",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0018",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0019",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0020",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0021",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0027",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0028",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0029",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0030",
+          "file": false,
+          "declared": false
+        }
+      ]
+    },
+    "ar": {
+      "complete": 32,
+      "missing": [
+        {
+          "id": "BRG-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0001",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0002",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0003",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0004",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0005",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0006",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0007",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0008",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0009",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0010",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0011",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0012",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0013",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0014",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0015",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0016",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0017",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0018",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0019",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0020",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0021",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0027",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0028",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0029",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0030",
+          "file": false,
+          "declared": false
+        }
+      ]
+    },
+    "ku": {
+      "complete": 32,
+      "missing": [
+        {
+          "id": "BRG-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0001",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0002",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0003",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0004",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0005",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0006",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0007",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0008",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0009",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0010",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0011",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0012",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0013",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0014",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0015",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0016",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0017",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0018",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0019",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0020",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0021",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0027",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0028",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0029",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0030",
+          "file": false,
+          "declared": false
+        }
+      ]
+    },
+    "pt": {
+      "complete": 31,
+      "missing": [
+        {
+          "id": "BRG-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "BRG-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "HUM-0003",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0001",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0002",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0003",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0004",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0005",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0006",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0007",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0008",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0009",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0010",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0011",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0012",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0013",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0014",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0015",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0016",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0017",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0018",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0019",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0020",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0021",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0022",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0023",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0024",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0025",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0026",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0027",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0028",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0029",
+          "file": false,
+          "declared": false
+        },
+        {
+          "id": "WRK-0030",
+          "file": false,
+          "declared": false
+        }
+      ]
+    }
+  }
+}
