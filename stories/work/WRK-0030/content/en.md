@@ -1,10 +1,10 @@
 # Visible
 
-It was clear who applied for a new application. But I didn't want to validate that person's expected outcome based solely on the institution's own record.
+We knew who had submitted the new application. But I didn't want to validate that person's expected outcome based solely on the institution's own record.
 
 A new file arrived on my desk this morning.
 
-The monitoring device recorded my name again that morning. In the afternoon, my departure time would appear on the same screen. That was still the measure of a day. But on the first page of the file on my desk, there was a new question: Who will verify the result? I knew that this question alone would not save anyone. Unless people's voices entered there, the gap could still be closed with a stamp. I opened the file; First I needed to know what the applicant expected.
+The time clock recorded my name again that morning. In the afternoon, my departure time would appear on the same screen. That was still the measure of a day. But on the first page of the file on my desk, there was a new question: Who will verify the result? I knew that this question alone would not save anyone. Unless people's voices entered there, the gap could still be closed with a stamp. I opened the file; First I needed to know what the applicant expected.
 
 There was only the file number on the cover.
 
@@ -12,7 +12,7 @@ A quick note inside:
 
 Providing information about the outcome of the application.
 
-There was history underneath.
+There was a date beneath it.
 
 I opened the file.
 
@@ -108,7 +108,7 @@ We closed the file.
 
 The file came back in the afternoon.
 
-He had worked on another person.
+Someone else had worked on it.
 
 One sentence had changed.
 
@@ -138,9 +138,9 @@ We turned on the computer.
 
 We looked at the change history.
 
-There was history.
+There was a dated entry.
 
-There was a clock.
+There was a time stamp.
 
 But there was no username.
 
@@ -182,7 +182,7 @@ The newcomer looked at me.
 
 He opened the last page.
 
-He wrote history.
+He wrote down the date.
 
 Then:
 
@@ -332,13 +332,13 @@ The chief did not answer. He took the charts; All three had their own instructio
 
 “You write down what you tried and what you learned. If it turns out wrong, you add your correction instead of secretly changing the old line.”
 
-The new piece of paper on the table did not look like a list of achievements. He was asking in incomplete language whether something is worth human life, how we know that, and what we could change next time.
+The new sheet on the table did not look like a list of achievements. In its unfinished language, it asked whether the work mattered to a human life, how we knew that, and what we could change next time.
 
 “Let's try this on this file first,” said the chief.
 
 The newcomer did not fill the page immediately. First he looked at the notes of those who touched the file; He did not approve on behalf of those who were not with them. I read my own sentence, corrected it, and only then agreed to keep my name.
 
-The timetable was in the supervisor's hand. It would be required for pay and overtime. The other piece of paper on the table explained what we were doing here, not the fact that we were here for the first time.
+The time sheet remained in the supervisor’s hand. It would be needed for pay and overtime. The other sheet on the table described what we had done here, beyond the mere fact that we had been present.
 
 I read the file again before leaving for the night.
 
@@ -414,7 +414,7 @@ The other person paused before answering.
 
 "I don't know."
 
-“Then let's find him first.”
+“Then let's find that out first.”
 
 We continued walking.
 
