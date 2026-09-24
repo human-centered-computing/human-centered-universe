@@ -1,12 +1,46 @@
 # WRK-0001 — Eşik
 
-Kapının önünde bekliyordum.
+Kapının önünde beklerken içeriden gelen sesleri duyabiliyordum.
 
-Elimde birkaç kâğıt vardı. Birinde adım, diğerinde bir numara yazıyordu. Hangisinin daha önemli olduğunu bilmiyordum.
+Kapı tamamen kapalı değildi. Arada, ışığın geçtiği kadar ince bir boşluk vardı.
 
-İçeriden insanlar çıkıyordu. Bazıları ellerinde dosyalar taşıyor, bazıları hiçbir şey taşımadan yürüyordu. İçeri girmek için bekleyenler ise sessizdi.
+İçeride insanlar konuşuyordu.
 
-Yanımdaki adam bana baktı.
+Ne söylediklerini anlayamıyordum.
+
+Bazen bir kelime seçiliyordu.
+
+“İmza.”
+
+Sonra:
+
+“Bekliyor.”
+
+Bir süre sonra:
+
+“Eksik.”
+
+Ardından sandalye sesi.
+
+Kâğıtların birbirine sürtünmesi.
+
+Bir kapının kapanması.
+
+Sonra yeniden sessizlik.
+
+Elimdeki kâğıda baktım.
+
+Üzerinde adım vardı.
+
+Altında birkaç satır daha.
+
+En altta boş bir bölüm.
+
+Oraya ne yazılması gerektiğini bilmiyordum.
+
+***
+
+Yanımdaki adam kâğıda baktı.
 
 “İlk kez mi?”
 
@@ -16,212 +50,666 @@ Yanımdaki adam bana baktı.
 
 “Ne için?”
 
-Omuzlarını kaldırdı.
+Adam omuzlarını kaldırdı.
 
 “İçeri girince anlarsın.”
 
-Kapıya baktım.
+Sonra önündeki kâğıtlara döndü.
 
-Kapının üzerinde herhangi bir şey yazmıyordu.
+Sanki bu cevap yeterliydi.
 
-Bir süre sonra ismim söylendi.
+Belki de burada yeterli olan cevaplar buydu.
+
+***
+
+Kapının yanında küçük bir masa vardı.
+
+Üzerinde numaralar.
+
+Bazıları alınmıştı.
+
+Bazıları bekliyordu.
+
+Benim elimdeki kâğıdın üstünde bir numara vardı.
+
+Kâğıdı tekrar katladım.
+
+Sonra açtım.
+
+Tekrar katladım.
+
+Bunu neden yaptığımı bilmiyordum.
+
+İnsan beklerken ellerine bir iş vermek istiyordu.
+
+***
+
+İçeriden biri çıktı.
+
+Elinde dosya vardı.
+
+Yanımdaki adam hemen ayağa kalktı.
+
+“Bitti mi?”
+
+Adam başını salladı.
+
+“Daha değil.”
+
+Sonra tekrar oturdu.
+
+Çıkan kişi koridorda birkaç adım yürüdü.
+
+Kapının önünde durdu.
+
+İçeri baktı.
+
+Sonra geri döndü.
+
+Sanki nereye gideceğini bilmiyordu.
+
+***
+
+Numaram söylendi.
+
+Ayağa kalktım.
+
+Kapıyı açtım.
 
 İçeri girdim.
 
-Bana bir masa gösterdiler.
+İlk gördüğüm şey masa oldu.
 
-“Burası senin.”
+Masanın üzerinde dosyalar.
 
-Masanın üzerinde birkaç dosya vardı. Sandalye boştu.
+Dosyaların yanında bilgisayar.
 
-Oturmadan önce etrafa baktım.
+Bilgisayarın yanında kalem.
 
-İnsanlar çalışıyordu. Bazıları konuşuyor, bazıları susuyor, bazıları önlerindeki kâğıtları tekrar tekrar okuyordu.
+Kalemin yanında boş bir kâğıt.
 
-Birisi yanıma geldi.
+Bir adam başını kaldırdı.
 
-“Şunları sıraya koy.”
+“Gel.”
 
-Dosyaları aldım.
+Yaklaştım.
 
-“Neye göre?”
+Elimdeki kâğıdı uzattım.
 
-“Buradaki sıraya göre.”
+Kâğıda baktı.
 
-“Buradaki sıra hangisi?”
+Sonra bana.
 
-Kâğıdı gösterdi.
+“Bunu buraya bırak.”
 
-Baktım.
+Nereye bırakacağımı gösterdi.
 
-Gerçekten bir sıra vardı.
+Bıraktım.
 
-Ama neden o sıra olduğunu bilmiyordum.
-
-Dosyaları yerleştirdim.
-
-Sonra başka bir dosya geldi.
-
-“Bunu beklet.”
+“Bekle.”
 
 “Ne kadar?”
 
-“Bekle.”
+Bana baktı.
 
-“Ne zamana kadar?”
+“Biraz.”
 
-“Çağırırlar.”
+***
 
-İlk gün en çok duyduğum kelime buydu.
+Bir sandalyeye oturdum.
 
-**Bekle.**
+Karşımda başka insanlar vardı.
 
-Bir süre sonra ben de kullanmaya başladım.
+Kimi konuşuyor,
 
-Biri bir şey sorduğunda:
+kimi yazıyor,
 
-“Bekle.”
+kimi bekliyordu.
 
-Bir dosya geldiğinde:
+Kimse yüksek sesle konuşmuyordu.
 
-“Bekle.”
+Ama odanın içinde sürekli bir hareket vardı.
 
-Birisi kapının önünde durduğunda:
+Bir dosya açılıyor.
 
-“Biraz bekleyin.”
+Bir dosya kapanıyor.
 
-İnsan, bazı kelimeleri ne zaman öğrendiğini fark etmiyordu.
+Bir isim söyleniyor.
 
-Bir gün masamda eski bir kâğıt buldum.
+Bir imza atılıyor.
 
-Üzerinde birkaç cümle vardı.
+Bir sandalye çekiliyor.
 
-**Sonucu kim görecek?**
+Bir telefon çalıyor.
 
-Altında:
+Bir kişi ayağa kalkıyor.
 
-**Bu neden böyle?**
+Bir başka kişi oturuyor.
 
-Bir başka satırda:
+***
 
-**Tekrar kontrol edildi.**
+Bir süre sonra önümde bir dosya belirdi.
 
-Son satırda:
-
-**Kim kontrol etti?**
-
-Kâğıdın kime ait olduğunu bilmiyordum.
-
-Yan masadaki adama sordum.
-
-“Bunu sen mi yazdın?”
-
-“Hayır.”
-
-“Kim yazdı?”
-
-“Bilmiyorum.”
-
-Kâğıdı tekrar masama bıraktım.
-
-Bir süre sonra masam değişti.
-
-Nedenini kimse açıklamadı.
-
-Yeni masada daha fazla dosya vardı.
-
-İnsanlar bana daha farklı davranıyordu.
-
-Daha önce sormadıkları şeyleri soruyorlardı.
-
-Ben de cevap veriyordum.
-
-Bir gün öğle arasında yanımda oturan kadın:
-
-“Burada herkes başka biri,” dedi.
+“Bunu sırala.”
 
 “Nasıl?”
 
-“Burada başka, dışarıda başka.”
+“Numarasına göre.”
 
-Sonra yemeğine devam etti.
+Dosyayı aldım.
 
-Kimse bu cümleyi açıklamadı.
-
-Bir süre sonra insanların dışarıdaki hayatlarını öğrenmeye başladım.
-
-Birinin çocuğu vardı.
-
-Birinin borcu.
-
-Birinin hasta annesi.
-
-Birinin gitmek istediği başka bir şehir.
-
-Bunların hiçbiri dosyalarda görünmüyordu.
-
-Dosyalarda isimler vardı.
+Sayfaları çevirdim.
 
 Numaralar vardı.
 
-Tarihler vardı.
+Bazıları eksikti.
 
-İmzalar vardı.
+Bir sayfada iki numara aynıydı.
 
-Ama insanın neden sabah geldiği yazmıyordu.
+Bunu söyledim.
 
-Bir gün yeni biri geldi.
+“Hangisini önce koyayım?”
 
-Elinde benim ilk gün taşıdığım kâğıtlara benzeyen kâğıtlar vardı.
-
-Etrafına baktı.
-
-Sonra yanıma geldi.
-
-“Burada ne yapılıyor?”
-
-Ağzımdan ilk çıkan kelime:
-
-“Bekle.”
-
-Sonra durdum.
-
-Kendi sesimi duydum.
-
-Bir süre ona baktım.
-
-“Ne yapacağım?” diye sordu.
-
-Bu kez cevap veremedim.
-
-Masanın üzerindeki dosyalara baktım.
-
-Sonra kapıya.
-
-Sonra ona.
+Adam dosyaya bakmadan:
 
 “Bilmiyorum.”
 
-Adam şaşırdı.
+dedi.
 
-Ben de şaşırmıştım.
+“Peki?”
 
-Çünkü bunu daha önce hiç söylememiştim.
+“Şimdilik devam et.”
+
+***
+
+Devam ettim.
+
+Bir süre sonra tekrar geldim.
+
+“Bitti.”
+
+Dosyayı aldı.
+
+Sayfaları çevirdi.
+
+“Şu eksik.”
+
+“Hangisi?”
+
+Parmağıyla bir yeri gösterdi.
+
+“Burada olması gereken yok.”
+
+“Ne olması gerekiyor?”
+
+“Onu bul.”
+
+***
+
+Dosyayı tekrar aldım.
+
+Aradım.
+
+Başka bir dosyada buldum.
+
+Getirdim.
+
+Yerine koydum.
+
+Bu kez:
+
+“Tamam.”
+
+dedi.
+
+İş bitmişti.
+
+Ama neyin tamamlandığını bilmiyordum.
+
+***
+
+Öğleye doğru odadaki hareket azaldı.
+
+Birileri dışarı çıktı.
+
+Birisi:
+
+“Yemek?”
+
+diye sordu.
+
+Kimse cevap vermedi.
+
+Bir süre sonra üç kişi birlikte çıktılar.
+
+Ben de peşlerinden gittim.
+
+Bir masaya oturduk.
+
+Yemekler geldi.
+
+İnsanlar içeride konuşmadıkları şeylerden bahsetmeye başladılar.
+
+Çocuk.
+
+Ev.
+
+Kira.
+
+Araba.
+
+Birinin annesi.
+
+Birinin sınavı.
+
+Birinin taşınması.
+
+Birisi güldü.
+
+İçerideki sessizlikle buradaki konuşmaların aynı insanlardan çıktığına inanmak zordu.
+
+***
+
+Masadaki kadın bana:
+
+“Sen yeni misin?”
+
+diye sordu.
+
+“Evet.”
+
+“Alışırsın.”
+
+“Burada neye alışılıyor?”
+
+Kadın çatalını bıraktı.
+
+“Her şeye.”
+
+Sonra gülümsedi.
+
+“En çok da beklemeye.”
+
+***
+
+Yemekten sonra geri döndük.
+
+Aynı masalar.
+
+Aynı dosyalar.
+
+Aynı sandalyeler.
+
+Sanki dışarıda hiç bulunmamışız gibi.
+
+***
+
+Bana başka bir kâğıt verdiler.
+
+“Bunu imzala.”
+
+Okudum.
+
+Bir şey yazıyordu.
+
+Ama tam olarak neyi onayladığımı anlayamadım.
+
+“Burada neyi imzalıyorum?”
+
+Adam:
+
+“Belgenin alındığını.”
+
+dedi.
+
+“Ben almadım.”
+
+“Senin önüne geldi.”
+
+“Bu aynı şey mi?”
+
+Adam bana baktı.
+
+Sonra kâğıdı geri aldı.
+
+“Şimdilik bekle.”
+
+***
+
+Bir süre sonra beklemek de bir iş gibi gelmeye başladı.
+
+Sandalyede oturuyor, dosyayı önümde tutuyor, kimsenin söylemediği bir sonraki cümleyi bekliyordum.
+
+***
+
+Masamın üzerinde bir kâğıt buldum.
+
+Üzerinde tek kelime vardı:
+
+**Eksik.**
+
+Altında boşluk.
+
+Başka bir şey yoktu.
+
+Kâğıdı kimin bıraktığını sordum.
+
+Kimse bilmiyordu.
+
+***
+
+Bir süre kelimeye baktım.
+
+Eksik.
+
+Neyin eksik olduğunu bilmiyordum.
+
+Bir belge mi?
+
+Bir imza mı?
+
+Bir bilgi mi?
+
+Bir sonuç mu?
+
+Yoksa başka bir şey mi?
+
+***
+
+Kâğıdı masanın kenarına bıraktım.
+
+Sonra başka bir dosya açtım.
+
+Bir adam geldi.
+
+“Bunu nereye vereceğim?”
+
+diye sordu.
+
+Dosyaya baktım.
+
+“Şuraya.”
+
+“Sonra?”
+
+“Bekleyeceksin.”
+
+“Ne kadar?”
+
+“Bilmiyorum.”
+
+Adam bana baktı.
+
+Sonra:
+
+“Peki.”
+
+dedi.
+
+Gitti.
+
+***
+
+Bir an arkasından baktım.
+
+İçimde garip bir his oluştu.
+
+Biraz önce bana söylenen cümleyi ben şimdi başkasına söylemiştim.
+
+**Bekleyeceksin.**
+
+***
+
+Masama döndüm.
+
+Kâğıttaki:
+
+**Eksik**
+
+kelimesine baktım.
+
+Yanına küçük bir soru yazdım:
+
+**Ne?**
+
+Sonra kâğıdı önümde bıraktım.
+
+***
+
+Masaların arasında yürürken bir çekmece açık gördüm.
+
+İçinde eski kâğıtlar vardı.
+
+Birinin el yazısı.
+
+Bazı notlar.
+
+Kısa cümleler.
+
+Bir yerde:
+
+**“Sonucu kim görecek?”**
+
+yazıyordu.
+
+Altında cevap yoktu.
+
+Başka bir kâğıtta:
+
+**“Bu neden böyle?”**
+
+Bir başkasında:
+
+**“Tekrar kontrol edildi.”**
+
+Ve en altta:
+
+**“Kim kontrol etti?”**
+
+Bu sorunun da cevabı yoktu.
+
+***
+
+Çekmeceyi kapattım.
+
+Kimseye söylemedim.
+
+***
+
+Masam değişti.
+
+“Buraya geç.”
+
+dediler.
+
+Nedenini sormadım.
+
+Yeni masanın çekmecesinde başka dosyalar vardı.
+
+Bir kalem.
+
+Bir boş kâğıt.
+
+Ve eski bir sandalye.
+
+Sandalyeye oturdum.
+
+Masaya baktım.
+
+Bir önceki masadan hiçbir farkı yoktu.
+
+Ama birkaç saat sonra fark ettim.
+
+İnsanlar bana başka türlü geliyordu.
+
+Bazıları doğrudan konuşuyordu.
+
+Bazıları kapıda bekliyordu.
+
+Bazıları bir şey söylemeden dosya bırakıyordu.
+
+Masanın yeri değişmişti.
+
+Ben değişmemiştim.
+
+Ama insanların gözünde değişmiş gibiydim.
+
+***
+
+Birisi geldi.
+
+“Bunu kime vereceğim?”
+
+Dosyaya baktım.
+
+“Bana.”
+
+dedi.
+
+Dosyayı uzattı.
+
+“Sonuç ne zaman çıkar?”
+
+Bilmiyordum.
+
+Ama cevap vermem gerektiğini düşündüm.
+
+“Bekleyin.”
+
+Adam çıktı.
+
+***
+
+O kelime ağzımdan kendiliğinden çıkmıştı.
+
+Bekleyin.
+
+Sanki uzun zamandır oradaymışım gibi.
+
+***
+
+Bir akşam herkes gittikten sonra odada yalnız kaldım.
+
+Bilgisayarların ışıkları açıktı.
+
+Bir ekranda açık kalan dosya vardı.
+
+Bir dosyanın yanında:
+
+**İşlem devam ediyor.**
+
+yazıyordu.
+
+Başka birinde:
+
+**Beklemede.**
+
+Bir diğerinde:
+
+**Eksik.**
+
+Sonuncusunda:
+
+**Tamamlandı.**
+
+Ekranlara baktım.
+
+Hangisinin gerçekten bitmiş olduğunu anlayamadım.
+
+***
+
+Masamda duran boş kâğıdı aldım.
+
+Üzerine:
+
+**Burada ne yapılır?**
+
+yazdım.
+
+Sonra altına:
+
+**Beklenir.**
+
+yazdım.
+
+Bir süre baktım.
+
+İkinci cümleyi karaladım.
+
+***
 
 Kapıya doğru yürüdüm.
 
-Kapıyı biraz açık bıraktım.
+Koridorda yeni biri vardı.
 
-Arkamdan onun sesini duydum.
+Elinde benim ilk günkü kâğıdıma benzeyen bir kâğıt tutuyordu.
 
-“Peki kime soracağım?”
+Bana baktı.
 
-Durmadım.
+“Burada ne yapılıyor?”
 
-“Sen sor.”
+diye sordu.
 
-Dedim.
+Bir an cevap veremedim.
+
+Sonra ağzımdan şu çıktı:
+
+“Biraz bekle.”
+
+***
+
+Söz ağzımdan çıkar çıkmaz durdum.
+
+Yeni gelen sandalyeye oturdu.
+
+Ben kapıya doğru yürüdüm.
+
+Koridorun sonunda durup geriye baktım.
+
+İçerideki sesler yine aynıydı.
+
+“İmza.”
+
+“Bekliyor.”
+
+“Eksik.”
+
+“Tamamlandı.”
+
+Sonra yeni gelenin sesi duyuldu:
+
+“Ne yapacağım?”
+
+Bu kez içeriden kimse cevap vermedi.
+
+***
+
+Kapının önünde durdum.
+
+Elimi kapının koluna koydum.
+
+İçeri dönüp ona ne yapacağını anlatabilirdim.
+
+Ama ne söyleyeceğimi bilmiyordum.
+
+Bir süre kapının aralığından baktım.
+
+Yeni gelen de bana bakıyordu.
+
+“Ne soracağım?” dedi.
+
+Ağzımı açtım.
+
+Cevap vermedim.
+
+Sonra:
+
+“Bilmiyorum.”
+
+dedim.
 
 Kapıyı biraz daha açık bıraktım.
+
+“Sen sor.”
 
 Ve yürüdüm.
