@@ -123,6 +123,7 @@ function storyHero(story){
 function linkNote(sourceStory,link){ return sourceStory?.localized?.[state.locale]?.link_notes?.[link.target] || link?.note || ""; }
 function linkTypeLabel(type){ return t(`link_${type}`,type); }
 function translationStatus(story,lang){
+  if(lang===story.source_language && story.translation_policy==="source_only_until_reviewed") return state.locale==="tr"?"Özgün Türkçe metin":"Turkish original";
   const s=story.translations?.[lang]?.status;
   if(s==="canonical") return t("canonical","Canonical");
   if(s==="reviewed") return t("reviewed_translation","Reviewed Translation");
