@@ -502,6 +502,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "WRK-0028",
+      "title": "Hatırlayan",
+      "file": "./WRK-0028.mp3",
+      "duration_seconds": 459.964,
+      "bytes": 5519927,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: Gecede Açılan Göz",
       "file": "./HUM-0001.mp3",
