@@ -241,6 +241,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "WRK-0003",
+      "title": "Voice",
+      "file": "./WRK-0003.mp3",
+      "duration_seconds": 487.314,
+      "bytes": 5848129,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "WRK-0004",
       "title": "Paper",
       "file": "./WRK-0004.mp3",
