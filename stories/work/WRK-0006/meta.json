@@ -47,11 +47,13 @@
       "summary": "Kimi insanlar imzalarını uzun atardı. Kimi yalnızca iki harf kullanırdı. Bazıları her seferinde başka türlü yazardı.",
       "link_notes": {
         "WRK-0017": "İmza ile görünmeyen emek"
-      }
+      },
+      "subtitle": "Sorumluluk çalışana yüklenirken karar yetkisinin amirde kalması adaletsizlik yaratır."
     },
     "en": {
       "title": "Signature",
-      "summary": "A standalone memory of work, institutional power, and signature."
+      "summary": "A standalone memory of work, institutional power, and signature.",
+      "subtitle": "Giving a worker responsibility while keeping authority with the manager creates injustice."
     }
   },
   "hero_image": {

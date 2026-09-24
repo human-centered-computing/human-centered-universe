@@ -39,11 +39,13 @@
     "tr": {
       "title": "Duvar",
       "summary": "Duvarın nerede başladığını ilk başta anlamamıştım.",
-      "link_notes": {}
+      "link_notes": {},
+      "subtitle": "Kurum içindeki görünmez sınırlar, insanların birbirine ve çözüme ulaşmasını engeller."
     },
     "en": {
       "title": "Wall",
-      "summary": "A standalone memory of work, institutional power, and wall."
+      "summary": "A standalone memory of work, institutional power, and wall.",
+      "subtitle": "Invisible boundaries within an institution keep people from one another and from solutions."
     }
   },
   "hero_image": {

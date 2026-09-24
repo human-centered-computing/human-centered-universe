@@ -47,11 +47,13 @@
       "summary": "Masadaki çizik kadar küçük bir iz, dosyanın içinde olmayan bir emeği hatırlatabilirdi. Yine de kimin bıraktığını bilmediğimiz izi birine mal etmek, onu anlamakla aynı şey değildi.",
       "link_notes": {
         "WRK-0028": "İz ve hatırlama"
-      }
+      },
+      "subtitle": "Yapılan işin ardında kalan iz kaydedilmiyorsa, emek kısa sürede unutulur."
     },
     "en": {
       "title": "Trace",
-      "summary": "A standalone memory of work, institutional power, and trace."
+      "summary": "A standalone memory of work, institutional power, and trace.",
+      "subtitle": "Work is soon forgotten when no trace of its contribution is kept."
     }
   },
   "hero_image": {

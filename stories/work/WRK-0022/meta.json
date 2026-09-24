@@ -47,11 +47,13 @@
       "summary": "Bir iş masadan masaya devredilebilirdi. Masayı devralan kişinin, önceki çalışanın sorularını da devralıp alamayacağını kimse söylemiyordu.",
       "link_notes": {
         "WRK-0021": "Boş masa ve yerini alan kişi"
-      }
+      },
+      "subtitle": "İnsanların kolayca birbirinin yerine konulması, emeğin kişisel değerini inkâr eder."
     },
     "en": {
       "title": "In Place Of",
-      "summary": "A standalone memory of work, institutional power, and in place of."
+      "summary": "A standalone memory of work, institutional power, and in place of.",
+      "subtitle": "Treating people as interchangeable denies the personal value of their work."
     }
   },
   "hero_image": {

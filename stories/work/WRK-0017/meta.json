@@ -47,11 +47,13 @@
       "summary": "Masama bırakılan dosyanın kapağında hazırlayanın adı yoktu. İçindeki cümleleri okurken birinin onları kurmak için harcadığı saatleri düşündüm. Son imza görünüyordu; başlangıçtaki emek görünmüyordu.",
       "link_notes": {
         "WRK-0006": "İmza ile görünmeyen emek"
-      }
+      },
+      "subtitle": "Adı görünmeyen emek, kurumun başarısında kullanılırken çalışanın varlığını siler."
     },
     "en": {
       "title": "Nameless",
-      "summary": "A standalone memory of work, institutional power, and nameless."
+      "summary": "A standalone memory of work, institutional power, and nameless.",
+      "subtitle": "When a worker’s name disappears from their labor, the institution can claim the success and erase the person."
     }
   },
   "hero_image": {

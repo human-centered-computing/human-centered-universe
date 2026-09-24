@@ -47,11 +47,13 @@
       "summary": "Masamda duran başvuruda bütün işlem tarihleri yerindeydi; yalnız başvuranın hayatında neyin değiştiğini gösteren satır yoktu. Kimse istemediği hâlde bir izleme tablosu çizmeye başladım. Çizgilerin hangi elde…",
       "link_notes": {
         "WRK-0029": "Fikrin ve katkının izi"
-      }
+      },
+      "subtitle": "Bir çalışanın fikrinin elinden alınması, emeğinin ve kimliğinin de elinden alınmasıdır."
     },
     "en": {
       "title": "Idea",
-      "summary": "A standalone memory of work, institutional power, and idea."
+      "summary": "A standalone memory of work, institutional power, and idea.",
+      "subtitle": "Taking a worker’s idea also takes away their labor and a part of who they are."
     }
   },
   "hero_image": {

@@ -39,11 +39,13 @@
     "tr": {
       "title": "Son İş",
       "summary": "Kapağına büyük harflerle SON yazılan dosyada işlem izleri vardı. Başvuru sahibinin gerçekten cevap alıp almadığını ise ancak onunla konuşarak öğrenebilirdik.",
-      "link_notes": {}
+      "link_notes": {},
+      "subtitle": "Bir işin sonlandırılması, çalışanın katkısının da sona erdiği anlamına gelmez."
     },
     "en": {
       "title": "The Last Task",
-      "summary": "A standalone memory of work, institutional power, and the last task."
+      "summary": "A standalone memory of work, institutional power, and the last task.",
+      "subtitle": "Finishing a task does not erase the worker’s contribution."
     }
   },
   "hero_image": {

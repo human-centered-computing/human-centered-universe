@@ -73,6 +73,9 @@ function storySummary(story){ return story?.localized?.[state.locale]?.summary |
 function storySeriesTitle(story){
   return story?.series?.title?.[state.locale] || story?.series?.title?.en || "";
 }
+function storySubtitle(story){
+  return story?.localized?.[state.locale]?.subtitle || story?.localized?.en?.subtitle || "";
+}
 function storyWeights(story){
   const w=story?.center_weights || {};
   return {HUMAN:Number(w.HUMAN||0),LIGHT:Number(w.LIGHT||0),DARK:Number(w.DARK||0)};
@@ -243,7 +246,7 @@ function renderRead(){
   const requested=story.content?.[state.locale]; const fallbackLang=story.source_language||state.data?.fallback_language||"en"; const content=requested||story.content?.[fallbackLang]||story.content?.en||""; const fallback=!requested;
   const seriesTitle=storySeriesTitle(story);
   const readingContent=seriesTitle?content.replace(/^#\s+[^\n]+\n*/,""):content;
-  const workHeading=seriesTitle?`<header class="work-heading"><h1>${escapeHtml(seriesTitle)}</h1><h2>${escapeHtml(storyTitle(story))}</h2></header>`:"";
+  const workHeading=seriesTitle?`<header class="work-heading"><h1>${escapeHtml(seriesTitle)}</h1><h2>${escapeHtml(storyTitle(story))}</h2>${storySubtitle(story)?`<p>${escapeHtml(storySubtitle(story))}</p>`:""}</header>`:"";
   const related=(story.links||[]).map(link=>({link,story:storyById(link.target)})).filter(x=>x.story);
   const w=storyWeights(story); const p=primaryCenter(story); const nextResult=recommendNext(story.id); const next=nextResult?.story;
   const choices=choicesFor(story);
@@ -297,7 +300,7 @@ function renderExplore(){
   const stories=orderedStories();
   const categoryCounts=CENTER_KEYS.reduce((acc,center)=>{ acc[center]=stories.filter(s=>primaryCenter(s)===center).length; return acc; },{});
   const points=stories.map(s=>{ const pt=trianglePoint(storyWeights(s)); const read=state.readIds.has(s.id); const label=`${storyTitle(s)} · ${formatWeights(storyWeights(s))}`; return `<g class="triangle-node" data-story="${s.id}" tabindex="0" role="button" aria-label="${escapeHtml(label)}"><circle cx="${pt.x}" cy="${pt.y}" r="${s.id===state.data.origin_node?9:6}" class="${primaryCenter(s)} ${read?"read":""}"><title>${escapeHtml(label)}</title></circle></g>`; }).join("");
-  const cards=stories.map(s=>`<article class="story-node" data-story="${s.id}" tabindex="0" role="button"><div><span class="node-id">${escapeHtml(s.id)}</span><span class="badge ${primaryCenter(s)}">${escapeHtml(centerLabel(primaryCenter(s)))}</span>${state.readIds.has(s.id)?`<span class="read-dot">${t("read_status","Read")}</span>`:""}</div>${storySeriesTitle(s)?`<small class="series-label">${escapeHtml(storySeriesTitle(s))}</small>`:""}<h3>${escapeHtml(storyTitle(s))}</h3><p>${escapeHtml(storySummary(s))}</p>${weightBars(storyWeights(s))}</article>`).join("");
+  const cards=stories.map(s=>`<article class="story-node" data-story="${s.id}" tabindex="0" role="button"><div><span class="node-id">${escapeHtml(s.id)}</span><span class="badge ${primaryCenter(s)}">${escapeHtml(centerLabel(primaryCenter(s)))}</span>${state.readIds.has(s.id)?`<span class="read-dot">${t("read_status","Read")}</span>`:""}</div>${storySeriesTitle(s)?`<small class="series-label">${escapeHtml(storySeriesTitle(s))}</small>`:""}<h3>${escapeHtml(storyTitle(s))}</h3><p>${escapeHtml(storySubtitle(s)||storySummary(s))}</p>${weightBars(storyWeights(s))}</article>`).join("");
   app.innerHTML=`<section>
     <div class="explore-head"><div><h1>${t("explore","Explore")}</h1><p>${t("explore_triangle_intro","HUMAN + LIGHT + DARK = 100. Every node occupies a position in the same triangular state space.")}</p></div><input id="story-search" class="search-box" type="search" placeholder="${t("search","Search stories")}"></div>
     <div class="explore-counts" aria-label="Story counts by category">${CENTER_KEYS.map(center=>`<div class="explore-count"><span class="badge ${center}">${escapeHtml(centerLabel(center))}</span><strong>${categoryCounts[center]}</strong><small>${escapeHtml(t("stories_count_label","stories"))}</small></div>`).join("")}</div>

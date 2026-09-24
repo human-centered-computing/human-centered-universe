@@ -47,11 +47,13 @@
       "summary": "Başvuru sahibi kapıda bekliyordu. Dosyanın son sayfasındaki damga onun beklediği cevabı veriyor muydu? Masama gelen dosyayı açtığımda bu iki sonucun aynı şey sayıldığını gördüm.",
       "link_notes": {
         "WRK-0030": "İşlemin kapanması ve insanın sonucu doğrulaması"
-      }
+      },
+      "subtitle": "Bir işin değeri, yalnızca tamamlanmasında değil, kime ve neye fayda sağladığında ortaya çıkar."
     },
     "en": {
       "title": "Result",
-      "summary": "A standalone memory of work, institutional power, and result."
+      "summary": "A standalone memory of work, institutional power, and result.",
+      "subtitle": "The worth of a task lies in whom and what it helps, as well as in its completion."
     }
   },
   "hero_image": {

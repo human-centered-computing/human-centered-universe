@@ -53,11 +53,13 @@
       "link_notes": {
         "WRK-0018": "İşlemin kapanması ve insanın sonucu doğrulaması",
         "BRG-0019": "İnsan için etki, doğrulanabilir katkı ve yeniden deneme soruları; zaman bağı yoktur"
-      }
+      },
+      "subtitle": "Adil çalışma düzeni, mesai saatini değil emeğin amacını, katkısını ve sonucunu görünür kılar."
     },
     "en": {
       "title": "Visible",
-      "summary": "A standalone memory of work, institutional power, and visible."
+      "summary": "A standalone memory of work, institutional power, and visible.",
+      "subtitle": "A fair workplace makes the purpose, contribution and result of work visible."
     }
   },
   "hero_image": {

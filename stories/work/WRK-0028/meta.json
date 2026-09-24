@@ -47,11 +47,13 @@
       "summary": "Eski binanın camından gördüğüm masa, orada bir zamanlar söylenenleri bana hatırlattı. Aynı yüzey başka bir çalışan için yalnızca sıradan bir iş günü olabilirdi.",
       "link_notes": {
         "WRK-0023": "İz ve hatırlama"
-      }
+      },
+      "subtitle": "Emeği hatırlamak, yalnızca geçmişi korumak değil, gelecekte aynı adaletsizliği önlemektir."
     },
     "en": {
       "title": "The One Who Remembers",
-      "summary": "A standalone memory of work, institutional power, and the one who remembers."
+      "summary": "A standalone memory of work, institutional power, and the one who remembers.",
+      "subtitle": "Remembering labor can prevent the same injustice from returning."
     }
   },
   "hero_image": {

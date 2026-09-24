@@ -47,11 +47,13 @@
       "summary": "Dosyanın ilk sayfasında kırmızı bir damga vardı.",
       "link_notes": {
         "WRK-0005": "Boşluk ve eksik kayıt"
-      }
+      },
+      "subtitle": "Sistem kendi hatasını çalışanın eksiği gibi göstererek sorumluluktan kaçabilir."
     },
     "en": {
       "title": "Missing",
-      "summary": "A standalone memory of work, institutional power, and missing."
+      "summary": "A standalone memory of work, institutional power, and missing.",
+      "subtitle": "A system can evade responsibility by calling its own mistake a worker’s shortcoming."
     }
   },
   "hero_image": {

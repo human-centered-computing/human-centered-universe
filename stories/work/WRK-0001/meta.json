@@ -47,11 +47,13 @@
       "summary": "Kapının önünde beklerken içeriden gelen sesleri duyabiliyordum.",
       "link_notes": {
         "WRK-0027": "Kapı ve hareket etme iradesi"
-      }
+      },
+      "subtitle": "Çalışmaya girmek, insanın kendi iradesiyle bir sisteme teslim olması anlamına gelebilir."
     },
     "en": {
       "title": "Threshold",
-      "summary": "A standalone memory of work, institutional power, and threshold."
+      "summary": "A standalone memory of work, institutional power, and threshold.",
+      "subtitle": "Entering work can mean surrendering to a system of one’s own free will."
     }
   },
   "hero_image": {

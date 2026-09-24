@@ -47,11 +47,13 @@
       "summary": "O odada herkesin emek verdiği bir çalışma tanıtılıyordu. Kimin başladığı, kimin değiştirdiği ve kimin sonuçlandırdığı aynı cümleyle anlatılacak kadar basit değildi. Arka sıradan dinlerken kendi suskunluğumun da bu…",
       "link_notes": {
         "WRK-0010": "İsmin görünmesi ve alkışın dağılımı"
-      }
+      },
+      "subtitle": "Başkasının adıyla sunulan emek, çalışanı kendi işine yabancılaştırır."
     },
     "en": {
       "title": "Another Name",
-      "summary": "A standalone memory of work, institutional power, and another name."
+      "summary": "A standalone memory of work, institutional power, and another name.",
+      "subtitle": "Work presented under another person’s name estranges its creator from it."
     }
   },
   "hero_image": {

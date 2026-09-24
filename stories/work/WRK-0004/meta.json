@@ -39,11 +39,13 @@
     "tr": {
       "title": "Kâğıt",
       "summary": "Dosyadan çıkarılırken hafifçe sürtünür, masanın üzerine bırakıldığında kısa bir ses çıkarırdı.",
-      "link_notes": {}
+      "link_notes": {},
+      "subtitle": "Evraklar çoğaldıkça gerçek insan ve gerçek ihtiyaç görünmez hâle gelebilir."
     },
     "en": {
       "title": "Paper",
-      "summary": "A standalone memory of work, institutional power, and paper."
+      "summary": "A standalone memory of work, institutional power, and paper.",
+      "subtitle": "As paperwork grows, the person and their real need can disappear from view."
     }
   },
   "hero_image": {

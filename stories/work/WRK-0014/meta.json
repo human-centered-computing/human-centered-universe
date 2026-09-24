@@ -47,11 +47,13 @@
       "summary": "Günlük iş listesi eksiksizdi. Yan masadaki çalışanın ne kadar süredir sırtını tutarak oturduğu listede yoktu. Masama geçerken bunu görmüş olmam, kendi ağrımı da birden görünür kıldı.",
       "link_notes": {
         "WRK-0025": "Bedenin ve sesin çekilmesi"
-      }
+      },
+      "subtitle": "Çalışanın bedeni, verimlilik uğruna sınırsızca kullanılabilecek bir araç değildir."
     },
     "en": {
       "title": "Body",
-      "summary": "A standalone memory of work, institutional power, and body."
+      "summary": "A standalone memory of work, institutional power, and body.",
+      "subtitle": "A worker’s body is not an endless resource for productivity."
     }
   },
   "hero_image": {

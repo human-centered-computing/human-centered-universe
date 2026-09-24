@@ -47,11 +47,13 @@
       "summary": "Toplantı salonundaki ekranda tamamlanan işler görünüyordu. Salona girmeden önce bir kadın, daha önce önerdiği yöntemi yazdığı buruşuk kâğıdı bana göstermişti. Ekranda o yöntemden izler vardı; kâğıtta ise henüz…",
       "link_notes": {
         "WRK-0009": "İsmin görünmesi ve alkışın dağılımı"
-      }
+      },
+      "subtitle": "Başarıyı görünür kılmadan yapılan övgü, gerçek emeğin üzerini örtebilir."
     },
     "en": {
       "title": "Applause",
-      "summary": "A standalone memory of work, institutional power, and applause."
+      "summary": "A standalone memory of work, institutional power, and applause.",
+      "subtitle": "Praise that hides how success was achieved can conceal the work behind it."
     }
   },
   "hero_image": {

@@ -39,11 +39,13 @@
     "tr": {
       "title": "Aynı",
       "summary": "Birimde işe yeni başlayan kişi masasına oturduğunda elinde birkaç kâğıt vardı.",
-      "link_notes": {}
+      "link_notes": {},
+      "subtitle": "Her gün aynı işi yapmak, amaç ve sonuç yoksa düzen değil, yavaş işleyen bir mahkûmiyettir."
     },
     "en": {
       "title": "The Same",
-      "summary": "A standalone memory of work, institutional power, and the same."
+      "summary": "A standalone memory of work, institutional power, and the same.",
+      "subtitle": "Repetition without purpose or result becomes a slow form of confinement."
     }
   },
   "hero_image": {

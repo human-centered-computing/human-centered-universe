@@ -39,11 +39,13 @@
     "tr": {
       "title": "Bekleyen",
       "summary": "Koridorda bekleyenlerin dosya numarası birbirini izliyordu; neden geldikleri ise ayrı ayrı hikâyelerdi. Numara çağrıldığında bir kişinin kendisini duyulmuş sayıp saymayacağını hiçbir çizelge göstermiyordu.",
-      "link_notes": {}
+      "link_notes": {},
+      "subtitle": "Sürekli bekletilen çalışan, zamanını değil, yaşamından parçaları kaybeder."
     },
     "en": {
       "title": "The Waiting One",
-      "summary": "A standalone memory of work, institutional power, and the waiting one."
+      "summary": "A standalone memory of work, institutional power, and the waiting one.",
+      "subtitle": "A worker kept waiting loses more than time; they lose pieces of their life."
     }
   },
   "hero_image": {

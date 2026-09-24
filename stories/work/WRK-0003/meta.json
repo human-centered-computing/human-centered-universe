@@ -39,11 +39,13 @@
     "tr": {
       "title": "Ses",
       "summary": "Kapının açıldığını duymadan önce içerideki sandalyenin çekildiğini duydum.",
-      "link_notes": {}
+      "link_notes": {},
+      "subtitle": "Çalışanın susturulması, yalnızca konuşmasının değil, düşünme gücünün de engellenmesidir."
     },
     "en": {
       "title": "Voice",
-      "summary": "A standalone memory of work, institutional power, and voice."
+      "summary": "A standalone memory of work, institutional power, and voice.",
+      "subtitle": "Silencing a worker can also silence their ability to think."
     }
   },
   "hero_image": {

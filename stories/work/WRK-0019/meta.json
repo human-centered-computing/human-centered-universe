@@ -39,11 +39,13 @@
     "tr": {
       "title": "Sayı",
       "summary": "Bir kurum kendisi için kaç işlemin yapıldığını sayıyordu. Başvurusunun sonucunu alamayan bir kişi içinse aynı sayılar birden çok kez gelmek zorunda kaldığı kapıları gösteriyordu.",
-      "link_notes": {}
+      "link_notes": {},
+      "subtitle": "Çalışanı yalnızca rakamlarla ölçmek, insanın nitelikli katkısını görünmez kılar."
     },
     "en": {
       "title": "Number",
-      "summary": "A standalone memory of work, institutional power, and number."
+      "summary": "A standalone memory of work, institutional power, and number.",
+      "subtitle": "Measuring a worker only in numbers hides the quality of their contribution."
     }
   },
   "hero_image": {

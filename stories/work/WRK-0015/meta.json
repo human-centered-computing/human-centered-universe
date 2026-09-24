@@ -47,11 +47,13 @@
       "summary": "Bu odada cezalar her zaman ceza adıyla verilmezdi. Bazen bitirilmiş bir tablo masaya döner, yeni bir görev gibi beklerdi. Dosyanın geri gelişini gördüğümde kimin neyi neden tekrar ettirdiğini anlamak istedim.",
       "link_notes": {
         "WRK-0024": "Boş işin verilmesi ve sorgulanması"
-      }
+      },
+      "subtitle": "Boş ve anlamsız işler vermek, mesaiyi disiplin değil psikolojik cezaya dönüştürür."
     },
     "en": {
       "title": "Punishment",
-      "summary": "A standalone memory of work, institutional power, and punishment."
+      "summary": "A standalone memory of work, institutional power, and punishment.",
+      "subtitle": "Assigning empty tasks turns work hours into psychological punishment."
     }
   },
   "hero_image": {

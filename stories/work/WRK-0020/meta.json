@@ -39,11 +39,13 @@
     "tr": {
       "title": "Hata",
       "summary": "Kırmızıyla işaretlenmiş rakamın düzeltilmesi gerekiyordu. O sırada birim, rakamdan önce onu kimin yazdığını arıyordu. Dosyayı açıp ikisinin aynı sorun olmadığını anlamaya çalıştım.",
-      "link_notes": {}
+      "link_notes": {},
+      "subtitle": "Hata saklandığında büyür; açıkça konuşulduğunda öğrenme ve iyileşme imkânına dönüşür."
     },
     "en": {
       "title": "Error",
-      "summary": "A standalone memory of work, institutional power, and error."
+      "summary": "A standalone memory of work, institutional power, and error.",
+      "subtitle": "An error grows when hidden and becomes a chance to learn when discussed openly."
     }
   },
   "hero_image": {

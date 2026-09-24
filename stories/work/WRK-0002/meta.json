@@ -39,11 +39,13 @@
     "tr": {
       "title": "Yer",
       "summary": "Masaların birbirinden farkı yokmuş gibi görünüyordu.",
-      "link_notes": {}
+      "link_notes": {},
+      "subtitle": "Bir masaya sahip olmak, o yerde gerçekten ait ve değerli olmak demek değildir."
     },
     "en": {
       "title": "Place",
-      "summary": "A standalone memory of work, institutional power, and place."
+      "summary": "A standalone memory of work, institutional power, and place.",
+      "subtitle": "Having a desk does not mean truly belonging or being valued there."
     }
   },
   "hero_image": {

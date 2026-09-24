@@ -47,11 +47,13 @@
       "summary": "Çalışmaya hevesli birine yeni dosya vermek kolaydı. Masada duran kâğıtlardan hangisinin bir insana yarayacağını bilmeden iş dağıtmak ise bana giderek daha ağır geliyordu.",
       "link_notes": {
         "WRK-0015": "Boş işin verilmesi ve sorgulanması"
-      }
+      },
+      "subtitle": "Sürekli daha fazlasını istemek, emeği geliştirmek yerine sömürüyü normalleştirebilir."
     },
     "en": {
       "title": "The Extra",
-      "summary": "A standalone memory of work, institutional power, and the extra."
+      "summary": "A standalone memory of work, institutional power, and the extra.",
+      "subtitle": "Constant demands for more can normalize exploitation instead of improving work."
     }
   },
   "hero_image": {

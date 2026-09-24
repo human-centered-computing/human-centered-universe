@@ -47,11 +47,13 @@
       "summary": "Dosyada adları yazılı olanlarla satırları gerçekten üretenler birbirine denk düşmüyordu. Bir katkıyı görünür kılmak için yalnızca bir isim yazmak yeterli olacak mıydı?",
       "link_notes": {
         "WRK-0008": "Fikrin ve katkının izi"
-      }
+      },
+      "subtitle": "İsimsiz kalan emek, başkasının başarısı gibi görünür; görünürlük adaletin ilk adımıdır."
     },
     "en": {
       "title": "Without a Name",
-      "summary": "A standalone memory of work, institutional power, and without a name."
+      "summary": "A standalone memory of work, institutional power, and without a name.",
+      "subtitle": "Nameless labor can appear to be someone else’s success; visibility begins the work of justice."
     }
   },
   "hero_image": {

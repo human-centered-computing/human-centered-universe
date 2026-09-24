@@ -47,11 +47,13 @@
       "summary": "Çıkış kapısı açıkken de insan durabilir. O akşam elimde bir kâğıtla beklerken beni içeride tutan şeyin iş mi, alışkanlık mı olduğunu ayırt etmeye çalıştım.",
       "link_notes": {
         "WRK-0001": "Kapı ve hareket etme iradesi"
-      }
+      },
+      "subtitle": "Kurumdan çıkmak, çalışanın sistemin dışında düşünmeye ve kendini yeniden kurmaya başlamasıdır."
     },
     "en": {
       "title": "Outside",
-      "summary": "A standalone memory of work, institutional power, and outside."
+      "summary": "A standalone memory of work, institutional power, and outside.",
+      "subtitle": "Leaving the institution can let a worker think beyond its rules and rebuild a sense of self."
     }
   },
   "hero_image": {

@@ -47,11 +47,13 @@
       "summary": "Dosyanın eksik olduğu söylendiğinde önce sayfaları sayardım.",
       "link_notes": {
         "WRK-0013": "Boşluk ve eksik kayıt"
-      }
+      },
+      "subtitle": "Anlamsız bırakılan zaman, çalışanın hevesini ve yaratıcılığını tüketir."
     },
     "en": {
       "title": "Emptiness",
-      "summary": "A standalone memory of work, institutional power, and emptiness."
+      "summary": "A standalone memory of work, institutional power, and emptiness.",
+      "subtitle": "Time emptied of meaning drains a worker’s drive and creativity."
     }
   },
   "hero_image": {

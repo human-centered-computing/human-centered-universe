@@ -39,11 +39,13 @@
     "tr": {
       "title": "Masa",
       "summary": "Bir odada masaların yeri, insanların sözünün nereye kadar ulaşabileceğini de belirliyordu. Aynı işi yapan iki kişinin birbirine yakın oturması, aynı şeyi söyleyebilecekleri anlamına gelmiyordu.",
-      "link_notes": {}
+      "link_notes": {},
+      "subtitle": "Çalışma alanı yalnızca fiziksel bir yer değil, güç ve değer ilişkilerinin de merkezidir."
     },
     "en": {
       "title": "Desk",
-      "summary": "A standalone memory of work, institutional power, and desk."
+      "summary": "A standalone memory of work, institutional power, and desk.",
+      "subtitle": "A workspace is also a place where power and worth are assigned."
     }
   },
   "hero_image": {
