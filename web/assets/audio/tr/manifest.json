@@ -262,8 +262,8 @@
       "id": "WRK-0001",
       "title": "Eşik",
       "file": "./WRK-0001.mp3",
-      "duration_seconds": 255.634,
-      "bytes": 3067969,
+      "duration_seconds": 635.324,
+      "bytes": 7624247,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
     },
@@ -278,7 +278,7 @@
     },
     {
       "id": "WRK-0003",
-      "title": "Yer",
+      "title": "Ses",
       "file": "./WRK-0003.mp3",
       "duration_seconds": 188.134,
       "bytes": 2257965,
