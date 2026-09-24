@@ -90,20 +90,27 @@ for mp in STORIES.rglob("meta.json"):
     valid_reality_weaving(d.get("reality_weaving"), str(mp))
 
     content_dir = mp.parent / "content"
-    canonical_file = content_dir / f"{CANONICAL_LANGUAGE}.md"
-    if not canonical_file.exists():
-        errors.append(f"{mp}: missing canonical content/{CANONICAL_LANGUAGE}.md")
-
-    if d.get("source_language") != CANONICAL_LANGUAGE:
-        errors.append(f"{mp}: source_language must be {CANONICAL_LANGUAGE}")
+    source_only = d.get("translation_policy") == "source_only_until_reviewed"
+    source_language = d.get("source_language")
+    if source_only:
+        if source_language != "tr" or d.get("core") != "WORK":
+            errors.append(f"{mp}: source-only exception applies to Turkish WORK stories")
+        if not (content_dir / "tr.md").exists():
+            errors.append(f"{mp}: missing original content/tr.md")
+    else:
+        canonical_file = content_dir / f"{CANONICAL_LANGUAGE}.md"
+        if not canonical_file.exists():
+            errors.append(f"{mp}: missing canonical content/{CANONICAL_LANGUAGE}.md")
+        if source_language != CANONICAL_LANGUAGE:
+            errors.append(f"{mp}: source_language must be {CANONICAL_LANGUAGE}")
 
     translations = d.get("translations", {})
     canonical_entry = translations.get(CANONICAL_LANGUAGE, {})
-    if not canonical_entry:
+    if not canonical_entry and not source_only:
         errors.append(f"{mp}: missing translation metadata for {CANONICAL_LANGUAGE}")
-    elif canonical_entry.get("status") not in VALID_TRANSLATION_STATUS:
+    elif canonical_entry and canonical_entry.get("status") not in VALID_TRANSLATION_STATUS:
         errors.append(f"{mp}: invalid translation status for {CANONICAL_LANGUAGE}")
-    elif canonical_entry.get("status") != "canonical":
+    elif canonical_entry and canonical_entry.get("status") != "canonical" and not source_only:
         errors.append(f"{mp}: {CANONICAL_LANGUAGE} translation status must be canonical")
 
     for lang, entry in translations.items():

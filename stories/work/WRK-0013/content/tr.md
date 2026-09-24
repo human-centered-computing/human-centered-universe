@@ -1,69 +1,339 @@
-# WRK-0013 — Beden
+# Eksik
 
-Sistemin bir saati vardı.
+Dosyanın ilk sayfasında kırmızı bir damga vardı.
 
-Bedenin yoktu.
+EKSİK
 
-Bir sabah kalkamadım.
+Damga o kadar büyüktü ki altındaki yazıların bir kısmı görünmüyordu.
 
-Saat çaldı.
+Dosyanın sahibine eksik olanı söylemek kolaydı; liste önümdeydi. Eksik kaydın yüzünden beklediği işi neden hâlâ yapamadığımızı söylemek daha zordu. “Bir belge getireceğim,” dedi, “sonra bitecek mi?” Kâğıtları yeniden açtım. Bunun cevabını gösteren yer boştu. Onu kapıdan yeni bir görevle gönderebilirdim. Bu kez çıkmadan önce amire sordum. “Şimdi onu bilmemize gerek yok,” dedi. Adam hâlâ koridorda duruyordu. Kimin için gerekli olmadığını düşünerek masama döndüm.
 
-Susturdum.
+Dosyayı bana getiren adam:
 
-Tekrar çaldı.
+“Ne eksik?”
 
-Yine susturdum.
+diye sordu.
 
-Üçüncüde kalktım.
+Dosyayı açtım.
 
-Başım dönüyordu.
+İlk sayfada başvuru vardı.
 
-Aradım.
+İkinci sayfada ekler.
 
-İlk soru:
+Üçüncü sayfada kimlik bilgileri.
 
-“Ne oldu?”
+Dördüncü sayfada imza.
 
-değildi.
+Sonraki sayfalarda tarih, onay, kontrol ve teslim kayıtları.
 
-“Bugün kim yapacak?”
+Her şey yerindeydi.
 
-oldu.
+“Bilmiyorum.”
 
-Soruyu anladım.
+dedim.
 
-İşin devam etmesi gerekiyordu.
+Adam:
 
-Ama o gün ilk kez kendimi bir işin eksik parçası gibi hissettim.
+“Bana da söylemediler.”
 
-Sonra mesajlar geldi.
+Dosyayı ilgili masaya götürdük.
 
-“Dosya nerede?”
+Masadaki kişi damgaya baktı.
 
-“Şunu gönderebilir misin?”
+“Eksik.”
 
-“Bir şey daha var.”
+dedi.
 
-Bedenim yatakta kalmıştı.
+“Ne eksik?”
 
-İşim hâlâ benimle konuşuyordu.
+Dosyayı açtı.
 
-Ertesi gün döndüm.
+Sayfaları çevirdi.
 
-Sandalye yerindeydi.
+“Burada yazıyor.”
 
-Saat çalışıyordu.
+“Ne yazıyor?”
 
-Dosya masadaydı.
+“Eksik.”
 
-Kimse bedenimin dün ne yaptığını sormadı.
+“Eksik olan ne?”
 
-Çünkü bedenin kaydı vardı, ama yaşadığı şeyin kaydı yoktu.
+Adam tekrar ilk sayfaya baktı.
 
-O gün şunu düşündüm:
+“Bilmiyorum.”
 
-Bir düzen, insanı görevlerine ayırabilir.
+“Peki neden eksik?”
 
-Ama insanın yorgunluğunu, korkusunu, ağrısını ve dinlenme ihtiyacını aynı kolaylıkla parçalara ayıramaz.
+“Çünkü eksik.”
 
-Beden bazen sistemin unuttuğu son tanıktı.
+Dosyayı kapattı.
+
+“Tamamlayın.”
+
+Adam dosyayı aldı.
+
+Koridora çıktı.
+
+Bir süre sonra geri geldi.
+
+Yanında başka bir kâğıt vardı.
+
+“Bunu da ekledim.”
+
+Dosyayı açtım.
+
+Yeni kâğıdı en arkaya koydu.
+
+“Şimdi?”
+
+İlk sayfaya baktım.
+
+EKSİK
+
+damgası hâlâ oradaydı.
+
+Adam kâğıdı tekrar çıkardı.
+
+“Başka ne ekleyeyim?”
+
+“Bilmiyorum.”
+
+Öğle arasında masada dosyadan söz edildi.
+
+“Bazı dosyalar böyle.”
+
+dedi biri.
+
+“Nasıl?”
+
+“Eksik.”
+
+“Ne eksik?”
+
+“Belli olmaz.”
+
+“Nasıl tamamlanıyor?”
+
+Adam çayını karıştırdı.
+
+“Bir gün tamamlanıyor.”
+
+“Ne değişiyor?”
+
+Adam cevap vermedi.
+
+Başka bir kadın masama geldi.
+
+Elinde kalın bir dosya vardı.
+
+“Bunu da eksik demişler.”
+
+Dosyayı açtı.
+
+İçinde sayfalar vardı.
+
+Çok sayıda sayfa.
+
+Ekler.
+
+Raporlar.
+
+Fotoğraflar.
+
+İmzalar.
+
+Kadın:
+
+“Ne istediklerini anlamıyorum.”
+
+dedi.
+
+“Size söylediler mi?”
+
+“Söylediler.”
+
+“Ne söylediler?”
+
+“Eksik olduğunu.”
+
+“Başka?”
+
+“Hayır.”
+
+Kadın dosyayı kapattı.
+
+“Ben artık neyi eksik bıraktığımı düşünmüyorum.”
+
+“Neyi düşünüyorsunuz?”
+
+“Dosyanın benden ne istediğini.”
+
+Bir süre sonra küçük bir form gördüm.
+
+Üst kısmında:
+
+Eksik belge:
+
+yazıyordu.
+
+Altında boş bir çizgi.
+
+Formu elime aldım.
+
+İlk kez neyin eksik olduğunun yazılacağı bir yer vardı.
+
+Ama orası boştu.
+
+Formu dosyanın içine koydum.
+
+Akşamüstü aynı kadın geri geldi.
+
+“Bir şey buldum.”
+
+dedi.
+
+“Ne?”
+
+“Eski bir dosya.”
+
+Kâğıtları önüme koydu.
+
+İlk sayfada:
+
+Eksik: Açıklama
+
+yazıyordu.
+
+Kadın:
+
+“Bunu istiyorlar.”
+
+“Ne açıklaması?”
+
+“Bilmiyorum.”
+
+“Kimden istiyorlar?”
+
+“Benden.”
+
+“Ne açıklayacaksınız?”
+
+Kadın uzun süre sustu.
+
+“Bilmiyorum.”
+
+Bir başka dosyada yalnızca:
+
+Eksik: —
+
+yazıyordu.
+
+Çizginin yanında hiçbir şey yoktu.
+
+Dosyayı getiren kişi:
+
+“Bunun anlamı ne?”
+
+diye sordu.
+
+“Bilmiyorum.”
+
+“Böyle nasıl tamamlanacak?”
+
+Cevap vermedim.
+
+Dosyayı kapattı.
+
+Yeni çalışan masama geldi.
+
+“Bu ne demek?”
+
+diye sordu.
+
+Dosyayı gösterdi.
+
+“Bilmiyorum.”
+
+“Burada neden neyin eksik olduğu yazmıyor?”
+
+“Bilmiyorum.”
+
+“Böyle olunca nasıl tamamlayacağız?”
+
+Dosyaya baktım.
+
+“Belki önce eksik olanı bilmemiz gerekiyordur.”
+
+Başımı kaldırdım.
+
+“Evet.”
+
+Ertesi gün dosya yeniden geldi.
+
+İlk sayfada aynı kırmızı damga vardı.
+
+EKSİK
+
+Bu kez altında küçük bir bölüm açılmıştı:
+
+Eksik olan:
+
+Karşısı boştu.
+
+Dosyayı getiren kişi:
+
+“Burayı doldurmamı söylediler.”
+
+dedi.
+
+“Ne yazacaksınız?”
+
+“Bilmiyorum.”
+
+Kalemi eline aldı.
+
+Boş alana baktı.
+
+Sonra kalemi masaya bıraktı.
+
+“Ben yalnızca işimin yapılmasını istiyorum.”
+
+Dosyaya baktım.
+
+Bu cümle hiçbir yerde yazmıyordu.
+
+Kadının söylediği başka şeyler vardı.
+
+Tarih vardı.
+
+Başvuru vardı.
+
+Belgeler vardı.
+
+İmzalar vardı.
+
+Ama bu cümle yoktu.
+
+Akşam dosyayı kapatmadan önce ilk sayfaya tekrar baktım.
+
+EKSİK
+
+damgası duruyordu.
+
+Altında:
+
+Eksik olan:
+
+yazıyordu.
+
+Karşısı hâlâ boştu.
+
+Kalemi aldım.
+
+Bir süre bekledim.
+
+Sonra hiçbir şey yazmadan kalemi bıraktım.
+
+Dosyayı kapattım.
+
+Damga kapağın altında kaldı.

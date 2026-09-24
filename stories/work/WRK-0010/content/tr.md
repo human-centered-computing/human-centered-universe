@@ -1,73 +1,433 @@
-# WRK-0010 — Geçiş
+# Alkış
 
-Koridoru zamanla ezberledim.
+Toplantı salonundaki ekranda tamamlanan işler görünüyordu. Salona girmeden önce bir kadın, daha önce önerdiği yöntemi yazdığı buruşuk kâğıdı bana göstermişti. Ekranda o yöntemden izler vardı; kâğıtta ise henüz kimsenin adını koymadığı bir başlangıç.
 
-Hangi kapının ne zaman açıldığını.
+Toplantı bittiğinde kimse hemen kalkmadı.
 
-Hangi kapının önünde beklenmesi gerektiğini.
+Ekranda son tablo açıktı.
 
-Hangi köşede konuşulduğunu.
+Satırlar doluydu.
 
-Hangi köşede susulduğunu.
+Sayılar vardı.
 
-Bir yere çağrıldığımda yolu düşünmüyordum.
+Tamamlanan işler vardı.
 
-Ayaklarım biliyordu.
+Bekleyen işler vardı.
 
-Bir gün genç biri yanıma katıldı.
+Bir köşede yeşil bir işaret yanıyordu.
 
-“Nereye gidiyoruz?”
+“Oldu.”
+
+dedi biri.
+
+Kısa bir sessizlik oldu.
+
+Sonra odanın arkasından bir ses geldi:
+
+“Eline sağlık.”
+
+Bir kişi alkışladı.
+
+Ardından bir başkası.
+
+Sonra birkaç kişi daha.
+
+Ben de ellerimi birbirine vurdum.
+
+Alkışın ortasında amir elini omzuma koydu. “Ekipçe başardık,” dedi. Bunun doğru bir yanı vardı. Başkalarının düzeltmeleri olmasa tablo çalışmazdı. Ama “ekip” sözü, fikri kimin getirdiğini sorduklarında gösterdikleri ismi değiştirmiyordu. Yine de alkışlamayı sürdürdüm. Haksızlığa uğrayan birinin ödül töreninde kendi ellerinden çıkan sesi işitmesi garipmiş; o gün öğrendim. Kimseye söylemedim. Söylesem kıskançlık diye adlandırılacak, ben de birkaç saat sonra buna inanacaktım.
+
+Ne için alkışladığımızı tam olarak bilmiyordum.
+
+Ekrandaki tabloya tekrar baktım.
+
+Bir satırda tamamlanan işler vardı.
+
+Bir başka satırda süreler.
+
+Bir başka yerde önceki dönemle karşılaştırma.
+
+Her şey ölçülmüş gibiydi.
+
+Toplantıda kimse eski dosyalardan söz etmedi.
+
+Kimsenin masasında bekleyen kâğıtlardan da.
+
+Yalnızca sonuç ekranda duruyordu.
+
+“Kaç tane?”
+
+diye soruldu.
+
+Bir sayı söylendi.
+
+“Ne kadar sürede?”
+
+Başka bir sayı.
+
+“Öncekine göre?”
+
+Bir yüzde.
+
+Sonra yine alkışlandı.
+
+Öğle arasında aynı konu konuşuldu.
+
+“Başkan memnun kalmış.”
+
+dedi biri.
+
+“Ekip iyi çalıştı.”
+
+Bir başkası:
+
+“Özellikle şu arkadaş çok uğraştı.”
+
+dedi.
+
+Adı geçen kişi masada değildi.
+
+Bir süre sonra başka birinin adı söylendi.
+
+O da orada değildi.
+
+Konuşulan isimler değişti.
+
+Yapılan işler değişmedi.
+
+Kâğıtlar masada kaldı.
+
+Bir gün başka bir odaya gittim.
+
+İçeride bir doktor vardı.
+
+Önünde uzun bir liste duruyordu.
+
+“Bugün kaç kişi?”
+
+diye sordu biri.
+
+“Yetmiş iki.”
+
+“Dün?”
+
+“Altmış sekiz.”
+
+“İyi.”
+
+Doktor başını kaldırdı.
+
+“İyi mi?”
+
+Karşısındaki kişi listeye baktı.
+
+“Sayı arttı.”
+
+Doktor cevap vermedi.
+
+Önündeki dosyalardan birini açtı.
+
+“Bu hastayla ne kadar görüştün?”
+
+“Uzun sürdü.”
+
+“Ne kadar?”
+
+Doktor saate baktı.
 
 “Bilmiyorum.”
 
-“Ne kadar sürecek?”
+Dışarıdan kapı çalındı.
+
+İçerideki kişi hâlâ konuşuyordu.
+
+Doktor:
+
+“Biraz daha anlatın.”
+
+dedi.
+
+Kapının arkasında bekleyenlerin sayısı artıyordu.
+
+Bir süre sonra doktorun önündeki listeye tekrar baktım.
+
+Sayı yükselmişti.
+
+Kalemi elinden hiç düşmemişti.
+
+Bir dosyayı kapatıyor, diğerini açıyordu.
+
+Her kapanan dosyanın yanına küçük bir işaret koyuyordu.
+
+Bir kişi çıktı.
+
+Başka biri girdi.
+
+Liste ilerledi.
+
+Bir ara doktor kapıyı kapattı.
+
+İçerideki kişi uzun süre konuştu.
+
+Koridorda bekleyenlerden biri saate baktı.
+
+Sonra başka biri.
+
+Doktor içeride kalmaya devam etti.
+
+Liste o sırada ilerlemiyordu.
+
+Sonraki toplantıda aynı tablo yeniden açıldı.
+
+Grafikte çizgi yukarı çıkıyordu.
+
+“Burada ciddi bir artış var.”
+
+dedi biri.
+
+Herkes ekrana baktı.
+
+“Bunu rapora koyabiliriz.”
+
+Başka biri:
+
+“Olur.”
+
+dedi.
+
+Ben grafiğe bakarken doktorun masasını düşündüm.
+
+Sonra bekleyen insanları.
+
+Sonra kapanan dosyaları.
+
+Bir kişinin uzun süre dinlenmesi hangi satıra yazılıyordu, bilmiyordum.
+
+Kimse sormadı.
+
+Toplantıdan sonra masama bir dosya bırakıldı.
+
+İlk sayfasında:
+
+Beklenen sonuç
+
+yazıyordu.
+
+Altında birkaç satır vardı.
+
+Son sayfada küçük bir bölüm açılmıştı.
+
+Katkı
+
+Bazı yerleri doldurulmuştu.
+
+Bazıları boştu.
+
+Bir satırda bir isim vardı.
+
+Yanında:
+
+Fikir
+
+Başka bir satırda:
+
+Uygulama
+
+İki isim.
+
+Bir başka yerde yalnızca:
+
+Düzeltme
+
+yazıyordu.
+
+İsim yoktu.
+
+Dosyayı getiren kişi:
+
+“Bunlar sonra tamamlanacak.”
+
+dedi.
+
+“Kim tamamlayacak?”
 
 “Bilmiyorum.”
 
-Yürümeye devam ettik.
+“Peki neden şimdi koydular?”
 
-Bir kapıdan girdik.
+“Birileri sormuş.”
 
-Başka bir koridora çıktık.
+“Ne sormuş?”
 
-Sonra başka bir kapı.
+Adam dosyaya baktı.
 
-Bir dosyayı da yanımızda taşıyorduk.
+“Kim yaptı?”
 
-Dosya bir odadan diğerine geçti.
+Dosyayı kapattım.
 
-Sonunda tekrar ilk odaya döndü.
+Aklıma eski kâğıt geldi.
 
-Hiçbir şey değişmemişti.
+Toplantıdan önce bir çalışanın bana gösterdiği eski kâğıt.
 
-Sadece biz yorulmuştuk.
+İlk cümlenin yanında adı yoktu.
 
-Koridor hareket veriyordu.
+Sonra birileri geliştirmişti.
 
-Hareket, ilerleme gibi görünüyordu.
+Başka biri uygulamıştı.
 
-Bir gün yaşlı bir adam koridorun sonunda oturuyordu.
+Bir başkası düzeltmişti.
 
-“Burada ne kadar bekliyorsun?”
+Çalışmanın sonunda ise herkes yalnızca sonuca bakmıştı.
 
-“Uzun.”
+Akşamüstü o kâğıdı saklayan kadınla koridorda karşılaştım.
+
+Elinde yine eski kâğıt vardı.
+
+“Gördün mü?”
+
+dedi.
 
 “Neyi?”
 
-“Çağrılmayı.”
+“Sonuç çıkmış.”
 
-“Kim çağıracak?”
+“Evet.”
 
-Başını kaldırdı.
+“Alkışladılar mı?”
 
-“Bilmiyorum.”
+“Alkışladılar.”
 
-Yanından geçtim.
+Kadın gülümsedi.
 
-Bir süre sonra aynı yerde kendimi buldum.
+“İyi.”
 
-O zaman koridorun yalnızca odalar arasında olmadığını düşündüm.
+Sonra kâğıdı açtı.
 
-Bazen insanın içinde de uzuyordu.
+“Bunu da sakladım.”
 
-Aynı yere dönüp duruyor, yine de yol aldığını sanıyordu.
+“Niye?”
+
+“Çünkü sonuç çıkmadan önce de vardı.”
+
+Kâğıda baktım.
+
+Kenarları eskimişti.
+
+Bazı satırlar silinmişti.
+
+Bir yerde benim daha sonra eklediğim bir not vardı.
+
+Kadın onu gösterdi.
+
+“Bunu sen yazmıştın.”
+
+“Evet.”
+
+“Ben bunu hatırlamıyordum.”
+
+Bir süre sessiz kaldı.
+
+“Şimdi hatırlıyorum.”
+
+Kâğıdı kapattı.
+
+Ertesi gün toplantıda başka bir soru soruldu.
+
+Ekranda isimler çıktı.
+
+Bazı isimlerin yanında uzun listeler vardı.
+
+Bazılarının yanında yalnızca birkaç satır.
+
+Birisi:
+
+“Bu listeye göre…”
+
+dedi.
+
+Cümlesini tamamlamadı.
+
+Başka biri:
+
+“Liste her şeyi göstermiyor.”
+
+dedi.
+
+Kimse itiraz etmedi.
+
+Ekrandaki isimler değişmedi.
+
+Dosyayı yeniden açtım.
+
+Katkı bölümü hâlâ tamamlanmamıştı.
+
+Bir satırda:
+
+Fikir
+
+Birinde:
+
+Geliştirme
+
+Birinde:
+
+Uygulama
+
+Birinde:
+
+Düzeltme
+
+Bir satırın karşısı boştu.
+
+Yanında:
+
+Kaynak doğrulanamadı.
+
+yazıyordu.
+
+Kimse o satırı silmemişti.
+
+Dosyayı kapatırken kalemim masaya çarptı.
+
+Küçük bir ses çıktı.
+
+O sırada koridordan yine alkış sesi geldi.
+
+Bu kez kısa sürdü.
+
+Ben yerimden kalkmadım.
+
+Masamda eski kâğıt duruyordu.
+
+Yeni dosya onun yanında.
+
+Birinin kenarı kıvrılmıştı.
+
+Diğerinin sayfaları henüz temizdi.
+
+İkisinde de aynı cümlelerden biri vardı.
+
+Biri eski el yazısıyla.
+
+Diğeri bilgisayarda.
+
+Birinin yanında isim vardı.
+
+Diğerinde yoktu.
+
+Hangisinin önce olduğunu anlamak için kâğıtlara bakmak yetmiyordu.
+
+Kalemi aldım.
+
+Yeni dosyanın kenarına bir soru yazdım:
+
+Kim duydu?
+
+Bir süre baktım.
+
+Sonra kalemi bıraktım.
+
+Dosya açık kaldı.
+
+Koridordan gelen alkış sesi kesildi.
+
+Odadaki sessizlikte yalnızca sayfaların birbirine değen sesi kaldı.

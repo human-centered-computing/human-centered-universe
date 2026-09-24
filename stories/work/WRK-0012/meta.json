@@ -1,10 +1,14 @@
 {
   "id": "WRK-0012",
-  "title": "What Is Said",
-  "original_title": "Söylenen",
+  "title": "The Waiting One",
+  "original_title": "Bekleyen",
   "core": "WORK",
   "status": "canon",
-  "source_language": "en",
+  "source_language": "tr",
+  "translation_policy": "source_only_until_reviewed",
+  "temporal_model": "observer_defined",
+  "entry_rule": "any_story_directly",
+  "chronological_predecessors": [],
   "culture": [
     "transcultural"
   ],
@@ -13,82 +17,40 @@
     "social",
     "literary"
   ],
-  "summary": "A fragmented memoir chapter about söylenti in the House of Work cycle.",
+  "summary": "A standalone memory of work, institutional power, and the human experience of the waiting one.",
   "reality_weaving": {
     "mode": "woven",
     "reality_roots": [
       "Modern work routines",
       "Institutional hierarchy",
-      "Human labor and organizational measurement"
+      "Human labor"
     ],
-    "imaginative_transformation": "The workplace and closed-house readings remain simultaneously plausible.",
-    "emergent_question": "What remains human when a system becomes internalized?"
+    "imaginative_transformation": "The workplace and a closed institution remain simultaneously plausible; the memory does not require a place in a chronological sequence.",
+    "emergent_question": "What does this encounter reveal about the purpose and human cost of work?"
   },
   "translations": {
-    "en": {
-      "status": "canonical",
-      "human_reviewed": true
-    },
     "tr": {
-      "status": "reviewed",
-      "human_reviewed": true
+      "status": "community",
+      "human_reviewed": false
     }
   },
-  "links": [
-    {
-      "target": "WRK-0011",
-      "type": "memory",
-      "note": "The previous work chapter echoes into this one."
-    },
-    {
-      "target": "WRK-0013",
-      "type": "future",
-      "note": "The next chapter carries the transformation forward."
-    }
-  ],
+  "links": [],
   "localized": {
     "tr": {
-      "title": "Söylenen",
-      "summary": "Çalışma Evinden Anılar döngüsünde söylenti üzerine parçalı bölüm."
+      "title": "Bekleyen",
+      "summary": "Koridorda bekleyenlerin dosya numarası birbirini izliyordu; neden geldikleri ise ayrı ayrı hikâyelerdi. Numara çağrıldığında bir kişinin kendisini duyulmuş sayıp saymayacağını hiçbir çizelge göstermiyordu.",
+      "link_notes": {}
     },
     "en": {
-      "title": "What Is Said",
-      "summary": "A fragmented chapter of the House of Work cycle."
+      "title": "The Waiting One",
+      "summary": "A standalone memory of work, institutional power, and the waiting one."
     }
   },
-  "observer_choices": [
-    {
-      "key": "human",
-      "label": "Follow the human meaning and lived experience.",
-      "effects": {
-        "HUMAN": 6,
-        "LIGHT": 2,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "light",
-      "label": "Seek clarity, structure, and understanding.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 6,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "dark",
-      "label": "Follow the unresolved tension and freedom.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 2,
-        "DARK": 6
-      }
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0012/bekleyen.jpg",
+    "alt": {
+      "tr": "Bekleyen hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
+      "en": "Artistic image without text, evoking work and a closed institution for The Waiting One."
     }
-  ],
-  "primary_center": "HUMAN",
-  "center_weights": {
-    "HUMAN": 45,
-    "LIGHT": 30,
-    "DARK": 25
   }
 }

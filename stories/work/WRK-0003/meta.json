@@ -1,11 +1,14 @@
 {
   "id": "WRK-0003",
-  "title": "The Voice",
+  "title": "Voice",
   "original_title": "Ses",
   "core": "WORK",
   "status": "canon",
   "source_language": "tr",
-  "book_order": 3,
+  "translation_policy": "source_only_until_reviewed",
+  "temporal_model": "observer_defined",
+  "entry_rule": "any_story_directly",
+  "chronological_predecessors": [],
   "culture": [
     "transcultural"
   ],
@@ -14,82 +17,40 @@
     "social",
     "literary"
   ],
-  "summary": "A fragmented memoir about voice, recording, silence, and the transformation of living speech into institutional text. What is heard and what is written remain close, but never identical.",
+  "summary": "A standalone memory of work, institutional power, and the human experience of voice.",
   "reality_weaving": {
     "mode": "woven",
     "reality_roots": [
       "Modern work routines",
       "Institutional hierarchy",
-      "Human labor and organizational memory"
+      "Human labor"
     ],
-    "imaginative_transformation": "The workplace and closed-institution readings remain simultaneously plausible. Voices, recordings, written summaries, and deliberate blanks create an institution whose rules are heard before they are understood.",
-    "emergent_question": "When a voice is recorded and rewritten, what remains of what was actually said?"
+    "imaginative_transformation": "The workplace and a closed institution remain simultaneously plausible; the memory does not require a place in a chronological sequence.",
+    "emergent_question": "What does this encounter reveal about the purpose and human cost of work?"
   },
   "translations": {
     "tr": {
-      "status": "reviewed",
-      "human_reviewed": true
-    },
-    "en": {
-      "status": "canonical",
-      "human_reviewed": true
+      "status": "community",
+      "human_reviewed": false
     }
   },
-  "links": [
-    {
-      "target": "WRK-0002",
-      "type": "memory",
-      "note": "The previous chapter's places leave traces; this chapter asks what happens to the voices that pass through them."
-    },
-    {
-      "target": "WRK-0004",
-      "type": "future",
-      "note": "The next chapter shifts from recorded speech to the paper that gives speech a formal shape."
-    }
-  ],
+  "links": [],
   "localized": {
     "tr": {
       "title": "Ses",
-      "summary": "Ses, kayıt, sessizlik ve konuşulanın kurumsal metne dönüşmesi üzerinden gerçeğin nasıl değiştiğini anlatan parçalı bir bölüm."
+      "summary": "Kapının açıldığını duymadan önce içerideki sandalyenin çekildiğini duydum.",
+      "link_notes": {}
     },
     "en": {
-      "title": "The Voice",
-      "summary": "A fragmented chapter about voice, recording, silence, and what is lost when speech becomes institutional text."
+      "title": "Voice",
+      "summary": "A standalone memory of work, institutional power, and voice."
     }
   },
-  "observer_choices": [
-    {
-      "key": "human",
-      "label": "Follow the human meaning and lived experience.",
-      "effects": {
-        "HUMAN": 6,
-        "LIGHT": 2,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "light",
-      "label": "Seek clarity, structure, and understanding.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 6,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "dark",
-      "label": "Follow the unresolved tension and freedom.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 2,
-        "DARK": 6
-      }
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0003/ses.jpg",
+    "alt": {
+      "tr": "Ses hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
+      "en": "Artistic image without text, evoking work and a closed institution for Voice."
     }
-  ],
-  "center_weights": {
-    "HUMAN": 50,
-    "LIGHT": 25,
-    "DARK": 25
-  },
-  "primary_center": "HUMAN"
+  }
 }

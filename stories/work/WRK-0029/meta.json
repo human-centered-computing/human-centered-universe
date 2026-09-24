@@ -1,0 +1,64 @@
+{
+  "id": "WRK-0029",
+  "title": "Without a Name",
+  "original_title": "Adı Olmadan",
+  "core": "WORK",
+  "status": "canon",
+  "source_language": "tr",
+  "translation_policy": "source_only_until_reviewed",
+  "temporal_model": "observer_defined",
+  "entry_rule": "any_story_directly",
+  "chronological_predecessors": [],
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "philosophical",
+    "social",
+    "literary"
+  ],
+  "summary": "A standalone memory of work, institutional power, and the human experience of without a name.",
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "Modern work routines",
+      "Institutional hierarchy",
+      "Human labor"
+    ],
+    "imaginative_transformation": "The workplace and a closed institution remain simultaneously plausible; the memory does not require a place in a chronological sequence.",
+    "emergent_question": "What does this encounter reveal about the purpose and human cost of work?"
+  },
+  "translations": {
+    "tr": {
+      "status": "community",
+      "human_reviewed": false
+    }
+  },
+  "links": [
+    {
+      "target": "WRK-0008",
+      "type": "echo",
+      "note": "Thematic association with WRK-0008; no reading order or chronological dependency."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Adı Olmadan",
+      "summary": "Dosyada adları yazılı olanlarla satırları gerçekten üretenler birbirine denk düşmüyordu. Bir katkıyı görünür kılmak için yalnızca bir isim yazmak yeterli olacak mıydı?",
+      "link_notes": {
+        "WRK-0008": "Fikrin ve katkının izi"
+      }
+    },
+    "en": {
+      "title": "Without a Name",
+      "summary": "A standalone memory of work, institutional power, and without a name."
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0029/adi-olmadan.jpg",
+    "alt": {
+      "tr": "Adı Olmadan hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
+      "en": "Artistic image without text, evoking work and a closed institution for Without a Name."
+    }
+  }
+}

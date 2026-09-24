@@ -1,92 +1,222 @@
-# WRK-0002 — Yer
+# Yer
 
-Masanın nerede olduğunu anlamak kolaydı.
+Masaların birbirinden farkı yokmuş gibi görünüyordu.
 
-İnsanlar masalarına bakmadan oturuyorlardı. Sanki her masanın kime ait olduğu, üzerinde herhangi bir isim bulunmasa bile biliniyordu.
+Aynı yüzey.
 
-Bir gün boş bir masaya yeni biri oturdu.
+Aynı çekmece.
 
-Kadın onu görünce durdu.
+Aynı sandalye.
+
+Aynı lamba.
+
+Yine de kimse yanlış masaya oturmuyordu.
+
+Bir gün boş masalardan birine oturdum. Pencereden bahçedeki ağacı görüyordum. Yanımdan geçen çalışan durup, “Orası müdürün yeri,” dedi. “Müdür burada değil.” “O yüzden boş.” Kalktım. O an bana tuhaf gelen, yerinden edilmiş olmam değildi. Sandalyenin boşken de birine ait sayılması, benimse her gün burada bulunduğum hâlde kendi saatlerime sahip olamamamdı. Bu düşünceyi söylemedim; söylesem bir sandalye için kavga çıkarıyormuşum gibi görünecekti.
+
+Bazen biri başka birinin sandalyesine yaklaşır, elini sırtlığına koyar, sonra vazgeçerdi. Sandalye boşsa bile ona ait bir şey varmış gibi davranılırdı.
+
+Bir keresinde yeni gelen biri boş bir masaya oturdu.
+
+Kimse hemen bir şey söylemedi.
+
+Adam dosyasını açtı. Kalemini çıkardı. Önündeki kâğıtlara baktı.
+
+Bir süre sonra karşı masadaki kadın başını kaldırdı.
 
 “Orası senin yerin değil.”
 
-Adam başını kaldırdı.
+Adam sandalyeden kalkmadı.
 
-“Boş.”
-
-“Boş.”
+“Boş değil mi?”
 
 Kadın masaya baktı.
 
+“Boş.”
+
+Sonra biraz daha alçak sesle ekledi:
+
 “Ama onun.”
 
-“Kimsenin burada olmadığını sanıyordum.”
+Adam etrafına baktı.
 
-“Gelmez.”
-
-“Ne zaman gelir?”
+“Kim burada?”
 
 Kadın cevap vermedi.
 
-Adam ayağa kalktı.
+Adam da daha fazla sormadı.
 
-Masanın üzerinde bir dosya, kapaksız bir kalem ve yarısı içilmiş bir bardak vardı.
+Dosyasını topladı. Yan taraftaki masaya geçti.
 
-“Bunlar ne olacak?”
+O masa daha küçüktü.
 
-“Bırak.”
+Sandalyesinin bir ayağı hafifçe sallanıyordu.
 
-Adam dosyaya dokunmadı.
+Kimse bir şey söylemedi.
 
-Başka bir masa gösterildi.
+Benim masamın çekmecesi zor açılırdı.
 
-“Şuraya otur.”
+Anahtarı yoktu. Çekmeceyi biraz yukarı kaldırıp kendime doğru çekmek gerekiyordu.
 
-O masaya oturdum.
+İçinde birkaç kalem, iki ataş kutusu, eski bir zımba ve üzerinde hiçbir şey yazmayan küçük bir anahtar vardı.
 
-Çekmeceyi açtığımda birkaç kalem, küçük bir zımba ve ne işe yaradığını bilmediğim bir anahtar buldum.
+Anahtarı bir gün masanın üzerine koydum.
 
-Anahtarı elime aldım.
+Yan masadaki adam gördü.
 
-Yan masadaki adama gösterdim.
+“Onu kullanma.”
 
-“Bu neyin anahtarı?”
+“Neden?”
 
-Baktı.
+“Orada duruyor.”
 
-“Bilmiyorum.”
+Anahtarı tekrar çekmeceye koydum.
 
-“Eski masanın olabilir mi?”
+Bir süre sonra başka biri geldi.
 
-“Olabilir.”
+Çekmeceyi açtı.
 
-“Kimindi?”
+Anahtarı gördü.
 
-“Bilmiyorum.”
+“Bu hâlâ burada mı?”
 
-Anahtarı çekmeceye geri koydum.
+“Sen biliyor musun?”
 
-Bir süre sonra aynı dosya önüme geldi.
+Adam anahtarı eline aldı.
 
-İlk sayfasında başka birinin yazısı vardı.
+Çevirdi.
 
-İkinci sayfada benim daha önce söylediğim bir cümleye rastladım.
+“Bir masaya aitmiş.”
 
-Cümleyi tekrar okudum.
+“Hangisine?”
 
-Yanında başka birinin imzası vardı.
+Omuzlarını kaldırdı.
 
-“Bu cümle benim masamda yazılmıştı.”
+“Artık hangisine olduğunu bilen yok.”
 
-Dosyayı getiren kişi bana baktı.
+Anahtarı yerine bıraktı.
 
-“Senin masanda.”
+Çekmeceyi kapattı.
+
+Sanki mesele çözülmüş gibi işine devam etti.
+
+Masaların arasında dolaşan dosyalar vardı.
+
+Dosyanın üzerinde bir isim bulunuyorsa, o isim genellikle dosyanın nereye gideceğini belirliyordu.
+
+Bazen dosya yanlış masaya gelirdi.
+
+Bazen doğru masaya geldiği hâlde kimse dokunmazdı.
+
+Bazen de bir masadan başka bir masaya geçerken içindeki kâğıtların sırası değişirdi.
+
+Bir dosya önüme geldi.
+
+Üzerinde benim adım yoktu.
+
+İçinde benim yazdığım bir cümle vardı.
+
+Cümlenin altında başka birinin imzası bulunuyordu.
+
+Dosyayı kapattım.
+
+Yanımdaki kişiye gösterdim.
+
+“Bu nereden geldi?”
+
+Dosyaya baktı.
+
+“Buradan.”
+
+“Kim hazırladı?”
+
+Kâğıdı çevirdi.
+
+Son sayfaya baktı.
+
+“İmza burada.”
+
+“İmza başka birinin.”
 
 “Evet.”
 
-“Şimdi burada.”
+Dosyayı tekrar bana uzattı.
 
-Dosyayı kapatmadım.
+“Senin masanda.”
+
+Dosyayı aldım.
+
+Bir süre masanın üzerinde durdu.
+
+Sonra başka bir masaya gönderildi.
+
+Pencerenin yanında bir masa vardı.
+
+Kimse o masada çalışmıyordu.
+
+Ama tamamen boş da değildi.
+
+Üzerinde bir bardak vardı. Bardağın içinde kurumuş bir çizgi kalmıştı.
+
+Bir kalem vardı.
+
+Kapağı yoktu.
+
+Bir dosyanın arasında birkaç kâğıt sıkışmıştı.
+
+En üstteki kâğıtta tek bir cümle vardı:
+
+“Eğer bunu böyle yaparsak…”
+
+Cümle orada bitiyordu.
+
+Devamı yoktu.
+
+Bir gün o masaya yaklaştım.
+
+Kâğıdı elime aldım.
+
+Altındaki sayfalara baktım.
+
+Bazılarında çizimler vardı.
+
+Bazılarında rakamlar.
+
+Bir sayfada birkaç isim.
+
+Başka bir sayfada yalnızca iki kelime:
+
+“Tekrar düşün.”
+
+Masaya baktım.
+
+Sandalyeyi biraz çektim.
+
+Oturmadım.
+
+Karşıdaki adam bana baktı.
+
+“Orada mı çalışacaksın?”
+
+“Hayır.”
+
+“İyi.”
+
+“Neden?”
+
+Adam cevap vermedi.
+
+Bir süre sonra:
+
+“Burası boş değil.”
+
+“Kim kullanıyor?”
+
+Adam masaya baktı.
+
+“Bilen vardır.”
+
+Bu kez soruyu sormadım.
 
 Masam değiştiğinde aynı dosyayı önüme koydular.
 
@@ -98,181 +228,225 @@ Dosya aynıydı.
 
 Sorular değişmişti.
 
-Bir gün pencerenin yanındaki masaya baktım.
+Bir kadın dosyayı önüme bıraktı.
 
-Uzun zamandır kimse oturmuyordu.
+“Bunu kontrol eder misin?”
 
-Ama masa boş değildi.
+Dosyaya baktım.
 
-Üzerinde bir bardak vardı.
+“Benim görevim mi?”
 
-Kapaksız bir kalem.
+Kadın sandalyesine oturdu.
 
-İnce bir dosya.
+“Senin masanda.”
 
-Dosyanın arasında küçük bir kâğıt buldum.
+Dosyaya tekrar baktım.
 
-Üzerinde:
+“Önceki masada da aynı dosya vardı.”
 
-**Eğer bunu böyle yaparsak…**
+“Biliyorum.”
 
-yazıyordu.
+“Orada kimse bana sormadı.”
 
-Altında başka bir el yazısıyla:
+Kadın başını kaldırdı.
 
-**Tekrar düşün.**
+“Burada soruyoruz.”
 
-Kâğıdı masaya bıraktım.
+Dosyayı açtım.
 
-Yanımdaki kadın bunu gördü.
+İçinde aynı belgeler vardı.
 
-“Burası boş değil.”
+Aynı tarihler.
 
-“Kim oturuyor?”
+Aynı imzalar.
 
-“Bilen vardır.”
+Aynı eksikler.
 
-“Sen biliyor musun?”
+Dosyanın sonuna bir not ekledim.
 
-“Hayır.”
+“Kontrol edildi.”
 
-Pencerenin önüne gittim.
+Kadın kâğıda baktı.
 
-Dışarı baktım.
+“Bunu neden yazdın?”
 
-Sonra masaya.
+“Kontrol ettim.”
 
-Bir süre sonra dosyayı aldım.
+“Tamam.”
 
-İçinde işlemler vardı.
+Dosyayı aldı.
 
-Tarihler.
+Gitti.
 
-İmzalar.
+Bir gün başka birinin masasında oturdum.
 
-Notlar.
+Sandalye rahattı.
 
-Bir sürü el yazısı.
+Masa pencereye bakıyordu.
 
-Ama masanın kime ait olduğunu gösteren bir şey yoktu.
+Önümde bir bilgisayar vardı.
 
-Dosyayı yerine bıraktım.
+Masada üç dosya duruyordu.
 
-Başka bir gün benim masam yine değişti.
+Bir süre sonra içeri giren biri beni görünce durdu.
 
-Bu kez daha uzakta bir yere oturdum.
+“Sen burada mı çalışıyorsun?”
 
-Önüme aynı dosya geldi.
+“Buradayım.”
 
-İlk sayfayı açtım.
+Adam masaya baktı.
 
-Sonra ikinciyi.
-
-Sonra üçüncüyü.
-
-Bir şey fark ettim.
-
-Dosyanın kenarında küçük bir çizik vardı.
-
-Daha önce de görmüştüm.
-
-“Bu dosya daha önce benim masamdaydı.”
-
-Yanımdaki kişi:
-
-“Olabilir.”
-
-“Burası neresi?”
-
-“Senin yerin.”
-
-“Daha önceki masa?”
-
-“Başkasının.”
-
-“Benim yerim değil miydi?”
-
-“Artık değil.”
-
-Bunu söyleyen kişi dosyayı aldı ve başka bir masaya götürdü.
-
-Bir süre sonra başka birinin masasının yanında durdum.
-
-Sandalyenin arkasında bir mont asılıydı.
-
-Masanın üzerinde dosyalar vardı.
+Sonra bana.
 
 “Burası onun masası.”
 
-“Gelmez.”
-
-“Ne zamandır?”
-
-“Bilmiyorum.”
-
-“Dosyaları?”
-
-“Burada kalacak.”
-
-“Peki biri bakmayacak mı?”
-
-“Bakacak.”
-
 “Kim?”
 
-Cevap gelmedi.
+Adam cevap vermedi.
 
-İnsanlar gidiyordu.
+Dosyalardan birini aldı.
 
-Masalar kalıyordu.
+“Bunu da ona bırak.”
 
-Bir masanın kenarında küçük bir çizik gördüm.
+“Gelir mi?”
 
-Başka bir masada kurumuş mürekkep lekesi.
+Adam dosyayı tekrar masaya koydu.
 
-Bir çekmecenin içinde yarısı kırılmış bir kalem.
+“Gelmez.”
 
-Bir dosyanın köşesinde kat izi.
+“Öyleyse?”
 
-Bunların hiçbirinin yanında isim yoktu.
+“Dosya burada kalacak.”
+
+Bazı insanlar gittikten sonra masaları kalıyordu.
+
+Masa boşaltılıyor, dosyalar başka yerlere dağıtılıyor, kalemler çekmecelere konuluyor, bardaklar kaldırılıyordu.
+
+Ama bazen bir şey kalıyordu.
+
+Bir çizik.
+
+Bir bant izi.
+
+Masanın kenarında silinmemiş bir mürekkep lekesi.
+
+Sandalye sırtlığındaki küçük bir yırtık.
+
+Kimse bunları önemli bulmuyordu.
+
+Yine de yeni biri oturduğunda bazen elini o izin üzerine koyuyordu.
+
+Neden yaptığını bilmiyordu belki.
+
+Ben de bir gün masanın kenarındaki çizikten parmağımı geçirdim.
+
+Çok derin değildi.
+
+Tırnakla yapılmış gibiydi.
+
+Yanımdaki kişi gördü.
+
+“Ne oldu?”
+
+“Bir çizik.”
+
+“Önemli değil.”
 
 “Kim yaptı?”
 
 “Hatırlayan yok.”
 
-Dosyalarda ise her şey daha düzenliydi.
+Sonra dosyasına döndü.
 
-Kim aldı.
+Çizik masada kaldı.
 
-Kim gönderdi.
+Bir dosyada geçtiği masalar sıralanmıştı.
 
-Kim kontrol etti.
+Numaralar.
 
-Kim imzaladı.
+İsimler.
 
-Hangi masadan çıktığı.
+İmzalar.
 
-Hangi masaya gittiği.
+Teslim alanlar.
 
-Ama dosyanın ilk sayfasında, nerede başladığı belli değildi.
+Geri gönderenler.
+
+Kontrol edenler.
+
+Sayfayı çevirdikçe dosyanın dolaştığı yerler çoğalıyordu.
+
+Bir masadan diğerine.
+
+Bir çekmeceden diğerine.
+
+Bir imzadan diğerine.
+
+Dosyanın nerelerden geçtiği belliydi.
+
+Ama ilk kâğıdı kimin koyduğunu bulmak zordu.
+
+Son sayfada birkaç isim vardı.
+
+Bazılarının yanında imza vardı.
+
+Bazılarının yanında yalnızca tarih.
 
 Bir satır boş bırakılmıştı.
 
-O boşluğa uzun süre baktım.
+O boşluğa baktım.
 
-Sonra başka bir sandalye çekildi.
+Kalemi elime aldım.
 
-Yeni gelen biri oturmak üzereydi.
+Yazmadım.
 
-Bana baktı.
+Dosyayı kapattım.
+
+Bir gün masama bir sandalye daha getirildi.
+
+“Buraya kim oturacak?” diye sordum.
+
+“Bilmiyorum.”
+
+Sandalyeyi masanın yanına koydular.
+
+Bir süre boş kaldı.
+
+Sonra biri geldi.
+
+Elinde birkaç dosya vardı.
+
+“Buraya oturabilir miyim?”
+
+“Sen bilirsin.”
+
+Masaya baktı.
+
+Sonra sandalyeye.
 
 “Burası senin mi?”
 
 “Şu an burada benim.”
 
-Bir süre masaya baktı.
+Adam sandalyeyi çekti.
 
-Sonra sordu:
+Oturmadan önce masanın kenarındaki çizgiye baktı.
+
+Parmağını üzerinden geçirdi.
+
+“Bu ne?”
+
+“Bir çizik.”
+
+“Kim yaptı?”
+
+“Hatırlayan yok.”
+
+Adam başını salladı.
+
+Dosyalarını masaya bıraktı.
+
+Sonra tekrar sordu:
 
 “Burası boş mu?”
 

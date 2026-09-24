@@ -1,81 +1,443 @@
-# WRK-0005 — Karar
+# Boşluk
 
-Bir gün çağrıldık.
+Dosyanın eksik olduğu söylendiğinde önce sayfaları sayardım.
 
-Nereye gideceğimizi söylemediler.
+Bir.
 
-“Toplanın.”
+İki.
 
-Herkes ayağa kalktı.
+Üç.
 
-Bir odaya girdik.
+Ekler.
 
-Sandalyeler sıralanmıştı.
+İmzalar.
 
-Kapı kapandı.
+Tarihler.
 
-Bir süre kimse konuşmadı.
+Mühürler.
 
-Sonra biri ayağa kalktı.
+Sayfaların arasında boş bir yer varsa ona da bakardım.
 
-Bir şeyler söyledi.
+Çünkü bazen eksik olan şey kâğıt değildi.
 
-Başka biri cevap verdi.
+Amir eksiklerin listesini istiyordu. Dosyayı getiren kişinin neden üçüncü kez geldiğini sormamıştı. Ben de önce sormadım. Listeyi bitirince kapıda duran adam, “Bana her gelişimde başka bir kâğıt söyleniyor,” dedi. Önümdeki kutucuklar birden düzenli görünmekten çıktı. Ona yalnızca bildiklerimi yazdım; bilmediğim için de “Bunu doğrulamam gerekiyor,” dedim. Adam teşekkür etmedi. Hiç olmazsa dördüncü kez boşuna gelip gelmeyeceğini bilmek istiyordu.
 
-Bir başkası not aldı.
+Bir adam masama geldi.
 
-Bir ara dışarıda bekleyen birinden söz edildi.
+Elinde ince bir dosya vardı.
 
-Ne yapması gerektiği konuşuldu.
+Dosyayı masaya bıraktı.
 
-Ne kadar daha bekleyebileceği.
+“Eksik.”
 
-Neden geciktiği.
+“Ne eksik?”
 
-İçeride onun hakkında konuşuluyordu.
+Dosyayı açtı.
 
-Dışarıda o bizi bekliyordu.
+Bir sayfa.
 
-Toplanmanın sonunda karar alınacağı söylendi.
+İki sayfa.
 
-Karar alınmadı.
+Üç sayfa.
 
-“Tekrar görüşelim.”
+Ekler.
 
-Herkes kalktı.
+Hepsi yerindeydi.
 
-Koridora çıktık.
+“Burada her şey var.”
 
-Dışarıdaki adam hâlâ oradaydı.
+Adam dosyaya baktı.
 
-“Ne karar verdiniz?” diye sordu.
+“Yine eksik.”
 
-Kimse cevap vermedi.
+“Size neyin eksik olduğu söylendi?”
 
-Bir süre sonra toplantıların ne için yapıldığını merak etmeyi bıraktım.
+“Hayır.”
 
-Bazen karar almak için değil, karar alınmış gibi görünmesi için toplanıyorduk.
+“Dosyayı geri mi gönderdiler?”
 
-Bazen de herkesin aynı odada bulunması yeterli sayılıyordu.
+“Evet.”
 
-Bir gün birinin:
+“Eksik olanı yazmadılar mı?”
 
-“Bugün kaç saat toplandık?”
+Adam başını salladı.
 
-diye sorduğunu duydum.
+“Yalnızca eksik dediler.”
 
-Başka biri:
+Dosyayı kapattı.
 
-“Üç.”
+“Ben de neyi tamamlayacağımı bilmiyorum.”
 
-“Peki ne yaptık?”
+Dosyanın üzerine kırmızı bir işaret konmuştu.
 
-Sessizlik.
+EKSİK
 
-“Toplandık.”
+Altında başka hiçbir şey yoktu.
 
-O gün bunu not ettim.
+Adam işareti parmağıyla gösterdi.
 
-Sonra notu yırttım.
+“Bu ne demek?”
 
-Çünkü bazı cümleler kayda girdiğinde olduğundan daha önemli görünüyordu.
+“Eksik olduğunu.”
+
+“Onu ben de görüyorum.”
+
+Dosyaya baktım.
+
+Sayfalar yerindeydi.
+
+Ekler yerindeydi.
+
+İmzalar yerindeydi.
+
+Tarihlerin hepsi doldurulmuştu.
+
+Adam dosyayı aldı.
+
+“Tekrar götüreceğim.”
+
+“Nereye?”
+
+“Geldiği yere.”
+
+Kapıya doğru yürüdü.
+
+Sonra durdu.
+
+“Bir şey eksikse insan nereden başlayacağını nasıl bilir?”
+
+Cevap vermedim.
+
+Adam çıktı.
+
+Bir dosya geldi.
+
+Her şey tamam görünüyordu.
+
+Kontrol listesi.
+
+Onay.
+
+Tarih.
+
+İmza.
+
+Ek belgeler.
+
+Son sayfada büyük harflerle:
+
+TAMAMLANDI
+
+yazıyordu.
+
+Dosyayı kapatmak üzereydim.
+
+Birisi içeri girdi.
+
+“Bu dosya neden hâlâ burada?”
+
+“Tamamlandı.”
+
+“Ne oldu?”
+
+Dosyaya baktım.
+
+“Burada yazıyor.”
+
+Adam dosyayı açtı.
+
+“Ben dosyanın tamamlandığını sormuyorum.”
+
+“Ne soruyorsunuz?”
+
+“İş ne oldu?”
+
+Sayfaları çevirdi.
+
+Hiçbirinde cevap yoktu.
+
+Son sayfaya tekrar baktı.
+
+TAMAMLANDI
+
+Adam dosyayı kapattı.
+
+“Tamam.”
+
+dedi.
+
+Dosyayı aldı.
+
+Bir süre sonra aynı dosya başka bir masada karşıma çıktı.
+
+Üzerinde yeni bir not vardı:
+
+“Sonuç beklenmektedir.”
+
+Dosyayı açtım.
+
+Her şey yine tamamlanmıştı.
+
+Dosyanın içinde yalnızca bir şey bulunmuyordu.
+
+Ne beklendiği.
+
+Öğle arasında bir adam yanıma oturdu.
+
+“Bazı dosyalar hiç bitmiyor.”
+
+“Belgeleri eksik mi?”
+
+“Hayır.”
+
+“İmza mı?”
+
+“Hayır.”
+
+“Ne?”
+
+Adam çayından bir yudum aldı.
+
+“İnsan dosyayı veriyor. Sonra dosya devam ediyor.”
+
+“Nasıl?”
+
+“Bir yere gidiyor. Sonra başka yere. Sonra başka birine.”
+
+“Sonra?”
+
+“Sonra insan hâlâ aynı yerde.”
+
+Çay bardağını masaya bıraktı.
+
+“Bazen dosya tamamlanıyor. İnsan bekliyor.”
+
+Bir süre sustuk.
+
+Sonra başka bir masadan sandalye sesi geldi.
+
+Bir kadın geldi.
+
+Dosyasını önüme koydu.
+
+“Bunu anlatmayı bıraktım.”
+
+“Ne anlatmayı?”
+
+“Her şeyi.”
+
+Dosyayı açtı.
+
+“İlk geldiğimde uzun uzun anlattım.”
+
+Sayfaları çevirdi.
+
+“Sonra başka bir yere gönderdiler.”
+
+Bir sayfa daha çevirdi.
+
+“Orada tekrar anlattım.”
+
+Dosyanın sonunda yalnızca birkaç cümle vardı.
+
+“Şimdi ne istiyorsunuz?”
+
+Kadın dosyaya baktı.
+
+“İşimin yapılmasını.”
+
+“Bunu daha önce de söylediniz mi?”
+
+“Evet.”
+
+“Peki?”
+
+Kadın omuzlarını kaldırdı.
+
+“Bunu anlatmayı bıraktım.”
+
+Dosyayı kapattı.
+
+“Anlatınca değişmiyor.”
+
+Masamda küçük bir kâğıt vardı.
+
+Üzerinde yalnızca:
+
+“Eksik.”
+
+yazıyordu.
+
+Yanına başka bir kâğıt koydum.
+
+Onda:
+
+“Ne eksik?”
+
+yazdım.
+
+İki kâğıdı yan yana bıraktım.
+
+Bir süre baktım.
+
+Sonra ilk kâğıdı dosyanın arasına koydum.
+
+İkincisini masada bıraktım.
+
+Bir rapor geldi.
+
+Üst kısmında:
+
+“Sorun görünmemektedir.”
+
+yazıyordu.
+
+Altında birkaç tablo vardı.
+
+Sayılar.
+
+Oranlar.
+
+Kontroller.
+
+Tarihler.
+
+Raporu okudum.
+
+Bir kişi karşıma oturdu.
+
+“Bu doğru mu?”
+
+“Rapor öyle söylüyor.”
+
+“Ben öyle değilim.”
+
+“Ne demek istiyorsunuz?”
+
+“Benim yaşadığım şey burada yok.”
+
+Raporu kendine doğru çekti.
+
+Tablolara baktı.
+
+“Bunların hepsi doğru olabilir.”
+
+Sonra raporu kapattı.
+
+“Ama ben burada yokum.”
+
+Pencerenin yanındaki masaya gittim.
+
+Üzerinde eski bir dosya vardı.
+
+İçinde birkaç kâğıt.
+
+Birinin kenarında yarım kalmış cümle:
+
+“Eğer bunu böyle yaparsak…”
+
+Altında boş bir alan.
+
+Başka bir sayfada:
+
+“Bunu kim söyledi?”
+
+Yine cevap yoktu.
+
+Sayfaları çevirdim.
+
+En son bir form vardı.
+
+Her kutusu doluydu.
+
+En altta küçük bir boşluk.
+
+Kalemi elime aldım.
+
+Yazmadım.
+
+Bir kadın masama geldi.
+
+Elindeki dosyayı uzattı.
+
+“Bunu kontrol eder misiniz?”
+
+Dosyayı açtım.
+
+Her şey vardı.
+
+“Eksik değil.”
+
+dedim.
+
+Kadın dosyaya baktı.
+
+“Emin misiniz?”
+
+“Evet.”
+
+Kadın bir süre bekledi.
+
+“Öyleyse neden hâlâ olmuyor?”
+
+Dosyaya baktım.
+
+Cevap vermedim.
+
+Kadın sandalyeye oturdu.
+
+Dosyayı önüne aldı.
+
+Sayfaları çevirmeye başladı.
+
+Birinci sayfa.
+
+İkinci.
+
+Üçüncü.
+
+Ekler.
+
+İmzalar.
+
+Tarihler.
+
+Son sayfa.
+
+Her şey yerindeydi.
+
+Kadın dosyayı kapattı.
+
+“Ben yalnızca işimin yapılmasını istiyorum.”
+
+Bu cümleyi daha önce duymuştum.
+
+Ama dosyada bulamadım.
+
+Dosyayı açtım.
+
+Son sayfaya baktım.
+
+Kadının söylediği cümleyi düşündüm.
+
+Sayfalar doluydu.
+
+İmzalar vardı.
+
+Tarihler vardı.
+
+Ekler vardı.
+
+Ama o cümle yoktu.
+
+Kadın kalktı.
+
+Dosyayı masada bıraktı.
+
+Gitti.
+
+Bir süre dosyaya baktım.
+
+Sonra ilk sayfasını açtım.
+
+Sayfaların arasında, kimsenin doldurmadığı küçük bir yer vardı.

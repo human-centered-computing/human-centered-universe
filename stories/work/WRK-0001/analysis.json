@@ -1,6 +1,6 @@
 {
   "id": "WRK-0001",
-  "title": "The Threshold",
+  "title": "Threshold",
   "themes": [
     "labor",
     "hierarchy",
@@ -11,8 +11,8 @@
     "alienation",
     "freedom"
   ],
-  "narrative_form": "fragmented memoir",
-  "temporal_model": "nonlinear; linked cycle",
+  "narrative_form": "standalone memoir",
+  "temporal_model": "observer-defined; no required predecessor or successor",
   "ambiguity": "workplace and closed institution remain simultaneously plausible",
   "primary_center": "HUMAN",
   "center_weights": {
@@ -20,33 +20,9 @@
     "LIGHT": 35,
     "DARK": 25
   },
-  "observer_choices": [
-    {
-      "key": "human",
-      "label": "Follow the human experience of entering, adapting to, and questioning the system.",
-      "effects": {
-        "HUMAN": 6,
-        "LIGHT": 2,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "light",
-      "label": "Seek clarity, structure, and the rules behind the system.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 6,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "dark",
-      "label": "Follow the unresolved tension, silence, and ambiguity of the institution.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 2,
-        "DARK": 6
-      }
-    }
-  ]
+  "classification": {
+    "method": "provisional editorial placement",
+    "status": "awaiting-human-review",
+    "note": "Center weights are navigation placeholders, not a completed 30-criterion analysis."
+  }
 }

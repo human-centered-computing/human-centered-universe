@@ -50,6 +50,16 @@ function collectMetaFiles(directory) {
 for (const metaPath of collectMetaFiles(path.join(root, "stories"))) {
   const meta = JSON.parse(fs.readFileSync(metaPath, "utf8"));
   const translations = meta.translations || {};
+  if (meta.core === "WORK" && meta.source_language === "tr" && meta.translation_policy === "source_only_until_reviewed") {
+    const source = path.join(path.dirname(metaPath), "content", "tr.md");
+    if (!fs.existsSync(source) || !fs.readFileSync(source, "utf8").trim()) {
+      throw new Error(`${meta.id}/tr: missing Turkish editorial source`);
+    }
+    if (translations.en || fs.existsSync(path.join(path.dirname(metaPath), "content", "en.md"))) {
+      throw new Error(`${meta.id}/en: an English translation must not be advertised before review`);
+    }
+    continue;
+  }
   if (translations.en?.status !== "canonical" || translations.en?.human_reviewed !== true) {
     throw new Error(`${meta.id}/en: must be canonical and human_reviewed=true`);
   }

@@ -1,30 +1,56 @@
 {
   "id": "WRK-0004",
-  "title": "The Paper",
+  "title": "Paper",
   "original_title": "Kâğıt",
   "core": "WORK",
   "status": "canon",
   "source_language": "tr",
-  "book_order": 4,
-  "culture": ["transcultural"],
-  "belief_context": ["philosophical","social","literary"],
-  "summary": "A fragmented memoir about forms, signatures, categories, and the distance between recording an event and actually responding to it. The paper becomes complete while the person's request remains unresolved.",
+  "translation_policy": "source_only_until_reviewed",
+  "temporal_model": "observer_defined",
+  "entry_rule": "any_story_directly",
+  "chronological_predecessors": [],
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "philosophical",
+    "social",
+    "literary"
+  ],
+  "summary": "A standalone memory of work, institutional power, and the human experience of paper.",
   "reality_weaving": {
     "mode": "woven",
-    "reality_roots": ["Modern work routines","Institutional hierarchy","Human labor and organizational measurement"],
-    "imaginative_transformation": "The workplace and closed-institution readings remain simultaneously plausible. Forms, signatures, blank fields, and procedural language gradually replace the person's own account.",
-    "emergent_question": "What happens to a person's experience when the form becomes more complete than the life it is meant to record?"
+    "reality_roots": [
+      "Modern work routines",
+      "Institutional hierarchy",
+      "Human labor"
+    ],
+    "imaginative_transformation": "The workplace and a closed institution remain simultaneously plausible; the memory does not require a place in a chronological sequence.",
+    "emergent_question": "What does this encounter reveal about the purpose and human cost of work?"
   },
   "translations": {
-    "tr": {"status": "reviewed", "human_reviewed": true},
-    "en": {"status": "canonical", "human_reviewed": true}
+    "tr": {
+      "status": "community",
+      "human_reviewed": false
+    }
   },
-  "links": [
-    {"target": "WRK-0003", "type": "memory", "note": "The previous chapter's voices become written statements, summaries, and unanswered questions."},
-    {"target": "WRK-0005", "type": "future", "note": "The next chapter carries the blank spaces and unresolved request into a larger absence."}
-  ],
+  "links": [],
   "localized": {
-    "tr": {"title": "Kâğıt", "summary": "Formlar, imzalar ve boş alanlar üzerinden insanın yaşadığı şey ile kayda geçirilmesi gereken şey arasındaki mesafeyi anlatan parçalı bir bölüm."},
-    "en": {"title": "The Paper", "summary": "A fragmented chapter about forms, signatures, blank fields, and the distance between a person's experience and what the record can contain."}
+    "tr": {
+      "title": "Kâğıt",
+      "summary": "Dosyadan çıkarılırken hafifçe sürtünür, masanın üzerine bırakıldığında kısa bir ses çıkarırdı.",
+      "link_notes": {}
+    },
+    "en": {
+      "title": "Paper",
+      "summary": "A standalone memory of work, institutional power, and paper."
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0004/kagit.jpg",
+    "alt": {
+      "tr": "Kâğıt hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
+      "en": "Artistic image without text, evoking work and a closed institution for Paper."
+    }
   }
 }

@@ -322,7 +322,7 @@
     {
       "observation_order": 29,
       "id": "WRK-0001",
-      "title": "Memories from the House of Work",
+      "title": "Threshold",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 45,
@@ -333,7 +333,7 @@
     {
       "observation_order": 30,
       "id": "WRK-0002",
-      "title": "The Clock",
+      "title": "Place",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 40,
@@ -344,7 +344,7 @@
     {
       "observation_order": 31,
       "id": "WRK-0003",
-      "title": "The Chair",
+      "title": "Voice",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 50,
@@ -355,7 +355,7 @@
     {
       "observation_order": 32,
       "id": "WRK-0004",
-      "title": "The Form",
+      "title": "Paper",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 45,
@@ -366,7 +366,7 @@
     {
       "observation_order": 33,
       "id": "WRK-0005",
-      "title": "The Meeting",
+      "title": "Emptiness",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 50,
@@ -377,7 +377,7 @@
     {
       "observation_order": 34,
       "id": "WRK-0006",
-      "title": "The Leave",
+      "title": "Signature",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 45,
@@ -388,7 +388,7 @@
     {
       "observation_order": 35,
       "id": "WRK-0007",
-      "title": "The Number",
+      "title": "Wall",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 55,
@@ -399,7 +399,7 @@
     {
       "observation_order": 36,
       "id": "WRK-0008",
-      "title": "The Exception",
+      "title": "Idea",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 40,
@@ -410,7 +410,7 @@
     {
       "observation_order": 37,
       "id": "WRK-0009",
-      "title": "The Transfer",
+      "title": "Another Name",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 45,
@@ -421,7 +421,7 @@
     {
       "observation_order": 38,
       "id": "WRK-0010",
-      "title": "The Corridor",
+      "title": "Applause",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 40,
@@ -432,7 +432,7 @@
     {
       "observation_order": 39,
       "id": "WRK-0011",
-      "title": "The Meal",
+      "title": "Desk",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 60,
@@ -443,7 +443,7 @@
     {
       "observation_order": 40,
       "id": "WRK-0012",
-      "title": "The Rumor",
+      "title": "The Waiting One",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 45,
@@ -454,7 +454,7 @@
     {
       "observation_order": 41,
       "id": "WRK-0013",
-      "title": "The Sick Day",
+      "title": "Missing",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 50,
@@ -465,7 +465,7 @@
     {
       "observation_order": 42,
       "id": "WRK-0014",
-      "title": "The Replacement",
+      "title": "Body",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 45,
@@ -476,7 +476,7 @@
     {
       "observation_order": 43,
       "id": "WRK-0015",
-      "title": "The Last Extra Task",
+      "title": "Punishment",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 55,
@@ -487,12 +487,166 @@
     {
       "observation_order": 44,
       "id": "WRK-0016",
-      "title": "What Becomes Visible",
+      "title": "The Same",
       "primary_center": "HUMAN",
       "center_weights": {
         "HUMAN": 65,
         "LIGHT": 25,
         "DARK": 10
+      }
+    },
+    {
+      "observation_order": 45,
+      "id": "WRK-0017",
+      "title": "Nameless",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 46,
+      "id": "WRK-0018",
+      "title": "Result",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 47,
+      "id": "WRK-0019",
+      "title": "Number",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 48,
+      "id": "WRK-0020",
+      "title": "Error",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 49,
+      "id": "WRK-0021",
+      "title": "Absence",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 50,
+      "id": "WRK-0022",
+      "title": "In Place Of",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 51,
+      "id": "WRK-0023",
+      "title": "Trace",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 52,
+      "id": "WRK-0024",
+      "title": "The Extra",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 53,
+      "id": "WRK-0025",
+      "title": "Silence",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 54,
+      "id": "WRK-0026",
+      "title": "The Last Task",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 55,
+      "id": "WRK-0027",
+      "title": "Outside",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 56,
+      "id": "WRK-0028",
+      "title": "The One Who Remembers",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 57,
+      "id": "WRK-0029",
+      "title": "Without a Name",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
+      }
+    },
+    {
+      "observation_order": 58,
+      "id": "WRK-0030",
+      "title": "Visible",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 34,
+        "LIGHT": 33,
+        "DARK": 33
       }
     }
   ],

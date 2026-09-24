@@ -1,0 +1,17 @@
+{
+  "id": "WRK-0030",
+  "title": "Visible",
+  "narrative_form": "standalone memoir",
+  "temporal_model": "observer-defined; no required predecessor or successor",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 34,
+    "LIGHT": 33,
+    "DARK": 33
+  },
+  "classification": {
+    "method": "provisional editorial placement",
+    "status": "awaiting-human-review",
+    "note": "Center weights are navigation placeholders, not a completed 30-criterion analysis."
+  }
+}

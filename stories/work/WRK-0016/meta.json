@@ -1,10 +1,14 @@
 {
   "id": "WRK-0016",
-  "title": "What Becomes Visible",
-  "original_title": "Görünen",
+  "title": "The Same",
+  "original_title": "Aynı",
   "core": "WORK",
   "status": "canon",
-  "source_language": "en",
+  "source_language": "tr",
+  "translation_policy": "source_only_until_reviewed",
+  "temporal_model": "observer_defined",
+  "entry_rule": "any_story_directly",
+  "chronological_predecessors": [],
   "culture": [
     "transcultural"
   ],
@@ -13,83 +17,40 @@
     "social",
     "literary"
   ],
-  "summary": "A fragmented memoir chapter that recalls Dostoevsky's Notes from a Dead House and asks what separates meaningful work from punishment: visible purpose, visible results, and visible contribution.",
+  "summary": "A standalone memory of work, institutional power, and the human experience of the same.",
   "reality_weaving": {
     "mode": "woven",
     "reality_roots": [
       "Modern work routines",
       "Institutional hierarchy",
-      "Human labor and organizational measurement",
-      "Contribution tracking"
+      "Human labor"
     ],
-    "imaginative_transformation": "The workplace and closed-house readings remain simultaneously plausible while a new contribution system changes the meaning of work.",
-    "emergent_question": "What separates work from punishment when people can see the result and their own contribution?"
+    "imaginative_transformation": "The workplace and a closed institution remain simultaneously plausible; the memory does not require a place in a chronological sequence.",
+    "emergent_question": "What does this encounter reveal about the purpose and human cost of work?"
   },
   "translations": {
-    "en": {
-      "status": "canonical",
-      "human_reviewed": true
-    },
     "tr": {
-      "status": "reviewed",
-      "human_reviewed": true
+      "status": "community",
+      "human_reviewed": false
     }
   },
-  "links": [
-    {
-      "target": "WRK-0015",
-      "type": "memory",
-      "note": "The previous chapter's withdrawal from extra effort leads into the question of meaningful work."
-    },
-    {
-      "target": "WRK-0001",
-      "type": "memory",
-      "note": "The door motif returns from the opening chapter."
-    }
-  ],
+  "links": [],
   "localized": {
     "tr": {
-      "title": "Görünen",
-      "summary": "Dostoyevski'nin Ölüler Evinden Anılar'ını hatırlayan anlatıcı, çalışma ile ceza arasındaki farkı sonuç ve görünür emek üzerinden yeniden sorgular."
+      "title": "Aynı",
+      "summary": "Birimde işe yeni başlayan kişi masasına oturduğunda elinde birkaç kâğıt vardı.",
+      "link_notes": {}
     },
     "en": {
-      "title": "What Becomes Visible",
-      "summary": "Remembering Dostoevsky's Notes from a Dead House, the narrator reconsiders the difference between work and punishment through visible results and visible contribution."
+      "title": "The Same",
+      "summary": "A standalone memory of work, institutional power, and the same."
     }
   },
-  "observer_choices": [
-    {
-      "key": "human",
-      "label": "Follow the human meaning of work and contribution.",
-      "effects": {
-        "HUMAN": 6,
-        "LIGHT": 2,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "light",
-      "label": "Follow the structure of results, contribution, and accountability.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 6,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "dark",
-      "label": "Follow the unresolved tension between work, punishment, and freedom.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 2,
-        "DARK": 6
-      }
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0016/ayni.jpg",
+    "alt": {
+      "tr": "Aynı hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
+      "en": "Artistic image without text, evoking work and a closed institution for The Same."
     }
-  ],
-  "primary_center": "HUMAN",
-  "center_weights": {
-    "HUMAN": 70,
-    "LIGHT": 25,
-    "DARK": 5
   }
 }

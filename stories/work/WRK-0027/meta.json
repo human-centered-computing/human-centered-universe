@@ -1,0 +1,64 @@
+{
+  "id": "WRK-0027",
+  "title": "Outside",
+  "original_title": "Dışarı",
+  "core": "WORK",
+  "status": "canon",
+  "source_language": "tr",
+  "translation_policy": "source_only_until_reviewed",
+  "temporal_model": "observer_defined",
+  "entry_rule": "any_story_directly",
+  "chronological_predecessors": [],
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "philosophical",
+    "social",
+    "literary"
+  ],
+  "summary": "A standalone memory of work, institutional power, and the human experience of outside.",
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "Modern work routines",
+      "Institutional hierarchy",
+      "Human labor"
+    ],
+    "imaginative_transformation": "The workplace and a closed institution remain simultaneously plausible; the memory does not require a place in a chronological sequence.",
+    "emergent_question": "What does this encounter reveal about the purpose and human cost of work?"
+  },
+  "translations": {
+    "tr": {
+      "status": "community",
+      "human_reviewed": false
+    }
+  },
+  "links": [
+    {
+      "target": "WRK-0001",
+      "type": "echo",
+      "note": "Thematic association with WRK-0001; no reading order or chronological dependency."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Dışarı",
+      "summary": "Çıkış kapısı açıkken de insan durabilir. O akşam elimde bir kâğıtla beklerken beni içeride tutan şeyin iş mi, alışkanlık mı olduğunu ayırt etmeye çalıştım.",
+      "link_notes": {
+        "WRK-0001": "Kapı ve hareket etme iradesi"
+      }
+    },
+    "en": {
+      "title": "Outside",
+      "summary": "A standalone memory of work, institutional power, and outside."
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0027/disari.jpg",
+    "alt": {
+      "tr": "Dışarı hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
+      "en": "Artistic image without text, evoking work and a closed institution for Outside."
+    }
+  }
+}

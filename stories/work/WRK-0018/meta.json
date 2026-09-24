@@ -1,0 +1,64 @@
+{
+  "id": "WRK-0018",
+  "title": "Result",
+  "original_title": "Sonuç",
+  "core": "WORK",
+  "status": "canon",
+  "source_language": "tr",
+  "translation_policy": "source_only_until_reviewed",
+  "temporal_model": "observer_defined",
+  "entry_rule": "any_story_directly",
+  "chronological_predecessors": [],
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "philosophical",
+    "social",
+    "literary"
+  ],
+  "summary": "A standalone memory of work, institutional power, and the human experience of result.",
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "Modern work routines",
+      "Institutional hierarchy",
+      "Human labor"
+    ],
+    "imaginative_transformation": "The workplace and a closed institution remain simultaneously plausible; the memory does not require a place in a chronological sequence.",
+    "emergent_question": "What does this encounter reveal about the purpose and human cost of work?"
+  },
+  "translations": {
+    "tr": {
+      "status": "community",
+      "human_reviewed": false
+    }
+  },
+  "links": [
+    {
+      "target": "WRK-0030",
+      "type": "contrast",
+      "note": "Thematic association with WRK-0030; no reading order or chronological dependency."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Sonuç",
+      "summary": "Başvuru sahibi kapıda bekliyordu. Dosyanın son sayfasındaki damga onun beklediği cevabı veriyor muydu? Masama gelen dosyayı açtığımda bu iki sonucun aynı şey sayıldığını gördüm.",
+      "link_notes": {
+        "WRK-0030": "İşlemin kapanması ve insanın sonucu doğrulaması"
+      }
+    },
+    "en": {
+      "title": "Result",
+      "summary": "A standalone memory of work, institutional power, and result."
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0018/sonuc.jpg",
+    "alt": {
+      "tr": "Sonuç hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
+      "en": "Artistic image without text, evoking work and a closed institution for Result."
+    }
+  }
+}

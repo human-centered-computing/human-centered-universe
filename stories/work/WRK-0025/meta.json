@@ -1,0 +1,64 @@
+{
+  "id": "WRK-0025",
+  "title": "Silence",
+  "original_title": "Sessizlik",
+  "core": "WORK",
+  "status": "canon",
+  "source_language": "tr",
+  "translation_policy": "source_only_until_reviewed",
+  "temporal_model": "observer_defined",
+  "entry_rule": "any_story_directly",
+  "chronological_predecessors": [],
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "philosophical",
+    "social",
+    "literary"
+  ],
+  "summary": "A standalone memory of work, institutional power, and the human experience of silence.",
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "Modern work routines",
+      "Institutional hierarchy",
+      "Human labor"
+    ],
+    "imaginative_transformation": "The workplace and a closed institution remain simultaneously plausible; the memory does not require a place in a chronological sequence.",
+    "emergent_question": "What does this encounter reveal about the purpose and human cost of work?"
+  },
+  "translations": {
+    "tr": {
+      "status": "community",
+      "human_reviewed": false
+    }
+  },
+  "links": [
+    {
+      "target": "WRK-0014",
+      "type": "echo",
+      "note": "Thematic association with WRK-0014; no reading order or chronological dependency."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Sessizlik",
+      "summary": "Odanın sesi değişmemişti. Benim sesim azalmıştı. Bir dosyadaki soruyu görüp de söylemediğim anda bunun yalnızca amirle aramda kalmadığını anladım.",
+      "link_notes": {
+        "WRK-0014": "Bedenin ve sesin çekilmesi"
+      }
+    },
+    "en": {
+      "title": "Silence",
+      "summary": "A standalone memory of work, institutional power, and silence."
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0025/sessizlik.jpg",
+    "alt": {
+      "tr": "Sessizlik hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
+      "en": "Artistic image without text, evoking work and a closed institution for Silence."
+    }
+  }
+}

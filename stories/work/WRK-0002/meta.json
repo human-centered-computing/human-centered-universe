@@ -1,68 +1,56 @@
 {
   "id": "WRK-0002",
-  "title": "The Place",
+  "title": "Place",
   "original_title": "Yer",
   "core": "WORK",
   "status": "canon",
   "source_language": "tr",
-  "book_order": 2,
+  "translation_policy": "source_only_until_reviewed",
+  "temporal_model": "observer_defined",
+  "entry_rule": "any_story_directly",
+  "chronological_predecessors": [],
   "culture": [
     "transcultural"
   ],
   "belief_context": [
     "philosophical",
     "social",
-    "literary",
-    "science-fiction"
+    "literary"
   ],
-  "summary": "A fragmented memoir about place, belonging, and the traces people leave behind in a workplace or closed institution. Desks, files, handwriting, objects and unnamed marks remain while people disappear, move on, or are replaced.",
+  "summary": "A standalone memory of work, institutional power, and the human experience of place.",
   "reality_weaving": {
     "mode": "woven",
     "reality_roots": [
       "Modern work routines",
       "Institutional hierarchy",
-      "Human labor and organizational memory"
+      "Human labor"
     ],
-    "imaginative_transformation": "The workplace and closed-house readings remain simultaneously possible. A desk can be a place of work, a cell-like station, or simply a place temporarily assigned to a person.",
-    "emergent_question": "When a person leaves a place, what remains of them, and what makes a place belong to anyone at all?"
+    "imaginative_transformation": "The workplace and a closed institution remain simultaneously plausible; the memory does not require a place in a chronological sequence.",
+    "emergent_question": "What does this encounter reveal about the purpose and human cost of work?"
   },
   "translations": {
     "tr": {
-      "status": "reviewed",
-      "human_reviewed": true
-    },
-    "en": {
-      "status": "canonical",
-      "human_reviewed": true
+      "status": "community",
+      "human_reviewed": false
     }
   },
-  "hero_image": {
-    "src": "./assets/images/stories/WRK-0002/yer.jpg?v=2",
-    "alt": {
-      "tr": "Karanlık ve aydınlık iki atmosferin birleştiği eski bir çalışma mekânında, masasının başında oturan anlatıcı; dosyalar, boş masalar ve geride kalan izler.",
-      "en": "The narrator seated at a desk in an old workplace where dark and warm spaces merge, surrounded by files, empty desks, and traces left behind."
-    }
-  },
-  "links": [
-    {
-      "target": "WRK-0001",
-      "type": "memory",
-      "note": "The threshold of the previous chapter becomes a question of where a person belongs."
-    },
-    {
-      "target": "WRK-0003",
-      "type": "future",
-      "note": "The next chapter shifts attention from place to voice and what remains recorded."
-    }
-  ],
+  "links": [],
   "localized": {
     "tr": {
       "title": "Yer",
-      "summary": "Masa, dosya ve geride kalan izler üzerinden bir yere ait olmanın ve bir yerin insana ait olmasının belirsizliği anlatılır."
+      "summary": "Masaların birbirinden farkı yokmuş gibi görünüyordu.",
+      "link_notes": {}
     },
     "en": {
-      "title": "The Place",
-      "summary": "A fragmented chapter about belonging, desks, files, and the traces people leave behind."
+      "title": "Place",
+      "summary": "A standalone memory of work, institutional power, and place."
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0002/yer.jpg",
+    "alt": {
+      "tr": "Yer hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
+      "en": "Artistic image without text, evoking work and a closed institution for Place."
     }
   }
 }

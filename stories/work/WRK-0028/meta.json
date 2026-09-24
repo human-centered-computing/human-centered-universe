@@ -1,0 +1,64 @@
+{
+  "id": "WRK-0028",
+  "title": "The One Who Remembers",
+  "original_title": "Hatırlayan",
+  "core": "WORK",
+  "status": "canon",
+  "source_language": "tr",
+  "translation_policy": "source_only_until_reviewed",
+  "temporal_model": "observer_defined",
+  "entry_rule": "any_story_directly",
+  "chronological_predecessors": [],
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "philosophical",
+    "social",
+    "literary"
+  ],
+  "summary": "A standalone memory of work, institutional power, and the human experience of the one who remembers.",
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "Modern work routines",
+      "Institutional hierarchy",
+      "Human labor"
+    ],
+    "imaginative_transformation": "The workplace and a closed institution remain simultaneously plausible; the memory does not require a place in a chronological sequence.",
+    "emergent_question": "What does this encounter reveal about the purpose and human cost of work?"
+  },
+  "translations": {
+    "tr": {
+      "status": "community",
+      "human_reviewed": false
+    }
+  },
+  "links": [
+    {
+      "target": "WRK-0023",
+      "type": "echo",
+      "note": "Thematic association with WRK-0023; no reading order or chronological dependency."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Hatırlayan",
+      "summary": "Eski binanın camından gördüğüm masa, orada bir zamanlar söylenenleri bana hatırlattı. Aynı yüzey başka bir çalışan için yalnızca sıradan bir iş günü olabilirdi.",
+      "link_notes": {
+        "WRK-0023": "İz ve hatırlama"
+      }
+    },
+    "en": {
+      "title": "The One Who Remembers",
+      "summary": "A standalone memory of work, institutional power, and the one who remembers."
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0028/hatirlayan.jpg",
+    "alt": {
+      "tr": "Hatırlayan hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
+      "en": "Artistic image without text, evoking work and a closed institution for The One Who Remembers."
+    }
+  }
+}

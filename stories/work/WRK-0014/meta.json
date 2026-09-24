@@ -1,10 +1,14 @@
 {
   "id": "WRK-0014",
-  "title": "The Replacement",
-  "original_title": "Yerine",
+  "title": "Body",
+  "original_title": "Beden",
   "core": "WORK",
   "status": "canon",
-  "source_language": "en",
+  "source_language": "tr",
+  "translation_policy": "source_only_until_reviewed",
+  "temporal_model": "observer_defined",
+  "entry_rule": "any_story_directly",
+  "chronological_predecessors": [],
   "culture": [
     "transcultural"
   ],
@@ -13,82 +17,48 @@
     "social",
     "literary"
   ],
-  "summary": "A fragmented memoir chapter about yerine gelen in the House of Work cycle.",
+  "summary": "A standalone memory of work, institutional power, and the human experience of body.",
   "reality_weaving": {
     "mode": "woven",
     "reality_roots": [
       "Modern work routines",
       "Institutional hierarchy",
-      "Human labor and organizational measurement"
+      "Human labor"
     ],
-    "imaginative_transformation": "The workplace and closed-house readings remain simultaneously plausible.",
-    "emergent_question": "What remains human when a system becomes internalized?"
+    "imaginative_transformation": "The workplace and a closed institution remain simultaneously plausible; the memory does not require a place in a chronological sequence.",
+    "emergent_question": "What does this encounter reveal about the purpose and human cost of work?"
   },
   "translations": {
-    "en": {
-      "status": "canonical",
-      "human_reviewed": true
-    },
     "tr": {
-      "status": "reviewed",
-      "human_reviewed": true
+      "status": "community",
+      "human_reviewed": false
     }
   },
   "links": [
     {
-      "target": "WRK-0013",
-      "type": "memory",
-      "note": "The previous work chapter echoes into this one."
-    },
-    {
-      "target": "WRK-0015",
-      "type": "future",
-      "note": "The next chapter carries the transformation forward."
+      "target": "WRK-0025",
+      "type": "echo",
+      "note": "Thematic association with WRK-0025; no reading order or chronological dependency."
     }
   ],
   "localized": {
     "tr": {
-      "title": "Yerine",
-      "summary": "Çalışma Evinden Anılar döngüsünde yerine gelen üzerine parçalı bölüm."
+      "title": "Beden",
+      "summary": "Günlük iş listesi eksiksizdi. Yan masadaki çalışanın ne kadar süredir sırtını tutarak oturduğu listede yoktu. Masama geçerken bunu görmüş olmam, kendi ağrımı da birden görünür kıldı.",
+      "link_notes": {
+        "WRK-0025": "Bedenin ve sesin çekilmesi"
+      }
     },
     "en": {
-      "title": "The Replacement",
-      "summary": "A fragmented chapter of the House of Work cycle."
+      "title": "Body",
+      "summary": "A standalone memory of work, institutional power, and body."
     }
   },
-  "observer_choices": [
-    {
-      "key": "human",
-      "label": "Follow the human meaning and lived experience.",
-      "effects": {
-        "HUMAN": 6,
-        "LIGHT": 2,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "light",
-      "label": "Seek clarity, structure, and understanding.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 6,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "dark",
-      "label": "Follow the unresolved tension and freedom.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 2,
-        "DARK": 6
-      }
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0014/beden.jpg",
+    "alt": {
+      "tr": "Beden hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
+      "en": "Artistic image without text, evoking work and a closed institution for Body."
     }
-  ],
-  "primary_center": "HUMAN",
-  "center_weights": {
-    "HUMAN": 45,
-    "LIGHT": 30,
-    "DARK": 25
   }
 }

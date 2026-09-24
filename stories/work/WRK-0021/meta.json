@@ -1,0 +1,64 @@
+{
+  "id": "WRK-0021",
+  "title": "Absence",
+  "original_title": "Yokluk",
+  "core": "WORK",
+  "status": "canon",
+  "source_language": "tr",
+  "translation_policy": "source_only_until_reviewed",
+  "temporal_model": "observer_defined",
+  "entry_rule": "any_story_directly",
+  "chronological_predecessors": [],
+  "culture": [
+    "transcultural"
+  ],
+  "belief_context": [
+    "philosophical",
+    "social",
+    "literary"
+  ],
+  "summary": "A standalone memory of work, institutional power, and the human experience of absence.",
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "Modern work routines",
+      "Institutional hierarchy",
+      "Human labor"
+    ],
+    "imaginative_transformation": "The workplace and a closed institution remain simultaneously plausible; the memory does not require a place in a chronological sequence.",
+    "emergent_question": "What does this encounter reveal about the purpose and human cost of work?"
+  },
+  "translations": {
+    "tr": {
+      "status": "community",
+      "human_reviewed": false
+    }
+  },
+  "links": [
+    {
+      "target": "WRK-0022",
+      "type": "parallel",
+      "note": "Thematic association with WRK-0022; no reading order or chronological dependency."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Yokluk",
+      "summary": "Bir çalışanın yokluğunu en önce sandalyesi değil, devam eden işleri ele verirdi. Masasındaki notlar duruyordu; onun o notları neden yazdığını soracak kişi ise ortada görünmüyordu.",
+      "link_notes": {
+        "WRK-0022": "Boş masa ve yerini alan kişi"
+      }
+    },
+    "en": {
+      "title": "Absence",
+      "summary": "A standalone memory of work, institutional power, and absence."
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/WRK-0021/yokluk.jpg",
+    "alt": {
+      "tr": "Yokluk hikâyesi için çalışma hayatı ile kapalı kurum imgelerini birleştiren, üzerinde yazı bulunmayan sanatsal görsel.",
+      "en": "Artistic image without text, evoking work and a closed institution for Absence."
+    }
+  }
+}

@@ -1,304 +1,421 @@
-# WRK-0016 — Görünen
+# Aynı
 
-Dostoyevski'nin *Ölüler Evinden Anılar* kitabı aklıma uzun zaman sonra geldi.
+Birimde işe yeni başlayan kişi masasına oturduğunda elinde birkaç kâğıt vardı.
 
-Neden o gün hatırladığımı bilmiyorum.
+Kâğıtları önüne koydu.
 
-Belki önümde duran kâğıttandı.
+Birini aldı.
 
-Belki de bana verilen işin ne olduğunu anlamaya çalışırken, yıllar önce okuduğum o kitabın içinden bir cümle yeniden çıkmıştı.
+Sonra diğerini.
 
-İnsanı yalnızca ağır çalıştırmanın yetmediğini anlatıyordu Dostoyevski. Bir insana yaptığı işin bütünüyle anlamsız olduğunu hissettirmek, onu ezmenin başka bir yoluydu.
+Bana baktı.
 
-Bir işi yapmak.
+“Şimdi ne yapacağım?”
 
-Sonra aynı işi yeniden yapmak.
+Ona önce kart okutmayı, sonra ekranı açmayı gösterdim. Bir süre elindeki kâğıda bakıp “Burada insanlara yardım edeceğiz sanıyordum,” dedi. Kendisini düzeltmesine fırsat vermedim. “Yapacağız,” dedim. O gün ona üç liste verdiler. İkinci listede birinciyi, üçüncüde ikincisini yeniden yazdı. Akşam bana dönüp “Hangi listedeki insanlara yardım ettik?” diye sordu. Ağzımı açtım; bir cümle bulamadım. Ondan önce burada aynı soruyu soran kişinin kendim olduğunu hatırladım.
 
-Sonra yeniden.
+Cevap vermek üzere ağzımı açtım.
 
-Sonunda insan yalnızca bedeninin değil, yaptığı şeyin de yorulduğunu hissediyordu.
+“Şimdilik bekle.”
 
-Kitabı kapattım.
+Dedikten sonra sustum.
 
-Önümdeki kâğıda baktım.
+Bu cümleyi daha önce çok duymuştum.
 
-Sonra kendime ilk defa açıkça sordum:
+Kimin söylediğini hatırlamıyordum.
 
-**Benim yaptığım çalışmanın bununla ne farkı vardı?**
+Adam da bir şey söylemedi.
 
-Bu sorunun cevabı kolay değildi.
+Masasına döndü.
 
-Çünkü burada kimse bana zincir takmamıştı.
+Bir dosya geldi.
 
-Kimse beni masaya zorla oturtmamıştı.
+Yeni gelen kişi kapağını açtı.
 
-Her sabah kendim geliyordum.
+İlk sayfayı okudu.
 
-Kartımı kendim okutuyordum.
+İkinci sayfayı çevirdi.
 
-Masama kendim oturuyordum.
+“Bunu neden yapıyoruz?”
 
-Akşam olduğunda kendim çıkıyordum.
+“Usul böyle.”
 
-Öyleyse fark neydi?
+“Usul neden böyle?”
 
-Onlar da çalışıyordu.
+Dosyaya baktım.
 
-Ben de çalışıyordum.
+Bir cevap bulacakmışım gibi bekledim.
 
-Onların bazı işleri hiçbir yere varmıyordu.
-
-Benim bazı işlerim de.
-
-Onların yaptığı işin sonucu bazen görünmüyordu.
-
-Benim yaptığım işin sonucu da çoğu zaman başka bir dosyanın içinde kayboluyordu.
-
-Onların günü bitiyor, ertesi gün aynı iş yeniden başlıyordu.
-
-Benimki de.
-
-Bir süre düşündüm.
-
-Belki fark kapıda değildi.
-
-Belki fark, insanın yaptığı iş ile kurduğu ilişkideydi.
-
-O gün bize yeni bir şey gösterdiler.
-
-Bizi yine aynı odaya aldılar.
-
-Yine masalar vardı.
-
-Yine kâğıtlar vardı.
-
-Yine bir görevli vardı.
-
-Fakat bu kez önümüze bırakılan kâğıtta yalnızca yapılacak iş yazmıyordu.
-
-En üstte başka bir başlık vardı:
-
-**Sonuç.**
-
-Altında, iş tamamlandığında neyin ortaya çıkması gerektiği açıkça yazılmıştı.
-
-Uzun süre baktım.
-
-Yanımdaki adama:
-
-“Bu ne?”
-
-diye sordum.
+Bulamadım.
 
 “Bilmiyorum.”
 
+dedim.
+
+Adam başını salladı.
+
+Dosyayı okumaya devam etti.
+
+Bir süre sonra elinde başka bir kâğıtla geldi.
+
+“Burada bir şey eksik.”
+
+“Ne?”
+
+“Bilmiyorum.”
+
+Kâğıdı bana uzattı.
+
+Dosyanın üzerinde:
+
+Tekrar kontrol edilecektir.
+
+yazıyordu.
+
+“Kontrol edilmiş.”
+
 dedi.
 
-Görevli yaklaştı.
+“Evet.”
 
-“Bunu daha önce yapmadınız.”
+“Öyleyse neden tekrar?”
+
+“Bir daha bakarız.”
+
+“Ne arayacağız?”
+
+Cevap vermedim.
+
+Kâğıdı masama bıraktım.
+
+Öğle arasında biri:
+
+“Yeni gelen çok soru soruyor.”
+
+dedi.
+
+“Evet.”
+
+“Alışır.”
+
+“Belki.”
+
+“Sen de böyle miydin?”
+
+Bir süre düşündüm.
+
+“Hatırlamıyorum.”
+
+Çayından bir yudum aldı.
+
+“İnsan alışıyor.”
+
+Sonra:
+
+“Bir süre sonra soru sormuyor.”
+
+dedi.
+
+Ben cevap vermedim.
+
+Öğleden sonra yeni gelen kişi masama bir kâğıt bıraktı.
+
+Üç sütun çizmişti:
+
+Yapılacak iş
+
+Beklenen sonuç
+
+Kim yapacak
+
+İlk sütun doluydu.
+
+Diğer ikisi boştu.
+
+“Bunu neden yaptın?”
+
+“Dosyayı anlamak için.”
+
+“Beklenen sonucu neden yazmadın?”
+
+“Bilmiyorum.”
+
+Sonra bana baktı.
+
+“Sen biliyor musun?”
+
+Kâğıda baktım.
+
+“Hayır.”
+
+“Öyleyse nasıl başlayacağız?”
+
+Bu kez hemen cevap vermedim.
+
+“Önce soralım.”
+
+dedim.
+
+“Kimden?”
+
+Bir süre düşündüm.
+
+“Bilmiyorum.”
+
+Adam gülümsedi.
+
+“İkimiz de bilmiyoruz.”
+
+“Evet.”
+
+Dosyayı birlikte açtık.
+
+İlk sayfada yapılacak işler vardı.
+
+İkinci sayfada imzalar.
+
+Üçüncüde kontrol.
+
+Dördüncüde gönderim.
+
+Son sayfada:
+
+Gereği yapılacaktır.
+
+yazıyordu.
+
+Yeni gelen kişi son satırı gösterdi.
+
+“Bu ne demek?”
+
+“Gereği yapılacak.”
+
+“Ne gereği?”
+
+Cevap vermedim.
+
+Bir süre sonra:
+
+“Bunu da sormalıyız.”
+
+dedi.
+
+Başımı salladım.
+
+Dosyayı ilgili masaya götürdük.
+
+Kâğıdı gösterdik.
+
+“Burada beklenen sonuç yok.”
+
+dedim.
+
+Karşıdaki kişi dosyaya baktı.
+
+“Gerekli değil.”
+
+“Neden?”
+
+“Usul böyle.”
+
+Cümleyi duyunca sustum.
+
+Bir süre önce aynı cümleyi ben söylemiştim.
+
+Şimdi başka biri söylüyordu.
+
+Yeni gelen kişi bana baktı.
+
+Ben dosyaya baktım.
+
+Masaya döndüğümüzde:
+
+“Bırakalım mı?”
+
+diye sordu.
+
+“Hayır.”
 
 “Ne yapacağız?”
 
-“Sonuca ulaşacaksınız.”
+“Bilmiyorum.”
 
-“Nasıl?”
+“Öyleyse?”
 
-“Bunu siz bulacaksınız.”
+Kâğıdı önüme çektim.
 
-İlk defa böyle bir cevap duyuyordum.
+“Ne olmasını istediğimizi yazalım.”
 
-Yıllarca önce iş verilmiş, sonra nasıl yapılacağı söylenmişti.
+“Biliyor muyuz?”
 
-Şimdi önce neye ulaşmamız gerektiğini biliyorduk.
+“Tam olarak değil.”
 
-Nasıl ulaşacağımızı ise bize bırakıyorlardı.
+“Öyleyse?”
 
-İlk başta kimse hareket etmedi.
+Bir süre düşündüm.
 
-Sonra biri bir fikir söyledi.
+“Bildiğimizi yazalım. Bilmediğimizi boş bırakalım.”
 
-Başka biri fikrin eksik olduğunu düşündü.
+Kâğıda:
 
-Üçüncü kişi başka bir yol önerdi.
+Beklenen sonuç:
 
-Ben ikisini birleştirdim.
+yazdım.
 
-Bir başkası ortaya çıkan hatayı buldu.
+Altını boş bıraktım.
 
-İş ilerledikçe kimin ne yaptığı birbirine karıştı.
+Sonra:
 
-Fakat bu kez karışmak, kaybolmak anlamına gelmiyordu.
+Kim yapacak:
 
-Çünkü sistem yapılan her katkıyı ayrı ayrı kaydediyordu.
+yazdım.
 
-Bir fikir.
+Yeni gelen kişi kendi adını yazdı.
 
-Bir değişiklik.
+Sonra bana baktı.
 
-Bir düzeltme.
+“Sen de yapıyorsun.”
 
-Bir uygulama.
+dedi.
 
-Bir tamamlayıcı katkı.
+Adımı yazdı.
 
-Sonuç ortaya çıktığında ekranda yalnızca sonuç yoktu.
+Kâğıdı ondan geri almadım.
 
-Sonucun altında isimler vardı.
+Ertesi gün aynı dosya yeniden geldi.
 
-Benim adım da.
+İlk sayfada küçük bir bölüm vardı:
 
-Yanımdaki adamın adı da.
+Beklenen sonuç
 
-Fikrini ilk söyleyenin adı da.
+Altında bizim yazdıklarımız.
 
-Hatanın yerini bulan kişinin adı da.
+Yanında:
 
-Birbirimizin adını silmemiştik.
+Takip edilecektir.
 
-Birimizin görünmesi için diğerinin kaybolması gerekmemişti.
+yazıyordu.
 
-Uzun süre ekrana baktım.
+Yeni gelen kişi:
 
-Yıllardır yaptığım işleri düşündüm.
+“Bunu kim ekledi?”
 
-Bir zamanlar söylediğim fikirleri.
+diye sordu.
 
-Kimsenin kullanmadığı için unuttuğum önerileri.
+“Bilmiyorum.”
 
-Başka birinin adıyla devam eden çalışmaları.
+“Önemli mi?”
 
-Kimin yaptığı bilinmeden kullanılan dosyaları.
+Kâğıda baktım.
 
-Sonuç verdiği halde kimin emeği olduğu bilinmeyen işleri.
+“Sanırım.”
 
-O zaman anladım:
+“Niye?”
 
-**İşim kaybolmamıştı.**
+Parmağını sayfanın üzerindeki yeni bölüme koydu.
 
-**Emeğim görünmez olmuştu.**
+“Dün burada yoktu.”
 
-Belki beni yıllarca yoran şey işin ağırlığı değildi.
+Bir süre baktım.
 
-Belki asıl yorgunluk, insanın yaptığı şey ile arasındaki bağın kopmasıydı.
+“Evet.”
 
-İş devam ediyor.
+“Şimdi var.”
 
-Dosya devam ediyor.
+Başımı salladım.
 
-Sonuç devam ediyor.
+Altında isim yoktu.
 
-Ama insanın adı, katkısı ve izi giderek siliniyorsa, bir süre sonra insan kendi yaptığı işe bile yabancılaşmaya başlıyor.
+Başka bir gün yeni gelen kişi:
 
-Dostoyevski'nin anlattığı o anlamsız işlerle benim yaptığım işlerin arasında şimdi başka bir fark görüyordum.
+“Bunu böyle yapsak daha az bekleriz.”
 
-Bir iş gerçekten ağır olabilir.
+dedi.
 
-Uzun sürebilir.
+Cümle biter bitmez aklıma eski bir cevap geldi:
 
-İnsanı yorabilir.
+Daha önce denendi.
 
-Fakat insan yaptığı işin neden yapıldığını biliyor, sonucunu görebiliyor ve kendi emeğinin o sonuçta bir yeri olduğunu hissediyorsa, o iş yalnızca bir ceza değildir.
+Söylemedim.
 
-Fakat insana sürekli olarak:
+“Ne değişmesini bekliyorsun?”
 
-“Bunu yap.”
+diye sordum.
 
-denir,
+“Bekleme süresi azalacak.”
 
-neden yaptığı söylenmez,
+“Başka?”
 
-sonuç gösterilmez,
+“Başvuruyu yapan kişi sonucu daha erken görecek.”
 
-katkısı kaydedilmez,
+“Bunu yazalım.”
 
-fikri başka birinin adına geçer
+Kâğıdı önüne koydum.
 
-ve yaptığı her şey yalnızca bir sayı haline gelirse,
+O yazdı.
 
-işin adı çalışma olarak kalabilir.
+Sonra:
 
-Fakat insanın içinde taşıdığı anlam değişir.
+“Deneyelim mi?”
 
-O gün sorumu yeniden sordum:
+dedi.
 
-**Çalışma ile ceza arasındaki fark nedir?**
+“Önce kimin yapacağını yazalım.”
 
-Cevabın kapıda olmadığını artık biliyordum.
+Birlikte çalıştık.
 
-Saatte de değildi.
+Bir satırı o düzeltti.
 
-Masanın şeklinde de.
+Bir satırı ben.
 
-Belki cevap şuydu:
+Bir yerde eski tabloyu değiştirdik.
 
-**İnsan yaptığı işin sonucunda kendisinden bir iz görebiliyor mu?**
+Başka bir yere küçük bir not ekledik.
 
-Yeni sistemde ilk defa bunu görebiliyordum.
+Bir dosyada hata çıktı.
 
-Bir işi başlatmıştık.
+Kimin yaptığını bulamadık.
 
-Birlikte değiştirmiştik.
+Yanına hiçbir şey yazmadık.
 
-Birlikte tamamlamıştık.
+Sadece hatayı düzelttik.
 
-Ve sonuç ortaya çıktığında hiç kimse diğerinin emeğini kendisine mal etmemişti.
+Sonra dosyayı kapattık.
 
-Bunun büyük bir şey olduğunu düşünmedim.
+Akşam masamda eski bir kâğıt buldum.
 
-Aslında olması gerekenin bu olduğunu düşündüm.
+Üzerinde tek cümle vardı:
 
-İnsanların birlikte bir şey üretmesi ve üretirken birbirlerini silmemesi.
+Usul böyle.
 
-İlk kez çalışmanın başka türlü olabileceğini gördük.
+Kâğıdı uzun süre elimde tuttum.
 
-Kimse bize özgür olduğumuzu söylemedi.
+Katlamadım.
 
-Kimse duvarları yıkmadı.
+Çekmeceye koymadım.
 
-Kapılar aynıydı.
+Masamın üzerine bıraktım.
 
-Saat yine aynı saati gösteriyordu.
+Yeni gelen kişi çıkarken kapının yanında durdu.
 
-Fakat yaptığımız işin anlamı değişmişti.
+“Yarın devam edelim mi?”
 
-Akşam çıkarken kapıya baktım.
+dedi.
 
-İlk günlerde olduğu gibi kapının kilitli olup olmadığını düşünmedim.
+“Edelim.”
 
-İlk defa başka bir şeyi düşündüm:
+“Şimdilik bekle demeyecek misin?”
 
-**Belki bir insanı çalıştırmak başka şeydi, onun emeğine değer vermek başka.**
+Gülümsedim.
 
-Kapıdan çıktım.
+“Hayır.”
 
-Ertesi sabah yine geldim.
+Adam çıktı.
 
-Bu kez önümde yeni bir görev vardı.
+Masada eski kâğıt kaldı.
 
-Ama yalnızca bir görev değildi.
+Usul böyle.
 
-Ulaşılacak bir sonuç vardı.
+Altına küçük bir çizgi çektim.
 
-Ve o sonucun içinde benim de bir katkım olacaktı.
-
-Belki çalışma ile ceza arasındaki fark tam olarak burada başlıyordu.
-
-**İnsan yaptığı şeyin sonucunu görebildiğinde ve o sonucun içinde kendi emeğini bulabildiğinde.**
-
-O gün ekrana son kez baktım.
-
-Adım oradaydı.
-
-Başka isimlerle birlikte.
-
-Ve ilk defa bundan rahatsız olmadım.
-
-Çünkü artık biliyordum:
-
-**Bir başkasının görünmesi, benim görünmez olmam anlamına gelmiyordu.**
-
-Belki insan merkezli çalışma dediğimiz şey, önce bundan başlamalıydı.
-
-İnsanın emeğini kendisinden ayırmamak.
-
+Kâğıdı olduğu yerde bıraktım.

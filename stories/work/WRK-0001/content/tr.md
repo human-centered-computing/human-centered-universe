@@ -1,4 +1,4 @@
-# WRK-0001 — Eşik
+# Eşik
 
 Kapının önünde beklerken içeriden gelen sesleri duyabiliyordum.
 
@@ -11,6 +11,8 @@ Ne söylediklerini anlayamıyordum.
 Bazen bir kelime seçiliyordu.
 
 “İmza.”
+
+İlk gün saatimi girişteki cihazın saatine göre ayarlamıştım. Cihaz birkaç dakika ilerideydi. Bunu fark eden adam, “Alışırsın,” dedi. Alışmak, onun ağzında düzeltilmesi gereken bir bozukluğa değil, insanın kendisine verilen bir işti. Kartı okuttum; adım bir ekranda belirdi. Henüz kimin için ne yapacağımı bilmiyordum ama geldiğim kesindi. Akşam çıktığım da kesin olacaktı. O iki kesinliğin arasında kalan saatler hakkında cihaz hiçbir şey söylemiyordu.
 
 Sonra:
 
@@ -38,8 +40,6 @@ En altta boş bir bölüm.
 
 Oraya ne yazılması gerektiğini bilmiyordum.
 
-***
-
 Yanımdaki adam kâğıda baktı.
 
 “İlk kez mi?”
@@ -60,8 +60,6 @@ Sanki bu cevap yeterliydi.
 
 Belki de burada yeterli olan cevaplar buydu.
 
-***
-
 Kapının yanında küçük bir masa vardı.
 
 Üzerinde numaralar.
@@ -81,8 +79,6 @@ Tekrar katladım.
 Bunu neden yaptığımı bilmiyordum.
 
 İnsan beklerken ellerine bir iş vermek istiyordu.
-
-***
 
 İçeriden biri çıktı.
 
@@ -107,8 +103,6 @@ Kapının önünde durdu.
 Sonra geri döndü.
 
 Sanki nereye gideceğini bilmiyordu.
-
-***
 
 Numaram söylendi.
 
@@ -154,8 +148,6 @@ Bana baktı.
 
 “Biraz.”
 
-***
-
 Bir sandalyeye oturdum.
 
 Karşımda başka insanlar vardı.
@@ -185,8 +177,6 @@ Bir telefon çalıyor.
 Bir kişi ayağa kalkıyor.
 
 Bir başka kişi oturuyor.
-
-***
 
 Bir süre sonra önümde bir dosya belirdi.
 
@@ -220,8 +210,6 @@ dedi.
 
 “Şimdilik devam et.”
 
-***
-
 Devam ettim.
 
 Bir süre sonra tekrar geldim.
@@ -244,8 +232,6 @@ Parmağıyla bir yeri gösterdi.
 
 “Onu bul.”
 
-***
-
 Dosyayı tekrar aldım.
 
 Aradım.
@@ -265,8 +251,6 @@ dedi.
 İş bitmişti.
 
 Ama neyin tamamlandığını bilmiyordum.
-
-***
 
 Öğleye doğru odadaki hareket azaldı.
 
@@ -308,8 +292,6 @@ Birisi güldü.
 
 İçerideki sessizlikle buradaki konuşmaların aynı insanlardan çıktığına inanmak zordu.
 
-***
-
 Masadaki kadın bana:
 
 “Sen yeni misin?”
@@ -330,8 +312,6 @@ Sonra gülümsedi.
 
 “En çok da beklemeye.”
 
-***
-
 Yemekten sonra geri döndük.
 
 Aynı masalar.
@@ -341,8 +321,6 @@ Aynı dosyalar.
 Aynı sandalyeler.
 
 Sanki dışarıda hiç bulunmamışız gibi.
-
-***
 
 Bana başka bir kâğıt verdiler.
 
@@ -374,19 +352,15 @@ Sonra kâğıdı geri aldı.
 
 “Şimdilik bekle.”
 
-***
-
 Bir süre sonra beklemek de bir iş gibi gelmeye başladı.
 
 Sandalyede oturuyor, dosyayı önümde tutuyor, kimsenin söylemediği bir sonraki cümleyi bekliyordum.
-
-***
 
 Masamın üzerinde bir kâğıt buldum.
 
 Üzerinde tek kelime vardı:
 
-**Eksik.**
+Eksik.
 
 Altında boşluk.
 
@@ -395,8 +369,6 @@ Başka bir şey yoktu.
 Kâğıdı kimin bıraktığını sordum.
 
 Kimse bilmiyordu.
-
-***
 
 Bir süre kelimeye baktım.
 
@@ -413,8 +385,6 @@ Bir bilgi mi?
 Bir sonuç mu?
 
 Yoksa başka bir şey mi?
-
-***
 
 Kâğıdı masanın kenarına bıraktım.
 
@@ -448,33 +418,27 @@ dedi.
 
 Gitti.
 
-***
-
 Bir an arkasından baktım.
 
 İçimde garip bir his oluştu.
 
 Biraz önce bana söylenen cümleyi ben şimdi başkasına söylemiştim.
 
-**Bekleyeceksin.**
-
-***
+Bekleyeceksin.
 
 Masama döndüm.
 
 Kâğıttaki:
 
-**Eksik**
+Eksik
 
 kelimesine baktım.
 
 Yanına küçük bir soru yazdım:
 
-**Ne?**
+Ne?
 
 Sonra kâğıdı önümde bıraktım.
-
-***
 
 Masaların arasında yürürken bir çekmece açık gördüm.
 
@@ -488,7 +452,7 @@ Kısa cümleler.
 
 Bir yerde:
 
-**“Sonucu kim görecek?”**
+“Sonucu kim görecek?”
 
 yazıyordu.
 
@@ -496,25 +460,21 @@ Altında cevap yoktu.
 
 Başka bir kâğıtta:
 
-**“Bu neden böyle?”**
+“Bu neden böyle?”
 
 Bir başkasında:
 
-**“Tekrar kontrol edildi.”**
+“Tekrar kontrol edildi.”
 
 Ve en altta:
 
-**“Kim kontrol etti?”**
+“Kim kontrol etti?”
 
 Bu sorunun da cevabı yoktu.
-
-***
 
 Çekmeceyi kapattım.
 
 Kimseye söylemedim.
-
-***
 
 Masam değişti.
 
@@ -554,8 +514,6 @@ Ben değişmemiştim.
 
 Ama insanların gözünde değişmiş gibiydim.
 
-***
-
 Birisi geldi.
 
 “Bunu kime vereceğim?”
@@ -578,15 +536,11 @@ Ama cevap vermem gerektiğini düşündüm.
 
 Adam çıktı.
 
-***
-
 O kelime ağzımdan kendiliğinden çıkmıştı.
 
 Bekleyin.
 
 Sanki uzun zamandır oradaymışım gibi.
-
-***
 
 Bir akşam herkes gittikten sonra odada yalnız kaldım.
 
@@ -596,47 +550,43 @@ Bir ekranda açık kalan dosya vardı.
 
 Bir dosyanın yanında:
 
-**İşlem devam ediyor.**
+İşlem devam ediyor.
 
 yazıyordu.
 
 Başka birinde:
 
-**Beklemede.**
+Beklemede.
 
 Bir diğerinde:
 
-**Eksik.**
+Eksik.
 
 Sonuncusunda:
 
-**Tamamlandı.**
+Tamamlandı.
 
 Ekranlara baktım.
 
 Hangisinin gerçekten bitmiş olduğunu anlayamadım.
 
-***
-
 Masamda duran boş kâğıdı aldım.
 
 Üzerine:
 
-**Burada ne yapılır?**
+Burada ne yapılır?
 
 yazdım.
 
 Sonra altına:
 
-**Beklenir.**
+Beklenir.
 
 yazdım.
 
 Bir süre baktım.
 
 İkinci cümleyi karaladım.
-
-***
 
 Kapıya doğru yürüdüm.
 
@@ -655,8 +605,6 @@ Bir an cevap veremedim.
 Sonra ağzımdan şu çıktı:
 
 “Biraz bekle.”
-
-***
 
 Söz ağzımdan çıkar çıkmaz durdum.
 
@@ -681,8 +629,6 @@ Sonra yeni gelenin sesi duyuldu:
 “Ne yapacağım?”
 
 Bu kez içeriden kimse cevap vermedi.
-
-***
 
 Kapının önünde durdum.
 

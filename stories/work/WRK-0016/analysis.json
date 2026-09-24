@@ -1,6 +1,6 @@
 {
   "id": "WRK-0016",
-  "title": "What Becomes Visible",
+  "title": "The Same",
   "themes": [
     "labor",
     "meaningful work",
@@ -9,8 +9,8 @@
     "human agency",
     "institutional systems"
   ],
-  "narrative_form": "fragmented memoir",
-  "temporal_model": "nonlinear; linked cycle",
+  "narrative_form": "standalone memoir",
+  "temporal_model": "observer-defined; no required predecessor or successor",
   "ambiguity": "workplace and closed institution remain simultaneously plausible",
   "literary_reference": "Dostoevsky's Notes from a Dead House is recalled as a conceptual point of departure; the chapter develops an original contemporary question rather than reproducing the source.",
   "central_question": "What separates work from punishment when a person can see the result and their own contribution?",
@@ -21,33 +21,9 @@
     "LIGHT": 25,
     "DARK": 5
   },
-  "observer_choices": [
-    {
-      "key": "human",
-      "label": "Follow the human meaning of work and contribution.",
-      "effects": {
-        "HUMAN": 6,
-        "LIGHT": 2,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "light",
-      "label": "Follow the structure of results, contribution, and accountability.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 6,
-        "DARK": 2
-      }
-    },
-    {
-      "key": "dark",
-      "label": "Follow the unresolved tension between work, punishment, and freedom.",
-      "effects": {
-        "HUMAN": 2,
-        "LIGHT": 2,
-        "DARK": 6
-      }
-    }
-  ]
+  "classification": {
+    "method": "provisional editorial placement",
+    "status": "awaiting-human-review",
+    "note": "Center weights are navigation placeholders, not a completed 30-criterion analysis."
+  }
 }

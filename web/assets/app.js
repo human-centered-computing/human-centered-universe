@@ -236,7 +236,7 @@ function renderObserverCard(){
 function renderRead(){
   const story=currentStory(); if(!story) return;
   state.storyId=story.id; recordPath(story.id);
-  const requested=story.content?.[state.locale]; const content=requested||story.content?.en||""; const fallback=!requested&&state.locale!=="en";
+  const requested=story.content?.[state.locale]; const fallbackLang=story.source_language||state.data?.fallback_language||"en"; const content=requested||story.content?.[fallbackLang]||story.content?.en||""; const fallback=!requested;
   const related=(story.links||[]).map(link=>({link,story:storyById(link.target)})).filter(x=>x.story);
   const w=storyWeights(story); const p=primaryCenter(story); const nextResult=recommendNext(story.id); const next=nextResult?.story;
   const choices=choicesFor(story);
@@ -255,7 +255,7 @@ function renderRead(){
     ${renderObserverCard()}
     <article class="reader-card">
       ${fallback?`<div class="fallback">${t("translation_unavailable")}</div>`:""}
-      <div class="story-kicker"><span class="badge ${p}">${escapeHtml(centerLabel(p))}</span><span>${escapeHtml(story.id)}</span><span>·</span><span>${translationStatus(story,requested?state.locale:"en")}</span></div>
+      <div class="story-kicker"><span class="badge ${p}">${escapeHtml(centerLabel(p))}</span><span>${escapeHtml(story.id)}</span><span>·</span><span>${escapeHtml(requested?state.locale:fallbackLang)} · ${translationStatus(story,requested?state.locale:fallbackLang)}</span></div>
       <div class="story-profile"><strong>${t("center_profile","Center profile")}</strong>${weightBars(w)}</div>
       ${storyHero(story)}
       <div class="story-content">${markdownToHtml(content)}</div>
