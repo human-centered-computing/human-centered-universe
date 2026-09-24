@@ -31,7 +31,10 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.12"
+
+      - name: Install offline translation engine
+        run: python -m pip install 'argostranslate==1.11.0'
 
       - name: Generate machine-draft translations
         env:
@@ -43,7 +46,7 @@ jobs:
           if [ "${{ inputs.force }}" = "true" ]; then FORCE="--force"; fi
           LANGS="${{ inputs.languages }}"
           if [ -z "$LANGS" ]; then LANGS="en"; fi
-          python scripts/generate_story_translations.py --langs "$LANGS" $FORCE
+          python scripts/generate_story_translations.py --langs "$LANGS" --provider argos --limit 1 $FORCE
 
       - name: Validate universe
         run: python scripts/validate_universe.py

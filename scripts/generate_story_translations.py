@@ -12,7 +12,7 @@ WORK memoirs, English is translated from the original Turkish text and is
 never represented as human-reviewed or canonical before review.
 """
 from pathlib import Path
-import argparse, json, os, time, urllib.request, urllib.error
+import argparse, json, os, re, time, urllib.request, urllib.error
 
 ROOT = Path(__file__).resolve().parents[1]
 STORIES = ROOT / "stories"
@@ -78,17 +78,60 @@ def call_chat(api_base: str, api_key: str, model: str, target_name: str, target_
     return text + "\n"
 
 
+def install_argos_turkish_english():
+    """Load the public, offline Turkish→English package once per run."""
+    import argostranslate.package
+    import argostranslate.translate
+
+    argostranslate.package.update_package_index()
+    candidates = [p for p in argostranslate.package.get_available_packages()
+                  if p.from_code == "tr" and p.to_code == "en"]
+    if not candidates:
+        raise RuntimeError("Argos package index has no Turkish→English model")
+    package = candidates[0]
+    print(f"Installing Argos tr→en model {package.package_version}", flush=True)
+    argostranslate.package.install_from_path(package.download())
+    return argostranslate.translate
+
+
+def translate_argos(source: str, english_title: str, engine) -> str:
+    """Keep paragraph and Markdown boundaries while translating each prose block."""
+    parts = re.split(r"(\n\s*\n)", source)
+    translated = []
+    for block in parts:
+        if not block.strip() or block.strip() in {"***", "---"}:
+            translated.append(block)
+        elif block.startswith("# "):
+            translated.append("# " + english_title)
+        elif block.startswith("> "):
+            translated.append("> " + engine.translate(block[2:], "tr", "en").strip())
+        else:
+            translated.append(engine.translate(block.strip(), "tr", "en").strip())
+    result = "".join(translated).rstrip() + "\n"
+    if len(result.split()) < len(source.split()) * .45:
+        raise RuntimeError("English output is unexpectedly short; refusing partial translation")
+    if not result.startswith("# " + english_title):
+        raise RuntimeError("English story heading was lost")
+    return result
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--langs", default="", help="Comma-separated codes; default: all configured languages except en,tr")
     ap.add_argument("--force", action="store_true", help="Overwrite existing target files")
     ap.add_argument("--limit", type=int, default=0, help="Process at most N story-language pairs")
     ap.add_argument("--sleep", type=float, default=0.4, help="Delay between API calls")
+    ap.add_argument("--provider", choices=("auto", "api", "argos"), default="auto")
     args = ap.parse_args()
 
-    api_key = env("TRANSLATION_API_KEY")
-    api_base = env("TRANSLATION_API_BASE")
-    model = env("TRANSLATION_MODEL")
+    has_api = all(os.environ.get(name, "").strip() for name in
+                  ("TRANSLATION_API_KEY", "TRANSLATION_API_BASE", "TRANSLATION_MODEL"))
+    provider = "api" if args.provider == "auto" and has_api else (
+        "argos" if args.provider == "auto" else args.provider)
+    if provider == "api":
+        api_key = env("TRANSLATION_API_KEY")
+        api_base = env("TRANSLATION_API_BASE")
+        model = env("TRANSLATION_MODEL")
 
     cfg = json.loads(CONFIG.read_text(encoding="utf-8"))
     info = {code: LANGUAGE_NAMES.get(code, code) for code in cfg["supported_languages"]}
@@ -97,6 +140,9 @@ def main():
     unknown = [x for x in targets if x not in info]
     if unknown:
         raise SystemExit(f"Unsupported language code(s): {', '.join(unknown)}")
+    if provider == "argos" and targets != ["en"]:
+        raise SystemExit("The offline model currently supports only tr→en WORK translations")
+    engine = install_argos_turkish_english() if provider == "argos" else None
     processed = 0
     for mp in sorted(STORIES.rglob("meta.json")):
         meta = json.loads(mp.read_text(encoding="utf-8"))
@@ -125,14 +171,19 @@ def main():
 
             label = info[lang]
             print(f"TRANSLATE {sid}: {source_code} -> {lang} ({label})")
-            translated = call_chat(api_base, api_key, model, label, lang,
-                                   source_name, source_code, source_path.read_text(encoding="utf-8"))
+            source = source_path.read_text(encoding="utf-8")
+            if provider == "argos":
+                english_title = meta.get("localized", {}).get("en", {}).get("title", meta["title"])
+                translated = translate_argos(source, english_title, engine)
+            else:
+                translated = call_chat(api_base, api_key, model, label, lang,
+                                       source_name, source_code, source)
             target_path.write_text(translated, encoding="utf-8")
             translations[lang] = {"status": "machine_draft", "human_reviewed": False,
                                   "source_language": source_code}
             mp.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
             processed += 1
-            if args.sleep:
+            if args.sleep and provider == "api":
                 time.sleep(args.sleep)
 
     print(f"Generated/updated {processed} story-language pair(s).")
