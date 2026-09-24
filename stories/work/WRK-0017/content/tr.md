@@ -56,19 +56,7 @@ Dosyayı kapattım.
 
 Elindeki dosyayı gösterdi.
 
-“Bunu kim hazırladı?”
-
-Kapağa baktım.
-
-“Bilmiyorum.”
-
-“İçinde isimler var.”
-
-“Evet.”
-
-“Hazırlayan yok.”
-
-“Evet.”
+Dosyayı kimin hazırladığı belli değildi. İçindeki işlemlerde birçok isim vardı; hazırlayan kişinin adı yoktu.
 
 Dosyayı açtı.
 

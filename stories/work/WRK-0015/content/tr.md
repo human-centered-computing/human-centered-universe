@@ -46,23 +46,7 @@ Aynı bilgiydi.
 
 Başka bir sırayla.
 
-Bitirdiğimde dosyayı teslim ettim.
-
-“Oldu mu?”
-
-“Tekrar kontrol edilecek.”
-
-“Ne değişecek?”
-
-Dosyaya baktı.
-
-“Gerekirse yeniden yapılır.”
-
-“Kim karar verecek?”
-
-Kâğıdın üzerindeki isme baktı.
-
-“Burada yazıyor.”
+Bitirdiğim tablo yeniden kontrol edilecekti; neyin değişmesi gerektiğini kimse söylemedi. Amir kararın kâğıtta adı yazan kişiye ait olduğunu işaret etti.
 
 Sonra başka bir dosyaya geçti.
 

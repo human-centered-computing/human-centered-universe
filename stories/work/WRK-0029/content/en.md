@@ -40,17 +40,7 @@ I didn't have mine.
 
 The new person I was working with that day approached my desk.
 
-“Did you prepare this file?”
-
-"No."
-
-“What about this sentence?”
-
-“I wrote it.”
-
-“You don't have your name here.”
-
-"I know."
+The newcomer asked who had prepared the file. It was not me, though one of its sentences was mine. We both saw that my name was missing.
 
 He closed the file again.
 

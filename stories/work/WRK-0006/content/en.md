@@ -76,23 +76,7 @@ There was the same line underneath them again.
 
 Signature.
 
-A document came before me.
-
-“Sign here.”
-
-I read.
-
-“Do I approve?”
-
-"No."
-
-"Then?"
-
-“Within your knowledge.”
-
-“Is the signature the same?”
-
-“The signature is the same.”
+I was asked to sign the document in front of me. I read it: someone else held the power to approve, but my signature would appear beneath it. When I pointed this out, I was told the signature would be the same.
 
 He handed me the pen.
 

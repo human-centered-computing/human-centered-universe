@@ -114,21 +114,7 @@ Yanlış kayıt.
 
 Tekrar işlem.
 
-Bir kişi:
-
-“Bunların hepsi düzeltildi.”
-
-dedi.
-
-“Kaç hata kaldı?”
-
-“Üç.”
-
-“Geçen ay?”
-
-“On bir.”
-
-“İyi.”
+Toplantıda düzeltilen kayıtları saydılar. Geçen ay on bir olan hata sayısı üçe düşmüştü; bunu iyi haber saydılar.
 
 Ekrandaki sayı değişmişti.
 

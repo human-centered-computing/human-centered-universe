@@ -16,15 +16,7 @@ Kalem vardı.
 
 Yeni gelen kişi ekranı açtı.
 
-“Şimdi ne yapacağım?”
-
-Dosyaya baktım.
-
-“Bu dosyayı takip edeceksin.”
-
-“Nasıl?”
-
-“Buradaki işlemleri tamamlayacaksın.”
+Yeni gelene dosyadaki işlemleri tamamlayacağını söyledim. Ne amaçla yapıldığını sorduğunda cevap verecek bir şey bulamadım.
 
 “Sonunda ne olması gerekiyor?”
 

@@ -84,21 +84,7 @@ Altına kendi adını yazdı.
 
 Sonra durdu.
 
-“Sen de ekledin mi?”
-
-“Henüz değil.”
-
-“Ne yaptın?”
-
-Dosyanın ilk sayfasını gösterdim.
-
-“Buradaki ifadeyi değiştirdim.”
-
-“Onu sen mi yazdın?”
-
-“Evet.”
-
-“Öyleyse yaz.”
+İlk sayfadaki ifadeyi değiştirdiğimi söyledim. Yeni gelen kişi değişikliğin yanına kendi adımı yazmamı istedi.
 
 Kalemi aldım.
 

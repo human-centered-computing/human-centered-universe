@@ -86,17 +86,7 @@ Tekrar değerlendirilecektir.
 
 Yan masadaki kişi başını kaldırdı.
 
-“Bir sorun mu var?”
-
-“Yok.”
-
-“Emin misin?”
-
-Başımı salladım.
-
-“Bir şey söylemeyecek misin?”
-
-“Hayır.”
+Yan masadaki kişi bir sorun olup olmadığını iki kez sordu. Yokmuş gibi başımı salladım; daha fazlasını söylemedim.
 
 Bana birkaç saniye baktı.
 

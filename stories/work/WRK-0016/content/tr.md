@@ -72,19 +72,7 @@ Tekrar kontrol edilecektir.
 
 yazıyordu.
 
-“Kontrol edilmiş.”
-
-dedi.
-
-“Evet.”
-
-“Öyleyse neden tekrar?”
-
-“Bir daha bakarız.”
-
-“Ne arayacağız?”
-
-Cevap vermedim.
+Kontrolün zaten yapıldığını söyledim. Neyi aradığımızı bilmeden aynı işi yeniden yapacaktım. Karşımdaki kişi bunun nedenini açıklayamadı.
 
 Kâğıdı masama bıraktım.
 

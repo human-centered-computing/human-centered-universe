@@ -10,19 +10,7 @@ O gün birlikte çalıştığım yeni kişi onları topladı.
 
 Soruyu sevdim; yıllarca sorulduğunda hiç düşünmeden “Yap,” demiştim. İşin paylaşılmasını yardım sanıyordum. Fakat masaya bıraktığım kâğıtlardan biri yalnızca üst yazının yeni bir biçimde çoğaltılmasıydı. Gerekmediğini bildiğim hâlde ona verirsem, birinin çalışkanlığını kullanarak kendi masamı boşaltmış olacaktım. “Önce ne işe yarayacağını bulalım,” dedim. Bu cevap onun hevesini küçültmüyordu; ona bir neden borçlu olduğumu kabul ediyordu.
 
-“Hangilerini?”
-
-“Şunları.”
-
-Kâğıtları gösterdi.
-
-“Bunlar senin işin değil.”
-
-“Kim yapacak?”
-
-“Bilmiyorum.”
-
-“Ben yapabilirim.”
+Kâğıtları gösterdi. Bunlardan birini ona vermenin gerekli olmadığını söyledim. Yapmaya istekliydi; bir işin boş yere başkasına devredilmesinden çekiniyordum.
 
 Bir an ona baktım.
 

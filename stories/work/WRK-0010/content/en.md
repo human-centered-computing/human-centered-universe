@@ -102,17 +102,7 @@ There was a doctor inside.
 
 There was a long list in front of him.
 
-“How many people today?”
-
-someone asked.
-
-“Seventy-two.”
-
-"Yesterday?"
-
-“Sixty-eight.”
-
-"Good morning my baby."
+Someone compared the numbers on the list: seventy-two people today, sixty-eight yesterday. He took the increase as a good sign.
 
 The doctor looked up.
 

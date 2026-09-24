@@ -16,15 +16,7 @@ There was a pen.
 
 The new person turned on the screen.
 
-“What do I do now?”
-
-I looked at the file.
-
-“You will follow this file.”
-
-"How?"
-
-“You will complete the procedures here.”
+I told the newcomer to complete the steps in the file. When asked what they were for, I could not answer.
 
 “What is supposed to happen in the end?”
 

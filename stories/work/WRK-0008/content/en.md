@@ -58,21 +58,7 @@ The result?
 
 The bottom was empty.
 
-I asked the person who brought the file:
-
-“What happened?”
-
-“It's done.”
-
-“What is completed?”
-
-"Process."
-
-"Conclusion?"
-
-The man looked at the file.
-
-“It's not written there.”
+I asked the person who brought the file whether the application or merely its processing was finished. The processing was complete. The result was written nowhere.
 
 “So how do we know?”
 

@@ -128,17 +128,7 @@ Dosyaya baktı.
 
 “Buradan.”
 
-“Kim hazırladı?”
-
-Kâğıdı çevirdi.
-
-Son sayfaya baktı.
-
-“İmza burada.”
-
-“İmza başka birinin.”
-
-“Evet.”
+Kâğıdı hazırlayanı sordum. Son sayfada başka birinin imzası vardı; bunu ikimiz de gördük.
 
 Dosyayı tekrar bana uzattı.
 

@@ -94,19 +94,7 @@ Sonra tekrar açtım.
 
 O gün birlikte çalıştığım yeni kişi yanıma geldi.
 
-“Bir şey mi buldun?”
-
-“Bir dosya.”
-
-“Belli.”
-
-“Bu cümleyi ben yazmıştım.”
-
-Dosyaya baktı.
-
-“Emin misin?”
-
-“Evet.”
+Yeni gelen kişiye dosyada kendi yazdığım cümleyi gösterdim. Bir süre baktı.
 
 “Adın yok.”
 

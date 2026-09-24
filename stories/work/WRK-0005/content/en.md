@@ -44,29 +44,7 @@ Adds.
 
 Everything was in place.
 
-“There is everything here.”
-
-The man looked at the file.
-
-“It's missing again.”
-
-“What were you told was missing?”
-
-"No."
-
-“Did they send the file back?”
-
-"Yes."
-
-“Didn't they write down what was missing?”
-
-The man nodded.
-
-“They just said it was missing.”
-
-He closed the file.
-
-“I don't know what to complete either.”
+The man looked at the file: it had been returned as incomplete again. Nobody had said what was missing. When he closed it, he still did not know what to add.
 
 A red mark was placed on the file.
 

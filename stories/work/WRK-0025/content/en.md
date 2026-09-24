@@ -86,17 +86,7 @@ It will be re-evaluated.
 
 The person at the next table looked up.
 
-"Is there a problem?"
-
-"No."
-
-"Are you sure?"
-
-I nodded.
-
-“Aren't you going to say anything?”
-
-"No."
+The person at the next desk asked twice whether something was wrong. I shook my head as if nothing were, and said no more.
 
 He looked at me for a few seconds.
 

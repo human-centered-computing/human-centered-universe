@@ -66,17 +66,7 @@ Daha küçüktü.
 
 Daha aceleyle yazılmıştı.
 
-“Bunu neden yazdınız?”
-
-“Çünkü diğer kısım benim ne istediğimi anlatmıyor.”
-
-“Ne istiyorsunuz?”
-
-Adam kâğıda baktı.
-
-“İşimin yapılmasını.”
-
-Sonra notu gösterdi.
+Neden not düştüğünü sordum. Formun, yapılmasını istediği işi anlatmadığını söyledi. Notu gösterirken yüzünü ilk kez kaldırdı.
 
 “Bunu yazmazsam yalnızca dosya oluyorum.”
 

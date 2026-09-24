@@ -106,21 +106,7 @@ Contribution
 
 It wasn't filled yet.
 
-Person who brought the file:
-
-“They added this too.”
-
-he said.
-
-"Who?"
-
-“It was discussed at the meeting.”
-
-“Who said that?”
-
-The man squared his shoulders.
-
-"I can't remember."
+The person who brought the file said a new sentence had been added. I learned it had come up in a meeting; no one remembered who had first said it.
 
 He left the file in front of me.
 

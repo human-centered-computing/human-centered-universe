@@ -160,23 +160,7 @@ The result is awaited.
 
 it said.
 
-To the person who brought the file:
-
-“Who is expecting results from?”
-
-I asked.
-
-“From the unit.”
-
-“Which unit?”
-
-“Relevant unit.”
-
-“Which is the relevant unit?”
-
-He thought for a while.
-
-"I don't know."
+I asked the person who brought the file which department owed us an answer. The relevant department, he said, though he could not name it.
 
 One day, I went to the woman sitting in the waiting chair.
 

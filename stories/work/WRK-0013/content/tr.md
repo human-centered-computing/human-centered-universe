@@ -44,23 +44,7 @@ Masadaki kişi damgaya baktı.
 
 dedi.
 
-“Ne eksik?”
-
-Dosyayı açtı.
-
-Sayfaları çevirdi.
-
-“Burada yazıyor.”
-
-“Ne yazıyor?”
-
-“Eksik.”
-
-“Eksik olan ne?”
-
-Adam tekrar ilk sayfaya baktı.
-
-“Bilmiyorum.”
+Neyin eksik olduğunu sordum. Adam dosyayı açıp aynı kelimeyi gösterdi: eksik. Sayfaları çevirdi, fakat eksik olan şeyi bulamadı.
 
 “Peki neden eksik?”
 

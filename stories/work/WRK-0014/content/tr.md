@@ -204,27 +204,7 @@ Sayı doğruydu.
 
 Ertesi gün aynı adamı yeniden masasında gördüm.
 
-“Dinlenmen gerekmiyor muydu?”
-
-“Gerekiyordu.”
-
-“Peki neden buradasın?”
-
-Masasındaki dosyalara baktı.
-
-“Bunlar bekliyor.”
-
-Dosyaları gösterdi.
-
-“Sen olmazsan?”
-
-“Başka biri bakar.”
-
-“Öyleyse?”
-
-Adam sandalyesine oturdu.
-
-“Ben buradayım.”
+Dinlenmesi gerektiğini kendisi de biliyordu. Masasındaki bekleyen işleri gösterdi; o yapmazsa bir başkasının bakabileceğini kabul etti. Yine de sandalyesine geri oturdu: burada olması gerektiğine inanıyordu.
 
 Bir süre sonra gözlerim yanmaya başladı.
 

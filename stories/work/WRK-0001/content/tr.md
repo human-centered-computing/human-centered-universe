@@ -40,19 +40,7 @@ En altta boş bir bölüm.
 
 Oraya ne yazılması gerektiğini bilmiyordum.
 
-Yanımdaki adam kâğıda baktı.
-
-“İlk kez mi?”
-
-“Evet.”
-
-“Birazdan çağırırlar.”
-
-“Ne için?”
-
-Adam omuzlarını kaldırdı.
-
-“İçeri girince anlarsın.”
+Yanımdaki adam ilk günüm olduğunu anlayınca birazdan çağrılacağımı söyledi. Ne için çağrılacağımı bilmiyordu; içeri girince öğrenecektim.
 
 Sonra önündeki kâğıtlara döndü.
 

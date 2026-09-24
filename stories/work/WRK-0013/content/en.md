@@ -44,23 +44,7 @@ The person at the desk looked at the stamp.
 
 he said.
 
-"What is missing?"
-
-He opened the file.
-
-He turned the pages.
-
-“It says here.”
-
-“What does it say?”
-
-"Missing."
-
-“What's missing?”
-
-The man looked at the first page again.
-
-"I don't know."
+I asked what was missing. He opened the file and pointed to the same word: missing. He turned the pages but could not identify what was absent.
 
 “So why is it missing?”
 

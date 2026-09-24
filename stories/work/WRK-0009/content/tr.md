@@ -106,21 +106,7 @@ Katkı
 
 Henüz doldurulmamıştı.
 
-Dosyayı getiren kişi:
-
-“Bunu da eklemişler.”
-
-dedi.
-
-“Kim?”
-
-“Toplantıda konuşuldu.”
-
-“Kim söyledi?”
-
-Adam omuzlarını kaldırdı.
-
-“Hatırlamıyorum.”
+Dosyayı getiren kişi yeni bir cümle eklendiğini söyledi. Kimin söylediğini sorunca toplantıda konuşulduğunu öğrendim; cümleyi ilk kuran kişiyi kimse hatırlamıyordu.
 
 Dosyayı önüme bıraktı.
 

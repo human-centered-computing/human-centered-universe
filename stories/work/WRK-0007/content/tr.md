@@ -68,21 +68,7 @@ Nereye gittiğini de.
 
 Ama aradaki kısmı kimse anlatmıyordu.
 
-Bir kadın elinde kalın bir dosyayla geldi.
-
-“Bunu kendim götüreceğim.”
-
-“Gerek yok.”
-
-“Neden?”
-
-“Usul böyle.”
-
-“Ben götürürsem ne olur?”
-
-Adam dosyaya baktı.
-
-“Gerek yok.”
+Elinde kalın bir dosya taşıyan kadın, onu kendisi götürmek istedi. Görevli usulü gerekçe göstererek izin vermedi; kadın ne olacağını sorduğunda yalnızca aynı cevabı tekrarladı.
 
 Kadın bir süre bekledi.
 

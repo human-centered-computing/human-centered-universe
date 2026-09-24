@@ -70,17 +70,7 @@ Aynı imzalar.
 
 Aynı tarihler.
 
-“Daha önce de görmüştüm.”
-
-“Ne yaptın?”
-
-“Kontrol ettim.”
-
-“Şimdi?”
-
-Soruyu cevaplamadan önce masanın diğer tarafına baktım.
-
-“Şimdi de kontrol ederim.”
+Aynı işi daha önce kontrol ettiğimi söyledim. Şimdi de yeniden bakacaktım; dosyanın değişip değişmediğini bilmiyordum.
 
 Adam başını salladı.
 

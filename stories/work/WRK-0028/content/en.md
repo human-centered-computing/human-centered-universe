@@ -94,19 +94,7 @@ Then I opened it again.
 
 That day, the new person I was working with came to me.
 
-“Did you find something?”
-
-“A file.”
-
-"Clear."
-
-“I wrote this sentence.”
-
-He looked at the file.
-
-"Are you sure?"
-
-"Yes."
+I showed the newcomer a sentence I had written in the file. He looked at it for a while.
 
 “You have no name.”
 

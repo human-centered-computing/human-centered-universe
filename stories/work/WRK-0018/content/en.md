@@ -30,17 +30,7 @@ A man came in the afternoon.
 
 He left the file on the table.
 
-“Is it over?”
-
-I opened the file.
-
-“It's complete here.”
-
-“I'm not asking that.”
-
-“What are you asking?”
-
-"What happened?"
+I pointed to the word completed on the file. The person across from me was asking what had happened in the end, not whether the processing was finished.
 
 I looked at the file again.
 

@@ -76,23 +76,7 @@ Altlarında yine aynı çizgi vardı.
 
 İmza.
 
-Bir belge önüme geldi.
-
-“Burayı imzala.”
-
-Okudum.
-
-“Onaylıyor muyum?”
-
-“Hayır.”
-
-“Öyleyse?”
-
-“Bilgin dâhilinde.”
-
-“İmza aynı mı?”
-
-“İmza aynı.”
+Önüme gelen belgeyi imzalamam istendi. Metni okudum: onay yetkisi başkasındaydı, fakat altında benim imzam bulunacaktı. Bunu söyleyince imzanın aynı kaldığı cevabını aldım.
 
 Kalemi bana uzattı.
 

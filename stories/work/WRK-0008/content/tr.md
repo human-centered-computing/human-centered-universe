@@ -58,21 +58,7 @@ Sonuç?
 
 Altı boştu.
 
-Dosyayı getiren kişiye sordum:
-
-“Bu ne oldu?”
-
-“Tamamlandı.”
-
-“Ne tamamlandı?”
-
-“İşlem.”
-
-“Sonuç?”
-
-Adam dosyaya baktı.
-
-“Orada yazmıyor.”
+Dosyayı getiren kişiye tamamlanan şeyin başvuru mu yoksa yalnızca işlem mi olduğunu sordum. İşlemin bittiği belliydi. Sonucun ne olduğu ise hiçbir yerde yazmıyordu.
 
 “Peki nereden bileceğiz?”
 

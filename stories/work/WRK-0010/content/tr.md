@@ -102,17 +102,7 @@ Bir gün başka bir odaya gittim.
 
 Önünde uzun bir liste duruyordu.
 
-“Bugün kaç kişi?”
-
-diye sordu biri.
-
-“Yetmiş iki.”
-
-“Dün?”
-
-“Altmış sekiz.”
-
-“İyi.”
+Biri listedeki sayıları karşılaştırdı: bugün yetmiş iki kişi vardı, dün altmış sekiz. Artışı iyi bir işaret saydı.
 
 Doktor başını kaldırdı.
 

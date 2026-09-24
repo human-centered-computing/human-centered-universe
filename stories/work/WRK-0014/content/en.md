@@ -204,27 +204,7 @@ The number was correct.
 
 The next day I saw the same man at his desk again.
 
-“Shouldn't you be resting?”
-
-“It was necessary.”
-
-“So why are you here?”
-
-He looked at the files on his desk.
-
-“These are waiting.”
-
-He showed the files.
-
-“If not you?”
-
-“Someone else will look.”
-
-"Then?"
-
-The man sat in his chair.
-
-“I'm here.”
+He knew he needed rest. He pointed to the waiting work on his desk and admitted someone else could take it. Still, he sat down again: he believed he had to be there.
 
 After a while, my eyes started to burn.
 

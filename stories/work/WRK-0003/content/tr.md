@@ -42,19 +42,7 @@ diye sorardı.
 
 Çoğu zaman cevap beklemeden içeri girerlerdi.
 
-Bir gün içeride iki kişi tartışıyordu.
-
-Kapının önünden geçerken sesleri yükseldi.
-
-“Ben öyle söylemedim.”
-
-“Söyledin.”
-
-“Hayır.”
-
-“Duydum.”
-
-“Kim duydu?”
+Bir gün içeride iki kişi, kimin ne söylediği konusunda tartıştı. Kapıdan geçerken sesleri yükseldi; sonunda ikisi de sözlerine tanık olacak birini aradı.
 
 İçeride kısa bir sessizlik oldu.
 

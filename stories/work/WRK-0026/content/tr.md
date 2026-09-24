@@ -36,21 +36,7 @@ Dosyayı masaya bıraktım.
 
 O gün birlikte çalıştığım yeni kişi karşımdaki sandalyeye oturdu.
 
-“Bitti mi?”
-
-“Burada öyle görünüyor.”
-
-“Ben dosyayı sormuyorum.”
-
-“Ne soruyorsun?”
-
-“İş bitti mi?”
-
-Dosyaya tekrar baktım.
-
-“Bütün işlemler yapılmış.”
-
-“Bu cevap değil.”
+Yeni gelen kişi işin bitip bitmediğini sordu. Dosyada bütün işlemler tamamlanmış görünüyordu; bunun gerçek bir sonuç olup olmadığını söyleyemedim.
 
 Bir süre sessiz kaldık.
 

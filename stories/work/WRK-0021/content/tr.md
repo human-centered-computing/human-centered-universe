@@ -20,25 +20,7 @@ Bilgisayarın ekranında bir pencere açık kalmıştı.
 
 O gün birlikte çalıştığım yeni kişi masanın yanında durdu.
 
-“Burası boş mu?”
-
-“Şimdilik.”
-
-“Kim oturuyordu?”
-
-Bir süre düşündüm.
-
-“Bilmiyorum.”
-
-Bana baktı.
-
-“Bilmiyor musun?”
-
-“Adını biliyorum.”
-
-“Kim?”
-
-Adını söyledim.
+Yeni gelen kişi boş masada kimin oturduğunu sordu. Bir süre düşündüm. Çalışanın adını biliyordum, ama o masada bıraktığı şeyleri anlatacak kadar tanımamıştım. Adını söyledim.
 
 Yeni gelen kişi bilgisayara baktı.
 

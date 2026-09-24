@@ -128,17 +128,7 @@ He looked at the file.
 
 "From here."
 
-“Who prepared it?”
-
-He turned the paper over.
-
-He looked at the last page.
-
-“Signature here.”
-
-“It's someone else's signature.”
-
-"Yes."
+I asked who had prepared the paper. The last page bore someone else's signature; we both saw it.
 
 He handed me the file again.
 

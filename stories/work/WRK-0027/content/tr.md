@@ -36,15 +36,7 @@ Bir süre eşikte kaldım.
 
 Arkamdan biri geldi.
 
-“Çıkacak mısın?”
-
-“Bilmiyorum.”
-
-“Kapı açık.”
-
-“Görüyorum.”
-
-“Öyleyse çık.”
+Arkamdaki kişi kapının açık olduğunu hatırlattı. Biliyordum. Yine de eşiği geçmek için bir an daha bekledim.
 
 Kapıdan geçtim.
 

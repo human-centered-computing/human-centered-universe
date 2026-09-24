@@ -68,21 +68,7 @@ And where you're going.
 
 But no one was explaining the part in between.
 
-A woman came with a thick file in her hand.
-
-“I'll take this myself.”
-
-"There's no need."
-
-"From where?"
-
-“This is the way.”
-
-“What happens if I take it?”
-
-The man looked at the file.
-
-"There's no need."
+A woman carrying a thick file wanted to deliver it herself. The clerk invoked procedure and refused; when she asked what would happen if she did, he merely repeated himself.
 
 The woman waited for a while.
 

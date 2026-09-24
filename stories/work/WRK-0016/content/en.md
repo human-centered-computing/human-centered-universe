@@ -72,19 +72,7 @@ It will be checked again.
 
 it said.
 
-“Checked.”
-
-he said.
-
-"Yes."
-
-“So why again?”
-
-“We'll see again.”
-
-“What will we look for?”
-
-I didn't answer.
+I said it had already been checked. I would repeat the work without knowing what we were looking for. The person across from me could not explain why.
 
 I left the paper on my desk.
 

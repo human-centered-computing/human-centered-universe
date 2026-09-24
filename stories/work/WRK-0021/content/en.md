@@ -20,25 +20,7 @@ A window remained open on the computer screen.
 
 The new person I was working with that day stood next to the table.
 
-“Is this place empty?”
-
-"Now."
-
-“Who was sitting?”
-
-I thought for a while.
-
-"I don't know."
-
-He looked at me.
-
-“Don't you know?”
-
-“I know your name.”
-
-"Who?"
-
-I said your name.
+The newcomer asked who had sat at the empty desk. I paused. I knew the worker's name, but not enough about the things they had left there. I told him the name.
 
 The newcomer looked at the computer.
 

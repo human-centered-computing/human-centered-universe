@@ -36,21 +36,7 @@ I left the file on the table.
 
 The new person I was working with that day sat in the chair across from me.
 
-“Is it over?”
-
-“That's what it looks like here.”
-
-“I'm not asking about the file.”
-
-“What are you asking?”
-
-“Is the job done?”
-
-I looked at the file again.
-
-“All procedures have been completed.”
-
-“This is not the answer.”
+The newcomer asked whether the work was finished. Every step in the file appeared complete; I could not say whether anything had actually been achieved.
 
 We remained silent for a while.
 

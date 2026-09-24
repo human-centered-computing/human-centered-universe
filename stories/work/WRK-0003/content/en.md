@@ -42,19 +42,7 @@ he would ask.
 
 Most of the time they would come in without waiting for an answer.
 
-One day, two people were arguing inside.
-
-Their voices got louder as they passed the door.
-
-“I didn't say that.”
-
-“You said it.”
-
-"No."
-
-"I heard."
-
-“Who heard?”
+One day, two people inside argued about who had said what. Their voices rose as I passed the door; eventually both looked for someone to confirm their words.
 
 There was a short silence inside.
 

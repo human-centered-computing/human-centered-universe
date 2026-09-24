@@ -84,21 +84,7 @@ He wrote his name underneath.
 
 Then he stopped.
 
-“Did you add it too?”
-
-"Not yet."
-
-"What have you done?"
-
-I showed him the first page of the file.
-
-“I changed the wording here.”
-
-“Did you write that?”
-
-"Yes."
-
-“Then write.”
+I said I had changed the wording on the first page. The newcomer asked me to put my name beside the change.
 
 I took the pen.
 

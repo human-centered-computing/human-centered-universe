@@ -114,21 +114,7 @@ Wrong record.
 
 Process again.
 
-One person:
-
-“This has all been fixed.”
-
-he said.
-
-“How many mistakes are left?”
-
-"Fly."
-
-"Last month?"
-
-"Eleven."
-
-"Good morning my baby."
+At the meeting they counted corrected records. The number of errors had fallen from eleven last month to three, and they called it good news.
 
 The number on the screen had changed.
 

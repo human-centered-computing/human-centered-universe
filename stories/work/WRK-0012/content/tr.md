@@ -160,23 +160,7 @@ Sonuç beklenmektedir.
 
 yazıyordu.
 
-Dosyayı getiren kişiye:
-
-“Kimden sonuç bekleniyor?”
-
-diye sordum.
-
-“Birimden.”
-
-“Hangi birim?”
-
-“İlgili birim.”
-
-“İlgili birim hangisi?”
-
-Bir süre düşündü.
-
-“Bilmiyorum.”
+Dosyayı getiren kişiye sonucun hangi birimden beklendiğini sordum. İlgili birimden, dedi; hangi birim olduğunu ise bilmiyordu.
 
 Bir gün bekleme sandalyesinde oturan kadının yanına gittim.
 

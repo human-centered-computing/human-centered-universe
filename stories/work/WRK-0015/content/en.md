@@ -46,23 +46,7 @@ It was the same information.
 
 In another order.
 
-When I finished, I submitted the file.
-
-“Did it happen?”
-
-“It will be checked again.”
-
-“What will change?”
-
-He looked at the file.
-
-“It will be redone if necessary.”
-
-“Who will decide?”
-
-He looked at the name on the paper.
-
-“It says here.”
+The completed table would be checked again, though no one said what needed to change. The supervisor pointed to the name on the paper as the person who would decide.
 
 Then he moved on to another file.
 

@@ -30,17 +30,7 @@ Onun da son sayfasında aynı cümle bulunuyordu.
 
 Dosyayı masanın üzerine bıraktı.
 
-“Bitti mi?”
-
-Dosyayı açtım.
-
-“Burada tamamlanmış.”
-
-“Ben onu sormuyorum.”
-
-“Ne soruyorsun?”
-
-“Ne oldu?”
+Dosyanın üzerinde tamamlandı yazısını gösterdim. Karşımdaki kişi işlemi değil, sonunda ne olduğunu soruyordu.
 
 Dosyaya tekrar baktım.
 

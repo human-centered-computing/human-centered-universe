@@ -70,17 +70,7 @@ Same signatures.
 
 Same dates.
 
-“I've seen it before.”
-
-"What have you done?"
-
-“I checked.”
-
-"Now?"
-
-I looked across the table before answering the question.
-
-“I'll check it now.”
+I said I had checked the same work before. I would check it again now, though I did not know whether the file had changed.
 
 The man nodded.
 

@@ -74,15 +74,7 @@ The newcomer changed one line.
 
 Then he looked at his old self.
 
-“Who changed this?”
-
-“Previous person.”
-
-"Why?"
-
-"I don't know."
-
-“So is the change correct?”
+The newcomer asked who had made the change and why. I knew the previous worker's name, but not the reason.
 
 I looked at the file.
 

@@ -36,15 +36,7 @@ I stood on the threshold for a while.
 
 Someone came behind me.
 
-“Are you going to come out?”
-
-"I don't know."
-
-“The door is open.”
-
-“I see.”
-
-“Then get out.”
+The person behind me reminded me the door was open. I knew. Still, I waited another moment before crossing the threshold.
 
 I passed through the door.
 

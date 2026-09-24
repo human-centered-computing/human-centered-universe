@@ -104,17 +104,7 @@ I saw the doctor at lunchtime.
 
 He had a list in his hand.
 
-“How many people today?”
-
-“Seventy-eight.”
-
-"Yesterday?"
-
-“Seventy-three.”
-
-Closed the list.
-
-“More today.”
+He compared the numbers on the list: seventy-eight people today, seventy-three yesterday. For him, the increase was result enough.
 
 A patient came down the hall.
 

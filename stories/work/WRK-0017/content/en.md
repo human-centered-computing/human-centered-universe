@@ -56,19 +56,7 @@ In the afternoon, my colleague who started work that day stopped by my desk.
 
 He showed the file in his hand.
 
-“Who prepared this?”
-
-I looked at the cover.
-
-"I don't know."
-
-“There are names in it.”
-
-"Yes."
-
-“There is no one who prepares it.”
-
-"Yes."
+It was not clear who had prepared the file. Many names appeared beside its transactions, but not the preparer's.
 
 He opened the file.
 

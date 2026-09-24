@@ -66,17 +66,7 @@ It was smaller.
 
 It was written more hastily.
 
-“Why did you write this?”
-
-“Because the other part doesn't explain what I want.”
-
-“What do you want?”
-
-The man looked at the paper.
-
-“Get my job done.”
-
-Then he showed the note.
+I asked why he had added the note. The form, he said, did not explain what he needed done. He looked up for the first time as he showed me his note.
 
 “If I don't write this, I'm just a file.”
 

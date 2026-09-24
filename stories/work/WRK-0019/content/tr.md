@@ -104,17 +104,7 @@ Dosyalara baktığımda ise aynı şeyi düşünemedim.
 
 Elinde bir liste vardı.
 
-“Bugün kaç kişi?”
-
-“Yetmiş sekiz.”
-
-“Dün?”
-
-“Yetmiş üç.”
-
-Listeyi kapattı.
-
-“Bugün daha fazla.”
+Listedeki sayıları karşılaştırdı: bugün yetmiş sekiz kişi vardı, dün yetmiş üç. Artmış olması onun için yeterli bir sonuçtu.
 
 Koridordan bir hasta geldi.
 

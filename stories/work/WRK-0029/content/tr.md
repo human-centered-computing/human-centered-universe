@@ -40,17 +40,7 @@ Benimki yoktu.
 
 O gün birlikte çalıştığım yeni kişi masama yaklaştı.
 
-“Bu dosyayı sen mi hazırladın?”
-
-“Hayır.”
-
-“Peki bu cümle?”
-
-“Ben yazdım.”
-
-“Burada adın yok.”
-
-“Biliyorum.”
+Yeni gelen kişi dosyayı kimin hazırladığını sordu. Ben hazırlamamıştım, ama içindeki cümlelerden biri bana aitti. Adımın yazmadığını ikimiz de gördük.
 
 Dosyayı tekrar kapattı.
 

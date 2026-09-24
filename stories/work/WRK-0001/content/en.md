@@ -40,19 +40,7 @@ An empty section at the bottom.
 
 I didn't know what should be written there.
 
-The man next to me looked at the paper.
-
-“First time?”
-
-"Yes."
-
-“They will call soon.”
-
-"Why?"
-
-The man squared his shoulders.
-
-“You'll understand once you get in.”
+The man beside me realized it was my first day and said they would call me soon. He did not know what for; I would find out inside.
 
 Then he turned to the papers in front of him.
 

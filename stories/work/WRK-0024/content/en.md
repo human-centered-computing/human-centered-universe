@@ -10,19 +10,7 @@ The new person I was working with that day collected them.
 
 I liked the question; For years, when asked, I said "Do it" without thinking. I thought sharing the work was help. But one of the papers I left on the table was merely a new reproduction of the cover text. If I gave it to him even though I knew it wasn't necessary, I would be using someone else's diligence to clear my own desk. “Let's find out what it will do first,” I said. This answer did not diminish his enthusiasm; He was admitting that I owed him a reason.
 
-“Which ones?”
-
-“Those.”
-
-He showed the papers.
-
-“These are none of your business.”
-
-“Who will?”
-
-"I don't know."
-
-“I can do it.”
+He showed me the papers. I said one of those tasks did not need to be assigned to him. He was willing to help; I was afraid of passing on pointless work.
 
 I looked at him for a moment.
 

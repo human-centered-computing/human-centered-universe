@@ -74,15 +74,7 @@ Yeni gelen kişi bir satırı değiştirdi.
 
 Sonra eski hâline baktı.
 
-“Bunu kim değiştirmiş?”
-
-“Önceki kişi.”
-
-“Niye?”
-
-“Bilmiyorum.”
-
-“Peki değişiklik doğru mu?”
+Yeni gelen kişi değişikliğin kim tarafından, neden yapıldığını sordu. Önceki çalışanın adını biliyordum; nedenini bilmiyordum.
 
 Dosyaya baktım.
 

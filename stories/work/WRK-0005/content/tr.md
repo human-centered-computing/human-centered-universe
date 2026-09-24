@@ -44,29 +44,7 @@ Ekler.
 
 Hepsi yerindeydi.
 
-“Burada her şey var.”
-
-Adam dosyaya baktı.
-
-“Yine eksik.”
-
-“Size neyin eksik olduğu söylendi?”
-
-“Hayır.”
-
-“Dosyayı geri mi gönderdiler?”
-
-“Evet.”
-
-“Eksik olanı yazmadılar mı?”
-
-Adam başını salladı.
-
-“Yalnızca eksik dediler.”
-
-Dosyayı kapattı.
-
-“Ben de neyi tamamlayacağımı bilmiyorum.”
+Adam dosyaya baktı: başvuru yine eksik diye geri dönmüştü. Neyin eksik olduğu belirtilmemişti. Dosyayı kapattığında neyi tamamlayacağını o da bilmiyordu.
 
 Dosyanın üzerine kırmızı bir işaret konmuştu.
 
