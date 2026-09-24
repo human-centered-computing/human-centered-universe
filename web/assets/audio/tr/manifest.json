@@ -412,6 +412,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "WRK-0018",
+      "title": "Sonuç",
+      "file": "./WRK-0018.mp3",
+      "duration_seconds": 414.067,
+      "bytes": 4969161,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: Gecede Açılan Göz",
       "file": "./HUM-0001.mp3",
