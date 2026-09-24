@@ -224,16 +224,16 @@
     },
     {
       "id": "WRK-0001",
-      "title": "The Threshold",
+      "title": "Threshold",
       "file": "./WRK-0001.mp3",
-      "duration_seconds": 230.583,
-      "bytes": 2767352,
+      "duration_seconds": 602.828,
+      "bytes": 7234291,
       "engine": "Piper",
       "voice": "en_US-lessac-medium"
     },
     {
       "id": "WRK-0002",
-      "title": "The Place",
+      "title": "Place",
       "file": "./WRK-0002.mp3",
       "duration_seconds": 280.372,
       "bytes": 3364825,
@@ -242,7 +242,7 @@
     },
     {
       "id": "WRK-0004",
-      "title": "The Paper",
+      "title": "Paper",
       "file": "./WRK-0004.mp3",
       "duration_seconds": 136.568,
       "bytes": 1639176,
@@ -251,7 +251,7 @@
     },
     {
       "id": "WRK-0016",
-      "title": "What Becomes Visible",
+      "title": "The Same",
       "file": "./WRK-0016.mp3",
       "duration_seconds": 410.54,
       "bytes": 4926843,
