@@ -259,6 +259,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "WRK-0005",
+      "title": "Emptiness",
+      "file": "./WRK-0005.mp3",
+      "duration_seconds": 401.293,
+      "bytes": 4815875,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "WRK-0016",
       "title": "The Same",
       "file": "./WRK-0016.mp3",
