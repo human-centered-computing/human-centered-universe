@@ -430,6 +430,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "WRK-0024",
+      "title": "The Extra",
+      "file": "./WRK-0024.mp3",
+      "duration_seconds": 282.514,
+      "bytes": 3390529,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
