@@ -358,6 +358,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "WRK-0012",
+      "title": "Bekleyen",
+      "file": "./WRK-0012.mp3",
+      "duration_seconds": 441.678,
+      "bytes": 5300498,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "WRK-0016",
       "title": "Aynı",
       "file": "./WRK-0016.mp3",
