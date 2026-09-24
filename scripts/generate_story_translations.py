@@ -12,7 +12,7 @@ WORK memoirs, English is translated from the original Turkish text and is
 never represented as human-reviewed or canonical before review.
 """
 from pathlib import Path
-import argparse, json, os, re, time, urllib.request, urllib.error
+import argparse, json, os, re, time, urllib.request, urllib.error, urllib.parse
 
 ROOT = Path(__file__).resolve().parents[1]
 STORIES = ROOT / "stories"
@@ -115,13 +115,66 @@ def translate_argos(source: str, english_title: str, engine) -> str:
     return result
 
 
+def translate_google(source: str, english_title: str) -> str:
+    """Translate public Turkish prose in small requests; retain Markdown blocks."""
+    cache = {}
+
+    def request(chunk: str) -> str:
+        if chunk in cache:
+            return cache[chunk]
+        params = urllib.parse.urlencode({"client": "gtx", "sl": "tr", "tl": "en",
+                                         "dt": "t", "q": chunk})
+        req = urllib.request.Request(
+            "https://translate.googleapis.com/translate_a/single?" + params,
+            headers={"User-Agent": "Mozilla/5.0 Human-Centered-Universe-Translation/1.0"})
+        for attempt in range(4):
+            try:
+                with urllib.request.urlopen(req, timeout=40) as response:
+                    data = json.load(response)
+                result = "".join(part[0] or "" for part in data[0]).strip()
+                if not result:
+                    raise RuntimeError("Translation service returned empty text")
+                cache[chunk] = result
+                time.sleep(.18)
+                return result
+            except (urllib.error.URLError, TimeoutError) as error:
+                if attempt == 3:
+                    raise RuntimeError(f"Translation service unavailable: {error}") from error
+                time.sleep(2 ** attempt)
+        raise AssertionError("unreachable")
+
+    body = re.sub(r"^#\s+[^\n]+\n*", "", source).strip()
+    blocks = [block.strip() for block in re.split(r"\n\s*\n", body) if block.strip()]
+    translated = []
+    index = 0
+    while index < len(blocks):
+        if blocks[index] in {"***", "---"}:
+            translated.append(blocks[index]); index += 1; continue
+        group = []
+        while index < len(blocks) and blocks[index] not in {"***", "---"}:
+            candidate = blocks[index]
+            if group and len("\n\n".join(group)) + len(candidate) > 900:
+                break
+            group.append(candidate); index += 1
+        joined = "\n\n".join(group)
+        output = request(joined)
+        split = re.split(r"\n\s*\n", output)
+        if len(split) != len(group):
+            split = [request(part) for part in group]
+        translated.extend(part.strip() for part in split)
+    result = "# " + english_title + "\n\n" + "\n\n".join(translated).strip() + "\n"
+    if len(result.split()) < len(source.split()) * .45:
+        raise RuntimeError("English output is unexpectedly short; refusing partial translation")
+    return result
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--langs", default="", help="Comma-separated codes; default: all configured languages except en,tr")
     ap.add_argument("--force", action="store_true", help="Overwrite existing target files")
     ap.add_argument("--limit", type=int, default=0, help="Process at most N story-language pairs")
     ap.add_argument("--sleep", type=float, default=0.4, help="Delay between API calls")
-    ap.add_argument("--provider", choices=("auto", "api", "argos"), default="auto")
+    ap.add_argument("--provider", choices=("auto", "api", "argos", "google"), default="auto")
     args = ap.parse_args()
 
     has_api = all(os.environ.get(name, "").strip() for name in
@@ -140,8 +193,8 @@ def main():
     unknown = [x for x in targets if x not in info]
     if unknown:
         raise SystemExit(f"Unsupported language code(s): {', '.join(unknown)}")
-    if provider == "argos" and targets != ["en"]:
-        raise SystemExit("The offline model currently supports only tr→en WORK translations")
+    if provider in {"argos", "google"} and targets != ["en"]:
+        raise SystemExit("This provider currently supports only tr→en WORK translations")
     engine = install_argos_turkish_english() if provider == "argos" else None
     processed = 0
     for mp in sorted(STORIES.rglob("meta.json")):
@@ -175,6 +228,9 @@ def main():
             if provider == "argos":
                 english_title = meta.get("localized", {}).get("en", {}).get("title", meta["title"])
                 translated = translate_argos(source, english_title, engine)
+            elif provider == "google":
+                english_title = meta.get("localized", {}).get("en", {}).get("title", meta["title"])
+                translated = translate_google(source, english_title)
             else:
                 translated = call_chat(api_base, api_key, model, label, lang,
                                        source_name, source_code, source)
