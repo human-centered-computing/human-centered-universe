@@ -7,15 +7,21 @@ Required environment variables:
   TRANSLATION_API_BASE   e.g. https://provider.example/v1
   TRANSLATION_MODEL
 
-Generated non-English files are declared as machine_draft in meta.json.
-English remains canonical and is never overwritten.
+Generated files are declared as machine_draft in meta.json. For the Turkish
+WORK memoirs, English is translated from the original Turkish text and is
+never represented as human-reviewed or canonical before review.
 """
 from pathlib import Path
 import argparse, json, os, time, urllib.request, urllib.error
 
 ROOT = Path(__file__).resolve().parents[1]
 STORIES = ROOT / "stories"
-CONFIG = ROOT / "config" / "supported-languages.json"
+CONFIG = ROOT / "config" / "language-policy.json"
+LANGUAGE_NAMES = {
+    "en": "English", "tr": "Turkish", "de": "German", "es": "Spanish",
+    "fr": "French", "it": "Italian", "ru": "Russian", "zh-CN": "Simplified Chinese",
+    "ja": "Japanese", "ar": "Arabic", "ku": "Kurdish", "pt": "Portuguese",
+}
 
 
 def env(name: str) -> str:
@@ -25,18 +31,20 @@ def env(name: str) -> str:
     return value
 
 
-def call_chat(api_base: str, api_key: str, model: str, target_name: str, target_code: str, source: str) -> str:
+def call_chat(api_base: str, api_key: str, model: str, target_name: str, target_code: str,
+              source_name: str, source_code: str, source: str) -> str:
     url = api_base.rstrip("/") + "/chat/completions"
     system = (
         "You are a literary translator for Human-Centered Universe. Translate faithfully, not creatively. "
-        "Preserve Markdown structure, headings, blockquotes, horizontal rules, emphasis, proper names, story IDs, "
+        "Preserve Markdown structure, headings, blockquotes, horizontal rules, emphasis, dialogue, proper names, story IDs, "
         "HUMAN/LIGHT/DARK architecture terms when they are technical labels, and all factual meaning. "
         "Do not summarize, omit, add commentary, or wrap the answer in code fences. "
         "Return only the translated Markdown."
     )
     user = (
         f"Target language: {target_name} ({target_code}).\n"
-        "Translate the following canonical English story into the target language.\n\n"
+        f"Translate this complete {source_name} ({source_code}) story into {target_name}. "
+        "Keep every scene, paragraph and the literary rhythm.\n\n"
         "--- SOURCE START ---\n" + source + "\n--- SOURCE END ---"
     )
     payload = json.dumps({
@@ -83,28 +91,30 @@ def main():
     model = env("TRANSLATION_MODEL")
 
     cfg = json.loads(CONFIG.read_text(encoding="utf-8"))
-    info = {x["code"]: x for x in cfg["languages"]}
-    default_targets = [x["code"] for x in cfg["languages"] if x["code"] not in {"en", "tr"}]
+    info = {code: LANGUAGE_NAMES.get(code, code) for code in cfg["supported_languages"]}
+    default_targets = [code for code in cfg["supported_languages"] if code not in {"en", "tr"}]
     targets = [x.strip() for x in args.langs.split(",") if x.strip()] or default_targets
     unknown = [x for x in targets if x not in info]
     if unknown:
         raise SystemExit(f"Unsupported language code(s): {', '.join(unknown)}")
-    if "en" in targets:
-        raise SystemExit("English is canonical and cannot be generated as a translation")
-
     processed = 0
     for mp in sorted(STORIES.rglob("meta.json")):
         meta = json.loads(mp.read_text(encoding="utf-8"))
         sid = meta.get("id", mp.parent.name)
-        source_path = mp.parent / "content" / "en.md"
-        if not source_path.exists():
-            print(f"SKIP {sid}: missing content/en.md")
-            continue
-        source = source_path.read_text(encoding="utf-8")
         translations = meta.setdefault("translations", {})
-        english_meta = translations.setdefault("en", {})\n        english_meta.update({"status": "canonical", "human_reviewed": True})
 
         for lang in targets:
+            if lang == "en":
+                if not (meta.get("core") == "WORK" and meta.get("source_language") == "tr"
+                        and meta.get("translation_policy") == "source_only_until_reviewed"):
+                    continue
+                source_code, source_name = "tr", "Turkish"
+            else:
+                source_code, source_name = "en", "English"
+            source_path = mp.parent / "content" / f"{source_code}.md"
+            if not source_path.exists():
+                print(f"SKIP {sid}/{lang}: missing {source_path.name}")
+                continue
             target_path = mp.parent / "content" / f"{lang}.md"
             if target_path.exists() and not args.force:
                 print(f"SKIP {sid}/{lang}: exists")
@@ -113,11 +123,13 @@ def main():
                 print("Limit reached")
                 return
 
-            label = info[lang]["name"]
-            print(f"TRANSLATE {sid}: en -> {lang} ({label})")
-            translated = call_chat(api_base, api_key, model, label, lang, source)
+            label = info[lang]
+            print(f"TRANSLATE {sid}: {source_code} -> {lang} ({label})")
+            translated = call_chat(api_base, api_key, model, label, lang,
+                                   source_name, source_code, source_path.read_text(encoding="utf-8"))
             target_path.write_text(translated, encoding="utf-8")
-            translations[lang] = {"status": "machine_draft", "human_reviewed": False}
+            translations[lang] = {"status": "machine_draft", "human_reviewed": False,
+                                  "source_language": source_code}
             mp.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
             processed += 1
             if args.sleep:

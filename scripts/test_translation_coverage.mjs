@@ -55,8 +55,13 @@ for (const metaPath of collectMetaFiles(path.join(root, "stories"))) {
     if (!fs.existsSync(source) || !fs.readFileSync(source, "utf8").trim()) {
       throw new Error(`${meta.id}/tr: missing Turkish editorial source`);
     }
-    if (translations.en || fs.existsSync(path.join(path.dirname(metaPath), "content", "en.md"))) {
-      throw new Error(`${meta.id}/en: an English translation must not be advertised before review`);
+    const english = path.join(path.dirname(metaPath), "content", "en.md");
+    const hasEnglish = fs.existsSync(english);
+    if (hasEnglish !== Boolean(translations.en)) {
+      throw new Error(`${meta.id}/en: content and translation metadata must agree`);
+    }
+    if (hasEnglish && (translations.en.status !== "machine_draft" || translations.en.human_reviewed !== false || translations.en.source_language !== "tr")) {
+      throw new Error(`${meta.id}/en: Turkish-source translation must remain an unreviewed machine draft`);
     }
     continue;
   }

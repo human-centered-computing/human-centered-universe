@@ -4,7 +4,7 @@ import argparse, json
 
 ROOT = Path(__file__).resolve().parents[1]
 STORIES = ROOT / "stories"
-CONFIG = ROOT / "config" / "supported-languages.json"
+CONFIG = ROOT / "config" / "language-policy.json"
 
 def main():
     ap = argparse.ArgumentParser()
@@ -12,7 +12,7 @@ def main():
     args = ap.parse_args()
 
     cfg = json.loads(CONFIG.read_text(encoding="utf-8"))
-    langs = [x["code"] for x in cfg["languages"]]
+    langs = cfg["supported_languages"]
     metas = sorted(STORIES.rglob("meta.json"))
     counts = {lang: 0 for lang in langs}
     missing = {lang: [] for lang in langs}
@@ -44,7 +44,7 @@ def main():
     out.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Report: {out.relative_to(ROOT)}")
 
-    configured_noncanonical = [x["code"] for x in cfg["languages"] if x["code"] not in {"en", "tr"}]
+    configured_noncanonical = [code for code in langs if code not in {"en", "tr"}]
     if args.strict and any(missing[x] for x in configured_noncanonical):
         raise SystemExit(2)
 

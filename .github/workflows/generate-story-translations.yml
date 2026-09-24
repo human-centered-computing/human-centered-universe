@@ -10,7 +10,7 @@ on:
       languages:
         description: "Comma-separated language codes, e.g. de,es,fr,ru,zh-CN,ja,ar,ku,pt,it"
         required: false
-        default: "de,es,fr,it,ru,zh-CN,ja,ar,ku,pt"
+        default: "en"
       force:
         description: "Overwrite existing translation files"
         required: false
@@ -41,7 +41,9 @@ jobs:
         run: |
           FORCE=""
           if [ "${{ inputs.force }}" = "true" ]; then FORCE="--force"; fi
-          python scripts/generate_story_translations.py --langs "${{ inputs.languages }}" $FORCE
+          LANGS="${{ inputs.languages }}"
+          if [ -z "$LANGS" ]; then LANGS="en"; fi
+          python scripts/generate_story_translations.py --langs "$LANGS" $FORCE
 
       - name: Validate universe
         run: python scripts/validate_universe.py
