@@ -187,6 +187,26 @@ function choiceLabel(choice, locale=state.locale){
   }
   return choice.label || choice.key || "";
 }
+function localizedChoiceValue(value, locale=state.locale){
+  if(value&&typeof value==="object") return value[locale] || value.en || Object.values(value)[0] || "";
+  return value || "";
+}
+function epistemicPanel(story){
+  const layers=story?.choice_epistemic_layers;
+  if(!layers?.notes) return "";
+  const labels=layers.labels?.[state.locale] || layers.labels?.en || {};
+  const order=["established_science","real_engineering","interpretation","philosophy","belief_cultural_meaning","science_fiction","quantum_note"];
+  const items=order.filter(key=>layers.notes[key]).map(key=>`<div class="epistemic-row"><dt>${escapeHtml(labels[key]||key.replaceAll("_"," "))}</dt><dd>${escapeHtml(localizedChoiceValue(layers.notes[key]))}</dd></div>`).join("");
+  return `<details class="epistemic-notes"><summary>${escapeHtml(labels.heading||"How this scene knows what it knows")}</summary><dl>${items}</dl></details>`;
+}
+function branchOutcome(story, choice){
+  const branch=choice?.branch; if(!branch) return "";
+  const target=storyById(branch.target);
+  const heading=localizedChoiceValue(branch.heading) || "The vibration answers";
+  const outcome=localizedChoiceValue(branch.outcome);
+  const cta=localizedChoiceValue(branch.cta) || "Follow this echo";
+  return `<section class="branch-outcome" aria-live="polite"><span class="branch-kicker">FIRST VIBRATION</span><h3>${escapeHtml(heading)}</h3><p>${escapeHtml(outcome)}</p>${epistemicPanel(story)}${target?`<button type="button" class="action-button primary" data-story="${escapeHtml(target.id)}">${escapeHtml(cta)} → ${escapeHtml(storyTitle(target))}</button>`:""}</section>`;
+}
 function recommendNext(currentId){
   const ranked=observerEngine?.rankRecommendations({stories:orderedStories(),currentId,readIds:[...state.readIds],profile:observerState(),path:state.path});
   if(ranked) return ranked[0]||null;
@@ -259,6 +279,7 @@ function renderRead(){
   }).join("");
   const recordedDefinition=recorded?choices.find(choice=>choice.key===recorded.key):null;
   const choiceStatus=recorded?`<div class="choice-recorded" role="status"><strong>${escapeHtml(t("choice_recorded","Choice recorded"))}</strong><span>${escapeHtml(recordedDefinition?choiceLabel(recordedDefinition):(recorded.label||recorded.key||""))}</span></div>`:"";
+  const branchStatus=recordedDefinition?branchOutcome(story,recordedDefinition):"";
   const recommendation=next?`<div class="recommendation"><span>${t("recommended_next","Recommended next story")}</span><button data-story="${next.id}"><strong>${escapeHtml(storyTitle(next))}</strong><small>${centerLabel(primaryCenter(next))} · ${formatWeights(storyWeights(next))}</small><small class="recommendation-reason">${escapeHtml(recommendationReason(nextResult))}</small></button></div>`:"";
 
   app.innerHTML=`<section class="reader-layout">
@@ -270,7 +291,7 @@ function renderRead(){
       ${workHeading}
       ${storyHero(story)}
       <div class="story-content">${markdownToHtml(readingContent)}</div>
-      <section class="choice-panel"><h2>${t("choose_path","Choose what calls you next")}</h2><p class="muted">${t("choice_help","Preview how a choice changes your Observer State, then confirm it once. The recommendation uses your complete profile, story connections, and recent path; you remain free to choose any node.")}</p>${choiceStatus}<div class="choice-grid">${choiceButtons}</div><div id="choice-preview" class="choice-preview" hidden></div></section>
+      <section class="choice-panel"><h2>${t("choose_path","Choose what calls you next")}</h2><p class="muted">${t("choice_help","Preview how a choice changes your Observer State, then confirm it once. The recommendation uses your complete profile, story connections, and recent path; you remain free to choose any node.")}</p>${choiceStatus}${branchStatus}<div class="choice-grid">${choiceButtons}</div><div id="choice-preview" class="choice-preview" hidden></div></section>
       <div class="reader-toolbar"><button class="action-button" id="back-path" ${!backId?"disabled":""}>← ${t("back_in_path","Back in my path")}</button><button class="action-button" id="mark-read">${state.readIds.has(story.id)?t("read_again","Read again"):t("mark_read","Mark as read")}</button><button class="action-button primary" id="open-explore">${t("other_possibilities","Explore other possibilities")}</button></div>
       ${recommendation}
     </article>

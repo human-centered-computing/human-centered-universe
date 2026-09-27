@@ -26,6 +26,10 @@ jobs:
       - name: Test Observer flow v2
         run: node scripts/test_observer_flow.cjs
 
+      - name: Test FIRST VIBRATION branches
+        run: node scripts/test_first_vibration_branches.mjs
+
+
       - name: Test multilingual coverage
         run: node scripts/test_translation_coverage.mjs
 
