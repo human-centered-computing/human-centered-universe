@@ -20,6 +20,8 @@ for(const choice of meta.observer_choices){
   assert.deepEqual(Object.keys(choice.effects).sort(),["DARK","HUMAN","LIGHT"]);
   assert.ok(choice.effects[rule.center]>Math.max(...Object.entries(choice.effects).filter(([key])=>key!==rule.center).map(([,value])=>value)));
   assert.equal(choice.branch.target,rule.target);
+  const legacyKey={HUMAN:"human_direction",LIGHT:"light_direction",DARK:"dark_direction"}[rule.center];
+  assert.deepEqual(choice.legacy_keys,[legacyKey]);
   assert.ok(meta.links.some(link=>link.target===rule.target),"Branch must use an existing canonical link");
   for(const language of languages){
     assert.ok(choice.labels[language],`Missing ${language} label for ${choice.key}`);
@@ -52,6 +54,8 @@ assert.deepEqual(new Set(shots.map(shot=>shot.choice_key)),new Set(Object.keys(e
 assert.ok(meta.scene_3d_vertical_slice.accessibility.some(item=>/keyboard/i.test(item)));
 assert.ok(meta.scene_3d_vertical_slice.accessibility.some(item=>/reduced-motion/i.test(item)));
 
+assert.match(app,/function choiceMatchesRecord\(/);
+assert.match(app,/legacy_keys\.includes\(record\.key\)/);
 assert.match(app,/function branchOutcome\(/);
 assert.match(app,/function epistemicPanel\(/);
 assert.match(app,/const branchStatus=recordedDefinition\?branchOutcome/);
