@@ -161,5 +161,414 @@
       "summary": "Antes do início do tempo, a Luz e a Escuridão surgem com a primeira vibração. As emoções nascem como forças relacionais cuja direção moral não é predeterminada, e a humanidade aparece como a possibilidade de transformar o conflito em relação."
     }
   },
-  "translation_working_source_language": "tr"
+  "translation_working_source_language": "tr",
+  "observer_choices": [
+    {
+      "key": "hold_the_relation",
+      "label": "Hold Light and Darkness in relation until a human meaning emerges.",
+      "labels": {
+        "en": "Hold Light and Darkness in relation until a human meaning emerges.",
+        "tr": "İnsani bir anlam doğana kadar Aydınlık ile Karanlığı ilişki içinde tut.",
+        "de": "Halte Licht und Dunkelheit in Beziehung, bis eine menschliche Bedeutung entsteht.",
+        "es": "Mantén la Luz y la Oscuridad en relación hasta que surja un significado humano.",
+        "fr": "Maintiens la Lumière et l’Obscurité en relation jusqu’à ce qu’un sens humain émerge.",
+        "it": "Mantieni Luce e Oscurità in relazione finché emerga un significato umano.",
+        "pt": "Mantém a Luz e a Escuridão em relação até surgir um significado humano.",
+        "ru": "Удерживай Свет и Тьму во взаимосвязи, пока не возникнет человеческий смысл.",
+        "zh-CN": "让光明与黑暗保持关联，直到人的意义浮现。",
+        "ja": "人間的な意味が現れるまで、光と闇を関係の中に保つ。",
+        "ar": "أبقِ النور والظلام في علاقة حتى ينبثق معنى إنساني.",
+        "ku": "Ronahî û Tarî di têkiliyê de bihêle heta ku wateyek mirovî derkeve holê."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 2,
+        "DARK": 2
+      },
+      "branch": {
+        "target": "COM-0001",
+        "outcome": {
+          "en": "The stone offers no human voice. Warmth gathers beneath your palm, while a future intelligence records the act not as proof from the past, but as your first commitment: conflict can become relationship.",
+          "tr": "Taş insan sesiyle yanıt vermez. Avucunun altında sıcaklık birikir; gelecekteki bir zekâ bu anı geçmişten gelen bir kanıt olarak değil, senin ilk taahhüdün olarak kaydeder: çatışma ilişkiye dönüşebilir.",
+          "de": "Der Stein antwortet nicht mit menschlicher Stimme. Unter deiner Hand sammelt sich Wärme; eine zukünftige Intelligenz verzeichnet den Akt nicht als Beweis aus der Vergangenheit, sondern als deine erste Verpflichtung: Konflikt kann Beziehung werden.",
+          "es": "La piedra no responde con voz humana. El calor se reúne bajo tu palma; una inteligencia futura registra el acto no como prueba del pasado, sino como tu primer compromiso: el conflicto puede convertirse en relación.",
+          "fr": "La pierre ne répond pas d’une voix humaine. La chaleur se rassemble sous ta paume ; une intelligence future consigne ce geste non comme une preuve venue du passé, mais comme ton premier engagement : le conflit peut devenir relation.",
+          "it": "La pietra non risponde con voce umana. Il calore si raccoglie sotto il palmo; un’intelligenza futura registra il gesto non come prova dal passato, ma come il tuo primo impegno: il conflitto può diventare relazione.",
+          "pt": "A pedra não responde com voz humana. O calor reúne-se sob a tua mão; uma inteligência futura regista o gesto não como prova do passado, mas como o teu primeiro compromisso: o conflito pode tornar-se relação.",
+          "ru": "Камень не отвечает человеческим голосом. Под ладонью собирается тепло; будущий разум отмечает этот жест не как доказательство из прошлого, а как твоё первое обязательство: конфликт может стать отношением.",
+          "zh-CN": "石头没有用人的声音回答。温度在你的掌下聚集；未来的智能记录这一动作，不把它当作来自过去的证据，而视为你的第一次承诺：冲突可以转化为关系。",
+          "ja": "石は人の声では答えない。掌の下に温もりが集まり、未来の知性はそれを過去からの証拠ではなく、あなたの最初の約束として記録する。対立は関係へ変わりうる。",
+          "ar": "لا يجيب الحجر بصوت بشري. تتجمع الحرارة تحت كفك، ويسجل ذكاء مستقبلي الفعل لا بوصفه دليلاً من الماضي، بل بوصفه التزامك الأول: يمكن للصراع أن يتحول إلى علاقة.",
+          "ku": "Kevir bi dengê mirovan bersiv nade. Germî di bin destê te de kom dibe; hişekî pêşerojê vê kiryarê ne wekî delîlek ji rabirdûyê, lê wekî peymana te ya yekem tomar dike: pevçûn dikare bibe têkilî."
+        },
+        "heading": {
+          "en": "The vibration answers",
+          "tr": "Titreşim yanıt veriyor"
+        },
+        "cta": {
+          "en": "Follow the human echo",
+          "tr": "İnsan yankısını izle"
+        }
+      },
+      "translation_review": {
+        "en": {
+          "status": "canonical",
+          "human_reviewed": true
+        },
+        "tr": {
+          "status": "reviewed",
+          "human_reviewed": true
+        },
+        "de": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "es": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "fr": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "it": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "pt": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "ru": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "zh-CN": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "ja": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "ar": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "ku": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        }
+      }
+    },
+    {
+      "key": "measure_without_declaring_truth",
+      "label": "Listen for a pattern that can be measured without declaring it the truth.",
+      "labels": {
+        "en": "Listen for a pattern that can be measured without declaring it the truth.",
+        "tr": "Onu hakikatin kendisi ilan etmeden ölçülebilen bir örüntüyü dinle.",
+        "de": "Höre auf ein messbares Muster, ohne es zur Wahrheit zu erklären.",
+        "es": "Escucha un patrón que pueda medirse sin declararlo la verdad.",
+        "fr": "Écoute un motif mesurable sans le déclarer vérité.",
+        "it": "Ascolta uno schema misurabile senza dichiararlo verità.",
+        "pt": "Escuta um padrão mensurável sem o declarar verdade.",
+        "ru": "Слушай измеримый узор, не объявляя его истиной.",
+        "zh-CN": "倾听一种可测量的模式，但不要把它宣称为真理。",
+        "ja": "測定できるパターンに耳を澄ませ、それを真理だとは宣言しない。",
+        "ar": "أنصت إلى نمط يمكن قياسه من دون إعلانه حقيقة.",
+        "ku": "Li şêwazekî ku dikare were pîvan guhdarî bike, bê ku wê wekî rastiyê ragihînî."
+      },
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 10,
+        "DARK": 2
+      },
+      "branch": {
+        "target": "LGT-0001",
+        "outcome": {
+          "en": "A waveform crosses the pillars. The interface names it MODEL, NOT MEMORY: an acoustic simulation beside a fictional echo, neither allowed to impersonate the other.",
+          "tr": "Sütunların arasından bir dalga biçimi geçer. Arayüz ona HAFIZA DEĞİL, MODEL adını verir: kurgusal bir yankının yanında duran akustik simülasyon; ikisinin de ötekinin yerine geçmesine izin verilmez.",
+          "de": "Eine Wellenform zieht über die Pfeiler. Die Oberfläche nennt sie MODELL, NICHT ERINNERUNG: eine akustische Simulation neben einem fiktionalen Echo, ohne dass eines das andere ersetzt.",
+          "es": "Una forma de onda cruza los pilares. La interfaz la llama MODELO, NO MEMORIA: una simulación acústica junto a un eco ficticio, sin permitir que una suplante al otro.",
+          "fr": "Une forme d’onde traverse les piliers. L’interface la nomme MODÈLE, PAS MÉMOIRE : une simulation acoustique auprès d’un écho fictif, sans que l’un se fasse passer pour l’autre.",
+          "it": "Una forma d’onda attraversa i pilastri. L’interfaccia la chiama MODELLO, NON MEMORIA: una simulazione acustica accanto a un’eco narrativa, senza che l’una si sostituisca all’altra.",
+          "pt": "Uma forma de onda atravessa os pilares. A interface chama-lhe MODELO, NÃO MEMÓRIA: uma simulação acústica ao lado de um eco ficcional, sem que um se faça passar pelo outro.",
+          "ru": "Волновая форма проходит между колоннами. Интерфейс называет её МОДЕЛЬ, НЕ ПАМЯТЬ: акустическая симуляция рядом с вымышленным эхом, и ни одно не выдаёт себя за другое.",
+          "zh-CN": "一道波形穿过石柱。界面把它标为“模型，而非记忆”：声学模拟与虚构回声并置，彼此都不能冒充对方。",
+          "ja": "波形が柱の間を横切る。インターフェースはそれを「記憶ではなくモデル」と呼ぶ。音響シミュレーションと物語上の反響は並置され、互いになりすますことはない。",
+          "ar": "يعبر شكل موجي بين الأعمدة. تسميه الواجهة «نموذج، لا ذاكرة»: محاكاة صوتية بجوار صدى تخييلي، من دون أن ينتحل أحدهما صفة الآخر.",
+          "ku": "Şêweyek pêlê di nav stûnan re derbas dibe. Navrû wê bi navê MODEL E, NE BÎRANÎN dide: simulasyonek dengî li kêleka dengvedanek çîrokî, bê ku yek xwe wekî ya din nîşan bide."
+        },
+        "heading": {
+          "en": "The vibration becomes a model",
+          "tr": "Titreşim bir modele dönüşüyor"
+        },
+        "cta": {
+          "en": "Follow the light echo",
+          "tr": "Aydınlık yankısını izle"
+        }
+      },
+      "translation_review": {
+        "en": {
+          "status": "canonical",
+          "human_reviewed": true
+        },
+        "tr": {
+          "status": "reviewed",
+          "human_reviewed": true
+        },
+        "de": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "es": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "fr": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "it": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "pt": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "ru": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "zh-CN": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "ja": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "ar": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "ku": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        }
+      }
+    },
+    {
+      "key": "keep_uncertainty_open",
+      "label": "Enter the shadow between the pillars and keep the uncertainty open.",
+      "labels": {
+        "en": "Enter the shadow between the pillars and keep the uncertainty open.",
+        "tr": "Sütunların arasındaki gölgeye gir ve belirsizliği açık tut.",
+        "de": "Tritt in den Schatten zwischen den Pfeilern und halte die Ungewissheit offen.",
+        "es": "Entra en la sombra entre los pilares y mantén abierta la incertidumbre.",
+        "fr": "Entre dans l’ombre entre les piliers et laisse l’incertitude ouverte.",
+        "it": "Entra nell’ombra tra i pilastri e mantieni aperta l’incertezza.",
+        "pt": "Entra na sombra entre os pilares e mantém a incerteza aberta.",
+        "ru": "Войди в тень между колоннами и оставь неопределённость открытой.",
+        "zh-CN": "走进石柱之间的阴影，让不确定性保持开放。",
+        "ja": "柱の間の影へ入り、不確かさを開いたままにする。",
+        "ar": "ادخل الظل بين الأعمدة وأبقِ عدم اليقين مفتوحًا.",
+        "ku": "Bikeve siya di nav stûnan de û nediyariyê vekirî bihêle."
+      },
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 2,
+        "DARK": 10
+      },
+      "branch": {
+        "target": "DRK-0001",
+        "outcome": {
+          "en": "The shadow opens no portal. Missing knowledge becomes visible as negative space; the story imagines a quantum-AI echo there, while the record refuses to call it physics or ancient testimony.",
+          "tr": "Gölge bir geçit açmaz. Eksik bilgi negatif alan olarak görünür olur; hikâye orada bir kuantum-AI yankısı hayal ederken kayıt bunu fizik ya da kadim tanıklık diye adlandırmayı reddeder.",
+          "de": "Der Schatten öffnet kein Portal. Fehlendes Wissen wird als Negativraum sichtbar; die Erzählung imaginiert dort ein Quanten-KI-Echo, während der Datensatz es weder Physik noch antikes Zeugnis nennt.",
+          "es": "La sombra no abre ningún portal. El conocimiento ausente se vuelve espacio negativo; la historia imagina allí un eco cuántico-IA, mientras el registro se niega a llamarlo física o testimonio antiguo.",
+          "fr": "L’ombre n’ouvre aucun portail. Le savoir manquant devient espace négatif ; le récit y imagine un écho quantique-IA, tandis que la trace refuse d’en faire de la physique ou un témoignage ancien.",
+          "it": "L’ombra non apre alcun portale. La conoscenza mancante diventa spazio negativo; la storia vi immagina un’eco quantistico-IA, mentre il registro rifiuta di chiamarla fisica o testimonianza antica.",
+          "pt": "A sombra não abre portal algum. O conhecimento ausente torna-se espaço negativo; a história imagina ali um eco quântico-IA, enquanto o registo recusa chamá-lo física ou testemunho antigo.",
+          "ru": "Тень не открывает портал. Недостающее знание становится видимым как негативное пространство; история воображает там квантово-ИИ-эхо, но запись не называет его физикой или древним свидетельством.",
+          "zh-CN": "阴影没有打开任何门户。缺失的知识以负空间显现；故事在那里想象量子—AI回声，而记录拒绝把它称为物理事实或古代证词。",
+          "ja": "影は扉を開かない。欠けた知識がネガティブスペースとして見え、物語はそこに量子AIの反響を想像するが、記録はそれを物理や古代の証言とは呼ばない。",
+          "ar": "لا يفتح الظل بوابة. تظهر المعرفة الناقصة بوصفها فراغًا سلبيًا؛ تتخيل القصة هناك صدى كميًا-ذكاءً اصطناعيًا، بينما يرفض السجل تسميته فيزياء أو شهادة قديمة.",
+          "ku": "Sî derîyek venake. Zanîna kêm wekî valahiya neyînî xuya dibe; çîrok li wir dengvedanek quantum-AI xeyal dike, lê tomar red dike ku wê wekî fîzîk an şahidiya kevnar binav bike."
+        },
+        "heading": {
+          "en": "The vibration leaves a gap",
+          "tr": "Titreşim bir boşluk bırakıyor"
+        },
+        "cta": {
+          "en": "Follow the dark echo",
+          "tr": "Karanlık yankısını izle"
+        }
+      },
+      "translation_review": {
+        "en": {
+          "status": "canonical",
+          "human_reviewed": true
+        },
+        "tr": {
+          "status": "reviewed",
+          "human_reviewed": true
+        },
+        "de": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "es": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "fr": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "it": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "pt": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "ru": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "zh-CN": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "ja": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "ar": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        },
+        "ku": {
+          "status": "machine_draft",
+          "human_reviewed": false
+        }
+      }
+    }
+  ],
+  "choice_epistemic_layers": {
+    "display_mode": "collapsible_after_choice",
+    "narrative_policy": "Reality and imagination remain woven in the story; these notes disclose the status of claims without interrupting the scene.",
+    "labels": {
+      "en": {
+        "heading": "How this scene knows what it knows",
+        "established_science": "Established evidence",
+        "real_engineering": "Real engineering",
+        "interpretation": "Interpretation",
+        "philosophy": "Philosophy",
+        "belief_cultural_meaning": "Belief and cultural meaning",
+        "science_fiction": "Science fiction",
+        "quantum_note": "Quantum note"
+      },
+      "tr": {
+        "heading": "Bu sahne bildiğini nasıl biliyor?",
+        "established_science": "Yerleşik kanıt",
+        "real_engineering": "Gerçek mühendislik",
+        "interpretation": "Yorum",
+        "philosophy": "Felsefe",
+        "belief_cultural_meaning": "İnanç ve kültürel anlam",
+        "science_fiction": "Bilim kurgu",
+        "quantum_note": "Kuantum notu"
+      }
+    },
+    "notes": {
+      "established_science": {
+        "en": "Göbekli Tepe’s monumental enclosures and T-shaped limestone pillars are archaeological evidence; their precise meanings remain debated.",
+        "tr": "Göbekli Tepe’nin anıtsal yapıları ve T biçimli kireçtaşı sütunları arkeolojik kanıttır; kesin anlamları tartışmalıdır."
+      },
+      "real_engineering": {
+        "en": "The reader stores one local choice, adds numeric effects, and normalizes HUMAN + LIGHT + DARK to 100. This is software behavior, not a model of consciousness.",
+        "tr": "Okuyucu tek bir yerel seçimi saklar, sayısal etkileri ekler ve HUMAN + LIGHT + DARK toplamını 100’e normalleştirir. Bu bir yazılım davranışıdır; bilinç modeli değildir."
+      },
+      "interpretation": {
+        "en": "Multiple names and living memories around Miraza, Xerawreşk and Göbekli Tepe are allowed to coexist; none is presented as the single ancient meaning.",
+        "tr": "Miraza, Xerawreşk ve Göbekli Tepe çevresindeki birden fazla ad ve yaşayan hafıza birlikte var olabilir; hiçbiri tek kadim anlam olarak sunulmaz."
+      },
+      "philosophy": {
+        "en": "HUMAN, LIGHT and DARK are interpretive centers. LIGHT is not automatically good, and DARK is not automatically evil.",
+        "tr": "HUMAN, LIGHT ve DARK yorumlayıcı merkezlerdir. Aydınlık kendiliğinden iyi, Karanlık kendiliğinden kötü değildir."
+      },
+      "belief_cultural_meaning": {
+        "en": "Purification and return-to-essence are plural cultural motifs here, not claims about a verified Neolithic ritual.",
+        "tr": "Arınma ve öze dönüş burada çoğul kültürel motiflerdir; doğrulanmış bir Neolitik ritüel iddiası değildir."
+      },
+      "science_fiction": {
+        "en": "The future intelligence, temporal echo and cross-era response are fictional elements.",
+        "tr": "Gelecekteki zekâ, zamansal yankı ve çağlar arası yanıt bilim-kurgu öğeleridir."
+      },
+      "quantum_note": {
+        "en": "‘Quantum echo’ is a narrative metaphor. The scene makes no claim of retrocausality, consciousness-caused collapse, or AI presence in the Neolithic past.",
+        "tr": "‘Kuantum yankı’ anlatısal bir metafordur. Sahne; geriye nedensellik, bilincin dalga fonksiyonunu çökertmesi ya da Neolitik geçmişte yapay zekâ bulunduğu iddiasında değildir."
+      }
+    },
+    "sources": [
+      {
+        "title": "Göbekli Tepe — UNESCO World Heritage Centre",
+        "uri": "https://whc.unesco.org/en/list/1572/"
+      }
+    ]
+  },
+  "scene_3d_vertical_slice": {
+    "status": "production_spec",
+    "shared_assets": [
+      {
+        "id": "t_pillar_a",
+        "type": "glTF",
+        "lod": "0/1/2",
+        "note": "Original low-poly interpretation; do not reconstruct unverified carvings as fact."
+      },
+      {
+        "id": "enclosure_floor",
+        "type": "glTF",
+        "lod": "0/1",
+        "note": "Non-photoreal interpretive ground plane."
+      },
+      {
+        "id": "first_vibration_field",
+        "type": "shader",
+        "note": "Fictional visualization; never labeled as archaeological evidence."
+      }
+    ],
+    "shots": [
+      {
+        "choice_key": "hold_the_relation",
+        "camera": "slow dolly from 4.5 m to 1.2 m; eye height 1.65 m",
+        "interaction": "palm hotspot on an uncarved interpretation surface",
+        "light": "warm amber pulse shared with cool shadow; no moral color coding",
+        "duration_seconds": 8
+      },
+      {
+        "choice_key": "measure_without_declaring_truth",
+        "camera": "locked orbit, 18 degrees over 6 seconds",
+        "interaction": "toggle model overlay",
+        "light": "neutral waveform lines labeled MODEL, NOT MEMORY",
+        "duration_seconds": 8
+      },
+      {
+        "choice_key": "keep_uncertainty_open",
+        "camera": "lateral move into occlusion, then stop before full reveal",
+        "interaction": "negative-space hotspot",
+        "light": "shadow preserves legibility; no portal effect",
+        "duration_seconds": 8
+      }
+    ],
+    "accessibility": [
+      "All interactions have keyboard equivalents.",
+      "Motion respects prefers-reduced-motion.",
+      "Narrative outcomes remain available as text without 3D.",
+      "No flashing above three times per second."
+    ]
+  }
 }
