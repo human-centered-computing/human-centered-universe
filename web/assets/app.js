@@ -187,6 +187,10 @@ function choiceLabel(choice, locale=state.locale){
   }
   return choice.label || choice.key || "";
 }
+function choiceMatchesRecord(choice, record){
+  if(!choice||!record) return false;
+  return choice.key===record.key || (Array.isArray(choice.legacy_keys)&&choice.legacy_keys.includes(record.key));
+}
 function localizedChoiceValue(value, locale=state.locale){
   if(value&&typeof value==="object") return value[locale] || value.en || Object.values(value)[0] || "";
   return value || "";
@@ -274,10 +278,10 @@ function renderRead(){
   const backId=state.path.length>1 ? state.path[state.path.length-2] : null;
   const connections=related.length?related.map(({link,story:target})=>`<button class="connection" data-story="${target.id}"><span class="badge ${primaryCenter(target)}">${escapeHtml(linkTypeLabel(link.type))}</span><strong>${escapeHtml(storyTitle(target))}</strong><small>${escapeHtml(linkNote(story,link))}</small></button>`).join(""):`<p class="muted">${t("no_results","No matching stories.")}</p>`;
   const choiceButtons=choices.map(c=>{
-    const projected=projectedObserver(c.effects||{}); const selected=recorded?.key===c.key;
+    const projected=projectedObserver(c.effects||{}); const selected=choiceMatchesRecord(c,recorded);
     return `<button class="observer-choice${selected?" selected":""}" data-choice="${escapeHtml(c.key)}" ${recorded?"disabled":""} aria-pressed="${selected}"><strong>${escapeHtml(choiceLabel(c))}</strong><small>${escapeHtml(t("projected_observer_state","Projected Observer State"))}: ${formatWeights(projected)}</small></button>`;
   }).join("");
-  const recordedDefinition=recorded?choices.find(choice=>choice.key===recorded.key):null;
+  const recordedDefinition=recorded?choices.find(choice=>choiceMatchesRecord(choice,recorded)):null;
   const choiceStatus=recorded?`<div class="choice-recorded" role="status"><strong>${escapeHtml(t("choice_recorded","Choice recorded"))}</strong><span>${escapeHtml(recordedDefinition?choiceLabel(recordedDefinition):(recorded.label||recorded.key||""))}</span></div>`:"";
   const branchStatus=recordedDefinition?branchOutcome(story,recordedDefinition):"";
   const recommendation=next?`<div class="recommendation"><span>${t("recommended_next","Recommended next story")}</span><button data-story="${next.id}"><strong>${escapeHtml(storyTitle(next))}</strong><small>${centerLabel(primaryCenter(next))} · ${formatWeights(storyWeights(next))}</small><small class="recommendation-reason">${escapeHtml(recommendationReason(nextResult))}</small></button></div>`:"";
