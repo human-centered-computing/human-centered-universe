@@ -284,6 +284,7 @@ function renderRead(){
   const recordedDefinition=recorded?choices.find(choice=>choiceMatchesRecord(choice,recorded)):null;
   const choiceStatus=recorded?`<div class="choice-recorded" role="status"><strong>${escapeHtml(t("choice_recorded","Choice recorded"))}</strong><span>${escapeHtml(recordedDefinition?choiceLabel(recordedDefinition):(recorded.label||recorded.key||""))}</span></div>`:"";
   const branchStatus=recordedDefinition?branchOutcome(story,recordedDefinition):"";
+  const choicePanel=`<section class="choice-panel" id="observer-choices"><h2>${t("choose_path","Choose what calls you next")}</h2><p class="muted">${t("choice_help","Preview how a choice changes your Observer State, then confirm it once. The recommendation uses your complete profile, story connections, and recent path; you remain free to choose any node.")}</p>${choiceStatus}${branchStatus}<div class="choice-grid">${choiceButtons}</div><div id="choice-preview" class="choice-preview" hidden></div></section>`;
   const sceneEngine=window.HCUFirstVibration3D;
   const sceneCopy=sceneEngine?.copyFor(state.locale)||sceneEngine?.copyFor("en")||{};
   const sceneMode=recordedDefinition?.key||"NEUTRAL";
@@ -299,8 +300,9 @@ function renderRead(){
       ${workHeading}
       ${storyHero(story)}
       ${scene3d}
+      ${story.id==="BRG-0002"?choicePanel:""}
       <div class="story-content">${markdownToHtml(readingContent)}</div>
-      <section class="choice-panel"><h2>${t("choose_path","Choose what calls you next")}</h2><p class="muted">${t("choice_help","Preview how a choice changes your Observer State, then confirm it once. The recommendation uses your complete profile, story connections, and recent path; you remain free to choose any node.")}</p>${choiceStatus}${branchStatus}<div class="choice-grid">${choiceButtons}</div><div id="choice-preview" class="choice-preview" hidden></div></section>
+      ${story.id==="BRG-0002"?"":choicePanel}
       <div class="reader-toolbar"><button class="action-button" id="back-path" ${!backId?"disabled":""}>← ${t("back_in_path","Back in my path")}</button><button class="action-button" id="mark-read">${state.readIds.has(story.id)?t("read_again","Read again"):t("mark_read","Mark as read")}</button><button class="action-button primary" id="open-explore">${t("other_possibilities","Explore other possibilities")}</button></div>
       ${recommendation}
     </article>
