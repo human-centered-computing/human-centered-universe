@@ -10,18 +10,18 @@
     dark_direction:"DARK"
   };
   const COPY={
-    en:{title:"FIRST VIBRATION — 3D observation",help:"Drag or use ← → to orbit. Use ↑ ↓ to change distance.",reset:"Reset view",fallback:"WebGL is unavailable. The story and every choice remain available as text."},
-    tr:{title:"İLK TİTREŞİM — 3D gözlem",help:"Döndürmek için sürükleyin veya ← → kullanın. Uzaklık için ↑ ↓ kullanın.",reset:"Görünümü sıfırla",fallback:"WebGL kullanılamıyor. Hikâye ve tüm seçimler metin olarak erişilebilir."},
-    de:{title:"ERSTE SCHWINGUNG — 3D-Beobachtung",help:"Ziehen oder ← → zum Drehen; ↑ ↓ für die Entfernung.",reset:"Ansicht zurücksetzen",fallback:"WebGL ist nicht verfügbar. Geschichte und Auswahl bleiben als Text zugänglich."},
-    es:{title:"PRIMERA VIBRACIÓN — observación 3D",help:"Arrastra o usa ← → para girar; ↑ ↓ para la distancia.",reset:"Restablecer vista",fallback:"WebGL no está disponible. La historia y las opciones siguen accesibles como texto."},
-    fr:{title:"PREMIÈRE VIBRATION — observation 3D",help:"Faites glisser ou utilisez ← → pour tourner ; ↑ ↓ pour la distance.",reset:"Réinitialiser la vue",fallback:"WebGL n’est pas disponible. Le récit et les choix restent accessibles en texte."},
-    it:{title:"PRIMA VIBRAZIONE — osservazione 3D",help:"Trascina o usa ← → per ruotare; ↑ ↓ per la distanza.",reset:"Reimposta vista",fallback:"WebGL non è disponibile. Storia e scelte restano accessibili come testo."},
-    pt:{title:"PRIMEIRA VIBRAÇÃO — observação 3D",help:"Arrasta ou usa ← → para rodar; ↑ ↓ para a distância.",reset:"Repor vista",fallback:"WebGL não está disponível. A história e as escolhas continuam acessíveis em texto."},
-    ru:{title:"ПЕРВАЯ ВИБРАЦИЯ — 3D-наблюдение",help:"Перетаскивайте или используйте ← → для вращения; ↑ ↓ для дистанции.",reset:"Сбросить вид",fallback:"WebGL недоступен. История и выборы остаются доступны в виде текста."},
-    "zh-CN":{title:"第一次振动 — 3D观察",help:"拖动或使用 ← → 环绕；使用 ↑ ↓ 调整距离。",reset:"重置视图",fallback:"WebGL不可用。故事和所有选择仍可通过文本访问。"},
-    ja:{title:"第一の振動 — 3D観測",help:"ドラッグまたは ← → で回転、↑ ↓ で距離を変更します。",reset:"表示をリセット",fallback:"WebGLを利用できません。物語と選択肢はテキストで引き続き利用できます。"},
-    ar:{title:"الاهتزاز الأول — مشاهدة ثلاثية الأبعاد",help:"اسحب أو استخدم ← → للدوران، و↑ ↓ للمسافة.",reset:"إعادة ضبط المشهد",fallback:"WebGL غير متاح. تبقى القصة وجميع الخيارات متاحة نصيًا."},
-    ku:{title:"LERIZÎNA YEKEM — temaşeya 3D",help:"Ji bo zivirandinê bikişîne an ← → bi kar bîne; ji bo dûrahiyê ↑ ↓.",reset:"Dîmenê vegerîne",fallback:"WebGL ne berdest e. Çîrok û hemû hilbijartin wekî nivîs berdest in."}
+    en:{title:"FIRST VIBRATION — 3D observation",help:"Drag or use ← → to orbit. Use ↑ ↓ to change distance.",reset:"Reset view",note:"Symbolic 3D interpretation; not an archaeological reconstruction.",fallback:"WebGL is unavailable. The story and every choice remain available as text."},
+    tr:{title:"İLK TİTREŞİM — 3D gözlem",help:"Döndürmek için sürükleyin veya ← → kullanın. Uzaklık için ↑ ↓ kullanın.",reset:"Görünümü sıfırla",note:"Simgesel 3D yorumdur; arkeolojik rekonstrüksiyon değildir.",fallback:"WebGL kullanılamıyor. Hikâye ve tüm seçimler metin olarak erişilebilir."},
+    de:{title:"ERSTE SCHWINGUNG — 3D-Beobachtung",help:"Ziehen oder ← → zum Drehen; ↑ ↓ für die Entfernung.",reset:"Ansicht zurücksetzen",note:"Symbolische 3D-Interpretation; keine archäologische Rekonstruktion.",fallback:"WebGL ist nicht verfügbar. Geschichte und Auswahl bleiben als Text zugänglich."},
+    es:{title:"PRIMERA VIBRACIÓN — observación 3D",help:"Arrastra o usa ← → para girar; ↑ ↓ para la distancia.",reset:"Restablecer vista",note:"Interpretación 3D simbólica; no es una reconstrucción arqueológica.",fallback:"WebGL no está disponible. La historia y las opciones siguen accesibles como texto."},
+    fr:{title:"PREMIÈRE VIBRATION — observation 3D",help:"Faites glisser ou utilisez ← → pour tourner ; ↑ ↓ pour la distance.",reset:"Réinitialiser la vue",note:"Interprétation 3D symbolique ; ce n’est pas une reconstitution archéologique.",fallback:"WebGL n’est pas disponible. Le récit et les choix restent accessibles en texte."},
+    it:{title:"PRIMA VIBRAZIONE — osservazione 3D",help:"Trascina o usa ← → per ruotare; ↑ ↓ per la distanza.",reset:"Reimposta vista",note:"Interpretazione 3D simbolica; non è una ricostruzione archeologica.",fallback:"WebGL non è disponibile. Storia e scelte restano accessibili come testo."},
+    pt:{title:"PRIMEIRA VIBRAÇÃO — observação 3D",help:"Arrasta ou usa ← → para rodar; ↑ ↓ para a distância.",reset:"Repor vista",note:"Interpretação 3D simbólica; não é uma reconstrução arqueológica.",fallback:"WebGL não está disponível. A história e as escolhas continuam acessíveis em texto."},
+    ru:{title:"ПЕРВАЯ ВИБРАЦИЯ — 3D-наблюдение",help:"Перетаскивайте или используйте ← → для вращения; ↑ ↓ для дистанции.",reset:"Сбросить вид",note:"Символическая 3D-интерпретация, а не археологическая реконструкция.",fallback:"WebGL недоступен. История и выборы остаются доступны в виде текста."},
+    "zh-CN":{title:"第一次振动 — 3D观察",help:"拖动或使用 ← → 环绕；使用 ↑ ↓ 调整距离。",reset:"重置视图",note:"象征性的3D诠释，并非考古复原。",fallback:"WebGL不可用。故事和所有选择仍可通过文本访问。"},
+    ja:{title:"第一の振動 — 3D観測",help:"ドラッグまたは ← → で回転、↑ ↓ で距離を変更します。",reset:"表示をリセット",note:"象徴的な3D解釈であり、考古学的復元ではありません。",fallback:"WebGLを利用できません。物語と選択肢はテキストで引き続き利用できます。"},
+    ar:{title:"الاهتزاز الأول — مشاهدة ثلاثية الأبعاد",help:"اسحب أو استخدم ← → للدوران، و↑ ↓ للمسافة.",reset:"إعادة ضبط المشهد",note:"تفسير رمزي ثلاثي الأبعاد، وليس إعادة بناء أثرية.",fallback:"WebGL غير متاح. تبقى القصة وجميع الخيارات متاحة نصيًا."},
+    ku:{title:"LERIZÎNA YEKEM — temaşeya 3D",help:"Ji bo zivirandinê bikişîne an ← → bi kar bîne; ji bo dûrahiyê ↑ ↓.",reset:"Dîmenê vegerîne",note:"Şiroveyeke sembolîk a 3D ye; nûavakirina arkeolojîk nîne.",fallback:"WebGL ne berdest e. Çîrok û hemû hilbijartin wekî nivîs berdest in."}
   };
 
   let active=null;
