@@ -3,6 +3,9 @@ import assert from "node:assert/strict";
 
 const meta=JSON.parse(fs.readFileSync("stories/bridges/BRG-0002/meta.json","utf8"));
 const app=fs.readFileSync("web/assets/app.js","utf8");
+const scene3d=fs.readFileSync("web/assets/first-vibration-3d.v1.js","utf8");
+const index=fs.readFileSync("web/index.html","utf8");
+const styles=fs.readFileSync("web/assets/styles.css","utf8");
 const languages=["en","tr","de","es","fr","it","pt","ru","zh-CN","ja","ar","ku"];
 const expected={
   hold_the_relation:{center:"HUMAN",target:"COM-0001"},
@@ -60,5 +63,27 @@ assert.match(app,/function branchOutcome\(/);
 assert.match(app,/function epistemicPanel\(/);
 assert.match(app,/const branchStatus=recordedDefinition\?branchOutcome/);
 assert.match(app,/data-story=/);
+assert.match(app,/HCUFirstVibration3D/);
+assert.match(app,/id="first-vibration-3d"/);
+assert.match(app,/fv3d\?\.setMode\(c\.key\)/);
+assert.match(app,/fv3d\?\.setMode\(sceneMode\)/);
+assert.match(index,/first-vibration-3d\.v1\.js/);
+assert.match(styles,/\.fv3d-canvas/);
+assert.match(styles,/@media\(prefers-reduced-motion:reduce\)/);
+assert.doesNotThrow(()=>new Function(scene3d));
+assert.match(scene3d,/getContext\("webgl"/);
+assert.match(scene3d,/for\(let i=0;i<12;i\+\+\)/);
+assert.match(scene3d,/hold_the_relation:"HUMAN"/);
+assert.match(scene3d,/measure_without_declaring_truth:"LIGHT"/);
+assert.match(scene3d,/keep_uncertainty_open:"DARK"/);
+assert.match(scene3d,/pointerdown/);
+assert.match(scene3d,/ArrowLeft/);
+assert.match(scene3d,/prefers-reduced-motion/);
+assert.match(scene3d,/WebGL kullanılamıyor/);
+assert.doesNotMatch(scene3d,/https?:\/\//);
+for(const language of languages){
+  const marker=language==="zh-CN"?"\"zh-CN\":":language+":";
+  assert.ok(scene3d.includes(marker),`Missing 3D interface copy for ${language}`);
+}
 
-console.log("FIRST VIBRATION branch vertical slice passed");
+console.log("FIRST VIBRATION branch and WebGL vertical slice passed");
