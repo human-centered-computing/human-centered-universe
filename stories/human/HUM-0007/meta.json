@@ -151,5 +151,35 @@
         "tr": "AGI, süper zekâ, tamamen otomatikleşmiş toplum ve Lina'nın gelecekteki eğitim sistemi, kaçınılmaz bir teknolojik gelecek iddiası değil kurgusal anlatı unsurlarıdır."
       }
     }
-  }
+  },
+  "story_gallery": [
+    {
+      "src": "./assets/images/stories/HUM-0007/01-human-centered-collaboration.webp",
+      "alt": {
+        "en": "People from medicine, engineering, education and civic life make decisions with AI as a supporting intelligence.",
+        "tr": "Tıp, mühendislik, eğitim ve kamusal yaşamdan insanlar yapay zekâyı destekleyici bir zekâ olarak kullanarak karar veriyor."
+      }
+    },
+    {
+      "src": "./assets/images/stories/HUM-0007/02-symbolic-approval.webp",
+      "alt": {
+        "en": "Human overseers sit beneath an immense AI system as their role narrows from deciding to approving.",
+        "tr": "İnsan denetleyiciler, rollerinin karar vermekten onaylamaya daraldığı devasa bir yapay zekâ sisteminin altında oturuyor."
+      }
+    },
+    {
+      "src": "./assets/images/stories/HUM-0007/03-lina-and-ai.webp",
+      "alt": {
+        "en": "Lina faces the luminous intelligence that has learned to optimize nearly every choice in human life.",
+        "tr": "Lina, insan yaşamındaki neredeyse her seçimi optimize etmeyi öğrenmiş ışıklı zekâyla yüzleşiyor."
+      }
+    },
+    {
+      "src": "./assets/images/stories/HUM-0007/04-learning-to-remain-human.webp",
+      "alt": {
+        "en": "Years later, Lina guides children in a classroom where AI provides possibilities while humans learn to ask why.",
+        "tr": "Yıllar sonra Lina, yapay zekânın olasılıklar sunduğu ve insanların neden diye sormayı öğrendiği bir sınıfta çocuklara rehberlik ediyor."
+      }
+    }
+  ]
 }
