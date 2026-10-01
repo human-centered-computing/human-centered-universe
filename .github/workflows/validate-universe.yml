@@ -4,6 +4,8 @@ on:
   pull_request:
   push:
     branches: [ main ]
+    paths-ignore:
+      - "web/assets/audio/**"
 
 jobs:
   validate:
@@ -11,6 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v7
+        with:
+          filter: blob:none
 
       - name: Setup Python
         uses: actions/setup-python@v7
@@ -28,7 +32,6 @@ jobs:
 
       - name: Test FIRST VIBRATION branches
         run: node scripts/test_first_vibration_branches.mjs
-
 
       - name: Test multilingual coverage
         run: node scripts/test_translation_coverage.mjs
