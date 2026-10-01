@@ -1,0 +1,25 @@
+{
+  "schema": "hcu-story-analysis",
+  "generation_mode": "idea-maturation-three-center",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 55,
+    "LIGHT": 25,
+    "DARK": 20
+  },
+  "center_raw_scores": {
+    "HUMAN": 99,
+    "LIGHT": 45,
+    "DARK": 36
+  },
+  "classification": {
+    "method": "30-criterion HCU narrative analysis after three-center idea maturation",
+    "status": "ai-generated-draft",
+    "confidence": 0.96,
+    "note": "HUMAN leads because the central conflict is whether people remain meaningful subjects rather than symbolic approvers. LIGHT is substantial through verification, governance, optimization, explanation and institutional design. DARK remains active through AGI/ASI uncertainty, the possibility of radical delegation, fallibility, and the transformative opening created by lifelong education."
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}
