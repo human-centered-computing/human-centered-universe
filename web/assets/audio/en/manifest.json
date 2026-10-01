@@ -206,7 +206,7 @@
     },
     {
       "id": "HUM-0004",
-      "title": "Cognitive Extension: How Do We Know This?",
+      "title": "The Sixth Sense: The Human Decides",
       "file": "./HUM-0004.mp3",
       "duration_seconds": 628.558,
       "bytes": 7543058,
@@ -489,6 +489,15 @@
       "file": "./WRK-0030.mp3",
       "duration_seconds": 611.082,
       "bytes": 7333347,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
+      "id": "HUM-0007",
+      "title": "Learning to Remain Human",
+      "file": "./HUM-0007.mp3",
+      "duration_seconds": 929.567,
+      "bytes": 11155166,
       "engine": "Piper",
       "voice": "en_US-lessac-medium"
     },
