@@ -242,10 +242,10 @@
     },
     {
       "id": "HUM-0004",
-      "title": "Bilişsel Uzantı: Bunu Nereden Biliyoruz?",
+      "title": "Altıncı Duyu: Kararı İnsan Verir",
       "file": "./HUM-0004.mp3",
-      "duration_seconds": 679.941,
-      "bytes": 8159653,
+      "duration_seconds": 419.03,
+      "bytes": 5028720,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
     },
@@ -255,6 +255,15 @@
       "file": "./HUM-0005.mp3",
       "duration_seconds": 1094.844,
       "bytes": 13138487,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
+      "id": "HUM-0006",
+      "title": "Bilişsel Uzantı: Bunu Nereden Biliyoruz?",
+      "file": "./HUM-0006.mp3",
+      "duration_seconds": 681.012,
+      "bytes": 8172505,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
     },
