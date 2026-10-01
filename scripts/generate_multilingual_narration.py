@@ -420,7 +420,11 @@ def checkpoint_commit(
             if attempt == 3:
                 raise
             print(f"Push conflict; rebasing checkpoint (attempt {attempt}/3)...")
-            sh(["git", "pull", "--rebase", "origin", "main"])
+            # The narration job starts from the latest main branch. If main
+            # advances while a checkpoint is being generated, replay this
+            # freshly generated checkpoint on top and prefer its target audio
+            # files when Git cannot merge binary MP3 content automatically.
+            sh(["git", "pull", "--rebase", "-X", "theirs", "origin", "main"])
 
 def main():
     ap = argparse.ArgumentParser()
