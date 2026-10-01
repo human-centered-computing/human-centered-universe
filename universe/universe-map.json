@@ -300,12 +300,12 @@
     {
       "observation_order": 27,
       "id": "HUM-0004",
-      "title": "The Sixth Sense: The Human Decides",
+      "title": "Cognitive Extension: How Do We Know This?",
       "primary_center": "HUMAN",
       "center_weights": {
-        "HUMAN": 45,
-        "LIGHT": 40,
-        "DARK": 15
+        "HUMAN": 42,
+        "LIGHT": 38,
+        "DARK": 20
       }
     },
     {
