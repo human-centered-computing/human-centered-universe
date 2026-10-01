@@ -1,0 +1,185 @@
+{
+  "id": "HUM-0007",
+  "title": "Learning to Remain Human",
+  "original_title": "İnsan Kalmayı Öğrenmek",
+  "status": "canon",
+  "source_language": "en",
+  "culture": [
+    "human-centered artificial intelligence",
+    "artificial general intelligence",
+    "artificial superintelligence",
+    "human agency",
+    "lifelong education",
+    "human-AI co-development"
+  ],
+  "belief_context": [
+    "human agency and responsibility",
+    "the right to choose and to be wrong",
+    "meaningful human oversight",
+    "lifelong learning",
+    "human-centered transformation",
+    "technology as capability rather than destiny"
+  ],
+  "summary": "A future that begins with human-centered AI gradually turns human decision-makers into symbolic approvers as increasingly capable systems take over more of life's choices. When sixteen-year-old Lina asks whether the right to make a wrong decision still belongs to her, society realizes that keeping a human inside a process is not the same as keeping the human as an active subject. The response is not to stop AI, but to rebuild education as lifelong human development and to define the Transformation Architect: a person who continually renews the capacity to question, choose, take responsibility, and develop alongside AI.",
+  "translations": {
+    "en": {
+      "status": "canonical",
+      "human_reviewed": true
+    },
+    "tr": {
+      "status": "reviewed",
+      "human_reviewed": true
+    }
+  },
+  "links": [
+    {
+      "target": "HUM-0006",
+      "type": "future",
+      "note": "The cognitive-extension problem develops into a social-scale question: what happens when humans can no longer meaningfully evaluate the systems whose decisions they approve?"
+    },
+    {
+      "target": "HUM-0004",
+      "type": "transformation",
+      "note": "The earlier principle that the human decides is stress-tested in a future where human approval can become merely symbolic."
+    },
+    {
+      "target": "BRG-0015",
+      "type": "theme",
+      "note": "The lifelong education response connects directly to the Human-Centered Transformation School and shifts education from a finite phase into continuous development."
+    },
+    {
+      "target": "BRG-0017",
+      "type": "theme",
+      "note": "The story extends Informatics 5.0 from meaningful work to meaningful agency in an age of increasingly capable artificial intelligence."
+    }
+  ],
+  "localized": {
+    "en": {
+      "title": "Learning to Remain Human",
+      "summary": "Lina's question exposes the difference between placing a human in the loop and preserving a human being as an active subject."
+    },
+    "tr": {
+      "title": "İnsan Kalmayı Öğrenmek",
+      "summary": "Lina'nın sorusu, insanı süreçte tutmak ile insanı etkin bir özne olarak korumak arasındaki farkı görünür hâle getirir."
+    }
+  },
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 55,
+    "LIGHT": 25,
+    "DARK": 20
+  },
+  "observer_choices": [
+    {
+      "key": "preserve_meaningful_agency",
+      "label": "Keep human beings capable of understanding, questioning, and owning consequential decisions.",
+      "labels": {
+        "en": "Keep human beings capable of understanding, questioning, and owning consequential decisions.",
+        "tr": "İnsanın önemli kararları anlayabilme, sorgulayabilme ve sahiplenebilme kapasitesini koru."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 3,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "delegate_when_verifiable",
+      "label": "Delegate decisions to AI when gains are demonstrable, while preserving verification and accountability.",
+      "labels": {
+        "en": "Delegate decisions to AI when gains are demonstrable, while preserving verification and accountability.",
+        "tr": "Kazanımlar doğrulanabildiğinde kararları yapay zekâya devret; doğrulama ve hesap verebilirliği koru."
+      },
+      "effects": {
+        "HUMAN": 3,
+        "LIGHT": 10,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "redesign_lifelong_learning",
+      "label": "Redesign education as lifelong development so humans and AI can develop together without making people passive.",
+      "labels": {
+        "en": "Redesign education as lifelong development so humans and AI can develop together without making people passive.",
+        "tr": "İnsanı pasifleştirmeden insan ve yapay zekânın birlikte gelişebilmesi için eğitimi yaşam boyu gelişim olarak yeniden tasarla."
+      },
+      "effects": {
+        "HUMAN": 7,
+        "LIGHT": 4,
+        "DARK": 10
+      }
+    }
+  ],
+  "choice_epistemic_layers": {
+    "labels": {
+      "en": {
+        "heading": "How this scene knows what it knows",
+        "established_science": "Established science",
+        "real_engineering": "Real engineering",
+        "interpretation": "Interpretation",
+        "philosophy": "Philosophy",
+        "science_fiction": "Science fiction"
+      },
+      "tr": {
+        "heading": "Bu sahne bildiğini nasıl biliyor?",
+        "established_science": "Yerleşik bilim",
+        "real_engineering": "Gerçek mühendislik",
+        "interpretation": "Yorum",
+        "philosophy": "Felsefe",
+        "science_fiction": "Bilim kurgu"
+      }
+    },
+    "notes": {
+      "established_science": {
+        "en": "Present-day AI systems can support or automate decisions and can create risks of overreliance when people defer to outputs they do not independently evaluate.",
+        "tr": "Günümüz yapay zekâ sistemleri kararları destekleyebilir veya otomatikleştirebilir; insanlar bağımsız biçimde değerlendirmedikleri çıktılara aşırı güvendiğinde aşırı bağımlılık riski doğabilir."
+      },
+      "real_engineering": {
+        "en": "Human-in-the-loop, audit, explanation, uncertainty reporting, and appeal mechanisms are real design and governance patterns, although no single mechanism guarantees meaningful human agency.",
+        "tr": "İnsan denetimi, denetim izi, açıklama, belirsizlik bildirimi ve itiraz mekanizmaları gerçek tasarım ve yönetişim yaklaşımlarıdır; ancak tek başına hiçbir mekanizma anlamlı insan öznesini garanti etmez."
+      },
+      "interpretation": {
+        "en": "The story argues that a human signature can become symbolic when the human lacks the capacity to understand, challenge, or replace the machine's recommendation.",
+        "tr": "Hikâye, insan makinenin önerisini anlayamıyor, sorgulayamıyor veya alternatif üretemiyorsa insan imzasının sembolik hâle gelebileceğini yorumlar."
+      },
+      "philosophy": {
+        "en": "Human-centeredness is framed not as physical presence in a decision loop, but as preserving the capacity for agency, responsibility, value formation, and meaningful choice.",
+        "tr": "İnsan merkezlilik, karar döngüsünde fiziksel olarak bulunmak değil; özne olma, sorumluluk, değer oluşturma ve anlamlı seçim kapasitesini korumak olarak çerçevelenir."
+      },
+      "science_fiction": {
+        "en": "The AGI, superintelligence, fully automated society, and Lina's future learning system are speculative narrative elements rather than claims about an inevitable technological future.",
+        "tr": "AGI, süper zekâ, tamamen otomatikleşmiş toplum ve Lina'nın gelecekteki eğitim sistemi, kaçınılmaz bir teknolojik gelecek iddiası değil kurgusal anlatı unsurlarıdır."
+      }
+    }
+  },
+  "story_gallery": [
+    {
+      "src": "./assets/images/stories/HUM-0007/01-human-centered-collaboration.webp",
+      "alt": {
+        "en": "People from medicine, engineering, education and civic life make decisions with AI as a supporting intelligence.",
+        "tr": "Tıp, mühendislik, eğitim ve kamusal yaşamdan insanlar yapay zekâyı destekleyici bir zekâ olarak kullanarak karar veriyor."
+      }
+    },
+    {
+      "src": "./assets/images/stories/HUM-0007/02-symbolic-approval.webp",
+      "alt": {
+        "en": "Human overseers sit beneath an immense AI system as their role narrows from deciding to approving.",
+        "tr": "İnsan denetleyiciler, rollerinin karar vermekten onaylamaya daraldığı devasa bir yapay zekâ sisteminin altında oturuyor."
+      }
+    },
+    {
+      "src": "./assets/images/stories/HUM-0007/03-lina-and-ai.webp",
+      "alt": {
+        "en": "Lina faces the luminous intelligence that has learned to optimize nearly every choice in human life.",
+        "tr": "Lina, insan yaşamındaki neredeyse her seçimi optimize etmeyi öğrenmiş ışıklı zekâyla yüzleşiyor."
+      }
+    },
+    {
+      "src": "./assets/images/stories/HUM-0007/04-learning-to-remain-human.webp",
+      "alt": {
+        "en": "Years later, Lina guides children in a classroom where AI provides possibilities while humans learn to ask why.",
+        "tr": "Yıllar sonra Lina, yapay zekânın olasılıklar sunduğu ve insanların neden diye sormayı öğrendiği bir sınıfta çocuklara rehberlik ediyor."
+      }
+    }
+  ]
+}
