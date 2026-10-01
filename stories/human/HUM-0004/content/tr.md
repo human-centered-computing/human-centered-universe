@@ -137,3 +137,4 @@ Beş duyu dünyayı insana taşıyordu.
 Altıncı duyu, dünyanın içindeki saklı ilişkileri açığa çıkarıyordu.
 
 Fakat hangi yöne gidileceğine hâlâ insan karar veriyordu.
+

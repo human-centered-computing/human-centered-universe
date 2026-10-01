@@ -575,3 +575,4 @@ Bu kez karanlığın içinde bir cevap aramıyordu.
 Bir yöntem arıyordu.
 
 Ve belki insan ile yapay zekâ arasındaki gerçek ilişki de tam burada başlıyordu.
+

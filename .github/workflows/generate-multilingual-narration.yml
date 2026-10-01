@@ -30,7 +30,7 @@ permissions:
 
 concurrency:
   group: hcu-multilingual-narration-${{ github.ref }}
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   plan:
