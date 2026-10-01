@@ -259,6 +259,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "HUM-0006",
+      "title": "Bilişsel Uzantı: Bunu Nereden Biliyoruz?",
+      "file": "./HUM-0006.mp3",
+      "duration_seconds": 681.012,
+      "bytes": 8172505,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "WRK-0001",
       "title": "Eşik",
       "file": "./WRK-0001.mp3",
