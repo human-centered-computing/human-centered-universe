@@ -1,0 +1,25 @@
+{
+  "schema": "hcu-story-analysis",
+  "generation_mode": "idea-maturation-three-center",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 42,
+    "LIGHT": 38,
+    "DARK": 20
+  },
+  "center_raw_scores": {
+    "HUMAN": 92,
+    "LIGHT": 84,
+    "DARK": 44
+  },
+  "classification": {
+    "method": "30-criterion HCU narrative analysis after three-center idea maturation",
+    "status": "ai-generated-draft",
+    "confidence": 0.96,
+    "note": "HUMAN leads because Maran retains authority, consequences and responsibility. LIGHT is strong through evidence, uncertainty, provenance, alternatives and explainability. DARK remains essential because the warning begins as an opaque pattern, the unknown is preserved rather than demonized, and the story treats unexplained correctness as both possibility and danger."
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}

@@ -300,12 +300,12 @@
     {
       "observation_order": 27,
       "id": "HUM-0004",
-      "title": "Cognitive Extension: How Do We Know This?",
+      "title": "The Sixth Sense: The Human Decides",
       "primary_center": "HUMAN",
       "center_weights": {
-        "HUMAN": 42,
-        "LIGHT": 38,
-        "DARK": 20
+        "HUMAN": 45,
+        "LIGHT": 40,
+        "DARK": 15
       }
     },
     {
@@ -321,6 +321,17 @@
     },
     {
       "observation_order": 29,
+      "id": "HUM-0006",
+      "title": "Cognitive Extension: How Do We Know This?",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 42,
+        "LIGHT": 38,
+        "DARK": 20
+      }
+    },
+    {
+      "observation_order": 30,
       "id": "WRK-0001",
       "title": "Threshold",
       "primary_center": "HUMAN",
@@ -331,7 +342,7 @@
       }
     },
     {
-      "observation_order": 30,
+      "observation_order": 31,
       "id": "WRK-0002",
       "title": "Place",
       "primary_center": "HUMAN",
@@ -342,7 +353,7 @@
       }
     },
     {
-      "observation_order": 31,
+      "observation_order": 32,
       "id": "WRK-0003",
       "title": "Voice",
       "primary_center": "HUMAN",
@@ -353,7 +364,7 @@
       }
     },
     {
-      "observation_order": 32,
+      "observation_order": 33,
       "id": "WRK-0004",
       "title": "Paper",
       "primary_center": "HUMAN",
@@ -364,7 +375,7 @@
       }
     },
     {
-      "observation_order": 33,
+      "observation_order": 34,
       "id": "WRK-0005",
       "title": "Emptiness",
       "primary_center": "HUMAN",
@@ -375,7 +386,7 @@
       }
     },
     {
-      "observation_order": 34,
+      "observation_order": 35,
       "id": "WRK-0006",
       "title": "Signature",
       "primary_center": "HUMAN",
@@ -386,7 +397,7 @@
       }
     },
     {
-      "observation_order": 35,
+      "observation_order": 36,
       "id": "WRK-0007",
       "title": "Wall",
       "primary_center": "HUMAN",
@@ -397,7 +408,7 @@
       }
     },
     {
-      "observation_order": 36,
+      "observation_order": 37,
       "id": "WRK-0008",
       "title": "Idea",
       "primary_center": "HUMAN",
@@ -408,7 +419,7 @@
       }
     },
     {
-      "observation_order": 37,
+      "observation_order": 38,
       "id": "WRK-0009",
       "title": "Another Name",
       "primary_center": "HUMAN",
@@ -419,7 +430,7 @@
       }
     },
     {
-      "observation_order": 38,
+      "observation_order": 39,
       "id": "WRK-0010",
       "title": "Applause",
       "primary_center": "HUMAN",
@@ -430,7 +441,7 @@
       }
     },
     {
-      "observation_order": 39,
+      "observation_order": 40,
       "id": "WRK-0011",
       "title": "Desk",
       "primary_center": "HUMAN",
@@ -441,7 +452,7 @@
       }
     },
     {
-      "observation_order": 40,
+      "observation_order": 41,
       "id": "WRK-0012",
       "title": "The Waiting One",
       "primary_center": "HUMAN",
@@ -452,7 +463,7 @@
       }
     },
     {
-      "observation_order": 41,
+      "observation_order": 42,
       "id": "WRK-0013",
       "title": "Missing",
       "primary_center": "HUMAN",
@@ -463,7 +474,7 @@
       }
     },
     {
-      "observation_order": 42,
+      "observation_order": 43,
       "id": "WRK-0014",
       "title": "Body",
       "primary_center": "HUMAN",
@@ -474,7 +485,7 @@
       }
     },
     {
-      "observation_order": 43,
+      "observation_order": 44,
       "id": "WRK-0015",
       "title": "Punishment",
       "primary_center": "HUMAN",
@@ -485,7 +496,7 @@
       }
     },
     {
-      "observation_order": 44,
+      "observation_order": 45,
       "id": "WRK-0016",
       "title": "The Same",
       "primary_center": "HUMAN",
@@ -496,7 +507,7 @@
       }
     },
     {
-      "observation_order": 45,
+      "observation_order": 46,
       "id": "WRK-0017",
       "title": "Nameless",
       "primary_center": "HUMAN",
@@ -507,7 +518,7 @@
       }
     },
     {
-      "observation_order": 46,
+      "observation_order": 47,
       "id": "WRK-0018",
       "title": "Result",
       "primary_center": "HUMAN",
@@ -518,7 +529,7 @@
       }
     },
     {
-      "observation_order": 47,
+      "observation_order": 48,
       "id": "WRK-0019",
       "title": "Number",
       "primary_center": "HUMAN",
@@ -529,7 +540,7 @@
       }
     },
     {
-      "observation_order": 48,
+      "observation_order": 49,
       "id": "WRK-0020",
       "title": "Error",
       "primary_center": "HUMAN",
@@ -540,7 +551,7 @@
       }
     },
     {
-      "observation_order": 49,
+      "observation_order": 50,
       "id": "WRK-0021",
       "title": "Absence",
       "primary_center": "HUMAN",
@@ -551,7 +562,7 @@
       }
     },
     {
-      "observation_order": 50,
+      "observation_order": 51,
       "id": "WRK-0022",
       "title": "In Place Of",
       "primary_center": "HUMAN",
@@ -562,7 +573,7 @@
       }
     },
     {
-      "observation_order": 51,
+      "observation_order": 52,
       "id": "WRK-0023",
       "title": "Trace",
       "primary_center": "HUMAN",
@@ -573,7 +584,7 @@
       }
     },
     {
-      "observation_order": 52,
+      "observation_order": 53,
       "id": "WRK-0024",
       "title": "The Extra",
       "primary_center": "HUMAN",
@@ -584,7 +595,7 @@
       }
     },
     {
-      "observation_order": 53,
+      "observation_order": 54,
       "id": "WRK-0025",
       "title": "Silence",
       "primary_center": "HUMAN",
@@ -595,7 +606,7 @@
       }
     },
     {
-      "observation_order": 54,
+      "observation_order": 55,
       "id": "WRK-0026",
       "title": "The Last Task",
       "primary_center": "HUMAN",
@@ -606,7 +617,7 @@
       }
     },
     {
-      "observation_order": 55,
+      "observation_order": 56,
       "id": "WRK-0027",
       "title": "Outside",
       "primary_center": "HUMAN",
@@ -617,7 +628,7 @@
       }
     },
     {
-      "observation_order": 56,
+      "observation_order": 57,
       "id": "WRK-0028",
       "title": "The One Who Remembers",
       "primary_center": "HUMAN",
@@ -628,7 +639,7 @@
       }
     },
     {
-      "observation_order": 57,
+      "observation_order": 58,
       "id": "WRK-0029",
       "title": "Without a Name",
       "primary_center": "HUMAN",
@@ -639,7 +650,7 @@
       }
     },
     {
-      "observation_order": 58,
+      "observation_order": 59,
       "id": "WRK-0030",
       "title": "Visible",
       "primary_center": "HUMAN",

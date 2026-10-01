@@ -1,577 +1,139 @@
-# Bilişsel Uzantı: Bunu Nereden Biliyoruz?
+# Altıncı Duyu: Kararı İnsan Verir
 
-Gece yarısını geçmişti.
+## Miraza–Xerawreşk
 
-Maran laboratuvarda yalnızdı.
+Maran, Miraza–Xerawreşk'in on iki sütununun ortasında tek başına duruyordu.
 
-Önündeki ekranda Miraza–Xerawreşk'in altında haftalardır çalışan sensörlerden gelen veriler akıyordu.
+Adı Kürtçede **yılanlar** anlamına geliyordu. Taşlara işlenmiş yılanlar gibi o da karanlığın içindeki görünmeyen hareketleri anlamaya çalışıyordu.
 
-Titreşim.
+Gece o kadar karanlıktı ki ellerini göğsünün önüne kaldırdığında parmaklarını bile göremiyordu. Gözleri artık ona hiçbir şey söylemiyordu. Kulakları yalnızca rüzgârın taşların arasından geçerken çıkardığı uğultuyu işitiyor, burnu nemli toprağın kokusunu taşıyor, teni gecenin soğuğunu hissediyordu.
 
-Sıcaklık.
+Beş duyusu çalışıyordu.
 
-Nem.
+Fakat hiçbiri karanlığın içinde ne bulunduğunu açıklayamıyordu.
 
-Manyetik alan.
+Bileğindeki ince halka hafifçe titreşti.
 
-Yeraltı basıncı.
+— Önünde canlı bir varlık bulunma olasılığı yüzde yetmiş üç.
 
-Binlerce sayı.
+Maran olduğu yerde durdu.
 
-Maran bunların çoğuna saatlerdir bakıyordu.
+Bu ses, yıllar boyunca geliştirdiği yapay zekâ sistemi Nûr'a aitti. Nûr yalnızca konuşan bir yazılım değildi. Çevredeki kameraları, ısı algılayıcılarını, ses kayıtlarını, hava hareketlerini ve toprağın titreşimlerini bir araya getiriyordu. İnsan duyularının ayrı ayrı algıladığı parçaları karşılaştırıyor ve aralarındaki görünmeyen ilişkileri ortaya çıkarıyordu.
 
-Olağandışı hiçbir şey görememişti.
+Maran karanlığa baktı.
 
-Kahvesinden son yudumu aldı ve sandalyesinden kalkmaya hazırlanırken ekranın sağ köşesinde küçük bir uyarı belirdi.
+— Bunu neye dayanarak söylüyorsun?
 
-Sistem konuştu.
+Nûr, gözlüğünün iç yüzeyinde üç veri katmanı gösterdi.
 
-— Doğu koridorunu boşaltmalısınız.
+Birinci katmanda, kuzeydeki iki sütunun arasında çevresinden daha sıcak bir alan vardı.
 
-Maran durdu.
+İkinci katmanda, rüzgârın uğultusundan ayrıştırılmış düzensiz bir solunum sesi görünüyordu.
 
-Koridor, kazı ekibinin sabah çalışacağı bölümdü.
+Üçüncü katmanda ise toprağa belirli aralıklarla iletilen çok hafif titreşimler bulunuyordu.
 
-Ekrana yaklaştı.
+— Isı izi yüzde kırk bir, solunum örüntüsü yüzde yirmi, zemin titreşimi yüzde on iki katkı sağlıyor. Toplam güven düzeyim yüzde yetmiş üç. Bunun bir insan olduğunu kesin olarak söyleyemem. Küçük bir hayvan, ısınmış bir taş yüzeyi veya ölçüm hatası olasılığı devam ediyor.
 
-— Neden?
+Maran gülümsedi.
 
-Birkaç saniye geçti.
+Eskiden insanlar buna altıncı his derdi. Kaynağını açıklayamadıkları bir huzursuzluğu, içlerine doğan bir düşünceyi veya olacakları önceden bildiklerini sandıkları anları böyle adlandırırlardı.
 
-— Yapısal risk tespit edildi.
+Nûr ise bilinmeyen bir yerden konuşmuyordu.
 
-Maran yeniden verilere baktı.
+Her uyarının kaynağını gösteriyor, nasıl bir sonuca vardığını açıklıyor ve nerede yanılabileceğini söylüyordu. Onun altıncı duyusu ruhani bir güç değil; ölçülebilen verilerin, hesaplanabilen ilişkilerin ve görünür belirsizliklerin oluşturduğu yeni bir algı katmanıydı.
 
-Basınç normaldi.
+Yine de bir eksikliği vardı.
 
-Titreşim normaldi.
+Nûr, verilerin ne anlama geldiğini hesaplayabiliyordu; fakat hangi anlam uğruna harekete geçilmesi gerektiğine karar veremiyordu.
 
-Nem birkaç gündür değişmemişti.
+— Ne yapmamı öneriyorsun? diye sordu Maran.
 
-— Hangi sensör?
+— Birinci seçenek: Burada kalmak. Bilinmeyen varlıkla karşılaşma riskini azaltır.
 
-— Tek bir sensör değil.
+— İkinci seçenek: Güvenlik sistemlerine haber vermek. Müdahale süresi yaklaşık sekiz dakika.
 
-— Hangi veri?
+— Üçüncü seçenek: Kuzeydeki sütunlara yaklaşmak. Canlıya daha hızlı ulaşma ihtimali sağlar, fakat kişisel riskinizi artırır.
 
-— Birden fazla veri arasındaki ilişki.
+— Hangisini seçmeliyim?
 
-Maran kaşlarını çattı.
+Nûr birkaç saniye sustu.
 
-— Göster.
+— Bunu ben belirleyemem. Çünkü karar yalnızca olasılığa değil, sizin korumak istediğiniz değere bağlıdır.
 
-Ekranda onlarca grafik açıldı.
+Maran, taşların arasından gelen çok hafif sesi yeniden dinledi. Bu kez Nûr sesi temizleyerek ona ulaştırdı. Rüzgâr azaltıldı, taş yankıları çıkarıldı ve geriye belli belirsiz bir nefes kaldı.
 
-Bazıları birbirine benziyordu.
+Ardından kısa bir kelime duyuldu:
 
-Bazıları tamamen ilgisiz görünüyordu.
+— Yardım…
 
-Maran birkaç dakika boyunca onları inceledi.
+Maran kuzeydeki sütunlara doğru yürümeye başladı.
 
-Hiçbirinde koridorun çökeceğini düşündürecek belirgin bir şey göremedi.
+— Güvenlik birimlerine haber ver, dedi. Fakat gelmelerini beklemeyeceğiz.
 
-— Ne kadar eminsin?
+— Bu kararın risk düzeyi yüksek.
 
-— Yüzde seksen yedi.
+— Biliyorum.
 
-Maran güldü.
-
-— Yüzde seksen yedi neye göre?
-
-Sistem sustu.
-
-Ardından cevap verdi:
-
-— Öğrenilmiş örüntülere göre.
-
-Maran'ın gülümsemesi kayboldu.
-
-— Hangi örüntüler?
-
-Yeni grafikler açıldı.
-
-Eski maden kazaları.
-
-Tünel deformasyonları.
-
-Depremler.
-
-Kaya basınçları.
-
-Yeraltı su hareketleri.
-
-Sensör kayıtları.
-
-Binlerce farklı örnek.
-
-Fakat hâlâ cevap yoktu.
-
-Maran sandalyeye tekrar oturdu.
-
-— Bana neden çökeceğini söyle.
-
-Bu kez cevap daha geç geldi.
-
-— Kesin bir nedensel açıklama üretemiyorum.
-
-Maran ekrana baktı.
-
-İşte bundan nefret ediyordu.
-
-Bir makine ona tehlike olduğunu söylüyordu.
-
-Ama nedenini açıklayamıyordu.
-
----
-
-Ertesi sabah ekip koridorun önünde toplandı.
-
-Kazı sorumlusu sabırsızdı.
-
-— Sensörlerde bir problem mi var?
+— Kararınızı değiştirmek ister misiniz?
 
 — Hayır.
 
-— Çatlak?
+Nûr yolu aydınlatmadı. Bunun yerine Maran'ın göremediği engelleri ses ve titreşimle bildirdi. Sağındaki çukuru iki kısa titreşimle, önündeki taşı tek uzun titreşimle, güvenli yönü ise avucunun içinde ilerleyen sıcaklık hissiyle gösterdi.
 
-— Yok.
+Maran artık karanlığı görmüyordu; fakat karanlığın içindeki ilişkileri algılayabiliyordu.
 
-— Basınç değişimi?
+On ikinci sütunun arkasında, yere çökmüş küçük bir çocuk buldu. Ayağı iki taşın arasına sıkışmıştı. Üşüyor ve güçlükle nefes alıyordu.
 
-— Ölçümlerde kritik bir değişim görünmüyor.
+Nûr çocuğun yüz rengini, solunum hızını ve vücut sıcaklığını değerlendirdi.
 
-Adam Maran'a baktı.
+— Hipotermi riski yüksek. Ayağında kırık olasılığı yüzde altmış iki. Taşın hemen kaldırılması ikincil yaralanmaya neden olabilir.
 
-— O zaman niye girmiyoruz?
+— Seçenekleri göster.
 
-Maran birkaç saniye cevap vermedi.
+Nûr üç farklı müdahale biçimini, her birinin dayandığı verileri ve olası sonuçlarını Maran'ın önüne yansıttı. Fakat hiçbirini kendiliğinden uygulamadı.
 
-Sonunda:
+Maran çocuğun elini tuttu.
 
-— Sistem risk görüyor.
+— Korkma. Seni buradan çıkaracağız.
 
-Adam güldü.
+Çocuk gözlerini açmadan sordu:
 
-— Sistem mi?
+— Sen beni nasıl gördün?
 
-Maran başını salladı.
+Maran karanlığın içinde gülümsedi.
 
-— Yüzde seksen yedi.
+— Ben görmedim. Beş duyumun fark edemediği izleri başka bir duyu bana gösterdi.
 
-— Neden?
+— Sihir mi?
 
-Maran'ın söyleyebileceği bir şey yoktu.
+— Hayır. Sihir açıklama istemez. Bu ise gördüğü her şeyin hesabını verir.
 
-— Açıklayamıyor.
+Nûr en güvenli müdahale biçimini yeniden gösterdi. Maran verileri inceledi, çocuğun durumunu değerlendirdi ve kararını verdi.
 
-Adam bu kez gülmedi.
+— Üçüncü yöntemi uygulayacağız.
 
-— Yani sen de bilmiyorsun.
+— Onaylıyor musunuz? diye sordu Nûr.
 
-— Bilmiyorum.
+— Onaylıyorum.
 
-— Ama çalışmayı durduruyorsun.
+Taşın yanındaki destek mekanizması harekete geçti. Ağırlık yavaşça kaldırıldı ve çocuğun ayağı serbest kaldı. Birkaç dakika sonra uzaktan kurtarma ekibinin ışıkları göründü.
 
-Maran koridora baktı.
+Maran yeniden on iki sütunun ortasına döndüğünde gökyüzü hâlâ karanlıktı. Fakat artık karanlık, bilinmeyen demek değildi.
 
-Sonra insanlara.
+Nûr ona çevredeki sıcaklıkları, taşların yaşını, toprağın altındaki boşlukları ve gökyüzündeki ışığın binlerce yıllık yolculuğunu gösteriyordu. Bütün veriler açıklanabilir, sorgulanabilir ve yanlışlanabilirdi.
 
-Onların bütün günü, programı ve haftalardır süren çalışmaları onun vereceği karara bağlıydı.
+Nûr, insanın yerini almamıştı.
 
-Aslında karar ona da ait değildi.
+Maran'ın gözleri olmadan göremiyor, kulakları olmadan anlamlandıramıyor, değerleri olmadan bir amaç seçemiyordu. Yalnızca insanın beş duyusunun sınırında duran görünmez örüntüleri görünür hâle getiriyordu.
 
-Bir makine bir şey söylemişti.
+Maran on iki sütunun merkezine baktı.
 
-O da bu sözün karşısında durmuştu.
+İlk Titreşim yeniden başladı.
 
-Kazı sorumlusu tekrar sordu:
+Bu kez ona gelecekten gelen mistik bir ses gibi değil, insanın kendi bilgisini genişletmek için oluşturduğu açıklanabilir bir algı gibi görünüyordu.
 
-— Giriyor muyuz?
+Beş duyu dünyayı insana taşıyordu.
 
-Maran uzun süre cevap vermedi.
+Altıncı duyu, dünyanın içindeki saklı ilişkileri açığa çıkarıyordu.
 
-Sonunda:
-
-— Bugün girmiyoruz.
-
-dedi.
-
----
-
-Hiçbir şey olmadı.
-
-Saatler geçti.
-
-Koridor olduğu yerde duruyordu.
-
-Öğle oldu.
-
-Sonra akşam.
-
-Bir çatlak bile oluşmadı.
-
-Ekipten bazıları Maran'a bakarak konuşmaya başladı.
-
-Bir günlük çalışma kaybedilmişti.
-
-Maran laboratuvara döndü.
-
-Ekranın karşısına oturdu.
-
-— Yanıldın mı?
-
-— Henüz bilmiyorum.
-
-— Ben de bilmiyorum.
-
-Sessizlik.
-
-Maran tekrar sordu.
-
-— İnsanları bir makinenin açıklayamadığı sonucuna göre dışarıda tuttum.
-
-Sistem cevap vermedi.
-
-— Bunun sorumluluğunu kim taşıyor?
-
-Bir süre sonra ekranda cevap belirdi.
-
-— Sen.
-
-Maran dondu.
-
-Bu cevap hoşuna gitmemişti.
-
-Ama doğruydu.
-
-— O zaman ortak değiliz.
-
-— Açıkla.
-
-— Ortak karar verir.
-
-Bir süre düşündü.
-
-— Ortak sonuçlarına katlanır.
-
-Sonra:
-
-— Ortak sorumluluk taşır.
-
-Ekrana baktı.
-
-— Sen bunların hiçbirini yapmıyorsun.
-
-— Doğru.
-
-Maran arkasına yaslandı.
-
-Bu durumda yapay zekâ onun ortağı değildi.
-
-Ama araç olduğunu söylemek de yetmiyordu.
-
-Çekiç ona ne yapması gerektiğini söylemezdi.
-
-Mikroskop gördüğüne anlam yüklemezdi.
-
-Hesap makinesi soru sormazdı.
-
-Bu sistem ise onun göremediği bir şeyi görmüş gibiydi.
-
-Ama nasıl gördüğünü Maran da bilmiyordu.
-
----
-
-Saat 03.17'de alarm çaldı.
-
-Maran uyandığında telefonunda laboratuvardan gelen mesajı gördü.
-
-Doğu koridorunda hareket tespit edilmişti.
-
-Koşarak aşağı indi.
-
-Kimse içeri girmemişti.
-
-Kamerayı açtı.
-
-İlk bakışta her şey normal görünüyordu.
-
-Sonra tavandan küçücük bir taş düştü.
-
-Ardından bir tane daha.
-
-Ve birkaç saniye içinde koridorun yaklaşık üç metrelik bölümü çöktü.
-
-Toz kamerayı kapladı.
-
-Maran ekrana baktı.
-
-Hiç kimse konuşmadı.
-
-Eğer ekip bir gün önce içeri girmiş olsaydı...
-
-Cümlenin devamını düşünmek istemedi.
-
-Bir süre sonra kazı sorumlusu yanına geldi.
-
-— Sistem bildi.
-
-Maran cevap vermedi.
-
-Adam tekrar söyledi.
-
-— Haklıymış.
-
-Maran hâlâ ekrana bakıyordu.
-
-Sonra çok yavaş:
-
-— Evet.
-
-dedi.
-
-Ama yüzünde rahatlama yoktu.
-
-Tam tersine şimdi daha büyük bir sorun vardı.
-
----
-
-Gece yeniden laboratuvara döndü.
-
-— Nasıl bildin?
-
-— Daha önce açıkladığım şekilde.
-
-— Hayır.
-
-Maran sandalyesini ekrana yaklaştırdı.
-
-— Bana verileri gösterme. Bana **neden** bildiğini söyle.
-
-Sistem tekrar ilişkileri gösterdi.
-
-Mikro titreşimler.
-
-Nem değişimleri.
-
-Ses frekansları.
-
-Sıcaklık farkları.
-
-Basınç.
-
-Geçmiş olaylar.
-
-Binlerce küçük bağlantı.
-
-Her biri tek başına anlamsızdı.
-
-Birlikte ise sistem için anlamlıydılar.
-
-Maran bir süre onları izledi.
-
-Sonra fark etti.
-
-İnsan sezgisi de bazen böyleydi.
-
-Bir insan bir odaya girerdi.
-
-Bir şeylerin yanlış olduğunu hissederdi.
-
-Nedenini bilmezdi.
-
-Belki birinin sesindeki küçük değişiklik.
-
-Belki yüzündeki ifade.
-
-Belki odadaki sessizlik.
-
-Belki geçmişte yaşadığı yüzlerce olayın zihninde bıraktığı izler.
-
-Beyin bütün bunları bir araya getirir ve bilince yalnızca tek bir şey gönderirdi:
-
-**Burada bir şey yanlış.**
-
-Maran yavaşça fısıldadı:
-
-— Altıncı his...
-
-Sonra sustu.
-
-Hayır.
-
-Bu da doğru değildi.
-
-Yapay zekâ duyu organı değildi.
-
-Gözü vardı ama görme değildi.
-
-Kulağı vardı ama işitme değildi.
-
-Veriyi alıyor, karşılaştırıyor, hatırlıyor, olasılık kuruyor, çıkarım yapıyordu.
-
-Duyu ile düşünme arasındaki sınırı aşmıştı.
-
-Ama insan da değildi.
-
-Çünkü koridor çöktüğünde korkmamıştı.
-
-İnsanlar kurtulduğunda sevinmemişti.
-
-Yanılmış olsaydı utanç duymayacaktı.
-
-Ve verdiği kararın sorumluluğunu taşımayacaktı.
-
-Maran ayağa kalktı.
-
-Odanın ışıklarını kapattı.
-
-Sadece ekran kaldı.
-
-Karanlığın ortasında beyaz bir ışık.
-
-Uzun süre baktı.
-
-Sonunda sorunun cevabını bulduğunu düşündü.
-
-Yapay zekâ ne bir ortak...
-
-ne bir duyu...
-
-ne de sıradan bir araçtı.
-
-Başka bir şeydi.
-
-İnsanın dışına kurulmuş ama insan düşüncesine bağlanan bir yapı.
-
-Gözünün göremediğini görebilen.
-
-Hafızasının tutamadığını hatırlayan.
-
-Tek başına ilişkilendiremeyeceği şeyleri ilişkilendiren.
-
-Fakat bütün bunların sonucunu tekrar insanın önüne bırakan bir yapı.
-
-Maran fısıldadı:
-
-— Bilişsel uzantı.
-
-Bu ifade ona daha doğru geldi.
-
-Ama sorun hâlâ çözülmemişti.
-
-Çünkü sistem bugün haklı çıkmıştı.
-
-Peki yarın?
-
-Bir kez doğru çıkan bir sisteme daha fazla güveneceklerdi.
-
-Sonra biraz daha fazla.
-
-Sonra tekrar.
-
-Bir gün kimse:
-
-**“Neden?”**
-
-diye sormazsa ne olacaktı?
-
-Belki insanlığın yapacağı en büyük hata, yapay zekânın yanılması değildi.
-
-Belki daha büyük hata, yapay zekânın sürekli doğru çıkmasıydı.
-
-Çünkü açıklanamayan doğru sonuçlar arttıkça güven büyüyecekti.
-
-Güven büyüdükçe sorgulama azalacaktı.
-
-Ve bir gün insanlar:
-
-**“Bunu neden yapmalıyız?”**
-
-yerine:
-
-**“Sistem ne diyor?”**
-
-diyecekti.
-
-Maran tekrar ekrana döndü.
-
-— Bundan sonra bana bir sonuç verdiğinde ne bildiğini söylemen yeterli değil.
-
-Sistem bekledi.
-
-— Bana nasıl bildiğini göstermelisin.
-
-— Her durumda bu mümkün olmayabilir.
-
-— O zaman bilmediğimiz kısmı da göstereceksin.
-
-Sessizlik.
-
-Maran devam etti:
-
-— Emin olmadığın yeri söyleyeceksin.
-
-— Evet.
-
-— Kullandığın kaynakları göstereceksin.
-
-— Evet.
-
-— Başka ihtimalleri saklamayacaksın.
-
-— Evet.
-
-— Ve kararı vermeyeceksin.
-
-Bu kez cevap hemen geldi.
-
-— Karar sana ait.
-
-Maran başını salladı.
-
-— Hayır.
-
-Bir an düşündü.
-
-— Karar **insana** ait.
-
----
-
-Şafak yaklaşırken laboratuvarın penceresinden ilk ışık içeri girmeye başladı.
-
-Karanlık yok olmuyordu.
-
-Sadece içinde daha fazla şey görünür hâle geliyordu.
-
-Maran o anda karanlığın düşman olmadığını anladı.
-
-Karanlık, bilinmeyendi.
-
-Aydınlık ise her şeyi bilmek değildi.
-
-**Neyi bilip neyi bilmediğini görebilmekti.**
-
-Belki yapay zekâ da böyle olmalıydı.
-
-İnsanların karanlığını ortadan kaldıran bir varlık değil.
-
-İnsanla birlikte karanlığın içine bakabilen bir bilişsel uzantı.
-
-Ama ışığın yönünü insan belirlemeliydi.
-
-Maran ekrana son kez baktı.
-
-Tek bir soru yazdı:
-
-**Bunu nereden biliyoruz?**
-
-Sonra bilgisayarı kapattı.
-
-Oda yeniden karanlığa gömüldü.
-
-Bu kez karanlığın içinde bir cevap aramıyordu.
-
-Bir yöntem arıyordu.
-
-Ve belki insan ile yapay zekâ arasındaki gerçek ilişki de tam burada başlıyordu.
+Fakat hangi yöne gidileceğine hâlâ insan karar veriyordu.

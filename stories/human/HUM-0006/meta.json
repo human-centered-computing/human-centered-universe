@@ -1,0 +1,202 @@
+{
+  "id": "HUM-0006",
+  "title": "Cognitive Extension: How Do We Know This?",
+  "original_title": "Bilişsel Uzantı: Bunu Nereden Biliyoruz?",
+  "status": "canon",
+  "source_language": "en",
+  "culture": [
+    "Miraza–Xerawreşk",
+    "human-centered artificial intelligence",
+    "explainable AI",
+    "cognitive extension",
+    "human responsibility",
+    "uncertainty and evidence"
+  ],
+  "belief_context": [
+    "human agency",
+    "knowledge and uncertainty",
+    "responsibility without machine personhood",
+    "darkness as the unknown rather than evil",
+    "technology as an external cognitive layer"
+  ],
+  "summary": "When an AI system warns Maran that an apparently stable excavation corridor may collapse, it cannot fully explain the causal path behind its prediction. Maran stops the work anyway and later sees the warning proved correct. The success creates a harder problem: unexplained correctness can turn artificial intelligence into something that feels like a sixth sense and gradually replace questioning with trust. Maran rejects both the partner metaphor and the sense-organ metaphor, defining AI instead as a cognitive extension: an external layer that expands human perception and reasoning while exposing evidence, uncertainty and alternatives, with final responsibility remaining human.",
+  "translations": {
+    "en": {
+      "status": "canonical",
+      "human_reviewed": true
+    },
+    "tr": {
+      "status": "reviewed",
+      "human_reviewed": true
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/HUM-0006/01-hidden-risk.webp",
+    "alt": {
+      "en": "Maran studies layered underground sensor patterns in a dark laboratory as a hidden structural risk emerges from the data.",
+      "tr": "Maran karanlık laboratuvarda yeraltı sensör örüntülerini incelerken verilerin içinden görünmeyen bir yapısal risk beliriyor."
+    },
+    "caption": {
+      "en": "The system detects a risk that the human cannot yet see, but detection alone does not explain why it should be trusted.",
+      "tr": "Sistem insanın henüz göremediği bir riski tespit eder; fakat tespit tek başına neden güvenilmesi gerektiğini açıklamaz."
+    }
+  },
+  "story_gallery": [
+    {
+      "src": "./assets/images/stories/HUM-0006/01-hidden-risk.webp",
+      "alt": {
+        "en": "Maran studies hidden sensor relationships in the midnight laboratory.",
+        "tr": "Maran gece yarısı laboratuvarında görünmeyen sensör ilişkilerini inceliyor."
+      }
+    },
+    {
+      "src": "./assets/images/stories/HUM-0006/02-human-decision.webp",
+      "alt": {
+        "en": "Maran stops the excavation team from entering an apparently stable corridor.",
+        "tr": "Maran görünürde sağlam olan koridora girmek isteyen kazı ekibini durduruyor."
+      }
+    },
+    {
+      "src": "./assets/images/stories/HUM-0006/03-collapse.webp",
+      "alt": {
+        "en": "The evacuated underground corridor collapses after the warning.",
+        "tr": "Uyarıdan sonra boşaltılmış yeraltı koridoru çöküyor."
+      }
+    },
+    {
+      "src": "./assets/images/stories/HUM-0006/04-cognitive-extension.webp",
+      "alt": {
+        "en": "Maran confronts a luminous network of signals and relationships while questioning how the AI knew.",
+        "tr": "Maran yapay zekânın nasıl bildiğini sorgularken ışıklı sinyal ve ilişki ağlarıyla karşı karşıya kalıyor."
+      }
+    },
+    {
+      "src": "./assets/images/stories/HUM-0006/05-dawn-explainability.webp",
+      "alt": {
+        "en": "At dawn, warm human-directed light meets the cool glow of the AI system.",
+        "tr": "Şafakta insanın yön verdiği sıcak ışık, yapay zekâ sisteminin soğuk parıltısıyla buluşuyor."
+      }
+    }
+  ],
+  "links": [
+    {
+      "target": "HUM-0005",
+      "type": "theme",
+      "note": "The cognitive-extension principle continues into NextProject, where AI may detect invisible contribution but must expose evidence and leave meaning and ownership to people."
+    },
+    {
+      "target": "BRG-0013",
+      "type": "theme",
+      "note": "The Reality Bridge requires signals, confidence, uncertainty and alternatives to remain inspectable and contestable rather than becoming unquestioned machine intuition."
+    },
+    {
+      "target": "BRG-0017",
+      "type": "theme",
+      "note": "The story develops the Informatics 5.0 boundary between machine inference and human responsibility."
+    },
+    {
+      "target": "BRG-0002",
+      "type": "echo",
+      "note": "The First Vibration returns as a question about darkness, knowledge and what becomes visible without eliminating the unknown."
+    }
+  ],
+  "localized": {
+    "en": {
+      "title": "Cognitive Extension: How Do We Know This?",
+      "summary": "An unexplained but correct AI warning forces Maran to distinguish a cognitive extension from a partner, a sense organ, and an ordinary tool."
+    },
+    "tr": {
+      "title": "Bilişsel Uzantı: Bunu Nereden Biliyoruz?",
+      "summary": "Açıklanamayan ama doğru çıkan bir yapay zekâ uyarısı, Maran'ı bilişsel uzantıyı ortak, duyu organı ve sıradan araçtan ayırmaya zorlar."
+    }
+  },
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 42,
+    "LIGHT": 38,
+    "DARK": 20
+  },
+  "observer_choices": [
+    {
+      "key": "keep_human_responsibility",
+      "label": "Use AI as a cognitive extension while keeping final responsibility human.",
+      "labels": {
+        "en": "Use AI as a cognitive extension while keeping final responsibility human.",
+        "tr": "Yapay zekâyı bilişsel uzantı olarak kullan; nihai sorumluluğu insanda tut."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 2,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "demand_explainability",
+      "label": "Require evidence, uncertainty and alternatives before trusting the result.",
+      "labels": {
+        "en": "Require evidence, uncertainty and alternatives before trusting the result.",
+        "tr": "Sonuca güvenmeden önce kanıtı, belirsizliği ve alternatifleri görünür kıl."
+      },
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 10,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "investigate_unknown_pattern",
+      "label": "Treat the unexplained pattern as a provisional signal worth investigating.",
+      "labels": {
+        "en": "Treat the unexplained pattern as a provisional signal worth investigating.",
+        "tr": "Açıklanamayan örüntüyü araştırılmaya değer geçici bir sinyal olarak ele al."
+      },
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 2,
+        "DARK": 10
+      }
+    }
+  ],
+  "choice_epistemic_layers": {
+    "labels": {
+      "en": {
+        "heading": "How this scene knows what it knows",
+        "established_science": "Established science",
+        "real_engineering": "Real engineering",
+        "interpretation": "Interpretation",
+        "philosophy": "Philosophy",
+        "science_fiction": "Science fiction"
+      },
+      "tr": {
+        "heading": "Bu sahne bildiğini nasıl biliyor?",
+        "established_science": "Yerleşik bilim",
+        "real_engineering": "Gerçek mühendislik",
+        "interpretation": "Yorum",
+        "philosophy": "Felsefe",
+        "science_fiction": "Bilim kurgu"
+      }
+    },
+    "notes": {
+      "established_science": {
+        "en": "Machine-learning systems can combine many weak signals into a useful prediction without providing a simple causal explanation for every output.",
+        "tr": "Makine öğrenmesi sistemleri çok sayıdaki zayıf sinyali yararlı bir tahminde birleştirebilir; her çıktı için basit bir nedensel açıklama üretmeleri gerekmez."
+      },
+      "real_engineering": {
+        "en": "Structural monitoring can use vibration, acoustic, environmental and deformation sensors; the specific Miraza–Xerawreşk system is fictional.",
+        "tr": "Yapısal izleme titreşim, akustik, çevresel ve deformasyon sensörlerini kullanabilir; Miraza–Xerawreşk'teki özel sistem kurgusaldır."
+      },
+      "interpretation": {
+        "en": "The story interprets black-box success as a risk to human questioning when correct outputs accumulate without sufficient explanation.",
+        "tr": "Hikâye, yeterli açıklama olmadan doğru çıktılar biriktikçe kara-kutu başarısını insan sorgulaması için bir risk olarak yorumlar."
+      },
+      "philosophy": {
+        "en": "The term cognitive extension is used here to frame AI as an external layer that expands perception and reasoning without becoming a moral agent responsible for human consequences.",
+        "tr": "Bilişsel uzantı kavramı burada yapay zekâyı, insan sonuçlarından ahlaki olarak sorumlu bir özneye dönüşmeden algı ve muhakemeyi genişleten dışsal bir katman olarak çerçeveler."
+      },
+      "science_fiction": {
+        "en": "The underground Miraza–Xerawreşk laboratory and its integrated predictive infrastructure belong to the fictional universe.",
+        "tr": "Yeraltındaki Miraza–Xerawreşk laboratuvarı ve bütünleşik öngörü altyapısı kurgu evrenine aittir."
+      }
+    }
+  }
+}
