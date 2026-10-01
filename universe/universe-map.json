@@ -659,6 +659,17 @@
         "LIGHT": 33,
         "DARK": 33
       }
+    },
+    {
+      "observation_order": 60,
+      "id": "HUM-0007",
+      "title": "Learning to Remain Human",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 55,
+        "LIGHT": 25,
+        "DARK": 20
+      }
     }
   ],
   "experimental_nodes": [
