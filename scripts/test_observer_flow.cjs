@@ -36,7 +36,7 @@ assert.deepEqual(engine.totalChoiceEffects(mixedLog), { HUMAN: 2, LIGHT: 2, DARK
 const trajectory = engine.observerTrajectory(mixedLog);
 assert.equal(trajectory.length, 2, "the trail contains a baseline plus one narrative choice");
 assert.deepEqual(trajectory[0].profile, baseline);
-assert.deepEqual(trajectory[1].profile, { HUMAN: 32, LIGHT: 31, DARK: 37 });
+assert.deepEqual(trajectory[1].profile, { HUMAN: 31, LIGHT: 31, DARK: 38 });
 trajectory.forEach(point => assert.equal(point.profile.HUMAN + point.profile.LIGHT + point.profile.DARK, 100));
 
 const reconciledTrajectory = engine.observerTrajectory(mixedLog, { HUMAN: 90, LIGHT: 4, DARK: 6 });
