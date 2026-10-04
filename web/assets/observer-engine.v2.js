@@ -37,8 +37,14 @@
     return result;
   }
 
+  function isObserverChoice(entry) {
+    return Boolean(entry) && !String(entry.source || "").startsWith("first_vibration_intro");
+  }
+
   function totalChoiceEffects(choiceLog = []) {
-    return choiceLog.reduce((total, entry) => add(total, entry?.effects), { HUMAN: 0, LIGHT: 0, DARK: 0 });
+    return choiceLog
+      .filter(isObserverChoice)
+      .reduce((total, entry) => add(total, entry.effects), { HUMAN: 0, LIGHT: 0, DARK: 0 });
   }
 
   function migrateObserverRaw(storedRaw, choiceLog = [], storedVersion = 0) {
@@ -52,11 +58,60 @@
   }
 
   function isStoryChoice(entry, storyId) {
-    return entry?.story_id === storyId && !String(entry?.source || "").startsWith("first_vibration_intro");
+    return entry?.story_id === storyId && isObserverChoice(entry);
   }
 
   function storyChoice(choiceLog = [], storyId) {
     return [...choiceLog].reverse().find(entry => isStoryChoice(entry, storyId)) || null;
+  }
+
+  function observerTrajectory(choiceLog = [], currentRaw = null) {
+    let running = { ...BASELINE };
+    const points = [{
+      index: 0,
+      kind: "baseline",
+      story_id: null,
+      key: "baseline",
+      source: "observer_baseline_v2",
+      chosen_at: null,
+      effects: { HUMAN: 0, LIGHT: 0, DARK: 0 },
+      raw: { ...running },
+      profile: normalize(running)
+    }];
+
+    choiceLog.filter(isObserverChoice).forEach(entry => {
+      const effects = raw(entry.effects);
+      running = add(running, effects);
+      points.push({
+        index: points.length,
+        kind: "choice",
+        story_id: entry.story_id || null,
+        key: entry.key || null,
+        source: entry.source || null,
+        chosen_at: entry.chosen_at || null,
+        effects,
+        raw: { ...running },
+        profile: normalize(running)
+      });
+    });
+
+    if (currentRaw) {
+      const current = raw(currentRaw);
+      if (!equal(current, running)) {
+        points.push({
+          index: points.length,
+          kind: "current",
+          story_id: null,
+          key: "current_state",
+          source: "preserved_observer_state",
+          chosen_at: null,
+          effects: null,
+          raw: current,
+          profile: normalize(current)
+        });
+      }
+    }
+    return points;
   }
 
   function distance(a, b) {
@@ -90,5 +145,5 @@
       .sort((a, b) => a.score - b.score || a.profileDistance - b.profileDistance || (a.story.observation_order ?? 9999) - (b.story.observation_order ?? 9999));
   }
 
-  return { CENTERS, BASELINE, MODEL_VERSION, raw, add, normalize, totalChoiceEffects, migrateObserverRaw, storyChoice, distance, rankRecommendations };
+  return { CENTERS, BASELINE, MODEL_VERSION, raw, add, normalize, totalChoiceEffects, migrateObserverRaw, storyChoice, observerTrajectory, distance, rankRecommendations };
 });
