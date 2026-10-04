@@ -31,6 +31,18 @@ const mixedLog = [
 ];
 assert.equal(engine.storyChoice(mixedLog.slice(0, 1), "BRG-0002"), null);
 assert.equal(engine.storyChoice(mixedLog, "BRG-0002").key, "story_choice");
+assert.deepEqual(engine.totalChoiceEffects(mixedLog), { HUMAN: 2, LIGHT: 2, DARK: 10 }, "intro interactions must not alter Observer State");
+
+const trajectory = engine.observerTrajectory(mixedLog);
+assert.equal(trajectory.length, 2, "the trail contains a baseline plus one narrative choice");
+assert.deepEqual(trajectory[0].profile, baseline);
+assert.deepEqual(trajectory[1].profile, { HUMAN: 32, LIGHT: 31, DARK: 37 });
+trajectory.forEach(point => assert.equal(point.profile.HUMAN + point.profile.LIGHT + point.profile.DARK, 100));
+
+const reconciledTrajectory = engine.observerTrajectory(mixedLog, { HUMAN: 90, LIGHT: 4, DARK: 6 });
+assert.equal(reconciledTrajectory.length, 3);
+assert.equal(reconciledTrajectory[2].kind, "current", "an unknown preserved state remains visible instead of being rewritten");
+assert.deepEqual(reconciledTrajectory[2].profile, { HUMAN: 90, LIGHT: 4, DARK: 6 });
 
 const stories = [
   { id: "CURRENT", center_weights: { HUMAN: 34, LIGHT: 33, DARK: 33 }, links: [{ target: "LINKED" }], observation_order: 1 },
@@ -49,5 +61,8 @@ assert.match(appSource, /if\(recordedStoryChoice\(story\.id\)\) return false/);
 assert.doesNotMatch(appSource.match(/function applyChoice[\s\S]*?\n}/)?.[0] || "", /setStory\(/, "committing a choice must not auto-open the recommendation");
 assert.match(appSource, /id="export-journey"/);
 assert.match(appSource, /event\.key!=="Enter"&&event\.key!==" "/);
+assert.match(appSource, /class="observer-trail-line"/);
+assert.match(appSource, /observer_trajectory:observerTrajectory\(\)/);
+assert.match(appSource, /HUMAN \+ LIGHT \+ DARK = 100/);
 
 console.log("Observer flow v2 tests passed.");
