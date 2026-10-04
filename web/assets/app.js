@@ -101,6 +101,11 @@ function normalize(raw){
   return floor;
 }
 function observerState(){ return normalize(state.observerRaw); }
+function observerTrajectory(){
+  if(observerEngine?.observerTrajectory) return observerEngine.observerTrajectory(state.choiceLog,state.observerRaw);
+  const profile=observerState();
+  return [{index:0,kind:"current",story_id:null,key:"current_state",source:"observer_fallback",chosen_at:null,effects:null,raw:{...state.observerRaw},profile}];
+}
 function dominantCenter(profile=observerState()){
   return [...CENTER_KEYS].sort((a,b)=>profile[b]-profile[a] || CENTER_KEYS.indexOf(a)-CENTER_KEYS.indexOf(b))[0];
 }
@@ -334,12 +339,22 @@ function trianglePoint(w){
 function renderExplore(){
   const stories=orderedStories();
   const categoryCounts=CENTER_KEYS.reduce((acc,center)=>{ acc[center]=stories.filter(s=>primaryCenter(s)===center).length; return acc; },{});
+  const trajectory=observerTrajectory();
+  const latestTrajectory=trajectory[trajectory.length-1];
+  const trajectoryCoordinates=trajectory.map(step=>({...trianglePoint(step.profile),step}));
+  const trajectoryLine=trajectoryCoordinates.map(point=>\`\${point.x},\${point.y}\`).join(" ");
+  const trajectorySvg=trajectoryCoordinates.length?\`<g class="observer-trail" aria-hidden="true">\${trajectoryCoordinates.length>1?\`<polyline points="\${trajectoryLine}" class="observer-trail-line"/>\`:""}\${trajectoryCoordinates.map((point,index)=>\`<g class="observer-trail-step"><circle cx="\${point.x}" cy="\${point.y}" r="\${index===trajectoryCoordinates.length-1?10:7}" class="observer-trail-point \${index===0?"baseline":""} \${index===trajectoryCoordinates.length-1?"current":""}"/><text x="\${point.x}" y="\${point.y+3}" text-anchor="middle" class="observer-trail-index">\${index}</text></g>\`).join("")}</g>\`:"";
+  const trajectoryItems=trajectory.map((step,index)=>{
+    const story=step.story_id?storyById(step.story_id):null;
+    const label=index===0?t("observer_state","Observer State"):(story?storyTitle(story):(step.kind==="current"?t("observer_state","Observer State"):(step.story_id||step.key||"")));
+    return \`<li class="\${index===trajectory.length-1?"current":""}"><span><b>\${index}</b><strong>\${escapeHtml(label)}</strong></span><small>\${escapeHtml(formatWeights(step.profile))}</small></li>\`;
+  }).join("");
   const points=stories.map(s=>{ const pt=trianglePoint(storyWeights(s)); const read=state.readIds.has(s.id); const label=`${storyTitle(s)} · ${formatWeights(storyWeights(s))}`; return `<g class="triangle-node" data-story="${s.id}" tabindex="0" role="button" aria-label="${escapeHtml(label)}"><circle cx="${pt.x}" cy="${pt.y}" r="${s.id===state.data.origin_node?9:6}" class="${primaryCenter(s)} ${read?"read":""}"><title>${escapeHtml(label)}</title></circle></g>`; }).join("");
   const cards=stories.map(s=>`<article class="story-node" data-story="${s.id}" tabindex="0" role="button"><div><span class="node-id">${escapeHtml(s.id)}</span><span class="badge ${primaryCenter(s)}">${escapeHtml(centerLabel(primaryCenter(s)))}</span>${state.readIds.has(s.id)?`<span class="read-dot">${t("read_status","Read")}</span>`:""}</div>${storySeriesTitle(s)?`<small class="series-label">${escapeHtml(storySeriesTitle(s))}</small>`:""}<h3>${escapeHtml(storyTitle(s))}</h3><p>${escapeHtml(storySubtitle(s)||storySummary(s))}</p>${weightBars(storyWeights(s))}</article>`).join("");
   app.innerHTML=`<section>
     <div class="explore-head"><div><h1>${t("explore","Explore")}</h1><p>${t("explore_triangle_intro","HUMAN + LIGHT + DARK = 100. Every node occupies a position in the same triangular state space.")}</p></div><input id="story-search" class="search-box" type="search" placeholder="${t("search","Search stories")}"></div>
     <div class="explore-counts" aria-label="Story counts by category">${CENTER_KEYS.map(center=>`<div class="explore-count"><span class="badge ${center}">${escapeHtml(centerLabel(center))}</span><strong>${categoryCounts[center]}</strong><small>${escapeHtml(t("stories_count_label","stories"))}</small></div>`).join("")}</div>
-    <div class="triangle-card"><svg viewBox="0 0 600 500" aria-label="${escapeHtml(t("triangle_state_space","HCU triangular state space"))}"><polygon points="300,45 55,455 545,455" class="triangle-shape"/><text x="300" y="27" text-anchor="middle" class="triangle-label HUMAN">${escapeHtml(centerLabel("HUMAN")).toUpperCase()}</text><text x="45" y="485" text-anchor="start" class="triangle-label LIGHT">${escapeHtml(centerLabel("LIGHT")).toUpperCase()}</text><text x="555" y="485" text-anchor="end" class="triangle-label DARK">${escapeHtml(centerLabel("DARK")).toUpperCase()}</text>${points}</svg></div>
+    <div class="triangle-card"><div class="observer-trajectory-head"><div><strong id="observer-trajectory-title">${escapeHtml(t("observer_state","Observer State"))} · ${escapeHtml(t("quantum_path","Quantum Path"))}</strong><small>HUMAN + LIGHT + DARK = 100</small></div><span class="badge ${dominantCenter(latestTrajectory.profile)}">${escapeHtml(centerLabel(dominantCenter(latestTrajectory.profile)))}</span></div><svg viewBox="0 0 600 500" role="img" aria-labelledby="observer-trajectory-title observer-trajectory-desc"><desc id="observer-trajectory-desc">${escapeHtml(formatWeights(latestTrajectory.profile))}</desc><polygon points="300,45 55,455 545,455" class="triangle-shape"/><text x="300" y="27" text-anchor="middle" class="triangle-label HUMAN">${escapeHtml(centerLabel("HUMAN")).toUpperCase()}</text><text x="45" y="485" text-anchor="start" class="triangle-label LIGHT">${escapeHtml(centerLabel("LIGHT")).toUpperCase()}</text><text x="555" y="485" text-anchor="end" class="triangle-label DARK">${escapeHtml(centerLabel("DARK")).toUpperCase()}</text>${trajectorySvg}${points}</svg><ol class="observer-trajectory-list">${trajectoryItems}</ol></div>
     <div id="node-grid" class="node-grid">${cards}</div>
   </section>`;
   bindStoryNavigation();
@@ -371,7 +386,7 @@ function renderSettings(){
   });
   document.getElementById("export-journey")?.addEventListener("click",()=>{
     const profile=observerState();
-    const payload={schema:"hcu-observer-journey",version:2,exported_at:new Date().toISOString(),observer_model_version:OBSERVER_MODEL_VERSION,observer_profile:profile,observer_raw:{...state.observerRaw},dominant_center:dominantCenter(profile),read_story_ids:[...state.readIds],quantum_path:[...state.path],choices:state.choiceLog.map(entry=>({...entry}))};
+    const payload={schema:"hcu-observer-journey",version:3,exported_at:new Date().toISOString(),observer_model_version:OBSERVER_MODEL_VERSION,observer_profile:profile,observer_raw:{...state.observerRaw},dominant_center:dominantCenter(profile),observer_trajectory:observerTrajectory(),read_story_ids:[...state.readIds],quantum_path:[...state.path],choices:state.choiceLog.map(entry=>({...entry}))};
     const blob=new Blob([JSON.stringify(payload,null,2)+"\n"],{type:"application/json"});
     const url=URL.createObjectURL(blob); const anchor=document.createElement("a");
     anchor.href=url; anchor.download=`hcu-observer-journey-${new Date().toISOString().slice(0,10)}.json`; anchor.click();
