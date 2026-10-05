@@ -1,0 +1,904 @@
+{
+  "schema_version": 1,
+  "description": "Story-level creative authorship registry. Git history remains the source of technical contribution provenance.",
+  "default_license": "CC-BY-SA-4.0",
+  "stories": {
+    "BRG-0001": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0002": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0003": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0004": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0005": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0006": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0007": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0008": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0009": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0010": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0011": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0012": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0013": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0014": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0015": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0016": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0017": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0018": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0019": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0022": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0023": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0024": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0025": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "BRG-0026": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "COM-0001": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "COM-0002": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "COM-0003": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "COM-0004": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "COM-0005": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "COM-0006": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "DRK-0001": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "HUM-0001": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "HUM-0002": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "HUM-0003": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "HUM-0004": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "HUM-0005": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "HUM-0006": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "HUM-0007": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "LGT-0001": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0001": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0002": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0003": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0004": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0005": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0006": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0007": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0008": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0009": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0010": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0011": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0012": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0013": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0014": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0015": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0016": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0017": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0018": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0019": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0020": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0021": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0022": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0023": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0024": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0025": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0026": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0027": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0028": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0029": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    },
+    "WRK-0030": {
+      "authors": [
+        {
+          "name": "Murat Delen",
+          "github": "muratdelen",
+          "roles": [
+            "original-author",
+            "story-author"
+          ]
+        }
+      ],
+      "license": "CC-BY-SA-4.0"
+    }
+  }
+}
