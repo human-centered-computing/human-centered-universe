@@ -36,6 +36,10 @@ locales = {}
 for p in (ROOT / "locales").glob("*.json"):
     locales[p.stem] = json.loads(p.read_text(encoding="utf-8"))
 
+STORY_AUTHORSHIP_PATH = STORIES / "authorship.json"
+story_authorship_registry = json.loads(STORY_AUTHORSHIP_PATH.read_text(encoding="utf-8")) if STORY_AUTHORSHIP_PATH.exists() else {}
+story_authorship = story_authorship_registry.get("stories", {})
+
 def migrate_legacy_terms(value, lang=None):
     """Normalize retired narrative terminology in the generated reader only."""
     if isinstance(value, dict):
@@ -61,6 +65,13 @@ def migrate_legacy_terms(value, lang=None):
 
 def read_story_record(meta_path: Path):
     meta = json.loads(meta_path.read_text(encoding="utf-8"))
+    authorship = story_authorship.get(meta.get("id"), {})
+    if authorship.get("authors") is not None:
+        meta["authors"] = authorship["authors"]
+    if authorship.get("contributors") is not None:
+        meta["contributors"] = authorship["contributors"]
+    if authorship.get("license") and not meta.get("license"):
+        meta["license"] = authorship["license"]
     analysis_path = meta_path.parent / "analysis.json"
     analysis = json.loads(analysis_path.read_text(encoding="utf-8")) if analysis_path.exists() else {}
     mapped = map_nodes.get(meta.get("id"), {})
@@ -86,6 +97,7 @@ for rec in records:
         "primary_center": analysis.get("primary_center", mapped.get("primary_center", meta.get("primary_center"))),
         "center_weights": analysis.get("center_weights", mapped.get("center_weights", meta.get("center_weights"))),
         "content_languages": rec["content_languages"],
+        "authors": meta.get("authors", []),
         "path": rec["meta_path"].parent.relative_to(ROOT).as_posix(),
     })
 
