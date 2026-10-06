@@ -280,14 +280,17 @@ function renderRead(){
   state.storyId=story.id; recordPath(story.id);
   const requested=story.content?.[state.locale]; const fallbackLang=story.source_language||state.data?.fallback_language||"en"; const content=requested||story.content?.[fallbackLang]||story.content?.en||""; const fallback=!requested;
   const seriesTitle=storySeriesTitle(story);
-  const byline=storyAuthorLine(story);
-  const readingContent=seriesTitle?content.replace(/^#\s+[^\n]+\n*/,""):content;
-  let renderedContent=markdownToHtml(readingContent);
-  if(byline&&!seriesTitle){
-    const bylineHtml=`<p class="story-byline">${escapeHtml(byline)}</p>`;
-    renderedContent=/<h1>/.test(renderedContent)?renderedContent.replace(/(<h1>[\s\S]*?<\/h1>)/,`$1${bylineHtml}`):`${bylineHtml}${renderedContent}`;
-  }
-  const workHeading=seriesTitle?`<header class="work-heading"><h1>${escapeHtml(seriesTitle)}</h1><h2>${escapeHtml(storyTitle(story))}</h2>${byline?`<p class="story-byline">${escapeHtml(byline)}</p>`:""}${storySubtitle(story)?`<p>${escapeHtml(storySubtitle(story))}</p>`:""}</header>`:"";
+  const readingContent=content.replace(/^#\s+[^\n]+\n*/,"");
+  const renderedContent=markdownToHtml(readingContent);
+  const authorLabel=({tr:"Yazar",en:"Author",de:"Autor",es:"Autor",fr:"Auteur",it:"Autore",ru:"Автор","zh-CN":"作者",ja:"著者",ar:"المؤلف",ku:"Nivîskar",pt:"Autor"})[state.locale]||"Author";
+  const authorLinks=storyAuthors(story).map(author=>{
+    const displayName=escapeHtml(String(author.name));
+    const handle=String(author.github||"");
+    return /^[A-Za-z0-9-]{1,39}$/.test(handle)?`<a href="https://github.com/${handle}" target="_blank" rel="noopener noreferrer">${displayName}</a>`:displayName;
+  }).join(" · ");
+  const storyCredit=authorLinks?`<div class="story-credit" aria-label="${escapeHtml(authorLabel)}"><span class="story-credit-label">${escapeHtml(authorLabel)}:</span> <strong>${authorLinks}</strong></div>`:"";
+  const workHeading=seriesTitle?`<header class="work-heading"><h1>${escapeHtml(seriesTitle)}</h1><h2>${escapeHtml(storyTitle(story))}</h2>${storySubtitle(story)?`<p>${escapeHtml(storySubtitle(story))}</p>`:""}</header>`:"";
+  const standardHeading=seriesTitle?"":`<header class="story-heading"><h1>${escapeHtml(storyTitle(story))}</h1></header>`;
   const related=(story.links||[]).map(link=>({link,story:storyById(link.target)})).filter(x=>x.story);
   const w=storyWeights(story); const p=primaryCenter(story); const nextResult=recommendNext(story.id); const next=nextResult?.story;
   const choices=choicesFor(story);
@@ -313,8 +316,9 @@ function renderRead(){
     <article class="reader-card">
       ${fallback?`<div class="fallback">${t("translation_unavailable")}</div>`:""}
       <div class="story-kicker"><span class="badge ${p}">${escapeHtml(centerLabel(p))}</span><span>${escapeHtml(story.id)}</span><span>·</span><span>${escapeHtml(requested?state.locale:fallbackLang)} · ${translationStatus(story,requested?state.locale:fallbackLang)}</span></div>
+      ${workHeading||standardHeading}
+      ${storyCredit}
       <div class="story-profile"><strong>${t("center_profile","Center profile")}</strong>${weightBars(w)}</div>
-      ${workHeading}
       ${storyHero(story)}
       ${scene3d}
       ${story.id==="BRG-0002"?choicePanel:""}
