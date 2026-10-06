@@ -23,3 +23,13 @@
 
 .story-byline{margin:.35rem 0 .8rem;font-size:.92rem;font-weight:600;letter-spacing:.01em;opacity:.78}
 .story-node .story-byline{display:block;margin:.25rem 0 .5rem}
+
+/* Visible story attribution, directly below the heading and above illustrations. */
+.story-heading{margin:10px 0 12px;text-align:center}
+.story-heading h1{margin:0;font-size:clamp(29px,4.5vw,48px);line-height:1.15}
+.story-credit{display:flex;align-items:baseline;justify-content:center;flex-wrap:wrap;gap:7px;margin:0 auto 20px;padding:10px 12px 15px;border-bottom:1px solid var(--line);font-size:clamp(14px,1.8vw,16px)}
+.story-credit-label{color:var(--muted);font-weight:600}
+.story-credit strong{color:var(--text);font-weight:700}
+.story-credit a{color:var(--human);text-decoration:underline;text-decoration-color:rgba(230,200,123,.4);text-underline-offset:3px}
+.story-credit a:hover,.story-credit a:focus-visible{color:#fff;text-decoration-color:currentColor}
+.work-heading + .story-credit{margin-top:-10px}
