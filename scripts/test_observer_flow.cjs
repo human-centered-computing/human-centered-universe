@@ -44,6 +44,51 @@ assert.equal(reconciledTrajectory.length, 3);
 assert.equal(reconciledTrajectory[2].kind, "current", "an unknown preserved state remains visible instead of being rewritten");
 assert.deepEqual(reconciledTrajectory[2].profile, { HUMAN: 90, LIGHT: 4, DARK: 6 });
 
+const validImportV3 = {
+  schema: "hcu-observer-journey",
+  version: 3,
+  observer_model_version: 2,
+  observer_profile: { HUMAN: 31, LIGHT: 38, DARK: 31 },
+  observer_raw: { HUMAN: 36, LIGHT: 43, DARK: 35 },
+  read_story_ids: ["A", "A"],
+  quantum_path: ["BRG-0002", "A"],
+  choices: log,
+  observer_trajectory: engine.observerTrajectory(log, { HUMAN: 36, LIGHT: 43, DARK: 35 })
+};
+const importedV3 = engine.validateJourneyImport(validImportV3);
+assert.equal(importedV3.ok, true);
+assert.deepEqual(importedV3.value.observerProfile, { HUMAN: 31, LIGHT: 38, DARK: 31 });
+assert.deepEqual(importedV3.value.readStoryIds, ["A"], "read IDs are de-duplicated");
+assert.equal(importedV3.value.stateSource, "choice_log");
+
+const validImportV2 = JSON.parse(JSON.stringify(validImportV3));
+validImportV2.version = 2;
+delete validImportV2.observer_trajectory;
+assert.equal(engine.validateJourneyImport(validImportV2).ok, true, "schema v2 remains portable");
+
+const wrongSchema = { ...validImportV3, schema: "untrusted-data" };
+assert.equal(engine.validateJourneyImport(wrongSchema).reason, "invalid_schema");
+
+const negativeEffects = JSON.parse(JSON.stringify(validImportV3));
+negativeEffects.choices[0].effects.LIGHT = -1;
+assert.equal(engine.validateJourneyImport(negativeEffects).reason, "invalid_choice");
+
+const mismatchedProfile = JSON.parse(JSON.stringify(validImportV3));
+mismatchedProfile.observer_profile = { HUMAN: 33, LIGHT: 33, DARK: 34 };
+assert.equal(engine.validateJourneyImport(mismatchedProfile).reason, "observer_profile_mismatch");
+
+const mismatchedTrajectory = JSON.parse(JSON.stringify(validImportV3));
+mismatchedTrajectory.observer_trajectory.at(-1).raw.HUMAN = 99;
+assert.equal(engine.validateJourneyImport(mismatchedTrajectory).reason, "trajectory_mismatch");
+
+const preservedSnapshot = JSON.parse(JSON.stringify(validImportV3));
+preservedSnapshot.observer_raw = { HUMAN: 90, LIGHT: 4, DARK: 6 };
+preservedSnapshot.observer_profile = { HUMAN: 90, LIGHT: 4, DARK: 6 };
+preservedSnapshot.observer_trajectory = engine.observerTrajectory(log, preservedSnapshot.observer_raw);
+const preservedImport = engine.validateJourneyImport(preservedSnapshot);
+assert.equal(preservedImport.ok, true);
+assert.equal(preservedImport.value.stateSource, "preserved_snapshot", "valid legacy snapshots are not silently rewritten");
+
 const stories = [
   { id: "CURRENT", center_weights: { HUMAN: 34, LIGHT: 33, DARK: 33 }, links: [{ target: "LINKED" }], observation_order: 1 },
   { id: "EXACT", primary_center: "HUMAN", center_weights: { HUMAN: 70, LIGHT: 15, DARK: 15 }, observation_order: 2 },
@@ -60,6 +105,12 @@ const appSource = fs.readFileSync(path.join(__dirname, "../web/assets/app.js"), 
 assert.match(appSource, /if\(recordedStoryChoice\(story\.id\)\) return false/);
 assert.doesNotMatch(appSource.match(/function applyChoice[\s\S]*?\n}/)?.[0] || "", /setStory\(/, "committing a choice must not auto-open the recommendation");
 assert.match(appSource, /id="export-journey"/);
+assert.match(appSource, /id="import-journey-file"/);
+assert.match(appSource, /id="confirm-import"/);
+assert.match(appSource, /MAX_JOURNEY_IMPORT_BYTES = 1024 \* 1024/);
+const settingsSource = appSource.match(/function renderSettings\(\)\{[\s\S]*?\n\}\nfunction render\(/)?.[0] || "";
+assert.match(settingsSource, /await file\.text\(\)/, "the journey file is read locally");
+assert.doesNotMatch(settingsSource, /\bfetch\s*\(/, "import must not upload the journey");
 assert.match(appSource, /event\.key!=="Enter"&&event\.key!==" "/);
 assert.match(appSource, /class="observer-trail-line"/);
 assert.match(appSource, /observer_trajectory:observerTrajectory\(\)/);
