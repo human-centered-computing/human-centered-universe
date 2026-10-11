@@ -118,5 +118,17 @@
   "recommendation_diversity": "ouvre un centre moins répété dans votre parcours récent",
   "export_journey": "Exporter le parcours",
   "export_journey_description": "Téléchargez un enregistrement JSON portable de votre profil d’Observateur, de vos choix, des histoires lues et du Chemin quantique.",
-  "download_journey_json": "Télécharger le JSON du parcours"
+  "download_journey_json": "Télécharger le JSON du parcours",
+  "import_journey": "Importer le parcours",
+  "import_journey_description": "Restaurez un fichier JSON de parcours exporté par HCU. Le fichier est vérifié localement et rien n’est téléversé.",
+  "choose_journey_json": "Choisir le JSON du parcours",
+  "import_preview": "Aperçu de l’importation",
+  "import_choices_count": "Choix",
+  "import_read_count": "Histoires lues",
+  "import_path_count": "Étapes du parcours",
+  "confirm_import": "Remplacer par ce parcours",
+  "import_success": "Le parcours a été importé sur cet appareil.",
+  "import_invalid": "Ce fichier n’est pas un parcours HCU valide.",
+  "import_too_large": "Le fichier du parcours doit faire 1 Mo ou moins.",
+  "import_replace_warning": "La confirmation remplace les données du parcours actuel sur cet appareil."
 }
