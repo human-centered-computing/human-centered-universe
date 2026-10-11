@@ -118,5 +118,17 @@
   "browser_tts_error": "Text to speech could not start.",
   "copy_story": "📋 Copy Story",
   "copied": "✓ Copied",
-  "copy_failed": "Copy failed"
+  "copy_failed": "Copy failed",
+  "import_journey": "Import Journey",
+  "import_journey_description": "Restore a journey JSON exported by HCU. The file is checked locally and nothing is uploaded.",
+  "choose_journey_json": "Choose Journey JSON",
+  "import_preview": "Import preview",
+  "import_choices_count": "Choices",
+  "import_read_count": "Read stories",
+  "import_path_count": "Path steps",
+  "confirm_import": "Replace with this journey",
+  "import_success": "Journey imported on this device.",
+  "import_invalid": "This file is not a valid HCU journey.",
+  "import_too_large": "Journey file must be 1 MB or smaller.",
+  "import_replace_warning": "Confirming replaces the current journey data on this device."
 }
