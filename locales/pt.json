@@ -118,5 +118,17 @@
   "recommendation_diversity": "abre um centro menos repetido no seu percurso recente",
   "export_journey": "Exportar percurso",
   "export_journey_description": "Baixe um registo JSON portátil do seu perfil de Observador, escolhas, histórias lidas e Caminho Quântico.",
-  "download_journey_json": "Baixar JSON do percurso"
+  "download_journey_json": "Baixar JSON do percurso",
+  "import_journey": "Importar percurso",
+  "import_journey_description": "Restaure um JSON de percurso exportado pelo HCU. O arquivo é verificado localmente e nada é enviado.",
+  "choose_journey_json": "Escolher JSON do percurso",
+  "import_preview": "Prévia da importação",
+  "import_choices_count": "Escolhas",
+  "import_read_count": "Histórias lidas",
+  "import_path_count": "Etapas do percurso",
+  "confirm_import": "Substituir por este percurso",
+  "import_success": "O percurso foi importado neste dispositivo.",
+  "import_invalid": "Este arquivo não é um percurso HCU válido.",
+  "import_too_large": "O arquivo do percurso deve ter no máximo 1 MB.",
+  "import_replace_warning": "A confirmação substitui os dados do percurso atual neste dispositivo."
 }
