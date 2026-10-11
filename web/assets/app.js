@@ -1,6 +1,7 @@
 const CENTER_KEYS = ["HUMAN", "LIGHT", "DARK"];
 const OBSERVER_BASELINE = {HUMAN:34,LIGHT:33,DARK:33};
 const OBSERVER_MODEL_VERSION = 2;
+const MAX_JOURNEY_IMPORT_BYTES = 1024 * 1024;
 const observerEngine = window.HCUObserverEngine;
 const GENERIC_CHOICES = [
   {key:"human_direction", label_key:"generic_choice_human", label:"Follow the human meaning, agency, and relationship in this story.", effects:{HUMAN:10,LIGHT:2,DARK:2}},
@@ -394,6 +395,7 @@ function renderSettings(){
     <div class="settings-grid">
       <article class="create-card"><h2>${t("reading_progress","Reading Progress")}</h2><p>${t("restart_story_description","Mark the current story as unread and return to its beginning. Observer choices and scores are preserved.")}</p><button type="button" class="action-button" id="restart-current-story">${t("restart_current_story","Restart Current Story")}</button></article>
       <article class="create-card"><h2>${t("export_journey","Export Journey")}</h2><p>${t("export_journey_description","Download a portable JSON record of your Observer profile, choices, read stories, and Quantum Path.")}</p><button type="button" class="action-button primary" id="export-journey">${t("download_journey_json","Download Journey JSON")}</button></article>
+      <article class="create-card import-card"><h2>${t("import_journey","Import Journey")}</h2><p>${t("import_journey_description","Restore an HCU journey JSON. The file is checked locally and nothing is uploaded.")}</p><label class="action-button" for="import-journey-file">${t("choose_journey_json","Choose Journey JSON")}</label><input class="sr-only" type="file" id="import-journey-file" accept=".json,application/json"><div class="import-status" id="import-journey-status" role="status" aria-live="polite"></div></article>
       <article class="create-card danger-card"><h2>${t("journey_data","Journey Data")}</h2><p>${t("reset_journey_description","Clear reading history, choices, HUMAN/LIGHT/DARK scores, Quantum Path, and the First Vibration intro record on this device.")}</p><button type="button" class="action-button danger-button" id="reset-entire-journey">${t("reset_entire_journey","Reset Entire Journey")}</button></article>
     </div></section>`;
   document.getElementById("restart-current-story")?.addEventListener("click",()=>{
@@ -407,6 +409,37 @@ function renderSettings(){
     const url=URL.createObjectURL(blob); const anchor=document.createElement("a");
     anchor.href=url; anchor.download=`hcu-observer-journey-${new Date().toISOString().slice(0,10)}.json`; anchor.click();
     setTimeout(()=>URL.revokeObjectURL(url),0);
+  });
+  const importInput=document.getElementById("import-journey-file");
+  const importStatus=document.getElementById("import-journey-status");
+  importInput?.addEventListener("change",async()=>{
+    const file=importInput.files?.[0]; if(!file||!importStatus) return;
+    const showFailure=key=>{ importStatus.innerHTML=`<p class="import-error">${escapeHtml(t(key,key==="import_too_large"?"Journey file must be 1 MB or smaller.":"This file is not a valid HCU journey."))}</p>`; };
+    if(file.size>MAX_JOURNEY_IMPORT_BYTES){ showFailure("import_too_large"); importInput.value=""; return; }
+    let validation;
+    try {
+      const payload=JSON.parse(await file.text());
+      validation=observerEngine?.validateJourneyImport(payload);
+    } catch {
+      validation=null;
+    }
+    if(!validation?.ok){ showFailure("import_invalid"); importInput.value=""; return; }
+    const imported=validation.value;
+    importStatus.innerHTML=`<section class="import-preview" aria-labelledby="import-preview-title"><strong id="import-preview-title">${escapeHtml(t("import_preview","Import preview"))}</strong>${weightBars(imported.observerProfile)}<dl><div><dt>${escapeHtml(t("import_choices_count","Choices"))}</dt><dd>${imported.choices.length}</dd></div><div><dt>${escapeHtml(t("import_read_count","Read stories"))}</dt><dd>${imported.readStoryIds.length}</dd></div><div><dt>${escapeHtml(t("import_path_count","Path steps"))}</dt><dd>${imported.quantumPath.length}</dd></div></dl><p>${escapeHtml(t("import_replace_warning","Confirming replaces the current journey data on this device."))}</p><button type="button" class="action-button primary" id="confirm-import">${escapeHtml(t("confirm_import","Replace with this journey"))}</button></section>`;
+    document.getElementById("confirm-import")?.addEventListener("click",()=>{
+      const knownStoryIds=new Set((state.data.stories||[]).map(story=>story.id));
+      state.observerRaw={...imported.observerRaw};
+      state.choiceLog=imported.choices.map(entry=>({...entry,effects:{...entry.effects}}));
+      state.readIds=new Set(imported.readStoryIds.filter(id=>knownStoryIds.has(id)));
+      state.path=imported.quantumPath.filter(id=>knownStoryIds.has(id));
+      const restoredStory=[...state.path].reverse().find(id=>knownStoryIds.has(id)) || state.data.origin_node;
+      state.storyId=restoredStory;
+      localStorage.setItem("hcu.observerModelVersion",String(observerEngine.MODEL_VERSION));
+      localStorage.setItem("hcu.lastStory",restoredStory);
+      saveObserver();
+      importStatus.innerHTML=`<p class="import-success">${escapeHtml(t("import_success","Journey imported on this device."))}</p>`;
+      importInput.value="";
+    },{once:true});
   });
   document.getElementById("reset-entire-journey")?.addEventListener("click",()=>{
     const warning=t("reset_journey_warning","Reset your entire journey? Reading progress, choices, and Observer State will be permanently cleared on this device.");

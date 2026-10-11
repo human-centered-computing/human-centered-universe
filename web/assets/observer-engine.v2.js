@@ -145,5 +145,99 @@
       .sort((a, b) => a.score - b.score || a.profileDistance - b.profileDistance || (a.story.observation_order ?? 9999) - (b.story.observation_order ?? 9999));
   }
 
-  return { CENTERS, BASELINE, MODEL_VERSION, raw, add, normalize, totalChoiceEffects, migrateObserverRaw, storyChoice, observerTrajectory, distance, rankRecommendations };
+  function importFailure(reason) {
+    return { ok: false, reason };
+  }
+
+  function validatedCenterMap(value, maximum = 1000000000) {
+    if (!value || typeof value !== "object" || Array.isArray(value)) return null;
+    const result = {};
+    for (const center of CENTERS) {
+      const number = value[center];
+      if (typeof number !== "number" || !Number.isFinite(number) || number < 0 || number > maximum) return null;
+      result[center] = number;
+    }
+    return result;
+  }
+
+  function validatedString(value, maximum, required = false) {
+    if (value === null || value === undefined || value === "") return required ? null : "";
+    if (typeof value !== "string" || value.length > maximum) return null;
+    return value;
+  }
+
+  function validatedIdList(value, maximumEntries, unique = false) {
+    if (!Array.isArray(value) || value.length > maximumEntries) return null;
+    const result = [];
+    const seen = new Set();
+    for (const item of value) {
+      const id = validatedString(item, 200, true);
+      if (id === null) return null;
+      if (!unique || !seen.has(id)) result.push(id);
+      seen.add(id);
+    }
+    return result;
+  }
+
+  function validateJourneyImport(payload) {
+    if (!payload || typeof payload !== "object" || Array.isArray(payload)) return importFailure("invalid_payload");
+    if (payload.schema !== "hcu-observer-journey") return importFailure("invalid_schema");
+
+    const version = Number(payload.version);
+    if (!Number.isInteger(version) || ![2, 3].includes(version)) return importFailure("unsupported_version");
+
+    const modelVersion = Number(payload.observer_model_version ?? MODEL_VERSION);
+    if (!Number.isInteger(modelVersion) || modelVersion < 1 || modelVersion > MODEL_VERSION) return importFailure("unsupported_model");
+
+    if (!Array.isArray(payload.choices) || payload.choices.length > 5000) return importFailure("invalid_choices");
+    const choices = [];
+    for (const entry of payload.choices) {
+      if (!entry || typeof entry !== "object" || Array.isArray(entry)) return importFailure("invalid_choice");
+      const storyId = validatedString(entry.story_id, 200, true);
+      const key = validatedString(entry.key, 200, true);
+      const label = validatedString(entry.label, 2000);
+      const source = validatedString(entry.source, 200);
+      const chosenAt = validatedString(entry.chosen_at, 80);
+      const effects = validatedCenterMap(entry.effects, 1000000);
+      if (storyId === null || key === null || label === null || source === null || chosenAt === null || !effects) return importFailure("invalid_choice");
+      choices.push({ story_id: storyId, key, label, effects, source, chosen_at: chosenAt || null });
+    }
+
+    const readStoryIds = validatedIdList(payload.read_story_ids, 10000, true);
+    const quantumPath = validatedIdList(payload.quantum_path, 10000, false);
+    if (!readStoryIds || !quantumPath) return importFailure("invalid_collections");
+
+    const observerRaw = validatedCenterMap(payload.observer_raw);
+    const suppliedProfile = validatedCenterMap(payload.observer_profile, 100);
+    if (!observerRaw) return importFailure("invalid_observer_raw");
+    if (!suppliedProfile) return importFailure("invalid_observer_profile");
+
+    const observerProfile = normalize(observerRaw);
+    if (!equal(suppliedProfile, observerProfile)) return importFailure("observer_profile_mismatch");
+    if (CENTERS.reduce((sum, center) => sum + observerProfile[center], 0) !== 100) return importFailure("observer_profile_total");
+
+    if (version === 3) {
+      if (!Array.isArray(payload.observer_trajectory) || !payload.observer_trajectory.length || payload.observer_trajectory.length > 5001) return importFailure("invalid_trajectory");
+      const finalRaw = validatedCenterMap(payload.observer_trajectory[payload.observer_trajectory.length - 1]?.raw);
+      if (!finalRaw || !equal(finalRaw, observerRaw)) return importFailure("trajectory_mismatch");
+    }
+
+    const reconstructedRaw = add(BASELINE, totalChoiceEffects(choices));
+    return {
+      ok: true,
+      value: {
+        schema: "hcu-observer-journey",
+        version,
+        observer_model_version: MODEL_VERSION,
+        observerRaw,
+        observerProfile,
+        readStoryIds,
+        quantumPath,
+        choices,
+        stateSource: equal(reconstructedRaw, observerRaw) ? "choice_log" : "preserved_snapshot"
+      }
+    };
+  }
+
+  return { CENTERS, BASELINE, MODEL_VERSION, raw, add, equal, normalize, totalChoiceEffects, migrateObserverRaw, storyChoice, observerTrajectory, distance, rankRecommendations, validateJourneyImport };
 });

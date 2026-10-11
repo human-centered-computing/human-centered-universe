@@ -118,5 +118,17 @@
   "recommendation_diversity": "最近の経路で繰り返しの少ない中心を開く",
   "export_journey": "旅をエクスポート",
   "export_journey_description": "観測者プロフィール、選択、読了した物語、量子経路を含む持ち運び可能な JSON 記録をダウンロードします。",
-  "download_journey_json": "旅の JSON をダウンロード"
+  "download_journey_json": "旅の JSON をダウンロード",
+  "import_journey": "旅をインポート",
+  "import_journey_description": "HCU から書き出した旅の JSON を復元します。ファイルは端末内で検証され、アップロードされません。",
+  "choose_journey_json": "旅の JSON を選択",
+  "import_preview": "インポートのプレビュー",
+  "import_choices_count": "選択",
+  "import_read_count": "読んだ物語",
+  "import_path_count": "経路のステップ",
+  "confirm_import": "この旅で置き換える",
+  "import_success": "この端末に旅をインポートしました。",
+  "import_invalid": "このファイルは有効な HCU の旅ではありません。",
+  "import_too_large": "旅のファイルは 1 MB 以下にしてください。",
+  "import_replace_warning": "確定すると、この端末にある現在の旅のデータが置き換えられます。"
 }

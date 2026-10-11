@@ -11,7 +11,10 @@ const requiredUiKeys = [
   "link_future","link_character","link_place","link_artifact","link_theme","link_transformation",
   "link_parallel","projected_observer_state","confirm_observer_choice","confirm_choice","cancel",
   "choice_recorded","recommendation_profile_match","recommendation_connected","recommendation_diversity",
-  "export_journey","export_journey_description","download_journey_json"
+  "export_journey","export_journey_description","download_journey_json",
+  "import_journey","import_journey_description","choose_journey_json","import_preview",
+  "import_choices_count","import_read_count","import_path_count","confirm_import","import_success",
+  "import_invalid","import_too_large","import_replace_warning"
 ];
 for (const lang of expectedLocales) {
   const file = lang === "en" ? "en.json" : `${lang}.json`;

@@ -118,5 +118,17 @@
   "recommendation_diversity": "öffnet ein in deinem letzten Pfad weniger wiederholtes Zentrum",
   "export_journey": "Reise exportieren",
   "export_journey_description": "Lade eine portable JSON-Aufzeichnung deines Beobachterprofils, deiner Entscheidungen, gelesenen Geschichten und deines Quantenpfads herunter.",
-  "download_journey_json": "Reise-JSON herunterladen"
+  "download_journey_json": "Reise-JSON herunterladen",
+  "import_journey": "Reise importieren",
+  "import_journey_description": "Stelle eine von HCU exportierte Reise-JSON wieder her. Die Datei wird lokal geprüft und nicht hochgeladen.",
+  "choose_journey_json": "Reise-JSON auswählen",
+  "import_preview": "Importvorschau",
+  "import_choices_count": "Entscheidungen",
+  "import_read_count": "Gelesene Geschichten",
+  "import_path_count": "Pfadschritte",
+  "confirm_import": "Durch diese Reise ersetzen",
+  "import_success": "Die Reise wurde auf diesem Gerät importiert.",
+  "import_invalid": "Diese Datei ist keine gültige HCU-Reise.",
+  "import_too_large": "Die Reisedatei darf höchstens 1 MB groß sein.",
+  "import_replace_warning": "Durch die Bestätigung werden die aktuellen Reisedaten auf diesem Gerät ersetzt."
 }
