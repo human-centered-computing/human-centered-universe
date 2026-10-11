@@ -118,5 +118,17 @@
   "recommendation_diversity": "在最近路径中开启一个较少重复的中心",
   "export_journey": "导出旅程",
   "export_journey_description": "下载包含观察者画像、选择、已读故事和量子路径的可移植 JSON 记录。",
-  "download_journey_json": "下载旅程 JSON"
+  "download_journey_json": "下载旅程 JSON",
+  "import_journey": "导入旅程",
+  "import_journey_description": "恢复由 HCU 导出的旅程 JSON。文件只在本地检查，不会上传。",
+  "choose_journey_json": "选择旅程 JSON",
+  "import_preview": "导入预览",
+  "import_choices_count": "选择",
+  "import_read_count": "已读故事",
+  "import_path_count": "路径步骤",
+  "confirm_import": "用此旅程替换",
+  "import_success": "旅程已导入此设备。",
+  "import_invalid": "此文件不是有效的 HCU 旅程。",
+  "import_too_large": "旅程文件不得超过 1 MB。",
+  "import_replace_warning": "确认后将替换此设备上当前的旅程数据。"
 }
