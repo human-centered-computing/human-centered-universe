@@ -118,5 +118,17 @@
   "recommendation_diversity": "يفتح مركزاً أقل تكراراً في مسارك الأخير",
   "export_journey": "تصدير الرحلة",
   "export_journey_description": "نزّل سجلاً محمولاً بصيغة JSON لملف المراقب واختياراتك والقصص المقروءة والمسار الكمي.",
-  "download_journey_json": "تنزيل JSON الرحلة"
+  "download_journey_json": "تنزيل JSON الرحلة",
+  "import_journey": "استيراد الرحلة",
+  "import_journey_description": "استعد ملف JSON لرحلة صدّرها HCU. يُفحص الملف محليًا ولا يتم رفعه.",
+  "choose_journey_json": "اختيار ملف JSON للرحلة",
+  "import_preview": "معاينة الاستيراد",
+  "import_choices_count": "الخيارات",
+  "import_read_count": "القصص المقروءة",
+  "import_path_count": "خطوات المسار",
+  "confirm_import": "استبدال الرحلة الحالية بهذه",
+  "import_success": "تم استيراد الرحلة على هذا الجهاز.",
+  "import_invalid": "هذا الملف ليس رحلة HCU صالحة.",
+  "import_too_large": "يجب ألا يزيد حجم ملف الرحلة على 1 ميغابايت.",
+  "import_replace_warning": "يؤدي التأكيد إلى استبدال بيانات الرحلة الحالية على هذا الجهاز."
 }
