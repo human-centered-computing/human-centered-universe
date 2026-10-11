@@ -1,0 +1,207 @@
+{
+  "id": "HUM-0008",
+  "title": "On Üçüncü Çentik",
+  "original_title": "On Üçüncü Çentik",
+  "status": "canon",
+  "core": "WORK",
+  "source_language": "tr",
+  "translation_policy": "source_only_until_reviewed",
+  "culture": [
+    "prehistoric counting practices",
+    "Mesopotamian record keeping",
+    "Egyptian numeration",
+    "Maya mathematics",
+    "Indian mathematics",
+    "Islamic Golden Age scholarship",
+    "Latin European mathematical transmission",
+    "Göbekli Tepe as a clearly marked fictional resonance"
+  ],
+  "belief_context": [
+    "numbers as shared human cultural tools",
+    "the ethical difference between being unrecorded and being absent",
+    "zero as mathematical concept and philosophical metaphor",
+    "knowledge as a plural and migratory inheritance",
+    "human dignity beyond quantification",
+    "cultural plurality without a single-civilization origin myth"
+  ],
+  "summary": "Girê Miraza’daki yarım kalmış on üçüncü çentik, gözlemciyi ilk sayma izlerinden kil tabletlerine, farklı sayı geleneklerinden sıfırın düşünsel yolculuğuna ve yapay zekâ tarafından yönetilen bir geleceğe taşır. Bir çocuk kayıtlarda görünmediğinde üç merkez aynı soruyla yüzleşir: Bir sistemin saymadığı insan gerçekten yok mudur?",
+  "translations": {
+    "tr": {
+      "status": "reviewed",
+      "human_reviewed": true,
+      "source_language": "tr"
+    },
+    "en": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr",
+      "method": "AI translation from the Turkish editorial source"
+    }
+  },
+  "links": [
+    {
+      "target": "BRG-0002",
+      "type": "quantum_echo",
+      "note": "FIRST VIBRATION folds historical layers into a fictional observer experience; this is a narrative device, not a claim that observation changes archaeological history or macroscopic reality."
+    },
+    {
+      "target": "HUM-0007",
+      "type": "future",
+      "note": "The uncounted child anticipates the question of whether a human remains an active subject when systems define the available choices and records."
+    },
+    {
+      "target": "HUM-0004",
+      "type": "transformation",
+      "note": "The story tests the principle that human authority must remain meaningful when algorithmic records conflict with a person physically present."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "On Üçüncü Çentik",
+      "summary": "Sayıların kültürler arası yolculuğu, kayıtlarda görünmeyen bir çocuğun insan değerini savunma sınavına dönüşür."
+    },
+    "en": {
+      "title": "The Thirteenth Notch",
+      "summary": "The cross-cultural journey of numbers becomes a test of defending the human worth of a child who does not appear in the record."
+    }
+  },
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 40,
+    "LIGHT": 35,
+    "DARK": 25
+  },
+  "observer_choices": [
+    {
+      "key": "see_the_person_first",
+      "label": "See the person first, then correct the record.",
+      "labels": {
+        "tr": "Önce insanı gör, sonra kaydı düzelt.",
+        "en": "See the person first, then correct the record."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 2,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "make_the_failure_traceable",
+      "label": "Make the path of the error visible and repair the system.",
+      "labels": {
+        "tr": "Hatanın yolunu görünür kıl ve sistemi onar.",
+        "en": "Make the path of the error visible and repair the system."
+      },
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 10,
+        "DARK": 2
+      }
+    },
+    {
+      "key": "protect_the_right_not_to_be_measured",
+      "label": "Protect the right not to be reduced entirely to measurement.",
+      "labels": {
+        "tr": "Bütünüyle ölçülememek hakkını koru.",
+        "en": "Protect the right not to be reduced entirely to measurement."
+      },
+      "effects": {
+        "HUMAN": 2,
+        "LIGHT": 2,
+        "DARK": 10
+      }
+    }
+  ],
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "Tally-marked artifacts exist, but the meanings assigned to particular prehistoric marks remain interpretations rather than certain readings.",
+      "Positional notation, zero, and written calculation developed across multiple societies through long periods of exchange and transformation.",
+      "Automated allocation and record systems can exclude people when data is missing, stale, or shaped by narrow categories."
+    ],
+    "imaginative_transformation": "FIRST VIBRATION lets the observer inhabit many historical layers at once, while Maran and Girê Miraza turn the history of numbers into a future ethical trial.",
+    "emergent_question": "When a record and a physically present person disagree, what must change: the person, the number, or the system that defines what can be counted?",
+    "provenance": [
+      {
+        "title": "The Ishango Bone — Smithsonian National Museum of Natural History",
+        "uri": "https://naturalhistory.si.edu/education/teaching-resources/anthropology-and-social-studies/ishango-bone"
+      },
+      {
+        "title": "A history of Zero — MacTutor History of Mathematics",
+        "uri": "https://mathshistory.st-andrews.ac.uk/HistTopics/Zero/"
+      },
+      {
+        "title": "Numerals and numeral systems — Encyclopaedia Britannica",
+        "uri": "https://www.britannica.com/science/numeral"
+      },
+      {
+        "title": "Göbekli Tepe — UNESCO World Heritage Centre",
+        "uri": "https://whc.unesco.org/en/list/1572/"
+      }
+    ]
+  },
+  "choice_epistemic_layers": {
+    "labels": {
+      "tr": {
+        "heading": "Bu sahne bildiğini nasıl biliyor?",
+        "established_science": "Yerleşik bilim",
+        "real_engineering": "Gerçek mühendislik",
+        "interpretation": "Yorum",
+        "philosophy": "Felsefe",
+        "belief_cultural_meaning": "İnanç ve kültürel anlam",
+        "science_fiction": "Bilim kurgu"
+      },
+      "en": {
+        "heading": "How this scene knows what it knows",
+        "established_science": "Established science",
+        "real_engineering": "Real engineering",
+        "interpretation": "Interpretation",
+        "philosophy": "Philosophy",
+        "belief_cultural_meaning": "Belief and cultural meaning",
+        "science_fiction": "Science fiction"
+      }
+    },
+    "notes": {
+      "established_science": {
+        "tr": "Tarih öncesi çentikli nesneler arkeolojik bulgulardır; ancak belirli bir çentiğin tam olarak gün, hayvan, insan veya başka bir şeyi temsil ettiğini çoğu durumda kesin olarak bilemeyiz. Sıfır ve basamak değeri de tek bir anda veya tek bir toplumda tamamlanmamış, uzun tarihsel gelişmeler yaşamıştır.",
+        "en": "Prehistoric notched objects are archaeological finds, but in most cases we cannot know with certainty whether a particular mark represented a day, animal, person, or something else. Zero and positional value also developed over long histories rather than being completed in one moment or one society."
+      },
+      "real_engineering": {
+        "tr": "Kimlik, yardım ve kaynak dağıtım sistemleri gerçek veri kayıtlarına dayanabilir. Eksik kayıtları saptama, insan itirazı, denetim izi, belirsizlik bildirimi ve yetkili elle düzeltme uygulanabilir mühendislik ve yönetişim önlemleridir.",
+        "en": "Identity, aid, and resource-allocation systems can depend on real data records. Missing-record detection, human appeal, audit trails, uncertainty reporting, and authorized manual correction are practical engineering and governance measures."
+      },
+      "interpretation": {
+        "tr": "Hikâye, sayma ve kayıt tutmayı yalnızca teknik ilerleme değil, görünürlük ve iktidar ilişkisi olarak yorumlar. Bu, tarihsel bulguların tek zorunlu açıklaması değildir.",
+        "en": "The story interprets counting and record keeping not only as technical progress but also as relationships of visibility and power. This is not the only necessary interpretation of the historical evidence."
+      },
+      "philosophy": {
+        "tr": "Sayı ile değer, yokluk ile değersizlik ve kayıt ile gerçeklik arasındaki farklar anlatının felsefi sorularıdır. Çocuğun varlığı, sistemin ontolojisinden önce gelir.",
+        "en": "The differences between number and worth, absence and worthlessness, and record and reality are the story’s philosophical questions. The child’s presence comes before the system’s ontology."
+      },
+      "belief_cultural_meaning": {
+        "tr": "Çember, boş merkez ve taş imgeleri birçok kültürde farklı anlamlar taşıyabilir. Anlatı bu anlamlardan birini evrensel ilan etmez; Göbekli Tepe ile sıfır arasında tarihsel köken bağı kurmaz.",
+        "en": "Circles, empty centers, and stone imagery can carry different meanings across cultures. The narrative does not declare one meaning universal and does not claim a historical origin link between Göbekli Tepe and zero."
+      },
+      "science_fiction": {
+        "tr": "Girê Miraza, Maran, FIRST VIBRATION, zaman katmanlarının iç içe geçmesi ve gelecekteki yapay zekâ dağıtım sistemi kurgudur. Kuantum yankısı yalnızca anlatı metaforudur; doğrulanmış bir fizik iddiası değildir.",
+        "en": "Girê Miraza, Maran, FIRST VIBRATION, the interweaving of time layers, and the future AI allocation system are fictional. The quantum echo is a narrative metaphor, not a verified claim of physics."
+      }
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/HUM-0008/01-the-thirteenth-notch.webp",
+    "alt": {
+      "tr": "Tarih öncesi ateşten gelecekteki dağıtım merkezine uzanan dairesel bir taş mekânda gözlemci, Maran’ın yanında yarım kalmış son çentiğe dokunuyor; sağda kayıtlarda görünmeyen bir çocuk bekliyor.",
+      "en": "In a circular stone space spanning a prehistoric fire and a future distribution center, the observer touches the final unfinished notch beside Maran while an unrecorded child waits at the right."
+    }
+  },
+  "story_gallery": [
+    {
+      "src": "./assets/images/stories/HUM-0008/01-the-thirteenth-notch.webp",
+      "alt": {
+        "tr": "Tarih öncesi ateşten gelecekteki dağıtım merkezine uzanan dairesel bir taş mekânda gözlemci, Maran’ın yanında yarım kalmış son çentiğe dokunuyor; sağda kayıtlarda görünmeyen bir çocuk bekliyor.",
+        "en": "In a circular stone space spanning a prehistoric fire and a future distribution center, the observer touches the final unfinished notch beside Maran while an unrecorded child waits at the right."
+      }
+    }
+  ]
+}
