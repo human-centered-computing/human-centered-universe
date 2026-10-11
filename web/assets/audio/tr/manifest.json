@@ -572,6 +572,15 @@
       "bytes": 24149099,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
+    },
+    {
+      "id": "HUM-0008",
+      "title": "On Üçüncü Çentik",
+      "file": "./HUM-0008.mp3",
+      "duration_seconds": 603.742,
+      "bytes": 7245263,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
     }
   ]
 }
