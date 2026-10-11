@@ -1,0 +1,25 @@
+{
+  "schema": "hcu-story-analysis",
+  "generation_mode": "idea-maturation-three-center",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 40,
+    "LIGHT": 35,
+    "DARK": 25
+  },
+  "center_raw_scores": {
+    "HUMAN": 72,
+    "LIGHT": 63,
+    "DARK": 45
+  },
+  "classification": {
+    "method": "30-criterion HCU narrative analysis after three-center idea maturation",
+    "status": "ai-generated-draft",
+    "confidence": 0.93,
+    "note": "HUMAN leads because the decisive evidence is the physically present child and the story protects dignity before the record. LIGHT remains close through historical inquiry, traceability, positional notation, and system repair. DARK preserves ambiguity in prehistoric interpretation, resists total quantification, and opens space for future people not yet represented by the model."
+  },
+  "coverage_audit": {
+    "coverage_complete": true,
+    "unmapped_elements": []
+  }
+}
