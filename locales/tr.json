@@ -118,5 +118,17 @@
   "browser_tts_error": "Metin seslendirme başlatılamadı.",
   "copy_story": "📋 Hikâyeyi Kopyala",
   "copied": "✓ Kopyalandı",
-  "copy_failed": "Kopyalanamadı"
+  "copy_failed": "Kopyalanamadı",
+  "import_journey": "Yolculuğu İçe Aktar",
+  "import_journey_description": "HCU tarafından dışa aktarılmış bir yolculuk JSON'unu geri yükleyin. Dosya bu cihazda doğrulanır; hiçbir yere yüklenmez.",
+  "choose_journey_json": "Yolculuk JSON'u Seç",
+  "import_preview": "İçe aktarma önizlemesi",
+  "import_choices_count": "Seçimler",
+  "import_read_count": "Okunan hikâyeler",
+  "import_path_count": "Yol adımları",
+  "confirm_import": "Bu yolculukla değiştir",
+  "import_success": "Yolculuk bu cihaza aktarıldı.",
+  "import_invalid": "Bu dosya geçerli bir HCU yolculuğu değil.",
+  "import_too_large": "Yolculuk dosyası en fazla 1 MB olabilir.",
+  "import_replace_warning": "Onayladığınızda bu cihazdaki mevcut yolculuk verileri değiştirilir."
 }
