@@ -670,6 +670,28 @@
         "LIGHT": 25,
         "DARK": 20
       }
+    },
+    {
+      "observation_order": 61,
+      "id": "HUM-0008",
+      "title": "The Thirteenth Notch",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 40,
+        "LIGHT": 35,
+        "DARK": 25
+      }
+    },
+    {
+      "observation_order": 62,
+      "id": "HUM-0009",
+      "title": "After the Applause",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 35,
+        "LIGHT": 33,
+        "DARK": 32
+      }
     }
   ],
   "experimental_nodes": [
