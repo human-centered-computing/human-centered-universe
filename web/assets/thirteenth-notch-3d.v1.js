@@ -33,7 +33,7 @@ function geometry(mode,time){
 const attrs=(g,p,b)=>{g.bindBuffer(g.ARRAY_BUFFER,b);const P=g.getAttribLocation(p,"a_position"),C=g.getAttribLocation(p,"a_color");g.enableVertexAttribArray(P);g.vertexAttribPointer(P,3,g.FLOAT,false,28,0);g.enableVertexAttribArray(C);g.vertexAttribPointer(C,4,g.FLOAT,false,28,12);};
 function destroy(){if(active){active.destroy();active=null;}}
 function mount(o={}){
- destroy();const canvas=o.canvas;if(!canvas)return null,fall=o.fallback||canvas.parentElement?.querySelector(".tn3d-fallback"),g=canvas.getContext("webgl",{antialias:true,alpha:false});if(!g){canvas.hidden=true;if(fall)fall.hidden=false;return null;}
+ destroy();const canvas=o.canvas;if(!canvas)return null;const fall=o.fallback||canvas.parentElement?.querySelector(".tn3d-fallback");const g=canvas.getContext("webgl",{antialias:true,alpha:false});if(!g){canvas.hidden=true;if(fall)fall.hidden=false;return null;}
  let prog;try{prog=makeProgram(g);}catch(e){console.error(e);canvas.hidden=true;if(fall)fall.hidden=false;return null;}
  const buf=g.createBuffer(),ml=g.getUniformLocation(prog,"u_matrix"),sl=g.getUniformLocation(prog,"u_pointSize");let mode=MAP[o.mode]||o.mode||"NEUTRAL",yaw=-.18,dist=11.8,drag=false,last=0,raf=0,dead=false;const reduced=matchMedia?.("(prefers-reduced-motion: reduce)")?.matches||false;
  const resize=()=>{const d=Math.min(devicePixelRatio||1,2),w=Math.max(1,Math.floor(canvas.clientWidth*d)),h=Math.max(1,Math.floor(canvas.clientHeight*d));if(canvas.width!==w||canvas.height!==h){canvas.width=w;canvas.height=h;g.viewport(0,0,w,h);}};
