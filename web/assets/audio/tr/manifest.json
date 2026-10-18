@@ -556,15 +556,6 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
-      "id": "HUM-0009",
-      "title": "Alkış Sustuktan Sonra",
-      "file": "./HUM-0009.mp3",
-      "duration_seconds": 619.494,
-      "bytes": 7434285,
-      "engine": "Piper",
-      "voice": "tr_TR-dfki-medium"
-    },
-    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: Gecede Açılan Göz",
       "file": "./HUM-0001.mp3",

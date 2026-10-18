@@ -511,15 +511,6 @@
       "voice": "en_US-lessac-medium"
     },
     {
-      "id": "HUM-0009",
-      "title": "Alkış Sustuktan Sonra",
-      "file": "./HUM-0009.mp3",
-      "duration_seconds": 574.511,
-      "bytes": 6894490,
-      "engine": "Piper",
-      "voice": "en_US-lessac-medium"
-    },
-    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",

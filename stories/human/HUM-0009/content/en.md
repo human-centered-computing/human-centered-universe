@@ -1,339 +1,357 @@
 # After the Applause
 
-The water arrived before the observer’s name.
+When the water began to flow, the observer cried.
 
-First air came out of the fountain that had stood dry for years. Then a brown thread. Then a clear stream. People ran across the square. Someone forgot their bucket and held out their hands. A little girl tried to catch the water, splashed her own face, and laughed.
+After three years of work, the first fountain in the city’s upper neighbourhood had opened. Beyond the pipes, measurements and failed attempts, there was now a tangible result: people had somewhere to collect water.
 
-For the first time in three years, the observer lowered their shoulders.
+The observer had imagined this moment for years.
 
-The night shifts, the models that failed, the burst pipes, the mornings when they could not find enough money for another attempt… For a moment, all of it fitted inside that child’s laughter.
+But their imagined scene had contained more than water.
 
-“We did it,” the observer said.
+It had also contained people turning towards them.
 
-Then someone shouted their name.
+The first expression of thanks warmed them. Hearing their name repeated in the square made them stand taller. The next day, the city administration projected their face into the sky in a three-dimensional field of light.
 
-The crowd repeated it.
+They looked at the crowd beneath their own face.
 
-When the observer spoke again, a different sentence came out:
+“It was worth it,” they thought.
 
-“I did it.”
+Then they could no longer tell which part they meant.
 
-Nobody noticed.
+## More than an achievement
 
-The observer did.
+Maran was waiting in the square after the celebration had emptied it.
 
-## The shadow of a name
+“You don’t look happy.”
 
-That evening, the observer was taken to a tower to celebrate. The future city projected its engineers’ faces into three-dimensional fields of light above the rooftops. The observer’s face grew larger; the people below became small dots.
+“I am happy. That’s what frightens me.”
 
-Maran appeared beside the railing.
+The observer sat beside the fountain.
 
-“Are you going to tell me I shouldn’t be happy?” the observer asked.
+“When I was a child, my elders said that to draw closer to the Creator, a person had to cleanse themselves of arrogance. As I grew older, I heard similar calls in other faiths. Don’t put yourself first, don’t claim everything for yourself, purify yourself…”
 
-“No. The water you waited three years for is flowing.”
+They were silent for a while.
 
-“Then why do I feel something growing inside me?”
+“I want that too. But when I succeed, I feel more important. When I take that feeling away, I forget why I am trying so hard.”
 
-Maran pointed to the face above the city.
+Maran did not answer.
 
-“What is growing? The work you have done, or the place it gives you?”
+“I want to succeed,” the observer said. “And I’m afraid of the person success turns me into.”
 
-Before the observer could answer, the field of light trembled.
+“What if the same work awaited you tomorrow somewhere nobody knew you?”
 
-A golden ring formed around their face. It turned, hardened, and rested above their head like a crown.
+“I would want to do it.”
 
-With every round of applause, it grew heavier.
+“Would you do it?”
 
-The observer could not lower their head.
+The observer looked at the water.
 
-“Take it off.”
+“I don’t know.”
 
-Maran did not reach out.
+## The day they stopped working
 
-“What you remove before you understand it returns somewhere else.”
+The following week, they closed the file for the new project.
 
-Light from the crown seeped into the tower’s floor.
+The team continued maintaining the completed line. The second line, intended to reach distant settlements, remained on paper.
 
-Stones rose through the screen.
+The observer did not attend the award ceremony. Asked that their name not be announced. Changed the subject when people thanked them.
 
-Girê Miraza. Xerawreşk. Göbekli Tepe.
+For the first few days, they felt lighter.
 
-Between the overlapping names, the space inside twelve pillars remained dark.
+Then getting up in the morning became difficult.
+
+They used to lose track of time while thinking through a new solution. Now they sat at the drawing table, picked up a pencil, and put it down.
+
+“Nobody will know,” they thought.
+
+Then became angry with themselves.
+
+“So I never really wanted to help people either.”
+
+One morning, Dilan, the technician, arrived. She put their preliminary study for one of the distant settlements on the table.
+
+“When are we starting the new line?”
+
+The observer said nothing.
+
+“Don’t you want to work?”
+
+“I do. But I don’t trust my reasons for wanting it.”
+
+Dilan pulled out a chair and sat down.
+
+“I want to get paid,” she said. “I also want to do good work and have my daughter be proud of me. Does thinking those things mean I don’t want the water to reach the right place?”
+
+The observer could not look at her.
+
+That night, they wrote a sentence in their notebook:
+
+“In trying to purify myself, could I be extinguishing everything that moves me to work?”
+
+## Paths between the pillars
+
+When Maran picked up the notebook, the ink moved.
+
+The lines formed a circle. The walls withdrew. The stones of Girê Miraza, Xerawreşk—Göbekli Tepe—rose through the workshop.
+
+There were voices between the twelve pillars.
 
 FIRST VIBRATION.
 
-The observer was no longer looking down from a tower, but from inside their own success.
+A woman held out a bowl.
 
-## The room without applause
+“I dedicate the good I do to Allah,” she said. “I try to keep my intention pure.”
 
-A door stood in the middle of the stone circle. Nothing was written on it. As the observer approached, their own voice spoke:
+As the observer took the bowl, they asked:
 
-“If nobody will know it was me, why should I try?”
+“Have you completely freed yourself from yourself that way?”
 
-The door opened.
+“This morning I admired myself for how sincere my prayer was,” the woman replied.
 
-Beyond it stood the same city. The same fountain. The same child.
+Another traveller sat on a cloth spread on the ground.
 
-With one difference: nobody knew the observer’s name.
+“I am not seeking a creator in the sense you mean,” they said. “I examine how I cling to changing experiences as ‘I’ and ‘mine.’”
 
-The child splashed water on her face again.
+Another voice rose a little further away:
 
-She laughed again.
+“I seek the true self behind the identity I take to be transient.”
 
-The observer resented the world for finding joy without waiting for them.
+The observer stopped.
 
-Then felt ashamed of that resentment.
+“I thought all the paths were saying the same thing.”
 
-“So everything I did was for myself.”
+“You hear similar words,” Maran said. “But these people are not speaking of the same self, the same understanding of God, or the same liberation.”
 
-“Don’t pass judgment so quickly,” Maran said.
+A meal was laid out among the stones. Some prayed. Some remained silent. One traveller served food without asking anyone what they believed.
 
-“Can’t you see? My name is gone, and my happiness has diminished.”
+The observer lowered their head.
 
-“That it has diminished does not mean nothing remains.”
+“On my own path, I want to draw closer to the Creator. But at the end of every good deed, a voice inside says, ‘Now you are worth more.’”
 
-The observer approached the fountain and touched the water.
+Maran placed a mirror in front of them.
 
-It was cold.
+The observer did not look.
 
-It did not know their name.
+“Do you want to be the person closest to the Creator?” Maran asked.
 
-It cooled their hands anyway.
+The observer was about to object.
 
-The little girl looked up.
+Then fell silent.
 
-“Did you make this?”
+## Keeping accounts of purification
 
-When the observer said nothing, she shrugged.
+Over the following days, they began watching their actions more closely.
 
-“Whoever made it, I’m glad they did.”
+They counted the days on which they helped in secret. Recorded the praise they turned away. Made small marks beside moments when they thought they had felt no envy of someone else’s success.
 
-This time a smaller joy formed in the observer’s chest. It was not large enough to project into the sky. But it was real.
+The notebook was filling up.
 
-The door stayed open.
+The observer felt they were making progress.
 
-## The crown of purification
+One evening, they showed it to Maran.
 
-The next morning, the observer had their name removed from every record.
+“I’ve changed so much.”
 
-They stopped attending presentations. Refused congratulations. Declined their award.
+They recognised the pleasure they felt as they spoke.
 
-A few days later, while telling someone about this, they added:
+It was the pleasure of the day the first fountain opened.
 
-“I no longer need recognition.”
+This time, their achievement was no longer needing achievement.
 
-As they spoke, they watched the other person’s face.
+They slowly closed the notebook.
 
-Waiting for recognition.
+“I’ve built another summit for myself.”
 
-Maran laughed. Not mockingly, but as if the observer had finally come a little closer to themselves.
+Maran opened the field of light above the table. The observer’s old image appeared above the city. Then the notebook’s pages rose around it, forming a thin crown of paper.
 
-The crown had returned.
+The observer held their head in their hands.
 
-This time it was transparent glass, not gold.
+“When I succeed, my ego takes hold. When I stop wanting success, work loses its meaning. If I succeed in overcoming my ego, I admire myself for having done that.”
 
-“Others boast about their achievements,” the observer said. “I boast about not boasting.”
+The paper crown turned gently.
 
-Another crown appeared inside the glass. Another inside that.
+“How do I get outside this cycle?”
 
-The observer stopped counting.
+Maran switched off the light field.
 
-“Will it never end?”
+“I don’t know,” Maran said.
 
-“If you had to destroy every thought that arrived,” Maran said, “would you have any time left to look after the fountain?”
+For the first time, that answer made the observer angry.
 
-For the first time, the observer did not try to remove the crown.
+“Have we come all this way for that?”
 
-They returned to the workshop with it.
+Just then, someone knocked.
 
-A notice stood by the door.
+A man from the distant settlement wanted to know whether the new line was going to start.
 
-Someone else was named as the water system’s sole creator. The maintenance crew who worked through the nights were absent. So were the residents who had helped improve it. The observer’s name was absent too.
+Looking at him, the observer realised that, for days, they had been thinking so much about purification that they had scarcely thought about the settlement.
 
-Anger rose inside them.
+## Work nobody saw
 
-Then fear:
+The following morning, they set out with Dilan.
 
-“If I object, doesn’t that mean my ego has returned?”
+They took nobody along to photograph them. The observer wanted to make a point of saying so. They did not.
 
-A technician put a dismantled valve on the table.
+A woman was waiting when they arrived. She described the route she walked every day to reach water. The observer noted the time it took. She looked at the notebook.
 
-“I don’t know about yours,” she said. “But they’ve forgotten my pay as well.”
+“People have written that down before.”
 
-The observer read the notice again.
+The observer lowered the pencil.
 
-Erasing their own name had not protected anyone else’s work.
+“I want to finish it this time.”
 
-It had only made room for an inaccurate story.
+“You want to,” the woman said. “Then you leave.”
 
-## Signature and responsibility
+It hurt. Yet the observer had thought they had come without expecting recognition.
 
-They prepared a new record.
+They worked.
 
-It listed who had made each part, whose earlier work they had drawn on, and whose labour remained unpaid. There was room for those who did not want their names displayed: their identities could be protected without erasing their contributions.
+The first solution failed. The second was too expensive. In the third, a young engineer pointed out a constraint the observer had missed.
 
-The observer added their own name too.
+The observer answered sharply.
 
-Beside it, they wrote only the work they had done.
+Alone that evening, they felt ashamed. In the morning, they went to the engineer.
 
-Maran asked:
+“I didn’t listen yesterday. Would you explain it again?”
 
-“Are you no longer afraid of being seen?”
+The engineer opened the drawing.
 
-“I am. But being invisible and being honest are not the same thing.”
+This time, the observer took notes.
 
-“And if this record makes you more important than everyone else?”
+As the work progressed, their curiosity returned. They wanted to understand why a part was not working. They laughed when they and Dilan found a solution. Sometimes they imagined their name being remembered here one day. Sometimes they did not think about that until evening.
 
-“We correct the record.”
+One day, they asked Maran:
 
-The observer signed.
+“If I want to feel good about myself while helping people, does that spoil the good I do?”
 
-This time the signature was not a throne.
+“I am not someone who can pass judgment on every desire inside you,” Maran said. “But yesterday you listened to someone’s objection. Today you tested their solution.”
 
-It was their place beneath a responsibility.
+“So am I purified?”
 
-That evening, they celebrated again. The technician brought her daughter. A woman divided her meal to take a share to her neighbour. The observer accepted congratulations.
+“Today you tested that solution.”
 
-“I worked hard,” they said. “I’m happy it worked.”
+The observer tried to bear the space left inside that answer.
 
-Then they named the others on the team.
+## The second applause
 
-They did not diminish themselves.
+Months later, water reached the new line.
 
-Nor did they diminish the others to fit them inside their own sentence.
+The observer cried again.
 
-Just as everything seemed to have settled into place, news arrived from the far side of the city:
+This time, they could not fit the reason into a single sentence. The work was finished. They were exhausted. They felt useful. They wanted to see children running towards the water. They wanted to be considered successful too.
 
-The water had stopped in the outlying neighbourhood.
+Their name was spoken in the square.
 
-## The limit of success
+Their chest swelled.
 
-A young engineer laid a record in front of the observer.
+The old voice spoke as if it had never left:
 
-“There’s an omission in the distribution model. Flow to the square increases, but the line to the upper neighbourhood cannot deliver enough.”
+“See? You did it again.”
 
-The observer looked at the figures.
+For a moment, the observer wanted to leave the crowd. They thought escaping would protect them.
 
-Then at the engineer’s face.
+Then they noticed that Dilan’s name had not been mentioned.
 
-Their first thought was:
+They took the microphone.
 
-“You didn’t build this system.”
+They explained their own work. Then named Dilan’s contribution, the young engineer’s, the maintenance crew’s, and those of the people who had worked in the settlement. They did not deny their own labour. They also had missing workdays added to the pay records.
 
-The second was quieter:
+When they finished, people applauded again.
 
-“They were applauding me a moment ago. What happens if I say I was wrong?”
+It produced a form of praise they had not expected:
 
-The stone circle appeared within the workshop walls. No golden crown was visible, but an old weight pressed above the observer’s brow.
+“What a humble person.”
 
-Three centres sat at the same table.
+The voice inside immediately reached for that as well.
 
-HUMAN pointed to the doors of the houses without water.
+The observer put the microphone on the table.
 
-LIGHT opened the model’s assumptions and showed where measurements were missing.
+This time, they did not search for a sentence that would silence the voice.
 
-DARK laid the young engineer’s alternative route on the table—a route unlike the observer’s own.
+Back at the workshop, three centres appeared around the same drawing.
 
-None was sufficient alone.
+HUMAN showed the face of the woman who no longer had to make that walk.
 
-The observer opened their mouth.
+LIGHT laid out the system, with its operating conditions explicitly recorded and its maintenance responsibilities assigned.
 
-They did not speak the first thought.
+DARK left an untried route at the edge of the drawing.
 
-“Let’s examine the records together.”
+The observer looked at them.
 
-For two days, they ran the system at limited capacity. They announced the interruptions openly. The team and neighbourhood representatives arranged temporary water deliveries together. They did not hide the omission; they recorded that the earlier success had not produced the same result for every neighbourhood.
+Their work had produced a result.
 
-The revised arrangement was more complicated than the first design the observer loved.
+What they felt inside had not yet settled.
 
-But water reached the upper neighbourhood too.
+## The unfinished prayer
 
-They used the young engineer’s solution.
+That night, they returned to Girê Miraza.
 
-The observer crossed out their own drawing with their own hand.
+The golden crown rested in the middle of the twelve pillars. Beside it stood the bowl they had filled with water before. This time, the observer did not try to turn either one into the other.
 
-They did not tear up the paper.
+The crown remained where it was.
 
-That drawing had brought them this far. Its inability to take them further did not mean it had never been useful.
+They drank from the bowl.
 
-## The space left open
+“I wanted to draw closer to the Creator,” they said. “I hoped that at the end of the path, I would find a place where I no longer thought about myself.”
 
-The second celebration was smaller.
+Maran sat beside them.
 
-People thanked the observer again. This time their face was not projected into the sky. They noticed their disappointment.
+“And now?”
 
-Maran noticed too.
+“Now I see something of myself entering everything I do. My love, my work, my prayer. Even when I try to escape it, I’m thinking about myself again.”
 
-“See?” the observer said. “It’s still there.”
+Wind passed between the pillars.
 
-“Yes.”
+The observer opened their hands.
 
-“After all this?”
+Their first prayer was:
 
-“Yes.”
+“Make me someone entirely free of ego.”
 
-The observer was quiet for a while.
+After saying it, they thought how wonderful it would be to know they were such a person.
 
-Then smiled.
+They lifted their head.
 
-“I was about to think myself better than everyone else because I didn’t stop the water today.”
+Maran said nothing.
 
-Maran laughed aloud.
+The observer did not lower their hands.
 
-“A very exhausting profession.”
+This time, they spoke more slowly:
 
-“Which one?”
+“Let me notice when I spoil something good by wanting it to belong only to me. Let me turn back when I am wrong. Let me not sacrifice another person’s rights to the story of my own purification.”
 
-“Having finally defeated yourself for the last time.”
+Then they stopped.
 
-The golden crown appeared again at the centre of Girê Miraza.
+They did not know whether they were closer to the Creator. The pillars did not answer.
 
-The observer did not put it on.
+In the morning, they would review the maintenance plan with Dilan. They would also discuss the change the young engineer had proposed.
 
-Nor did they throw it away.
+On the way back to the workshop, they heard their own name in the distance.
 
-They held it in both hands and turned it over.
+It warmed them again.
 
-The crown resembled an empty bowl.
+Then a new thought arrived:
 
-They filled it at the fountain.
+“Perhaps I finally understand this cycle.”
 
-First they took a sip themselves. They did not deny their thirst. Then they passed the bowl to the person beside them.
+The observer paused.
 
-Their fingerprints remained on its rim.
+They recognised that thought too.
 
-They did not wipe them away.
+They opened the door.
 
-When the evening ended, the observer wrote three lines in a notebook:
+A new drawing lay on the table.
 
-“I take joy in what I have done.”
+First, they wanted to write their own name. Then they thought writing no name at all would look more noble.
 
-“This work does not make me worth more than other people.”
+They held the pencil for a while.
 
-“If I find something wrong with it tomorrow, I will change it.”
+Finally, at the top of the page, they wrote the name of the settlement they would be working in.
 
-They left the fourth line blank.
+Beneath it, they wrote the date.
 
-There might be something to write there in the morning.
+They left their own name and the team’s names for the section where their contributions would be recorded.
 
-Applause sounded in the distance.
+Nothing had been achieved yet.
 
-The old voice inside lifted its head:
-
-“Are they calling me?”
-
-The observer listened.
-
-Then looked towards the workshop’s open door.
-
-Inside were unfinished work, people to work alongside, and a future that did not yet know their name.
-
-They did not declare themselves holy for staying away from the applause.
-
-Nor were they compelled to follow it.
-
-They went inside.
-
-Success had not lost its meaning.
-
-It simply no longer had to prove their worth every time.
+They began to work.
