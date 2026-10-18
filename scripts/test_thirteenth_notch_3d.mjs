@@ -1,0 +1,13 @@
+import fs from "node:fs";
+import assert from "node:assert/strict";
+const scene=fs.readFileSync("web/assets/thirteenth-notch-3d.v1.js","utf8");
+const app=fs.readFileSync("web/assets/app.js","utf8");
+const html=fs.readFileSync("web/index.html","utf8");
+for(const key of ["see_the_person_first","make_the_failure_traceable","protect_the_right_not_to_be_measured"]) assert.ok(scene.includes(key),`missing scene mapping: ${key}`);
+for(const center of ["HUMAN","LIGHT","DARK"]) assert.ok(scene.includes(`:"${center}"`),`missing mode: ${center}`);
+assert.ok(scene.includes("not an archaeological reconstruction"));
+assert.ok(app.includes('story.id==="HUM-0008"'));
+assert.ok(app.includes("tn3d?.setMode(c.key)"));
+assert.ok(app.includes('["BRG-0002","HUM-0008"].includes(story.id)'));
+assert.ok(html.includes("thirteenth-notch-3d.v1.js"));
+console.log("HUM-0008 Thirteenth Notch 3D integration checks passed.");
