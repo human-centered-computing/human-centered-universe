@@ -33,6 +33,9 @@ jobs:
       - name: Test FIRST VIBRATION branches
         run: node scripts/test_first_vibration_branches.mjs
 
+      - name: Test Thirteenth Notch 3D scene
+        run: node scripts/test_thirteenth_notch_3d.mjs
+
       - name: Test multilingual coverage
         run: node scripts/test_translation_coverage.mjs
 
