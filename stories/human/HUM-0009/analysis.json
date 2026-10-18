@@ -1,0 +1,71 @@
+{
+  "schema": "hcu-story-analysis",
+  "generation_mode": "idea-maturation-three-center",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 35,
+    "LIGHT": 33,
+    "DARK": 32
+  },
+  "center_raw_scores": {
+    "HUMAN": 88,
+    "LIGHT": 83,
+    "DARK": 79
+  },
+  "classification": {
+    "method": "30-criterion HCU narrative analysis; largest-remainder normalization to 100",
+    "status": "ai-generated-draft",
+    "note": "Scores describe narrative emphasis, not human worth, moral correctness or clinical assessment.",
+    "criterion_scores": {
+      "HUMAN": [
+        10,
+        9,
+        7,
+        9,
+        8,
+        10,
+        8,
+        10,
+        9,
+        8
+      ],
+      "LIGHT": [
+        8,
+        8,
+        9,
+        8,
+        9,
+        7,
+        8,
+        8,
+        8,
+        10
+      ],
+      "DARK": [
+        8,
+        9,
+        8,
+        7,
+        8,
+        8,
+        9,
+        7,
+        8,
+        7
+      ]
+    },
+    "criterion_order_reference": "universe/CLASSIFICATION.md",
+    "rationale": {
+      "HUMAN": "Dignity, lived emotion, fair attribution and responsibility hold the story together.",
+      "LIGHT": "Contribution records, visible assumptions, a reported failure and correction keep success accountable.",
+      "DARK": "The alternative design, an uncompleted self and the refusal of final purification preserve transformation."
+    }
+  },
+  "coverage_audit": {
+    "coverage_complete": false,
+    "unmapped_elements": [
+      "The felt paradox of observing one's own humility is only partially represented by the three-center criteria."
+    ],
+    "review_note": "A human editorial review is pending; classification is provisional."
+  }
+}
