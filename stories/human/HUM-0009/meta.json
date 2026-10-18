@@ -8,26 +8,31 @@
   "translation_policy": "source_only_until_reviewed",
   "culture": [
     "plural cultural memory around Girê Miraza / Xerawreşk (Göbekli Tepe)",
-    "a fictional future civic workshop"
+    "a fictional future civic workshop",
+    "fictional encounters with distinct theistic, Buddhist and Hindu-inspired paths"
   ],
   "belief_context": [
-    "humility without self-erasure",
-    "success without claims of superior human worth",
-    "no single religious or secular interpretation is made universal"
+    "the observer's personal wish to draw closer to the Creator",
+    "distinct religious interpretations of purification, selfhood and liberation",
+    "spiritual pride and the wish to be the most purified person",
+    "mixed motives, meaningful work and fair attribution",
+    "no claim that every religion seeks a creator or shares one doctrine of self"
   ],
-  "summary": "Bir kente su getiren gözlemci, alkışla ağırlaşan tacından kurtulmak ister. Kendi adını silince emeğin de silinebildiğini, başarıya tutununca hatayı duymakta zorlandığını görür. Maran’la çıktığı yol, başarıdan vazgeçmek yerine onunla kurduğu ilişkiyi değiştirmeye açılır.",
+  "summary": "Başarı gözlemciyi büyüklenmeye sürükler; arınmak için başarı isteğinden vazgeçtiğinde ise çalışmanın anlamını yitirir. Kendi arınmasını bir başarıya çevirdiğinde aynı döngüyü yeniden kurar. Maran ve farklı yollardan gelen yolcularla karşılaşması, bu çatışmayı tamamlanmamış bir işin ve başkalarının hakkının önünde yaşamasına dönüşür.",
   "translations": {
     "tr": {
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr",
-      "method": "AI-authored original Turkish prose from Murat Delen's narrative premise; editorial review pending"
+      "method": "AI-authored original Turkish prose from Murat Delen's narrative premise; editorial review pending",
+      "revision": 2
     },
     "en": {
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr",
-      "method": "AI translation from the Turkish original; human review pending"
+      "method": "AI translation from the Turkish original; human review pending",
+      "revision": 2
     }
   },
   "editorial_status": {
@@ -59,7 +64,7 @@
     {
       "target": "BRG-0002",
       "type": "transformation",
-      "note": "Arınmak is reinterpreted as changing what a feeling serves, not eliminating feeling or personhood."
+      "note": "The call to purification becomes an unresolved trial: even the wish to be purified can become an achievement claimed by the self."
     },
     {
       "target": "HUM-0008",
@@ -75,11 +80,11 @@
   "localized": {
     "tr": {
       "title": "Alkış Sustuktan Sonra",
-      "summary": "Bir başarı, iki taç ve kendini silmeden tevazuyu öğrenen bir gözlemci."
+      "summary": "Başardıkça büyüklenen, arındıkça amacını yitiren bir gözlemci, arınmayı başarmanın da yeni bir ego kurabildiğini görür."
     },
     "en": {
       "title": "After the Applause",
-      "summary": "One achievement, two crowns, and an observer learning humility without self-erasure."
+      "summary": "An observer grows proud through achievement, loses purpose through renunciation, and discovers that achieving purification can build another ego."
     }
   },
   "primary_center": "HUMAN",
@@ -91,10 +96,10 @@
   "observer_choices": [
     {
       "key": "accept_joy_share_credit",
-      "label": "Accept the joy and name every contribution fairly.",
+      "label": "Keep working through mixed motives, while protecting every person's contribution.",
       "labels": {
-        "tr": "Sevincimi kabul et, emeğimi ve başkalarının katkısını adilce görünür kıl.",
-        "en": "Accept the joy and name every contribution fairly."
+        "tr": "Niyetimdeki karışıklığı görerek çalışmayı sürdür; herkesin emeğini ve hakkını koru.",
+        "en": "Keep working through mixed motives, while protecting every person's contribution."
       },
       "effects": {
         "HUMAN": 10,
@@ -104,12 +109,12 @@
       "branch": {
         "target": "HUM-0008",
         "heading": {
-          "tr": "İsim bir taht değil",
-          "en": "A name is not a throne"
+          "tr": "Niyet henüz durulmadı",
+          "en": "Intention has not yet settled"
         },
         "outcome": {
-          "tr": "Gözlemci kendi adını kayıtta tutar; eksik ücretleri ve unutulan katkıları da ekler. Görünürlük, üstünlük değil hesap verebilirlik taşır.",
-          "en": "The observer keeps their name in the record and adds unpaid labour and forgotten contributions. Visibility carries accountability, not superiority."
+          "tr": "Gözlemci takdir isteğinin tamamen bitmesini beklemeden çalışmaya döner. Kendi katkısını, ekiptekilerin ücretlerini ve yerleşimin ihtiyacını ayrı ayrı kaydeder. İşin sonucu vardır; bu sonuç kendisine bir manevi üstünlük belgesi vermez.",
+          "en": "The observer returns to work without waiting for the wish for recognition to disappear. They record their own contribution, the team's pay and the settlement's needs separately. The work produces a result; it grants no certificate of spiritual superiority."
         },
         "cta": {
           "tr": "Kaydın dışında kalanı gör",
@@ -119,10 +124,10 @@
     },
     {
       "key": "let_success_be_corrected",
-      "label": "Let the evidence correct the work, even after applause.",
+      "label": "Let the objection change the work, even while the wish for praise remains.",
       "labels": {
-        "tr": "Alkıştan sonra da hatayı duy; işi kanıta ve itiraza açık tut.",
-        "en": "Let the evidence correct the work, even after applause."
+        "tr": "Övgü isteğim sürse de itirazı dinle; çözümü birlikte sınamaya aç.",
+        "en": "Let the objection change the work, even while the wish for praise remains."
       },
       "effects": {
         "HUMAN": 4,
@@ -132,12 +137,12 @@
       "branch": {
         "target": "HUM-0007",
         "heading": {
-          "tr": "Yanılma hakkı, düzeltme sorumluluğu",
-          "en": "Room for error, responsibility for repair"
+          "tr": "Bugün bu çözümü sınadınız",
+          "en": "Today you tested this solution"
         },
         "outcome": {
-          "tr": "Gözlemci genç mühendisin kaydını inceler, kesintiyi açıklar ve yeni çözümü birlikte sınar. Bir tasarımın yanlışlanması, onu yapan kişinin değersizleşmesi değildir.",
-          "en": "The observer examines the young engineer's record, reports the interruption and tests a new solution together. A design being wrong does not make its maker worthless."
+          "tr": "Gözlemci genç mühendise sert çıkışını kabul eder ve öneriyi yeniden dinler. Başarıya ve arınmaya dair hisleri sürerken bir hatayı düzeltmek için somut bir adım atar.",
+          "en": "The observer acknowledges their sharp response to the young engineer and listens again. While feelings about achievement and purification persist, they take a concrete step towards correcting a mistake."
         },
         "cta": {
           "tr": "İnsan olarak kalmayı sürdür",
@@ -147,10 +152,10 @@
     },
     {
       "key": "leave_the_fourth_line_open",
-      "label": "Leave room for an unfinished self and an alternative path.",
+      "label": "Keep questioning whether purification has become another summit to conquer.",
       "labels": {
-        "tr": "Kusursuz arınma iddiasını bırak; kendime ve işe değişme alanı aç.",
-        "en": "Leave room for an unfinished self and an alternative path."
+        "tr": "Arınmayı yeni bir zirveye dönüştürdüğümde bunu sorgulamayı sürdür.",
+        "en": "Keep questioning whether purification has become another summit to conquer."
       },
       "effects": {
         "HUMAN": 4,
@@ -160,12 +165,12 @@
       "branch": {
         "target": "BRG-0002",
         "heading": {
-          "tr": "Son kez yenilmesi gerekmeyen benlik",
-          "en": "A self that needs no final defeat"
+          "tr": "Arınmayı başarmak",
+          "en": "Achieving purification"
         },
         "outcome": {
-          "tr": "Eski üstünlük isteği yeniden duyulur; gözlemci onu bir emir saymaz. Başarıdan da benliğinden de vazgeçmeden, bir sonraki işin yönünü seçer.",
-          "en": "The old desire for superiority returns; the observer does not treat it as an order. They choose the next direction without abandoning either achievement or selfhood."
+          "tr": "Gözlemci 'Artık döngüyü anladım' düşüncesinin de eski üstünlük isteğini taşıyabileceğini fark eder. Son bir zafer ilan etmeden, farklı inançların sorularına ve kendi yolunun belirsizliğine alan açar.",
+          "en": "The observer notices that 'I finally understand the cycle' may carry the old wish for superiority. Without proclaiming a final victory, they make room for the questions of different faiths and the uncertainty of their own path."
         },
         "cta": {
           "tr": "İlk titreşime dön",
@@ -177,13 +182,34 @@
   "reality_weaving": {
     "mode": "woven",
     "reality_roots": [
-      "The everyday tension between enjoying achievement, seeking recognition and treating recognition as a measure of personal worth.",
-      "The practical importance of fair attribution, compensation, public error reporting and openness to alternative designs.",
-      "Multiple cultural and philosophical understandings of humility and the self; none is asserted as the universal reading of the archaeological site."
+      "The observer's conflict between meaningful achievement, recognition, religious aspiration and loss of motivation is explored as a fictional individual experience.",
+      "Islamic discussions of purification and self-admiration, Buddhist not-self teachings and Hindu discussions of ahamkara are distinct traditions rather than one universal doctrine.",
+      "Fair contribution records, compensation, listening to objections and shared maintenance responsibilities are ordinary engineering and governance practices."
     ],
-    "imaginative_transformation": "Maran, FIRST VIBRATION and a crown that becomes a bowl turn a future civic engineering success into an inward trial. Girê Miraza is a fictional resonance, not a reconstruction of prehistoric beliefs.",
-    "emergent_question": "Can success sustain joy, agency and meaningful contribution without becoming a demand to prove superiority?",
-    "provenance": []
+    "imaginative_transformation": "FIRST VIBRATION opens a fictional meeting between travellers with differing commitments. Maran and the crown externalize the observer's recursive wish to succeed at purification. The stone circle does not certify the travellers' beliefs or reproduce the beliefs of prehistoric inhabitants.",
+    "emergent_question": "If success feeds self-importance and renunciation empties work of meaning, can someone act responsibly without turning purification itself into another personal triumph?",
+    "provenance": [
+      {
+        "title": "Şems 91:1–10 — Diyanet Kur’an Yolu",
+        "uri": "https://kuran.diyanet.gov.tr/tefsir/%C5%9Eems-suresi/6044/1-10-ayet-tefsiri"
+      },
+      {
+        "title": "UCB — TDV İslâm Ansiklopedisi",
+        "uri": "https://islamansiklopedisi.org.tr/ucb"
+      },
+      {
+        "title": "SN 22.59 — The Characteristic of Nonself (Bhikkhu Bodhi translation)",
+        "uri": "https://www.dhammatalks.net/suttacentral/sc2016/sc/en/sn22.59.html"
+      },
+      {
+        "title": "Bhagavad-gītā 3.27 — one Vaishnava translation and interpretation",
+        "uri": "https://vedabase.io/en/library/bg/3/27/"
+      },
+      {
+        "title": "Bhagavad-gītā 2.47 — action and its fruits",
+        "uri": "https://vedabase.io/en/library/bg/2/47/"
+      }
+    ]
   },
   "choice_epistemic_layers": {
     "labels": {
@@ -208,8 +234,8 @@
     },
     "notes": {
       "established_science": {
-        "tr": "Bu hikâye ego için bilimsel bir tanım, psikolojik teşhis veya egoyu yok etme yöntemi önermiyor. 'Ego' burada üstünlük ihtiyacı ve takdire yapışma için gündelik bir anlatı sözcüğüdür; benlik, özsaygı ve bütün motivasyonla eşitlenmez.",
-        "en": "This story proposes no scientific definition, psychological diagnosis or method for eliminating ego. 'Ego' is an everyday narrative term for the desire for superiority and attachment to recognition; it is not equated with selfhood, self-respect or all motivation."
+        "tr": "Gözlemcinin motivasyon kaybı ve egonun tekrar belirmesi kurgusal bir kişinin deneyimidir; herkes için geçerli psikolojik yasa, teşhis veya tedavi değildir. Metin egonun bütünüyle ve kalıcı biçimde yok edilebildiğini kanıtlamaz. Benlik, kibir ve bütün motivasyon birbirine eşitlenmez.",
+        "en": "The observer's loss of motivation and recurring ego are the experiences of a fictional individual, not a universal psychological law, diagnosis or treatment. The text does not demonstrate complete and permanent ego elimination. Selfhood, arrogance and all motivation are not equated."
       },
       "real_engineering": {
         "tr": "Katkı kayıtları, ücretlerin izlenmesi, varsayımların incelenmesi, hata bildirimi, sınırlı işletim ve alternatif tasarım sınaması uygulanabilir süreçlerdir. Anlatıdaki su sistemi hayalidir; uygulanabilir bir hidrolik tasarım veya güvenlik talimatı değildir.",
@@ -220,12 +246,12 @@
         "en": "Wanting recognition and considering oneself superior are distinguished in the narrative; this is not offered as a model explaining every person's behaviour."
       },
       "philosophy": {
-        "tr": "Kişinin değeri tek bir başarısına bağlanmadan başarı anlam taşıyabilir mi? Tevazu, kendini silmek yerine kendini düzeltilebilir görmek olabilir mi? Bunlar hikâyenin felsefi önerileridir.",
-        "en": "Can achievement matter without making a person's worth depend on it? Could humility mean being open to correction rather than erasing oneself? These are the story's philosophical proposals."
+        "tr": "Başarı isteğinden vazgeçmek anlam kaybına, arınmayı başarı saymak ise yeni bir üstünlük isteğine yol açabilir mi? Kahramanın eylemleri bu çatışmayı araştırır. Son dua ve işe dönüş bir arınma belgesi veya nihai çözüm olarak sunulmaz.",
+        "en": "Can relinquishing the wish for success produce a loss of meaning, while treating purification as an achievement produces another wish for superiority? The protagonist's actions explore this conflict. The final prayer and return to work are not certificates of purification or a final solution."
       },
       "belief_cultural_meaning": {
-        "tr": "Arınma, taç ve kap imgeleri farklı inançlarda ve seküler düşüncelerde farklı okunabilir. Hiçbir gelenek tek doğru yorum ilan edilmez; Göbekli Tepe sakinlerine bu düşünceler atfedilmez.",
-        "en": "Purification, crown and bowl imagery can be read differently across beliefs and secular philosophies. No tradition is declared the only valid interpretation, and these ideas are not attributed to the inhabitants of Göbekli Tepe."
+        "tr": "Yaradan’a yakınlık gözlemcinin kişisel inanç yönelişidir. Bütün dinlerin yaratıcıya ulaşmayı amaçladığı veya aynı benlik anlayışını savunduğu ileri sürülmez. Yolcuların diyalogları özgün kurgudur; kutsal metinlerden alıntı ya da bir geleneğin tamamını temsil eden sözler değildir. Göbekli Tepe sakinlerine bu inançlar atfedilmez.",
+        "en": "Drawing closer to the Creator is the observer's personal religious aspiration. The story does not claim that all religions seek a creator or share a doctrine of self. The travellers' dialogue is original fiction, not scripture quotations or statements representing an entire tradition. These beliefs are not attributed to the inhabitants of Göbekli Tepe."
       },
       "science_fiction": {
         "tr": "Maran, duyguya göre değişen taç, FIRST VIBRATION ve zaman katmanlarının iç içe geçmesi kurgudur. Kuantum-AI çerçevesi evrenin anlatı katmanıdır; insan motivasyonuna veya bilince ilişkin doğrulanmış kuantum fiziği iddiası değildir.",
@@ -244,5 +270,11 @@
     "method": "original procedural SVG illustration",
     "contains_text": false,
     "archaeological_reconstruction": false
+  },
+  "revision": {
+    "version": 2,
+    "date": "2026-10-18",
+    "editorial_direction": "Murat Delen",
+    "change": "Make the success–ego–purification–loss-of-purpose cycle explicit, including purification as another achievement. Introduce distinct spiritual paths without a single-creator claim for all religions."
   }
 }
