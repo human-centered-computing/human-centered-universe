@@ -1,0 +1,248 @@
+{
+  "id": "HUM-0009",
+  "title": "Alkış Sustuktan Sonra",
+  "original_title": "Alkış Sustuktan Sonra",
+  "status": "canon",
+  "core": "WORK",
+  "source_language": "tr",
+  "translation_policy": "source_only_until_reviewed",
+  "culture": [
+    "plural cultural memory around Girê Miraza / Xerawreşk (Göbekli Tepe)",
+    "a fictional future civic workshop"
+  ],
+  "belief_context": [
+    "humility without self-erasure",
+    "success without claims of superior human worth",
+    "no single religious or secular interpretation is made universal"
+  ],
+  "summary": "Bir kente su getiren gözlemci, alkışla ağırlaşan tacından kurtulmak ister. Kendi adını silince emeğin de silinebildiğini, başarıya tutununca hatayı duymakta zorlandığını görür. Maran’la çıktığı yol, başarıdan vazgeçmek yerine onunla kurduğu ilişkiyi değiştirmeye açılır.",
+  "translations": {
+    "tr": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr",
+      "method": "AI-authored original Turkish prose from Murat Delen's narrative premise; editorial review pending"
+    },
+    "en": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr",
+      "method": "AI translation from the Turkish original; human review pending"
+    }
+  },
+  "editorial_status": {
+    "human_review_pending": true,
+    "note": "Publication does not imply completed human review. Earlier review labels for other stories do not apply to this newly generated text."
+  },
+  "authors": [
+    {
+      "name": "Murat Delen",
+      "github": "muratdelen",
+      "roles": [
+        "original-concept",
+        "narrative-direction"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "name": "ChatGPT",
+      "roles": [
+        "ai-assisted-story-draft",
+        "ai-translation",
+        "procedural-vector-illustration"
+      ]
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "links": [
+    {
+      "target": "BRG-0002",
+      "type": "transformation",
+      "note": "Arınmak is reinterpreted as changing what a feeling serves, not eliminating feeling or personhood."
+    },
+    {
+      "target": "HUM-0008",
+      "type": "echo",
+      "note": "The record must not replace the person; here it must neither inflate a single creator nor erase real contributors."
+    },
+    {
+      "target": "HUM-0007",
+      "type": "theme",
+      "note": "A human subject remains capable of joy, error, responsibility and revision."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "Alkış Sustuktan Sonra",
+      "summary": "Bir başarı, iki taç ve kendini silmeden tevazuyu öğrenen bir gözlemci."
+    },
+    "en": {
+      "title": "After the Applause",
+      "summary": "One achievement, two crowns, and an observer learning humility without self-erasure."
+    }
+  },
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 35,
+    "LIGHT": 33,
+    "DARK": 32
+  },
+  "observer_choices": [
+    {
+      "key": "accept_joy_share_credit",
+      "label": "Accept the joy and name every contribution fairly.",
+      "labels": {
+        "tr": "Sevincimi kabul et, emeğimi ve başkalarının katkısını adilce görünür kıl.",
+        "en": "Accept the joy and name every contribution fairly."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 4,
+        "DARK": 2
+      },
+      "branch": {
+        "target": "HUM-0008",
+        "heading": {
+          "tr": "İsim bir taht değil",
+          "en": "A name is not a throne"
+        },
+        "outcome": {
+          "tr": "Gözlemci kendi adını kayıtta tutar; eksik ücretleri ve unutulan katkıları da ekler. Görünürlük, üstünlük değil hesap verebilirlik taşır.",
+          "en": "The observer keeps their name in the record and adds unpaid labour and forgotten contributions. Visibility carries accountability, not superiority."
+        },
+        "cta": {
+          "tr": "Kaydın dışında kalanı gör",
+          "en": "See who the record leaves out"
+        }
+      }
+    },
+    {
+      "key": "let_success_be_corrected",
+      "label": "Let the evidence correct the work, even after applause.",
+      "labels": {
+        "tr": "Alkıştan sonra da hatayı duy; işi kanıta ve itiraza açık tut.",
+        "en": "Let the evidence correct the work, even after applause."
+      },
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 10,
+        "DARK": 2
+      },
+      "branch": {
+        "target": "HUM-0007",
+        "heading": {
+          "tr": "Yanılma hakkı, düzeltme sorumluluğu",
+          "en": "Room for error, responsibility for repair"
+        },
+        "outcome": {
+          "tr": "Gözlemci genç mühendisin kaydını inceler, kesintiyi açıklar ve yeni çözümü birlikte sınar. Bir tasarımın yanlışlanması, onu yapan kişinin değersizleşmesi değildir.",
+          "en": "The observer examines the young engineer's record, reports the interruption and tests a new solution together. A design being wrong does not make its maker worthless."
+        },
+        "cta": {
+          "tr": "İnsan olarak kalmayı sürdür",
+          "en": "Continue learning to remain human"
+        }
+      }
+    },
+    {
+      "key": "leave_the_fourth_line_open",
+      "label": "Leave room for an unfinished self and an alternative path.",
+      "labels": {
+        "tr": "Kusursuz arınma iddiasını bırak; kendime ve işe değişme alanı aç.",
+        "en": "Leave room for an unfinished self and an alternative path."
+      },
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 2,
+        "DARK": 10
+      },
+      "branch": {
+        "target": "BRG-0002",
+        "heading": {
+          "tr": "Son kez yenilmesi gerekmeyen benlik",
+          "en": "A self that needs no final defeat"
+        },
+        "outcome": {
+          "tr": "Eski üstünlük isteği yeniden duyulur; gözlemci onu bir emir saymaz. Başarıdan da benliğinden de vazgeçmeden, bir sonraki işin yönünü seçer.",
+          "en": "The old desire for superiority returns; the observer does not treat it as an order. They choose the next direction without abandoning either achievement or selfhood."
+        },
+        "cta": {
+          "tr": "İlk titreşime dön",
+          "en": "Return to First Vibration"
+        }
+      }
+    }
+  ],
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "The everyday tension between enjoying achievement, seeking recognition and treating recognition as a measure of personal worth.",
+      "The practical importance of fair attribution, compensation, public error reporting and openness to alternative designs.",
+      "Multiple cultural and philosophical understandings of humility and the self; none is asserted as the universal reading of the archaeological site."
+    ],
+    "imaginative_transformation": "Maran, FIRST VIBRATION and a crown that becomes a bowl turn a future civic engineering success into an inward trial. Girê Miraza is a fictional resonance, not a reconstruction of prehistoric beliefs.",
+    "emergent_question": "Can success sustain joy, agency and meaningful contribution without becoming a demand to prove superiority?",
+    "provenance": []
+  },
+  "choice_epistemic_layers": {
+    "labels": {
+      "tr": {
+        "heading": "Bu sahne bildiğini nasıl biliyor?",
+        "established_science": "Yerleşik bilim",
+        "real_engineering": "Gerçek mühendislik",
+        "interpretation": "Yorum",
+        "philosophy": "Felsefe",
+        "belief_cultural_meaning": "İnanç ve kültürel anlam",
+        "science_fiction": "Bilim kurgu"
+      },
+      "en": {
+        "heading": "How this scene knows what it knows",
+        "established_science": "Established science",
+        "real_engineering": "Real engineering",
+        "interpretation": "Interpretation",
+        "philosophy": "Philosophy",
+        "belief_cultural_meaning": "Belief and cultural meaning",
+        "science_fiction": "Science fiction"
+      }
+    },
+    "notes": {
+      "established_science": {
+        "tr": "Bu hikâye ego için bilimsel bir tanım, psikolojik teşhis veya egoyu yok etme yöntemi önermiyor. 'Ego' burada üstünlük ihtiyacı ve takdire yapışma için gündelik bir anlatı sözcüğüdür; benlik, özsaygı ve bütün motivasyonla eşitlenmez.",
+        "en": "This story proposes no scientific definition, psychological diagnosis or method for eliminating ego. 'Ego' is an everyday narrative term for the desire for superiority and attachment to recognition; it is not equated with selfhood, self-respect or all motivation."
+      },
+      "real_engineering": {
+        "tr": "Katkı kayıtları, ücretlerin izlenmesi, varsayımların incelenmesi, hata bildirimi, sınırlı işletim ve alternatif tasarım sınaması uygulanabilir süreçlerdir. Anlatıdaki su sistemi hayalidir; uygulanabilir bir hidrolik tasarım veya güvenlik talimatı değildir.",
+        "en": "Contribution records, tracking compensation, reviewing assumptions, reporting faults, restricted operation and testing alternatives are practical processes. The water system is fictional, not an implementable hydraulic design or safety instruction."
+      },
+      "interpretation": {
+        "tr": "Takdir görmeyi istemek ile kendini başkalarından üstün saymak anlatıda birbirinden ayrılır; bu ayrım kişilerin bütün davranışlarını açıklayan bir model olarak sunulmaz.",
+        "en": "Wanting recognition and considering oneself superior are distinguished in the narrative; this is not offered as a model explaining every person's behaviour."
+      },
+      "philosophy": {
+        "tr": "Kişinin değeri tek bir başarısına bağlanmadan başarı anlam taşıyabilir mi? Tevazu, kendini silmek yerine kendini düzeltilebilir görmek olabilir mi? Bunlar hikâyenin felsefi önerileridir.",
+        "en": "Can achievement matter without making a person's worth depend on it? Could humility mean being open to correction rather than erasing oneself? These are the story's philosophical proposals."
+      },
+      "belief_cultural_meaning": {
+        "tr": "Arınma, taç ve kap imgeleri farklı inançlarda ve seküler düşüncelerde farklı okunabilir. Hiçbir gelenek tek doğru yorum ilan edilmez; Göbekli Tepe sakinlerine bu düşünceler atfedilmez.",
+        "en": "Purification, crown and bowl imagery can be read differently across beliefs and secular philosophies. No tradition is declared the only valid interpretation, and these ideas are not attributed to the inhabitants of Göbekli Tepe."
+      },
+      "science_fiction": {
+        "tr": "Maran, duyguya göre değişen taç, FIRST VIBRATION ve zaman katmanlarının iç içe geçmesi kurgudur. Kuantum-AI çerçevesi evrenin anlatı katmanıdır; insan motivasyonuna veya bilince ilişkin doğrulanmış kuantum fiziği iddiası değildir.",
+        "en": "Maran, the emotion-responsive crown, FIRST VIBRATION and interwoven time layers are fictional. The quantum-AI framework is a narrative layer, not a verified claim of quantum physics about motivation or consciousness."
+      }
+    }
+  },
+  "hero_image": {
+    "src": "./assets/images/stories/HUM-0009/01-after-the-applause.svg",
+    "alt": {
+      "tr": "On iki taş sütunun çevrelediği karanlıkta, altın bir taç su taşıyan açık bir kaba dönüşür; iki insan aynı düzlemde, kabın iki yanında durur.",
+      "en": "In darkness surrounded by twelve stone pillars, a golden crown becomes an open bowl carrying water; two people stand on the same level on either side."
+    }
+  },
+  "visual_provenance": {
+    "method": "original procedural SVG illustration",
+    "contains_text": false,
+    "archaeological_reconstruction": false
+  }
+}
