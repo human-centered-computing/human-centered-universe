@@ -36,3 +36,15 @@
 
 
 .import-card .action-button{margin-top:8px}.import-status{width:100%;margin-top:16px}.import-status:empty{display:none}.import-error,.import-success{margin:0;padding:10px 12px;border-radius:10px}.import-error{border:1px solid #8f3030;background:rgba(143,48,48,.18);color:#ffd5d5}.import-success{border:1px solid #3f755a;background:rgba(63,117,90,.18);color:#d7ffea}.import-preview{width:100%;padding-top:14px;border-top:1px solid var(--line)}.import-preview>strong{display:block;font-size:16px}.import-preview dl{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px;width:100%;margin:12px 0}.import-preview dl div{padding:8px;border:1px solid var(--line);border-radius:9px;background:#10141d}.import-preview dt{color:var(--muted);font-size:10px}.import-preview dd{margin:2px 0 0;font-size:18px;font-weight:800}.import-preview p{font-size:12px}.import-preview .action-button{margin-top:4px}@media(max-width:500px){.import-preview dl{grid-template-columns:1fr}}
+
+
+/* HUM-0008: The Thirteenth Notch interactive WebGL scene. */
+.tn3d-card{margin:0 0 14px;overflow:hidden;border:1px solid rgba(230,200,123,.45);border-radius:16px;background:#070608}
+.tn3d-head{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 16px;border-bottom:1px solid rgba(230,200,123,.2);background:linear-gradient(90deg,rgba(230,200,123,.07),rgba(168,154,202,.06))}
+.tn3d-head span{display:block;color:var(--human);font-size:10px;font-weight:800;letter-spacing:.14em}.tn3d-head h2{margin:3px 0 0;font-size:clamp(16px,2.4vw,22px)}
+.tn3d-canvas{display:block;width:100%;height:clamp(330px,55vw,560px);background:#070608;cursor:grab;touch-action:none;outline:0}.tn3d-canvas:active{cursor:grabbing}.tn3d-canvas:focus-visible{outline:3px solid var(--human);outline-offset:-3px}
+.tn3d-legend,.tn3d-help,.tn3d-note,.tn3d-fallback{margin:0;padding:8px 16px;color:var(--muted);font-size:12px}.tn3d-legend{padding-top:12px;color:#eee3c3}.tn3d-note{padding-top:0;color:#d4bf86}.tn3d-fallback{color:#f3dda0;background:#211d12}
+.tn3d-canvas[data-mode="HUMAN"]{box-shadow:inset 0 0 90px rgba(230,200,123,.12)}.tn3d-canvas[data-mode="LIGHT"]{box-shadow:inset 0 0 90px rgba(170,220,255,.13)}.tn3d-canvas[data-mode="DARK"]{box-shadow:inset 0 0 90px rgba(168,154,202,.16)}
+.tn3d-card + .choice-panel{margin-top:0;padding:20px;border:1px solid var(--line);border-radius:16px;background:#10141d}
+@media(max-width:650px){.tn3d-head{align-items:flex-start;flex-direction:column}.tn3d-head .action-button{width:100%}.tn3d-canvas{height:390px}}
+@media(prefers-reduced-motion:reduce){.tn3d-canvas{scroll-behavior:auto}}

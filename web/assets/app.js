@@ -310,6 +310,9 @@ function renderRead(){
   const sceneCopy=sceneEngine?.copyFor(state.locale)||sceneEngine?.copyFor("en")||{};
   const sceneMode=recordedDefinition?.key||"NEUTRAL";
   const scene3d=story.id==="BRG-0002"?`<section class="fv3d-card" aria-labelledby="fv3d-title"><div class="fv3d-head"><div><span>WEBGL · 12 PILLARS</span><h2 id="fv3d-title">${escapeHtml(sceneCopy.title||"FIRST VIBRATION — 3D observation")}</h2></div><button type="button" class="action-button" id="fv3d-reset">${escapeHtml(sceneCopy.reset||"Reset view")}</button></div><canvas id="first-vibration-3d" class="fv3d-canvas" tabindex="0" aria-describedby="fv3d-help fv3d-note" aria-label="${escapeHtml(sceneCopy.title||"FIRST VIBRATION — 3D observation")}"></canvas><p id="fv3d-help" class="fv3d-help">${escapeHtml(sceneCopy.help||"Drag or use arrow keys to orbit.")}</p><p id="fv3d-note" class="fv3d-note">${escapeHtml(sceneCopy.note||"Symbolic 3D interpretation; not an archaeological reconstruction.")}</p><p class="fv3d-fallback" hidden>${escapeHtml(sceneCopy.fallback||"WebGL is unavailable. The story and every choice remain available as text.")}</p></section>`:"";
+  const notchEngine=window.HCUThirteenthNotch3D;
+  const notchCopy=notchEngine?.copyFor(state.locale)||notchEngine?.copyFor("en")||{};
+  const notch3d=story.id==="HUM-0008"?`<section class="tn3d-card" aria-labelledby="tn3d-title"><div class="tn3d-head"><div><span>WEBGL · 13 NOTCHES · 13 PEOPLE</span><h2 id="tn3d-title">${escapeHtml(notchCopy.title||"THE THIRTEENTH NOTCH — 3D observation")}</h2></div><button type="button" class="action-button" id="tn3d-reset">${escapeHtml(notchCopy.reset||"Reset view")}</button></div><canvas id="thirteenth-notch-3d" class="tn3d-canvas" tabindex="0" aria-describedby="tn3d-help tn3d-note" aria-label="${escapeHtml(notchCopy.title||"THE THIRTEENTH NOTCH — 3D observation")}"></canvas><p class="tn3d-legend">${escapeHtml(notchCopy.legend||"Your choice changes the relation between the notch and the uncounted thirteenth person.")}</p><p id="tn3d-help" class="tn3d-help">${escapeHtml(notchCopy.help||"Drag or use arrow keys to orbit.")}</p><p id="tn3d-note" class="tn3d-note">${escapeHtml(notchCopy.note||"Symbolic science-fiction interpretation; not an archaeological reconstruction.")}</p><p class="tn3d-fallback" hidden>${escapeHtml(notchCopy.fallback||"WebGL is unavailable. The story and choices remain available as text.")}</p></section>`:"";
   const recommendation=next?`<div class="recommendation"><span>${t("recommended_next","Recommended next story")}</span><button data-story="${next.id}"><strong>${escapeHtml(storyTitle(next))}</strong><small>${centerLabel(primaryCenter(next))} · ${formatWeights(storyWeights(next))}</small><small class="recommendation-reason">${escapeHtml(recommendationReason(nextResult))}</small></button></div>`:"";
 
   app.innerHTML=`<section class="reader-layout">
@@ -323,8 +326,10 @@ function renderRead(){
       ${storyHero(story)}
       ${scene3d}
       ${story.id==="BRG-0002"?choicePanel:""}
+      ${notch3d}
+      ${story.id==="HUM-0008"?choicePanel:""}
       <div class="story-content">${renderedContent}</div>
-      ${story.id==="BRG-0002"?"":choicePanel}
+      ${["BRG-0002","HUM-0008"].includes(story.id)?"":choicePanel}
       <div class="reader-toolbar"><button class="action-button" id="back-path" ${!backId?"disabled":""}>← ${t("back_in_path","Back in my path")}</button><button class="action-button" id="mark-read">${state.readIds.has(story.id)?t("read_again","Read again"):t("mark_read","Mark as read")}</button><button class="action-button primary" id="open-explore">${t("other_possibilities","Explore other possibilities")}</button></div>
       ${recommendation}
     </article>
@@ -333,15 +338,18 @@ function renderRead(){
 
   bindStoryNavigation();
   const fv3d=story.id==="BRG-0002"?sceneEngine?.mount({canvas:document.getElementById("first-vibration-3d"),fallback:document.querySelector(".fv3d-fallback"),mode:sceneMode}):null;
+  const tn3d=story.id==="HUM-0008"?notchEngine?.mount({canvas:document.getElementById("thirteenth-notch-3d"),fallback:document.querySelector(".tn3d-fallback"),mode:sceneMode}):null;
   document.getElementById("fv3d-reset")?.addEventListener("click",()=>fv3d?.reset());
+  document.getElementById("tn3d-reset")?.addEventListener("click",()=>tn3d?.reset());
   app.querySelectorAll("[data-choice]").forEach(el=>el.addEventListener("click",()=>{
     const c=choices.find(x=>x.key===el.dataset.choice); if(!c||recordedStoryChoice(story.id)) return;
     fv3d?.setMode(c.key);
+    tn3d?.setMode(c.key);
     const preview=document.getElementById("choice-preview"); const projected=projectedObserver(c.effects||{});
     preview.hidden=false;
     preview.innerHTML=`<strong>${escapeHtml(t("confirm_observer_choice","Confirm this Observer choice?"))}</strong><p>${escapeHtml(choiceLabel(c))}</p>${weightBars(projected)}<div class="create-actions"><button type="button" class="action-button primary" id="confirm-choice">${escapeHtml(t("confirm_choice","Confirm choice"))}</button><button type="button" class="action-button" id="cancel-choice">${escapeHtml(t("cancel","Cancel"))}</button></div>`;
     document.getElementById("confirm-choice")?.addEventListener("click",()=>applyChoice(story,c));
-    document.getElementById("cancel-choice")?.addEventListener("click",()=>{ fv3d?.setMode(sceneMode); preview.hidden=true; preview.innerHTML=""; el.focus(); });
+    document.getElementById("cancel-choice")?.addEventListener("click",()=>{ fv3d?.setMode(sceneMode); tn3d?.setMode(sceneMode); preview.hidden=true; preview.innerHTML=""; el.focus(); });
     preview.scrollIntoView({behavior:"smooth",block:"nearest"});
   }));
   document.getElementById("back-path")?.addEventListener("click",()=>{ if(backId){ state.path.pop(); saveObserver(); setStory(backId,{record:false}); } });
@@ -448,7 +456,7 @@ function renderSettings(){
     const url=new URL(location.href); url.searchParams.set("mode","read"); url.searchParams.set("story",state.data.origin_node||"BRG-0002"); url.searchParams.set("intro","1"); url.searchParams.set("lang",state.locale); location.replace(url);
   });
 }
-function render(){ if(!state.data)return; window.HCUFirstVibration3D?.destroy(); updateStaticUi(); if(state.mode==="explore")renderExplore(); else if(state.mode==="create")renderCreate(); else if(state.mode==="settings")renderSettings(); else renderRead(); setUrl(); }
+function render(){ if(!state.data)return; window.HCUFirstVibration3D?.destroy(); window.HCUThirteenthNotch3D?.destroy(); updateStaticUi(); if(state.mode==="explore")renderExplore(); else if(state.mode==="create")renderCreate(); else if(state.mode==="settings")renderSettings(); else renderRead(); setUrl(); }
 
 function displayLanguageName(code){
   try { return new Intl.DisplayNames(["en"],{type:"language"}).of(code) || code; } catch { return code; }
