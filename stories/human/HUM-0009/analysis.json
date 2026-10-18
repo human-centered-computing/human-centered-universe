@@ -15,7 +15,7 @@
   "classification": {
     "method": "30-criterion HCU narrative analysis; largest-remainder normalization to 100",
     "status": "ai-generated-draft",
-    "note": "Scores describe narrative emphasis, not human worth, moral correctness or clinical assessment.",
+    "note": "Provisional coordinates retained after reviewing revision 2. Scores describe narrative emphasis, not spiritual attainment, human worth or clinical assessment.",
     "criterion_scores": {
       "HUMAN": [
         10,
@@ -56,15 +56,16 @@
     },
     "criterion_order_reference": "universe/CLASSIFICATION.md",
     "rationale": {
-      "HUMAN": "Dignity, lived emotion, fair attribution and responsibility hold the story together.",
-      "LIGHT": "Contribution records, visible assumptions, a reported failure and correction keep success accountable.",
-      "DARK": "The alternative design, an uncompleted self and the refusal of final purification preserve transformation."
+      "HUMAN": "Mixed motives, lost purpose, human dignity, fair pay, contributions and the decision to keep working remain central.",
+      "LIGHT": "The notebook's misleading count of purification is contrasted with verifiable work records, tests, objections and maintenance duties.",
+      "DARK": "The unresolved recursive ego, distinct religious paths, the unfinished prayer and the untried design keep transformation open."
     }
   },
   "coverage_audit": {
     "coverage_complete": false,
     "unmapped_elements": [
-      "The felt paradox of observing one's own humility is only partially represented by the three-center criteria."
+      "The recursive attempt to achieve freedom from achievement is only partially represented by the three-center criteria.",
+      "Different religious accounts of selfhood and liberation are not reducible to three narrative weights."
     ],
     "review_note": "A human editorial review is pending; classification is provisional."
   }
