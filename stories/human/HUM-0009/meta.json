@@ -8,31 +8,31 @@
   "translation_policy": "source_only_until_reviewed",
   "culture": [
     "plural cultural memory around Girê Miraza / Xerawreşk (Göbekli Tepe)",
-    "a fictional future civic workshop",
+    "a fictional 2049 cooperative contribution network",
     "fictional encounters with distinct theistic, Buddhist and Hindu-inspired paths"
   ],
   "belief_context": [
-    "the observer's personal wish to draw closer to the Creator",
+    "the first-person narrator's personal wish to draw closer to the Creator",
     "distinct religious interpretations of purification, selfhood and liberation",
     "spiritual pride and the wish to be the most purified person",
     "mixed motives, meaningful work and fair attribution",
     "no claim that every religion seeks a creator or shares one doctrine of self"
   ],
-  "summary": "Başarı gözlemciyi büyüklenmeye sürükler; arınmak için başarı isteğinden vazgeçtiğinde ise çalışmanın anlamını yitirir. Kendi arınmasını bir başarıya çevirdiğinde aynı döngüyü yeniden kurar. Maran ve farklı yollardan gelen yolcularla karşılaşması, bu çatışmayı tamamlanmamış bir işin ve başkalarının hakkının önünde yaşamasına dönüşür.",
+  "summary": "Yapay zekâ üretiminin hızlandığı 2049’da emeğimin izini kaybedince blokzincir tabanlı bir katkı ağı kurdum. Sistem başarıya ulaştığında başkalarının emeğini kendi başarı hikâyemde görünmez kıldığımı gördüm. Kendi kaydıma yapılan itiraz, hem kurduğum ağı hem de arınma isteğimi sınadı.",
   "translations": {
     "tr": {
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr",
       "method": "AI-authored original Turkish prose from Murat Delen's narrative premise; editorial review pending",
-      "revision": 2
+      "revision": 3
     },
     "en": {
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr",
       "method": "AI translation from the Turkish original; human review pending",
-      "revision": 2
+      "revision": 3
     }
   },
   "editorial_status": {
@@ -64,27 +64,27 @@
     {
       "target": "BRG-0002",
       "type": "transformation",
-      "note": "The call to purification becomes an unresolved trial: even the wish to be purified can become an achievement claimed by the self."
+      "note": "FIRST VIBRATION opens distinct spiritual paths; first-person experience preserves the recursive pride of achieving purification."
     },
     {
       "target": "HUM-0008",
       "type": "echo",
-      "note": "The record must not replace the person; here it must neither inflate a single creator nor erase real contributors."
+      "note": "Counting and recording may reveal contributions while also leaving lives outside the record."
     },
     {
       "target": "HUM-0007",
       "type": "theme",
-      "note": "A human subject remains capable of joy, error, responsibility and revision."
+      "note": "A person remains more than a score or an automated attribution."
     }
   ],
   "localized": {
     "tr": {
       "title": "Alkış Sustuktan Sonra",
-      "summary": "Başardıkça büyüklenen, arındıkça amacını yitiren bir gözlemci, arınmayı başarmanın da yeni bir ego kurabildiğini görür."
+      "summary": "Yapay zekâ üretiminin hızlandığı 2049’da emeğimin izini kaybedince blokzincir tabanlı bir katkı ağı kurdum. Sistem başarıya ulaştığında başkalarının emeğini kendi başarı hikâyemde görünmez kıldığımı gördüm. Kendi kaydıma yapılan itiraz, hem kurduğum ağı hem de arınma isteğimi sınadı."
     },
     "en": {
       "title": "After the Applause",
-      "summary": "An observer grows proud through achievement, loses purpose through renunciation, and discovers that achieving purification can build another ego."
+      "summary": "In 2049, I built a blockchain-based contribution network after losing the trace of my work in AI production. Its success exposed the work I had hidden in my own story. An objection to my record tested both the network and my wish for purification."
     }
   },
   "primary_center": "HUMAN",
@@ -96,10 +96,10 @@
   "observer_choices": [
     {
       "key": "accept_joy_share_credit",
-      "label": "Keep working through mixed motives, while protecting every person's contribution.",
+      "label": "I will record my work accurately and ask whose contributions are missing.",
       "labels": {
-        "tr": "Niyetimdeki karışıklığı görerek çalışmayı sürdür; herkesin emeğini ve hakkını koru.",
-        "en": "Keep working through mixed motives, while protecting every person's contribution."
+        "tr": "Emeğimi doğru kaydedeyim; birlikte çalıştığım kişilerin eksik katkılarını da sorayım.",
+        "en": "I will record my work accurately and ask whose contributions are missing."
       },
       "effects": {
         "HUMAN": 10,
@@ -109,12 +109,12 @@
       "branch": {
         "target": "HUM-0008",
         "heading": {
-          "tr": "Niyet henüz durulmadı",
-          "en": "Intention has not yet settled"
+          "tr": "Kendi kaydımı okumak",
+          "en": "Reading my own record"
         },
         "outcome": {
-          "tr": "Gözlemci takdir isteğinin tamamen bitmesini beklemeden çalışmaya döner. Kendi katkısını, ekiptekilerin ücretlerini ve yerleşimin ihtiyacını ayrı ayrı kaydeder. İşin sonucu vardır; bu sonuç kendisine bir manevi üstünlük belgesi vermez.",
-          "en": "The observer returns to work without waiting for the wish for recognition to disappear. They record their own contribution, the team's pay and the settlement's needs separately. The work produces a result; it grants no certificate of spiritual superiority."
+          "tr": "Yapmadığım işi kaydımdan çıkarıyorum. Gerçek katkımı saklamadan onaylıyor, birlikte çalıştığım kişiye eksik bir şey olup olmadığını soruyorum. Takdir isteğim sürüyor; buna rağmen başkasının hakkını koruyan bir işlem yapabiliyorum.",
+          "en": "I remove work I did not do from my record. I approve my real contribution without hiding it and ask a collaborator what is missing. My wish for recognition remains, yet I can still act to protect someone else's rights."
         },
         "cta": {
           "tr": "Kaydın dışında kalanı gör",
@@ -124,10 +124,10 @@
     },
     {
       "key": "let_success_be_corrected",
-      "label": "Let the objection change the work, even while the wish for praise remains.",
+      "label": "I will withdraw from reviewing an objection to my own record and keep the correction visible.",
       "labels": {
-        "tr": "Övgü isteğim sürse de itirazı dinle; çözümü birlikte sınamaya aç.",
-        "en": "Let the objection change the work, even while the wish for praise remains."
+        "tr": "Kendi kaydıma itiraz edildiğinde incelemeden çekileyim; düzeltmeyi görünür tutayım.",
+        "en": "I will withdraw from reviewing an objection to my own record and keep the correction visible."
       },
       "effects": {
         "HUMAN": 4,
@@ -137,12 +137,12 @@
       "branch": {
         "target": "HUM-0007",
         "heading": {
-          "tr": "Bugün bu çözümü sınadınız",
-          "en": "Today you tested this solution"
+          "tr": "İtirazı okuyorum",
+          "en": "I read the objection"
         },
         "outcome": {
-          "tr": "Gözlemci genç mühendise sert çıkışını kabul eder ve öneriyi yeniden dinler. Başarıya ve arınmaya dair hisleri sürerken bir hatayı düzeltmek için somut bir adım atar.",
-          "en": "The observer acknowledges their sharp response to the young engineer and listens again. While feelings about achievement and purification persist, they take a concrete step towards correcting a mistake."
+          "tr": "İtirazı kişisel bir saldırı gibi hissetsem de inceleyicileri kendimi korumak için seçmiyorum. Çıkar ilişkimi bildirip kararı bağımsız incelemeye bırakıyorum. Eski iddiayı gizlemeyen bir düzeltme kaydına alan açıyorum.",
+          "en": "Even though the objection feels personal, I do not select reviewers to protect myself. I disclose my conflict and leave the decision to an independent review. I make room for a correction that does not conceal the original claim."
         },
         "cta": {
           "tr": "İnsan olarak kalmayı sürdür",
@@ -152,10 +152,10 @@
     },
     {
       "key": "leave_the_fourth_line_open",
-      "label": "Keep questioning whether purification has become another summit to conquer.",
+      "label": "Even as the network grows, I will resist turning a success score into a person's worth.",
       "labels": {
-        "tr": "Arınmayı yeni bir zirveye dönüştürdüğümde bunu sorgulamayı sürdür.",
-        "en": "Keep questioning whether purification has become another summit to conquer."
+        "tr": "Ağ büyüse de tek bir başarı puanını insanın değerine dönüştürmeye karşı çıkayım.",
+        "en": "Even as the network grows, I will resist turning a success score into a person's worth."
       },
       "effects": {
         "HUMAN": 4,
@@ -165,12 +165,12 @@
       "branch": {
         "target": "BRG-0002",
         "heading": {
-          "tr": "Arınmayı başarmak",
-          "en": "Achieving purification"
+          "tr": "Kaydın dışında kalan",
+          "en": "What remains outside the record"
         },
         "outcome": {
-          "tr": "Gözlemci 'Artık döngüyü anladım' düşüncesinin de eski üstünlük isteğini taşıyabileceğini fark eder. Son bir zafer ilan etmeden, farklı inançların sorularına ve kendi yolunun belirsizliğine alan açar.",
-          "en": "The observer notices that 'I finally understand the cycle' may carry the old wish for superiority. Without proclaiming a final victory, they make room for the questions of different faiths and the uncertainty of their own path."
+          "tr": "Sıralamanın başında adımı görmek hoşuma gidiyor. Yine de kayıt dışındaki bakım emeğini, eksik kanıtı ve izlenmek istemeyen insanları düşünüyorum. Büyümeyi yavaşlatma pahasına tek puanın yerine bağlamı ve itiraz yollarını korumayı seçiyorum.",
+          "en": "I enjoy seeing my name at the top. Still, I consider unrecorded care work, missing evidence and people who do not want surveillance. At the cost of slower growth, I choose to preserve context and routes of appeal rather than a single score."
         },
         "cta": {
           "tr": "İlk titreşime dön",
@@ -182,12 +182,13 @@
   "reality_weaving": {
     "mode": "woven",
     "reality_roots": [
-      "The observer's conflict between meaningful achievement, recognition, religious aspiration and loss of motivation is explored as a fictional individual experience.",
-      "Islamic discussions of purification and self-admiration, Buddhist not-self teachings and Hindu discussions of ahamkara are distinct traditions rather than one universal doctrine.",
-      "Fair contribution records, compensation, listening to objections and shared maintenance responsibilities are ordinary engineering and governance practices."
+      "AI-assisted production can complicate attribution; the particular 2049 crisis and cooperative outcomes are speculative fiction.",
+      "Blockchain records can make later alteration detectable under their consensus and cryptographic assumptions; they do not verify off-chain labour, truth, fairness or human worth.",
+      "Consent, controlled off-chain storage, independent review, conflict-of-interest disclosure and linked corrections are governance and engineering choices, not automatic properties of blockchain.",
+      "Purification, self-admiration, not-self and true-self language refer to distinct religious traditions; the narrator's Creator aspiration is personal."
     ],
-    "imaginative_transformation": "FIRST VIBRATION opens a fictional meeting between travellers with differing commitments. Maran and the crown externalize the observer's recursive wish to succeed at purification. The stone circle does not certify the travellers' beliefs or reproduce the beliefs of prehistoric inhabitants.",
-    "emergent_question": "If success feeds self-importance and renunciation empties work of meaning, can someone act responsibly without turning purification itself into another personal triumph?",
+    "imaginative_transformation": "A first-person narrator builds the fictional Contribution Network in 2049. FIRST VIBRATION overlays a three-dimensional contribution graph with twelve pillars at Girê Miraza / Xerawreşk. Maran and the quantum-AI interface externalize the narrator's conflict without establishing physical or archaeological claims.",
+    "emergent_question": "Can I make labour visible without building myself a throne, or turning everyone's recorded contributions into a ranking of human worth?",
     "provenance": [
       {
         "title": "Şems 91:1–10 — Diyanet Kur’an Yolu",
@@ -208,6 +209,10 @@
       {
         "title": "Bhagavad-gītā 2.47 — action and its fruits",
         "uri": "https://vedabase.io/en/library/bg/2/47/"
+      },
+      {
+        "title": "NIST IR 8202 — Blockchain Technology Overview (2018)",
+        "uri": "https://csrc.nist.gov/pubs/ir/8202/final"
       }
     ]
   },
@@ -234,36 +239,36 @@
     },
     "notes": {
       "established_science": {
-        "tr": "Gözlemcinin motivasyon kaybı ve egonun tekrar belirmesi kurgusal bir kişinin deneyimidir; herkes için geçerli psikolojik yasa, teşhis veya tedavi değildir. Metin egonun bütünüyle ve kalıcı biçimde yok edilebildiğini kanıtlamaz. Benlik, kibir ve bütün motivasyon birbirine eşitlenmez.",
-        "en": "The observer's loss of motivation and recurring ego are the experiences of a fictional individual, not a universal psychological law, diagnosis or treatment. The text does not demonstrate complete and permanent ego elimination. Selfhood, arrogance and all motivation are not equated."
+        "tr": "2049 yılı ve yaşanan sonuçlar öngörüsel kurgudur. Anlatıcının motivasyon ve ego deneyimi evrensel psikolojik yasa, teşhis veya tedavi değildir. Egonun kalıcı biçimde yok edilebildiği ileri sürülmez.",
+        "en": "The year 2049 and the events are speculative fiction. The narrator's motivation and ego are not a universal psychological law, diagnosis or treatment. Permanent ego elimination is not asserted."
       },
       "real_engineering": {
-        "tr": "Katkı kayıtları, ücretlerin izlenmesi, varsayımların incelenmesi, hata bildirimi, sınırlı işletim ve alternatif tasarım sınaması uygulanabilir süreçlerdir. Anlatıdaki su sistemi hayalidir; uygulanabilir bir hidrolik tasarım veya güvenlik talimatı değildir.",
-        "en": "Contribution records, tracking compensation, reviewing assumptions, reporting faults, restricted operation and testing alternatives are practical processes. The water system is fictional, not an implementable hydraulic design or safety instruction."
+        "tr": "Dağıtık kayıt, kriptografik özet, imza, zincir dışı erişim denetimli belge saklama, çıkar çatışması bildirimi ve eklemeli düzeltme uygulanabilir tasarım öğeleridir. Blokzincir dış dünyadaki emeği ya da adaleti kendiliğinden doğrulamaz; uzlaşma, anahtar güvenliği, veri erişilebilirliği ve yönetişim varsayımlarına bağlıdır. Hashler ve takma adlar mutlak anonimlik sağlamaz. Zincire kişisel veri yazılmaz; gizli belge korunması ve saklama/silme politikası zincir dışında ayrıca yönetilmelidir. Kurgusal pilot sonuçları gerçek bir uygulamanın başarısı değildir.",
+        "en": "Distributed records, cryptographic digests, signatures, controlled off-chain document storage, conflict disclosures and appended corrections are feasible design elements. Blockchain does not independently verify off-chain labour or justice; it depends on consensus, key security, data availability and governance assumptions. Hashes and pseudonyms do not guarantee anonymity. Personal data are kept off-chain; document protection and retention/deletion policies require separate off-chain management. Fictional pilot outcomes are not evidence of a real implementation."
       },
       "interpretation": {
-        "tr": "Takdir görmeyi istemek ile kendini başkalarından üstün saymak anlatıda birbirinden ayrılır; bu ayrım kişilerin bütün davranışlarını açıklayan bir model olarak sunulmaz.",
-        "en": "Wanting recognition and considering oneself superior are distinguished in the narrative; this is not offered as a model explaining every person's behaviour."
+        "tr": "Katkıyı görünür kılmak hakları koruyabilir; puana ve sürekli izlenmeye dönüştürülmesi yeni dışlamalar üretebilir. Bu ihtimal anlatıda araştırılan bir yorumdur, kesin gelecek tahmini değildir.",
+        "en": "Making contributions visible may protect rights; scoring and continuous surveillance may create new exclusions. This is an interpretation explored in fiction, not a certain forecast."
       },
       "philosophy": {
-        "tr": "Başarı isteğinden vazgeçmek anlam kaybına, arınmayı başarı saymak ise yeni bir üstünlük isteğine yol açabilir mi? Kahramanın eylemleri bu çatışmayı araştırır. Son dua ve işe dönüş bir arınma belgesi veya nihai çözüm olarak sunulmaz.",
-        "en": "Can relinquishing the wish for success produce a loss of meaning, while treating purification as an achievement produces another wish for superiority? The protagonist's actions explore this conflict. The final prayer and return to work are not certificates of purification or a final solution."
+        "tr": "Birinci tekil şahıs anlatımı, okurun başarı, hak, takdir ve arınma arasındaki çatışmayı içeriden yaşamasını amaçlar. Başarıdan sevinç duymak kibirle, katkı miktarı insan değeriyle eşitlenmez. Arınma nihai bir zaferle tamamlanmaz.",
+        "en": "First-person narration places the reader inside the conflict between achievement, rights, recognition and purification. Joy in success is not equated with arrogance, nor contribution quantity with human worth. Purification does not end in a final victory."
       },
       "belief_cultural_meaning": {
-        "tr": "Yaradan’a yakınlık gözlemcinin kişisel inanç yönelişidir. Bütün dinlerin yaratıcıya ulaşmayı amaçladığı veya aynı benlik anlayışını savunduğu ileri sürülmez. Yolcuların diyalogları özgün kurgudur; kutsal metinlerden alıntı ya da bir geleneğin tamamını temsil eden sözler değildir. Göbekli Tepe sakinlerine bu inançlar atfedilmez.",
-        "en": "Drawing closer to the Creator is the observer's personal religious aspiration. The story does not claim that all religions seek a creator or share a doctrine of self. The travellers' dialogue is original fiction, not scripture quotations or statements representing an entire tradition. These beliefs are not attributed to the inhabitants of Göbekli Tepe."
+        "tr": "Yaradan’a yakınlık anlatıcının kişisel inanç yönelişidir. Bütün dinlerin yaratıcıya ulaşmayı amaçladığı veya aynı benlik anlayışını savunduğu ileri sürülmez. Yolcuların diyalogları özgün kurgudur; kutsal metinlerden alıntı ya da bir geleneğin tamamını temsil eden sözler değildir. Göbekli Tepe sakinlerine bu inançlar atfedilmez.",
+        "en": "Drawing closer to the Creator is the narrator's personal religious aspiration. The story does not claim that all religions seek a creator or share a doctrine of self. The travellers' dialogue is original fiction, not scripture quotations or statements representing an entire tradition. These beliefs are not attributed to the inhabitants of Göbekli Tepe."
       },
       "science_fiction": {
-        "tr": "Maran, duyguya göre değişen taç, FIRST VIBRATION ve zaman katmanlarının iç içe geçmesi kurgudur. Kuantum-AI çerçevesi evrenin anlatı katmanıdır; insan motivasyonuna veya bilince ilişkin doğrulanmış kuantum fiziği iddiası değildir.",
-        "en": "Maran, the emotion-responsive crown, FIRST VIBRATION and interwoven time layers are fictional. The quantum-AI framework is a narrative layer, not a verified claim of quantum physics about motivation or consciousness."
+        "tr": "2049’daki Katkı Ağı, Maran, kâğıt taç, FIRST VIBRATION ve üç boyutlu kuantum-AI arayüzü kurgudur. Kuantum kavramları çalışan bir kuantum bilgisayarın, bilincin veya manevi arınmanın doğrulanmış fiziksel açıklaması değildir.",
+        "en": "The 2049 Contribution Network, Maran, paper crown, FIRST VIBRATION and three-dimensional quantum-AI interface are fictional. Quantum concepts are not a verified physical account of a working quantum computer, consciousness or spiritual purification."
       }
     }
   },
   "hero_image": {
     "src": "./assets/images/stories/HUM-0009/01-after-the-applause.svg",
     "alt": {
-      "tr": "On iki taş sütunun çevrelediği karanlıkta, altın bir taç su taşıyan açık bir kaba dönüşür; iki insan aynı düzlemde, kabın iki yanında durur.",
-      "en": "In darkness surrounded by twelve stone pillars, a golden crown becomes an open bowl carrying water; two people stand on the same level on either side."
+      "tr": "On iki taş sütun arasında, izleyicinin uzanan ellerinin önünde farklı katkıları birbirine bağlayan ışıklı bir ağ ve üzerinde tamamlanmamış altın bir taç; yazı yok.",
+      "en": "Between twelve stone pillars, a luminous web links different contributions before the viewer's outstretched hands; an unfinished golden crown hangs above it, without text."
     }
   },
   "visual_provenance": {
@@ -272,9 +277,9 @@
     "archaeological_reconstruction": false
   },
   "revision": {
-    "version": 2,
-    "date": "2026-10-18",
+    "version": 3,
+    "date": "2026-10-19",
     "editorial_direction": "Murat Delen",
-    "change": "Make the success–ego–purification–loss-of-purpose cycle explicit, including purification as another achievement. Introduce distinct spiritual paths without a single-creator claim for all religions."
+    "change": "Rewrite in first person for the reader-as-observer. Replace the water project with a speculative 2049 blockchain contribution network; centre attribution disputes, success, recursive spiritual pride and resistance to human-worth rankings."
   }
 }
