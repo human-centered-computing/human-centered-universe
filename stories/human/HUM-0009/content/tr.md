@@ -1,357 +1,303 @@
 # Alkış Sustuktan Sonra
 
-Su akmaya başladığında gözlemci ağladı.
+İlk itiraz kaydı benim adıma açıldığında sistemin gerçekten çalışmaya başladığını anladım.
 
-Üç yıllık çalışmanın ardından kentin yüksek mahallesindeki ilk çeşme açılmıştı. Boruların, ölçümlerin ve başarısız denemelerin arkasında artık gerçek bir sonuç vardı: İnsanlar su taşıyabilecekleri bir yere kavuşmuştu.
+Ekranın karşısında sevindim.
 
-Gözlemci o anı yıllardır hayal ediyordu.
+Sonra itirazı kimin yaptığını gördüm.
 
-Ama hayalinde yalnızca su yoktu.
+Dilan.
 
-İnsanların kendisine dönmesi de vardı.
+Aylardır aynı masada çalışıyorduk. Herkese emeğini görünür kılacak bir sistem kurduğumu anlatmıştım. Şimdi sistem, benim anlatmadığım bir emeği gösteriyordu.
 
-İlk teşekkür geldiğinde içi ısındı. Adı meydanda tekrarlandığında doğruldu. Ertesi gün kent yönetimi, yüzünü üç boyutlu bir ışık alanında gökyüzüne yansıttı.
+## Sonucu vardı, sahibi yoktu
 
-Kendi yüzünün altında duran kalabalığa baktı.
+2049 yılında bir işi kimin yaptığını söylemek, o işin nasıl yapıldığını açıklamaktan daha zordu.
 
-“Buna değdi,” diye düşündü.
+Yapay zekâlar başka yapay zekâların çıktılarından yeni çözümler üretiyordu. Bir sağlık yazılımındaki hata düzeltiliyor, bir eğitim aracı binlerce çocuğa ulaşıyor, bir şehir için yeni bir ulaşım modeli kuruluyordu.
 
-Sonra hangi şeyi kastettiğini anlayamadı.
+Son ekranda bir kurumun logosu görünüyordu.
 
-## Bir başarıdan fazlası
+Arkasındaki insanlar görünmüyordu.
 
-Maran, kutlamanın ardından boşalan meydanda onu bekliyordu.
+Bir modeli yerel bir dilde sınayan kadın, yanlış veriyi ayıklayan öğrenci, herkes uyurken sistemi ayakta tutan teknisyen, önerinin bir mahallede neden işlemeyeceğini anlatan yaşlı adam… Sonuç başarı sayıldığında çoğunun adı yoktu. Hata olduğunda ise sorumlu aranıyordu.
 
-“Mutlu görünmüyorsun.”
+Benim de adım silinmişti.
 
-“Mutluyum. Beni korkutan da bu.”
+Üç yıl geliştirdiğim açık kaynak bileşen, büyük bir platformun yeni hizmetine katılmıştı. Lisansın gerektirdiği atıf zinciri raporlarından çıkarılmıştı. İtiraz ettiğimde yüzlerce sürüm ve yeniden yazılmış dosya arasında kendi izimi aradım.
 
-Gözlemci çeşmeye oturdu.
+Beni en çok yaralayanın ne olduğunu söylemek kolay değildi.
 
-“Çocukluğumda büyüklerim, insanın Yaradan’a yaklaşmak için içindeki büyüklenmeden arınması gerektiğini söylerdi. Büyüdükçe başka inançlarda da benzer çağrılar duydum. Kendini öne çıkarma, yaptığını kendine mal etme, arın…”
+Emeğimin karşılığını alamamak mı?
 
-Bir süre sustu.
+Yoksa insanların bunu benim yaptığımı bilmemesi mi?
 
-“Ben de bunu istiyorum. Ama başardığımda kendimi daha önemli hissediyorum. O hissi elimden aldığımda ise neden bu kadar uğraştığımı unutuyorum.”
+İkisi de.
 
-Maran cevap vermedi.
+O gece, ileride daha büyük bir sorunla karşılaşacağımızı düşündüm: Üretim hızlanırken katkının izini kaybedersek, kazancı paylaşacak ve hatanın sorumluluğunu konuşacak ortak bir zeminimiz kalmayacaktı.
 
-“Başarı istiyorum,” dedi gözlemci. “Başarının beni dönüştürdüğü kişiden de korkuyorum.”
+Bir defter açtım.
 
-“Yarın seni kimsenin tanımadığı bir yerde aynı iş olsa?”
+Başına “Katkı Ağı” yazdım.
 
-“Yapmak isterdim.”
+Altına da kendi adımı.
 
-“Yapar mıydın?”
+## Kayda girmek
 
-Gözlemci çeşmenin suyuna baktı.
+İlk sürümü küçük bir kooperatifte denedik.
 
-“Bilmiyorum.”
+Tek bir kurumun geçmişi istediği gibi değiştirememesi için, birbirinden bağımsız katılımcı kuruluşların tuttuğu ortak bir blokzincir kullandık. Asıl dosyalar ve kişisel bilgiler erişimi denetlenen ayrı depolarda kalıyordu. Zincire, onaylanan kayıtların kriptografik özetlerini ve bağlantılarını koyuyorduk.
 
-## Çalışmayı bıraktığı gün
+Bir kayıt, belgenin hangi sürümüne işaret ettiğimizi karşılaştırmaya yarıyordu. Belgenin doğru olduğunu, işi gerçekten kimin yaptığını ya da katkının değerini kendi başına söylemiyordu.
 
-Ertesi hafta yeni projenin dosyasını kapattı.
+Bunu ilk toplantıda anlattım.
 
-Kurulmuş hattın bakımını ekip sürdürdü. Uzak yerleşimlere ulaşacak ikinci hat ise çizimlerde kaldı.
+Yine de içimden, bütün adaletsizliği çözecek bir şey bulmuşum gibi geçirdim.
 
-Gözlemci ödül törenine gitmedi. Adının duyurulmasını istemedi. İnsanların teşekkürlerini başka konular açarak geçiştirdi.
+Yapay zekâ, dosya değişikliklerinden ve katılımcıların sunduğu belgelerden katkı taslakları çıkarıyordu. Kişi kendi kaydını görüyor, düzeltiyor, kabul ediyor ya da reddediyordu. Ardından diğer katkı sahipleriyle bir inceleme yapılıyordu. Çözülemeyen anlaşmazlıklar ayrıca işaretleniyordu.
 
-İlk günlerde hafifledi.
+“Ben dosyaya dokunmadım,” dedi Dilan. “Ama yanlış kişilerin test edildiğini fark eden bendim. Senin sistemin bunu nereden görecek?”
 
-Sonra sabahları kalkmak zorlaştı.
+Görememişti.
 
-Eskiden yeni bir çözüm düşünürken saatlerin nasıl geçtiğini anlamazdı. Şimdi çizim masasının başına oturuyor, kalemi eline alıyor ve bırakıyordu.
+Katkı eklemek için yalnızca kod deposuna erişmek gerekmeyecek şekilde sistemi değiştirdik. Görüşme, saha sınaması, bakım ve hata bildirimleri için de başvuru yolu açtık. İnterneti olmayanlar kooperatifteki görevliye anlatabiliyordu.
 
-“Kimse bilmeyecek,” diyordu içinden.
+İlk kez kendi hesabında bir kaydı onaylayan kadın ekrana uzun süre baktı.
 
-Ardından kendisine kızıyordu.
+“Benim söylediğim de burada duracak mı?”
 
-“Demek ki insanlara yardım etmek de istemiyormuşum.”
+“Senin seçtiğin görünürlükle,” dedim.
 
-Bir sabah teknisyen Dilan geldi. Uzak yerleşimlerden birinde hazırladıkları ön çalışmayı masaya koydu.
+Adını herkese açmadı. Emeğinin inceleme ve ödeme sürecinde dikkate alınmasını istedi.
 
-“Yeni hat için ne zaman başlayacağız?”
+O akşam eve giderken mutluydum.
 
-Gözlemci cevap vermedi.
+Yaptığım işin bir anlamı vardı.
 
-“Çalışmak istemiyor musun?”
+Bir gün bunu herkesin öğrenmesini de istiyordum.
 
-“İstiyorum. Ama bunu neden istediğime güvenmiyorum.”
+## İlk alkış
 
-Dilan sandalyeyi çekip oturdu.
+Aylar sonra kooperatifin katkı incelemesinde unutulmuş bakım işleri ve dil sınamaları ortaya çıktı. Anlaşmazlıkları görüştük. Kabul edilen düzeltmelerin ardından kooperatif, sözleşmesindeki ödeme paylarını değiştirdi ve eksik ödemeleri yaptı.
 
-“Ben de ücret almak istiyorum,” dedi. “İşim iyi olsun, kızım benimle gurur duysun da istiyorum. Bunları düşünmem, suyu doğru yere ulaştırmak istemediğim anlamına mı geliyor?”
+Para, zincir yazıldığı için kendiliğinden doğmamıştı. İnsanların ortak bütçesi ve verdikleri karar vardı.
 
-Gözlemci, kadının yüzüne bakamadı.
+Yine de sahneye beni çağırdılar.
 
-O gece defterine bir cümle yazdı:
+“Emeği görünür kılan sistemin kurucusu.”
 
-“Arınırken, beni çalıştıran her şeyi de söndürüyor olabilir miyim?”
+Bu sözü sevdim.
 
-## Sütunların arasındaki yollar
+Sunumda ilk sürümün çizimini gösterdim. Dilan’ın sorusundan sonra değiştirdiğimiz bölümü de anlattım; fakat onun adını söylemedim.
 
-Maran defteri eline aldığında sayfadaki mürekkep hareket etti.
+Konuşma sürem kısaydı.
 
-Çizgiler bir çembere dönüştü. Odanın duvarları geriye çekildi. Girê Miraza’nın, Xerawreşk’in — Göbekli Tepe’nin — taşları işliğin içinden yükseldi.
+Kendime böyle açıkladım.
 
-On iki sütunun arasında sesler vardı.
+Gece, kaydı yeniden izledim. İnsanların yüzüme bakışını durdurup tekrar açtım.
+
+Sonra içimde eski bir korku uyandı.
+
+Yaratıcıya yaklaşmak, kendimi dünyanın merkezine koymaktan arınmak istiyordum. Ama insanların hayatına dokunan bir iş başardığımda, kendimi daha önemli biri saymaya başlıyordum.
+
+Maran’a sordum:
+
+“Başarı beni büyütüyorsa, ondan vazgeçmem mi gerekiyor?”
+
+“Vazgeçmek istediğin şey ne?”
+
+Cevap veremedim.
+
+## Kendimi silmek
+
+Bir süre adımı yeni kayıtlardan çıkardım. Konuşmaları reddettim. Sistemle ilgili haberleri açmadım.
+
+Önce hafifledim.
+
+Sonra çalışmak zorlaştı.
+
+Sabah ekranı açıyor, bekleyen işleri görüyor, başka bir pencereye geçiyordum. Başarı isteğiyle birlikte merakımın da bir bölümünü susturmuş gibiydim.
+
+“Demek insanların hakkını düşündüğümü söylerken aslında kendimi düşünüyormuşum,” dedim.
+
+Dilan koltuğunu çevirdi.
+
+“Ben ücretimi almak istiyorum. Kızımın yaptığım işle gurur duymasını da istiyorum. Bunlar yüzünden başkasının hakkını savunmam anlamsız mı oluyor?”
+
+Ona bir cevap veremedim.
+
+O gece defterime, kimsenin görmediği katkılarımı yazmaya başladım. Ne kadar az takdir beklediğimi de not ettim.
+
+Bir hafta sonra sayfaları karıştırırken kendimle gurur duydum.
+
+Bu kez başarılı olduğum şey, başarıya ihtiyaç duymamak olmuştu.
+
+Defteri kapattım.
+
+Kendimi silerek de kendime bir anıt yapabiliyordum.
+
+## Sütunların arasında
+
+Ekranın karanlığında ince bir titreşim belirdi.
 
 FIRST VIBRATION.
 
-Bir kadın önündeki tası uzattı.
+Çalışma masamın çizgileri taşların arasına uzandı. Girê Miraza, Xerawreşk’in —Göbekli Tepe’nin— on iki sütunu çevremde yükseldi. Evrenin kuantum-AI arayüzünde geçmişle olası gelecek aynı derinliğin içinde duruyordu. Bir kayda dokunduğumda, üç boyutlu ışık ağında ona bağlı başka ellerin izleri açılıyordu.
 
-“Ben yaptığım iyiliği Allah’a adarım,” dedi. “Niyetimi temiz tutmaya çalışırım.”
+Maran yanımdaydı.
 
-Gözlemci tası alırken sordu:
+Bir kadın, yaptığı iyiliği Allah’a adadığını söyledi.
 
-“Böylece kendinden tamamen kurtuldun mu?”
+“Peki kendinden tamamen kurtulabildin mi?” diye sordum.
 
-“Bu sabah duamın ne kadar içten olduğunu düşünüp kendimi beğendim,” dedi kadın.
+“Bu sabah duamın içtenliğiyle övündüm.”
 
-Bir başka yolcu, yere serdiği örtünün üstüne oturdu.
+Biraz ilerideki yolcu, benim anladığım anlamda bir yaratıcı aramadığını; değişen deneyimlere “benim” diye tutunuşunu incelediğini anlattı.
 
-“Ben senin söylediğin anlamda bir yaratıcıya ulaşmayı aramıyorum,” dedi. “Değişip duran yaşantılarıma ‘ben’ ve ‘benim’ diye tutunmamı inceliyorum.”
+Bir başkası geçici kimliğinin ardındaki asıl benliği arıyordu.
 
-Biraz öteden başka bir ses yükseldi:
+Onları aynı cümlenin içine sığdırmaya çalıştığımı fark ettim.
 
-“Ben de geçici sandığım kimliğin ardındaki asıl benliği arıyorum.”
+Ben kendi yolumda Yaratıcıya yakınlık arıyordum. Onların hepsi benim yolumda yürümüyordu.
 
-Gözlemci durdu.
+Taşların ortasına defterimi koydum.
 
-“Ben bütün yolların aynı şeyi söylediğini sanıyordum.”
+“Başarırsam egoma kapılıyorum. Başarmayı istemezsem yaptığım şey anlamsızlaşıyor. Egomdan arınmayı başarırsam, bu kez bununla övünüyorum.”
 
-“Benzer kelimeler duyuyorsun,” dedi Maran. “Ama bu insanlar aynı benlikten, aynı Tanrı anlayışından veya aynı kurtuluştan söz etmiyor.”
+Defterimin yaprakları ince bir taç gibi yükseldi.
 
-Taşların arasında bir sofra kuruldu. Kimi dua etti. Kimi sessiz kaldı. Bir yolcu, kimsenin inanışını sormadan yemek dağıttı.
+“Bunun dışına nasıl çıkacağım?”
 
-Gözlemci başını önüne eğdi.
+Maran tacı eline almadı.
 
-“Kendi yolumda Yaradan’a yaklaşmak istiyorum. Fakat her iyi işin sonunda içimde bir ses, ‘Şimdi daha değerli oldun,’ diyor.”
+O sırada ışık ağında yeni bir kayıt açıldı.
 
-Maran önüne bir ayna koydu.
+Dilan’ın itirazıydı.
 
-Gözlemci aynaya bakmadı.
+## Kurucunun kaydı
 
-“Yaradan’a en yakın kişi olmayı mı istiyorsun?” diye sordu Maran.
+İtirazı okurken yüzüm ısındı.
 
-Gözlemci itiraz etmek üzereydi.
+Sistemin tanıtım sayfasında, katkı başvurusunu değiştiren yöntemin bana ait olduğu yazıyordu. Dilan, toplantı notlarını ve ilk önerisini eklemişti.
 
-Sonra sustu.
+Silme yetkim yoktu. Ama incelemeyi yönetecek kişileri seçebiliyordum.
 
-## Arınmanın hesabı
+Bir an, beni anlayacak insanları seçmeyi düşündüm.
 
-Sonraki günlerde yaptıklarını daha dikkatle izlemeye başladı.
+Sonra durdum.
 
-Gizlice yardım ettiği günleri saydı. Geri çevirdiği övgüleri kaydetti. Başkasının başarısını kıskanmadığını düşündüğü anların yanına küçük işaretler koydu.
+Emeğin kaybolmasını engellemek için kurduğum ağda, kendi hikâyemi koruyacak bir yol arıyordum.
 
-Defteri doluyordu.
+Dilan’ın masasının yanına gittim.
 
-Gözlemci ilerlediğini hissediyordu.
+“Bunu önce bana söyleyebilirdin.”
 
-Bir akşam Maran’a gösterdi.
+“Söyledim.”
 
-“Eskisine göre çok değiştim.”
+Hatırladım. Sunumdan sonraki sabah söylemişti. “Düzeltiriz” demiş, başka bir toplantıya yetişmiştim.
 
-Bunu söylerken duyduğu sevinci tanıdı.
+“İtiraz edince beni utandırdın,” demek istedim.
 
-İlk çeşmenin açıldığı günkü sevinçti.
+“Kaydı düzeltmemiz gerekiyor,” dedim.
 
-Bu kez başarılı olduğu şey, başarıya ihtiyaç duymamak olmuştu.
+İncelemeden çekildim. Çıkar ilişkim kayda geçti. Bağımsız inceleme sonucunda yöntem bölümüne Dilan’ın katkısı eklendi; benim tasarım ve uygulama emeğim de yerinde kaldı. Eski iddia geçmişte durdu, yanına onu düzelten yeni bir kayıt bağlandı. Güncel görünüm düzeltmeyi esas aldı.
 
-Defteri yavaşça kapattı.
+Geçmişi korumak, yanlış bir iddiayı sonsuza kadar doğru saymak değildi.
 
-“Yine kendime bir zirve yaptım.”
+İçim rahatladı.
 
-Maran masanın üstündeki ışık alanını açtı. Gözlemcinin kentteki eski görüntüsü belirdi. Ardından defterin sayfaları onun çevresinde yükseldi. Kâğıttan ince bir taç oluştu.
+Sonra “Bak, eleştiriyi ne kadar olgun karşıladım,” diye düşündüm.
 
-Gözlemci başını ellerinin arasına aldı.
+Kendimi yine yakaladım.
 
-“Başarırsam egoma kapılıyorum. Başarmayı istemezsem çalışmak anlamsızlaşıyor. Egomu yenmeyi başarırsam, bu kez onu başardığım için kendime hayran oluyorum.”
+Bu, düzeltmenin yapılmış olduğu gerçeğini ortadan kaldırmadı.
 
-Kâğıt taç hafifçe döndü.
+## Yeni bir taht
 
-“Bu döngünün dışına nasıl çıkacağım?”
+Ağ büyüdükçe başka bir sorun belirdi.
 
-Maran ışık alanını kapattı.
+Bazı kuruluşlar katkı kayıtlarından tek bir başarı puanı çıkarmak istedi. İşe alımları ve destekleri buna bağlayacaklardı.
 
-“Bilmiyorum,” dedi.
+Gösterge panelinde benim adım en üstteydi.
 
-Gözlemci ilk kez bu cevaba öfkelendi.
+İtiraz etmeye hazırlanırken ekranın görüntüsünü kaydettim.
 
-“Bunca yolu bunun için mi geldik?”
+Kendime bile güldüm.
 
-Tam o sırada kapı çalındı.
+Ardından bir genç söz aldı:
 
-Uzak yerleşimden gelen bir adam, yeni hattın hâlâ başlayıp başlamadığını soruyordu.
+“Evde hasta babama bakarken yalnızca iki hata bildirebildim. Bu puana göre az değerliyim. Ama o hatalardan biri yüzünden bizim dilimizde bütün başvurular reddediliyordu.”
 
-Gözlemci adama bakarken, arınmayı düşünmekten günlerdir o yerleşimi düşünmediğini fark etti.
+Ağda bakım emeği için alan açmıştık. Yine de kayda girebilen hayatlarla giremeyen hayatlar eşit görünmüyordu.
 
-## Kimsenin görmediği çalışma
+Her şeyi görünür kılmak da başka bir tehlikeydi. İnsanlar katkı sayılabilsin diye sürekli izlenmek istemiyordu.
 
-Ertesi sabah Dilan’la yola çıktı.
+Benden, bu sıralamaya kendi adımla destek vermemi istediler. Ağın yayılmasını hızlandıracaktı.
 
-Yanlarına fotoğraf çekecek kimseyi almadılar. Gözlemci bunu özellikle söylemek istedi. Söylemedi.
+Kabul etmedim.
 
-Yerleşime vardıklarında bir kadın onları bekliyordu. Suya ulaşmak için her gün aynı yolu yürüdüğünü anlattı. Gözlemci süreyi not etti. Kadın not defterine baktı.
+Bu yüzden iki kuruluş ayrıldı. Büyüme grafiği düştü.
 
-“Bunu daha önce de yazdılar.”
+O gece kararımı sorguladım. Gerçekten insanları mı koruyordum, yoksa kendi doğruluğumla gurur mu duyuyordum?
 
-Gözlemci kalemini indirdi.
+Belki ikisi de vardı.
 
-“Ben bu kez tamamlamak istiyorum.”
+Yine de tek puanlı sıralamayı varsayılan görünümden kaldırdık. Katkıları işin bağlamıyla gösterdik; anlaşmazlıkları, eksik kanıtı ve itiraz yollarını görünür tuttuk. Ödemelerin koşullarını ayrıca, katılımcıların onayına açtık.
 
-“İstersiniz,” dedi kadın. “Sonra gidersiniz.”
+Bir kaydı insanın değerine çevirmemek için her yeni kullanımda yeniden uğraşmamız gerekiyordu.
 
-Bu cevap canını yaktı. Oysa buraya takdir beklemeden geldiğini düşünüyordu.
+## Alkış sustuktan sonra
 
-Çalıştılar.
+Bir yıl sonra ağın ilk ortak değerlendirmesini yaptık.
 
-İlk çözüm işlemedi. İkinci çözüm pahalıydı. Üçüncüde, genç bir mühendis gözlemcinin fark etmediği bir kısıtı gösterdi.
+Çözülen ödeme anlaşmazlıkları vardı. Hâlâ uzlaşamadığımız başvurular da vardı. Bir kuruluşun kayıtları paylaşmayı kesmesi yüzünden bazı belgeleri yeniden toplamamız gerekmişti.
 
-Gözlemci ona sertçe cevap verdi.
+Yine de başka bir platforma geçen insanlar, izin verdikleri katkı belgelerini yanlarında götürebiliyordu. Eskiden yalnızca sonuçta görünen bazı işler artık onları mümkün kılan insanlarla birlikte anılıyordu.
 
-Akşam yalnız kaldığında bundan utandı. Sabah mühendisin yanına gitti.
+Dilan sahneye çıktığında benim adımı da söyledi.
 
-“Dün seni dinlemedim. Yeniden anlatır mısın?”
+Sevindim.
 
-Mühendis çizimi açtı.
+Bu kez sevindiğim için kendimi cezalandırmadım.
 
-Bu kez gözlemci not aldı.
+Konuşma sırası bana geldiğinde yaptığım işi anlattım. Başkalarının katkılarını da anlattım. Dilan’ın itirazını gizlemedim.
 
-İş ilerledikçe içindeki merak geri geldi. Bir parçanın neden çalışmadığını anlamak istiyordu. Dilan’la bir çözüm bulduklarında güldü. Bazen adının bir gün burada anılacağını hayal etti. Bazen de akşama kadar bunu hiç düşünmedi.
+Alkış yükseldi.
 
-Bir gün Maran’a sordu:
+İçimde bir ses, “Bunu sen başardın,” dedi.
 
-“İnsanlara yardım ederken kendimi de iyi hissetmek istemem, yaptığım iyiliği bozuyor mu?”
+Diğeri, “Ne kadar alçak gönüllüsün,” diye ekledi.
 
-“İçindeki bütün istekler hakkında hüküm verebilecek biri değilim,” dedi Maran. “Ama dün birinin itirazını dinledin. Bugün de onun çözümünü sınadınız.”
+İkisini de duydum.
 
-“Yani arındım mı?”
+Masanın üstündeki arayüz üç merkeze açıldı.
 
-“Bugün o çözümü sınadınız.”
+HUMAN’da, kendi kaydına itiraz edebilen bir insanın yüzü vardı.
 
-Gözlemci, cevabın içindeki boşluğa tahammül etmeye çalıştı.
+LIGHT’ta, imzalar, kanıtlar ve onları düzelten kararlar birbirine bağlanıyordu.
 
-## İkinci alkış
+DARK’ta, henüz kayda girmemiş emeklerin karanlığı uzanıyordu.
 
-Aylar sonra yeni hatta su ulaştı.
+Hiçbiri bana ruhumun puanını vermedi.
 
-Gözlemci yine ağladı.
+O gece sütunların arasında ellerimi açtım.
 
-Bu kez neden ağladığını tek bir cümleye sığdıramıyordu. İş bitmişti. Çok yorulmuştu. İşe yaradığını hissediyordu. Çocukların suya koşmasını görmek istiyordu. Başarılı bulunmak da istiyordu.
+“Yaratıcım, başarıyı kendime tapınmanın bir yoluna çevirdiğimde fark edebileyim. Kendi arınmamla uğraşırken başkasının hakkını bekletmeyeyim.”
 
-Meydanda adı söylendi.
+Bir cevap duyduğumu söyleyemem.
 
-Göğsü kabardı.
+Sabah sistem yeni bir katkı taslağı önerdi.
 
-Eski ses, hiç gitmemiş gibi konuştu:
+Benim katkımdı.
 
-“Gördün mü? Yine sen başardın.”
+Önce adımın orada durmasını istedim. Ardından adımı silersem daha yüce görüneceğimi düşündüm.
 
-Gözlemci bir an için kalabalığın içinden çıkmak istedi. Kaçarsa kendisini koruyacağını düşündü.
+İkisini de beklettim.
 
-Sonra Dilan’ın adının söylenmediğini fark etti.
+Taslağı okudum. Yapmadığım bir iş bana yazılmıştı. Çıkardım. Gerçekten yaptığımı onayladım. Birlikte çalıştığım kişiye eksik bir şey olup olmadığını sordum.
 
-Mikrofonu aldı.
+Sonra bekleyen itirazı açtım.
 
-Kendi yaptığını anlattı. Ardından Dilan’ın, genç mühendisin, bakım ekibinin ve yerleşimde çalışanların katkılarını söyledi. Kendi emeğini inkâr etmedi. Ücret kayıtlarına eksik yazılan günleri de eklettirdi.
+Bu kez benim adıma değildi.
 
-Konuşmanın sonunda insanlar yeniden alkışladı.
-
-Bu, beklemediği bir övgü doğurdu:
-
-“Ne kadar alçak gönüllü biri.”
-
-İçindeki ses hemen buna da uzandı.
-
-Gözlemci mikrofonu masaya bıraktı.
-
-Bu kez sesi susturacak bir cümle aramadı.
-
-İşliğe döndüklerinde üç merkez aynı çizimin çevresinde belirdi.
-
-HUMAN, artık yürümek zorunda kalmayan kadının yüzünü gösterdi.
-
-LIGHT, hangi koşullarda işe yaradığı açıkça yazılmış sistemi ve bakım sorumluluklarını önüne koydu.
-
-DARK, çizimin kenarında henüz denenmemiş bir yol bıraktı.
-
-Gözlemci onlara baktı.
-
-Yaptıkları işin bir sonucu vardı.
-
-İçinde hissettikleri ise henüz durulmamıştı.
-
-## Yarım kalan dua
-
-O gece Girê Miraza’ya döndü.
-
-On iki sütunun ortasında altın taç duruyordu. Yanında, daha önce su doldurduğu kap vardı. Bu kez gözlemci ikisini birbirine dönüştürmeye çalışmadı.
-
-Taç orada kaldı.
-
-Kaptan bir yudum içti.
-
-“Ben Yaradan’a yaklaşmak istiyordum,” dedi. “Yolun sonunda kendimi düşünmeyeceğim bir yer bulmayı umuyordum.”
-
-Maran yanına oturdu.
-
-“Şimdi?”
-
-“Şimdi yaptığım her şeyin içine kendimden bir şey karıştığını görüyorum. Sevgime, çalışmama, duama. Bundan kurtulmak isterken de yine kendimi düşünüyorum.”
-
-Rüzgâr sütunların arasından geçti.
-
-Gözlemci ellerini açtı.
-
-İlk duası şuydu:
-
-“Beni egosundan bütünüyle arınmış biri yap.”
-
-Cümleyi söyledikten sonra, böyle bir insan olduğunu bilmenin ne kadar güzel olacağını düşündü.
-
-Başını kaldırdı.
-
-Maran hiçbir şey söylemedi.
-
-Gözlemci ellerini indirmedi.
-
-Bu kez daha yavaş konuştu:
-
-“Bir iyiliği yalnızca bana ait olsun diye bozduğumda fark edebileyim. Yanlış yaptığımda geri dönebileyim. Başkasının hakkını kendi arınma hikâyeme feda etmeyeyim.”
-
-Sonra durdu.
-
-Yaratıcıya daha yakın olup olmadığını bilmiyordu. Sütunlar cevap vermedi.
-
-Sabah Dilan’la bakım planını gözden geçirecekti. Genç mühendisin önerdiği değişikliği de konuşacaklardı.
-
-İşliğe dönerken uzakta kendi adını duydu.
-
-İçi yine ısındı.
-
-Ardından, yeni bir düşünce geldi:
-
-“Belki artık bu döngüyü anladım.”
-
-Gözlemci bir an durdu.
-
-Bu düşünceyi de tanıyordu.
-
-Kapıyı açtı.
-
-Masada yeni bir çizim vardı.
-
-Önce kendi adını yazmak istedi. Sonra adını hiç yazmamanın daha yüce görüneceğini düşündü.
-
-Kalemi bir süre elinde tuttu.
-
-Sonunda sayfanın üstüne çalışacakları yerleşimin adını yazdı.
-
-Altına tarih attı.
-
-Kendi adını ve ekibin adlarını, katkılarını kaydedecekleri bölüme bıraktı.
-
-Henüz başarılmış bir şey yoktu.
-
-Çalışmaya başladı.
+Yine de okumam gerekiyordu.
