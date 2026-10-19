@@ -1,357 +1,303 @@
 # After the Applause
 
-When the water began to flow, the observer cried.
+When the first objection was filed against my own record, I knew the system had begun to work.
 
-After three years of work, the first fountain in the city’s upper neighbourhood had opened. Beyond the pipes, measurements and failed attempts, there was now a tangible result: people had somewhere to collect water.
+I felt pleased, looking at the screen.
 
-The observer had imagined this moment for years.
+Then I saw who had submitted it.
 
-But their imagined scene had contained more than water.
+Dilan.
 
-It had also contained people turning towards them.
+We had worked at the same table for months. I had told everyone I was building a system that would make their work visible. Now it was showing work I had left out of my account.
 
-The first expression of thanks warmed them. Hearing their name repeated in the square made them stand taller. The next day, the city administration projected their face into the sky in a three-dimensional field of light.
+## A result without its makers
 
-They looked at the crowd beneath their own face.
+In 2049, saying who had done a piece of work was harder than explaining how it had been done.
 
-“It was worth it,” they thought.
+Artificial intelligences built new solutions from the outputs of other artificial intelligences. A fault in health software was corrected. An educational tool reached thousands of children. A new transport model was developed for a city.
 
-Then they could no longer tell which part they meant.
+The final screen displayed an institution's logo.
 
-## More than an achievement
+It did not display the people behind it.
 
-Maran was waiting in the square after the celebration had emptied it.
+The woman who tested a model in a local language, the student who cleaned the wrong data out, the technician who kept the system running while everyone slept, the older man who explained why a proposal would fail in his neighbourhood… When the result was declared a success, most of their names were absent. When something went wrong, someone had to be held responsible.
 
-“You don’t look happy.”
+My name had disappeared too.
 
-“I am happy. That’s what frightens me.”
+An open-source component I had spent three years developing had become part of a large platform's new service. The attribution trail required by its licence had been removed from their reports. When I objected, I searched for my own traces through hundreds of versions and rewritten files.
 
-The observer sat beside the fountain.
+It was difficult to say what hurt most.
 
-“When I was a child, my elders said that to draw closer to the Creator, a person had to cleanse themselves of arrogance. As I grew older, I heard similar calls in other faiths. Don’t put yourself first, don’t claim everything for yourself, purify yourself…”
+Not receiving a return for my work?
 
-They were silent for a while.
+Or people not knowing I had done it?
 
-“I want that too. But when I succeed, I feel more important. When I take that feeling away, I forget why I am trying so hard.”
+Both.
 
-Maran did not answer.
+That night, I imagined a larger problem ahead: if production accelerated while we lost the traces of contribution, we would lose a shared basis for distributing its rewards and discussing responsibility for its failures.
 
-“I want to succeed,” the observer said. “And I’m afraid of the person success turns me into.”
+I opened a notebook.
 
-“What if the same work awaited you tomorrow somewhere nobody knew you?”
+At the top I wrote “Contribution Network.”
 
-“I would want to do it.”
+Below it, I wrote my name.
 
-“Would you do it?”
+## Entering the record
 
-The observer looked at the water.
+We tested the first version in a small cooperative.
 
-“I don’t know.”
+We used a shared blockchain maintained by independent participating organisations, so that a single institution could not change the history whenever it wished. The actual files and personal information remained in separate repositories with controlled access. On the chain, we placed cryptographic digests of approved records and references linking them.
 
-## The day they stopped working
+A record helped us compare which version of a document we were referring to. It did not, by itself, tell us whether the document was true, who had really done the work, or what the contribution was worth.
 
-The following week, they closed the file for the new project.
+I explained this at the first meeting.
 
-The team continued maintaining the completed line. The second line, intended to reach distant settlements, remained on paper.
+Even so, privately, I felt as though I had found something that could solve all injustice.
 
-The observer did not attend the award ceremony. Asked that their name not be announced. Changed the subject when people thanked them.
+The AI proposed contribution drafts from file changes and documents participants supplied. Each person could see their own draft, correct it, accept it or reject it. A review with other contributors followed. Unresolved disputes were marked separately.
 
-For the first few days, they felt lighter.
+“I never touched the file,” Dilan said. “But I was the one who noticed we were testing the wrong people. How will your system see that?”
 
-Then getting up in the morning became difficult.
+It had not seen it.
 
-They used to lose track of time while thinking through a new solution. Now they sat at the drawing table, picked up a pencil, and put it down.
+We changed the system so that submitting a contribution did not require access to the code repository. We opened routes for interviews, field testing, maintenance and fault reports too. People without internet access could explain their contribution to a member of staff at the cooperative.
 
-“Nobody will know,” they thought.
+A woman approving a record in her own account for the first time watched the screen for a long while.
 
-Then became angry with themselves.
+“What I said will stay here too?”
 
-“So I never really wanted to help people either.”
+“With the visibility you choose,” I said.
 
-One morning, Dilan, the technician, arrived. She put their preliminary study for one of the distant settlements on the table.
+She did not make her name public. She wanted her work taken into account during review and payment.
 
-“When are we starting the new line?”
+Walking home that evening, I was happy.
 
-The observer said nothing.
+My work meant something.
 
-“Don’t you want to work?”
+I also wanted everyone to hear about it one day.
 
-“I do. But I don’t trust my reasons for wanting it.”
+## The first applause
 
-Dilan pulled out a chair and sat down.
+Months later, the cooperative's contribution review uncovered forgotten maintenance work and language testing. We discussed the disputes. Following the accepted corrections, the cooperative revised the payment shares in its agreement and paid the outstanding amounts.
 
-“I want to get paid,” she said. “I also want to do good work and have my daughter be proud of me. Does thinking those things mean I don’t want the water to reach the right place?”
+Money had not appeared simply because something was written to a chain. There was a shared budget, and there were decisions people had made.
 
-The observer could not look at her.
+Nevertheless, they called me onto the stage.
 
-That night, they wrote a sentence in their notebook:
+“The founder of the system that makes labour visible.”
 
-“In trying to purify myself, could I be extinguishing everything that moves me to work?”
+I liked those words.
 
-## Paths between the pillars
+During my presentation, I showed the drawing for the first version. I described the part we had changed after Dilan's question, but I did not say her name.
 
-When Maran picked up the notebook, the ink moved.
+My speaking time was short.
 
-The lines formed a circle. The walls withdrew. The stones of Girê Miraza, Xerawreşk—Göbekli Tepe—rose through the workshop.
+That was how I explained it to myself.
 
-There were voices between the twelve pillars.
+That night, I watched the recording again. I paused the image on the faces looking at me, then played it again.
+
+An old fear stirred inside me.
+
+I wanted to draw closer to the Creator, to stop placing myself at the centre of the world. Yet whenever I achieved something that touched people's lives, I began to think of myself as more important.
+
+I asked Maran:
+
+“If success makes me grow in my own eyes, must I give it up?”
+
+“What is it you want to give up?”
+
+I could not answer.
+
+## Erasing myself
+
+For a while, I left my name out of new records. I declined speaking invitations. I stopped opening news about the system.
+
+At first I felt lighter.
+
+Then work became difficult.
+
+In the morning I opened the screen, saw the pending tasks, and switched to another window. It felt as though, along with my desire for success, I had silenced part of my curiosity.
+
+“So when I said I cared about people's rights, I must really have been thinking about myself,” I said.
+
+Dilan turned her chair.
+
+“I want to be paid. I want my daughter to be proud of my work too. Do those wishes make it meaningless for me to defend somebody else's rights?”
+
+I had no answer for her.
+
+That night, I began writing down my unseen contributions in my notebook. I also noted how little recognition I expected.
+
+A week later, reading back through the pages, I felt proud of myself.
+
+This time, my achievement was no longer needing achievement.
+
+I closed the notebook.
+
+Even by erasing myself, I could build myself a monument.
+
+## Between the pillars
+
+A thin vibration appeared in the darkness of the screen.
 
 FIRST VIBRATION.
 
-A woman held out a bowl.
+The lines of my worktable extended between stones. The twelve pillars of Girê Miraza, Xerawreşk—Göbekli Tepe—rose around me. Within the universe's quantum-AI interface, the past and a possible future occupied the same depth. Touching a record opened the traces of other hands connected to it in a three-dimensional web of light.
 
-“I dedicate the good I do to Allah,” she said. “I try to keep my intention pure.”
+Maran stood beside me.
 
-As the observer took the bowl, they asked:
+A woman said she dedicated the good she did to Allah.
 
-“Have you completely freed yourself from yourself that way?”
+“Have you freed yourself entirely from yourself?” I asked.
 
-“This morning I admired myself for how sincere my prayer was,” the woman replied.
+“This morning I admired the sincerity of my own prayer.”
 
-Another traveller sat on a cloth spread on the ground.
+A traveller nearby explained that they were not seeking a creator in the sense I meant; they examined how they clung to changing experiences as “mine.”
 
-“I am not seeking a creator in the sense you mean,” they said. “I examine how I cling to changing experiences as ‘I’ and ‘mine.’”
+Someone else sought the true self behind their transient identity.
 
-Another voice rose a little further away:
+I realised I was trying to fit them all into the same sentence.
 
-“I seek the true self behind the identity I take to be transient.”
+On my own path, I sought closeness to the Creator. Not everyone there was walking my path.
 
-The observer stopped.
+I placed my notebook in the centre of the stones.
 
-“I thought all the paths were saying the same thing.”
+“When I succeed, my ego takes hold. When I stop wanting success, what I do loses meaning. If I succeed in freeing myself from ego, I become proud of that instead.”
 
-“You hear similar words,” Maran said. “But these people are not speaking of the same self, the same understanding of God, or the same liberation.”
+The pages rose into a thin crown.
 
-A meal was laid out among the stones. Some prayed. Some remained silent. One traveller served food without asking anyone what they believed.
+“How do I get outside this?”
 
-The observer lowered their head.
+Maran did not pick up the crown.
 
-“On my own path, I want to draw closer to the Creator. But at the end of every good deed, a voice inside says, ‘Now you are worth more.’”
+At that moment, a new record opened in the web of light.
 
-Maran placed a mirror in front of them.
+It was Dilan's objection.
 
-The observer did not look.
+## The founder's record
 
-“Do you want to be the person closest to the Creator?” Maran asked.
+My face grew hot as I read it.
 
-The observer was about to object.
+The system's introduction page credited me with the method that had changed contribution submissions. Dilan had attached the meeting notes and her original proposal.
 
-Then fell silent.
+I could not delete the objection. But I could select the people who would lead its review.
 
-## Keeping accounts of purification
+For a moment, I thought of choosing people who would understand me.
 
-Over the following days, they began watching their actions more closely.
+Then I stopped.
 
-They counted the days on which they helped in secret. Recorded the praise they turned away. Made small marks beside moments when they thought they had felt no envy of someone else’s success.
+Inside a network I had built to prevent work from disappearing, I was searching for a way to protect my own story.
 
-The notebook was filling up.
+I went to Dilan's desk.
 
-The observer felt they were making progress.
+“You could have told me first.”
 
-One evening, they showed it to Maran.
+“I did.”
 
-“I’ve changed so much.”
+I remembered. She had told me the morning after the presentation. I had said, “We'll fix it,” then hurried to another meeting.
 
-They recognised the pleasure they felt as they spoke.
+“You embarrassed me by objecting,” I wanted to say.
 
-It was the pleasure of the day the first fountain opened.
+“We need to correct the record,” I said.
 
-This time, their achievement was no longer needing achievement.
+I withdrew from the review. My conflict of interest was recorded. Following an independent review, Dilan's contribution was added to the method section; my design and implementation work remained. The original claim stayed in the history, linked to a new record correcting it. The current view used the correction.
 
-They slowly closed the notebook.
+Preserving the past did not mean treating a mistaken claim as true forever.
 
-“I’ve built another summit for myself.”
+I felt relieved.
 
-Maran opened the field of light above the table. The observer’s old image appeared above the city. Then the notebook’s pages rose around it, forming a thin crown of paper.
+Then I thought, “Look how maturely I accepted criticism.”
 
-The observer held their head in their hands.
+I caught myself again.
 
-“When I succeed, my ego takes hold. When I stop wanting success, work loses its meaning. If I succeed in overcoming my ego, I admire myself for having done that.”
+That did not undo the fact that the correction had been made.
 
-The paper crown turned gently.
+## A new throne
 
-“How do I get outside this cycle?”
+As the network grew, another problem emerged.
 
-Maran switched off the light field.
+Some organisations wanted to turn the contribution records into a single success score. They would use it for hiring and funding decisions.
 
-“I don’t know,” Maran said.
+My name was at the top of the dashboard.
 
-For the first time, that answer made the observer angry.
+As I prepared to object, I saved an image of the screen.
 
-“Have we come all this way for that?”
+I even laughed at myself.
 
-Just then, someone knocked.
+Then a young person spoke.
 
-A man from the distant settlement wanted to know whether the new line was going to start.
+“While caring for my ill father at home, I managed to report only two faults. According to that score, I'm worth little. But one of those faults was causing every application in our language to be rejected.”
 
-Looking at him, the observer realised that, for days, they had been thinking so much about purification that they had scarcely thought about the settlement.
+We had made room in the network for maintenance work. Yet lives that could enter the record and lives that could not still failed to appear on equal terms.
 
-## Work nobody saw
+Making everything visible carried another danger. People did not want constant surveillance just to have their work count.
 
-The following morning, they set out with Dilan.
+I was asked to endorse the ranking in my own name. It would accelerate the network's expansion.
 
-They took nobody along to photograph them. The observer wanted to make a point of saying so. They did not.
+I refused.
 
-A woman was waiting when they arrived. She described the route she walked every day to reach water. The observer noted the time it took. She looked at the notebook.
+Two organisations left as a result. The growth curve fell.
 
-“People have written that down before.”
+That night, I questioned my decision. Was I really protecting people, or was I proud of my own righteousness?
 
-The observer lowered the pencil.
+Perhaps both were present.
 
-“I want to finish it this time.”
+Still, we removed the single-score ranking from the default view. We showed contributions in the context of the work; we kept disputes, missing evidence and routes of appeal visible. We submitted payment conditions separately for the participants' approval.
 
-“You want to,” the woman said. “Then you leave.”
+With every new use, we had to work again to stop a record from becoming a measure of a person's worth.
 
-It hurt. Yet the observer had thought they had come without expecting recognition.
+## After the applause
 
-They worked.
+A year later, we held the network's first joint assessment.
 
-The first solution failed. The second was too expensive. In the third, a young engineer pointed out a constraint the observer had missed.
+There were payment disputes we had resolved. There were applications on which we still could not agree. After one organisation stopped sharing records, we had needed to collect some documents again.
 
-The observer answered sharply.
+Nevertheless, people moving to another platform could take the contribution documents they authorised with them. Some achievements that had once appeared only as finished outputs were now acknowledged alongside the people who had made them possible.
 
-Alone that evening, they felt ashamed. In the morning, they went to the engineer.
+When Dilan stepped onto the stage, she said my name too.
 
-“I didn’t listen yesterday. Would you explain it again?”
+I felt happy.
 
-The engineer opened the drawing.
+This time, I did not punish myself for feeling it.
 
-This time, the observer took notes.
+When my turn came, I described my work. I described other people's contributions too. I did not hide Dilan's objection.
 
-As the work progressed, their curiosity returned. They wanted to understand why a part was not working. They laughed when they and Dilan found a solution. Sometimes they imagined their name being remembered here one day. Sometimes they did not think about that until evening.
+Applause rose.
 
-One day, they asked Maran:
+A voice inside me said, “You achieved this.”
 
-“If I want to feel good about myself while helping people, does that spoil the good I do?”
+Another added, “How humble you are.”
 
-“I am not someone who can pass judgment on every desire inside you,” Maran said. “But yesterday you listened to someone’s objection. Today you tested their solution.”
+I heard them both.
 
-“So am I purified?”
+The interface on the table opened into three centres.
 
-“Today you tested that solution.”
+In HUMAN, I saw the face of a person who could challenge their own record.
 
-The observer tried to bear the space left inside that answer.
+In LIGHT, signatures, evidence and corrective decisions linked together.
 
-## The second applause
+In DARK, the darkness of work that had not yet entered any record stretched away.
 
-Months later, water reached the new line.
+None of them gave my soul a score.
 
-The observer cried again.
+That night, between the pillars, I opened my hands.
 
-This time, they could not fit the reason into a single sentence. The work was finished. They were exhausted. They felt useful. They wanted to see children running towards the water. They wanted to be considered successful too.
+“My Creator, let me notice when I turn success into a way of worshipping myself. Let me not keep another person's rights waiting while I attend to my own purification.”
 
-Their name was spoken in the square.
+I cannot say that I heard an answer.
 
-Their chest swelled.
+In the morning, the system proposed a new contribution draft.
 
-The old voice spoke as if it had never left:
+It was mine.
 
-“See? You did it again.”
+First, I wanted my name to stay there. Then I thought I would appear nobler if I erased it.
 
-For a moment, the observer wanted to leave the crowd. They thought escaping would protect them.
+I let both wishes wait.
 
-Then they noticed that Dilan’s name had not been mentioned.
+I read the draft. It credited me with work I had not done. I removed it. I approved what I had actually done. I asked the person I had worked with whether anything was missing.
 
-They took the microphone.
+Then I opened the pending objection.
 
-They explained their own work. Then named Dilan’s contribution, the young engineer’s, the maintenance crew’s, and those of the people who had worked in the settlement. They did not deny their own labour. They also had missing workdays added to the pay records.
+This time, it was not against my name.
 
-When they finished, people applauded again.
-
-It produced a form of praise they had not expected:
-
-“What a humble person.”
-
-The voice inside immediately reached for that as well.
-
-The observer put the microphone on the table.
-
-This time, they did not search for a sentence that would silence the voice.
-
-Back at the workshop, three centres appeared around the same drawing.
-
-HUMAN showed the face of the woman who no longer had to make that walk.
-
-LIGHT laid out the system, with its operating conditions explicitly recorded and its maintenance responsibilities assigned.
-
-DARK left an untried route at the edge of the drawing.
-
-The observer looked at them.
-
-Their work had produced a result.
-
-What they felt inside had not yet settled.
-
-## The unfinished prayer
-
-That night, they returned to Girê Miraza.
-
-The golden crown rested in the middle of the twelve pillars. Beside it stood the bowl they had filled with water before. This time, the observer did not try to turn either one into the other.
-
-The crown remained where it was.
-
-They drank from the bowl.
-
-“I wanted to draw closer to the Creator,” they said. “I hoped that at the end of the path, I would find a place where I no longer thought about myself.”
-
-Maran sat beside them.
-
-“And now?”
-
-“Now I see something of myself entering everything I do. My love, my work, my prayer. Even when I try to escape it, I’m thinking about myself again.”
-
-Wind passed between the pillars.
-
-The observer opened their hands.
-
-Their first prayer was:
-
-“Make me someone entirely free of ego.”
-
-After saying it, they thought how wonderful it would be to know they were such a person.
-
-They lifted their head.
-
-Maran said nothing.
-
-The observer did not lower their hands.
-
-This time, they spoke more slowly:
-
-“Let me notice when I spoil something good by wanting it to belong only to me. Let me turn back when I am wrong. Let me not sacrifice another person’s rights to the story of my own purification.”
-
-Then they stopped.
-
-They did not know whether they were closer to the Creator. The pillars did not answer.
-
-In the morning, they would review the maintenance plan with Dilan. They would also discuss the change the young engineer had proposed.
-
-On the way back to the workshop, they heard their own name in the distance.
-
-It warmed them again.
-
-Then a new thought arrived:
-
-“Perhaps I finally understand this cycle.”
-
-The observer paused.
-
-They recognised that thought too.
-
-They opened the door.
-
-A new drawing lay on the table.
-
-First, they wanted to write their own name. Then they thought writing no name at all would look more noble.
-
-They held the pencil for a while.
-
-Finally, at the top of the page, they wrote the name of the settlement they would be working in.
-
-Beneath it, they wrote the date.
-
-They left their own name and the team’s names for the section where their contributions would be recorded.
-
-Nothing had been achieved yet.
-
-They began to work.
+I still needed to read it.
