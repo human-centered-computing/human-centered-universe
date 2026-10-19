@@ -15,7 +15,7 @@
   "classification": {
     "method": "30-criterion HCU narrative analysis; largest-remainder normalization to 100",
     "status": "ai-generated-draft",
-    "note": "Provisional coordinates retained after reviewing revision 2. Scores describe narrative emphasis, not spiritual attainment, human worth or clinical assessment.",
+    "note": "Provisional narrative coordinates retained for revision 3; these are neither contribution scores nor measurements of spiritual attainment or human worth.",
     "criterion_scores": {
       "HUMAN": [
         10,
@@ -56,16 +56,17 @@
     },
     "criterion_order_reference": "universe/CLASSIFICATION.md",
     "rationale": {
-      "HUMAN": "Mixed motives, lost purpose, human dignity, fair pay, contributions and the decision to keep working remain central.",
-      "LIGHT": "The notebook's misleading count of purification is contrasted with verifiable work records, tests, objections and maintenance duties.",
-      "DARK": "The unresolved recursive ego, distinct religious paths, the unfinished prayer and the untried design keep transformation open."
+      "HUMAN": "First-person mixed motives, fair attribution, payment, care work, consent and rights drive the conflict.",
+      "LIGHT": "Digests and review procedures make claims inspectable; a conflict of interest and a linked correction test the founder's own record.",
+      "DARK": "Unrecorded lives, uncertain futures, alternative spiritual paths and recursive pride resist total measurement."
     }
   },
   "coverage_audit": {
     "coverage_complete": false,
     "unmapped_elements": [
       "The recursive attempt to achieve freedom from achievement is only partially represented by the three-center criteria.",
-      "Different religious accounts of selfhood and liberation are not reducible to three narrative weights."
+      "Different religious accounts of selfhood and liberation are not reducible to three narrative weights.",
+      "The political economy of AI attribution and blockchain governance is not captured by narrative center weights."
     ],
     "review_note": "A human editorial review is pending; classification is provisional."
   }
