@@ -15,7 +15,7 @@
   "classification": {
     "method": "30-criterion HCU narrative analysis; largest-remainder normalization to 100",
     "status": "ai-generated-draft",
-    "note": "Provisional narrative coordinates retained for revision 3; these are neither contribution scores nor measurements of spiritual attainment or human worth.",
+    "note": "Provisional narrative coordinates retained for revision 4 after editorial review of emphasis; not a ranking of beliefs, spiritual attainment or human worth.",
     "criterion_scores": {
       "HUMAN": [
         10,
@@ -56,9 +56,9 @@
     },
     "criterion_order_reference": "universe/CLASSIFICATION.md",
     "rationale": {
-      "HUMAN": "First-person mixed motives, fair attribution, payment, care work, consent and rights drive the conflict.",
-      "LIGHT": "Digests and review procedures make claims inspectable; a conflict of interest and a linked correction test the founder's own record.",
-      "DARK": "Unrecorded lives, uncertain futures, alternative spiritual paths and recursive pride resist total measurement."
+      "HUMAN": "First-person longing, dignity, recognition, loss of purpose and others' rights anchor the spiritual conflict.",
+      "LIGHT": "Distinct meanings of self, pride and purification challenge premature equivalence; the contribution dispute tests willingness to accept correction.",
+      "DARK": "Unresolved religious differences, unrepresented paths, nonbelief and recursive pride in humility or universal understanding keep the inquiry open."
     }
   },
   "coverage_audit": {
@@ -68,6 +68,6 @@
       "Different religious accounts of selfhood and liberation are not reducible to three narrative weights.",
       "The political economy of AI attribution and blockchain governance is not captured by narrative center weights."
     ],
-    "review_note": "A human editorial review is pending; classification is provisional."
+    "review_note": "Human editorial review is pending. These coordinates cannot capture the metaphysical differences between traditions; no religion is assigned its own center score."
   }
 }

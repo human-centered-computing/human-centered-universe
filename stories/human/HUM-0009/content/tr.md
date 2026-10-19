@@ -10,9 +10,13 @@ Dilan.
 
 Aylardır aynı masada çalışıyorduk. Herkese emeğini görünür kılacak bir sistem kurduğumu anlatmıştım. Şimdi sistem, benim anlatmadığım bir emeği gösteriyordu.
 
+Ama asıl korkum kaydın yanlış olması değildi.
+
+Arınmış biri olduğuma inanmak istiyordum. O kayıt, bu inancımı da düzeltecek gibiydi.
+
 ## Sonucu vardı, sahibi yoktu
 
-2049 yılında bir işi kimin yaptığını söylemek, o işin nasıl yapıldığını açıklamaktan daha zordu.
+Yapay zekâların birbirinin çıktısını dönüştürdüğü dünyada, bir işi kimin yaptığını söylemek giderek zorlaşıyordu.
 
 Yapay zekâlar başka yapay zekâların çıktılarından yeni çözümler üretiyordu. Bir sağlık yazılımındaki hata düzeltiliyor, bir eğitim aracı binlerce çocuğa ulaşıyor, bir şehir için yeni bir ulaşım modeli kuruluyordu.
 
@@ -136,43 +140,185 @@ Defteri kapattım.
 
 Kendimi silerek de kendime bir anıt yapabiliyordum.
 
-## Sütunların arasında
-
-Ekranın karanlığında ince bir titreşim belirdi.
+## Adımı silince
 
 FIRST VIBRATION.
 
-Çalışma masamın çizgileri taşların arasına uzandı. Girê Miraza, Xerawreşk’in —Göbekli Tepe’nin— on iki sütunu çevremde yükseldi. Evrenin kuantum-AI arayüzünde geçmişle olası gelecek aynı derinliğin içinde duruyordu. Bir kayda dokunduğumda, üç boyutlu ışık ağında ona bağlı başka ellerin izleri açılıyordu.
+Çalışma masamın çizgileri taşların arasına uzandı. Girê Miraza, Xerawreşk’in —Göbekli Tepe’nin— on iki sütunu çevremde yükseldi. Kuantum-AI arayüzünün üç boyutlu katkı ağı taşların arasından geçiyordu. Bir kayda dokunduğumda başka ellerin izleri açılıyordu.
 
-Maran yanımdaydı.
+Ama o gece teknik bir cevap aramıyordum.
 
-Bir kadın, yaptığı iyiliği Allah’a adadığını söyledi.
+“Yaratıcıya yaklaşmak istiyorum,” dedim Maran’a. “Başarı kazandığımda kendime yaklaşıyorum. Kendimden vazgeçtiğimde de çalışmak istemiyorum.”
 
-“Peki kendinden tamamen kurtulabildin mi?” diye sordum.
+Sütunların arasında sofralar kurulmuştu. Kimse hangi inançtan geldiğine göre bir sıraya oturmamıştı.
 
-“Bu sabah duamın içtenliğiyle övündüm.”
+Bir kadın defterimi açtı. Müslümandı; niyetini arındırmak için tuttuğu kendi notlarını da yanıma koydu.
 
-Biraz ilerideki yolcu, benim anladığım anlamda bir yaratıcı aramadığını; değişen deneyimlere “benim” diye tutunuşunu incelediğini anlattı.
+“Ben iyiliğime başkaları baksın istediğimde gösterişten korkarım,” dedi. “Kimse bakmadığında ise kendi iyiliğime kendim hayran olabilirim. Buna ucb diyen bir dilin içinde büyüdüm.”
 
-Bir başkası geçici kimliğinin ardındaki asıl benliği arıyordu.
+“Ben de bunu yaşıyorum.”
 
-Onları aynı cümlenin içine sığdırmaya çalıştığımı fark ettim.
+“Bunu bildiğim için senden daha ileride olduğumu düşündüğüm de oluyor.”
 
-Ben kendi yolumda Yaratıcıya yakınlık arıyordum. Onların hepsi benim yolumda yürümüyordu.
+Notlarına baktı. Bir satırın üzerini çizdi.
 
-Taşların ortasına defterimi koydum.
+Yanındaki Hristiyan adam, düşen kalemi bana uzattı.
 
-“Başarırsam egoma kapılıyorum. Başarmayı istemezsem yaptığım şey anlamsızlaşıyor. Egomdan arınmayı başarırsam, bu kez bununla övünüyorum.”
+“Ben alçak gönüllülüğü İsa’nın hizmetinde öğrenmeye çalışıyorum. Ama bazen sevdiğim kişiye bakarken beni ne kadar iyi biri saydığını merak ediyorum.”
 
-Defterimin yaprakları ince bir taç gibi yükseldi.
+“Öyleyse kendimizi hiç düşünmemeliyiz.”
 
-“Bunun dışına nasıl çıkacağım?”
+“Ben kendimi Tanrı’nın sevgisinin dışında bırakmayı öğrenmiyorum,” dedi. “Sevilmeye değer olduğumu kabul ederken başkasının yerini kaplamamayı öğreniyorum.”
 
-Maran tacı eline almadı.
+Defterimde boş bir yere, kendi adımı yeniden yazmak istedim. Henüz yazmadım.
 
-O sırada ışık ağında yeni bir kayıt açıldı.
+Yahudi bir kadın önüne gelen katkı kaydını çevirdi.
 
-Dilan’ın itirazıydı.
+“Hillel’in kendime karşı sorumluluğumla yalnızca kendim için yaşamam arasına açtığı soruyu taşırım,” dedi. “Kendi hakkımı bütünüyle terk edersem adaleti nasıl savunacağım? Ama kendi hakkımdan başka hiçbir şey görmezsem neye dönüşeceğim?”
+
+Kâğıdı önüme itti.
+
+“Burada gerçekten yaptığın bir iş varsa adını silmen gerekmiyor.”
+
+## Arınmayı başarmak
+
+Sih bir yolcu sofraya ekmek dağıtıyordu. Benim payımı uzattığında adını sordum.
+
+“Kayda geçireyim.”
+
+“İstersen,” dedi. “Ama önce yanındakine de uzat.”
+
+Elimdeki ekmeği paylaştım.
+
+“Ben haumaiyi, kendimi her şeyin sahibi ve merkezi sanan tutunuşumda görüyorum,” dedi. “Seva yaparken bundan uzaklaşmaya çalışırım. Sonra bir bakarım, en çok hizmet eden kişi olarak bilinmek istiyorum.”
+
+Güldü. Ben de güldüm.
+
+Bir an, kendi çelişkisini görebilen insanlara ait özel bir topluluğun içinde olduğumu düşündüm.
+
+Diğerlerinden daha derin bir topluluk.
+
+Maran yüzüme baktı.
+
+Gülüşüm yarıda kaldı.
+
+“Peki içimdeki bu ‘ben’ gerçek mi?” diye sordum.
+
+Budist bir yolcu defterdeki adımı gösterdi.
+
+“Bende, değişen beden ve deneyimlerin gerisinde değişmez, bağımsız bir sahip aramayı sorgulayan bir öğreti var. Bu adı her gördüğünde ona neyi bağlıyorsun?”
+
+“Yaptıklarımı. Başarısızlıklarımı. Değerimi.”
+
+“Birisi kaydı düzelttiğinde hangisini kaybediyormuşsun gibi geliyor?”
+
+Cevap vermeden önce yanındaki Hindu kadın konuştu.
+
+“Benim izlediğim yolda ise geçici kimlikle asıl benlik aynı sayılmaz. Onun söylediğini kendi inancıma çevirip aynı şeymiş gibi dinleyemem.”
+
+Kadına döndüm.
+
+“Sen nasıl çalışıyorsun?”
+
+“Gita’dan işime özen göstermeyi, sonucunu bütünüyle kendime mal etmemeyi öğrenmeye çalışıyorum. Ama sonucun alkışını düşlediğim günler var. Hindu yollarının hepsi de benim sözcüklerimle konuşmaz.”
+
+Caynacı bir adam başını kaldırdı.
+
+“Ben ruhun gerçekliğini kabul eden bir yoldayım. Gurur ve sahiplenmenin onu nasıl bağladığıyla uğraşıyorum. Arınmayı başkalarını yaralayan bir yarışa çevirdiğimde, savunduğum şiddetsizliği kendi davranışımda bozuyorum.”
+
+Üçüne baktım.
+
+Benliği incelemek, benliği daha derinde aramak, ruhu tutkularından arındırmak…
+
+Bunları tek cevaba çevirmek istiyordum. Cebimde taşıyabileceğim bir cevap.
+
+Onlar birbirlerine katılmadan da aynı sofrada kalabiliyordu.
+
+Ben neden acele ediyordum?
+
+## Kendime dönen bütün yollar
+
+Sofranın öbür ucunda bir adam, biten işin ardından sandalyesini sessizce yerine çekti.
+
+Tao geleneğinden geldiğini söyledi. Başarıya tutunmadan işini tamamlamaya çalışıyordu.
+
+“Hiçbir şey istemezsem hiçbir şey yapamam,” dedim.
+
+“Ben burada oturup her şeyin kendiliğinden yapılmasını beklemedim,” dedi. “Masayı kurdum. Ama şimdi bütün sofrayı yönetmeye devam etmezsem dağılacağına inanmak zorunda mıyım?”
+
+Sandalyemi ona göre yerleştirmeye çalıştım. Güldü.
+
+Az ötede Konfüçyüs’ün öğretisiyle kendini yetiştirmeye çalışan bir kadın, genç bir katılımcının sözünü dinliyordu. Adam uzaklaşınca sordum:
+
+“Kendini geliştirmek de daha iyi biri olma yarışı değil mi?”
+
+“Öyle yaptığım oluyor,” dedi. “Ama bugün burada sınandığım yer, onun konuşmasını gerçekten dinleyip dinlemediğimdi. Saygınlığımı korumak için her zaman üstün görünmem gerekmiyor.”
+
+Şinto geleneğinden bir kadın, sofradan kalanları toplarken benden yardım istedi. Şükrünü kamilere, geldiği yere ve hayatını mümkün kılan ilişkilere uzattığını anlattı.
+
+“Sen de egoyu yok etmeye mi çalışıyorsun?”
+
+“Arınma dediğinde seninle tam aynı şeyi kastettiğimi varsayma,” dedi. “Bazen benim sorum, her şeyi kendim yapmışım gibi yaşamayı bırakıp saygıyla nasıl yeniden ilişki kuracağımdır.”
+
+Yanındaki Bahai kadın, temizlenen yere bir sandalye bıraktı.
+
+“Hizmet ederek değişmek istiyorum,” dedi. “Ama kendimi durmadan ölçtüğümde, hizmet ettiğim kişiden çok kendi manevi ilerlememi düşünüyorum. Kendi doğruluğumdan emin olmak da beni başkasına kapatabiliyor.”
+
+Zerdüşt bir yolcu, Katkı Ağının sıralama ekranına baktı.
+
+“Ben düşüncemin, sözümün ve eylemimin iyiliğe yönelmesini istiyorum,” dedi. “Doğruyu sırf sıralamada yükselmek için yaptığımda neyi seçmiş oluyorum?”
+
+“Peki kimse görmezse niye yapayım?”
+
+“İyi olanın kendisi sana hiçbir şey söylemiyor mu?”
+
+Sorusu canımı sıktı.
+
+Beni bencil bulduğunu düşündüm.
+
+Sonra yüzüne baktım. Ekranda kendi adını arıyordu.
+
+İkimiz de sustuk.
+
+## Kimin yolu daha yüksek?
+
+“Şimdi anladım,” dedim. “Bütün inançlar aynı şeyi—”
+
+Dilan elini kaldırdı.
+
+“Söyledikleri ayrımları yine sildin.”
+
+Haklıydı.
+
+Bütün inançları buraya toplamam mümkün değildi. Gelenlerin her biri de kendi geleneğinin tamamı değildi. Görmediğim yollar, duymadığım diller, aynı inancın içinde birbirine itiraz eden insanlar vardı.
+
+Yine de hepsinin adına bir sonuca varmak üzereydim.
+
+Kendime bir kez daha herkesten yukarıda durabileceğim bir yer bulmuştum.
+
+Bu kez o yerin adı, herkesi anlamaktı.
+
+“Benim bir dinî inancım yok,” dedi Dilan. “Sana bunu anlatırken dinini yenmek istemiyorum. Ama benim hakkımı koruman için seninle aynı yaratıcıya inanmam mı gerekiyor?”
+
+“Hayır.”
+
+“O zaman itirazımı okuyalım mı?”
+
+Elimdeki deftere baktım.
+
+Gizli iyiliklerimi, geri çevirdiğim övgüleri, kendimden vazgeçtiğimi sandığım anları saymıştım.
+
+“Başarırsam egoma kapılıyorum,” dedim. “Başarmayı istemezsem iş anlamsızlaşıyor. Egomdan arınmayı başarırsam bu kez onunla övünüyorum.”
+
+Yapraklar taşların üzerinde ince bir taç gibi yükseldi.
+
+“Bundan tamamen kurtulabilir miyim?”
+
+Kimse benim adıma son bir hüküm vermedi.
+
+Maran, tacın altından bir ekran açtı.
+
+Dilan’ın itirazı hâlâ bekliyordu.
 
 ## Kurucunun kaydı
 
@@ -248,7 +394,7 @@ Bir kaydı insanın değerine çevirmemek için her yeni kullanımda yeniden uğ
 
 ## Alkış sustuktan sonra
 
-Bir yıl sonra ağın ilk ortak değerlendirmesini yaptık.
+Ağın ortak değerlendirmesinde yeniden buluştuk.
 
 Çözülen ödeme anlaşmazlıkları vardı. Hâlâ uzlaşamadığımız başvurular da vardı. Bir kuruluşun kayıtları paylaşmayı kesmesi yüzünden bazı belgeleri yeniden toplamamız gerekmişti.
 
@@ -279,6 +425,12 @@ LIGHT’ta, imzalar, kanıtlar ve onları düzelten kararlar birbirine bağlanı
 DARK’ta, henüz kayda girmemiş emeklerin karanlığı uzanıyordu.
 
 Hiçbiri bana ruhumun puanını vermedi.
+
+Sofradaki insanları düşündüm. Dua edenleri, benlik anlayışı benimkinden ayrılanları, hiçbir dinî inanç taşımadan yanımda çalışan Dilan’ı.
+
+Onları anlayabilmek için önce hepsini kendime benzetmem gerekmiyordu.
+
+Benim yolumda dua vardı. Başkasının hakkı, benim yoluma katılmasına bağlı değildi.
 
 O gece sütunların arasında ellerimi açtım.
 

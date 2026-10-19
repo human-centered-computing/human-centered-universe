@@ -10,9 +10,13 @@ Dilan.
 
 We had worked at the same table for months. I had told everyone I was building a system that would make their work visible. Now it was showing work I had left out of my account.
 
+But what frightened me most was not that the record was wrong.
+
+I wanted to believe I was purified. It felt as though that record might correct this belief too.
+
 ## A result without its makers
 
-In 2049, saying who had done a piece of work was harder than explaining how it had been done.
+In a world where artificial intelligences transformed one another's outputs, it was becoming harder to say who had done a piece of work.
 
 Artificial intelligences built new solutions from the outputs of other artificial intelligences. A fault in health software was corrected. An educational tool reached thousands of children. A new transport model was developed for a city.
 
@@ -136,43 +140,185 @@ I closed the notebook.
 
 Even by erasing myself, I could build myself a monument.
 
-## Between the pillars
-
-A thin vibration appeared in the darkness of the screen.
+## When I erased my name
 
 FIRST VIBRATION.
 
-The lines of my worktable extended between stones. The twelve pillars of Girê Miraza, Xerawreşk—Göbekli Tepe—rose around me. Within the universe's quantum-AI interface, the past and a possible future occupied the same depth. Touching a record opened the traces of other hands connected to it in a three-dimensional web of light.
+The lines of my worktable extended between stones. The twelve pillars of Girê Miraza, Xerawreşk—Göbekli Tepe—rose around me. The quantum-AI interface's three-dimensional contribution network passed among them. Touching a record opened the traces of other hands.
 
-Maran stood beside me.
+But that night I was not looking for a technical answer.
 
-A woman said she dedicated the good she did to Allah.
+“I want to draw closer to the Creator,” I told Maran. “When I succeed, I draw closer to myself. When I give myself up, I no longer want to work.”
 
-“Have you freed yourself entirely from yourself?” I asked.
+Tables had been laid between the pillars. Nobody was seated according to a ranking of beliefs.
 
-“This morning I admired the sincerity of my own prayer.”
+A woman opened my notebook. She was Muslim; she placed her own notes on purifying her intention beside mine.
 
-A traveller nearby explained that they were not seeking a creator in the sense I meant; they examined how they clung to changing experiences as “mine.”
+“When I want others to watch my goodness, I worry about showing off,” she said. “When nobody watches, I can admire my goodness myself. I grew up with a language that calls this self-admiration ujb.”
 
-Someone else sought the true self behind their transient identity.
+“I experience that too.”
 
-I realised I was trying to fit them all into the same sentence.
+“Sometimes I think knowing about it puts me further along than you.”
 
-On my own path, I sought closeness to the Creator. Not everyone there was walking my path.
+She looked at her notes and crossed out a line.
 
-I placed my notebook in the centre of the stones.
+The Christian man beside her handed me a fallen pencil.
 
-“When I succeed, my ego takes hold. When I stop wanting success, what I do loses meaning. If I succeed in freeing myself from ego, I become proud of that instead.”
+“I try to learn humility through Jesus' service. But sometimes, even while looking at someone I love, I wonder how good a person they think I am.”
 
-The pages rose into a thin crown.
+“Then we should never think about ourselves.”
 
-“How do I get outside this?”
+“I am not learning to place myself outside God's love,” he said. “I am learning to accept that I am worthy of love while leaving room for somebody else.”
 
-Maran did not pick up the crown.
+I wanted to write my own name again in a blank space in the notebook. I did not write it yet.
 
-At that moment, a new record opened in the web of light.
+A Jewish woman turned over the contribution record placed before her.
 
-It was Dilan's objection.
+“I carry Hillel's question about responsibility towards myself and living only for myself,” she said. “If I surrender my rights entirely, how will I defend justice? But if I see nothing except my own rights, what will I become?”
+
+She pushed the paper towards me.
+
+“If there is work here that you really did, you do not have to erase your name.”
+
+## Achieving purification
+
+A Sikh traveller was handing out bread. When he offered my share, I asked his name.
+
+“I'll put it in the record.”
+
+“If you wish,” he said. “But first pass some to the person beside you.”
+
+I shared the bread in my hands.
+
+“I recognise haumai in my clinging to myself as the owner and centre of everything,” he said. “Through seva, I try to move away from that. Then I find myself wanting to be known as the person who serves the most.”
+
+He laughed. So did I.
+
+For a moment, I thought I belonged to a special community of people who could see their own contradictions.
+
+A deeper community than the others.
+
+Maran looked at me.
+
+My laughter stopped halfway.
+
+“But is this ‘I’ inside me real?” I asked.
+
+A Buddhist traveller pointed to my name in the notebook.
+
+“My teaching questions the search for an unchanging, independent owner behind a changing body and changing experiences. Whenever you see this name, what do you attach to it?”
+
+“My achievements. My failures. My worth.”
+
+“When somebody corrects the record, which of those do you feel you are losing?”
+
+Before I could answer, the Hindu woman beside the traveller spoke.
+
+“On the path I follow, transient identity and the true self are not the same. I cannot translate what was just said into my own faith and listen as though we mean the same thing.”
+
+I turned to her.
+
+“How do you work?”
+
+“From the Gita I try to learn care in action without claiming its outcome entirely for myself. But there are days when I dream of the applause that outcome will bring. Nor do all Hindu paths speak in my words.”
+
+A Jain man raised his head.
+
+“My path affirms the reality of the soul. I work with the ways pride and possessiveness bind it. When I make purification a competition that wounds other people, my own behaviour breaks the nonviolence I defend.”
+
+I looked at the three of them.
+
+Examining the self, seeking the self more deeply, purifying the soul of its passions…
+
+I wanted to turn these into one answer. An answer I could carry in my pocket.
+
+They could remain at the same table without agreeing with one another.
+
+Why was I in such a hurry?
+
+## Every path turning back towards me
+
+At the other end of the table, a man quietly put his chair away after finishing his work.
+
+He said he came from a Daoist tradition. He tried to complete his work without clinging to its success.
+
+“If I want nothing, I will do nothing,” I said.
+
+“I did not sit here waiting for everything to happen by itself,” he replied. “I helped set the table. But must I now believe it will fall apart unless I keep controlling the whole meal?”
+
+I tried to arrange my chair according to his. He laughed.
+
+Nearby, a woman cultivating herself through Confucius' teaching was listening to a young participant. After the young man left, I asked:
+
+“Isn't improving yourself another race to become a better person?”
+
+“I sometimes make it one,” she said. “But the test I faced here today was whether I actually listened to him. Maintaining my dignity does not require me always to appear superior.”
+
+A woman from a Shinto tradition asked me to help clear the table. She described extending gratitude to the kami, to the place she came from and to the relationships that made her life possible.
+
+“Are you trying to destroy the ego too?”
+
+“Do not assume that when you say purification, I mean exactly what you mean,” she said. “Sometimes my question is how to enter respectfully into relationships again, instead of living as though I made everything myself.”
+
+The Bahá'í woman beside her placed a chair in the cleared space.
+
+“I want to change through service,” she said. “But when I constantly measure myself, I think more about my own spiritual progress than the person I serve. Certainty about my own righteousness can close me to others too.”
+
+A Zoroastrian traveller looked at the Contribution Network's ranking screen.
+
+“I want my thoughts, words and actions to turn towards the good,” he said. “When I do what is right only to rise in the ranking, what am I choosing?”
+
+“But if nobody sees, why should I do it?”
+
+“Does the good itself say nothing to you?”
+
+His question annoyed me.
+
+I thought he considered me selfish.
+
+Then I looked at his face. He was searching the screen for his own name.
+
+We both fell silent.
+
+## Whose path is higher?
+
+“Now I understand,” I said. “All beliefs say the same—”
+
+Dilan raised her hand.
+
+“You've erased the distinctions they just made again.”
+
+She was right.
+
+I could not gather every belief here. Nor was any person present the entirety of their tradition. There were paths I had not seen, languages I had not heard, people within the same faith who disagreed.
+
+Yet I was about to reach a conclusion on behalf of them all.
+
+Once again, I had found somewhere to stand above everyone.
+
+This time, that place was called understanding everybody.
+
+“I don't have a religious belief,” Dilan said. “I am not telling you that to defeat your religion. But must I believe in the same creator as you for you to protect my rights?”
+
+“No.”
+
+“Then shall we read my objection?”
+
+I looked at the notebook in my hands.
+
+I had counted my secret good deeds, the praise I had declined, the moments when I thought I had given myself up.
+
+“When I succeed, my ego takes hold,” I said. “When I stop wanting success, the work becomes meaningless. If I succeed in purifying myself of ego, I take pride in that instead.”
+
+The pages rose into a thin crown above the stones.
+
+“Can I be entirely free of this?”
+
+Nobody pronounced a final judgment on my behalf.
+
+Maran opened a screen beneath the crown.
+
+Dilan's objection was still waiting.
 
 ## The founder's record
 
@@ -248,7 +394,7 @@ With every new use, we had to work again to stop a record from becoming a measur
 
 ## After the applause
 
-A year later, we held the network's first joint assessment.
+We met again for the network's joint assessment.
 
 There were payment disputes we had resolved. There were applications on which we still could not agree. After one organisation stopped sharing records, we had needed to collect some documents again.
 
@@ -279,6 +425,12 @@ In LIGHT, signatures, evidence and corrective decisions linked together.
 In DARK, the darkness of work that had not yet entered any record stretched away.
 
 None of them gave my soul a score.
+
+I thought of the people at the table. Those who prayed, those whose understanding of self differed from mine, and Dilan, who worked beside me without religious belief.
+
+Understanding them did not require me first to make them resemble me.
+
+Prayer belonged to my path. Another person's rights did not depend on their joining it.
 
 That night, between the pillars, I opened my hands.
 
