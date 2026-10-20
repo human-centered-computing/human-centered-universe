@@ -130,5 +130,8 @@
   "import_success": "Yolculuk bu cihaza aktarıldı.",
   "import_invalid": "Bu dosya geçerli bir HCU yolculuğu değil.",
   "import_too_large": "Yolculuk dosyası en fazla 1 MB olabilir.",
-  "import_replace_warning": "Onayladığınızda bu cihazdaki mevcut yolculuk verileri değiştirilir."
+  "import_replace_warning": "Onayladığınızda bu cihazdaki mevcut yolculuk verileri değiştirilir.",
+  "story_projects_heading": "İlgili Bilişim Projeleri",
+  "story_projects_description": "Bu hikâyeyle bağlantılı açık kaynak bilişim çalışmalarını inceleyin.",
+  "open_github_project": "GitHub'da Aç"
 }

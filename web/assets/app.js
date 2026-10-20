@@ -283,6 +283,7 @@ function renderRead(){
   const seriesTitle=storySeriesTitle(story);
   const readingContent=content.replace(/^#\s+[^\n]+\n*/,"");
   const renderedContent=markdownToHtml(readingContent);
+  const storyProjectsPanel=window.HCUStoryProjects?.renderStoryProjects(story,state.locale,t,escapeHtml)||"";
   const authorLabel=({tr:"Yazar",en:"Author",de:"Autor",es:"Autor",fr:"Auteur",it:"Autore",ru:"Автор","zh-CN":"作者",ja:"著者",ar:"المؤلف",ku:"Nivîskar",pt:"Autor"})[state.locale]||"Author";
   const authorLinks=storyAuthors(story).map(author=>{
     const displayName=escapeHtml(String(author.name));
@@ -330,6 +331,7 @@ function renderRead(){
       ${story.id==="HUM-0008"?choicePanel:""}
       <div class="story-content">${renderedContent}</div>
       ${["BRG-0002","HUM-0008"].includes(story.id)?"":choicePanel}
+      ${storyProjectsPanel}
       <div class="reader-toolbar"><button class="action-button" id="back-path" ${!backId?"disabled":""}>← ${t("back_in_path","Back in my path")}</button><button class="action-button" id="mark-read">${state.readIds.has(story.id)?t("read_again","Read again"):t("mark_read","Mark as read")}</button><button class="action-button primary" id="open-explore">${t("other_possibilities","Explore other possibilities")}</button></div>
       ${recommendation}
     </article>

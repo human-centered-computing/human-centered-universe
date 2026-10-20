@@ -29,3 +29,25 @@ English is the canonical and default language. The reader lists every language f
 ## Publishing
 
 `.github/workflows/deploy-pages.yml` validates the universe, builds `site/data/universe.json`, copies the `web/` application, and deploys the static site to GitHub Pages.
+
+## Story ↔ GitHub software projects
+
+Story metadata can link to zero, one, or multiple GitHub repositories. The source of truth remains stories/**/<STORY-ID>/meta.json, automatically included by scripts/build_reader.py in site/data/universe.json.
+
+Example projects field in a story metadata record:
+
+    "projects": [
+      {
+        "name": "Human-Centered Universe — Interactive Reader",
+        "github_url": "https://github.com/human-centered-computing/human-centered-universe",
+        "description": { "tr": "Hikâyeyle bağlantılı yazılım.", "en": "Software connected to the story." }
+      }
+    ]
+
+- Missing projects or an empty array: no project section is displayed.
+- name: required non-empty text; github_url: required HTTPS GitHub repository root (owner/repo).
+- description: optional string or language-to-text map; falls back to English, then Turkish.
+- The reader shows project cards after the story narrative and observer choices, immediately before the reader toolbar. Clicking opens GitHub in a new tab.
+- Private repositories remain subject to GitHub permissions. Do not assign a repository URL before it exists.
+- The story-to-story links field remains independent from the external projects field.
+- Run python scripts/validate_universe.py and node scripts/test_story_projects.cjs. Both run in CI.

@@ -1,5 +1,5 @@
 from pathlib import Path
-import json, sys, math
+import json, sys, math, re
 
 ROOT = Path(__file__).resolve().parents[1]
 STORIES = ROOT / "stories"
@@ -8,6 +8,7 @@ LANGUAGE_POLICY_PATH = ROOT / "config" / "language-policy.json"
 CENTERS = {"HUMAN", "LIGHT", "DARK"}
 VALID_STATUS = {"core", "canon", "experimental", "fork"}
 VALID_TRANSLATION_STATUS = {"canonical", "reviewed", "community", "machine_draft"}
+GITHUB_REPO_PATTERN = re.compile(r"^https://github\.com/([A-Za-z0-9](?:[A-Za-z0-9-]{0,38}))/([A-Za-z0-9._-]+)/?$")
 VALID_LINKS = {"quantum_echo", "echo", "contrast", "cause", "memory", "future", "character", "place", "artifact", "theme", "transformation", "parallel"}
 ORIGIN = "BRG-0002"
 
@@ -66,6 +67,40 @@ def valid_reality_weaving(value, where):
             if not isinstance(source, dict) or not source.get("title") or not source.get("uri"):
                 errors.append(f"{where}: reality_weaving provenance {i+1} requires title/uri")
 
+def validate_story_projects(value, where):
+    if value is None:
+        return
+    if not isinstance(value, list):
+        errors.append(f"{where}: projects must be an array")
+        return
+    seen = set()
+    for index, project in enumerate(value, start=1):
+        label = f"{where}: project {index}"
+        if not isinstance(project, dict):
+            errors.append(f"{label} must be an object")
+            continue
+        name = project.get("name")
+        url = project.get("github_url")
+        if not isinstance(name, str) or not name.strip():
+            errors.append(f"{label} requires a non-empty name")
+        match = GITHUB_REPO_PATTERN.fullmatch(url) if isinstance(url, str) else None
+        if not match or match.group(1).endswith("-") or match.group(2) in {".", ".."}:
+            errors.append(f"{label} requires a GitHub HTTPS repository URL (owner/repo)")
+        elif url.rstrip("/").lower() in seen:
+            errors.append(f"{label} duplicates an existing GitHub repository")
+        else:
+            seen.add(url.rstrip("/").lower())
+        description = project.get("description")
+        if description is not None:
+            if isinstance(description, str):
+                if not description.strip():
+                    errors.append(f"{label}: description must not be empty")
+            elif isinstance(description, dict):
+                if not description or any(not isinstance(k, str) or not k or not isinstance(v, str) or not v.strip() for k, v in description.items()):
+                    errors.append(f"{label}: description translations must be non-empty strings")
+            else:
+                errors.append(f"{label}: description must be text or a language map")
+
 for mp in STORIES.rglob("meta.json"):
     try:
         d = json.loads(mp.read_text(encoding="utf-8"))
@@ -88,6 +123,7 @@ for mp in STORIES.rglob("meta.json"):
         errors.append(f"{mp}: invalid status")
 
     valid_reality_weaving(d.get("reality_weaving"), str(mp))
+    validate_story_projects(d.get("projects"), str(mp))
 
     content_dir = mp.parent / "content"
     source_only = d.get("translation_policy") == "source_only_until_reviewed"

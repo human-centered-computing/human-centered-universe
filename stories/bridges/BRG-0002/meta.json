@@ -89,6 +89,16 @@
       "en": "A symbolic cosmic double spiral of golden light rising among the ancient pillars of Göbekli Tepe, with no human figures."
     }
   },
+  "projects": [
+    {
+      "name": "Human-Centered Universe — Interactive Reader",
+      "github_url": "https://github.com/human-centered-computing/human-centered-universe",
+      "description": {
+        "tr": "İlk Titreşim'in etkileşimli okuma, gözlemci kararları ve 3B sahnesini içeren açık kaynak yazılım.",
+        "en": "Open-source reader with observer choices and a 3D scene for First Vibration."
+      }
+    }
+  ],
   "links": [
     {
       "target": "LGT-0001",
