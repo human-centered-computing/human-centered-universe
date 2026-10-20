@@ -130,5 +130,8 @@
   "import_success": "この端末に旅をインポートしました。",
   "import_invalid": "このファイルは有効な HCU の旅ではありません。",
   "import_too_large": "旅のファイルは 1 MB 以下にしてください。",
-  "import_replace_warning": "確定すると、この端末にある現在の旅のデータが置き換えられます。"
+  "import_replace_warning": "確定すると、この端末にある現在の旅のデータが置き換えられます。",
+  "story_projects_heading": "関連ソフトウェアプロジェクト",
+  "story_projects_description": "この物語に関連するオープンソースソフトウェアをご覧ください。",
+  "open_github_project": "GitHubで開く"
 }

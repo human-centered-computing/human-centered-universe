@@ -130,5 +130,8 @@
   "import_success": "El recorrido se importó en este dispositivo.",
   "import_invalid": "Este archivo no es un recorrido HCU válido.",
   "import_too_large": "El archivo del recorrido debe ocupar 1 MB o menos.",
-  "import_replace_warning": "Al confirmar, se sustituyen los datos del recorrido actual en este dispositivo."
+  "import_replace_warning": "Al confirmar, se sustituyen los datos del recorrido actual en este dispositivo.",
+  "story_projects_heading": "Proyectos de software relacionados",
+  "story_projects_description": "Explora el software de código abierto vinculado a esta historia.",
+  "open_github_project": "Abrir en GitHub"
 }

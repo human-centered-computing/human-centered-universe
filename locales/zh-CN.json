@@ -130,5 +130,8 @@
   "import_success": "旅程已导入此设备。",
   "import_invalid": "此文件不是有效的 HCU 旅程。",
   "import_too_large": "旅程文件不得超过 1 MB。",
-  "import_replace_warning": "确认后将替换此设备上当前的旅程数据。"
+  "import_replace_warning": "确认后将替换此设备上当前的旅程数据。",
+  "story_projects_heading": "相关软件项目",
+  "story_projects_description": "探索与这个故事相关的开源软件。",
+  "open_github_project": "在 GitHub 上打开"
 }

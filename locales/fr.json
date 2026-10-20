@@ -130,5 +130,8 @@
   "import_success": "Le parcours a été importé sur cet appareil.",
   "import_invalid": "Ce fichier n’est pas un parcours HCU valide.",
   "import_too_large": "Le fichier du parcours doit faire 1 Mo ou moins.",
-  "import_replace_warning": "La confirmation remplace les données du parcours actuel sur cet appareil."
+  "import_replace_warning": "La confirmation remplace les données du parcours actuel sur cet appareil.",
+  "story_projects_heading": "Projets logiciels associés",
+  "story_projects_description": "Découvrez les logiciels open source liés à cette histoire.",
+  "open_github_project": "Ouvrir sur GitHub"
 }

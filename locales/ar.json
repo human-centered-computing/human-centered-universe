@@ -130,5 +130,8 @@
   "import_success": "تم استيراد الرحلة على هذا الجهاز.",
   "import_invalid": "هذا الملف ليس رحلة HCU صالحة.",
   "import_too_large": "يجب ألا يزيد حجم ملف الرحلة على 1 ميغابايت.",
-  "import_replace_warning": "يؤدي التأكيد إلى استبدال بيانات الرحلة الحالية على هذا الجهاز."
+  "import_replace_warning": "يؤدي التأكيد إلى استبدال بيانات الرحلة الحالية على هذا الجهاز.",
+  "story_projects_heading": "مشاريع برمجية ذات صلة",
+  "story_projects_description": "استكشف البرمجيات مفتوحة المصدر المرتبطة بهذه القصة.",
+  "open_github_project": "فتح على GitHub"
 }

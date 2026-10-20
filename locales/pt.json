@@ -130,5 +130,8 @@
   "import_success": "O percurso foi importado neste dispositivo.",
   "import_invalid": "Este arquivo não é um percurso HCU válido.",
   "import_too_large": "O arquivo do percurso deve ter no máximo 1 MB.",
-  "import_replace_warning": "A confirmação substitui os dados do percurso atual neste dispositivo."
+  "import_replace_warning": "A confirmação substitui os dados do percurso atual neste dispositivo.",
+  "story_projects_heading": "Projetos de software relacionados",
+  "story_projects_description": "Explore o software de código aberto associado a esta história.",
+  "open_github_project": "Abrir no GitHub"
 }

@@ -130,5 +130,8 @@
   "import_success": "Rêwîtî li ser vê amûrê hate têxistin.",
   "import_invalid": "Ev pel rêwîtiyek HCU-ya derbasdar nîne.",
   "import_too_large": "Pelê rêwîtiyê divê 1 MB an kêmtir be.",
-  "import_replace_warning": "Piştrastkirin daneyên rêwîtiya heyî li ser vê amûrê diguherîne."
+  "import_replace_warning": "Piştrastkirin daneyên rêwîtiya heyî li ser vê amûrê diguherîne.",
+  "story_projects_heading": "Projeyên nermalavê yên têkildar",
+  "story_projects_description": "Nermalavên çavkaniya vekirî yên girêdayî vê çîrokê bibîne.",
+  "open_github_project": "Li GitHubê veke"
 }
