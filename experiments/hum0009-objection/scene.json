@@ -1,0 +1,72 @@
+{
+  "schema": "hcu-objection-scene.v1",
+  "status": "experimental",
+  "story_id": "HUM-0009",
+  "source_revision": 4,
+  "entry_anchor": "Kurucunun kaydı",
+  "title": {
+    "tr": "İtirazı açıyorum",
+    "en": "I open the objection"
+  },
+  "opening": {
+    "tr": "FIRST VIBRATION taşların arasından geçiyor. Girê Miraza, Xerawreşk’in on iki sütunu önünde ışıklı katkı ağını açıyorum. Sofrada farklı benlik anlayışlarını dinledim. Şimdi benim kaydıma bakacağım. Kalbim hızlanıyor: emeğim mi sorgulanıyor, iyi biri olduğuma dair inancım mı?",
+    "en": "FIRST VIBRATION passes between the stones. Before the twelve pillars of Girê Miraza, Xerawreşk, I open the luminous contribution network. At the table I heard different understandings of self. Now I will examine my own record. My heart quickens: is my work being questioned, or my belief that I am good?"
+  },
+  "evidence": [
+    {
+      "id": "claim",
+      "title": {
+        "tr": "Benim kaydım",
+        "en": "My record"
+      },
+      "text": {
+        "tr": "Tanıtım kaydını açıyorum: katkı başvurusunu değiştiren yöntemin bana ait olduğu yazıyor. Tasarım ve uygulama emeğim var. Ama yöntem fikrinin tamamının bana ait olduğu iddiası ayrıca incelenmeli.",
+        "en": "I open the introduction record: it credits the changed contribution-submission method to me. I contributed design and implementation. The claim that the entire method originated with me needs separate review."
+      }
+    },
+    {
+      "id": "objection",
+      "title": {
+        "tr": "Dilan’ın itirazı",
+        "en": "Dilan's objection"
+      },
+      "text": {
+        "tr": "Toplantı notlarını açıyorum. Dilan, kod yazmadan yapılan katkıların da başvurulabilmesini önermiş. Bu not itirazını destekliyor; kendi katkımı silmemi gerektirmiyor. Kararı tek başıma vermem için de yeterli değil.",
+        "en": "I open the meeting notes. Dilan proposed allowing contributions made without writing code to be submitted. This note supports her objection; it does not require erasing my work. Nor does it entitle me to decide the case alone."
+      }
+    }
+  ],
+  "confirmation": {
+    "tr": "Yaklaşımımı seçtim. İtirazın sonucu henüz karara bağlanmadı. Kendimi arınmış ilan etmiyorum.",
+    "en": "I have chosen an approach. The objection has not yet been decided. I do not declare myself purified."
+  },
+  "choice_source": "stories/human/HUM-0009/meta.json#observer_choices",
+  "spatial_brief": {
+    "reuse": "web/assets/images/stories/HUM-0009/03-contribution-network.svg",
+    "pillars": 12,
+    "shots": [
+      "Sabit göz hizası; ellerim ve itiraz kaydı aynı çerçevede.",
+      "Kayda yaklaştığımda bağlantılar açılır; sütunlar ve insanlar inançlarına göre merkezlere bölünmez.",
+      "Seçim önizlemesinde yalnız üç merkez profili değişir; taç zafer simgesine dönüşmez."
+    ],
+    "accessibility": [
+      "Metin arayüzü tüm kararları tek başına sunar.",
+      "Hareket azaltma tercihi ve WebGL yokluğu bilgi veya seçim kaybettirmez."
+    ]
+  },
+  "epistemic_layers": {
+    "established_science": "No claim of permanent ego elimination or a universal psychological law.",
+    "real_engineering": "Use the repository's existing normalization engine and stable choice keys; this package changes only transient sandbox state.",
+    "interpretation": "The narrator experiences criticism as a threat to self-image; this need not describe every person.",
+    "philosophy": "Success and pride in purification can recur; rights need not wait for pure motives.",
+    "belief_cultural_meaning": "Continue revision 4's distinct faith-inspired and nonreligious voices; no belief, soul or degree of purification is scored.",
+    "science_fiction": "Maran, FIRST VIBRATION and the quantum-AI spatial network are fictional, not verified quantum accounts of consciousness."
+  },
+  "editorial_status": {
+    "status": "ai_draft",
+    "human_reviewed": false,
+    "source_language": "tr",
+    "translation": "English AI translation from Turkish; review pending"
+  },
+  "license": "CC-BY-SA-4.0"
+}
