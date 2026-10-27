@@ -28,6 +28,11 @@
     "tr": {
       "status": "reviewed",
       "human_reviewed": true
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "en"
     }
   },
   "hero_image": {
@@ -108,6 +113,9 @@
     "tr": {
       "title": "Bilişsel Uzantı: Bunu Nereden Biliyoruz?",
       "summary": "Açıklanamayan ama doğru çıkan bir yapay zekâ uyarısı, Maran'ı bilişsel uzantıyı ortak, duyu organı ve sıradan araçtan ayırmaya zorlar."
+    },
+    "de": {
+      "title": "Kognitive Erweiterung: Woher wissen wir das?"
     }
   },
   "primary_center": "HUMAN",

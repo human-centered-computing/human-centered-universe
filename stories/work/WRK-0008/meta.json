@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [
@@ -59,6 +64,9 @@
       "title": "Idea",
       "summary": "A standalone memory of work, institutional power, and idea.",
       "subtitle": "Taking a worker’s idea also takes away their labor and a part of who they are."
+    },
+    "de": {
+      "title": "Idee"
     }
   },
   "hero_image": {

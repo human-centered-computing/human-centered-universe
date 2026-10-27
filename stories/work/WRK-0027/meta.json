@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [
@@ -59,6 +64,9 @@
       "title": "Outside",
       "summary": "A standalone memory of work, institutional power, and outside.",
       "subtitle": "Leaving the institution can let a worker think beyond its rules and rebuild a sense of self."
+    },
+    "de": {
+      "title": "Draußen"
     }
   },
   "hero_image": {

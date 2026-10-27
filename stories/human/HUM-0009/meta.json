@@ -34,6 +34,11 @@
       "source_language": "tr",
       "method": "AI translation from the Turkish original; human review pending",
       "revision": 4
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "editorial_status": {
@@ -86,6 +91,9 @@
     "en": {
       "title": "After the Applause",
       "summary": "I built a network to make labour visible, then admired both my success and my efforts to become purified. At a shared table with people of different beliefs, I questioned selfhood, pride and service while an objection to my own record still waited."
+    },
+    "de": {
+      "title": "Nachdem der Applaus aufgehört hat"
     }
   },
   "primary_center": "HUMAN",

@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [],
@@ -51,6 +56,9 @@
       "title": "The Last Task",
       "summary": "A standalone memory of work, institutional power, and the last task.",
       "subtitle": "Finishing a task does not erase the worker’s contribution."
+    },
+    "de": {
+      "title": "Letzter Job"
     }
   },
   "hero_image": {
