@@ -644,6 +644,6 @@ Ich sagte.
 
 Ich ließ die Tür etwas länger offen.
 
-"Sensor."
+„Frag du.“
 
 Und ich ging.
