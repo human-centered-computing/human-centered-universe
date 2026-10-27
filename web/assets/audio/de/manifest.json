@@ -140,6 +140,15 @@
       "bytes": 718516,
       "engine": "Piper",
       "voice": "de_DE-thorsten-medium"
+    },
+    {
+      "id": "BRG-0024",
+      "title": "The Meeting",
+      "file": "./BRG-0024.mp3",
+      "duration_seconds": 51.174,
+      "bytes": 614445,
+      "engine": "Piper",
+      "voice": "de_DE-thorsten-medium"
     }
   ]
 }
