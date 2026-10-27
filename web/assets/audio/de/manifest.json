@@ -131,6 +131,15 @@
       "bytes": 664286,
       "engine": "Piper",
       "voice": "de_DE-thorsten-medium"
+    },
+    {
+      "id": "BRG-0023",
+      "title": "The Form",
+      "file": "./BRG-0023.mp3",
+      "duration_seconds": 59.847,
+      "bytes": 718516,
+      "engine": "Piper",
+      "voice": "de_DE-thorsten-medium"
     }
   ]
 }
