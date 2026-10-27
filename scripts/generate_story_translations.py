@@ -156,15 +156,20 @@ def translate_google(source: str, target_title: str, source_code: str = "tr", ta
         group = []
         while index < len(blocks) and blocks[index] not in {"***", "---"}:
             candidate = blocks[index]
-            if group and len("\n\n".join(group)) + len(candidate) > 900:
+            if group and len("\n\n".join(group)) + len(candidate) > 1800:
                 break
             group.append(candidate); index += 1
-        joined = "\n\n".join(group)
+        marker = "ZZZHCUBREAKZZZ"
+        joined = ("\n\n" + marker + "\n\n").join(group)
         output = request(joined)
-        split = re.split(r"\n\s*\n", output)
+        split = re.split(r"\s*" + marker + r"\s*", output)
         if len(split) != len(group):
-            split = [request(part) for part in group]
-        translated.extend(part.strip() for part in split)
+            split = re.split(r"\n\s*\n", output)
+        if len(split) != len(group):
+            # Keep the translated prose intact without making hundreds of duplicate requests.
+            translated.append(output.replace(marker, "\n\n").strip())
+        else:
+            translated.extend(part.strip() for part in split)
     result = "# " + target_title + "\n\n" + "\n\n".join(translated).strip() + "\n"
     if len(result.split()) < len(source.split()) * .45:
         raise RuntimeError("English output is unexpectedly short; refusing partial translation")
