@@ -42,6 +42,7 @@ jobs:
           FORCE=""
           if [ "${{ inputs.force }}" = "true" ]; then FORCE="--force"; fi
           LANGS="${{ inputs.languages }}"
+          if [ "${{ github.event_name }}" = "push" ]; then LANGS="de"; fi
           if [ -z "$LANGS" ]; then LANGS="en"; fi
           python scripts/generate_story_translations.py --langs "$LANGS" --provider google $FORCE
 
