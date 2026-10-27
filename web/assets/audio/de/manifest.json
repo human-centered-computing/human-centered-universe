@@ -122,6 +122,15 @@
       "bytes": 9029844,
       "engine": "Piper",
       "voice": "de_DE-thorsten-medium"
+    },
+    {
+      "id": "BRG-0022",
+      "title": "The Chair",
+      "file": "./BRG-0022.mp3",
+      "duration_seconds": 55.327,
+      "bytes": 664286,
+      "engine": "Piper",
+      "voice": "de_DE-thorsten-medium"
     }
   ]
 }
