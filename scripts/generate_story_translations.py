@@ -115,14 +115,14 @@ def translate_argos(source: str, english_title: str, engine) -> str:
     return result
 
 
-def translate_google(source: str, english_title: str) -> str:
-    """Translate public Turkish prose in small requests; retain Markdown blocks."""
+def translate_google(source: str, target_title: str, source_code: str = "tr", target_code: str = "en") -> str:
+    """Translate public prose in small requests; retain Markdown blocks."""
     cache = {}
 
     def request(chunk: str) -> str:
         if chunk in cache:
             return cache[chunk]
-        params = urllib.parse.urlencode({"client": "gtx", "sl": "tr", "tl": "en",
+        params = urllib.parse.urlencode({"client": "gtx", "sl": source_code, "tl": target_code,
                                          "dt": "t", "q": chunk})
         req = urllib.request.Request(
             "https://translate.googleapis.com/translate_a/single?" + params,
@@ -143,6 +143,9 @@ def translate_google(source: str, english_title: str) -> str:
                 time.sleep(2 ** attempt)
         raise AssertionError("unreachable")
 
+    if not target_title:
+        heading = re.search(r"^#\s+([^\n]+)", source)
+        target_title = request(heading.group(1)) if heading else "Untitled"
     body = re.sub(r"^#\s+[^\n]+\n*", "", source).strip()
     blocks = [block.strip() for block in re.split(r"\n\s*\n", body) if block.strip()]
     translated = []
@@ -162,7 +165,7 @@ def translate_google(source: str, english_title: str) -> str:
         if len(split) != len(group):
             split = [request(part) for part in group]
         translated.extend(part.strip() for part in split)
-    result = "# " + english_title + "\n\n" + "\n\n".join(translated).strip() + "\n"
+    result = "# " + target_title + "\n\n" + "\n\n".join(translated).strip() + "\n"
     if len(result.split()) < len(source.split()) * .45:
         raise RuntimeError("English output is unexpectedly short; refusing partial translation")
     return result
@@ -193,8 +196,10 @@ def main():
     unknown = [x for x in targets if x not in info]
     if unknown:
         raise SystemExit(f"Unsupported language code(s): {', '.join(unknown)}")
-    if provider in {"argos", "google"} and targets != ["en"]:
-        raise SystemExit("This provider currently supports only tr→en WORK translations")
+    if provider == "argos" and targets != ["en"]:
+        raise SystemExit("Argos currently supports only tr→en WORK translations")
+    if provider == "google" and any(code not in {"en", "de"} for code in targets):
+        raise SystemExit("Google provider in this script supports tr→en and en/tr→de")
     engine = install_argos_turkish_english() if provider == "argos" else None
     processed = 0
     for mp in sorted(STORIES.rglob("meta.json")):
@@ -209,7 +214,9 @@ def main():
                     continue
                 source_code, source_name = "tr", "Turkish"
             else:
-                source_code, source_name = "en", "English"
+                # Respect Turkish-original stories rather than translating an unreviewed English draft.
+                source_code = "tr" if lang == "de" and meta.get("source_language") == "tr" else "en"
+                source_name = LANGUAGE_NAMES[source_code]
             source_path = mp.parent / "content" / f"{source_code}.md"
             if not source_path.exists():
                 print(f"SKIP {sid}/{lang}: missing {source_path.name}")
@@ -229,12 +236,15 @@ def main():
                 english_title = meta.get("localized", {}).get("en", {}).get("title", meta["title"])
                 translated = translate_argos(source, english_title, engine)
             elif provider == "google":
-                english_title = meta.get("localized", {}).get("en", {}).get("title", meta["title"])
-                translated = translate_google(source, english_title)
+                target_title = (meta.get("localized", {}).get("en", {}).get("title", meta["title"])
+                                if lang == "en" else meta.get("localized", {}).get(lang, {}).get("title", ""))
+                translated = translate_google(source, target_title, source_code, lang)
             else:
                 translated = call_chat(api_base, api_key, model, label, lang,
                                        source_name, source_code, source)
             target_path.write_text(translated, encoding="utf-8")
+            if lang == "de":
+                meta.setdefault("localized", {}).setdefault("de", {})["title"] = translated.splitlines()[0][2:].strip()
             translations[lang] = {"status": "machine_draft", "human_reviewed": False,
                                   "source_language": source_code}
             mp.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
