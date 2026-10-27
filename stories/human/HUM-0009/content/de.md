@@ -6,7 +6,7 @@ Ich war glücklich vor dem Bildschirm.
 
 Dann habe ich gesehen, wer Einspruch erhoben hat.
 
-Dylan.
+Dilan.
 
 Wir hatten monatelang am selben Schreibtisch gearbeitet. Ich erklärte, dass ich ein System etabliert habe, das die Bemühungen aller sichtbar machen würde. Nun führte das System eine Anstrengung durch, die ich nicht erklärt habe.
 
