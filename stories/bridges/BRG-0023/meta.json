@@ -24,6 +24,11 @@
     "tr": {
       "status": "reviewed",
       "human_reviewed": true
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "en"
     }
   },
   "links": [
@@ -68,5 +73,10 @@
         "DARK": 6
       }
     }
-  ]
+  ],
+  "localized": {
+    "de": {
+      "title": "Das Formular"
+    }
+  }
 }

@@ -29,6 +29,11 @@
     "tr": {
       "status": "reviewed",
       "human_reviewed": true
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "en"
     }
   },
   "links": [
@@ -61,6 +66,9 @@
     "tr": {
       "title": "İnsan Kalmayı Öğrenmek",
       "summary": "Lina'nın sorusu, insanı süreçte tutmak ile insanı etkin bir özne olarak korumak arasındaki farkı görünür hâle getirir."
+    },
+    "de": {
+      "title": "Lernen, menschlich zu bleiben"
     }
   },
   "primary_center": "HUMAN",

@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [],
@@ -51,6 +56,9 @@
       "title": "The Waiting One",
       "summary": "A standalone memory of work, institutional power, and the waiting one.",
       "subtitle": "A worker kept waiting loses more than time; they lose pieces of their life."
+    },
+    "de": {
+      "title": "Warten"
     }
   },
   "hero_image": {

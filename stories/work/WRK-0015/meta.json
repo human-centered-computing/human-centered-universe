@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [
@@ -59,6 +64,9 @@
       "title": "Punishment",
       "summary": "A standalone memory of work, institutional power, and punishment.",
       "subtitle": "Assigning empty tasks turns work hours into psychological punishment."
+    },
+    "de": {
+      "title": "Bestrafung"
     }
   },
   "hero_image": {

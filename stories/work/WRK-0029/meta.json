@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [
@@ -59,6 +64,9 @@
       "title": "Without a Name",
       "summary": "A standalone memory of work, institutional power, and without a name.",
       "subtitle": "Nameless labor can appear to be someone else’s success; visibility begins the work of justice."
+    },
+    "de": {
+      "title": "Ohne Namen"
     }
   },
   "hero_image": {

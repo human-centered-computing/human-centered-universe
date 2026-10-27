@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [],
@@ -51,6 +56,9 @@
       "title": "Place",
       "summary": "A standalone memory of work, institutional power, and place.",
       "subtitle": "Having a desk does not mean truly belonging or being valued there."
+    },
+    "de": {
+      "title": "Ort"
     }
   },
   "hero_image": {

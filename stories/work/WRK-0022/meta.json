@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [
@@ -59,6 +64,9 @@
       "title": "In Place Of",
       "summary": "A standalone memory of work, institutional power, and in place of.",
       "subtitle": "Treating people as interchangeable denies the personal value of their work."
+    },
+    "de": {
+      "title": "An seiner Stelle"
     }
   },
   "hero_image": {

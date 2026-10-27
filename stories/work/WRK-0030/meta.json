@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [
@@ -65,6 +70,9 @@
       "title": "Visible",
       "summary": "A standalone memory of work, institutional power, and visible.",
       "subtitle": "A fair workplace makes the purpose, contribution and result of work visible."
+    },
+    "de": {
+      "title": "Sichtbar"
     }
   },
   "hero_image": {

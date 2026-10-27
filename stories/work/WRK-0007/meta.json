@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [],
@@ -51,6 +56,9 @@
       "title": "Wall",
       "summary": "A standalone memory of work, institutional power, and wall.",
       "subtitle": "Invisible boundaries within an institution keep people from one another and from solutions."
+    },
+    "de": {
+      "title": "Wand"
     }
   },
   "hero_image": {
