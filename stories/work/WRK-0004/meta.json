@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [],
@@ -51,6 +56,9 @@
       "title": "Paper",
       "summary": "A standalone memory of work, institutional power, and paper.",
       "subtitle": "As paperwork grows, the person and their real need can disappear from view."
+    },
+    "de": {
+      "title": "Papier"
     }
   },
   "hero_image": {

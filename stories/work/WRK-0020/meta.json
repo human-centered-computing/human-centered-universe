@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [],
@@ -51,6 +56,9 @@
       "title": "Error",
       "summary": "A standalone memory of work, institutional power, and error.",
       "subtitle": "An error grows when hidden and becomes a chance to learn when discussed openly."
+    },
+    "de": {
+      "title": "Fehler"
     }
   },
   "hero_image": {

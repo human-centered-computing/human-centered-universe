@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [
@@ -59,6 +64,9 @@
       "title": "Nameless",
       "summary": "A standalone memory of work, institutional power, and nameless.",
       "subtitle": "When a worker’s name disappears from their labor, the institution can claim the success and erase the person."
+    },
+    "de": {
+      "title": "Unbenannt"
     }
   },
   "hero_image": {

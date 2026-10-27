@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [],
@@ -51,6 +56,9 @@
       "title": "Number",
       "summary": "A standalone memory of work, institutional power, and number.",
       "subtitle": "Measuring a worker only in numbers hides the quality of their contribution."
+    },
+    "de": {
+      "title": "Nummer"
     }
   },
   "hero_image": {

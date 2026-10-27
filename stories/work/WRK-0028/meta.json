@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [
@@ -59,6 +64,9 @@
       "title": "The One Who Remembers",
       "summary": "A standalone memory of work, institutional power, and the one who remembers.",
       "subtitle": "Remembering labor can prevent the same injustice from returning."
+    },
+    "de": {
+      "title": "erinnern"
     }
   },
   "hero_image": {

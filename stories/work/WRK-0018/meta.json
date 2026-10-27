@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [
@@ -59,6 +64,9 @@
       "title": "Result",
       "summary": "A standalone memory of work, institutional power, and result.",
       "subtitle": "The worth of a task lies in whom and what it helps, as well as in its completion."
+    },
+    "de": {
+      "title": "Abschluss"
     }
   },
   "hero_image": {

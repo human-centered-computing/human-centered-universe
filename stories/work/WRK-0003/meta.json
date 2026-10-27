@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [],
@@ -51,6 +56,9 @@
       "title": "Voice",
       "summary": "A standalone memory of work, institutional power, and voice.",
       "subtitle": "Silencing a worker can also silence their ability to think."
+    },
+    "de": {
+      "title": "Klang"
     }
   },
   "hero_image": {

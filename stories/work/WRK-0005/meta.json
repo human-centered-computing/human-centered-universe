@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [
@@ -59,6 +64,9 @@
       "title": "Emptiness",
       "summary": "A standalone memory of work, institutional power, and emptiness.",
       "subtitle": "Time emptied of meaning drains a worker’s drive and creativity."
+    },
+    "de": {
+      "title": "Raum"
     }
   },
   "hero_image": {

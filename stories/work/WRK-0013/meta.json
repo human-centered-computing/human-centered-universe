@@ -37,6 +37,11 @@
       "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [
@@ -59,6 +64,9 @@
       "title": "Missing",
       "summary": "A standalone memory of work, institutional power, and missing.",
       "subtitle": "A system can evade responsibility by calling its own mistake a worker’s shortcoming."
+    },
+    "de": {
+      "title": "Fehlen"
     }
   },
   "hero_image": {

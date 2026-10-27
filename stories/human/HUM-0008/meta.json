@@ -36,6 +36,11 @@
       "human_reviewed": false,
       "source_language": "tr",
       "method": "AI translation from the Turkish editorial source"
+    },
+    "de": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr"
     }
   },
   "links": [
@@ -63,6 +68,9 @@
     "en": {
       "title": "The Thirteenth Notch",
       "summary": "The cross-cultural journey of numbers becomes a test of defending the human worth of a child who does not appear in the record."
+    },
+    "de": {
+      "title": "Dreizehnte Kerbe"
     }
   },
   "primary_center": "HUMAN",
