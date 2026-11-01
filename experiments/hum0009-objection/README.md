@@ -62,7 +62,7 @@ Mevcut yazısız katkı ağı görselini ve FIRST VIBRATION'ın on iki sütun d�
 Yeni bir 3D varlık üretmek bu adımın kapsamı değildir. `scene.json.spatial_brief` üç çekimi tanımlar.
 İnançları sütunlara veya HUMAN/LIGHT/DARK merkezlerine dağıtma.
 Klavye ile açılabilen metin belgeleri, hareket azaltma ve WebGL yokluğunda kararların tamamı korunmalıdır.
-Bu paket bir WebGL sahnesi gerçekleştirmez; mekânsal belgeyi ve karar çekirdeğini sağlar.
+Bu paket bir WebGL sahnesi gerçekleştirmez; mevcut yazısız görseli gösterir, mekânsal belgeyi ve karar çekirdeğini sağlar.
 
 ## Bilgi katmanları
 
@@ -84,3 +84,48 @@ Egonun kalıcı yok oluşu veya kuantum bilincin doğrulandığı iddia edilmez.
 
 Görsel arayüz, ekran okuyucu ve gerçek 3D render bu terminal prototipiyle doğrulanmış sayılmaz.
 Canlı okuyucunun mevcut davranışı ve kullanıcı yolculukları bu paketten etkilenmez.
+
+## 1 Kasım 2026 — tarayıcı adımı
+
+PR #58 bu kontrolde hâlâ açık taslaktı; ana dala alınmış değildi. Ana dalın son commit'i
+`45edf0d7dab876860a37acff268e10e04b892716` (27 Ekim) ve son okuyucu dağıtımları başarılıydı.
+Hikâyenin kaynak sürümü hâlâ 4; son Almanca düzeltme ve ses üretimleri bu denemenin TR/EN kapsamını değiştirmiyor.
+
+Bu adım tek başına tarayıcı adaptörüdür: yeni hikâye, yeni inanç öğretisi, yeni 3D varlık veya canlı okuyucu entegrasyonu eklemez.
+
+### Tarayıcıda açma
+
+PR #58'in çalışma dalını indirdikten sonra depo kökünde:
+
+```sh
+python -m http.server 8000
+```
+
+Aynı bilgisayarın tarayıcısında:
+`http://localhost:8000/experiments/hum0009-objection/?lang=tr`
+İngilizce için `lang=en`; varsayılan dil İngilizcedir.
+HTML dosyasını doğrudan file:// ile açmak JSON yüklemesini engelleyebilir.
+
+- `index.html`: yerel belge kartları, görünür profil, önizleme ve ayrı onay.
+- `browser.js`: TR/EN arayüzü; metinler textContent ile yerleştirilir.
+- `flow.js`: hem Node hem tarayıcının kullandığı tek karar çekirdeği.
+- `flow.cjs`: terminalin önceki API'sini koruyan ince uyumluluk dosyası.
+- `browser.test.cjs`: tarayıcı ortamında require/module olmadan yükleme ve Node ile durum geçişi eşitliği.
+
+```sh
+node --test experiments/hum0009-objection/test.cjs experiments/hum0009-objection/browser.test.cjs
+```
+
+Yerel testlerde 15/15 kontrol geçti. Üç dalda tüm geçişler iki ortamda aynı sonucu verdi.
+Kaynak sürümü değişince deneme duruyor. Tüm dosyalar ve hikâye verisi aynı HTTP kökünden yüklenir;
+harici CDN, analiz servisi, cüzdan, gerçek blokzincir veya yolculuk depolaması kullanılmaz.
+Yenileme oturumu sıfırlar. Dil değişimi belge açma ve seçim durumunu korur.
+
+### Görsel/erişilebilirlik kontrol sınırı
+
+Bu çalışmada tarayıcı, ayrı çalışma ortamındaki localhost sunucusuna ulaşamadı
+(ERR_CONNECTION_REFUSED). DOM etkileşimi, gerçek klavye/fokus akışı, mobil yerleşim ve ekran okuyucu
+elle doğrulanmış değildir. Otomatik 15 kontrol karar çekirdeğini doğrular; bu kontroller görsel
+arayüz testinin yerine geçmez. Uygulanacak liste: BROWSER_ACCEPTANCE.md.
+
+PR taslaktır; bu tarayıcı denemesi canlı GitHub Pages okuyucusunda yayımlanmış değildir.
