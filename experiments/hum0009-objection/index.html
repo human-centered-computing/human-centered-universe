@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>I open the objection · HCU</title>
+<style>
+:root{color-scheme:dark;font:17px/1.65 system-ui,sans-serif;background:#0c111b;color:#ece9e1}
+*{box-sizing:border-box}body{margin:0}main{max-width:900px;margin:auto;padding:32px 22px 70px}
+header{display:flex;gap:20px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+h1{font-family:Georgia,serif;font-size:clamp(2rem,6vw,3.5rem);line-height:1.13;margin:.7em 0}
+h2{font-size:1.2rem}p{max-width:72ch}a{color:#f1ce8c}label{display:block}
+button,select{font:inherit;border:1px solid #8c99b1;border-radius:10px;background:#1b2639;color:#fff;padding:12px 16px}
+button{cursor:pointer;text-align:left}button:disabled{opacity:.5;cursor:default}
+button:focus-visible,summary:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid #ffda94;outline-offset:5px}
+button[aria-pressed="true"]{border-color:#ffda94;background:#343024}
+summary{cursor:pointer;padding:16px;font-weight:600}details{border:1px solid #64738c;border-radius:12px;margin:12px 0}
+details p{padding:0 16px 14px;margin:0}.choices{display:grid;gap:12px}
+.panel{border:1px solid #69778f;border-radius:12px;padding:20px;margin-top:24px;background:#141e2d}
+figure{margin:25px 0}img{width:100%;max-height:320px;object-fit:contain;border-radius:14px}
+.muted{color:#c0c6d0;font-size:.9rem}.actions{display:flex;gap:12px;flex-wrap:wrap}
+[hidden]{display:none!important}output{display:block;font-variant-numeric:tabular-nums}
+#confirmation{border-left:4px solid #e2bd78;padding-left:16px}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
+</style>
+<script defer src="../../web/assets/observer-engine.v2.js"></script>
+<script defer src="./flow.js"></script>
+<script defer src="./browser.js"></script>
+</head>
+<body><main>
+<header><strong>HUMAN-CENTERED UNIVERSE · HUM-0009</strong><label><span id="language-label">Language</span>
+<select id="language"><option value="en">English</option><option value="tr">Türkçe</option></select></label></header>
+<p class="muted" id="scope">Experimental scene · this session only</p>
+<h1 id="title">I open the objection</h1>
+<p id="opening"></p>
+<figure><img src="../../web/assets/images/stories/HUM-0009/03-contribution-network.svg"
+alt="" id="cover"><figcaption class="muted" id="caption"></figcaption></figure>
+<p id="load-status" role="status">Loading the scene…</p>
+<section id="interaction" hidden>
+<h2 id="evidence-title"></h2><p class="muted" id="evidence-hint"></p><div id="evidence"></div>
+<h2 id="choice-title"></h2><div id="choices" class="choices"></div>
+<section class="panel" aria-labelledby="profile-title"><h2 id="profile-title"></h2>
+<output id="profile" aria-live="polite"></output><p class="muted" id="profile-note"></p></section>
+<section class="panel" id="preview" hidden aria-labelledby="preview-title">
+<h2 id="preview-title"></h2><p id="selected"></p><output id="projection" aria-live="polite"></output>
+<div class="actions"><button id="confirm"></button><button id="back"></button></div></section>
+<p id="confirmation" role="status" hidden></p>
+</section>
+<noscript>This scene requires JavaScript. The story remains available in the repository.</noscript>
+</main></body></html>

@@ -13,6 +13,10 @@ if SITE.exists():
     shutil.rmtree(SITE)
 shutil.copytree(WEB, SITE)
 (SITE / "data").mkdir(parents=True, exist_ok=True)
+OBJECTION_DIR = ROOT / "experiments" / "hum0009-objection"
+objection_scene = json.loads((OBJECTION_DIR / "scene.json").read_text(encoding="utf-8"))
+# One shared decision core; only its browser factory is used by the reader.
+shutil.copyfile(OBJECTION_DIR / "flow.js", SITE / "assets" / "hum0009-flow.v1.js")
 (SITE / ".nojekyll").write_text("", encoding="utf-8")
 
 universe_map = json.loads(MAP_PATH.read_text(encoding="utf-8")) if MAP_PATH.exists() else {}
@@ -132,6 +136,10 @@ for rec in records:
 
     entry = migrate_legacy_terms(dict(meta))
     entry["content"] = content
+    if meta.get("id") == "HUM-0009":
+        if objection_scene.get("story_id") != meta["id"] or objection_scene.get("source_revision") != meta.get("revision", {}).get("version"):
+            raise ValueError("HUM-0009 objection scene source revision mismatch")
+        entry["objection_scene"] = objection_scene
 
     entry["observation_order"] = mapped.get(
         "observation_order", meta.get("observation_order", meta.get("book_order", 9999))
