@@ -1,5 +1,9 @@
 # İtirazı açıyorum — HUM-0009 deneysel etkileşim çekirdeği
 
+**Güncel: 8 Kasım okuyucu bağlantısı:** [READER_INTEGRATION.md](READER_INTEGRATION.md).
+Aşağıdaki sandbox'lar geçici oturumdur; yeni okuyucu bağlantısında onay mevcut kitap yolculuğuna tek kayıt ekler.
+Bağlantı yalnız PR dalındadır; canlı yayında değildir. Önceki tarihli bölümler o aşamaların sınırını anlatır.
+
 Tek haftalık kapsam: “Kurucunun kaydı” bölümünü, okurun kendi adına gelen itirazı incelediği küçük bir oynanabilir denemeye dönüştürmek.
 
 ## Güncel durum ve tekrar edilmeyen iş
