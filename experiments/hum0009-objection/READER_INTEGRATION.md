@@ -90,7 +90,7 @@ Bu, bütün deponun bütün hikâyelerle üretim derlemesinin veya görsel testi
 - [x] Dil yeniden çiziminde belgeler korunur, bekleyen onay yeniden istenir.
 - [x] Bağlayıcı yüklenmezse etkin sahnenin kaydı kapalı kalır.
 - [x] Derlenmiş veri sahneyi içerir ve script sırası/ortak çekirdek kopyası doğrulanır.
-- [ ] Tam depo derlemesi ve CI sonuçları kontrol edilmeli.
+- [x] Tam depo derlemesi ve CI kontrol edildi: 15 Kasım 2026, 70 hikâye, 24 sahne testi + 8 doğrulayıcı testi başarılı. Ayrıntı: [BUILD_VERIFICATION.md](BUILD_VERIFICATION.md).
 - [ ] Gerçek tarayıcıda belgeler, üç dal, geri dönüş, çift onay ve sayfa yenileme denenmeli.
 - [ ] 320px mobil, Tab/Enter, sonuç odağı ve ekran okuyucu kontrol edilmeli.
 - [ ] İlk Titreşim ve On Üçüncü Çentik 3D sahnelerinde görsel gerileme kontrolü yapılmalı.
