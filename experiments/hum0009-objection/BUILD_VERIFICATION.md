@@ -65,3 +65,19 @@ Bu teslimat yayımlama veya ana dala birleştirme yapmaz. Şunlar otomatik rapor
 
 3D scriptinin dosya olarak bulunması, 3D sahnesinin doğru çizildiği anlamına gelmez.
 Bu kontrol yeşile döndüğünde tam derleme engeli kapanır; görsel kontroller ayrıca tamamlanmalıdır.
+
+## Gerçek tam depo sonucu — 15 Kasım 2026
+
+[Validate Universe işi 43733613571](https://github.com/human-centered-computing/human-centered-universe/actions/runs/43733613571) başarılı tamamlandı.
+
+- Kod head'i: f7dfe52f6f4319cf7bb220bbed8bd77c4866f0db
+- Test edilen PR birleşim görünümü: 00b631c291f851f43e3f3dbc101a62e14316f663
+- Yayımlanabilir hikâye: **70**
+- Yerel JS/CSS dosyası: **20**
+- Sahne/okuyucu testleri: **24/24 geçti**
+- Doğrulayıcı hata-enjeksiyon testleri: **8/8 geçti**
+- Tam derleme ve çıktı doğrulaması: **başarılı**
+
+Görsel çizim, klavye odağı, ekran okuyucu, mobil düzen, gerçek 3D çizimi ve insan editör
+incelemesi raporda doğrulanmadı olarak kalır. Bu sonuç Pages dağıtımı değildir; PR açık taslaktır.
+Bu sonuç bölümünün ve kontrol listesinin eklenmesi test edilmiş uygulama kodunu değiştirmez.
