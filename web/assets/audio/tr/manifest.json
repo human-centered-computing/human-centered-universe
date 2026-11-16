@@ -10,7 +10,7 @@
       "id": "BRG-0002",
       "title": "İlk Titreşim: Arın ve Özüne Dön",
       "file": "./BRG-0002.mp3",
-      "duration_seconds": 925.022,
+      "duration_seconds": 924.967,
       "bytes": 11100623,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -19,7 +19,7 @@
       "id": "BRG-0014",
       "title": "İkinci Titreşim: Eos — İlk Şafak",
       "file": "./BRG-0014.mp3",
-      "duration_seconds": 769.698,
+      "duration_seconds": 769.632,
       "bytes": 9236734,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -28,7 +28,7 @@
       "id": "BRG-0004",
       "title": "04:17 — Karanlığın İçinden Gelen Çağrı",
       "file": "./BRG-0004.mp3",
-      "duration_seconds": 1084.473,
+      "duration_seconds": 1084.399,
       "bytes": 13014040,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -37,7 +37,7 @@
       "id": "BRG-0001",
       "title": "Taş Ağ: Taşların Cevap Verdiği Yer",
       "file": "./BRG-0001.mp3",
-      "duration_seconds": 629.577,
+      "duration_seconds": 629.523,
       "bytes": 7555284,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -46,7 +46,7 @@
       "id": "BRG-0005",
       "title": "Şahmaran: Zehir ile Şifa Arasında",
       "file": "./BRG-0005.mp3",
-      "duration_seconds": 224.653,
+      "duration_seconds": 224.592,
       "bytes": 2696195,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -55,7 +55,7 @@
       "id": "COM-0002",
       "title": "Maran: Kendi Sesinden Gelen Uyarı",
       "file": "./COM-0002.mp3",
-      "duration_seconds": 227.239,
+      "duration_seconds": 227.186,
       "bytes": 2727228,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -64,7 +64,7 @@
       "id": "COM-0003",
       "title": "Çağrıyı Duyanlar",
       "file": "./COM-0003.mp3",
-      "duration_seconds": 474.201,
+      "duration_seconds": 474.147,
       "bytes": 5690768,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -73,7 +73,7 @@
       "id": "BRG-0006",
       "title": "Dört İsim, Bir Kapı",
       "file": "./BRG-0006.mp3",
-      "duration_seconds": 784.039,
+      "duration_seconds": 783.98,
       "bytes": 9408828,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -82,7 +82,7 @@
       "id": "BRG-0007",
       "title": "04:17 — Seçmiyorum",
       "file": "./BRG-0007.mp3",
-      "duration_seconds": 947.487,
+      "duration_seconds": 947.435,
       "bytes": 11370206,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -91,7 +91,7 @@
       "id": "BRG-0008",
       "title": "Gerçeği Hangi Soruyla Ölçersin?",
       "file": "./BRG-0008.mp3",
-      "duration_seconds": 1058.926,
+      "duration_seconds": 1058.867,
       "bytes": 12707467,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -100,7 +100,7 @@
       "id": "BRG-0009",
       "title": "Sonsuzluk Yaşanmaz",
       "file": "./BRG-0009.mp3",
-      "duration_seconds": 1147.089,
+      "duration_seconds": 1147.036,
       "bytes": 13765426,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -109,7 +109,7 @@
       "id": "BRG-0010",
       "title": "Kusursuz Olan Büyümez",
       "file": "./BRG-0010.mp3",
-      "duration_seconds": 1507.344,
+      "duration_seconds": 1507.291,
       "bytes": 18088482,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -118,7 +118,7 @@
       "id": "LGT-0001",
       "title": "Bana Bekleyecek Bir Şey Bırak",
       "file": "./LGT-0001.mp3",
-      "duration_seconds": 1126.557,
+      "duration_seconds": 1126.497,
       "bytes": 13519039,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -127,7 +127,7 @@
       "id": "DRK-0001",
       "title": "Düşerken Tutunduğun El",
       "file": "./DRK-0001.mp3",
-      "duration_seconds": 1258.632,
+      "duration_seconds": 1258.562,
       "bytes": 15103940,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -136,7 +136,7 @@
       "id": "COM-0001",
       "title": "Savaş Alanını Eve Çevirin",
       "file": "./COM-0001.mp3",
-      "duration_seconds": 1268.219,
+      "duration_seconds": 1268.143,
       "bytes": 15218983,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -145,7 +145,7 @@
       "id": "COM-0004",
       "title": "Açık Ağın Mimarları",
       "file": "./COM-0004.mp3",
-      "duration_seconds": 1222.269,
+      "duration_seconds": 1222.214,
       "bytes": 14667591,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -154,7 +154,7 @@
       "id": "COM-0005",
       "title": "İnsan Hiçbir Sistemin Hammaddesi Değildir",
       "file": "./COM-0005.mp3",
-      "duration_seconds": 1323.964,
+      "duration_seconds": 1323.906,
       "bytes": 15887927,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -163,7 +163,7 @@
       "id": "BRG-0011",
       "title": "Rîh-a: Kökün, Ruhun ve İnancın Merkezi",
       "file": "./BRG-0011.mp3",
-      "duration_seconds": 2321.345,
+      "duration_seconds": 2321.292,
       "bytes": 27856502,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -172,7 +172,7 @@
       "id": "BRG-0012",
       "title": "Yeni Bir Sistem Ararken Evreni Kurduk",
       "file": "./BRG-0012.mp3",
-      "duration_seconds": 1563.951,
+      "duration_seconds": 1563.875,
       "bytes": 18767770,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -181,7 +181,7 @@
       "id": "BRG-0013",
       "title": "Bir Sistemi Gerçekliğe Taşımadan Önce",
       "file": "./BRG-0013.mp3",
-      "duration_seconds": 1788.5,
+      "duration_seconds": 1788.435,
       "bytes": 21462353,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -190,7 +190,7 @@
       "id": "COM-0006",
       "title": "Bağlandığın Anda Evren Değişir",
       "file": "./COM-0006.mp3",
-      "duration_seconds": 1162.736,
+      "duration_seconds": 1162.676,
       "bytes": 13953194,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -199,7 +199,7 @@
       "id": "BRG-0015",
       "title": "Yarışmayı Reddeden Okul: Maran ve İlk İnsan Merkezli Dönüşüm Okulu",
       "file": "./BRG-0015.mp3",
-      "duration_seconds": 825.704,
+      "duration_seconds": 825.64,
       "bytes": 9908812,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -208,7 +208,7 @@
       "id": "BRG-0016",
       "title": "İnsan Merkezli Siyaset: Berlin'den Tarihin Sıfır Noktasına",
       "file": "./BRG-0016.mp3",
-      "duration_seconds": 1299.461,
+      "duration_seconds": 1299.402,
       "bytes": 15593893,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -217,7 +217,7 @@
       "id": "BRG-0017",
       "title": "Anlamsız İşlerin Sonu: Tarihin Sıfır Noktasından Bilişim 5.0’a",
       "file": "./BRG-0017.mp3",
-      "duration_seconds": 1601.202,
+      "duration_seconds": 1601.146,
       "bytes": 19214778,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -226,7 +226,7 @@
       "id": "BRG-0018",
       "title": "Toprağın Yazmadığı Tarih: Girê Miraza’nın İzleri",
       "file": "./BRG-0018.mp3",
-      "duration_seconds": 1030.217,
+      "duration_seconds": 1030.161,
       "bytes": 12362964,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -235,7 +235,7 @@
       "id": "BRG-0019",
       "title": "Bilişim ve İnsan Merkezli Dönüşüm Bakanlığı: Yereldeki İlk Çalışma",
       "file": "./BRG-0019.mp3",
-      "duration_seconds": 2659.187,
+      "duration_seconds": 2659.111,
       "bytes": 31910601,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -244,7 +244,7 @@
       "id": "HUM-0004",
       "title": "Altıncı Duyu: Kararı İnsan Verir",
       "file": "./HUM-0004.mp3",
-      "duration_seconds": 419.03,
+      "duration_seconds": 418.973,
       "bytes": 5028720,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -253,7 +253,7 @@
       "id": "HUM-0005",
       "title": "Emeğin Altıncı Duyusu",
       "file": "./HUM-0005.mp3",
-      "duration_seconds": 1094.844,
+      "duration_seconds": 1094.79,
       "bytes": 13138487,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -262,7 +262,7 @@
       "id": "HUM-0006",
       "title": "Bilişsel Uzantı: Bunu Nereden Biliyoruz?",
       "file": "./HUM-0006.mp3",
-      "duration_seconds": 681.012,
+      "duration_seconds": 680.942,
       "bytes": 8172505,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -271,7 +271,7 @@
       "id": "WRK-0001",
       "title": "Eşik",
       "file": "./WRK-0001.mp3",
-      "duration_seconds": 663.641,
+      "duration_seconds": 663.571,
       "bytes": 7964048,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -280,7 +280,7 @@
       "id": "WRK-0002",
       "title": "Yer",
       "file": "./WRK-0002.mp3",
-      "duration_seconds": 548.859,
+      "duration_seconds": 548.783,
       "bytes": 6586663,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -289,7 +289,7 @@
       "id": "WRK-0003",
       "title": "Ses",
       "file": "./WRK-0003.mp3",
-      "duration_seconds": 525.558,
+      "duration_seconds": 525.5,
       "bytes": 6307049,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -298,7 +298,7 @@
       "id": "WRK-0004",
       "title": "Kâğıt",
       "file": "./WRK-0004.mp3",
-      "duration_seconds": 526.681,
+      "duration_seconds": 526.616,
       "bytes": 6320528,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -307,7 +307,7 @@
       "id": "WRK-0005",
       "title": "Boşluk",
       "file": "./WRK-0005.mp3",
-      "duration_seconds": 441.443,
+      "duration_seconds": 441.389,
       "bytes": 5297677,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -316,7 +316,7 @@
       "id": "WRK-0006",
       "title": "İmza",
       "file": "./WRK-0006.mp3",
-      "duration_seconds": 689.293,
+      "duration_seconds": 689.218,
       "bytes": 8271875,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -325,7 +325,7 @@
       "id": "WRK-0007",
       "title": "Duvar",
       "file": "./WRK-0007.mp3",
-      "duration_seconds": 579.448,
+      "duration_seconds": 579.376,
       "bytes": 6953736,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -334,7 +334,7 @@
       "id": "WRK-0008",
       "title": "Fikir",
       "file": "./WRK-0008.mp3",
-      "duration_seconds": 529.424,
+      "duration_seconds": 529.355,
       "bytes": 6353442,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -343,7 +343,7 @@
       "id": "WRK-0009",
       "title": "Başka Bir İsim",
       "file": "./WRK-0009.mp3",
-      "duration_seconds": 565.734,
+      "duration_seconds": 565.68,
       "bytes": 6789165,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -352,7 +352,7 @@
       "id": "WRK-0010",
       "title": "Alkış",
       "file": "./WRK-0010.mp3",
-      "duration_seconds": 495.882,
+      "duration_seconds": 495.825,
       "bytes": 5950947,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -361,7 +361,7 @@
       "id": "WRK-0011",
       "title": "Masa",
       "file": "./WRK-0011.mp3",
-      "duration_seconds": 513.358,
+      "duration_seconds": 513.286,
       "bytes": 6160658,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -370,7 +370,7 @@
       "id": "WRK-0012",
       "title": "Bekleyen",
       "file": "./WRK-0012.mp3",
-      "duration_seconds": 435.252,
+      "duration_seconds": 435.176,
       "bytes": 5223385,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -379,7 +379,7 @@
       "id": "WRK-0013",
       "title": "Eksik",
       "file": "./WRK-0013.mp3",
-      "duration_seconds": 341.42,
+      "duration_seconds": 341.362,
       "bytes": 4097403,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -388,7 +388,7 @@
       "id": "WRK-0014",
       "title": "Beden",
       "file": "./WRK-0014.mp3",
-      "duration_seconds": 425.561,
+      "duration_seconds": 425.491,
       "bytes": 5107088,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -397,7 +397,7 @@
       "id": "WRK-0015",
       "title": "Ceza",
       "file": "./WRK-0015.mp3",
-      "duration_seconds": 503.902,
+      "duration_seconds": 503.829,
       "bytes": 6047183,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -406,7 +406,7 @@
       "id": "WRK-0016",
       "title": "Aynı",
       "file": "./WRK-0016.mp3",
-      "duration_seconds": 411.507,
+      "duration_seconds": 411.452,
       "bytes": 4938441,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -415,7 +415,7 @@
       "id": "WRK-0017",
       "title": "Adsız",
       "file": "./WRK-0017.mp3",
-      "duration_seconds": 364.826,
+      "duration_seconds": 364.76,
       "bytes": 4378271,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -424,7 +424,7 @@
       "id": "WRK-0018",
       "title": "Sonuç",
       "file": "./WRK-0018.mp3",
-      "duration_seconds": 409.809,
+      "duration_seconds": 409.752,
       "bytes": 4918066,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -433,7 +433,7 @@
       "id": "WRK-0019",
       "title": "Sayı",
       "file": "./WRK-0019.mp3",
-      "duration_seconds": 434.312,
+      "duration_seconds": 434.253,
       "bytes": 5212100,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -442,7 +442,7 @@
       "id": "WRK-0020",
       "title": "Hata",
       "file": "./WRK-0020.mp3",
-      "duration_seconds": 390.583,
+      "duration_seconds": 390.518,
       "bytes": 4687352,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -451,7 +451,7 @@
       "id": "WRK-0021",
       "title": "Yokluk",
       "file": "./WRK-0021.mp3",
-      "duration_seconds": 403.461,
+      "duration_seconds": 403.389,
       "bytes": 4841893,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -460,7 +460,7 @@
       "id": "WRK-0022",
       "title": "Yerine",
       "file": "./WRK-0022.mp3",
-      "duration_seconds": 306.73,
+      "duration_seconds": 306.672,
       "bytes": 3681116,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -469,7 +469,7 @@
       "id": "WRK-0023",
       "title": "İz",
       "file": "./WRK-0023.mp3",
-      "duration_seconds": 267.624,
+      "duration_seconds": 267.569,
       "bytes": 3211852,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -478,7 +478,7 @@
       "id": "WRK-0024",
       "title": "Fazlası",
       "file": "./WRK-0024.mp3",
-      "duration_seconds": 306.573,
+      "duration_seconds": 306.5,
       "bytes": 3679235,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -487,7 +487,7 @@
       "id": "WRK-0025",
       "title": "Sessizlik",
       "file": "./WRK-0025.mp3",
-      "duration_seconds": 526.237,
+      "duration_seconds": 526.161,
       "bytes": 6315199,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -496,7 +496,7 @@
       "id": "WRK-0026",
       "title": "Son İş",
       "file": "./WRK-0026.mp3",
-      "duration_seconds": 596.062,
+      "duration_seconds": 595.989,
       "bytes": 7153103,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -505,7 +505,7 @@
       "id": "WRK-0027",
       "title": "Dışarı",
       "file": "./WRK-0027.mp3",
-      "duration_seconds": 505.313,
+      "duration_seconds": 505.243,
       "bytes": 6064110,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -514,7 +514,7 @@
       "id": "WRK-0028",
       "title": "Hatırlayan",
       "file": "./WRK-0028.mp3",
-      "duration_seconds": 455.497,
+      "duration_seconds": 455.423,
       "bytes": 5466324,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -523,7 +523,7 @@
       "id": "WRK-0029",
       "title": "Adı Olmadan",
       "file": "./WRK-0029.mp3",
-      "duration_seconds": 496.666,
+      "duration_seconds": 496.595,
       "bytes": 5960351,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -532,7 +532,7 @@
       "id": "WRK-0030",
       "title": "Görünen",
       "file": "./WRK-0030.mp3",
-      "duration_seconds": 676.728,
+      "duration_seconds": 676.666,
       "bytes": 8121096,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -541,7 +541,7 @@
       "id": "HUM-0007",
       "title": "İnsan Kalmayı Öğrenmek",
       "file": "./HUM-0007.mp3",
-      "duration_seconds": 1073.763,
+      "duration_seconds": 1073.699,
       "bytes": 12885517,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -550,7 +550,7 @@
       "id": "HUM-0008",
       "title": "On Üçüncü Çentik",
       "file": "./HUM-0008.mp3",
-      "duration_seconds": 603.742,
+      "duration_seconds": 603.666,
       "bytes": 7245263,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -559,8 +559,17 @@
       "id": "HUM-0009",
       "title": "Alkış Sustuktan Sonra",
       "file": "./HUM-0009.mp3",
-      "duration_seconds": 1205.995,
+      "duration_seconds": 1205.939,
       "bytes": 14472299,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
+      "id": "HUM-0010",
+      "title": "İnsan Merkezli Kuantum — Henüz Olmamış Bir Hatıra",
+      "file": "./HUM-0010.mp3",
+      "duration_seconds": 709.489,
+      "bytes": 8515126,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
     },
@@ -568,7 +577,7 @@
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: Gecede Açılan Göz",
       "file": "./HUM-0001.mp3",
-      "duration_seconds": 935.158,
+      "duration_seconds": 935.1,
       "bytes": 11222249,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -577,7 +586,7 @@
       "id": "HUM-0002",
       "title": "İnsan Merkezli Avukat Sistemi: Kararı Kim Verecek?",
       "file": "./HUM-0002.mp3",
-      "duration_seconds": 1066.057,
+      "duration_seconds": 1065.999,
       "bytes": 12793044,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
@@ -586,7 +595,7 @@
       "id": "HUM-0003",
       "title": "İnsan Merkezli Dönüşüm Şehri: Bitmeyen Şehir",
       "file": "./HUM-0003.mp3",
-      "duration_seconds": 2012.395,
+      "duration_seconds": 2012.319,
       "bytes": 24149099,
       "engine": "Piper",
       "voice": "tr_TR-dfki-medium"
