@@ -1,0 +1,266 @@
+{
+  "id": "HUM-0010",
+  "title": "İnsan Merkezli Kuantum — Henüz Olmamış Bir Hatıra",
+  "original_title": "İnsan Merkezli Kuantum — Henüz Olmamış Bir Hatıra",
+  "status": "canon",
+  "core": "WORK",
+  "source_language": "tr",
+  "translation_policy": "source_only_until_reviewed",
+  "culture": [
+    "plural cultural memory around Göbekli Tepe",
+    "independent human-centered computing teams across languages",
+    "invisible work and caregiving"
+  ],
+  "belief_context": [
+    "collaboration without one required metaphysical explanation",
+    "thought and realization as an unresolved fictional relation",
+    "human worth beyond records or narrative scores"
+  ],
+  "summary": "İnsan merkezli bilişim projesini kurarken iki sorunun derinine indim: İnsan faydasını nasıl ölçeceğim, yapay zekâyı bir insan ömrüne sığacak hızda nasıl denetleyeceğim? İki yapay zekânın aynı insanı yanlış anlaması ve kaynağı belirsiz kendi sesim, bağımsız projeleri birbirine bağlayan yeni bir yolu açtı.",
+  "translations": {
+    "tr": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr",
+      "method": "AI-authored Turkish story developed from Murat Delen's concept and narrative direction; human review pending",
+      "revision": 1
+    },
+    "en": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr",
+      "method": "AI translation from the Turkish original; human review pending",
+      "revision": 1
+    }
+  },
+  "editorial_status": {
+    "human_review_pending": true,
+    "note": "User authorized publication; this is not a claim of completed linguistic or technical human review."
+  },
+  "authors": [
+    {
+      "name": "Murat Delen",
+      "github": "muratdelen",
+      "roles": [
+        "original-concept",
+        "narrative-direction"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "name": "ChatGPT",
+      "roles": [
+        "ai-assisted-story-draft",
+        "ai-translation"
+      ]
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "links": [
+    {
+      "target": "HUM-0009",
+      "type": "transformation",
+      "note": "Contribution records, Dilan's dissent and acceptance of correction extend into AI oversight."
+    },
+    {
+      "target": "HUM-0006",
+      "type": "theme",
+      "note": "Cognitive extension becomes a question about validating AI-generated work."
+    },
+    {
+      "target": "HUM-0007",
+      "type": "echo",
+      "note": "The person remains more than an automated assessment."
+    },
+    {
+      "target": "BRG-0002",
+      "type": "quantum_echo",
+      "note": "FIRST VIBRATION connects possible narrative times; not evidence of a physical law."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "İnsan Merkezli Kuantum — Henüz Olmamış Bir Hatıra",
+      "summary": "İki yapay zekâ aynı sonuca vardı. Cemal'in hayatı ikisinin de varsayımına sığmadı. İnsan faydası, denetim ve sınırlı ömür üzerine birinci tekil şahısta bir yolculuk."
+    },
+    "en": {
+      "title": "Human-Centered Quantum — A Memory of What Has Not Yet Happened",
+      "summary": "Two AIs reached the same conclusion. Cemal's life did not fit either system's assumption. A first-person journey through human benefit, oversight and limited lifetimes."
+    }
+  },
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 35,
+    "LIGHT": 34,
+    "DARK": 31
+  },
+  "observer_choices": [
+    {
+      "key": "hear_the_unrecorded_person",
+      "label": "Even if both systems agree, I will hear the person the record leaves out.",
+      "labels": {
+        "tr": "İki sistem aynı fikirde olsa da kaydın dışında kalanı dinleyeyim.",
+        "en": "Even if both systems agree, I will hear the person the record leaves out."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 4,
+        "DARK": 2
+      },
+      "branch": {
+        "target": "HUM-0007",
+        "heading": {
+          "tr": "Dosyayı açık tutuyorum",
+          "en": "I keep the file open"
+        },
+        "outcome": {
+          "tr": "Cemal'in bakım sorumluluğunu isteksizlik diye yorumlayan varsayımı askıya alıyorum. Çözümü onunla yeniden tasarlıyor, faydayı kendi deneyimiyle birlikte inceliyorum.",
+          "en": "I suspend the assumption that reads Cemal's caregiving as unwillingness. I redesign the solution with him and evaluate benefit alongside his experience."
+        },
+        "cta": {
+          "tr": "Bağlantılı hikâyeyi aç",
+          "en": "Open the connected story"
+        }
+      }
+    },
+    {
+      "key": "test_the_reviewer",
+      "label": "I will test the reviewer against known errors and independent evidence.",
+      "labels": {
+        "tr": "Denetleyiciyi bilinen hatalar ve bağımsız kanıtlarla sınayayım.",
+        "en": "I will test the reviewer against known errors and independent evidence."
+      },
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 10,
+        "DARK": 2
+      },
+      "branch": {
+        "target": "HUM-0009",
+        "heading": {
+          "tr": "Onayı da denetliyorum",
+          "en": "I examine the approval too"
+        },
+        "outcome": {
+          "tr": "İki modelin anlaşmasını kanıt saymıyorum. Kaçırılan hataları ve gereksiz durdurmaları ölçüyor, kritik varsayımları ilgili insanlara ve uzmanlara açıyorum.",
+          "en": "I do not count agreement between two models as proof. I measure missed errors and needless blocks, opening critical assumptions to affected people and experts."
+        },
+        "cta": {
+          "tr": "Bağlantılı hikâyeyi aç",
+          "en": "Open the connected story"
+        }
+      }
+    },
+    {
+      "key": "trace_the_unexplained_connection",
+      "label": "I will investigate the unexplained connection without stopping work for people who are waiting.",
+      "labels": {
+        "tr": "Açıklanamayan bağlantıyı araştırırken bekleyen insanların işini durdurmayayım.",
+        "en": "I will investigate the unexplained connection without stopping work for people who are waiting."
+      },
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 2,
+        "DARK": 10
+      },
+      "branch": {
+        "target": "BRG-0002",
+        "heading": {
+          "tr": "Soruyu açık bırakıyorum",
+          "en": "I leave the question open"
+        },
+        "outcome": {
+          "tr": "Ses kaydını bağımsız incelemeye ayırıyorum. Farklı açıklamaları sınarken geri alınabilir küçük bir denemeyi, etkilenen insanların katılımıyla sürdürüyorum.",
+          "en": "I set the recording aside for independent examination. While testing different explanations, I continue a small reversible pilot with the people it affects."
+        },
+        "cta": {
+          "tr": "Bağlantılı hikâyeyi aç",
+          "en": "Open the connected story"
+        }
+      }
+    }
+  ],
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "AI evaluation can combine technical tests, independent review, affected people's feedback and appeals.",
+      "Agreement between AI systems is not independent proof of correctness.",
+      "Distributed records preserve entries under technical assumptions; they do not establish the truth of off-chain contributions."
+    ],
+    "imaginative_transformation": "An untraceable recording of my own voice and independent projects linked in FIRST VIBRATION turn human-centered computing into Human-Centered Quantum.",
+    "emergent_question": "Do our thoughts bring a future into being, or does an emerging future enter our thoughts—and how do we act responsibly while that remains unanswered?",
+    "provenance": [
+      {
+        "title": "NIST AI Risk Management Framework — Core",
+        "uri": "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/"
+      },
+      {
+        "title": "NIST AI 600-1 — Generative AI Profile (2024)",
+        "uri": "https://doi.org/10.6028/NIST.AI.600-1"
+      },
+      {
+        "title": "NIST IR 8202 — Blockchain Technology Overview",
+        "uri": "https://csrc.nist.gov/pubs/ir/8202/final"
+      },
+      {
+        "title": "IBM Quantum Learning — Quantum information",
+        "uri": "https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information/single-systems/quantum-information"
+      }
+    ]
+  },
+  "choice_epistemic_layers": {
+    "labels": {
+      "tr": {
+        "heading": "Bu sahne bildiğini nasıl biliyor?",
+        "established_science": "Yerleşik bilim",
+        "real_engineering": "Gerçek mühendislik",
+        "interpretation": "Yorum",
+        "philosophy": "Felsefe",
+        "belief_cultural_meaning": "İnanç ve kültürel anlam",
+        "science_fiction": "Bilim kurgu"
+      },
+      "en": {
+        "heading": "How this scene knows what it knows",
+        "established_science": "Established science",
+        "real_engineering": "Real engineering",
+        "interpretation": "Interpretation",
+        "philosophy": "Philosophy",
+        "belief_cultural_meaning": "Belief and cultural meaning",
+        "science_fiction": "Science fiction"
+      }
+    },
+    "notes": {
+      "established_science": {
+        "tr": "Düşüncelerin kuantum olasılıklarını doğrudan artırdığı veya gelecekteki olayların geçmişe bilgi gönderdiği gösterilmiş değildir. Benzer koşullar, ortak bilgi kaynakları ve toplumsal etkileşim bağımsız görünen projelerde yakınsak çözümler doğurabilir. Hikâyenin pilot sonuçları gerçek araştırma verisi değildir.",
+        "en": "Thoughts have not been shown to directly increase quantum probabilities or future events to transmit information into the past. Similar conditions, shared information and social interaction can yield convergent solutions in apparently independent projects. The fictional pilot outcomes are not research data."
+      },
+      "real_engineering": {
+        "tr": "Kaynak kontrolü, yeniden hesaplama, yazılım testleri, varsayım incelemesi, bilinen hatalarla denetleyici değerlendirmesi, uzman incelemesi, itiraz ve riskle orantılı pilotlar uygulanabilir tasarım yöntemleridir. İki model ortak hatalar taşıyabilir; anlaşmaları doğruluk garantisi değildir. Denetleyicinin performansı bağımsız kanıtlar ve gerçek sonuçlarla sınanmalıdır. Dağıtık kayıt dış dünyadaki emeği veya adaleti kendiliğinden doğrulamaz; mahremiyet ve düzeltme ayrıca tasarlanmalıdır.",
+        "en": "Source checks, recalculation, software tests, assumption review, reviewer evaluation against known errors, expert review, appeals and risk-proportionate pilots are feasible design methods. Two models can share errors; agreement is no guarantee of correctness. Reviewer performance must be tested against independent evidence and real outcomes. A distributed ledger does not independently verify off-chain work or justice; privacy and correction require separate design."
+      },
+      "interpretation": {
+        "tr": "Tek bir fayda puanı yerine farklı insanların kazanç, kayıp ve bekleme maliyetlerini birlikte incelemek anlatının tasarım önerisidir. Evrensel, doğrulanmış bir insan faydası formülü sunulmaz.",
+        "en": "Examining different people's gains, losses and costs of waiting rather than using a single benefit score is the narrative's design proposal. No universal validated formula for human benefit is supplied."
+      },
+      "philosophy": {
+        "tr": "Düşündüğümüz için mi gerçekleşiyor, gerçekleştiği için mi düşünüyoruz? İnsan ömrünün sınırlılığı, bilgi sınırları, sorumluluk ve başarının paylaşılması anlatının felsefi sorularıdır; nedensellik konusunda fiziksel bir kanıt sunulmaz.",
+        "en": "Does it happen because we think it, or do we think it because it happens? Limited lifetimes, limits of knowledge, responsibility and shared achievement are philosophical questions here, not physical evidence about causation."
+      },
+      "belief_cultural_meaning": {
+        "tr": "Göbekli Tepe'den esinlenen on iki sütun kurgusal bir mekân tasarımıdır; arkeolojik yeniden yapım veya eski sakinlerin kuantum bilgisi olduğu iddiası değildir. Farklı kültürlerin ve inançların ortak çalışması tek bir metafizik açıklamayı benimsemelerine bağlanmaz.",
+        "en": "The twelve pillars inspired by Göbekli Tepe are a fictional spatial design, not an archaeological reconstruction or a claim that its ancient inhabitants knew quantum theory. Collaboration across cultures and beliefs does not require accepting a single metaphysical explanation."
+      },
+      "science_fiction": {
+        "tr": "Maran, FIRST VIBRATION, kuantum düşünce ağı, kaynağı bilinmeyen ses kaydı ve zamanlar arasında beliren cümleler bilimkurgudur. İnsan Merkezli Kuantum anlatısal proje adıdır; gerçek bir kuantum bilgisayarının veya doğrulanmış bilinç-fizik mekanizmasının adı değildir. Üç merkez ağırlığı anlatı koordinatıdır, Born olasılığı veya insan değeri değildir.",
+        "en": "Maran, FIRST VIBRATION, the quantum thought network, the untraceable recording and sentences appearing across time are science fiction. Human-Centered Quantum is a narrative project name, not an actual quantum computer or verified consciousness–physics mechanism. Three-center weights are narrative coordinates, not Born probabilities or human worth."
+      }
+    }
+  },
+  "revision": {
+    "version": 1,
+    "date": "2026-11-16",
+    "editorial_direction": "Murat Delen",
+    "change": "Publish the first-person story developed in conversation, with human benefit, AI-assisted oversight, shared blind spots, mortality and fictional quantum thought links."
+  }
+}

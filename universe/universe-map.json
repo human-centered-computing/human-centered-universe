@@ -692,6 +692,17 @@
         "LIGHT": 33,
         "DARK": 32
       }
+    },
+    {
+      "observation_order": 63,
+      "id": "HUM-0010",
+      "title": "Human-Centered Quantum — A Memory of What Has Not Yet Happened",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 35,
+        "LIGHT": 34,
+        "DARK": 31
+      }
     }
   ],
   "experimental_nodes": [
