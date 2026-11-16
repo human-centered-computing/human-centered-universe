@@ -1,0 +1,73 @@
+{
+  "schema": "hcu-story-analysis",
+  "generation_mode": "idea-maturation-three-center",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 35,
+    "LIGHT": 34,
+    "DARK": 31
+  },
+  "center_raw_scores": {
+    "HUMAN": 90,
+    "LIGHT": 88,
+    "DARK": 80
+  },
+  "classification": {
+    "method": "30-criterion HCU narrative analysis; largest-remainder normalization to 100",
+    "status": "ai-generated-draft",
+    "note": "Provisional narrative coordinates, not measured human benefit, quality or physical probabilities.",
+    "criterion_scores": {
+      "HUMAN": [
+        10,
+        9,
+        9,
+        9,
+        10,
+        10,
+        7,
+        8,
+        10,
+        8
+      ],
+      "LIGHT": [
+        8,
+        10,
+        10,
+        9,
+        9,
+        8,
+        8,
+        9,
+        8,
+        9
+      ],
+      "DARK": [
+        10,
+        8,
+        7,
+        8,
+        8,
+        7,
+        8,
+        7,
+        8,
+        9
+      ]
+    },
+    "criterion_order_reference": "universe/CLASSIFICATION.md",
+    "rationale": {
+      "HUMAN": "Cemal's lived experience, caregiving, agency, fair pay and limited time anchor the conflict.",
+      "LIGHT": "Evidence, testing, reviewer evaluation, risk-proportionate review and accountable coordination structure the response.",
+      "DARK": "Unexplained temporal echoes, independent convergent projects, dissent and new experiments keep the inquiry open."
+    }
+  },
+  "coverage_audit": {
+    "coverage_complete": false,
+    "unmapped_elements": [
+      "The metaphysical direction of thought and realization is not captured by narrative weights.",
+      "Human benefit across people and time is not reducible to one center score.",
+      "Correlated reviewer failures and domain expertise require engineering evaluation beyond narrative classification."
+    ],
+    "review_note": "Human editorial and classification review pending."
+  }
+}
