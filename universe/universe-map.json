@@ -703,6 +703,17 @@
         "LIGHT": 34,
         "DARK": 31
       }
+    },
+    {
+      "observation_order": 64,
+      "id": "HUM-0011",
+      "title": "Human-Centered Collective Intelligence — Are We Still Human?",
+      "primary_center": "HUMAN",
+      "center_weights": {
+        "HUMAN": 35,
+        "LIGHT": 31,
+        "DARK": 34
+      }
     }
   ],
   "experimental_nodes": [

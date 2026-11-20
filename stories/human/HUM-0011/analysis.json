@@ -1,0 +1,73 @@
+{
+  "schema": "hcu-story-analysis",
+  "generation_mode": "idea-maturation-three-center",
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 35,
+    "LIGHT": 31,
+    "DARK": 34
+  },
+  "center_raw_scores": {
+    "HUMAN": 95,
+    "LIGHT": 84,
+    "DARK": 91
+  },
+  "classification": {
+    "method": "30-criterion HCU narrative analysis; largest-remainder normalization to 100",
+    "status": "ai-generated-draft",
+    "note": "Provisional narrative coordinates, not an empirical measurement of human benefit or consciousness.",
+    "criterion_scores": {
+      "HUMAN": [
+        10,
+        10,
+        9,
+        10,
+        9,
+        9,
+        10,
+        9,
+        10,
+        9
+      ],
+      "LIGHT": [
+        8,
+        9,
+        8,
+        7,
+        9,
+        7,
+        9,
+        10,
+        9,
+        8
+      ],
+      "DARK": [
+        10,
+        10,
+        8,
+        9,
+        10,
+        8,
+        10,
+        9,
+        7,
+        10
+      ]
+    },
+    "criterion_order_reference": "universe/CLASSIFICATION.md",
+    "rationale": {
+      "HUMAN": "Individual dignity, consent, dissent, love, mortality, responsibility and personal identity.",
+      "LIGHT": "Verification, coordination, preservation of knowledge, institutional oversight and speed.",
+      "DARK": "Uncertain consciousness, alternative forms of existence, freedom, emergence and resistance."
+    }
+  },
+  "coverage_audit": {
+    "coverage_complete": false,
+    "unmapped_elements": [
+      "The persistence or emergence of subjective consciousness cannot be established by narrative weights.",
+      "The medical feasibility of the fictional brain network is not measured by classification.",
+      "Legitimacy and rights of new entities need separate philosophical and legal inquiry."
+    ],
+    "review_note": "Human editorial and classification review pending."
+  }
+}

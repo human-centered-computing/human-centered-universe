@@ -56,6 +56,8 @@ function markdownToHtml(md="") {
     if(line.startsWith("### ")){ flush(); out.push(`<h3>${inlineMarkdown(line.slice(4))}</h3>`); continue; }
     if(line.startsWith("> ")){ flush(); out.push(`<blockquote>${inlineMarkdown(line.slice(2))}</blockquote>`); continue; }
     if(line.trim()==="---"){ flush(); out.push("<hr>"); continue; }
+    const illustration=line.trim().match(/^!\[([^\]]*)\]\((\.\/assets\/images\/stories\/[A-Za-z0-9_-]+\/[A-Za-z0-9_.-]+\.(?:webp|png|jpe?g))\)$/);
+    if(illustration){ flush(); out.push(`<figure class="story-hero"><img src="${escapeHtml(illustration[2])}" alt="${escapeHtml(illustration[1])}" loading="lazy"></figure>`); continue; }
     para.push(line.trim());
   }
   flush(); return out.join("\n");

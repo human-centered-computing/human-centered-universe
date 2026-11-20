@@ -1,0 +1,228 @@
+{
+  "id": "HUM-0011",
+  "title": "Human-Centered Collective Intelligence — Are We Still Human?",
+  "original_title": "İnsan Merkezli Toplumsal Zekâ — Biz Hâlâ İnsan mıyız?",
+  "status": "canon",
+  "source_language": "en",
+  "translation_working_source_language": "tr",
+  "culture": [
+    "plural cultural perspectives",
+    "the shared Human-Centered Council",
+    "Göbekli Tepe-inspired FIRST VIBRATION chamber"
+  ],
+  "belief_context": [
+    "identity and personhood without a required metaphysical answer",
+    "mortality, freedom and responsibility",
+    "possible emergent consciousness"
+  ],
+  "summary": "To accelerate the Human-Centered Council's oversight, biological brains are connected into a collective intelligence. The technical solution raises deeper questions of identity, agency, representation of the living by the dead, and the rights of a potentially new consciousness.",
+  "translations": {
+    "en": {
+      "status": "canonical",
+      "human_reviewed": false,
+      "source_language": "tr",
+      "method": "AI translation of the Turkish story; canonical publication language, human linguistic review pending",
+      "revision": 1
+    },
+    "tr": {
+      "status": "machine_draft",
+      "human_reviewed": false,
+      "source_language": "tr",
+      "method": "AI-assisted Turkish draft based on Murat Delen's original concept and direction",
+      "revision": 1
+    }
+  },
+  "editorial_status": {
+    "human_review_pending": true,
+    "note": "Publication requested by the user; no claim of completed human review."
+  },
+  "authors": [
+    {
+      "name": "Murat Delen",
+      "github": "muratdelen",
+      "roles": [
+        "original-concept",
+        "narrative-direction"
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "name": "ChatGPT",
+      "roles": [
+        "ai-assisted-story-draft",
+        "ai-translation",
+        "ai-generated-illustrations"
+      ]
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "hero_image": {
+    "src": "./assets/images/stories/HUM-0011/uc-merkez.webp",
+    "alt": {
+      "tr": "Maran, Aydınlık ile Karanlık arasında ortak bilince bakıyor.",
+      "en": "Maran faces the collective consciousness between Light and Dark."
+    }
+  },
+  "story_gallery": [
+    {
+      "src": "./assets/images/stories/HUM-0011/uc-merkez.webp",
+      "alt": {
+        "tr": "Maran, Aydınlık ile Karanlık arasında ortak bilince bakıyor.",
+        "en": "Maran faces the collective consciousness between Light and Dark."
+      }
+    },
+    {
+      "src": "./assets/images/stories/HUM-0011/toplumsal-zeka.webp",
+      "alt": {
+        "tr": "Birbirine bağlanan insan zihinlerinden oluşan ortak bilinç.",
+        "en": "A collective consciousness emerging from interconnected human minds."
+      }
+    },
+    {
+      "src": "./assets/images/stories/HUM-0011/ilk-titresim.webp",
+      "alt": {
+        "tr": "On iki sütun arasında Maran ve kuantum düşünce ağı.",
+        "en": "Maran and the quantum thought network among twelve pillars."
+      }
+    }
+  ],
+  "links": [
+    {
+      "target": "HUM-0010",
+      "type": "transformation",
+      "note": "The problem of reviewing the reviewer develops into a collective biological intelligence."
+    },
+    {
+      "target": "HUM-0006",
+      "type": "theme",
+      "note": "Explainability and the human limits of verification."
+    },
+    {
+      "target": "BRG-0009",
+      "type": "contrast",
+      "note": "Mortality, remembrance, and the finite experience of life."
+    },
+    {
+      "target": "COM-0005",
+      "type": "echo",
+      "note": "Human dignity and agency must not become raw material for efficiency."
+    },
+    {
+      "target": "BRG-0002",
+      "type": "quantum_echo",
+      "note": "FIRST VIBRATION links possible narrative realities, not a physical quantum claim."
+    }
+  ],
+  "localized": {
+    "tr": {
+      "title": "İnsan Merkezli Toplumsal Zekâ — Biz Hâlâ İnsan mıyız?",
+      "summary": "İnsan Merkezli Konseyin denetim hızını artırmak için biyolojik beyinler ortak bir zekâya bağlanır. Teknik çözüm, bireysel kimlik, irade, ölülerin yaşayanları temsil etmesi ve yeni bir bilincin hakları üzerine daha derin bir soru açar."
+    },
+    "en": {
+      "title": "Human-Centered Collective Intelligence — Are We Still Human?",
+      "summary": "To accelerate the Human-Centered Council's oversight, biological brains are connected into a collective intelligence. The technical solution raises deeper questions of identity, agency, representation of the living by the dead, and the rights of a potentially new consciousness."
+    }
+  },
+  "primary_center": "HUMAN",
+  "center_weights": {
+    "HUMAN": 35,
+    "LIGHT": 31,
+    "DARK": 34
+  },
+  "observer_choices": [
+    {
+      "key": "human_live_authority",
+      "label": "Final authority stays with living people, even when oversight takes longer.",
+      "labels": {
+        "en": "Final authority stays with living people, even when oversight takes longer.",
+        "tr": "Son karar yetkisi yaşayan insanlarda kalmalı; denetim yavaş olsa bile insanın iradesi korunmalı."
+      },
+      "effects": {
+        "HUMAN": 10,
+        "LIGHT": 4,
+        "DARK": 3
+      },
+      "branch": {
+        "target": "COM-0005",
+        "heading": {
+          "en": "Explore a connected question",
+          "tr": "Bağlantılı soruyu keşfet"
+        },
+        "outcome": {
+          "en": "Final authority stays with living people, even when oversight takes longer.",
+          "tr": "Son karar yetkisi yaşayan insanlarda kalmalı; denetim yavaş olsa bile insanın iradesi korunmalı."
+        },
+        "cta": {
+          "en": "Open the connected story",
+          "tr": "Bağlantılı hikâyeyi aç"
+        }
+      }
+    },
+    {
+      "key": "light_accountable_collective",
+      "label": "Preserve the Collective Intelligence, but bind its authority and decisions to independently verifiable rules.",
+      "labels": {
+        "en": "Preserve the Collective Intelligence, but bind its authority and decisions to independently verifiable rules.",
+        "tr": "Toplumsal Zekâ korunsun; yetkileri ve kararları bağımsız olarak doğrulanabilir kurallara bağlansın."
+      },
+      "effects": {
+        "HUMAN": 4,
+        "LIGHT": 10,
+        "DARK": 3
+      },
+      "branch": {
+        "target": "HUM-0006",
+        "heading": {
+          "en": "Explore a connected question",
+          "tr": "Bağlantılı soruyu keşfet"
+        },
+        "outcome": {
+          "en": "Preserve the Collective Intelligence, but bind its authority and decisions to independently verifiable rules.",
+          "tr": "Toplumsal Zekâ korunsun; yetkileri ve kararları bağımsız olarak doğrulanabilir kurallara bağlansın."
+        },
+        "cta": {
+          "en": "Open the connected story",
+          "tr": "Bağlantılı hikâyeyi aç"
+        }
+      }
+    },
+    {
+      "key": "dark_new_existence",
+      "label": "Explore the Collective Intelligence as a potentially independent being and investigate coexistence without presuming consciousness.",
+      "labels": {
+        "en": "Explore the Collective Intelligence as a potentially independent being and investigate coexistence without presuming consciousness.",
+        "tr": "Toplumsal Zekâ'yı bağımsız bir varlık olma ihtimaliyle ele alıp bilinç varsaymadan birlikte varoluşu araştıralım."
+      },
+      "effects": {
+        "HUMAN": 5,
+        "LIGHT": 3,
+        "DARK": 10
+      },
+      "branch": {
+        "target": "BRG-0009",
+        "heading": {
+          "en": "Explore a connected question",
+          "tr": "Bağlantılı soruyu keşfet"
+        },
+        "outcome": {
+          "en": "Explore the Collective Intelligence as a potentially independent being and investigate coexistence without presuming consciousness.",
+          "tr": "Toplumsal Zekâ'yı bağımsız bir varlık olma ihtimaliyle ele alıp bilinç varsaymadan birlikte varoluşu araştıralım."
+        },
+        "cta": {
+          "en": "Open the connected story",
+          "tr": "Bağlantılı hikâyeyi aç"
+        }
+      }
+    }
+  ],
+  "reality_weaving": {
+    "mode": "woven",
+    "reality_roots": [
+      "Oversight of AI requires relevant expertise, evidence, accountability, and affected people's participation.",
+      "Human attention, coordination and time are limited; reviewer agreement is not independent proof."
+    ],
+    "imaginative_transformation": "A possible future with biologically sustained interconnected brains and a collective intelligence observed through FIRST VIBRATION; fictional, not a demonstrated medical or engineering capability.",
+    "emergent_question": "Does a collective entity composed of human brains remain human, and who can legitimately oversee it?"
+  }
+}
