@@ -3,7 +3,7 @@
   "title": "Human-Centered Collective Intelligence — Are We Still Human?",
   "original_title": "İnsan Merkezli Toplumsal Zekâ — Biz Hâlâ İnsan mıyız?",
   "status": "canon",
-  "source_language": "en",
+  "source_language": "tr",
   "translation_working_source_language": "tr",
   "culture": [
     "plural cultural perspectives",
@@ -18,10 +18,10 @@
   "summary": "To accelerate the Human-Centered Council's oversight, biological brains are connected into a collective intelligence. The technical solution raises deeper questions of identity, agency, representation of the living by the dead, and the rights of a potentially new consciousness.",
   "translations": {
     "en": {
-      "status": "canonical",
+      "status": "machine_draft",
       "human_reviewed": false,
       "source_language": "tr",
-      "method": "AI translation of the Turkish story; canonical publication language, human linguistic review pending",
+      "method": "AI translation of the Turkish original; human review pending",
       "revision": 1
     },
     "tr": {
@@ -224,5 +224,7 @@
     ],
     "imaginative_transformation": "A possible future with biologically sustained interconnected brains and a collective intelligence observed through FIRST VIBRATION; fictional, not a demonstrated medical or engineering capability.",
     "emergent_question": "Does a collective entity composed of human brains remain human, and who can legitimately oversee it?"
-  }
+  },
+  "core": "WORK",
+  "translation_policy": "source_only_until_reviewed"
 }
