@@ -529,6 +529,15 @@
       "voice": "en_US-lessac-medium"
     },
     {
+      "id": "HUM-0011",
+      "title": "Human-Centered Collective Intelligence — Are We Still Human?",
+      "file": "./HUM-0011.mp3",
+      "duration_seconds": 592.792,
+      "bytes": 7114545,
+      "engine": "Piper",
+      "voice": "en_US-lessac-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: The Eye That Opened in the Night",
       "file": "./HUM-0001.mp3",
