@@ -574,6 +574,15 @@
       "voice": "tr_TR-dfki-medium"
     },
     {
+      "id": "HUM-0011",
+      "title": "İnsan Merkezli Toplumsal Zekâ — Biz Hâlâ İnsan mıyız?",
+      "file": "./HUM-0011.mp3",
+      "duration_seconds": 687.715,
+      "bytes": 8253693,
+      "engine": "Piper",
+      "voice": "tr_TR-dfki-medium"
+    },
+    {
       "id": "HUM-0001",
       "title": "Tapetum Sentinel: Gecede Açılan Göz",
       "file": "./HUM-0001.mp3",
