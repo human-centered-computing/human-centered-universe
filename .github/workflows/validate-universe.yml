@@ -54,6 +54,9 @@ jobs:
       - name: Test objection scene and reader integration
         run: node --test experiments/hum0009-objection/test.cjs experiments/hum0009-objection/browser.test.cjs scripts/test_objection_reader.cjs
 
+      - name: Test HUM-0011 authority scene
+        run: node --test experiments/hum0011-authority/test.cjs
+
       - name: Test reader artifact verifier failure cases
         run: python scripts/test_verify_reader_build.py
 

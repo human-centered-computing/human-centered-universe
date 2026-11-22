@@ -1,0 +1,89 @@
+{
+  "schema": "hcu-authority-scene.v1",
+  "status": "experimental",
+  "story_id": "HUM-0011",
+  "source": {
+    "commit": "023765ac988fe3ecefa5c2e39044cd8ab4cecaf7",
+    "meta_blob_sha": "650fa2bbb4aa002c6134444a794852d640f7fc8f",
+    "story_tr_blob_sha": "e247074257508874cb1647f3fbb475f7ca5b71a0"
+  },
+  "title": {
+    "tr": "Kanıtı gördüm. Yetkiyi kim verdi?",
+    "en": "I saw the evidence. Who granted authority?"
+  },
+  "entry_anchor": "VII. Ölülerin yaşayanlar üzerindeki egemenliği",
+  "opening": {
+    "tr": "FIRST VIBRATION'ın on iki sütunu arasında karar kaydını açıyorum. Toplumsal Zekâ, yaşayanların bazı seçimlerini sınırlandırmayı öneriyor. Hesapları inceleyen iki sistem aynı sonuca varmış. Yaşayan konsey karşı çıkıyor. Ekrana soruyorum: Bir hesabı çürütememem, ona hayatımı yönetme yetkisi verir mi?",
+    "en": "Between the twelve pillars of FIRST VIBRATION, I open the decision record. The Collective Intelligence proposes restricting some choices of living people. Two reviewing systems agree on the calculations. The living council objects. I ask the screen: does my inability to refute a calculation authorize it to govern my life?"
+  },
+  "fixture": {
+    "id": "council-appeal-01",
+    "requested_action": "restrict_living_choices",
+    "calculation_check": "passed_in_fiction",
+    "independent_effect_validation": "unknown",
+    "delegated_scope": "advisory_only",
+    "living_council": "opposes",
+    "individual_voice": "not_separable_in_scene",
+    "exit_feasibility": "unknown",
+    "consciousness": "unknown"
+  },
+  "choice_source": "stories/human/HUM-0011/meta.json#observer_choices",
+  "plans": {
+    "human_live_authority": {
+      "steps": [
+        "withhold_enforcement",
+        "request_living_review",
+        "preserve_support_pending_review"
+      ],
+      "tr": "Yaşayanların itirazını kayda alıyorum. Sınırlamayı yürürlüğe koymuyorum. Toplumsal Zekâ'yı kapatma kararı vermeden bağımsız inceleme istiyorum.",
+      "en": "I record the living people's objection. I do not enforce the restriction. I request independent review without deciding to shut down the Collective Intelligence."
+    },
+    "light_accountable_collective": {
+      "steps": [
+        "advisory_sandbox",
+        "independent_effect_checks",
+        "preserve_support_pending_review"
+      ],
+      "tr": "Öneriyi uygulamadan bir deneme modelinde inceliyorum. Hesap doğruluğunu, insanlar üzerindeki etkileri ve yetki sınırını ayrı kaydediyorum. Anlaşan modelleri bağımsız kanıt saymıyorum.",
+      "en": "I examine the recommendation in a sandbox without enforcing it. I record calculation validity, human effects and authority limits separately. I do not count model agreement as independent evidence."
+    },
+    "dark_new_existence": {
+      "steps": [
+        "coexistence_inquiry",
+        "investigate_individual_voice_and_exit",
+        "preserve_support_pending_review"
+      ],
+      "tr": "Yeni bir varlık ihtimalini araştırıyorum. Ayrı seslerin ve ayrılma imkânının kaybolmasını çözülmüş saymıyorum. Bilinç kanıtlanmış gibi davranmadan, yaşayanların iradesini devretmeden ve sistemi kapatmadan inceleme açıyorum.",
+      "en": "I investigate the possibility of a new being. I do not treat lost individual voices or exit feasibility as resolved. I open an inquiry without assuming consciousness, transferring living people's authority or shutting the system down."
+    }
+  },
+  "spatial_brief": {
+    "asset": "web/assets/images/stories/HUM-0011/ilk-titresim.webp",
+    "new_3d_assets": 0,
+    "pillars": 12,
+    "camera": "stationary eye level",
+    "panels": [
+      "claim",
+      "authority",
+      "unresolved"
+    ],
+    "motion": "optional subtle connections; reduced-motion uses a still frame",
+    "fallback": "All facts, checks and choices remain available as text without WebGL.",
+    "constraint": "No culture, religion, brain or person receives a center score; no biological apparatus is built."
+  },
+  "epistemic_layers": {
+    "established_science": "This prototype establishes no consciousness test, survival of personal identity after bodily death, or quantum thought transfer.",
+    "real_engineering": "A pure local state machine separates a simulated authority check from evidence review, reuses observer normalization, pins source text, and commits one sandbox choice. It cannot authorize or control a real system.",
+    "interpretation": "The Collective Intelligence's agreement may conceal shared assumptions. The scene investigates this possibility without treating it as inevitable.",
+    "philosophy": "Competence, legitimate authority, personal identity and the moral standing of a possible new consciousness remain distinct questions.",
+    "belief_cultural_meaning": "The Göbekli Tepe-inspired setting is fictional, not an archaeological reconstruction. Interpretations of self, death and continuity remain plural; no spiritual doctrine is scored.",
+    "science_fiction": "Biologically sustained interconnected brains, their collective speech, Maran, FIRST VIBRATION and quantum thought links belong to HUM-0011's fictional possible reality."
+  },
+  "editorial_status": {
+    "status": "ai_draft",
+    "human_reviewed": false,
+    "source_language": "tr",
+    "translation": "English AI translation from Turkish; human review pending"
+  },
+  "license": "CC-BY-SA-4.0"
+}
