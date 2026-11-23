@@ -55,7 +55,7 @@ jobs:
         run: node --test experiments/hum0009-objection/test.cjs experiments/hum0009-objection/browser.test.cjs scripts/test_objection_reader.cjs
 
       - name: Test HUM-0011 authority scene
-        run: node --test experiments/hum0011-authority/test.cjs
+        run: node --test experiments/hum0011-authority/test.cjs scripts/test_authority_reader.cjs
 
       - name: Test reader artifact verifier failure cases
         run: python scripts/test_verify_reader_build.py
@@ -75,6 +75,6 @@ jobs:
               output.write(f"- Stories: {report['story_count']}\n")
               output.write(f"- Runtime assets: {report['runtime_asset_count']}\n")
               output.write(f"- Scene source revision: {report['source_revision']}\n")
-              output.write("- Core/integration tests: 24; verifier fault tests: 8\n")
+              output.write("- HUM-0009 core/integration tests: 24; HUM-0011 core/reader tests: 28; verifier fault tests: 13\n")
               output.write("- Visual, mobile, screen-reader and 3D rendering checks remain separate.\n")
           PY

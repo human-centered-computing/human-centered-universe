@@ -235,6 +235,8 @@ function applyChoice(story,choice){
   if(recordedStoryChoice(story.id)) return false;
   if(story.id==="HUM-0009"&&story.objection_scene&&["tr","en"].includes(state.locale)&&
     !window.HCUObjectionReader?.canConfirm(story.id,choice.key)) return false;
+  if(story.id==="HUM-0011"&&story.authority_scene&&["tr","en"].includes(state.locale)&&
+    !window.HCUAuthorityReader?.canConfirm(story.id,choice.key)) return false;
   const effects=choice.effects||{};
   CENTER_KEYS.forEach(c=>state.observerRaw[c]=Number(state.observerRaw[c]||0)+Number(effects[c]||0));
   state.readIds.add(story.id);
@@ -305,16 +307,20 @@ function renderRead(){
   const objection=objectionRequired?window.HCUObjectionReader?.begin(story,state.locale,state.observerRaw,state.choiceLog):null;
   const objectionHtml=objection?.html(escapeHtml)||(objectionRequired?
     '<p role="status">'+escapeHtml(state.locale==="tr"?"İtiraz sahnesi yüklenemedi; seçimi kaydetmeden yeniden yüklemeliyim.":"The objection scene did not load; I must reload before recording a choice.")+'</p>':"");
+  const authorityRequired=story.id==="HUM-0011"&&Boolean(story.authority_scene)&&["tr","en"].includes(state.locale);
+  const authority=authorityRequired?window.HCUAuthorityReader?.begin(story,state.locale,state.observerRaw,state.choiceLog):null;
+  const authorityHtml=authority?.html(escapeHtml)||(authorityRequired?
+    '<p role="status">'+escapeHtml(state.locale==="tr"?"Yetki sahnesi yüklenemedi; seçimi kaydetmeden yeniden yüklemeliyim.":"The authority scene did not load; I must reload before recording a choice.")+'</p>':"");
   const backId=state.path.length>1 ? state.path[state.path.length-2] : null;
   const connections=related.length?related.map(({link,story:target})=>`<button class="connection" data-story="${target.id}"><span class="badge ${primaryCenter(target)}">${escapeHtml(linkTypeLabel(link.type))}</span><strong>${escapeHtml(storyTitle(target))}</strong><small>${escapeHtml(linkNote(story,link))}</small></button>`).join(""):`<p class="muted">${t("no_results","No matching stories.")}</p>`;
   const choiceButtons=choices.map(c=>{
     const projected=projectedObserver(c.effects||{}); const selected=choiceMatchesRecord(c,recorded);
-    return `<button class="observer-choice${selected?" selected":""}" data-choice="${escapeHtml(c.key)}" ${recorded||(objectionRequired&&!objection?.ready())?"disabled":""} aria-pressed="${selected}"><strong>${escapeHtml(choiceLabel(c))}</strong><small>${escapeHtml(t("projected_observer_state","Projected Observer State"))}: ${formatWeights(projected)}</small></button>`;
+    return `<button class="observer-choice${selected?" selected":""}" data-choice="${escapeHtml(c.key)}" ${recorded||(objectionRequired&&!objection?.ready())||(authorityRequired&&!authority?.ready())?"disabled":""} aria-pressed="${selected}"><strong>${escapeHtml(choiceLabel(c))}</strong><small>${escapeHtml(t("projected_observer_state","Projected Observer State"))}: ${formatWeights(projected)}</small></button>`;
   }).join("");
   const recordedDefinition=recorded?choices.find(choice=>choiceMatchesRecord(choice,recorded)):null;
   const choiceStatus=recorded?`<div class="choice-recorded" role="status"><strong>${escapeHtml(t("choice_recorded","Choice recorded"))}</strong><span>${escapeHtml(recordedDefinition?choiceLabel(recordedDefinition):(recorded.label||recorded.key||""))}</span></div>`:"";
   const branchStatus=recordedDefinition?branchOutcome(story,recordedDefinition):"";
-  const choicePanel=`<section class="choice-panel" id="observer-choices"><h2>${t("choose_path","Choose what calls you next")}</h2><p class="muted">${t("choice_help","Preview how a choice changes your Observer State, then confirm it once. The recommendation uses your complete profile, story connections, and recent path; you remain free to choose any node.")}</p>${choiceStatus}${branchStatus}${objectionHtml}<div class="choice-grid">${choiceButtons}</div><div id="choice-preview" class="choice-preview" hidden></div></section>`;
+  const choicePanel=`<section class="choice-panel" id="observer-choices"><h2>${t("choose_path","Choose what calls you next")}</h2><p class="muted">${t("choice_help","Preview how a choice changes your Observer State, then confirm it once. The recommendation uses your complete profile, story connections, and recent path; you remain free to choose any node.")}</p>${choiceStatus}${branchStatus}${objectionHtml}${authorityHtml}<div class="choice-grid">${choiceButtons}</div><div id="choice-preview" class="choice-preview" hidden></div></section>`;
   const sceneEngine=window.HCUFirstVibration3D;
   const sceneCopy=sceneEngine?.copyFor(state.locale)||sceneEngine?.copyFor("en")||{};
   const sceneMode=recordedDefinition?.key||"NEUTRAL";
@@ -354,24 +360,31 @@ function renderRead(){
   objection?.bind(app,ready=>{
     app.querySelectorAll("[data-choice]").forEach(button=>{button.disabled=Boolean(recordedStoryChoice(story.id))||!ready;});
   });
+  authority?.bind(app,ready=>{
+    app.querySelectorAll("[data-choice]").forEach(button=>{button.disabled=Boolean(recordedStoryChoice(story.id))||!ready;});
+  });
   app.querySelectorAll("[data-choice]").forEach(el=>el.addEventListener("click",()=>{
     const c=choices.find(x=>x.key===el.dataset.choice); if(!c||recordedStoryChoice(story.id)) return;
     if(objectionRequired){
       if(!objection?.ready()) return;
       objection.preview(c.key);
     }
+    if(authorityRequired){
+      if(!authority?.ready()) return;
+      authority.preview(c.key);
+    }
     fv3d?.setMode(c.key);
     tn3d?.setMode(c.key);
     const preview=document.getElementById("choice-preview"); const projected=projectedObserver(c.effects||{});
     preview.hidden=false;
-    preview.innerHTML=`<strong>${escapeHtml(t("confirm_observer_choice","Confirm this Observer choice?"))}</strong><p>${escapeHtml(choiceLabel(c))}</p>${weightBars(projected)}<div class="create-actions"><button type="button" class="action-button primary" id="confirm-choice">${escapeHtml(t("confirm_choice","Confirm choice"))}</button><button type="button" class="action-button" id="cancel-choice">${escapeHtml(t("cancel","Cancel"))}</button></div>`;
+    preview.innerHTML=`<strong>${escapeHtml(t("confirm_observer_choice","Confirm this Observer choice?"))}</strong><p>${escapeHtml(choiceLabel(c))}</p>${weightBars(projected)}${authority?.planHtml(c.key,escapeHtml)||""}<div class="create-actions"><button type="button" class="action-button primary" id="confirm-choice">${escapeHtml(t("confirm_choice","Confirm choice"))}</button><button type="button" class="action-button" id="cancel-choice">${escapeHtml(t("cancel","Cancel"))}</button></div>`;
     document.getElementById("confirm-choice")?.addEventListener("click",()=>{
-      if(applyChoice(story,c)&&objectionRequired){
+      if(applyChoice(story,c)&&(objectionRequired||authorityRequired)){
         const status=document.querySelector(".choice-recorded");
         status?.setAttribute("tabindex","-1"); status?.focus();
       }
     });
-    document.getElementById("cancel-choice")?.addEventListener("click",()=>{ fv3d?.setMode(sceneMode); tn3d?.setMode(sceneMode); if(objection) objection.cancel(); preview.hidden=true; preview.innerHTML=""; el.focus(); });
+    document.getElementById("cancel-choice")?.addEventListener("click",()=>{ fv3d?.setMode(sceneMode); tn3d?.setMode(sceneMode); if(objection) objection.cancel(); if(authority) authority.cancel(); preview.hidden=true; preview.innerHTML=""; el.focus(); });
     document.getElementById("confirm-choice")?.focus();
     preview.scrollIntoView({behavior:window.matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth",block:"nearest"});
   }));

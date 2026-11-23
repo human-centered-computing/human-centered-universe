@@ -36,6 +36,10 @@ def local_asset(site, ref):
     require(candidate.is_file(), "missing built asset: " + ref)
     return candidate
 
+def git_blob_sha(path):
+    data = path.read_bytes()
+    return hashlib.sha1(b"blob " + str(len(data)).encode() + b"\0" + data).hexdigest()
+
 def verify(root):
     root = Path(root).resolve()
     site = root / "site"
@@ -91,6 +95,32 @@ def verify(root):
     require(len(story.get("observer_choices", [])) == 3, "expected three observer choices")
     source_flow = (root / "experiments/hum0009-objection/flow.js").read_bytes()
     require((site / "assets/hum0009-flow.v1.js").read_bytes() == source_flow, "shared flow copy differs")
+    if "HUM-0011" in expected:
+        authority_dir = root / "experiments/hum0011-authority"
+        authority = json.loads((authority_dir / "scene.json").read_text(encoding="utf-8"))
+        target = actual["HUM-0011"]
+        require(target.get("authority_scene") == authority, "built authority scene differs from source")
+        pins = authority.get("source", {})
+        require(authority.get("story_id") == "HUM-0011", "authority scene/story mismatch")
+        require(git_blob_sha(root / "stories/human/HUM-0011/meta.json") == pins.get("meta_blob_sha") and
+                git_blob_sha(root / "stories/human/HUM-0011/content/tr.md") == pins.get("story_tr_blob_sha"),
+                "authority source pins mismatch")
+        require(set(authority.get("epistemic_layers", {})) == LAYERS, "missing authority epistemic layer")
+        require(authority.get("spatial_brief", {}).get("pillars") == 12, "authority twelve-pillar context missing")
+        require(target.get("observer_choices") == expected["HUM-0011"].get("observer_choices"),
+                "authority canonical choices changed")
+        require(set(authority.get("plans", {})) == {c["key"] for c in target.get("observer_choices", [])},
+                "authority plan/choice mismatch")
+        for lang in ("tr", "en"):
+            require(bool(target.get("content", {}).get(lang)), "missing authority story text: " + lang)
+        authority_order = ["./assets/observer-engine.v2.js", "./assets/hum0011-flow.v1.js",
+                           "./assets/hum0011-authority-reader.v1.js", "./assets/app.js"]
+        require(all(item in scripts for item in authority_order), "missing authority runtime")
+        require([scripts.index(item) for item in authority_order] == sorted(scripts.index(item) for item in authority_order),
+                "incorrect authority runtime order")
+        require((site / "assets/hum0011-flow.v1.js").read_bytes() == (authority_dir / "flow.js").read_bytes(),
+                "authority shared flow copy differs")
+
     for name in ("first-vibration-3d.v1.js", "thirteenth-notch-3d.v1.js"):
         require("./assets/" + name in scripts, "existing 3D runtime removed: " + name)
     return {
@@ -101,7 +131,7 @@ def verify(root):
         "source_revision": source_scene["source_revision"],
         "checks": ["source_story_set", "center_totals_100", "FIRST_VIBRATION_origin",
                    "local_runtime_assets", "runtime_order", "scene_provenance",
-                   "shared_flow_identity", "existing_3d_scripts"],
+                   "shared_flow_identity", "existing_3d_scripts"] + (["authority_scene_source_pins", "authority_shared_flow"] if "HUM-0011" in expected else []),
         "runtime_sha256": hashes,
         "not_verified": ["visual_rendering", "keyboard_focus", "screen_reader",
                          "mobile_layout", "3d_rendering", "human_editorial_review"]

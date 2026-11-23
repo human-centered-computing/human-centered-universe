@@ -4,7 +4,7 @@
 
 HUM-0011'in VII. bölümündeki yetki çatışmasını terminalde oynanabilir, testli bir karar çekirdeğine dönüştürür. Yeni hikâye veya yeni merkez eklemez. HUM-0009'un belge açma akışını tekrarlamaz: burada oyuncu hesap doğrulaması, insan etkisi ve uygulama yetkisinin farklı durumlar olduğunu görür.
 
-Durum: deneysel yerel prototip. Canlı okuyucuya bağlanmamıştır; `site/` veya gerçek gözlemci kaydı değiştirilmez. Bu paket bir yapay zekâ denetleyicisi, güvenlik sınırı veya gerçek hukuki yetki sistemi değildir.
+Durum: TR/EN okuyucu entegrasyonu hazır. Hikâye sonunda yetki incelemesi, üç yaklaşımın önizlemesi, vazgeçme ve tek seferlik kayıt mevcut okuyucu üzerinden çalışır. Bu paket bir yapay zekâ denetleyicisi, güvenlik sınırı veya gerçek hukuki yetki sistemi değildir.
 
 ## Kontrol edilen güncel durum — 22 Kasım 2026
 
@@ -19,13 +19,14 @@ Durum: deneysel yerel prototip. Canlı okuyucuya bağlanmamıştır; `site/` vey
 Depo kökünden, harici bağımlılık kurmadan:
 
 ```sh
-node --test experiments/hum0011-authority/test.cjs
+python scripts/build_reader.py
+node --test experiments/hum0011-authority/test.cjs scripts/test_authority_reader.cjs
 node experiments/hum0011-authority/play.cjs
 node experiments/hum0011-authority/play.cjs light_accountable_collective
 node experiments/hum0011-authority/play.cjs light_accountable_collective --confirm
 ```
 
-Üçüncü komut önizlemeyi, son komut ise yalnız bellekte tutulan onayı da gösterir. Kalıcı oyuncu kaydı yazmaz. `flow.cjs` mevcut `observer-engine.v2.js` motorunu kullanır; normalizasyon yeniden yazılmaz.
+Anahtarla verilen terminal komutu önizlemeyi, --confirm eklenen komut ise yalnız bellekte tutulan onayı da gösterir. Kalıcı oyuncu kaydı yazmaz. `flow.cjs` mevcut `observer-engine.v2.js` motorunu kullanır; normalizasyon yeniden yazılmaz.
 
 ## Etkileşim
 
@@ -49,7 +50,7 @@ Yeni varlık üretimi bu haftanın kapsamına girmez. HUM-0011'in mevcut üç g�
 - İlk çekim: sabit göz hizasında karar kaydı; hesap, yetki ve belirsizlik üç ayrı karttır. Bu kartlar dördüncü bir merkez oluşturmaz.
 - İkinci çekim: aynı hesap üzerinde iki onay ışığı görünürken yetki alanı boş kalır. Modellerin anlaşması ile bağımsız doğrulama görsel olarak karıştırılmaz.
 - Üçüncü çekim: seçime göre inceleme yolu aydınlanır; hiçbir insan, beyin veya inanç merkezi renkleriyle derecelendirilmez. Kapatma veya birleşmeye zorlama animasyonu yoktur.
-- Gelecek UI bütün bilgiyi metinle sunmalı; renk, ses, WebGL ve hareket zorunlu olmamalıdır. Bu paket bu görsel/erişilebilirlik kontrollerini henüz gerçekleştirmez.
+- Okuyucu bütün karar bilgisini metinle sunar; renk, ses, WebGL ve hareket zorunlu değildir. Gerçek ekran okuyucu ve yeni 3D sahne render testi ayrıca yapılmalıdır.
 
 ## Bilgi katmanları
 
@@ -63,10 +64,17 @@ Yerleşik bilim, gerçek mühendislik, yorum, felsefe, inanç/kültürel anlam v
 - Bilinç, ayrı ses ve ayrılma imkânı bilinmeyenken biliniyormuş gibi kaydedilmez.
 - Vazgeçme, tekrar onay ve önceki HUM-0011 seçimleri ek puan üretmez.
 - İki dilde sahne ve planlar bulunur; insan incelemesi tamamlanmış gibi işaretlenmez.
-- Terminal örneği ve tüm testler geçer. Canlı okuyucu entegrasyonu bu teslimata dahil değildir.
+- Terminal örneği, 28 HUM-0011 çekirdek/okuyucu testi ve derleme doğrulaması geçer.
 
-## Okuyucuya ileride bağlanırken
+## Okuyucu entegrasyonu — 23 Kasım 2026
 
-Bu çekirdek henüz web'e uygun bir modül değildir; Node `crypto` kaynak doğrulaması kullanır. İleride adaptör hazırlanırsa sandbox `confirm` sonucu ile okuyucunun `applyChoice` işlemi birlikte uygulanmamalıdır. Gerçek kayda yalnız mevcut okuyucu bir kez yazmalı; model/öykü yetki durumları oyuncu puanlarından bağımsız kalmalıdır.
+- `flow.js` terminal ve tarayıcının paylaştığı saf karar çekirdeğidir. `flow.cjs` Node tarafında kaynak blob pinlerini doğrular.
+- Derleyici kaynak dosyaları yeniden doğrular, sahneyi HUM-0011 veri paketine ekler ve aynı `flow.js` dosyasını `site/assets/hum0011-flow.v1.js` olarak kopyalar.
+- `web/assets/hum0011-authority-reader.v1.js` arayüzü bağlar. Okuyucuda sandbox `confirm` çalıştırılmaz; puanı yalnız mevcut `applyChoice` bir kez yazar.
+- Kaydedilmiş seçimler korunur. TR/EN dil değişiminde inceleme açık kalır; bekleyen onay sıfırlanır. Sahne dışındaki diller olağan seçim akışını kullanır.
+- Modül yüklenmezse etkin sahne seçimi kaydetmez. Uygulama ve kapatma yetkisi hiçbir seçimle değişmez.
+- Kaynak pinleri, derlenmiş sahne, paylaşılan dosyanın aynılığı ve script sırası derleme doğrulayıcısında kontrol edilir.
+- `web/index.html` uygulama dosyasını sabit eski sürüm sorgusuyla çağırmaz; derleyicinin içerik özeti yeni kod için önbellek anahtarını üretir.
+- Ana metin ve üç mevcut seçim değiştirilmedi. Görsel kompozisyon eski 3D sahneleri bozmaz; yeni biyolojik donanım veya beyin ağı üretilmez.
 
 License: CC-BY-SA-4.0. Turkish AI-assisted draft and English AI translation; human review pending.
