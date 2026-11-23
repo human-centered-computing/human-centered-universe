@@ -17,6 +17,12 @@ OBJECTION_DIR = ROOT / "experiments" / "hum0009-objection"
 objection_scene = json.loads((OBJECTION_DIR / "scene.json").read_text(encoding="utf-8"))
 # One shared decision core; only its browser factory is used by the reader.
 shutil.copyfile(OBJECTION_DIR / "flow.js", SITE / "assets" / "hum0009-flow.v1.js")
+AUTHORITY_DIR = ROOT / "experiments" / "hum0011-authority"
+authority_scene = json.loads((AUTHORITY_DIR / "scene.json").read_text(encoding="utf-8"))
+shutil.copyfile(AUTHORITY_DIR / "flow.js", SITE / "assets" / "hum0011-flow.v1.js")
+def git_blob_sha(path):
+    data = path.read_bytes()
+    return hashlib.sha1(b"blob " + str(len(data)).encode() + b"\0" + data).hexdigest()
 (SITE / ".nojekyll").write_text("", encoding="utf-8")
 
 universe_map = json.loads(MAP_PATH.read_text(encoding="utf-8")) if MAP_PATH.exists() else {}
@@ -140,6 +146,14 @@ for rec in records:
         if objection_scene.get("story_id") != meta["id"] or objection_scene.get("source_revision") != meta.get("revision", {}).get("version"):
             raise ValueError("HUM-0009 objection scene source revision mismatch")
         entry["objection_scene"] = objection_scene
+
+    if meta.get("id") == "HUM-0011":
+        pins = authority_scene["source"]
+        if (authority_scene.get("story_id") != meta["id"] or
+            git_blob_sha(rec["meta_path"]) != pins["meta_blob_sha"] or
+            git_blob_sha(content_dir / "tr.md") != pins["story_tr_blob_sha"]):
+            raise ValueError("HUM-0011 authority scene source mismatch")
+        entry["authority_scene"] = authority_scene
 
     entry["observation_order"] = mapped.get(
         "observation_order", meta.get("observation_order", meta.get("book_order", 9999))

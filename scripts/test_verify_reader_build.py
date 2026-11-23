@@ -47,6 +47,53 @@ class ReaderBuildTests(unittest.TestCase):
         target.write_text(value if isinstance(value, str) else json.dumps(value), encoding="utf-8")
     def save(self):
         self.write("site/data/universe.json", self.payload)
+    def install_authority(self):
+        meta = {"id": "HUM-0011", "status": "canon", "center_weights": {"HUMAN": 35, "LIGHT": 31, "DARK": 34},
+                "observer_choices": self.choices}
+        self.write("stories/human/HUM-0011/meta.json", meta)
+        self.write("stories/human/HUM-0011/content/tr.md", "Kaynak hikâye")
+        self.authority = {"story_id": "HUM-0011", "source": {
+            "meta_blob_sha": mod.git_blob_sha(self.root / "stories/human/HUM-0011/meta.json"),
+            "story_tr_blob_sha": mod.git_blob_sha(self.root / "stories/human/HUM-0011/content/tr.md")},
+            "epistemic_layers": {key: "note" for key in mod.LAYERS}, "spatial_brief": {"pillars": 12},
+            "plans": {key: {} for key in ("a", "b", "c")}}
+        self.write("experiments/hum0011-authority/scene.json", self.authority)
+        self.write("experiments/hum0011-authority/flow.js", "shared authority flow")
+        self.write("site/assets/hum0011-flow.v1.js", "shared authority flow")
+        self.write("site/assets/hum0011-authority-reader.v1.js", "// adapter")
+        index = (self.root / "site/index.html").read_text()
+        index = index.replace('<script src="./assets/app.js?v=1"></script>',
+            '<script src="./assets/hum0011-flow.v1.js"></script><script src="./assets/hum0011-authority-reader.v1.js"></script><script src="./assets/app.js?v=1"></script>')
+        self.write("site/index.html", index)
+        self.payload["stories"].append({**meta, "content": {"tr": "Kaynak hikâye", "en": "Story"}, "authority_scene": copy.deepcopy(self.authority)})
+        self.save()
+    def test_valid_authority_report(self):
+        self.install_authority()
+        report = mod.verify(self.root)
+        self.assertIn("authority_scene_source_pins", report["checks"])
+    def test_authority_source_drift(self):
+        self.install_authority()
+        self.write("stories/human/HUM-0011/content/tr.md", "Değişmiş hikâye")
+        with self.assertRaisesRegex(ValueError, "authority source pins mismatch"):
+            mod.verify(self.root)
+    def test_authority_missing_payload(self):
+        self.install_authority()
+        self.payload["stories"][-1].pop("authority_scene")
+        self.save()
+        with self.assertRaisesRegex(ValueError, "authority scene differs"):
+            mod.verify(self.root)
+    def test_authority_runtime_order(self):
+        self.install_authority()
+        index = (self.root / "site/index.html").read_text()
+        index = index.replace("hum0011-flow.v1.js", "temp.js").replace("hum0011-authority-reader.v1.js", "hum0011-flow.v1.js").replace("temp.js", "hum0011-authority-reader.v1.js")
+        self.write("site/index.html", index)
+        with self.assertRaisesRegex(ValueError, "authority runtime order"):
+            mod.verify(self.root)
+    def test_authority_runtime_content_drift(self):
+        self.install_authority()
+        self.write("site/assets/hum0011-flow.v1.js", "stale flow")
+        with self.assertRaisesRegex(ValueError, "authority shared flow copy differs"):
+            mod.verify(self.root)
     def test_valid_report(self):
         report = mod.verify(self.root)
         self.assertEqual(report["story_count"], 2)
