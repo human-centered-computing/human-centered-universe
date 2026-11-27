@@ -1,5 +1,7 @@
 # Translation System
 
+[English](README.md) · [Türkçe](README.tr.md) · [Deutsch](README.de.md) · [العربية](README.ar.md)
+
 ## Controlled source and canonical layer
 
 Translation production follows two controlled stages:
