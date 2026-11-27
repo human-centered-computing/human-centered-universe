@@ -1,5 +1,7 @@
 # Human-Centered Computing
 
+[English](README.md) · [Türkçe](README.tr.md) · [Deutsch](README.de.md) · [العربية](README.ar.md)
+
 **Open research. Open-source technology. Real-world transformation—designed around people.**
 
 Human-Centered Computing is an international open-source research and development community founded by **Murat Delen**.

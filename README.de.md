@@ -12,7 +12,7 @@
   <a href="README/README.ja.md">日本語</a>
 </p>
 
-> Englisch ist die kanonische Dokumentationssprache. Dies ist die deutsche README-Version.
+> Englisch ist die kanonische Dokumentationssprache. Dies ist eine deutschsprachige Übersicht; eine vollständige Übersetzung und menschliche Prüfung stehen noch aus. Die englische README bleibt maßgeblich.
 
 <p align="center">
   <img src="assets/hcu-three-centers-triangle.png" alt="HCU Drei-Zentren-Modell" width="900">
